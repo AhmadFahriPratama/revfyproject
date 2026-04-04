@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMK_AN_01",
+    "pertanyaan": "Prinsip animasi yang memberikan efek kelenturan pada objek saat bergerak (seperti bola yang memantul) disebut...",
+    "opsi": [
+      "Squash and Stretch",
+      "Anticipation",
+      "Staging",
+      "Follow Through",
+      "Slow In and Slow Out"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Squash and Stretch membuat gerakan benda terlihat lebih hidup dan memiliki massa."
+  },
+  {
+    "id": "SMK_AN_02",
+    "pertanyaan": "Prinsip animasi yang berupa gerakan persiapan sebelum gerakan utama dimulai disebut...",
+    "opsi": [
+      "Exaggeration",
+      "Anticipation (Antisipasi)",
+      "Timing",
+      "Appeal",
+      "Arc"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh antisipasi adalah menekuk lutut sejenak sebelum melompat."
+  },
+  {
+    "id": "SMK_AN_03",
+    "pertanyaan": "Berapa jumlah prinsip dasar animasi yang dikemukakan oleh para animator Disney (Frank Thomas & Ollie Johnston)?",
+    "opsi": [
+      "5",
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Terdapat 12 prinsip dasar animasi yang menjadi standar industri global."
+  },
+  {
+    "id": "SMK_AN_04",
+    "pertanyaan": "Teknik animasi 2D tertua di mana setiap gambar dibuat satu per satu pada lembaran kertas transparan disebut...",
+    "opsi": [
+      "CGI",
+      "Cut-out Animation",
+      "Stop Motion",
+      "Cel Animation",
+      "Rotoscoping"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Cel berasal dari kata Celluloid, bahan plastik transparan yang digunakan untuk menggambar karakter."
+  },
+  {
+    "id": "SMK_AN_05",
+    "pertanyaan": "Proses pembuatan kerangka atau sistem tulang pada objek 3D agar bisa digerakkan disebut...",
+    "opsi": [
+      "Modeling",
+      "Texturing",
+      "Rendering",
+      "Compositing",
+      "Rigging"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Rigging menghubungkan jahitan (mesh) karakter dengan sistem kendali (bones/controllers)."
+  },
+  {
+    "id": "SMK_AN_06",
+    "pertanyaan": "Gambar yang berisi alur cerita secara visual dalam bentuk panel-panel gambar disebut...",
+    "opsi": [
+      "Storyboard",
+      "Portfolio",
+      "Sketsa",
+      "Poster",
+      "Thumbnail"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Storyboard berfungsi sebagai panduan visual bagi sutradara dan tim produksi."
+  },
+  {
+    "id": "SMK_AN_07",
+    "pertanyaan": "Software gratis dan Open Source yang sangat populer digunakan untuk pembuatan animasi 3D adalah...",
+    "opsi": [
+      "Adobe Photoshop",
+      "Blender",
+      "Microsoft Word",
+      "CorelDRAW",
+      "AutoCAD"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Blender adalah toolkit 3D yang lengkap, mencakup modeling hingga video editing."
+  },
+  {
+    "id": "SMK_AN_08",
+    "pertanyaan": "Satuan standar kecepatan gambar dalam animasi yang biasa disebut FPS adalah singkatan dari...",
+    "opsi": [
+      "Fokus Per Detik",
+      "Filter Per Scene",
+      "Frames Per Second",
+      "Flash Per Signal",
+      "Film Per Sequence"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Standar bioskop biasanya menggunakan 24 FPS agar gerakan terlihat halus."
+  },
+  {
+    "id": "SMK_AN_09",
+    "pertanyaan": "Tahapan akhir dalam produksi 3D untuk memproses semua data digital menjadi gambar atau video final disebut...",
+    "opsi": [
+      "Scanning",
+      "Modeling",
+      "Drafting",
+      "Rendering",
+      "Sketching"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Rendering adalah proses komputer yang memakan waktu lama tergantung kompleksitas cahaya dan tekstur."
+  },
+  {
+    "id": "SMK_AN_10",
+    "pertanyaan": "Istilah bagi gerakan tambahan yang terjadi setelah gerakan utama berhenti (misal rambut yang tetap bergerak saat orang berhenti lari) adalah...",
+    "opsi": [
+      "Straight Ahead",
+      "Slow In",
+      "Appeal",
+      "Overlay",
+      "Follow Through"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Follow through memberikan kesan realistis pada objek yang memiliki inersia."
+  },
+  {
+    "id": "SMK_AN_11",
+    "pertanyaan": "Teknik animasi yang menggunakan benda nyata (seperti boneka tanah liat atau mainan) dan difoto satu per satu disebut...",
+    "opsi": [
+      "Stop Motion",
+      "Motion Capture",
+      "Anime",
+      "Vector Animation",
+      "Hybrid"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh film stop motion adalah Shaun the Sheep atau Coraline."
+  },
+  {
+    "id": "SMK_AN_12",
+    "pertanyaan": "Software standar industri untuk animasi 2D profesional yang sering digunakan studio kartun adalah...",
+    "opsi": [
+      "Excel",
+      "Toon Boom Harmony / Adobe Animate (dahulu Flash)",
+      "Paint",
+      "PowerPoint",
+      "VLC Player"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Toon Boom Harmony sangat andal untuk teknik 'Cut-out' dan 'Rigging 2D'."
+  },
+  {
+    "id": "SMK_AN_13",
+    "pertanyaan": "Proses menempelkan gambar atau warna pada permukaan model 3D agar terlihat nyata (misal tekstur kayu atau besi) disebut...",
+    "opsi": [
+      "Lightmapping",
+      "Sculpting",
+      "Texturing (UV Mapping)",
+      "Printing",
+      "Layering"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Texturing memberikan detail visual yang membuat model terlihat tidak polos."
+  },
+  {
+    "id": "SMK_AN_14",
+    "pertanyaan": "Istilah bagi gambar kunci atau gambar utama yang menentukan posisi awal dan akhir sebuah gerakan adalah...",
+    "opsi": [
+      "Masterframe",
+      "In-between",
+      "Draft",
+      "Keyframe",
+      "Blank"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Software animasi biasanya melakukan interpolasi otomatis antar dua keyframe."
+  },
+  {
+    "id": "SMK_AN_15",
+    "pertanyaan": "Proses membuat gambar-gambar penghubung antar keyframe agar gerakan terlihat mulus disebut...",
+    "opsi": [
+      "Outlining",
+      "Shading",
+      "Coloring",
+      "Erasing",
+      "In-betweening (Tweening)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "In-between menjaga kelancaran animasi di antara dua posisi utama."
+  },
+  {
+    "id": "SMK_AN_16",
+    "pertanyaan": "Apa itu 'Cinematography' dalam pembuatan animasi?",
+    "opsi": [
+      "Seni pengaturan kamera, sudut pandang (angle), dan pencahayaan dalam sebuah adegan",
+      "Cara menjual film",
+      "Teknik menggambar karakter",
+      "Cara mencetak poster",
+      "Pemberian suara dubbing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sinematografi yang baik membantu menyampaikan suasana emosional cerita."
+  },
+  {
+    "id": "SMK_AN_17",
+    "pertanyaan": "Latar belakang dalam animasi yang tidak bergerak (statis) sering disebut...",
+    "opsi": [
+      "Stage",
+      "Background (BG) / Matte Painting",
+      "Frontground",
+      "Skyline",
+      "Landscape"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Background biasanya digambar secara terpisah dari karakter agar lebih efisien."
+  },
+  {
+    "id": "SMK_AN_18",
+    "pertanyaan": "Teknik merekam gerakan manusia asli menggunakan sensor dan memindahkannya ke karakter digital disebut...",
+    "opsi": [
+      "Manual Keyframe",
+      "Tracing",
+      "Motion Capture (MoCap)",
+      "Scanning 3D",
+      "Live Action"
+    ],
+    "jawaban": 2,
+    "pembahasan": "MoCap sering digunakan untuk film VFX besar seperti Avatar atau game AAA."
+  },
+  {
+    "id": "SMK_AN_19",
+    "pertanyaan": "Sudut pandang kamera dari bawah ke atas sehingga objek terlihat besar dan berwibawa disebut...",
+    "opsi": [
+      "Eye Level",
+      "High Angle",
+      "Bird Eye View",
+      "Low Angle",
+      "Frog Eye"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Low angle memberikan kesan kekuatan atau keagungan pada karakter."
+  },
+  {
+    "id": "SMK_AN_20",
+    "pertanyaan": "Sudut pandang kamera dari atas ke bawah sehingga objek terlihat kecil dan lemah disebut...",
+    "opsi": [
+      "Low Angle",
+      "Eye Level",
+      "Side View",
+      "Panorama",
+      "High Angle"
+    ],
+    "jawaban": 4,
+    "pembahasan": "High angle sering digunakan untuk menunjukkan ketertekanan karakter."
+  },
+  {
+    "id": "SMK_AN_21",
+    "pertanyaan": "Pengaturan waktu (durasi) setiap gerakan agar terlihat alami dan logis dalam animasi disebut...",
+    "opsi": [
+      "Timing",
+      "Volume",
+      "Spacing",
+      "Speed",
+      "Balance"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Timing yang salah dapat membuat animasi terlihat kaku atau aneh."
+  },
+  {
+    "id": "SMK_AN_22",
+    "pertanyaan": "Apa perbedaan utama animasi 2D dan 3D secara teknis?",
+    "opsi": [
+      "2D lebih mahal",
+      "2D bekerja di sumbu X dan Y, sedangkan 3D menambah sumbu Z (kedalaman)",
+      "3D tidak butuh gambar tangan",
+      "2D hanya untuk anak-anak",
+      "3D hanya ada di bioskop"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Elemen sumbu Z memungkinkan objek 3D dapat dilihat dari berbagai sudut pandang."
+  },
+  {
+    "id": "SMK_AN_23",
+    "pertanyaan": "Dalam permodelan 3D, teknik membuat objek dengan cara menarik atau menekan permukaan (seperti tanah liat digital) disebut...",
+    "opsi": [
+      "Extrude",
+      "Insetting",
+      "Sculpting",
+      "Beveling",
+      "Bridging"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Digital sculpting memungkinkan pembuatan detail organik yang sangat rumit."
+  },
+  {
+    "id": "SMK_AN_24",
+    "pertanyaan": "Format file video standar yang sering digunakan untuk ekspor hasil akhir animasi adalah...",
+    "opsi": [
+      "MP3",
+      "JPG",
+      "PDF",
+      "MP4",
+      "ZIP"
+    ],
+    "jawaban": 3,
+    "pembahasan": "MP4 (H.264) memiliki kompresi yang baik dengan kualitas tajam."
+  },
+  {
+    "id": "SMK_AN_25",
+    "pertanyaan": "Pekerjaan dalam tim animasi yang bertugas menggabungkan berbagai elemen (BG, Karakter, Efek) menjadi satu kesatuan visual disebut...",
+    "opsi": [
+      "Animator",
+      "Modeler",
+      "Rigger",
+      "Director",
+      "Compositor"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Compositing dilakukan di software seperti After Effects atau Nuke."
+  },
+  {
+    "id": "SMK_AN_26",
+    "pertanyaan": "Warna dasar dalam sistem digital (monitor) adalah RGB, yang merupakan singkatan dari...",
+    "opsi": [
+      "Red, Green, Blue",
+      "Red, Gray, Black",
+      "Royal, Green, Brown",
+      "Random, Garnish, Bold",
+      "Red, Gold, Bronze"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pencampuran warna RGB menghasilkan jutaan warna di layar komputer."
+  },
+  {
+    "id": "SMK_AN_27",
+    "pertanyaan": "Proses menjiplak gerakan dari video 'Live Action' asli menjadi animasi kartun disebut...",
+    "opsi": [
+      "Scanning",
+      "Rotoscoping",
+      "Tracing",
+      "Blocking",
+      "Polishing"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Rotoscoping menghasilkan gerakan yang sangat realistis."
+  },
+  {
+    "id": "SMK_AN_28",
+    "pertanyaan": "Apa fungsi dari 'Appeal' dalam 12 prinsip animasi?",
+    "opsi": [
+      "Memperpanjang durasi film",
+      "Membuat karakter jadi seram",
+      "Memberikan daya tarik atau kharisma pada karakter agar menarik ditonton",
+      "Mengurangi jumlah gambar",
+      "Menambah biaya produksi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Karakter yang memiliki appeal kuat akan lebih disukai oleh penonton (bukan berarti harus cantik/ganteng)."
+  },
+  {
+    "id": "SMK_AN_29",
+    "pertanyaan": "Kegiatan pemberian suara (dialog) oleh pengisi suara pada karakter animasi disebut...",
+    "opsi": [
+      "Editing",
+      "Rendering",
+      "Rigging",
+      "Dubbing (Voice Over)",
+      "Modeling"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Dubbing harus sinkron dengan gerakan bibir (Lip Sync) karakter."
+  },
+  {
+    "id": "SMK_AN_30",
+    "pertanyaan": "Seni menenangkan visual dan membuang elemen yang tidak perlu agar penonton fokus pada aksi utama disebut...",
+    "opsi": [
+      "Exaggeration",
+      "Timing",
+      "Appeal",
+      "Anticipation",
+      "Staging"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Staging memastikan ide cerita tersampaikan dengan jelas lewat komposisi gambar."
+  },
+  {
+    "id": "SMK_AN_31",
+    "pertanyaan": "Software pengolah gambar raster yang sering digunakan untuk mewarnai karakter 2D adalah...",
+    "opsi": [
+      "Adobe Photoshop",
+      "Excel",
+      "Notepad",
+      "AutoCAD",
+      "Unity"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Photoshop memiliki banyak brush dan layer yang memudahkan artist."
+  },
+  {
+    "id": "SMK_AN_32",
+    "pertanyaan": "Istilah bagi pergerakan kamera yang mengikuti objek secara mendatar (kiri ke kanan atau sebaliknya) disebut...",
+    "opsi": [
+      "Tilt",
+      "Pan (Panning)",
+      "Zoom",
+      "Dollying",
+      "Crane"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Panning meniru gerakan kepala manusia menoleh ke samping."
+  },
+  {
+    "id": "SMK_AN_33",
+    "pertanyaan": "Istilah bagi pergerakan kamera yang mengarah ke atas atau ke bawah disebut...",
+    "opsi": [
+      "Zoom",
+      "Pan",
+      "Tilt",
+      "Spin",
+      "Slide"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tilting Up (ke atas) atau Tilting Down (ke bawah)."
+  },
+  {
+    "id": "SMK_AN_34",
+    "pertanyaan": "Apa guna 'Anticipation' pada gerakan karakter saat akan memukul?",
+    "opsi": [
+      "Langsung memukul tanpa gaya",
+      "Karakter langsung lari",
+      "Karakter tertawa",
+      "Menarik tangan ke belakang terlebih dahulu sebagai tenaga awal",
+      "Lampu mati"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Antisipasi memberi tahu penonton apa yang akan terjadi selanjutnya."
+  },
+  {
+    "id": "SMK_AN_35",
+    "pertanyaan": "Sebuah model 3D yang memiliki jumlah titik (poligon) sangat sedikit disebut...",
+    "opsi": [
+      "High Poly",
+      "Med Poly",
+      "Zero Poly",
+      "Flat Poly",
+      "Low Poly"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Low poly sering digunakan untuk game agar performa tetap ringan."
+  },
+  {
+    "id": "SMK_AN_36",
+    "pertanyaan": "Bidang dalam 3D yang menghubungkan tiga atau lebih titik (vertices) disebut...",
+    "opsi": [
+      "Face (Poligon)",
+      "Edge",
+      "Vertex",
+      "Bone",
+      "Camera"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kumpulan Face membentuk sebuah objek 3D (Mesh)."
+  },
+  {
+    "id": "SMK_AN_37",
+    "pertanyaan": "Tahap pengolahan suara agar musik, efek suara (SFX), dan dialog pas volumenya disebut...",
+    "opsi": [
+      "Modeling",
+      "Sound Mixing",
+      "Rendering",
+      "Texturing",
+      "Rigging"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mixing memastikan suara tidak saling bertabrakan atau terlalu keras sebelah."
+  },
+  {
+    "id": "SMK_AN_38",
+    "pertanyaan": "Efek suara buatan yang ditambahkan untuk memperkuat kesan nyata (misal suara langkah kaki, pedang beradu) disebut...",
+    "opsi": [
+      "BGM",
+      "Dubbing",
+      "Foley / SFX",
+      "Echo",
+      "Bass"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Foley artist merekam suara manual di studio menggunakan benda-benda sekitar."
+  },
+  {
+    "id": "SMK_AN_39",
+    "pertanyaan": "Apa itu 'Arc' dalam prinsip animasi?",
+    "opsi": [
+      "Gerakan kaku",
+      "Gerakan memutar",
+      "Gerakan lompat",
+      "Gerakan yang mengikuti pola melengkung agar terlihat alami",
+      "Gerakan tidur"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hampir semua gerakan makhluk hidup di dunia nyata memiliki alur melengkung (arc)."
+  },
+  {
+    "id": "SMK_AN_40",
+    "pertanyaan": "Melebih-lebihkan sebuah ekspresi atau gerakan agar terlihat lebih dramatis atau lucu merupakan prinsip...",
+    "opsi": [
+      "Appeal",
+      "Timing",
+      "Staging",
+      "Anticipation",
+      "Exaggeration"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: Mata yang keluar saat kaget atau mulut yang sangat lebar saat tertawa."
+  },
+  {
+    "id": "SMK_AN_41",
+    "pertanyaan": "Manakah software yang khusus digunakan untuk Video Editing?",
+    "opsi": [
+      "Adobe Premiere Pro",
+      "Microsoft Word",
+      "Maya",
+      "ZBrush",
+      "Audacity"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Premiere digunakan untuk merangkai klip hasil animasi menjadi film utuh."
+  },
+  {
+    "id": "SMK_AN_42",
+    "pertanyaan": "Apa singkatan dari VFX?",
+    "opsi": [
+      "Visual Fixed X-ray",
+      "Visual Effects",
+      "Video Form X-large",
+      "Voice Fast X-factor",
+      "Vektor File X-axis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "VFX menambahkan elemen yang sulit atau tidak mungkin dibuat secara manual saat syuting."
+  },
+  {
+    "id": "SMK_AN_43",
+    "pertanyaan": "Teknik pencahayaan standar di mana terdapat tiga titik lampu utama disebut...",
+    "opsi": [
+      "One Point Lighting",
+      "Five Point Lighting",
+      "Three Point Lighting",
+      "Natural Lighting",
+      "Studio Lighting"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Terdiri dari Key Light, Fill Light, dan Back Light."
+  },
+  {
+    "id": "SMK_AN_44",
+    "pertanyaan": "Software pemodelan 3D yang sering digunakan untuk detail organik seperti lipatan kulit atau kerutan baju adalah...",
+    "opsi": [
+      "Excel",
+      "Windows Explorer",
+      "Skype",
+      "ZBrush",
+      "PowerPoint"
+    ],
+    "jawaban": 3,
+    "pembahasan": "ZBrush adalah raja di bidang permodelan organik dengan jumlah poligon jutaan."
+  },
+  {
+    "id": "SMK_AN_45",
+    "pertanyaan": "Istilah bagi gerakan karakter yang berjalan di tempat (kaki bergerak tapi badan tidak pindah lokasi) disebut...",
+    "opsi": [
+      "Running",
+      "Flying",
+      "Jumping",
+      "Sliding",
+      "Walk Cycle"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Walk cycle dibuat loop (berulang) untuk menghemat waktu animasi perjalanan jauh."
+  },
+  {
+    "id": "SMK_AN_46",
+    "pertanyaan": "Pada proses pre-produksi, kegiatan menentukan wujud fisik karakter (pakaian, rambut, wajah) disebut...",
+    "opsi": [
+      "Character Design",
+      "Modeling",
+      "Casting",
+      "Rendering",
+      "Marketing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Character design yang unik sangat penting untuk branding sebuah film."
+  },
+  {
+    "id": "SMK_AN_47",
+    "pertanyaan": "Proses menyalin naskah cerita menjadi rekaman suara sebelum animasi digambar agar durasi animasi pas disebut...",
+    "opsi": [
+      "Final Dubbing",
+      "Scratch Track / Voice Guide",
+      "SFX",
+      "Subtitle",
+      "Credit Title"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Voice guide membantu animator menyesuaikan durasi gerakan dengan durasi bicara."
+  },
+  {
+    "id": "SMK_AN_48",
+    "pertanyaan": "Asas di mana bagian tubuh karakter yang memiliki kelenturan akan tertinggal sejenak saat tubuh utama melesat maju disebut...",
+    "opsi": [
+      "Squash",
+      "Scaling",
+      "Overlap / Overlapping Action",
+      "Anticipation",
+      "Straight Ahead"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Gerakan ini saling tumpang tindih untuk menciptakan kesan alami."
+  },
+  {
+    "id": "SMK_AN_49",
+    "pertanyaan": "Gelar keahlian atau profesi lulusan SMK Seni Animasi adalah...",
+    "opsi": [
+      "Operator Mesin",
+      "Manager Bank",
+      "Sopir",
+      "Junior Animator / Artist Digital",
+      "Penjual lukisan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Siswa dididik siap bekerja di studio animasi, game, atau media periklanan."
+  },
+  {
+    "id": "SMK_AN_50",
+    "pertanyaan": "Apa manfaat belajar prinsip animasi di RevStudy bagi siswa SMK?",
+    "opsi": [
+      "Supaya jago main game",
+      "Biar bisa beli kamera mahal",
+      "Hanya supaya dapet nilai",
+      "Iseng saja",
+      "Membantu memahami fundamental teknis agar karya animasi lebih berkualitas dan profesional"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Fundamental yang kuat adalah dasar bagi karir artist di industri kreatif."
+  }
+]

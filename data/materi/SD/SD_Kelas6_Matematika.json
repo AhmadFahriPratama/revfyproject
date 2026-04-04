@@ -1,0 +1,30 @@
+{
+  "id": "materi-sd-kls6-mat",
+  "tingkat": "SD Kelas 6",
+  "mapel": "Matematika",
+  "materi": "Bilangan Bulat Negatif, Lingkaran, Bangun Ruang Campuran, dan Statistika Lanjut",
+  "deskripsi": "Materi Matematika Kelas 6 SD mencakup pengenalan bilangan bulat negatif, operasi hitung campuran, unsur-unsur dan keliling/luas lingkaran, luas permukaan serta volume bangun ruang gabungan, hingga mean, median, modus dalam statistika.",
+  "konten": [
+    {
+      "bab": "1. Bilangan Bulat",
+      "teks": "Membaca dan menulis bilangan bulat negatif dan positif. Melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian bilangan bulat menggunakan garis bilangan atau secara langsung."
+    },
+    {
+      "bab": "2. Operasi Hitung Campuran Pecahan dan Desimal",
+      "teks": "Menyelesaikan masalah sehari-hari yang melibatkan operasi hitung campuran dari pecahan, desimal, dan persentase."
+    },
+    {
+      "bab": "3. Unsur, Keliling, dan Luas Lingkaran",
+      "teks": "Menjelaskan unsur-unsur lingkaran (titik pusat, jari-jari, diameter, busur, tali busur, tembereng, juring). Menghitung keliling (π x d) dan luas (π x r²) lingkaran."
+    },
+    {
+      "bab": "4. Bangun Ruang (Prisma, Tabung, Limas, Kerucut, Bola)",
+      "teks": "Mengenal sifat-sifat bangun ruang. Menghitung luas permukaan dan volume masing-masing bangun ruang serta gabungan dari dua bangun ruang."
+    },
+    {
+      "bab": "5. Statistika (Mean, Median, Modus)",
+      "teks": "Menentukan rata-rata (mean), nilai tengah (median), dan nilai yang paling sering muncul (modus) dari sekumpulan data tunggal."
+    }
+  ],
+  "tag": ["sd-6", "matematika", "bilangan-bulat", "lingkaran", "bangun-ruang", "statistika"]
+}

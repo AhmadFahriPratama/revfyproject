@@ -1,0 +1,30 @@
+{
+  "id": "materi-sd-kls6-bi",
+  "tingkat": "SD Kelas 6",
+  "mapel": "Bahasa Indonesia",
+  "materi": "Pidato Persuasif, Teks Laporan Investigasi, Formulir, dan Menyimpulkan Teks",
+  "deskripsi": "Materi Bahasa Indonesia Kelas 6 melatih siswa menyusun dan menyampaikan pidato, menyajikan teks laporan hasil investigasi/pengamatan, memahami isi dari berbagai formulir, serta menceritakan kembali isi cerita fiksi/nonfiksi.",
+  "konten": [
+    {
+      "bab": "1. Teks Laporan Hasil Pengamatan (Investigasi)",
+      "teks": "Menyimpulkan informasi berdasarkan teks laporan hasil pengamatan yang didengar atau dibaca. Menuliskan laporan investigasi dengan struktur: fakta, data, dan kesimpulan."
+    },
+    {
+      "bab": "2. Pidato Persuasif",
+      "teks": "Menggali informasi dan pesan dari sebuah pidato. Menulis naskah pidato persuasi (ajakan) dengan struktur yang benar: pembukaan (salam, sapaan, puji syukur), isi, dan penutup."
+    },
+    {
+      "bab": "3. Mengisi Formulir Berbagai Jenis",
+      "teks": "Mencermati dan mengisi berbagai bentuk formulir seperti pendaftaran lomba, lembar jawaban ujian, daftar riwayat hidup, wesel pos, dan slip tabungan bank."
+    },
+    {
+      "bab": "4. Menyimpulkan dan Menilai Teks Fiksi",
+      "teks": "Mengaitkan peristiwa dalam cerita fiksi pendek dengan pengalaman pribadi. Menilai watak tokoh, latar, dan amanat dari sebuah cerita fantasi atau legenda."
+    },
+    {
+      "bab": "5. Teks Reklame (Brosur, Spanduk, Embalase)",
+      "teks": "Membedakan dan menganalisis macam-macam reklame komersial maupun nonkomersial. Memahami ciri khas brosur, spanduk, baliho, dan embalase produk."
+    }
+  ],
+  "tag": ["sd-6", "bahasa-indonesia", "pidato", "laporan", "formulir", "reklame"]
+}

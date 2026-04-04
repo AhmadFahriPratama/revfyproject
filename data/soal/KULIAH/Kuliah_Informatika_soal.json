@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_IF_01",
+    "pertanyaan": "Notasi yang digunakan untuk mendeskripsikan efisiensi waktu atau ruang sebuah algoritma dalam skenario terburuk disebut...",
+    "opsi": [
+      "Big O Notation",
+      "Small O",
+      "Theta Notation",
+      "Omega Notation",
+      "Binary Notation"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Big O memberikan batas atas (upper bound) dari kompleksitas waktu sebuah algoritma."
+  },
+  {
+    "id": "KU_IF_02",
+    "pertanyaan": "Algoritma pengurutan (sorting) yang bekerja dengan prinsip 'divide and conquer' dan memiliki rata-rata kompleksitas O(n log n) adalah...",
+    "opsi": [
+      "Bubble Sort",
+      "Merge Sort",
+      "Selection Sort",
+      "Insertion Sort",
+      "Bogo Sort"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Merge Sort membagi array menjadi dua bagian, mengurutkannya, lalu menggabungkannya kembali."
+  },
+  {
+    "id": "KU_IF_03",
+    "pertanyaan": "Struktur data non-linear yang terdiri dari simpul (nodes) dan sisi (edges) yang mungkin membentuk siklus disebut...",
+    "opsi": [
+      "Stack",
+      "Queue",
+      "Graph",
+      "Linked List",
+      "Array"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Graph digunakan untuk memodelkan jaringan pertemanan, rute jalan, atau struktur internet."
+  },
+  {
+    "id": "KU_IF_04",
+    "pertanyaan": "Algoritma pencarian pada graph yang mengunjungi semua tetangga simpul saat ini sebelum berpindah ke tingkat berikutnya disebut...",
+    "opsi": [
+      "Depth First Search (DFS)",
+      "Linear Search",
+      "Binary Search",
+      "Breadth First Search (BFS)",
+      "Dijkstra"
+    ],
+    "jawaban": 3,
+    "pembahasan": "BFS menggunakan struktur data Queue untuk mengelola simpul yang akan dikunjungi."
+  },
+  {
+    "id": "KU_IF_05",
+    "pertanyaan": "Struktur data LIFO (Last In First Out) di mana elemen terakhir yang masuk adalah yang pertama keluar adalah...",
+    "opsi": [
+      "Queue",
+      "Hash Table",
+      "Tree",
+      "Heap",
+      "Stack (Tumpukan)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh penggunaan stack adalah fungsi Undo pada aplikasi teks atau pemanggilan fungsi (recursion)."
+  },
+  {
+    "id": "KU_IF_06",
+    "pertanyaan": "Kondisi di mana dua atau lebih proses saling menunggu sumber daya yang dipegang oleh proses lain sehingga tidak ada yang bisa berjalan disebut...",
+    "opsi": [
+      "Deadlock",
+      "Starvation",
+      "Fragmentation",
+      "Paging",
+      "Context Switch"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Deadlock memerlukan strategi pencegahan (prevention) atau penghindaran (avoidance) seperti algoritma Banker."
+  },
+  {
+    "id": "KU_IF_07",
+    "pertanyaan": "Manajemen memori yang membagi memori fisik menjadi blok-blok berukuran tetap disebut...",
+    "opsi": [
+      "Segmentation",
+      "Paging",
+      "Caching",
+      "Buffering",
+      "Mounting"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Paging memungkinkan penggunaan memori fisik yang tidak berurutan dan implementasi virtual memory."
+  },
+  {
+    "id": "KU_IF_08",
+    "pertanyaan": "Inti atau bagian terkecil dari sistem operasi yang berfungsi mengelola perangkat keras dan menyediakan layanan dasar bagi aplikasi disebut...",
+    "opsi": [
+      "Shell",
+      "BIOS",
+      "Kernel",
+      "Driver",
+      "Compiler"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kernel mengatur CPU scheduling, memori, dan I/O."
+  },
+  {
+    "id": "KU_IF_09",
+    "pertanyaan": "Dalam basis data relasional, proses untuk meminimalisir redundansi data dan mencegah anomali disebut...",
+    "opsi": [
+      "Indexing",
+      "Join",
+      "Trigger",
+      "Normalisasi",
+      "Migration"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Normalisasi biasanya dilakukan sampai tahap 3NF (Third Normal Form) atau BCNF."
+  },
+  {
+    "id": "KU_IF_10",
+    "pertanyaan": "Query SQL yang digunakan untuk mengambil data dari dua tabel berbeda berdasarkan kolom yang berkaitan disebut...",
+    "opsi": [
+      "GROUP BY",
+      "HAVING",
+      "WHERE",
+      "ORDER BY",
+      "JOIN"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: INNER JOIN, LEFT JOIN, atau RIGHT JOIN."
+  },
+  {
+    "id": "KU_IF_11",
+    "pertanyaan": "Sistem basis data NoSQL yang menyimpan data dalam format seperti JSON adalah...",
+    "opsi": [
+      "Document-Oriented (misal MongoDB)",
+      "Key-Value Store",
+      "Graph Database",
+      "Wide Column",
+      "Relational"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Document store fleksibel karena tidak memerlukan skema yang kaku (schemaless)."
+  },
+  {
+    "id": "KU_IF_12",
+    "pertanyaan": "Karakteristik transaksi basis data yang menjamin transaksi harus berhasil sepenuhnya atau tidak sama sekali disebut...",
+    "opsi": [
+      "Consistency",
+      "Atomicity",
+      "Isolation",
+      "Durability",
+      "Availability"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Atomicity adalah bagian dari prinsip ACID dalam database."
+  },
+  {
+    "id": "KU_IF_13",
+    "pertanyaan": "Lapisan pada model OSI yang bertanggung jawab untuk pengiriman data end-to-end dan kontrol aliran (flow control) seperti protokol TCP adalah...",
+    "opsi": [
+      "Physical Layer",
+      "Data Link Layer",
+      "Transport Layer",
+      "Network Layer",
+      "Application Layer"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Transport layer mengatur segmentasi dan reassembly data."
+  },
+  {
+    "id": "KU_IF_14",
+    "pertanyaan": "Protokol yang digunakan untuk menautkan nama domain (misal google.com) ke alamat IP adalah...",
+    "opsi": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "DNS (Domain Name System)",
+      "DHCP"
+    ],
+    "jawaban": 3,
+    "pembahasan": "DNS bertindak sebagai 'buku telepon' internet."
+  },
+  {
+    "id": "KU_IF_15",
+    "pertanyaan": "Metode enkripsi yang menggunakan satu kunci yang sama untuk proses enkripsi dan dekripsi disebut enkripsi...",
+    "opsi": [
+      "Asimetris",
+      "Hashing",
+      "Encoding",
+      "Masking",
+      "Simetris"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh enkripsi simetris adalah AES (Advanced Encryption Standard)."
+  },
+  {
+    "id": "KU_IF_16",
+    "pertanyaan": "Protokol transmisi data di internet yang aman (terenkripsi) dengan penggunaan SSL/TLS adalah...",
+    "opsi": [
+      "HTTPS",
+      "HTTP",
+      "SSH",
+      "Telnet",
+      "RDP"
+    ],
+    "jawaban": 0,
+    "pembahasan": "HTTPS melindungi integritas dan kerahasiaan data pengguna."
+  },
+  {
+    "id": "KU_IF_17",
+    "pertanyaan": "Cabang kecerdasan buatan (AI) yang fokus pada pengembangan algoritma yang dapat belajar dari data secara mandiri disebut...",
+    "opsi": [
+      "Expert System",
+      "Machine Learning",
+      "Robotics",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Machine learning menggunakan data historis untuk memprediksi hasil di masa depan."
+  },
+  {
+    "id": "KU_IF_18",
+    "pertanyaan": "Jenis pembelajaran Machine Learning di mana model dilatih menggunakan data yang sudah memiliki label (target) disebut...",
+    "opsi": [
+      "Unsupervised Learning",
+      "Reinforcement Learning",
+      "Supervised Learning",
+      "Clustering",
+      "Deep Learning"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh supervised learning: Klasifikasi email spam atau prediksi harga rumah."
+  },
+  {
+    "id": "KU_IF_19",
+    "pertanyaan": "Struktur machine learning yang terinspirasi dari cara kerja saraf manusia disebut...",
+    "opsi": [
+      "Decision Tree",
+      "Support Vector Machine",
+      "K-Nearest Neighbors",
+      "Neural Networks",
+      "Linear Regression"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Neural networks adalah dasar dari teknologi Deep Learning."
+  },
+  {
+    "id": "KU_IF_20",
+    "pertanyaan": "Teknologi yang memungkinkan komputer untuk memahami dan mengolah bahasa manusia (teks/suara) disebut...",
+    "opsi": [
+      "CV (Computer Vision)",
+      "IoT",
+      "Blockchain",
+      "Data Mining",
+      "NLP (Natural Language Processing)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh NLP: ChatGPT, Google Translate, dan asisten virtual."
+  },
+  {
+    "id": "KU_IF_21",
+    "pertanyaan": "Konsep jaringan perangkat fisik yang terhubung ke internet dan dapat bertukar data secara otomatis disebut...",
+    "opsi": [
+      "Internet of Things (IoT)",
+      "Big Data",
+      "Cloud Computing",
+      "Edge Computing",
+      "5G"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh IoT: Smart home, sensor industri, dan smart city."
+  },
+  {
+    "id": "KU_IF_22",
+    "pertanyaan": "Penyediaan sumber daya komputasi (server, storage, database) melalui internet dengan model bayar sesuai pemakaian disebut...",
+    "opsi": [
+      "On-premise",
+      "Cloud Computing",
+      "SaaS",
+      "VPS",
+      "Colocation"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Layanan cloud populer: AWS, GCP, Azure, dan Alibaba Cloud."
+  },
+  {
+    "id": "KU_IF_23",
+    "pertanyaan": "Serangan siber yang membanjiri server dengan trafik palsu hingga server tersebut tumbang/tidak bisa diakses disebut...",
+    "opsi": [
+      "Phishing",
+      "Malware",
+      "DDoS (Distributed Denial of Service)",
+      "SQL Injection",
+      "Cross Site Scripting"
+    ],
+    "jawaban": 2,
+    "pembahasan": "DDoS menggunakan ribuan komputer (botnet) untuk menyerang satu target."
+  },
+  {
+    "id": "KU_IF_24",
+    "pertanyaan": "Fase dalam pengembangan perangkat lunak (SDLC) setelah pengkodean (coding) selesai dilakukan adalah...",
+    "opsi": [
+      "Planning",
+      "Analysis",
+      "Maintenance",
+      "Testing (Pengujian)",
+      "Requirements"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Testing memastikan fungsionalitas dan keamanan perangkat lunak sebelum dirilis."
+  },
+  {
+    "id": "KU_IF_25",
+    "pertanyaan": "Metodologi pengembangan perangkat lunak yang bersifat iteratif, cepat, dan berfokus pada kolaborasi tim disebut...",
+    "opsi": [
+      "Waterfall",
+      "Spiral",
+      "V-Model",
+      "Linear",
+      "Agile"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Agile memungkinkan perubahan kebutuhan di tengah proses pengembangan."
+  },
+  {
+    "id": "KU_IF_26",
+    "pertanyaan": "Dalam paradigma Pemrograman Berorientasi Objek (OOP), kemampuan sebuah kelas untuk mewarisi sifat dari kelas lain disebut...",
+    "opsi": [
+      "Inheritance (Pewarisan)",
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction",
+      "Instantiation"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Inheritance mendukun penggunaan kembali kode (code reuse)."
+  },
+  {
+    "id": "KU_IF_27",
+    "pertanyaan": "Prinsip OOP yang menyembunyikan detail implementasi dan hanya menampilkan fungsi penting kepada pengguna disebut...",
+    "opsi": [
+      "Inheritance",
+      "Abstraction (Abstraksi)",
+      "Overloading",
+      "Overriding",
+      "Looping"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Abstraksi menyederhanakan kompleksitas sistem bagi pengguna akhir."
+  },
+  {
+    "id": "KU_IF_28",
+    "pertanyaan": "Apa keunggulan utama arsitektur Microservices dibanding arsitektur Monolitik?",
+    "opsi": [
+      "Lebih mudah dipelajari pemula",
+      "Harganya lebih murah",
+      "Skalabilitas independen (setiap layanan bisa dikembangkan/dideploy terpisah)",
+      "Gak butuh database",
+      "Bisa jalan tanpa internet"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Microservices cocok untuk aplikasi skala besar dengan banyak tim pengembang."
+  },
+  {
+    "id": "KU_IF_29",
+    "pertanyaan": "Bahasa pemrograman yang sangat populer digunakan untuk analisis data dan Machine Learning saat ini adalah...",
+    "opsi": [
+      "Cobol",
+      "PHP",
+      "Visual Basic",
+      "Python",
+      "Object Pascal"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Python memiliki library kaya seperti Scikit-learn, TensorFlow, dan PyTorch."
+  },
+  {
+    "id": "KU_IF_30",
+    "pertanyaan": "Teknologi buku besar terdistribusi yang mendasari mata uang kripto (cryptocurrency) disebut...",
+    "opsi": [
+      "Fintech",
+      "E-Wallet",
+      "Cryptography",
+      "Encryption",
+      "Blockchain"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Blockchain menjamin transparansi dan keamanan data tanpa otoritas pusat."
+  },
+  {
+    "id": "KU_IF_31",
+    "pertanyaan": "Alat kontrol versi kode sumber (Version Control System) yang paling banyak digunakan developer dunia adalah...",
+    "opsi": [
+      "Git",
+      "SVN",
+      "FTP",
+      "Dropbox",
+      "Google Drive"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Git membantu tim mengelola perubahan kode secara kolaboratif."
+  },
+  {
+    "id": "KU_IF_32",
+    "pertanyaan": "Layanan hosting repositori Git yang populer adalah, kecuali...",
+    "opsi": [
+      "GitHub",
+      "Instagram",
+      "GitLab",
+      "Bitbucket",
+      "Azure DevOps"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Instagram adalah media sosial, bukan layanan version control."
+  },
+  {
+    "id": "KU_IF_33",
+    "pertanyaan": "Dalam arsitektur web, bagian yang berinteraksi langsung dengan pengguna (tampilan dan logika di browser) disebut...",
+    "opsi": [
+      "Backend",
+      "Database",
+      "Frontend",
+      "API",
+      "Server"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Frontend dibangun menggunakan HTML, CSS, dan JavaScript/Framework (React, Vue, Angular)."
+  },
+  {
+    "id": "KU_IF_34",
+    "pertanyaan": "Bagian aplikasi yang berjalan di server, mengolah data, dan berhubungan dengan database disebut...",
+    "opsi": [
+      "Frontend",
+      "UI/UX Design",
+      "Client-side",
+      "Backend",
+      "Browser"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Backend sering menggunakan bahasa seperti Node.js, Go, Java, atau PHP."
+  },
+  {
+    "id": "KU_IF_35",
+    "pertanyaan": "Perantara yang memungkinkan dua aplikasi untuk saling berkomunikasi dan bertukar data disebut...",
+    "opsi": [
+      "CPU",
+      "RAM",
+      "GPU",
+      "SATA",
+      "API (Application Programming Interface)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "REST API dan GraphQL adalah standar komunikasi data antar aplikasi modern."
+  },
+  {
+    "id": "KU_IF_36",
+    "pertanyaan": "Satuan unit data terkecil dalam sistem komputer digital adalah...",
+    "opsi": [
+      "Bit (Binary Digit)",
+      "Byte",
+      "Kilobyte",
+      "Megabyte",
+      "Gigabyte"
+    ],
+    "jawaban": 0,
+    "pembahasan": "1 Bit bernilai 0 atau 1. 8 Bit setara dengan 1 Byte."
+  },
+  {
+    "id": "KU_IF_37",
+    "pertanyaan": "Memori komputer yang bersifat volatile (data hilang saat listrik mati) dan digunakan untuk menyimpan data aplikasi yang sedang berjalan adalah...",
+    "opsi": [
+      "Hard Disk",
+      "RAM (Random Access Memory)",
+      "SSD",
+      "Flash Drive",
+      "ROM"
+    ],
+    "jawaban": 1,
+    "pembahasan": "RAM memungkinkan CPU mengakses data dengan sangat cepat."
+  },
+  {
+    "id": "KU_IF_38",
+    "pertanyaan": "Perangkat keras yang bertugas melakukan pengolahan grafis dan render visual secara intensif disebut...",
+    "opsi": [
+      "CPU",
+      "Sound Card",
+      "GPU (Graphics Processing Unit)",
+      "Ethernet",
+      "PSU"
+    ],
+    "jawaban": 2,
+    "pembahasan": "GPU sangat penting untuk gaming, desain grafis, dan training model AI."
+  },
+  {
+    "id": "KU_IF_39",
+    "pertanyaan": "Arsitektur komputer di mana CPU mengolah instruksi dan data dalam satu memori yang sama disebut arsitektur...",
+    "opsi": [
+      "Harvard",
+      "RISC",
+      "CISC",
+      "Von Neumann",
+      "Quantum"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hampir semua komputer modern mengadopsi prinsip Von Neumann dasar."
+  },
+  {
+    "id": "KU_IF_40",
+    "pertanyaan": "Jenis penyimpanan data permanen (non-volatile) yang paling cepat saat ini adalah...",
+    "opsi": [
+      "HDD (Hard Disk Drive)",
+      "Floppy Disk",
+      "CD-ROM",
+      "SD Card",
+      "SSD NVMe"
+    ],
+    "jawaban": 4,
+    "pembahasan": "SSD (Solid State Drive) menggunakan memori flash tanpa bagian mekanik yang bergerak."
+  },
+  {
+    "id": "KU_IF_41",
+    "pertanyaan": "Apa itu 'Virtualization' dalam komputasi?",
+    "opsi": [
+      "Teknologi yang memungkinkan satu komputer fisik menjalankan beberapa sistem operasi sekaligus (VM)",
+      "Memperbaiki komputer rusak",
+      "Membuat video game",
+      "Menonton film VR",
+      "Membersihkan virus"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Virtualisasi mengoptimalkan penggunaan sumber daya server fisik."
+  },
+  {
+    "id": "KU_IF_42",
+    "pertanyaan": "Teknologi isolasi aplikasi yang lebih ringan dari VM karena berbagi kernel sistem operasi yang sama disebut...",
+    "opsi": [
+      "Hypervisor",
+      "Container (misal Docker)",
+      "Dual Boot",
+      "Emulasi",
+      "Mirroring"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Docker memungkinkan aplikasi berjalan identik di semua lingkungan (laptop, staging, prod)."
+  },
+  {
+    "id": "KU_IF_43",
+    "pertanyaan": "Protokol yang digunakan untuk mentransfer file antar komputer di jaringan disebut...",
+    "opsi": [
+      "HTTP",
+      "SMTP",
+      "FTP (File Transfer Protocol)",
+      "SNMP",
+      "ICMP"
+    ],
+    "jawaban": 2,
+    "pembahasan": "SFTP adalah versi yang lebih aman dari FTP."
+  },
+  {
+    "id": "KU_IF_44",
+    "pertanyaan": "Simbol biner '101' jika dikonversi ke sistem bilangan desimal bernilai...",
+    "opsi": [
+      "3",
+      "4",
+      "101",
+      "5",
+      "1"
+    ],
+    "jawaban": 3,
+    "pembahasan": "(1 * 2^2) + (0 * 2^1) + (1 * 2^0) = 4 + 0 + 1 = 5."
+  },
+  {
+    "id": "KU_IF_45",
+    "pertanyaan": "Sistem bilangan berbasis 16 yang sering digunakan dalam pengalamatan memori atau warna web disebut...",
+    "opsi": [
+      "Biner",
+      "Oktal",
+      "Desimal",
+      "Unari",
+      "Heksadesimal"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Heksadesimal menggunakan angka 0-9 dan huruf A-F."
+  },
+  {
+    "id": "KU_IF_46",
+    "pertanyaan": "Dalam desain UI/UX, singkatan 'UX' berarti...",
+    "opsi": [
+      "User Experience (Pengalaman Pengguna)",
+      "User Xenon",
+      "Universal X-ray",
+      "Unit X",
+      "Under X-over"
+    ],
+    "jawaban": 0,
+    "pembahasan": "UX fokus pada kenyamanan, kemudahan, dan efisiensi interaksi pengguna dengan produk."
+  },
+  {
+    "id": "KU_IF_47",
+    "pertanyaan": "Protokol pengiriman email yang umum digunakan adalah...",
+    "opsi": [
+      "HTTP",
+      "SMTP (Simple Mail Transfer Protocol)",
+      "ICMP",
+      "ARP",
+      "IP"
+    ],
+    "jawaban": 1,
+    "pembahasan": "SMTP bertugas mengirim email ke server tujuan."
+  },
+  {
+    "id": "KU_IF_48",
+    "pertanyaan": "Keamanan jaringan yang memfilter lalu lintas data masuk dan keluar berdasarkan aturan tertentu disebut...",
+    "opsi": [
+      "VPN",
+      "Antivirus",
+      "Firewall",
+      "Spyware",
+      "Proxy"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Firewall mencegah akses yang tidak sah ke dalam jaringan internal."
+  },
+  {
+    "id": "KU_IF_49",
+    "pertanyaan": "Apa singkatan dari URL?",
+    "opsi": [
+      "Universal Resource Link",
+      "Unit Radio Locator",
+      "User Response Line",
+      "Uniform Resource Locator",
+      "Unique Router Link"
+    ],
+    "jawaban": 3,
+    "pembahasan": "URL adalah alamat unik untuk mengakses sumber daya di web."
+  },
+  {
+    "id": "KU_IF_50",
+    "pertanyaan": "Kompetensi utama lulusan Teknik Informatika adalah...",
+    "opsi": [
+      "Memasak",
+      "Berlari cepat",
+      "Menyanyi merdu",
+      "Mencuci baju",
+      "Problem Solving (Pemecahan Masalah) melalui algoritma dan teknologi komputer"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Coding hanyalah alat; logika dan pemecahan masalah adalah intinya."
+  }
+]

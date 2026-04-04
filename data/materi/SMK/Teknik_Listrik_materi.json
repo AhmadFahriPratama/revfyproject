@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Teknik Ketenagalistrikan",
+  "tingkatan": "SMK",
+  "jurusan": "Teknik / Listrik",
+  "deskripsi": "Materi mengenai teori dasar listrik (Arus, Tegangan, Hambatan), hukum Ohm dan Kirchhoff, alat ukur listrik, instalasi penerangan, serta keselamatan kerja listrik.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Besaran dan Satuan Listrik",
+      "konten": "Pengenalan atom (proton, elektron, neutron), muatan listrik. Besaran utama: Tegangan (Volt), Arus (Ampere), Hambatan (Ohm), serta Daya (Watt). Konversi satuan listrik standar.",
+      "tag": [
+        "teknik listrik materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Hukum Dasar Kelistrikan",
+      "konten": "Hukum Ohm (V=IxR), Hukum Kirchhoff I (Arus masuk=keluar) dan II (Tegangan pada loop tertutup). Perhitungan rangkaian seri, paralel, dan campuran.",
+      "tag": [
+        "teknik listrik materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Alat Ukur Listrik",
+      "konten": "Penggunaan Multimeter (AVO Meter) untuk mengukur tegangan, arus, dan hambatan. Pengenalan Wattmeter, Megger (tes isolasi), serta Tang Ampere untuk pengukuran tanpa memutus kabel.",
+      "tag": [
+        "teknik listrik materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Komponen dan Simbol Instalasi",
+      "konten": "Pengenalan kabel (NYA, NYM, NYY), sakelar (tunggal, seri, tukar), fiting lampu, stop kontak, serta pengaman otomatis (MCB). Membaca diagram satu garis (Single Line Diagram).",
+      "tag": [
+        "teknik listrik materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Keselamatan Kerja Listrik (K3 Listrik)",
+      "konten": "Bahaya sengatan listrik (shock), prosedur pembumian (grounding), penggunaan alat pelindung diri (sarung tangan isolator, sepatu sol karet), serta prosedur LOTO (Lock Out Tag Out).",
+      "tag": [
+        "teknik listrik materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "teknik-listrik-materi",
+  "mapel": "Dasar-Dasar Teknik Ketenagalistrikan",
+  "tag": [
+    "teknik listrik materi"
+  ]
+}

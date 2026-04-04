@@ -1,0 +1,34 @@
+{
+  "id": "materi-smp-kls7-ipa",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "IPA",
+  "materi": "Objek IPA, Klasifikasi Makhluk Hidup, Zat dan Kalor, Tata Surya",
+  "deskripsi": "Materi Ilmu Pengetahuan Alam (IPA) Kelas 7 yang mencakup pengamatan ilmiah, pemahaman tentang zat, energi, lingkungan, dan antariksa.",
+  "konten": [
+    {
+      "bab": "1. Objek IPA dan Pengamatannya",
+      "teks": "Mempelajari metode ilmiah, penyelidikan IPA, dan pengukuran dasar menggunakan besaran pokok dan turunan."
+    },
+    {
+      "bab": "2. Klasifikasi Makhluk Hidup",
+      "teks": "Mengidentifikasi ciri-ciri makhluk hidup dan menggunakan kunci determinasi untuk mengklasifikasikan makhluk hidup pada berbagai kingdom."
+    },
+    {
+      "bab": "3. Klasifikasi Materi dan Perubahannya",
+      "teks": "Membedakan unsur, senyawa, dan campuran. Membedakan perubahan fisika dan perubahan kimia pada materi."
+    },
+    {
+      "bab": "4. Suhu dan Kalor",
+      "teks": "Memahami konsep suhu, pemuaian, dan macam-macam perpindahan kalor (konduksi, konveksi, radiasi)."
+    },
+    {
+      "bab": "5. Energi dalam Sistem Kehidupan",
+      "teks": "Mengenal berbagai sumber energi, transformasi energi, respirasi, dan pencernaan makanan dasar."
+    },
+    {
+      "bab": "6. Tata Surya",
+      "teks": "Mempelajari komponen tata surya, rotasi dan revolusi bumi serta bulan, dan dampaknya bagi kehidupan di bumi."
+    }
+  ],
+  "tag": ["smp-7", "ipa", "besaran-pengukuran", "zat-kalor", "tata-surya", "makhluk-hidup"]
+}

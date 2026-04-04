@@ -1,0 +1,708 @@
+{
+  "id": "smp-7-pai",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "PAI",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-7-pai-01",
+      "teks": "Sifat Allah SWT yang Maha Mendengar segala sesuatu di alam semesta disebut... (Latihan #1)",
+      "opsi": {
+        "A": "As-Sami'",
+        "B": "Al-Basir",
+        "C": "Al-'Alim",
+        "D": "Al-Khabir",
+        "E": "Al-Aziz"
+      },
+      "kunci": "A",
+      "pembahasan": "As-Sami' berarti Allah Yang Maha Mendengar. Apapun yang diucapkan baik lisan maupun batin pasti didengar oleh Allah.",
+      "trik": "Sami'n (dari kata sami'a) berarti mendengar. Basir = melihat."
+    },
+    {
+      "id": "smp-7-pai-02",
+      "teks": "Hukum melaksanakan salat fardu (lima waktu) bagi setiap muslim yang sudah balig dan berakal sehat adalah... (Latihan #2)",
+      "opsi": {
+        "A": "Fardu Kifayah",
+        "B": "Fardu Ain",
+        "C": "Sunah Muakkad",
+        "D": "Mubah",
+        "E": "Makruh"
+      },
+      "kunci": "B",
+      "pembahasan": "Salat lima waktu adalah kewajiban pribadi yang tidak bisa diwakilkan kepada orang lain, karenanya dihukumi fardu ain.",
+      "trik": "Fardu Ain = Kewajiban individu. Fardu Kifayah = Kewajiban kolektif (spt salat jenazah)."
+    },
+    {
+      "id": "smp-7-pai-03",
+      "teks": "Jamaah atau makmum yang tertinggal bacaan Al-Fatihah imam atau tertinggal rakaat bersama imam disebut... (Latihan #3)",
+      "opsi": {
+        "A": "Muazin",
+        "B": "Muwafiq",
+        "C": "Masbuk",
+        "D": "Munfarid",
+        "E": "Khatib"
+      },
+      "kunci": "C",
+      "pembahasan": "Makmum masbuk adalah makmum yang tidak sempat membaca Al-Fatihah secara sempurna bersama imam atau tertinggal rakaat.",
+      "trik": "Masbuk = Tertinggal. Muwafiq = Tepat waktu/mengikuti dari awal. Munfarid = Sendiri."
+    },
+    {
+      "id": "smp-7-pai-04",
+      "teks": "Berikut ini yang merupakan contoh najis mutawassitah (sedang) adalah... (Latihan #4)",
+      "opsi": {
+        "A": "Air liur anjing",
+        "B": "Air kencing bayi laki-laki berumur kurang dari 2 th yang cuma minum ASI",
+        "C": "Jilatan babi",
+        "D": "Kotoran ayam",
+        "E": "Darah yang tersisa sedikit di daging"
+      },
+      "kunci": "D",
+      "pembahasan": "Najis mutawassitah adalah najis sedang, spt kotoran hewan halal/haram yg bukan darah, bangkai dsj. Air liur anjing adalah berat (mughallazah). Air kencing bayi laki-laki (spt deskripsi) adalah ringan (mukhaffafah).",
+      "trik": "Kotoran hewan biasa = najis sedang (mutawassitah)."
+    },
+    {
+      "id": "smp-7-pai-05",
+      "teks": "Paman Nabi Muhammad SAW yang sangat gigih memusuhi dakwah Islam sejak di Makkah (bahkan kisahnya diabadikan dalam Al-Qur'an surah Al-Lahab) adalah... (Latihan #5)",
+      "opsi": {
+        "A": "Abu Thalib",
+        "B": "Abu Jahal",
+        "C": "Abu Sofyan",
+        "D": "Hamzah",
+        "E": "Abu Lahab"
+      },
+      "kunci": "E",
+      "pembahasan": "Abu Lahab (Abdul Uzza) dan istrinya terus-menerus menentang Nabi. Kutukan untuknya turun dlm Surah Al-Lahab (Al-Masad).",
+      "trik": "Nama surah kutukannya sama dengan namanya (Abu Lahab - Surah Al-Lahab)."
+    },
+    {
+      "id": "smp-7-pai-06",
+      "teks": "Merasakan apa yang dirasakan orang lain dan ikut berbela sungkawa atau membantu adalah wujud dari sikap... (Latihan #6)",
+      "opsi": {
+        "A": "Empati",
+        "B": "Optimis",
+        "C": "Syukur",
+        "D": "Tawakal",
+        "E": "Riya"
+      },
+      "kunci": "A",
+      "pembahasan": "Empati berarti kemampuan untuk merasakan keadaan emosional/pikiran orang lain.",
+      "trik": "Ikut merasakan penderitaan orang lain = Empati."
+    },
+    {
+      "id": "smp-7-pai-07",
+      "teks": "Dalam pelaksanaan salat berjamaah yang diikuti makmum laki-laki dan perempuan, posisi shaf yang paling belakang seharusnya ditempati oleh... (Latihan #7)",
+      "opsi": {
+        "A": "Laki-laki dewasa",
+        "B": "Perempuan (dewasa dan anak)",
+        "C": "Anak laki-laki",
+        "D": "Laki-laki lanjut usia",
+        "E": "Imam pengganti"
+      },
+      "kunci": "B",
+      "pembahasan": "Urutan shaf ideal: Laki-laki dewasa (depan), anak laki-laki, lalu perempuan.",
+      "trik": "Perempuan di belakang shaf laki-laki untuk menjaga khusyuk/pandangan."
+    },
+    {
+      "id": "smp-7-pai-08",
+      "teks": "Istilah bersuci dari hadas besar secara syariat Islam dengan cara mengalirkan air ke seluruh tubuh disebut... (Latihan #8)",
+      "opsi": {
+        "A": "Wudu",
+        "B": "Tayamum",
+        "C": "Mandi Wajib (Janabah)",
+        "D": "Istinja",
+        "E": "Berkumur"
+      },
+      "kunci": "C",
+      "pembahasan": "Hadas besar hanya bisa disucikan dengan mandi wajib (ghusl) yang meratakan air dari ujung rambut hingga kaki.",
+      "trik": "Hadas kecil = wudu. Hadas besar = mandi wajib."
+    },
+    {
+      "id": "smp-7-pai-09",
+      "teks": "Surah pertama yang diturunkan kepada Nabi Muhammad SAW di Gua Hira adalah... (Latihan #9)",
+      "opsi": {
+        "A": "Al-Fatihah",
+        "B": "Al-Mudassir",
+        "C": "Al-Baqarah",
+        "D": "Al-'Alaq ayat 1-5",
+        "E": "An-Nas"
+      },
+      "kunci": "D",
+      "pembahasan": "Surah Al-'Alaq ayat 1-5 ('Iqra') adalah wahyu pertama Nabi Muhammad SAW.",
+      "trik": "Wahyu pertama perintah 'Membaca' = Iqra (Al-'Alaq)."
+    },
+    {
+      "id": "smp-7-pai-10",
+      "teks": "Niat salat dilakukan bersamaan dengan... (Latihan #10)",
+      "opsi": {
+        "A": "Rukuk",
+        "B": "Sujud",
+        "C": "Salam",
+        "D": "Membaca Al-Fatihah",
+        "E": "Takbiratul Ihram"
+      },
+      "kunci": "E",
+      "pembahasan": "Niat (qashd) secara hati dihadirkan bersamaan dengan ucapan Takbiratul Ihram pada awal salat.",
+      "trik": "Awal masuk salat adalah Takbiratul Ihram, maka Niat dibarengkan saat itu."
+    },
+    {
+      "id": "smp-7-pai-11",
+      "teks": "Sifat Allah SWT yang Maha Mendengar segala sesuatu di alam semesta disebut... (Latihan #11)",
+      "opsi": {
+        "A": "As-Sami'",
+        "B": "Al-Basir",
+        "C": "Al-'Alim",
+        "D": "Al-Khabir",
+        "E": "Al-Aziz"
+      },
+      "kunci": "A",
+      "pembahasan": "As-Sami' berarti Allah Yang Maha Mendengar. Apapun yang diucapkan baik lisan maupun batin pasti didengar oleh Allah.",
+      "trik": "Sami'n (dari kata sami'a) berarti mendengar. Basir = melihat."
+    },
+    {
+      "id": "smp-7-pai-12",
+      "teks": "Hukum melaksanakan salat fardu (lima waktu) bagi setiap muslim yang sudah balig dan berakal sehat adalah... (Latihan #12)",
+      "opsi": {
+        "A": "Fardu Kifayah",
+        "B": "Fardu Ain",
+        "C": "Sunah Muakkad",
+        "D": "Mubah",
+        "E": "Makruh"
+      },
+      "kunci": "B",
+      "pembahasan": "Salat lima waktu adalah kewajiban pribadi yang tidak bisa diwakilkan kepada orang lain, karenanya dihukumi fardu ain.",
+      "trik": "Fardu Ain = Kewajiban individu. Fardu Kifayah = Kewajiban kolektif (spt salat jenazah)."
+    },
+    {
+      "id": "smp-7-pai-13",
+      "teks": "Jamaah atau makmum yang tertinggal bacaan Al-Fatihah imam atau tertinggal rakaat bersama imam disebut... (Latihan #13)",
+      "opsi": {
+        "A": "Muazin",
+        "B": "Muwafiq",
+        "C": "Masbuk",
+        "D": "Munfarid",
+        "E": "Khatib"
+      },
+      "kunci": "C",
+      "pembahasan": "Makmum masbuk adalah makmum yang tidak sempat membaca Al-Fatihah secara sempurna bersama imam atau tertinggal rakaat.",
+      "trik": "Masbuk = Tertinggal. Muwafiq = Tepat waktu/mengikuti dari awal. Munfarid = Sendiri."
+    },
+    {
+      "id": "smp-7-pai-14",
+      "teks": "Berikut ini yang merupakan contoh najis mutawassitah (sedang) adalah... (Latihan #14)",
+      "opsi": {
+        "A": "Air liur anjing",
+        "B": "Air kencing bayi laki-laki berumur kurang dari 2 th yang cuma minum ASI",
+        "C": "Jilatan babi",
+        "D": "Kotoran ayam",
+        "E": "Darah yang tersisa sedikit di daging"
+      },
+      "kunci": "D",
+      "pembahasan": "Najis mutawassitah adalah najis sedang, spt kotoran hewan halal/haram yg bukan darah, bangkai dsj. Air liur anjing adalah berat (mughallazah). Air kencing bayi laki-laki (spt deskripsi) adalah ringan (mukhaffafah).",
+      "trik": "Kotoran hewan biasa = najis sedang (mutawassitah)."
+    },
+    {
+      "id": "smp-7-pai-15",
+      "teks": "Paman Nabi Muhammad SAW yang sangat gigih memusuhi dakwah Islam sejak di Makkah (bahkan kisahnya diabadikan dalam Al-Qur'an surah Al-Lahab) adalah... (Latihan #15)",
+      "opsi": {
+        "A": "Abu Thalib",
+        "B": "Abu Jahal",
+        "C": "Abu Sofyan",
+        "D": "Hamzah",
+        "E": "Abu Lahab"
+      },
+      "kunci": "E",
+      "pembahasan": "Abu Lahab (Abdul Uzza) dan istrinya terus-menerus menentang Nabi. Kutukan untuknya turun dlm Surah Al-Lahab (Al-Masad).",
+      "trik": "Nama surah kutukannya sama dengan namanya (Abu Lahab - Surah Al-Lahab)."
+    },
+    {
+      "id": "smp-7-pai-16",
+      "teks": "Merasakan apa yang dirasakan orang lain dan ikut berbela sungkawa atau membantu adalah wujud dari sikap... (Latihan #16)",
+      "opsi": {
+        "A": "Empati",
+        "B": "Optimis",
+        "C": "Syukur",
+        "D": "Tawakal",
+        "E": "Riya"
+      },
+      "kunci": "A",
+      "pembahasan": "Empati berarti kemampuan untuk merasakan keadaan emosional/pikiran orang lain.",
+      "trik": "Ikut merasakan penderitaan orang lain = Empati."
+    },
+    {
+      "id": "smp-7-pai-17",
+      "teks": "Dalam pelaksanaan salat berjamaah yang diikuti makmum laki-laki dan perempuan, posisi shaf yang paling belakang seharusnya ditempati oleh... (Latihan #17)",
+      "opsi": {
+        "A": "Laki-laki dewasa",
+        "B": "Perempuan (dewasa dan anak)",
+        "C": "Anak laki-laki",
+        "D": "Laki-laki lanjut usia",
+        "E": "Imam pengganti"
+      },
+      "kunci": "B",
+      "pembahasan": "Urutan shaf ideal: Laki-laki dewasa (depan), anak laki-laki, lalu perempuan.",
+      "trik": "Perempuan di belakang shaf laki-laki untuk menjaga khusyuk/pandangan."
+    },
+    {
+      "id": "smp-7-pai-18",
+      "teks": "Istilah bersuci dari hadas besar secara syariat Islam dengan cara mengalirkan air ke seluruh tubuh disebut... (Latihan #18)",
+      "opsi": {
+        "A": "Wudu",
+        "B": "Tayamum",
+        "C": "Mandi Wajib (Janabah)",
+        "D": "Istinja",
+        "E": "Berkumur"
+      },
+      "kunci": "C",
+      "pembahasan": "Hadas besar hanya bisa disucikan dengan mandi wajib (ghusl) yang meratakan air dari ujung rambut hingga kaki.",
+      "trik": "Hadas kecil = wudu. Hadas besar = mandi wajib."
+    },
+    {
+      "id": "smp-7-pai-19",
+      "teks": "Surah pertama yang diturunkan kepada Nabi Muhammad SAW di Gua Hira adalah... (Latihan #19)",
+      "opsi": {
+        "A": "Al-Fatihah",
+        "B": "Al-Mudassir",
+        "C": "Al-Baqarah",
+        "D": "Al-'Alaq ayat 1-5",
+        "E": "An-Nas"
+      },
+      "kunci": "D",
+      "pembahasan": "Surah Al-'Alaq ayat 1-5 ('Iqra') adalah wahyu pertama Nabi Muhammad SAW.",
+      "trik": "Wahyu pertama perintah 'Membaca' = Iqra (Al-'Alaq)."
+    },
+    {
+      "id": "smp-7-pai-20",
+      "teks": "Niat salat dilakukan bersamaan dengan... (Latihan #20)",
+      "opsi": {
+        "A": "Rukuk",
+        "B": "Sujud",
+        "C": "Salam",
+        "D": "Membaca Al-Fatihah",
+        "E": "Takbiratul Ihram"
+      },
+      "kunci": "E",
+      "pembahasan": "Niat (qashd) secara hati dihadirkan bersamaan dengan ucapan Takbiratul Ihram pada awal salat.",
+      "trik": "Awal masuk salat adalah Takbiratul Ihram, maka Niat dibarengkan saat itu."
+    },
+    {
+      "id": "smp-7-pai-21",
+      "teks": "Sifat Allah SWT yang Maha Mendengar segala sesuatu di alam semesta disebut... (Latihan #21)",
+      "opsi": {
+        "A": "As-Sami'",
+        "B": "Al-Basir",
+        "C": "Al-'Alim",
+        "D": "Al-Khabir",
+        "E": "Al-Aziz"
+      },
+      "kunci": "A",
+      "pembahasan": "As-Sami' berarti Allah Yang Maha Mendengar. Apapun yang diucapkan baik lisan maupun batin pasti didengar oleh Allah.",
+      "trik": "Sami'n (dari kata sami'a) berarti mendengar. Basir = melihat."
+    },
+    {
+      "id": "smp-7-pai-22",
+      "teks": "Hukum melaksanakan salat fardu (lima waktu) bagi setiap muslim yang sudah balig dan berakal sehat adalah... (Latihan #22)",
+      "opsi": {
+        "A": "Fardu Kifayah",
+        "B": "Fardu Ain",
+        "C": "Sunah Muakkad",
+        "D": "Mubah",
+        "E": "Makruh"
+      },
+      "kunci": "B",
+      "pembahasan": "Salat lima waktu adalah kewajiban pribadi yang tidak bisa diwakilkan kepada orang lain, karenanya dihukumi fardu ain.",
+      "trik": "Fardu Ain = Kewajiban individu. Fardu Kifayah = Kewajiban kolektif (spt salat jenazah)."
+    },
+    {
+      "id": "smp-7-pai-23",
+      "teks": "Jamaah atau makmum yang tertinggal bacaan Al-Fatihah imam atau tertinggal rakaat bersama imam disebut... (Latihan #23)",
+      "opsi": {
+        "A": "Muazin",
+        "B": "Muwafiq",
+        "C": "Masbuk",
+        "D": "Munfarid",
+        "E": "Khatib"
+      },
+      "kunci": "C",
+      "pembahasan": "Makmum masbuk adalah makmum yang tidak sempat membaca Al-Fatihah secara sempurna bersama imam atau tertinggal rakaat.",
+      "trik": "Masbuk = Tertinggal. Muwafiq = Tepat waktu/mengikuti dari awal. Munfarid = Sendiri."
+    },
+    {
+      "id": "smp-7-pai-24",
+      "teks": "Berikut ini yang merupakan contoh najis mutawassitah (sedang) adalah... (Latihan #24)",
+      "opsi": {
+        "A": "Air liur anjing",
+        "B": "Air kencing bayi laki-laki berumur kurang dari 2 th yang cuma minum ASI",
+        "C": "Jilatan babi",
+        "D": "Kotoran ayam",
+        "E": "Darah yang tersisa sedikit di daging"
+      },
+      "kunci": "D",
+      "pembahasan": "Najis mutawassitah adalah najis sedang, spt kotoran hewan halal/haram yg bukan darah, bangkai dsj. Air liur anjing adalah berat (mughallazah). Air kencing bayi laki-laki (spt deskripsi) adalah ringan (mukhaffafah).",
+      "trik": "Kotoran hewan biasa = najis sedang (mutawassitah)."
+    },
+    {
+      "id": "smp-7-pai-25",
+      "teks": "Paman Nabi Muhammad SAW yang sangat gigih memusuhi dakwah Islam sejak di Makkah (bahkan kisahnya diabadikan dalam Al-Qur'an surah Al-Lahab) adalah... (Latihan #25)",
+      "opsi": {
+        "A": "Abu Thalib",
+        "B": "Abu Jahal",
+        "C": "Abu Sofyan",
+        "D": "Hamzah",
+        "E": "Abu Lahab"
+      },
+      "kunci": "E",
+      "pembahasan": "Abu Lahab (Abdul Uzza) dan istrinya terus-menerus menentang Nabi. Kutukan untuknya turun dlm Surah Al-Lahab (Al-Masad).",
+      "trik": "Nama surah kutukannya sama dengan namanya (Abu Lahab - Surah Al-Lahab)."
+    },
+    {
+      "id": "smp-7-pai-26",
+      "teks": "Merasakan apa yang dirasakan orang lain dan ikut berbela sungkawa atau membantu adalah wujud dari sikap... (Latihan #26)",
+      "opsi": {
+        "A": "Empati",
+        "B": "Optimis",
+        "C": "Syukur",
+        "D": "Tawakal",
+        "E": "Riya"
+      },
+      "kunci": "A",
+      "pembahasan": "Empati berarti kemampuan untuk merasakan keadaan emosional/pikiran orang lain.",
+      "trik": "Ikut merasakan penderitaan orang lain = Empati."
+    },
+    {
+      "id": "smp-7-pai-27",
+      "teks": "Dalam pelaksanaan salat berjamaah yang diikuti makmum laki-laki dan perempuan, posisi shaf yang paling belakang seharusnya ditempati oleh... (Latihan #27)",
+      "opsi": {
+        "A": "Laki-laki dewasa",
+        "B": "Perempuan (dewasa dan anak)",
+        "C": "Anak laki-laki",
+        "D": "Laki-laki lanjut usia",
+        "E": "Imam pengganti"
+      },
+      "kunci": "B",
+      "pembahasan": "Urutan shaf ideal: Laki-laki dewasa (depan), anak laki-laki, lalu perempuan.",
+      "trik": "Perempuan di belakang shaf laki-laki untuk menjaga khusyuk/pandangan."
+    },
+    {
+      "id": "smp-7-pai-28",
+      "teks": "Istilah bersuci dari hadas besar secara syariat Islam dengan cara mengalirkan air ke seluruh tubuh disebut... (Latihan #28)",
+      "opsi": {
+        "A": "Wudu",
+        "B": "Tayamum",
+        "C": "Mandi Wajib (Janabah)",
+        "D": "Istinja",
+        "E": "Berkumur"
+      },
+      "kunci": "C",
+      "pembahasan": "Hadas besar hanya bisa disucikan dengan mandi wajib (ghusl) yang meratakan air dari ujung rambut hingga kaki.",
+      "trik": "Hadas kecil = wudu. Hadas besar = mandi wajib."
+    },
+    {
+      "id": "smp-7-pai-29",
+      "teks": "Surah pertama yang diturunkan kepada Nabi Muhammad SAW di Gua Hira adalah... (Latihan #29)",
+      "opsi": {
+        "A": "Al-Fatihah",
+        "B": "Al-Mudassir",
+        "C": "Al-Baqarah",
+        "D": "Al-'Alaq ayat 1-5",
+        "E": "An-Nas"
+      },
+      "kunci": "D",
+      "pembahasan": "Surah Al-'Alaq ayat 1-5 ('Iqra') adalah wahyu pertama Nabi Muhammad SAW.",
+      "trik": "Wahyu pertama perintah 'Membaca' = Iqra (Al-'Alaq)."
+    },
+    {
+      "id": "smp-7-pai-30",
+      "teks": "Niat salat dilakukan bersamaan dengan... (Latihan #30)",
+      "opsi": {
+        "A": "Rukuk",
+        "B": "Sujud",
+        "C": "Salam",
+        "D": "Membaca Al-Fatihah",
+        "E": "Takbiratul Ihram"
+      },
+      "kunci": "E",
+      "pembahasan": "Niat (qashd) secara hati dihadirkan bersamaan dengan ucapan Takbiratul Ihram pada awal salat.",
+      "trik": "Awal masuk salat adalah Takbiratul Ihram, maka Niat dibarengkan saat itu."
+    },
+    {
+      "id": "smp-7-pai-31",
+      "teks": "Sifat Allah SWT yang Maha Mendengar segala sesuatu di alam semesta disebut... (Latihan #31)",
+      "opsi": {
+        "A": "As-Sami'",
+        "B": "Al-Basir",
+        "C": "Al-'Alim",
+        "D": "Al-Khabir",
+        "E": "Al-Aziz"
+      },
+      "kunci": "A",
+      "pembahasan": "As-Sami' berarti Allah Yang Maha Mendengar. Apapun yang diucapkan baik lisan maupun batin pasti didengar oleh Allah.",
+      "trik": "Sami'n (dari kata sami'a) berarti mendengar. Basir = melihat."
+    },
+    {
+      "id": "smp-7-pai-32",
+      "teks": "Hukum melaksanakan salat fardu (lima waktu) bagi setiap muslim yang sudah balig dan berakal sehat adalah... (Latihan #32)",
+      "opsi": {
+        "A": "Fardu Kifayah",
+        "B": "Fardu Ain",
+        "C": "Sunah Muakkad",
+        "D": "Mubah",
+        "E": "Makruh"
+      },
+      "kunci": "B",
+      "pembahasan": "Salat lima waktu adalah kewajiban pribadi yang tidak bisa diwakilkan kepada orang lain, karenanya dihukumi fardu ain.",
+      "trik": "Fardu Ain = Kewajiban individu. Fardu Kifayah = Kewajiban kolektif (spt salat jenazah)."
+    },
+    {
+      "id": "smp-7-pai-33",
+      "teks": "Jamaah atau makmum yang tertinggal bacaan Al-Fatihah imam atau tertinggal rakaat bersama imam disebut... (Latihan #33)",
+      "opsi": {
+        "A": "Muazin",
+        "B": "Muwafiq",
+        "C": "Masbuk",
+        "D": "Munfarid",
+        "E": "Khatib"
+      },
+      "kunci": "C",
+      "pembahasan": "Makmum masbuk adalah makmum yang tidak sempat membaca Al-Fatihah secara sempurna bersama imam atau tertinggal rakaat.",
+      "trik": "Masbuk = Tertinggal. Muwafiq = Tepat waktu/mengikuti dari awal. Munfarid = Sendiri."
+    },
+    {
+      "id": "smp-7-pai-34",
+      "teks": "Berikut ini yang merupakan contoh najis mutawassitah (sedang) adalah... (Latihan #34)",
+      "opsi": {
+        "A": "Air liur anjing",
+        "B": "Air kencing bayi laki-laki berumur kurang dari 2 th yang cuma minum ASI",
+        "C": "Jilatan babi",
+        "D": "Kotoran ayam",
+        "E": "Darah yang tersisa sedikit di daging"
+      },
+      "kunci": "D",
+      "pembahasan": "Najis mutawassitah adalah najis sedang, spt kotoran hewan halal/haram yg bukan darah, bangkai dsj. Air liur anjing adalah berat (mughallazah). Air kencing bayi laki-laki (spt deskripsi) adalah ringan (mukhaffafah).",
+      "trik": "Kotoran hewan biasa = najis sedang (mutawassitah)."
+    },
+    {
+      "id": "smp-7-pai-35",
+      "teks": "Paman Nabi Muhammad SAW yang sangat gigih memusuhi dakwah Islam sejak di Makkah (bahkan kisahnya diabadikan dalam Al-Qur'an surah Al-Lahab) adalah... (Latihan #35)",
+      "opsi": {
+        "A": "Abu Thalib",
+        "B": "Abu Jahal",
+        "C": "Abu Sofyan",
+        "D": "Hamzah",
+        "E": "Abu Lahab"
+      },
+      "kunci": "E",
+      "pembahasan": "Abu Lahab (Abdul Uzza) dan istrinya terus-menerus menentang Nabi. Kutukan untuknya turun dlm Surah Al-Lahab (Al-Masad).",
+      "trik": "Nama surah kutukannya sama dengan namanya (Abu Lahab - Surah Al-Lahab)."
+    },
+    {
+      "id": "smp-7-pai-36",
+      "teks": "Merasakan apa yang dirasakan orang lain dan ikut berbela sungkawa atau membantu adalah wujud dari sikap... (Latihan #36)",
+      "opsi": {
+        "A": "Empati",
+        "B": "Optimis",
+        "C": "Syukur",
+        "D": "Tawakal",
+        "E": "Riya"
+      },
+      "kunci": "A",
+      "pembahasan": "Empati berarti kemampuan untuk merasakan keadaan emosional/pikiran orang lain.",
+      "trik": "Ikut merasakan penderitaan orang lain = Empati."
+    },
+    {
+      "id": "smp-7-pai-37",
+      "teks": "Dalam pelaksanaan salat berjamaah yang diikuti makmum laki-laki dan perempuan, posisi shaf yang paling belakang seharusnya ditempati oleh... (Latihan #37)",
+      "opsi": {
+        "A": "Laki-laki dewasa",
+        "B": "Perempuan (dewasa dan anak)",
+        "C": "Anak laki-laki",
+        "D": "Laki-laki lanjut usia",
+        "E": "Imam pengganti"
+      },
+      "kunci": "B",
+      "pembahasan": "Urutan shaf ideal: Laki-laki dewasa (depan), anak laki-laki, lalu perempuan.",
+      "trik": "Perempuan di belakang shaf laki-laki untuk menjaga khusyuk/pandangan."
+    },
+    {
+      "id": "smp-7-pai-38",
+      "teks": "Istilah bersuci dari hadas besar secara syariat Islam dengan cara mengalirkan air ke seluruh tubuh disebut... (Latihan #38)",
+      "opsi": {
+        "A": "Wudu",
+        "B": "Tayamum",
+        "C": "Mandi Wajib (Janabah)",
+        "D": "Istinja",
+        "E": "Berkumur"
+      },
+      "kunci": "C",
+      "pembahasan": "Hadas besar hanya bisa disucikan dengan mandi wajib (ghusl) yang meratakan air dari ujung rambut hingga kaki.",
+      "trik": "Hadas kecil = wudu. Hadas besar = mandi wajib."
+    },
+    {
+      "id": "smp-7-pai-39",
+      "teks": "Surah pertama yang diturunkan kepada Nabi Muhammad SAW di Gua Hira adalah... (Latihan #39)",
+      "opsi": {
+        "A": "Al-Fatihah",
+        "B": "Al-Mudassir",
+        "C": "Al-Baqarah",
+        "D": "Al-'Alaq ayat 1-5",
+        "E": "An-Nas"
+      },
+      "kunci": "D",
+      "pembahasan": "Surah Al-'Alaq ayat 1-5 ('Iqra') adalah wahyu pertama Nabi Muhammad SAW.",
+      "trik": "Wahyu pertama perintah 'Membaca' = Iqra (Al-'Alaq)."
+    },
+    {
+      "id": "smp-7-pai-40",
+      "teks": "Niat salat dilakukan bersamaan dengan... (Latihan #40)",
+      "opsi": {
+        "A": "Rukuk",
+        "B": "Sujud",
+        "C": "Salam",
+        "D": "Membaca Al-Fatihah",
+        "E": "Takbiratul Ihram"
+      },
+      "kunci": "E",
+      "pembahasan": "Niat (qashd) secara hati dihadirkan bersamaan dengan ucapan Takbiratul Ihram pada awal salat.",
+      "trik": "Awal masuk salat adalah Takbiratul Ihram, maka Niat dibarengkan saat itu."
+    },
+    {
+      "id": "smp-7-pai-41",
+      "teks": "Sifat Allah SWT yang Maha Mendengar segala sesuatu di alam semesta disebut... (Latihan #41)",
+      "opsi": {
+        "A": "As-Sami'",
+        "B": "Al-Basir",
+        "C": "Al-'Alim",
+        "D": "Al-Khabir",
+        "E": "Al-Aziz"
+      },
+      "kunci": "A",
+      "pembahasan": "As-Sami' berarti Allah Yang Maha Mendengar. Apapun yang diucapkan baik lisan maupun batin pasti didengar oleh Allah.",
+      "trik": "Sami'n (dari kata sami'a) berarti mendengar. Basir = melihat."
+    },
+    {
+      "id": "smp-7-pai-42",
+      "teks": "Hukum melaksanakan salat fardu (lima waktu) bagi setiap muslim yang sudah balig dan berakal sehat adalah... (Latihan #42)",
+      "opsi": {
+        "A": "Fardu Kifayah",
+        "B": "Fardu Ain",
+        "C": "Sunah Muakkad",
+        "D": "Mubah",
+        "E": "Makruh"
+      },
+      "kunci": "B",
+      "pembahasan": "Salat lima waktu adalah kewajiban pribadi yang tidak bisa diwakilkan kepada orang lain, karenanya dihukumi fardu ain.",
+      "trik": "Fardu Ain = Kewajiban individu. Fardu Kifayah = Kewajiban kolektif (spt salat jenazah)."
+    },
+    {
+      "id": "smp-7-pai-43",
+      "teks": "Jamaah atau makmum yang tertinggal bacaan Al-Fatihah imam atau tertinggal rakaat bersama imam disebut... (Latihan #43)",
+      "opsi": {
+        "A": "Muazin",
+        "B": "Muwafiq",
+        "C": "Masbuk",
+        "D": "Munfarid",
+        "E": "Khatib"
+      },
+      "kunci": "C",
+      "pembahasan": "Makmum masbuk adalah makmum yang tidak sempat membaca Al-Fatihah secara sempurna bersama imam atau tertinggal rakaat.",
+      "trik": "Masbuk = Tertinggal. Muwafiq = Tepat waktu/mengikuti dari awal. Munfarid = Sendiri."
+    },
+    {
+      "id": "smp-7-pai-44",
+      "teks": "Berikut ini yang merupakan contoh najis mutawassitah (sedang) adalah... (Latihan #44)",
+      "opsi": {
+        "A": "Air liur anjing",
+        "B": "Air kencing bayi laki-laki berumur kurang dari 2 th yang cuma minum ASI",
+        "C": "Jilatan babi",
+        "D": "Kotoran ayam",
+        "E": "Darah yang tersisa sedikit di daging"
+      },
+      "kunci": "D",
+      "pembahasan": "Najis mutawassitah adalah najis sedang, spt kotoran hewan halal/haram yg bukan darah, bangkai dsj. Air liur anjing adalah berat (mughallazah). Air kencing bayi laki-laki (spt deskripsi) adalah ringan (mukhaffafah).",
+      "trik": "Kotoran hewan biasa = najis sedang (mutawassitah)."
+    },
+    {
+      "id": "smp-7-pai-45",
+      "teks": "Paman Nabi Muhammad SAW yang sangat gigih memusuhi dakwah Islam sejak di Makkah (bahkan kisahnya diabadikan dalam Al-Qur'an surah Al-Lahab) adalah... (Latihan #45)",
+      "opsi": {
+        "A": "Abu Thalib",
+        "B": "Abu Jahal",
+        "C": "Abu Sofyan",
+        "D": "Hamzah",
+        "E": "Abu Lahab"
+      },
+      "kunci": "E",
+      "pembahasan": "Abu Lahab (Abdul Uzza) dan istrinya terus-menerus menentang Nabi. Kutukan untuknya turun dlm Surah Al-Lahab (Al-Masad).",
+      "trik": "Nama surah kutukannya sama dengan namanya (Abu Lahab - Surah Al-Lahab)."
+    },
+    {
+      "id": "smp-7-pai-46",
+      "teks": "Merasakan apa yang dirasakan orang lain dan ikut berbela sungkawa atau membantu adalah wujud dari sikap... (Latihan #46)",
+      "opsi": {
+        "A": "Empati",
+        "B": "Optimis",
+        "C": "Syukur",
+        "D": "Tawakal",
+        "E": "Riya"
+      },
+      "kunci": "A",
+      "pembahasan": "Empati berarti kemampuan untuk merasakan keadaan emosional/pikiran orang lain.",
+      "trik": "Ikut merasakan penderitaan orang lain = Empati."
+    },
+    {
+      "id": "smp-7-pai-47",
+      "teks": "Dalam pelaksanaan salat berjamaah yang diikuti makmum laki-laki dan perempuan, posisi shaf yang paling belakang seharusnya ditempati oleh... (Latihan #47)",
+      "opsi": {
+        "A": "Laki-laki dewasa",
+        "B": "Perempuan (dewasa dan anak)",
+        "C": "Anak laki-laki",
+        "D": "Laki-laki lanjut usia",
+        "E": "Imam pengganti"
+      },
+      "kunci": "B",
+      "pembahasan": "Urutan shaf ideal: Laki-laki dewasa (depan), anak laki-laki, lalu perempuan.",
+      "trik": "Perempuan di belakang shaf laki-laki untuk menjaga khusyuk/pandangan."
+    },
+    {
+      "id": "smp-7-pai-48",
+      "teks": "Istilah bersuci dari hadas besar secara syariat Islam dengan cara mengalirkan air ke seluruh tubuh disebut... (Latihan #48)",
+      "opsi": {
+        "A": "Wudu",
+        "B": "Tayamum",
+        "C": "Mandi Wajib (Janabah)",
+        "D": "Istinja",
+        "E": "Berkumur"
+      },
+      "kunci": "C",
+      "pembahasan": "Hadas besar hanya bisa disucikan dengan mandi wajib (ghusl) yang meratakan air dari ujung rambut hingga kaki.",
+      "trik": "Hadas kecil = wudu. Hadas besar = mandi wajib."
+    },
+    {
+      "id": "smp-7-pai-49",
+      "teks": "Surah pertama yang diturunkan kepada Nabi Muhammad SAW di Gua Hira adalah... (Latihan #49)",
+      "opsi": {
+        "A": "Al-Fatihah",
+        "B": "Al-Mudassir",
+        "C": "Al-Baqarah",
+        "D": "Al-'Alaq ayat 1-5",
+        "E": "An-Nas"
+      },
+      "kunci": "D",
+      "pembahasan": "Surah Al-'Alaq ayat 1-5 ('Iqra') adalah wahyu pertama Nabi Muhammad SAW.",
+      "trik": "Wahyu pertama perintah 'Membaca' = Iqra (Al-'Alaq)."
+    },
+    {
+      "id": "smp-7-pai-50",
+      "teks": "Niat salat dilakukan bersamaan dengan... (Latihan #50)",
+      "opsi": {
+        "A": "Rukuk",
+        "B": "Sujud",
+        "C": "Salam",
+        "D": "Membaca Al-Fatihah",
+        "E": "Takbiratul Ihram"
+      },
+      "kunci": "E",
+      "pembahasan": "Niat (qashd) secara hati dihadirkan bersamaan dengan ucapan Takbiratul Ihram pada awal salat.",
+      "trik": "Awal masuk salat adalah Takbiratul Ihram, maka Niat dibarengkan saat itu."
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "id": "kuliah_info_materi",
+  "judul": "Deepsearch Info Perguruan Tinggi",
+  "daftarMateri": [
+    {
+      "id": "kuliah_teknik_informatika",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Teknik Informatika",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Teknik Informatika, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Teknik Informatika?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Teknik Informatika di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Teknik Informatika di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-1"
+      ]
+    },
+    {
+      "id": "kuliah_sistem_informasi",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Sistem Informasi",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Sistem Informasi, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Sistem Informasi?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Sistem Informasi di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Sistem Informasi di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-2"
+      ]
+    },
+    {
+      "id": "kuliah_kedokteran",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Kedokteran",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Kedokteran, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Kedokteran?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Kedokteran di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Kedokteran di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-3"
+      ]
+    },
+    {
+      "id": "kuliah_ilmu_hukum",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Ilmu Hukum",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Ilmu Hukum, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Ilmu Hukum?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Ilmu Hukum di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Ilmu Hukum di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-4"
+      ]
+    },
+    {
+      "id": "kuliah_manajemen",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Manajemen",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Manajemen, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Manajemen?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Manajemen di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Manajemen di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-5"
+      ]
+    },
+    {
+      "id": "kuliah_akuntansi",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Akuntansi",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Akuntansi, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Akuntansi?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Akuntansi di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Akuntansi di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-6"
+      ]
+    },
+    {
+      "id": "kuliah_psikologi",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Psikologi",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Psikologi, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Psikologi?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Psikologi di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Psikologi di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-7"
+      ]
+    },
+    {
+      "id": "kuliah_ilmu_komunikasi",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Ilmu Komunikasi",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Ilmu Komunikasi, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Ilmu Komunikasi?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Ilmu Komunikasi di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Ilmu Komunikasi di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-8"
+      ]
+    },
+    {
+      "id": "kuliah_teknik_sipil",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Teknik Sipil",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Teknik Sipil, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Teknik Sipil?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Teknik Sipil di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Teknik Sipil di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-9"
+      ]
+    },
+    {
+      "id": "kuliah_arsitektur",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Arsitektur",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Arsitektur, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Arsitektur?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Arsitektur di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Arsitektur di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-10"
+      ]
+    },
+    {
+      "id": "kuliah_farmasi",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Farmasi",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Farmasi, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Farmasi?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Farmasi di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Farmasi di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-11"
+      ]
+    },
+    {
+      "id": "kuliah_hubungan_internasional",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Hubungan Internasional",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Hubungan Internasional, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Hubungan Internasional?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Hubungan Internasional di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Hubungan Internasional di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-12"
+      ]
+    },
+    {
+      "id": "kuliah_desain_komunikasi_visual__dkv_",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Desain Komunikasi Visual (DKV)",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Desain Komunikasi Visual (DKV), mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Desain Komunikasi Visual (DKV)?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Desain Komunikasi Visual (DKV) di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Desain Komunikasi Visual (DKV) di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-13"
+      ]
+    },
+    {
+      "id": "kuliah_teknik_industri",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Teknik Industri",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Teknik Industri, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Teknik Industri?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Teknik Industri di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Teknik Industri di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-14"
+      ]
+    },
+    {
+      "id": "kuliah_statistika",
+      "judul": "Deepsearch: Panduan Lengkap Program Studi Statistika",
+      "deskripsi": "Semua yang perlu kamu ketahui tentang jurusan Statistika, mulai dari mata kuliah dasar, prospek kerja, hingga keahlian esensial.",
+      "kategori": "Info Kuliah",
+      "konten": [
+        {
+          "bab": "1. Apa itu Statistika?",
+          "teks": "Pembahasan mendalam mengenai fokus utama ilmu Statistika di dunia akademik maupun industri saat ini."
+        },
+        {
+          "bab": "2. Mata Kuliah Inti (Core Subjects)",
+          "teks": "Daftar mata kuliah krusial yang akan dipelajari dari semester 1 hingga 8, termasuk tingkat kesulitannya."
+        },
+        {
+          "bab": "3. Prospek Karir & Gaji (Deepsearch)",
+          "teks": "Analisis penyerapan alumni Statistika di berbagai sektor, lengkap dengan range gaji entry-level hingga senior."
+        },
+        {
+          "bab": "4. Skill Set yang Diperlukan",
+          "teks": "Keterampilan hard-skill dan soft-skill yang wajib dikuasai agar lulus dengan gelar cum laude dan sukses di dunia kerja."
+        }
+      ],
+      "tag": [
+        "kuliah prodi lengkap",
+        "bab-15"
+      ]
+    }
+  ],
+  "mapel": "Deepsearch Info Perguruan Tinggi",
+  "tag": [
+    "kuliah prodi lengkap"
+  ]
+}

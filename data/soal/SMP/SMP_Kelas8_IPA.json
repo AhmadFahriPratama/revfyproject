@@ -1,0 +1,708 @@
+{
+  "id": "smp-8-ipa",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "IPA",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-8-ipa-01",
+      "teks": "Sebuah mobil murni mula-mula diam, lalu bergerak dengan percepatan tetap. Hal ini merupakan contoh dari... (Latihan #1)",
+      "opsi": {
+        "A": "GLBB (Gerak Lurus Berubah Beraturan) dipercepat",
+        "B": "GLB (Gerak Lurus Beraturan)",
+        "C": "GLBB diperlambat",
+        "D": "Gerak Parabola",
+        "E": "Gerak Melingkar"
+      },
+      "kunci": "A",
+      "pembahasan": "Karena mobil mengalami percepatan dari diam, maka kecepatannya berubah secara teratur/bertambah (dipercepat).",
+      "trik": "Kecepatan makin naik = GLBB dipercepat."
+    },
+    {
+      "id": "smp-8-ipa-02",
+      "teks": "Hukum I Newton (Inersia) menyatakan bahwa... (Latihan #2)",
+      "opsi": {
+        "A": "Benda akan selalu bergerak jika diberi dorongan sekecil apapun.",
+        "B": "Benda yang diam akan tetap diam dan yang bergerak akan tetap bergerak lurus beraturan jika resultan gayanya nol.",
+        "C": "Gaya berbanding lurus dengan massa dan percepatan (F=ma).",
+        "D": "Setiap gaya aksi pasti akan selalu diikuti oleh gaya reaksi yang sama besar berlawanan arah.",
+        "E": "Semua benda di bumi selalu jatuh ke bawah."
+      },
+      "kunci": "B",
+      "pembahasan": "Hukum Inersia/Kelembaman (Hukum I Newton) berbunyi jika $\\Sigma F = 0$, benda diam tetap diam, benda bergerak lurus konstan tetap lurus konstan.",
+      "trik": "Hukum 1 = Kelembaman / Mempertahankan kondisi asal."
+    },
+    {
+      "id": "smp-8-ipa-03",
+      "teks": "Persendian yang memungkinkan gerakan ke segala arah, seperti pada persendian antara tulang gelang panggul dan tulang paha adalah sendi... (Latihan #3)",
+      "opsi": {
+        "A": "Engsel",
+        "B": "Pelana",
+        "C": "Peluru",
+        "D": "Putar",
+        "E": "Geser"
+      },
+      "kunci": "C",
+      "pembahasan": "Sendi peluru (ball and socket joint) memungkinkan pergerakan bebas ke segala arah (bahu dan paha).",
+      "trik": "Segala arah = Peluru."
+    },
+    {
+      "id": "smp-8-ipa-04",
+      "teks": "Sebuah lemari ditarik dua gaya searah, $F_1 = 15$ N dan $F_2 = 10$ N. Resultan gaya tarik pada lemari tersebut adalah... (Latihan #4)",
+      "opsi": {
+        "A": "5 N",
+        "B": "150 N",
+        "C": "1.5 N",
+        "D": "25 N",
+        "E": "0 N"
+      },
+      "kunci": "D",
+      "pembahasan": "Gaya yang searah dijumlahkan. $\\Sigma F = 15 + 10 = 25$ N.",
+      "trik": "Searah = ditambah, berlawanan = dikurang."
+    },
+    {
+      "id": "smp-8-ipa-05",
+      "teks": "Alat rumah tangga berikut yang menggunakan prinsip tuas jenis pertama (titik tumpu di antara titik kuasa dan titik beban) adalah... (Latihan #5)",
+      "opsi": {
+        "A": "Gerobak dorong roda 1 (Wheelbarrow)",
+        "B": "Pinset",
+        "C": "Sapu",
+        "D": "Kerek air / Katrol diam",
+        "E": "Gunting"
+      },
+      "kunci": "E",
+      "pembahasan": "Gunting memiliki poros/titik tumpu di tengah, sementara beban di ujung mata pisau, dan kuasa di gagangnya.",
+      "trik": "TBK (Tumpu-Beban-Kuasa): Tumpu di tengah = Golongan 1 (Gunting, Jungkat-jungkit)."
+    },
+    {
+      "id": "smp-8-ipa-06",
+      "teks": "Jaringan pada tumbuhan tingkat tinggi yang berfungsi mengangkut air dan mineral dari akar ke daun adalah... (Latihan #6)",
+      "opsi": {
+        "A": "Xilem",
+        "B": "Floem",
+        "C": "Kambium",
+        "D": "Parenkim",
+        "E": "Epidermis"
+      },
+      "kunci": "A",
+      "pembahasan": "Xilem (pembuluh kayu) mengangkut air dan mineral dari akar ke daun. Kebalikannya, Floem mengangkut hasil fotosintesis dari daun ke seluruh tubuh.",
+      "trik": "Xilem = Air. Floem = Makanan/HasiL."
+    },
+    {
+      "id": "smp-8-ipa-07",
+      "teks": "Pencernaan protein pada lambung secara kimiawi dibantu oleh enzim... (Latihan #7)",
+      "opsi": {
+        "A": "Amilase",
+        "B": "Pepsin",
+        "C": "Lipase",
+        "D": "Ptialin",
+        "E": "Tripsin"
+      },
+      "kunci": "B",
+      "pembahasan": "Di dalam lambung terdapat asam klorida (HCl), Enzim Pepsin (memecah protein), dan Enzim Renin (menggumpalkan susu/kasein).",
+      "trik": "Lambung -> Pe-Pe-R (Pepsin, Perut, Renin)."
+    },
+    {
+      "id": "smp-8-ipa-08",
+      "teks": "Berdasarkan Hukum Pascal, tekanan yang diberikan pada zat cair dalam ruang tertutup akan... (Latihan #8)",
+      "opsi": {
+        "A": "Diteruskan lebih besar ke bagian dasar wadah",
+        "B": "Berkurang seiring kedalaman",
+        "C": "Diteruskan ke segala arah dengan sama besar",
+        "D": "Membuat zat cair menguap jika tekanan berlebih",
+        "E": "Mendapat gaya ke atas sama dengan berat zat cair"
+      },
+      "kunci": "C",
+      "pembahasan": "Hukum Pascal (P1 = P2) berbunyi: Tekanan yang diberikan pada zat cair tertutup diteruskan ke segala arah sama rata.",
+      "trik": "Pascal = Segala arah sama besar (contoh: Dongkrak Hidrolik)."
+    },
+    {
+      "id": "smp-8-ipa-09",
+      "teks": "Suatu sumber getar menghasilkan 1200 getaran dalam 1 menit. Berapakah frekuensi getarannya? (Latihan #9)",
+      "opsi": {
+        "A": "12 Hz",
+        "B": "60 Hz",
+        "C": "120 Hz",
+        "D": "20 Hz",
+        "E": "1200 Hz"
+      },
+      "kunci": "D",
+      "pembahasan": "Frekuensi ($f$) = Jumlah getaran ($n$) / waktu ($t$). 1 menit = 60 sekon. $f = 1200 / 60 = 20$ Hz.",
+      "trik": "$f = n / t$. Jangan lupa ubah menit ke detik."
+    },
+    {
+      "id": "smp-8-ipa-10",
+      "teks": "Hewan kelelawar dapat 'melihat' keadaan malam menggunakan pantulan bunyi (ekolokasi). Jenis bunyi yang diandalkan kelelawar adalah... (Latihan #10)",
+      "opsi": {
+        "A": "Infrasonik",
+        "B": "Audiosonik",
+        "C": "Supersonik",
+        "D": "Megasonik",
+        "E": "Ultrasonik"
+      },
+      "kunci": "E",
+      "pembahasan": "Ultrasonik adalah frekuensi bunyi lebih dari 20.000 Hz, yang umumnya didengar oleh lumba-lumba, anjing, dan kelelawar.",
+      "trik": "Suara sangat tinggi yg manusia tak bisa dengar = Ultra."
+    },
+    {
+      "id": "smp-8-ipa-11",
+      "teks": "Sebuah mobil murni mula-mula diam, lalu bergerak dengan percepatan tetap. Hal ini merupakan contoh dari... (Latihan #11)",
+      "opsi": {
+        "A": "GLBB (Gerak Lurus Berubah Beraturan) dipercepat",
+        "B": "GLB (Gerak Lurus Beraturan)",
+        "C": "GLBB diperlambat",
+        "D": "Gerak Parabola",
+        "E": "Gerak Melingkar"
+      },
+      "kunci": "A",
+      "pembahasan": "Karena mobil mengalami percepatan dari diam, maka kecepatannya berubah secara teratur/bertambah (dipercepat).",
+      "trik": "Kecepatan makin naik = GLBB dipercepat."
+    },
+    {
+      "id": "smp-8-ipa-12",
+      "teks": "Hukum I Newton (Inersia) menyatakan bahwa... (Latihan #12)",
+      "opsi": {
+        "A": "Benda akan selalu bergerak jika diberi dorongan sekecil apapun.",
+        "B": "Benda yang diam akan tetap diam dan yang bergerak akan tetap bergerak lurus beraturan jika resultan gayanya nol.",
+        "C": "Gaya berbanding lurus dengan massa dan percepatan (F=ma).",
+        "D": "Setiap gaya aksi pasti akan selalu diikuti oleh gaya reaksi yang sama besar berlawanan arah.",
+        "E": "Semua benda di bumi selalu jatuh ke bawah."
+      },
+      "kunci": "B",
+      "pembahasan": "Hukum Inersia/Kelembaman (Hukum I Newton) berbunyi jika $\\Sigma F = 0$, benda diam tetap diam, benda bergerak lurus konstan tetap lurus konstan.",
+      "trik": "Hukum 1 = Kelembaman / Mempertahankan kondisi asal."
+    },
+    {
+      "id": "smp-8-ipa-13",
+      "teks": "Persendian yang memungkinkan gerakan ke segala arah, seperti pada persendian antara tulang gelang panggul dan tulang paha adalah sendi... (Latihan #13)",
+      "opsi": {
+        "A": "Engsel",
+        "B": "Pelana",
+        "C": "Peluru",
+        "D": "Putar",
+        "E": "Geser"
+      },
+      "kunci": "C",
+      "pembahasan": "Sendi peluru (ball and socket joint) memungkinkan pergerakan bebas ke segala arah (bahu dan paha).",
+      "trik": "Segala arah = Peluru."
+    },
+    {
+      "id": "smp-8-ipa-14",
+      "teks": "Sebuah lemari ditarik dua gaya searah, $F_1 = 15$ N dan $F_2 = 10$ N. Resultan gaya tarik pada lemari tersebut adalah... (Latihan #14)",
+      "opsi": {
+        "A": "5 N",
+        "B": "150 N",
+        "C": "1.5 N",
+        "D": "25 N",
+        "E": "0 N"
+      },
+      "kunci": "D",
+      "pembahasan": "Gaya yang searah dijumlahkan. $\\Sigma F = 15 + 10 = 25$ N.",
+      "trik": "Searah = ditambah, berlawanan = dikurang."
+    },
+    {
+      "id": "smp-8-ipa-15",
+      "teks": "Alat rumah tangga berikut yang menggunakan prinsip tuas jenis pertama (titik tumpu di antara titik kuasa dan titik beban) adalah... (Latihan #15)",
+      "opsi": {
+        "A": "Gerobak dorong roda 1 (Wheelbarrow)",
+        "B": "Pinset",
+        "C": "Sapu",
+        "D": "Kerek air / Katrol diam",
+        "E": "Gunting"
+      },
+      "kunci": "E",
+      "pembahasan": "Gunting memiliki poros/titik tumpu di tengah, sementara beban di ujung mata pisau, dan kuasa di gagangnya.",
+      "trik": "TBK (Tumpu-Beban-Kuasa): Tumpu di tengah = Golongan 1 (Gunting, Jungkat-jungkit)."
+    },
+    {
+      "id": "smp-8-ipa-16",
+      "teks": "Jaringan pada tumbuhan tingkat tinggi yang berfungsi mengangkut air dan mineral dari akar ke daun adalah... (Latihan #16)",
+      "opsi": {
+        "A": "Xilem",
+        "B": "Floem",
+        "C": "Kambium",
+        "D": "Parenkim",
+        "E": "Epidermis"
+      },
+      "kunci": "A",
+      "pembahasan": "Xilem (pembuluh kayu) mengangkut air dan mineral dari akar ke daun. Kebalikannya, Floem mengangkut hasil fotosintesis dari daun ke seluruh tubuh.",
+      "trik": "Xilem = Air. Floem = Makanan/HasiL."
+    },
+    {
+      "id": "smp-8-ipa-17",
+      "teks": "Pencernaan protein pada lambung secara kimiawi dibantu oleh enzim... (Latihan #17)",
+      "opsi": {
+        "A": "Amilase",
+        "B": "Pepsin",
+        "C": "Lipase",
+        "D": "Ptialin",
+        "E": "Tripsin"
+      },
+      "kunci": "B",
+      "pembahasan": "Di dalam lambung terdapat asam klorida (HCl), Enzim Pepsin (memecah protein), dan Enzim Renin (menggumpalkan susu/kasein).",
+      "trik": "Lambung -> Pe-Pe-R (Pepsin, Perut, Renin)."
+    },
+    {
+      "id": "smp-8-ipa-18",
+      "teks": "Berdasarkan Hukum Pascal, tekanan yang diberikan pada zat cair dalam ruang tertutup akan... (Latihan #18)",
+      "opsi": {
+        "A": "Diteruskan lebih besar ke bagian dasar wadah",
+        "B": "Berkurang seiring kedalaman",
+        "C": "Diteruskan ke segala arah dengan sama besar",
+        "D": "Membuat zat cair menguap jika tekanan berlebih",
+        "E": "Mendapat gaya ke atas sama dengan berat zat cair"
+      },
+      "kunci": "C",
+      "pembahasan": "Hukum Pascal (P1 = P2) berbunyi: Tekanan yang diberikan pada zat cair tertutup diteruskan ke segala arah sama rata.",
+      "trik": "Pascal = Segala arah sama besar (contoh: Dongkrak Hidrolik)."
+    },
+    {
+      "id": "smp-8-ipa-19",
+      "teks": "Suatu sumber getar menghasilkan 1200 getaran dalam 1 menit. Berapakah frekuensi getarannya? (Latihan #19)",
+      "opsi": {
+        "A": "12 Hz",
+        "B": "60 Hz",
+        "C": "120 Hz",
+        "D": "20 Hz",
+        "E": "1200 Hz"
+      },
+      "kunci": "D",
+      "pembahasan": "Frekuensi ($f$) = Jumlah getaran ($n$) / waktu ($t$). 1 menit = 60 sekon. $f = 1200 / 60 = 20$ Hz.",
+      "trik": "$f = n / t$. Jangan lupa ubah menit ke detik."
+    },
+    {
+      "id": "smp-8-ipa-20",
+      "teks": "Hewan kelelawar dapat 'melihat' keadaan malam menggunakan pantulan bunyi (ekolokasi). Jenis bunyi yang diandalkan kelelawar adalah... (Latihan #20)",
+      "opsi": {
+        "A": "Infrasonik",
+        "B": "Audiosonik",
+        "C": "Supersonik",
+        "D": "Megasonik",
+        "E": "Ultrasonik"
+      },
+      "kunci": "E",
+      "pembahasan": "Ultrasonik adalah frekuensi bunyi lebih dari 20.000 Hz, yang umumnya didengar oleh lumba-lumba, anjing, dan kelelawar.",
+      "trik": "Suara sangat tinggi yg manusia tak bisa dengar = Ultra."
+    },
+    {
+      "id": "smp-8-ipa-21",
+      "teks": "Sebuah mobil murni mula-mula diam, lalu bergerak dengan percepatan tetap. Hal ini merupakan contoh dari... (Latihan #21)",
+      "opsi": {
+        "A": "GLBB (Gerak Lurus Berubah Beraturan) dipercepat",
+        "B": "GLB (Gerak Lurus Beraturan)",
+        "C": "GLBB diperlambat",
+        "D": "Gerak Parabola",
+        "E": "Gerak Melingkar"
+      },
+      "kunci": "A",
+      "pembahasan": "Karena mobil mengalami percepatan dari diam, maka kecepatannya berubah secara teratur/bertambah (dipercepat).",
+      "trik": "Kecepatan makin naik = GLBB dipercepat."
+    },
+    {
+      "id": "smp-8-ipa-22",
+      "teks": "Hukum I Newton (Inersia) menyatakan bahwa... (Latihan #22)",
+      "opsi": {
+        "A": "Benda akan selalu bergerak jika diberi dorongan sekecil apapun.",
+        "B": "Benda yang diam akan tetap diam dan yang bergerak akan tetap bergerak lurus beraturan jika resultan gayanya nol.",
+        "C": "Gaya berbanding lurus dengan massa dan percepatan (F=ma).",
+        "D": "Setiap gaya aksi pasti akan selalu diikuti oleh gaya reaksi yang sama besar berlawanan arah.",
+        "E": "Semua benda di bumi selalu jatuh ke bawah."
+      },
+      "kunci": "B",
+      "pembahasan": "Hukum Inersia/Kelembaman (Hukum I Newton) berbunyi jika $\\Sigma F = 0$, benda diam tetap diam, benda bergerak lurus konstan tetap lurus konstan.",
+      "trik": "Hukum 1 = Kelembaman / Mempertahankan kondisi asal."
+    },
+    {
+      "id": "smp-8-ipa-23",
+      "teks": "Persendian yang memungkinkan gerakan ke segala arah, seperti pada persendian antara tulang gelang panggul dan tulang paha adalah sendi... (Latihan #23)",
+      "opsi": {
+        "A": "Engsel",
+        "B": "Pelana",
+        "C": "Peluru",
+        "D": "Putar",
+        "E": "Geser"
+      },
+      "kunci": "C",
+      "pembahasan": "Sendi peluru (ball and socket joint) memungkinkan pergerakan bebas ke segala arah (bahu dan paha).",
+      "trik": "Segala arah = Peluru."
+    },
+    {
+      "id": "smp-8-ipa-24",
+      "teks": "Sebuah lemari ditarik dua gaya searah, $F_1 = 15$ N dan $F_2 = 10$ N. Resultan gaya tarik pada lemari tersebut adalah... (Latihan #24)",
+      "opsi": {
+        "A": "5 N",
+        "B": "150 N",
+        "C": "1.5 N",
+        "D": "25 N",
+        "E": "0 N"
+      },
+      "kunci": "D",
+      "pembahasan": "Gaya yang searah dijumlahkan. $\\Sigma F = 15 + 10 = 25$ N.",
+      "trik": "Searah = ditambah, berlawanan = dikurang."
+    },
+    {
+      "id": "smp-8-ipa-25",
+      "teks": "Alat rumah tangga berikut yang menggunakan prinsip tuas jenis pertama (titik tumpu di antara titik kuasa dan titik beban) adalah... (Latihan #25)",
+      "opsi": {
+        "A": "Gerobak dorong roda 1 (Wheelbarrow)",
+        "B": "Pinset",
+        "C": "Sapu",
+        "D": "Kerek air / Katrol diam",
+        "E": "Gunting"
+      },
+      "kunci": "E",
+      "pembahasan": "Gunting memiliki poros/titik tumpu di tengah, sementara beban di ujung mata pisau, dan kuasa di gagangnya.",
+      "trik": "TBK (Tumpu-Beban-Kuasa): Tumpu di tengah = Golongan 1 (Gunting, Jungkat-jungkit)."
+    },
+    {
+      "id": "smp-8-ipa-26",
+      "teks": "Jaringan pada tumbuhan tingkat tinggi yang berfungsi mengangkut air dan mineral dari akar ke daun adalah... (Latihan #26)",
+      "opsi": {
+        "A": "Xilem",
+        "B": "Floem",
+        "C": "Kambium",
+        "D": "Parenkim",
+        "E": "Epidermis"
+      },
+      "kunci": "A",
+      "pembahasan": "Xilem (pembuluh kayu) mengangkut air dan mineral dari akar ke daun. Kebalikannya, Floem mengangkut hasil fotosintesis dari daun ke seluruh tubuh.",
+      "trik": "Xilem = Air. Floem = Makanan/HasiL."
+    },
+    {
+      "id": "smp-8-ipa-27",
+      "teks": "Pencernaan protein pada lambung secara kimiawi dibantu oleh enzim... (Latihan #27)",
+      "opsi": {
+        "A": "Amilase",
+        "B": "Pepsin",
+        "C": "Lipase",
+        "D": "Ptialin",
+        "E": "Tripsin"
+      },
+      "kunci": "B",
+      "pembahasan": "Di dalam lambung terdapat asam klorida (HCl), Enzim Pepsin (memecah protein), dan Enzim Renin (menggumpalkan susu/kasein).",
+      "trik": "Lambung -> Pe-Pe-R (Pepsin, Perut, Renin)."
+    },
+    {
+      "id": "smp-8-ipa-28",
+      "teks": "Berdasarkan Hukum Pascal, tekanan yang diberikan pada zat cair dalam ruang tertutup akan... (Latihan #28)",
+      "opsi": {
+        "A": "Diteruskan lebih besar ke bagian dasar wadah",
+        "B": "Berkurang seiring kedalaman",
+        "C": "Diteruskan ke segala arah dengan sama besar",
+        "D": "Membuat zat cair menguap jika tekanan berlebih",
+        "E": "Mendapat gaya ke atas sama dengan berat zat cair"
+      },
+      "kunci": "C",
+      "pembahasan": "Hukum Pascal (P1 = P2) berbunyi: Tekanan yang diberikan pada zat cair tertutup diteruskan ke segala arah sama rata.",
+      "trik": "Pascal = Segala arah sama besar (contoh: Dongkrak Hidrolik)."
+    },
+    {
+      "id": "smp-8-ipa-29",
+      "teks": "Suatu sumber getar menghasilkan 1200 getaran dalam 1 menit. Berapakah frekuensi getarannya? (Latihan #29)",
+      "opsi": {
+        "A": "12 Hz",
+        "B": "60 Hz",
+        "C": "120 Hz",
+        "D": "20 Hz",
+        "E": "1200 Hz"
+      },
+      "kunci": "D",
+      "pembahasan": "Frekuensi ($f$) = Jumlah getaran ($n$) / waktu ($t$). 1 menit = 60 sekon. $f = 1200 / 60 = 20$ Hz.",
+      "trik": "$f = n / t$. Jangan lupa ubah menit ke detik."
+    },
+    {
+      "id": "smp-8-ipa-30",
+      "teks": "Hewan kelelawar dapat 'melihat' keadaan malam menggunakan pantulan bunyi (ekolokasi). Jenis bunyi yang diandalkan kelelawar adalah... (Latihan #30)",
+      "opsi": {
+        "A": "Infrasonik",
+        "B": "Audiosonik",
+        "C": "Supersonik",
+        "D": "Megasonik",
+        "E": "Ultrasonik"
+      },
+      "kunci": "E",
+      "pembahasan": "Ultrasonik adalah frekuensi bunyi lebih dari 20.000 Hz, yang umumnya didengar oleh lumba-lumba, anjing, dan kelelawar.",
+      "trik": "Suara sangat tinggi yg manusia tak bisa dengar = Ultra."
+    },
+    {
+      "id": "smp-8-ipa-31",
+      "teks": "Sebuah mobil murni mula-mula diam, lalu bergerak dengan percepatan tetap. Hal ini merupakan contoh dari... (Latihan #31)",
+      "opsi": {
+        "A": "GLBB (Gerak Lurus Berubah Beraturan) dipercepat",
+        "B": "GLB (Gerak Lurus Beraturan)",
+        "C": "GLBB diperlambat",
+        "D": "Gerak Parabola",
+        "E": "Gerak Melingkar"
+      },
+      "kunci": "A",
+      "pembahasan": "Karena mobil mengalami percepatan dari diam, maka kecepatannya berubah secara teratur/bertambah (dipercepat).",
+      "trik": "Kecepatan makin naik = GLBB dipercepat."
+    },
+    {
+      "id": "smp-8-ipa-32",
+      "teks": "Hukum I Newton (Inersia) menyatakan bahwa... (Latihan #32)",
+      "opsi": {
+        "A": "Benda akan selalu bergerak jika diberi dorongan sekecil apapun.",
+        "B": "Benda yang diam akan tetap diam dan yang bergerak akan tetap bergerak lurus beraturan jika resultan gayanya nol.",
+        "C": "Gaya berbanding lurus dengan massa dan percepatan (F=ma).",
+        "D": "Setiap gaya aksi pasti akan selalu diikuti oleh gaya reaksi yang sama besar berlawanan arah.",
+        "E": "Semua benda di bumi selalu jatuh ke bawah."
+      },
+      "kunci": "B",
+      "pembahasan": "Hukum Inersia/Kelembaman (Hukum I Newton) berbunyi jika $\\Sigma F = 0$, benda diam tetap diam, benda bergerak lurus konstan tetap lurus konstan.",
+      "trik": "Hukum 1 = Kelembaman / Mempertahankan kondisi asal."
+    },
+    {
+      "id": "smp-8-ipa-33",
+      "teks": "Persendian yang memungkinkan gerakan ke segala arah, seperti pada persendian antara tulang gelang panggul dan tulang paha adalah sendi... (Latihan #33)",
+      "opsi": {
+        "A": "Engsel",
+        "B": "Pelana",
+        "C": "Peluru",
+        "D": "Putar",
+        "E": "Geser"
+      },
+      "kunci": "C",
+      "pembahasan": "Sendi peluru (ball and socket joint) memungkinkan pergerakan bebas ke segala arah (bahu dan paha).",
+      "trik": "Segala arah = Peluru."
+    },
+    {
+      "id": "smp-8-ipa-34",
+      "teks": "Sebuah lemari ditarik dua gaya searah, $F_1 = 15$ N dan $F_2 = 10$ N. Resultan gaya tarik pada lemari tersebut adalah... (Latihan #34)",
+      "opsi": {
+        "A": "5 N",
+        "B": "150 N",
+        "C": "1.5 N",
+        "D": "25 N",
+        "E": "0 N"
+      },
+      "kunci": "D",
+      "pembahasan": "Gaya yang searah dijumlahkan. $\\Sigma F = 15 + 10 = 25$ N.",
+      "trik": "Searah = ditambah, berlawanan = dikurang."
+    },
+    {
+      "id": "smp-8-ipa-35",
+      "teks": "Alat rumah tangga berikut yang menggunakan prinsip tuas jenis pertama (titik tumpu di antara titik kuasa dan titik beban) adalah... (Latihan #35)",
+      "opsi": {
+        "A": "Gerobak dorong roda 1 (Wheelbarrow)",
+        "B": "Pinset",
+        "C": "Sapu",
+        "D": "Kerek air / Katrol diam",
+        "E": "Gunting"
+      },
+      "kunci": "E",
+      "pembahasan": "Gunting memiliki poros/titik tumpu di tengah, sementara beban di ujung mata pisau, dan kuasa di gagangnya.",
+      "trik": "TBK (Tumpu-Beban-Kuasa): Tumpu di tengah = Golongan 1 (Gunting, Jungkat-jungkit)."
+    },
+    {
+      "id": "smp-8-ipa-36",
+      "teks": "Jaringan pada tumbuhan tingkat tinggi yang berfungsi mengangkut air dan mineral dari akar ke daun adalah... (Latihan #36)",
+      "opsi": {
+        "A": "Xilem",
+        "B": "Floem",
+        "C": "Kambium",
+        "D": "Parenkim",
+        "E": "Epidermis"
+      },
+      "kunci": "A",
+      "pembahasan": "Xilem (pembuluh kayu) mengangkut air dan mineral dari akar ke daun. Kebalikannya, Floem mengangkut hasil fotosintesis dari daun ke seluruh tubuh.",
+      "trik": "Xilem = Air. Floem = Makanan/HasiL."
+    },
+    {
+      "id": "smp-8-ipa-37",
+      "teks": "Pencernaan protein pada lambung secara kimiawi dibantu oleh enzim... (Latihan #37)",
+      "opsi": {
+        "A": "Amilase",
+        "B": "Pepsin",
+        "C": "Lipase",
+        "D": "Ptialin",
+        "E": "Tripsin"
+      },
+      "kunci": "B",
+      "pembahasan": "Di dalam lambung terdapat asam klorida (HCl), Enzim Pepsin (memecah protein), dan Enzim Renin (menggumpalkan susu/kasein).",
+      "trik": "Lambung -> Pe-Pe-R (Pepsin, Perut, Renin)."
+    },
+    {
+      "id": "smp-8-ipa-38",
+      "teks": "Berdasarkan Hukum Pascal, tekanan yang diberikan pada zat cair dalam ruang tertutup akan... (Latihan #38)",
+      "opsi": {
+        "A": "Diteruskan lebih besar ke bagian dasar wadah",
+        "B": "Berkurang seiring kedalaman",
+        "C": "Diteruskan ke segala arah dengan sama besar",
+        "D": "Membuat zat cair menguap jika tekanan berlebih",
+        "E": "Mendapat gaya ke atas sama dengan berat zat cair"
+      },
+      "kunci": "C",
+      "pembahasan": "Hukum Pascal (P1 = P2) berbunyi: Tekanan yang diberikan pada zat cair tertutup diteruskan ke segala arah sama rata.",
+      "trik": "Pascal = Segala arah sama besar (contoh: Dongkrak Hidrolik)."
+    },
+    {
+      "id": "smp-8-ipa-39",
+      "teks": "Suatu sumber getar menghasilkan 1200 getaran dalam 1 menit. Berapakah frekuensi getarannya? (Latihan #39)",
+      "opsi": {
+        "A": "12 Hz",
+        "B": "60 Hz",
+        "C": "120 Hz",
+        "D": "20 Hz",
+        "E": "1200 Hz"
+      },
+      "kunci": "D",
+      "pembahasan": "Frekuensi ($f$) = Jumlah getaran ($n$) / waktu ($t$). 1 menit = 60 sekon. $f = 1200 / 60 = 20$ Hz.",
+      "trik": "$f = n / t$. Jangan lupa ubah menit ke detik."
+    },
+    {
+      "id": "smp-8-ipa-40",
+      "teks": "Hewan kelelawar dapat 'melihat' keadaan malam menggunakan pantulan bunyi (ekolokasi). Jenis bunyi yang diandalkan kelelawar adalah... (Latihan #40)",
+      "opsi": {
+        "A": "Infrasonik",
+        "B": "Audiosonik",
+        "C": "Supersonik",
+        "D": "Megasonik",
+        "E": "Ultrasonik"
+      },
+      "kunci": "E",
+      "pembahasan": "Ultrasonik adalah frekuensi bunyi lebih dari 20.000 Hz, yang umumnya didengar oleh lumba-lumba, anjing, dan kelelawar.",
+      "trik": "Suara sangat tinggi yg manusia tak bisa dengar = Ultra."
+    },
+    {
+      "id": "smp-8-ipa-41",
+      "teks": "Sebuah mobil murni mula-mula diam, lalu bergerak dengan percepatan tetap. Hal ini merupakan contoh dari... (Latihan #41)",
+      "opsi": {
+        "A": "GLBB (Gerak Lurus Berubah Beraturan) dipercepat",
+        "B": "GLB (Gerak Lurus Beraturan)",
+        "C": "GLBB diperlambat",
+        "D": "Gerak Parabola",
+        "E": "Gerak Melingkar"
+      },
+      "kunci": "A",
+      "pembahasan": "Karena mobil mengalami percepatan dari diam, maka kecepatannya berubah secara teratur/bertambah (dipercepat).",
+      "trik": "Kecepatan makin naik = GLBB dipercepat."
+    },
+    {
+      "id": "smp-8-ipa-42",
+      "teks": "Hukum I Newton (Inersia) menyatakan bahwa... (Latihan #42)",
+      "opsi": {
+        "A": "Benda akan selalu bergerak jika diberi dorongan sekecil apapun.",
+        "B": "Benda yang diam akan tetap diam dan yang bergerak akan tetap bergerak lurus beraturan jika resultan gayanya nol.",
+        "C": "Gaya berbanding lurus dengan massa dan percepatan (F=ma).",
+        "D": "Setiap gaya aksi pasti akan selalu diikuti oleh gaya reaksi yang sama besar berlawanan arah.",
+        "E": "Semua benda di bumi selalu jatuh ke bawah."
+      },
+      "kunci": "B",
+      "pembahasan": "Hukum Inersia/Kelembaman (Hukum I Newton) berbunyi jika $\\Sigma F = 0$, benda diam tetap diam, benda bergerak lurus konstan tetap lurus konstan.",
+      "trik": "Hukum 1 = Kelembaman / Mempertahankan kondisi asal."
+    },
+    {
+      "id": "smp-8-ipa-43",
+      "teks": "Persendian yang memungkinkan gerakan ke segala arah, seperti pada persendian antara tulang gelang panggul dan tulang paha adalah sendi... (Latihan #43)",
+      "opsi": {
+        "A": "Engsel",
+        "B": "Pelana",
+        "C": "Peluru",
+        "D": "Putar",
+        "E": "Geser"
+      },
+      "kunci": "C",
+      "pembahasan": "Sendi peluru (ball and socket joint) memungkinkan pergerakan bebas ke segala arah (bahu dan paha).",
+      "trik": "Segala arah = Peluru."
+    },
+    {
+      "id": "smp-8-ipa-44",
+      "teks": "Sebuah lemari ditarik dua gaya searah, $F_1 = 15$ N dan $F_2 = 10$ N. Resultan gaya tarik pada lemari tersebut adalah... (Latihan #44)",
+      "opsi": {
+        "A": "5 N",
+        "B": "150 N",
+        "C": "1.5 N",
+        "D": "25 N",
+        "E": "0 N"
+      },
+      "kunci": "D",
+      "pembahasan": "Gaya yang searah dijumlahkan. $\\Sigma F = 15 + 10 = 25$ N.",
+      "trik": "Searah = ditambah, berlawanan = dikurang."
+    },
+    {
+      "id": "smp-8-ipa-45",
+      "teks": "Alat rumah tangga berikut yang menggunakan prinsip tuas jenis pertama (titik tumpu di antara titik kuasa dan titik beban) adalah... (Latihan #45)",
+      "opsi": {
+        "A": "Gerobak dorong roda 1 (Wheelbarrow)",
+        "B": "Pinset",
+        "C": "Sapu",
+        "D": "Kerek air / Katrol diam",
+        "E": "Gunting"
+      },
+      "kunci": "E",
+      "pembahasan": "Gunting memiliki poros/titik tumpu di tengah, sementara beban di ujung mata pisau, dan kuasa di gagangnya.",
+      "trik": "TBK (Tumpu-Beban-Kuasa): Tumpu di tengah = Golongan 1 (Gunting, Jungkat-jungkit)."
+    },
+    {
+      "id": "smp-8-ipa-46",
+      "teks": "Jaringan pada tumbuhan tingkat tinggi yang berfungsi mengangkut air dan mineral dari akar ke daun adalah... (Latihan #46)",
+      "opsi": {
+        "A": "Xilem",
+        "B": "Floem",
+        "C": "Kambium",
+        "D": "Parenkim",
+        "E": "Epidermis"
+      },
+      "kunci": "A",
+      "pembahasan": "Xilem (pembuluh kayu) mengangkut air dan mineral dari akar ke daun. Kebalikannya, Floem mengangkut hasil fotosintesis dari daun ke seluruh tubuh.",
+      "trik": "Xilem = Air. Floem = Makanan/HasiL."
+    },
+    {
+      "id": "smp-8-ipa-47",
+      "teks": "Pencernaan protein pada lambung secara kimiawi dibantu oleh enzim... (Latihan #47)",
+      "opsi": {
+        "A": "Amilase",
+        "B": "Pepsin",
+        "C": "Lipase",
+        "D": "Ptialin",
+        "E": "Tripsin"
+      },
+      "kunci": "B",
+      "pembahasan": "Di dalam lambung terdapat asam klorida (HCl), Enzim Pepsin (memecah protein), dan Enzim Renin (menggumpalkan susu/kasein).",
+      "trik": "Lambung -> Pe-Pe-R (Pepsin, Perut, Renin)."
+    },
+    {
+      "id": "smp-8-ipa-48",
+      "teks": "Berdasarkan Hukum Pascal, tekanan yang diberikan pada zat cair dalam ruang tertutup akan... (Latihan #48)",
+      "opsi": {
+        "A": "Diteruskan lebih besar ke bagian dasar wadah",
+        "B": "Berkurang seiring kedalaman",
+        "C": "Diteruskan ke segala arah dengan sama besar",
+        "D": "Membuat zat cair menguap jika tekanan berlebih",
+        "E": "Mendapat gaya ke atas sama dengan berat zat cair"
+      },
+      "kunci": "C",
+      "pembahasan": "Hukum Pascal (P1 = P2) berbunyi: Tekanan yang diberikan pada zat cair tertutup diteruskan ke segala arah sama rata.",
+      "trik": "Pascal = Segala arah sama besar (contoh: Dongkrak Hidrolik)."
+    },
+    {
+      "id": "smp-8-ipa-49",
+      "teks": "Suatu sumber getar menghasilkan 1200 getaran dalam 1 menit. Berapakah frekuensi getarannya? (Latihan #49)",
+      "opsi": {
+        "A": "12 Hz",
+        "B": "60 Hz",
+        "C": "120 Hz",
+        "D": "20 Hz",
+        "E": "1200 Hz"
+      },
+      "kunci": "D",
+      "pembahasan": "Frekuensi ($f$) = Jumlah getaran ($n$) / waktu ($t$). 1 menit = 60 sekon. $f = 1200 / 60 = 20$ Hz.",
+      "trik": "$f = n / t$. Jangan lupa ubah menit ke detik."
+    },
+    {
+      "id": "smp-8-ipa-50",
+      "teks": "Hewan kelelawar dapat 'melihat' keadaan malam menggunakan pantulan bunyi (ekolokasi). Jenis bunyi yang diandalkan kelelawar adalah... (Latihan #50)",
+      "opsi": {
+        "A": "Infrasonik",
+        "B": "Audiosonik",
+        "C": "Supersonik",
+        "D": "Megasonik",
+        "E": "Ultrasonik"
+      },
+      "kunci": "E",
+      "pembahasan": "Ultrasonik adalah frekuensi bunyi lebih dari 20.000 Hz, yang umumnya didengar oleh lumba-lumba, anjing, dan kelelawar.",
+      "trik": "Suara sangat tinggi yg manusia tak bisa dengar = Ultra."
+    }
+  ]
+}

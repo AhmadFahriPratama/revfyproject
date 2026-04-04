@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TE_MS_01",
+    "pertanyaan": "Fungsi utama dari Alat Pelindung Diri (APD) Kaca Mata (Safety Goggles) di bengkel mesin adalah...",
+    "opsi": [
+      "Melindungi mata dari gram (serpihan besi) hasil pemotongan",
+      "Agar terlihat keren",
+      "Melihat benda yang sangat kecil",
+      "Melindungi mata dari sinar matahari",
+      "Mencegah ngantuk"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Gram atau serpihan logam sangat tajam dan panas sehingga berbahaya bagi mata."
+  },
+  {
+    "id": "TE_MS_02",
+    "pertanyaan": "Warna dasar tanda keselamatan 'Larangan' (misal dilarang merokok) pada rambu K3 adalah...",
+    "opsi": [
+      "Hijau",
+      "Merah",
+      "Biru",
+      "Kuning",
+      "Putih"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Merah melambangkan bahaya atau larangan keras."
+  },
+  {
+    "id": "TE_MS_03",
+    "pertanyaan": "Alat ukur yang memiliki tingkat ketelitian 0.01 mm dan digunakan untuk mengukur diameter luar poros secara presisi adalah...",
+    "opsi": [
+      "Mistar Baja",
+      "Jangka Sorong",
+      "Mikrometer Sekrup",
+      "Dial Indicator",
+      "Busur Derajat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mikrometer sekrup jauh lebih presisi dibandingkan jangka sorong untuk pengukuran dimensi luar."
+  },
+  {
+    "id": "TE_MS_04",
+    "pertanyaan": "Pada jangka sorong, skala yang terletak pada rahang geser disebut...",
+    "opsi": [
+      "Skala Utama",
+      "Skala Inchi",
+      "Skala Tetap",
+      "Skala Nonius (Vernier)",
+      "Skala Putar"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Skala nonius menentukan nilai desimal (ketelitian) pengukuran."
+  },
+  {
+    "id": "TE_MS_05",
+    "pertanyaan": "Bagian jangka sorong yang berfungsi untuk mengukur kedalaman lubang adalah...",
+    "opsi": [
+      "Rahang atas",
+      "Rahang bawah",
+      "Pengunci",
+      "Baut penyetel",
+      "Depth Probe / Ekor"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Batang tipis di ujung belakang jangka sorong ditarik untuk mengukur kedalaman."
+  },
+  {
+    "id": "TE_MS_06",
+    "pertanyaan": "Proyeksi di mana pandangan depan berada di tengah, pandangan atas di atas, dan pandangan samping kanan di kanan disebut...",
+    "opsi": [
+      "Proyeksi Amerika",
+      "Proyeksi Eropa",
+      "Proyeksi Isometri",
+      "Proyeksi Perspektif",
+      "Proyeksi Miring"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Proyeksi Amerika (Sudut Ketiga) paling logis dan umum digunakan di Indonesia."
+  },
+  {
+    "id": "TE_MS_07",
+    "pertanyaan": "Garis tipis putus-putus dengan titik di tengah (strip titik) pada gambar teknik digunakan untuk melambangkan...",
+    "opsi": [
+      "Garis benda yang terlihat",
+      "Garis sumbu atau simetri",
+      "Garis bayangan (tersembunyi)",
+      "Garis ukuran",
+      "Garis potong"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Garis sumbu menandakan pusat dari sebuah lubang atau lingkaran."
+  },
+  {
+    "id": "TE_MS_08",
+    "pertanyaan": "Bagian gambar teknik yang berisi informasi judul gambar, skala, satuan, dan nama pembuat disebut...",
+    "opsi": [
+      "Frame",
+      "Legenda",
+      "Etiket / Kepala Gambar",
+      "Index",
+      "Layout"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Etiket biasanya diletakkan di sudut kanan bawah kertas gambar."
+  },
+  {
+    "id": "TE_MS_09",
+    "pertanyaan": "Alat perkakas tangan yang berfungsi untuk meratakan permukaan logam dengan cara dikikis sedikit demi sedikit adalah...",
+    "opsi": [
+      "Palu",
+      "Gergaji",
+      "Betel",
+      "Kikir",
+      "Pahat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kikir memiliki gigi-gigi pemotong yang halus."
+  },
+  {
+    "id": "TE_MS_10",
+    "pertanyaan": "Kikir yang digunakan untuk membersihkan bagian dalam lubang berbentuk lingkaran adalah kikir...",
+    "opsi": [
+      "Datar",
+      "Setengah Lingkaran",
+      "Segitiga",
+      "Segi Empat",
+      "Bulat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kikir bulat pas dengan diameter lubang silindris."
+  },
+  {
+    "id": "TE_MS_11",
+    "pertanyaan": "Alat yang digunakan untuk menjepit benda kerja agar tidak bergeser saat digergaji atau dikikir adalah...",
+    "opsi": [
+      "Ragum (Vice)",
+      "Tang",
+      "Obeng",
+      "Kunci Inggris",
+      "Pencatut"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ragum dipasang permanen pada meja kerja bengkel."
+  },
+  {
+    "id": "TE_MS_12",
+    "pertanyaan": "Mesin perkakas yang memiliki fungsi utama memutar benda kerja dan menyayatnya dengan pahat diam disebut...",
+    "opsi": [
+      "Mesin Bor",
+      "Mesin Bubut (Lathe Machine)",
+      "Mesin Frais",
+      "Mesin Gerinda",
+      "Mesin Skrap"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Bubut digunakan untuk membuat benda silindris, poros, dan ulir."
+  },
+  {
+    "id": "TE_MS_13",
+    "pertanyaan": "Bagian mesin bubut yang berfungsi untuk menjepit/memegang benda kerja saat berputar adalah...",
+    "opsi": [
+      "Eretan",
+      "Kepala Lepas",
+      "Cekam (Chuck)",
+      "Toolpost",
+      "Bed Mesin"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Chuck terpasang pada spindle utama mesin."
+  },
+  {
+    "id": "TE_MS_14",
+    "pertanyaan": "Mengurangi diameter benda kerja pada mesin bubut disebut proses...",
+    "opsi": [
+      "Facing (Membubut Muka)",
+      "Threading (Bubut Ulir)",
+      "Knurling (Kartel)",
+      "Straight Turning (Bubut Rata)",
+      "Drilling"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bubut rata menyayat memanjang sejajar sumbu benda kerja."
+  },
+  {
+    "id": "TE_MS_15",
+    "pertanyaan": "Mesin perkakas di mana alat potongnya (milling cutter) berputar dan benda kerja bergerak disebut...",
+    "opsi": [
+      "Mesin Bubut",
+      "Mesin Skrap",
+      "Mesin Gergaji",
+      "Mesin Bubut CNC",
+      "Mesin Frais (Milling Machine)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Frais digunakan untuk membuat bidang datar, alur, dan roda gigi."
+  },
+  {
+    "id": "TE_MS_16",
+    "pertanyaan": "Cairan yang disemprotkan pada saat proses pemesinan untuk mendinginkan pahat dan benda kerja disebut...",
+    "opsi": [
+      "Coolant (Cairan Pendingin)",
+      "Oli Mesin",
+      "Air Biasa",
+      "Bahan Bakar",
+      "Cat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Coolant mencegah panas berlebih yang bisa merusak mata pahat."
+  },
+  {
+    "id": "TE_MS_17",
+    "pertanyaan": "Proses menghaluskan permukaan atau menajamkan alat potong dengan gesekan batu berputar disebut...",
+    "opsi": [
+      "Bubut",
+      "Gerinda (Grinding)",
+      "Frais",
+      "Skrap",
+      "Las"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mesin gerinda digunakan untuk finishing atau pengasahan pahat/bor."
+  },
+  {
+    "id": "TE_MS_18",
+    "pertanyaan": "Sifat material yang mampu menahan goresan atau pengikisan disebut...",
+    "opsi": [
+      "Kekuatan (Strength)",
+      "Keuletan (Toughness)",
+      "Kekerasan (Hardness)",
+      "Kekakuan (Stiffness)",
+      "Plastisitas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hardness diukur dengan metode Brinell, Rockwell, atau Vickers."
+  },
+  {
+    "id": "TE_MS_19",
+    "pertanyaan": "Material logam yang mengandung unsur besi (Fe) disebut logam...",
+    "opsi": [
+      "Non-Ferro",
+      "Mulia",
+      "Berat",
+      "Ferro",
+      "Ringan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Baja dan besi tuang adalah contoh logam ferro."
+  },
+  {
+    "id": "TE_MS_20",
+    "pertanyaan": "Alat yang digunakan untuk membuat ulir bagian dalam (pada lubang) secara manual adalah...",
+    "opsi": [
+      "Sneai (Dies)",
+      "Kikir",
+      "Reamer",
+      "Drill",
+      "Tap"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tap dipasang pada kunci tap dan diputar perlahan ke dalam lubang bor."
+  },
+  {
+    "id": "TE_MS_21",
+    "pertanyaan": "Alat yang digunakan untuk membuat ulir bagian luar (pada batang poros) secara manual adalah...",
+    "opsi": [
+      "Sneai (Dies)",
+      "Tap",
+      "Pahat",
+      "Gunting Plat",
+      "Gerinda"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sneai dipasang pada rumah sneai untuk membentuk ulir baut."
+  },
+  {
+    "id": "TE_MS_22",
+    "pertanyaan": "Proses penyambungan dua bagian logam dengan menggunakan panas elektrik atau gas disebut...",
+    "opsi": [
+      "Pengecoran",
+      "Pengelasan (Welding)",
+      "Pemesinan",
+      "Penempaan",
+      "Pengerolan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh: Las SMAW, MIG, TIG, dan OAW. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pengelasan (Welding)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TE_MS_23",
+    "pertanyaan": "Alat pengukur celah atau ketebalan yang sangat tipis (misal celah katup) berupa lembaran baja tipis disebut...",
+    "opsi": [
+      "Vernier Caliper",
+      "Dial Bore Gauge",
+      "Feeler Gauge / Fuller",
+      "Mistar Gulung",
+      "Waterpas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Feeler gauge terdiri dari banyak bilah dengan berbagai ukuran ketebalan."
+  },
+  {
+    "id": "TE_MS_24",
+    "pertanyaan": "Dalam K3, warna kuning pada rambu keselamatan berarti...",
+    "opsi": [
+      "Larangan",
+      "Wajib dilaksanakan",
+      "Keadaan aman",
+      "Peringatan / Waspada",
+      "Informasi umum"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kuning biasanya disertai simbol hitam untuk memperingatkan adanya potensi bahaya."
+  },
+  {
+    "id": "TE_MS_25",
+    "pertanyaan": "Baut dengan kode grade yang tinggi menunjukkan bahwa baut tersebut memiliki...",
+    "opsi": [
+      "Harga mahal",
+      "Warna berkilau",
+      "Kepala yang besar",
+      "Ulir yang kasar",
+      "Kekuatan tarik (tensile strength) yang besar"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Grade kekuatan baut penting untuk keamanan konstruksi mesin."
+  },
+  {
+    "id": "TE_MS_26",
+    "pertanyaan": "Pelumas (Oli) pada mesin berfungsi untuk...",
+    "opsi": [
+      "Mendinginkan dan mengurangi gesekan antar komponen yang bergerak",
+      "Membuat bising",
+      "Menambah berat mesin",
+      "Memperindah tampilan",
+      "Menghilangkan karat secara permanen"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pelumasan mencegah keausan dini pada logam."
+  },
+  {
+    "id": "TE_MS_27",
+    "pertanyaan": "Apa itu Mesin CNC?",
+    "opsi": [
+      "Mesin yang digerakkan tangan manusia sepenuhnya",
+      "Mesin perkakas yang dikontrol secara otomatis menggunakan program komputer (angka)",
+      "Mesin penghitung uang",
+      "Mesin cetak buku",
+      "Mesin cuci besi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "CNC (Computer Numerical Control) menawarkan akurasi dan kecepatan produksi tinggi."
+  },
+  {
+    "id": "TE_MS_28",
+    "pertanyaan": "Mata bor standar yang umum digunakan untuk melubangi besi adalah jenis...",
+    "opsi": [
+      "Center Drill",
+      "Reamer",
+      "Twist Drill",
+      "Countersink",
+      "Endmill"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mata bor spiral memiliki alur untuk membuang gram keluar lubang."
+  },
+  {
+    "id": "TE_MS_29",
+    "pertanyaan": "Proses perlakuan panas (Heat Treatment) bertujuan untuk...",
+    "opsi": [
+      "Memperindah warna logam",
+      "Mencairkan logam menjadi cairan",
+      "Menghapus angka korosi",
+      "Mengubah sifat mekanik logam (misal mengeraskan baja)",
+      "Mengelas besi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: Hardening, Tempering, Annealing."
+  },
+  {
+    "id": "TE_MS_30",
+    "pertanyaan": "Bahan yang umum digunakan untuk membuat mata pahat bubut karena kekerasannya di suhu tinggi adalah...",
+    "opsi": [
+      "Tembaga",
+      "Kuningan",
+      "Plastik",
+      "Kayu jati",
+      "HSS (High Speed Steel) atau Karbida"
+    ],
+    "jawaban": 4,
+    "pembahasan": "HSS tahan panas sehingga tidak mudah tumpul saat menyayat logam."
+  },
+  {
+    "id": "TE_MS_31",
+    "pertanyaan": "Alat yang digunakan untuk memukul benda kerja namun tidak ingin permukaannya rusak/cacat adalah palu...",
+    "opsi": [
+      "Palu Plastik / Karet / Tembaga",
+      "Palu Konde (Besi)",
+      "Palu Kambing",
+      "Palu Kayu",
+      "Palu Emas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Soft face hammer tidak meninggalkan bekas benturan pada logam keras."
+  },
+  {
+    "id": "TE_MS_32",
+    "pertanyaan": "Timbangan beban pada bengkel mesin menggunakan satuan standar...",
+    "opsi": [
+      "Kilogran (kg)",
+      "Newton (N)",
+      "Newton meter (Nm) untuk torsi",
+      "Liter",
+      "Meter"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Gaya diukur dalam Newton menurut sistem SI."
+  },
+  {
+    "id": "TE_MS_33",
+    "pertanyaan": "Sumbunya sejajar dengan garis pandangan kita pada gambar teknik disebut...",
+    "opsi": [
+      "Garis tepi",
+      "Garis gambar",
+      "Titik pusat",
+      "Garis bantu",
+      "Garis nyata"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Digunakan untuk menentukan posisi lubang."
+  },
+  {
+    "id": "TE_MS_34",
+    "pertanyaan": "Transmisi mesin yang menggunakan sabuk dan roda pemutar disebut...",
+    "opsi": [
+      "Gearbox",
+      "Chain and Sprocket",
+      "Cardan Shaft",
+      "Pulley and Belt",
+      "Clutch"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Efektif untuk memindahkan daya dengan jarak tertentu dan meredam getaran."
+  },
+  {
+    "id": "TE_MS_35",
+    "pertanyaan": "Jenis sambungan mesin yang sifatnya permanen (tidak bisa dilepas tanpa merusak) adalah...",
+    "opsi": [
+      "Baut dan Mur",
+      "Pasak",
+      "Snap ring",
+      "Klip",
+      "Keling (Rivet) dan Las"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Baut dan mur adalah sambungan tidak permanen."
+  },
+  {
+    "id": "TE_MS_36",
+    "pertanyaan": "Pengerjaan benda kerja dengan tangan manusia tanpa bantuan mesin bertenaga disebut...",
+    "opsi": [
+      "Kerja Bangku (Benchwork)",
+      "Fabrikasi",
+      "Automasi",
+      "Assembly",
+      "Repair"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: mengikir, menggergaji manual, mengetap."
+  },
+  {
+    "id": "TE_MS_37",
+    "pertanyaan": "Skun 2 : 1 pada gambar teknik artinya...",
+    "opsi": [
+      "Gambar diperkecil 2 kali",
+      "Gambar diperbesar 2 kali dari ukuran asli",
+      "Sesuai ukuran asli",
+      "Hanya perkiraan",
+      "Tidak berskala"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Skala pembesaran digunakan untuk benda-benda yang sangat kecil agar detailnya terlihat."
+  },
+  {
+    "id": "TE_MS_38",
+    "pertanyaan": "Sifat bahan yang mudah kembali ke bentuk semula setelah diberikan gaya disebut...",
+    "opsi": [
+      "Plastis",
+      "Kaku",
+      "Elastis",
+      "Rapuh",
+      "Getas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh: Baja pegas memiliki elastisitas tinggi."
+  },
+  {
+    "id": "TE_MS_39",
+    "pertanyaan": "Logama yang memiliki berat jenis ringan dan tahan korosi, sering digunakan untuk badan pesawat adalah...",
+    "opsi": [
+      "Besi",
+      "Tembaga",
+      "Timbal",
+      "Aluminium",
+      "Perunggu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Aluminium (Non-Ferro) sangat unggul dalam rasio kekuatan dibanding berat."
+  },
+  {
+    "id": "TE_MS_40",
+    "pertanyaan": "Alat yang digunakan untuk memotong plat besi tipis adalah...",
+    "opsi": [
+      "Gergaji Besi",
+      "Pahat Bubut",
+      "Pisau Dapur",
+      "Kikir",
+      "Gunting Plat (Snips)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gunting plat didesain khusus untuk menyayat lembaran logam."
+  },
+  {
+    "id": "TE_MS_41",
+    "pertanyaan": "Apa itu profil 'H-Beam' atau 'I-Beam'?",
+    "opsi": [
+      "Bentuk baja profil konstruksi yang menyerupai huruf H atau I",
+      "Jenis baju kerja",
+      "Nama mesin bubut terbaru",
+      "Alat pengukur suhu",
+      "Mata bor khusus"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Digunakan untuk tiang atau balok bangunan karena kekuatan strukturnya."
+  },
+  {
+    "id": "TE_MS_42",
+    "pertanyaan": "Salah satu bahaya bekerja di bengkel pemesinan tanpa sepatu safety adalah...",
+    "opsi": [
+      "Kaki merasa dingin",
+      "Kaki tertusuk gram panas atau tertimpa benda berat",
+      "Sepatu cepat kotor",
+      "Tidak diizinkan istirahat",
+      "Kaki menjadi besar"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Safety shoes memiliki pelindung baja (steel toe) di bagian ujung jempol."
+  },
+  {
+    "id": "TE_MS_43",
+    "pertanyaan": "Apa fungsi dari 'Minyak Rem' (Brake Fluid)?",
+    "opsi": [
+      "Melumasi ban",
+      "Menyalakan lampu",
+      "Mentransfer tekanan hidrolik dari pedal ke rem",
+      "Menghilangkan debu",
+      "Mendinginkan jok"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Cairan ini tidak boleh kompresibel agar daya rem maksimal."
+  },
+  {
+    "id": "TE_MS_44",
+    "pertanyaan": "Bagian mikro meter sekrup yang berfungsi sebagai pengunci setelah pengukuran dilakukan disebut...",
+    "opsi": [
+      "Thimble",
+      "Ratchet",
+      "Anvil",
+      "Lock Nut / Stopper",
+      "Frame"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Agar saat dilepaskan dari benda kerja, ukuran pada skala tidak bergeser."
+  },
+  {
+    "id": "TE_MS_45",
+    "pertanyaan": "Dalam gambar teknik, ukuran yang diberikan pada bagian yang bulat (diameter) ditandai dengan simbol...",
+    "opsi": [
+      "R",
+      "D",
+      "@",
+      "#",
+      "Ø (Phi)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Simbol lingkaran dicoret melambangkan diameter benda."
+  },
+  {
+    "id": "TE_MS_46",
+    "pertanyaan": "Kertas gambar ukuran A3 jika dibagi dua sama besar akan menghasilkan ukuran...",
+    "opsi": [
+      "A4",
+      "A1",
+      "A2",
+      "A5",
+      "F4"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Standar ukuran ISO (A0, A1, A2, A3, A4, dst)."
+  },
+  {
+    "id": "TE_MS_47",
+    "pertanyaan": "Komponen mesin yang berfungsi untuk merubah gerak putar menjadi gerak kempul (bolak-balik) adalah...",
+    "opsi": [
+      "Roda Gigi",
+      "Poros Engkol (Crankshaft)",
+      "Bantalan (Bearing)",
+      "Rantai",
+      "Sabuk"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Crankshaft krusial pada mesin pembakaran dalam (piston)."
+  },
+  {
+    "id": "TE_MS_48",
+    "pertanyaan": "Kegiatan membersihkan dan merapikan bengkel sesuai tempatnya adalah penerapan prinsip...",
+    "opsi": [
+      "K3L",
+      "UUD",
+      "5R (Ringkas, Rapi, Resik, Rawat, Rajin)",
+      "Standard Operating Procedure (SOP)",
+      "ISO 9001"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Budaya kerja industri untuk meningkatkan efisiensi dan keamanan."
+  },
+  {
+    "id": "TE_MS_49",
+    "pertanyaan": "Alat yang digunakan untuk memindahkan tanda center lubang bor pada benda kerja adalah...",
+    "opsi": [
+      "Jangka",
+      "Kapur",
+      "Pensil",
+      "Penitik (Center Punch)",
+      "Penggaris"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penitik memberikan cekungan kecil agar mata bor tidak meleset saat mulai mengebor."
+  },
+  {
+    "id": "TE_MS_50",
+    "pertanyaan": "Berapakah jumlah milimeter dalam 1 centimeter?",
+    "opsi": [
+      "1 mm",
+      "100 mm",
+      "1000 mm",
+      "0.1 mm",
+      "10 mm"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Konversi dasar: 1 cm = 10 mm. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"10 mm\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

@@ -1,0 +1,708 @@
+{
+  "id": "smp-8-prakarya",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "Prakarya",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-8-prakarya-01",
+      "teks": "Tanah liat, serat alam, dan getah nyatu merupakan contoh bahan lunak pembuatan kerajinan yang bahan dasarnya bersifat... (Latihan #1)",
+      "opsi": {
+        "A": "Alam (dibawa dari alam tanpa zat kimia dasar)",
+        "B": "Sintetis/Buatan",
+        "C": "Keras batuan",
+        "D": "Limbah kimia beracun",
+        "E": "Lunak organik buatan"
+      },
+      "kunci": "A",
+      "pembahasan": "Bahan lunak alam adalah bahan mentah dari kekayaan alam yang tidak dirubah/dicampuri unsur sintetik keras.",
+      "trik": "Tanah, Getah = Dari Alam asli."
+    },
+    {
+      "id": "smp-8-prakarya-02",
+      "teks": "Bubur kertas (paper clay), parafin lilin cair, spons gips, dan sabun batang adalah contoh kerajinan berdasarkan bahan lunak... (Latihan #2)",
+      "opsi": {
+        "A": "Bahan lunak alam",
+        "B": "Bahan lunak buatan (Sintetis)",
+        "C": "Bahan lunak padat mineral",
+        "D": "Bahan keras buatan",
+        "E": "Bahan setengah jadi logam"
+      },
+      "kunci": "B",
+      "pembahasan": "Sabun/Lilin/Gips sudah dicampuri pabrik zat kimia pengolahan manusia, sehingga di labelkan buatan (Artificial soft material).",
+      "trik": "Pabrik kimia = Buatan."
+    },
+    {
+      "id": "smp-8-prakarya-03",
+      "teks": "Keterampilan merakit radio atau bel listrik rumah gampang mendemonstrasikan hasil kecekatan dari bidang Prakarya... (Latihan #3)",
+      "opsi": {
+        "A": "Budi Daya",
+        "B": "Pengolahan Makanan",
+        "C": "Rekayasa (Teknologi Tepat Guna)",
+        "D": "Kerajinan Kriya Rotan",
+        "E": "Perikanan"
+      },
+      "kunci": "C",
+      "pembahasan": "Segala rangkaian pembuatan alat mekanik elektronik pemecah solusi praktis dng dasar sains disebut bidang Rekayasa Teknologi.",
+      "trik": "Bikin Alat Mesin Listrik = Rekayasa (Engineering)."
+    },
+    {
+      "id": "smp-8-prakarya-04",
+      "teks": "Hewan yang tidak bertujuan komersil potong daging, melainkan dipelihara khusus buat pesona warna / suara / kelucuan / teman main disebut... (Latihan #4)",
+      "opsi": {
+        "A": "Ternak unggas pedaging besar",
+        "B": "Ternak Perah Susu laktasi",
+        "C": "Binatang parasit hama liar",
+        "D": "Ternak Hewan Kesayangan (Pets)",
+        "E": "Marga satwa langkah dilindungi karantina"
+      },
+      "kunci": "D",
+      "pembahasan": "Ternak peliharaan kesayangan (Pets) spt kucing kelinci iguana diternakan karena keindahan bulu / sifat unik penghibur penat manusia.",
+      "trik": "Teman Hobi manja dirumah = Pets / Ternak Kesayangan."
+    },
+    {
+      "id": "smp-8-prakarya-05",
+      "teks": "Teknik penyajian pakan rumput hiaju atau pellet yang tepat pd kelinci wajib dijaga higienis nya sebab kelembapan mudah memperanakkan bibit sakit perut... (Latihan #5)",
+      "opsi": {
+        "A": "Flu Tulang",
+        "B": "Rabies sapi Gila",
+        "C": "Kurap cacing mata bintil",
+        "D": "Malaria demam Nyamuk",
+        "E": "Mencret kembung diare/Tympanion"
+      },
+      "kunci": "E",
+      "pembahasan": "Kelinci memiliki sistem lambung yg sangat sensitif dng kandugan pakan (hijauan basah mengembun dapat membuat kelinci kembung diare dan co-mati seketika).",
+      "trik": "Kelinci mencret = sakit mematikan utama kelinci mkn sayur basah."
+    },
+    {
+      "id": "smp-8-prakarya-06",
+      "teks": "Segala jenis biji-bijian karbohidrat dari keluarga rumput padang (Gramineae) spt Gandum, Jagung, Oat, Padi disebut sbg produk pangan... (Latihan #6)",
+      "opsi": {
+        "A": "Serealia",
+        "B": "Umbi-umbian tanah",
+        "C": "Sayuran polong polong",
+        "D": "Kacang-kacangan protein",
+        "E": "Rempah aromatik"
+      },
+      "kunci": "A",
+      "pembahasan": "Serealia (Cereals) berasal dr bahasa romawi ceres (dewi tani) mengindikasi serealia biji padi padian utama bumi sbg nasi.",
+      "trik": "Padi, gandum, jagung tergolong sereal (Serealia / Biji Nasi)."
+    },
+    {
+      "id": "smp-8-prakarya-07",
+      "teks": "Ketela pohon (Singkong/Ubi kayu) adalah pembengkakan bagian ... yang tumbuh mendalam guna melestarikan zat tepung/kadbohidrat cadangan sari pati (Latihan #7)",
+      "opsi": {
+        "A": "Daun hijau menjari",
+        "B": "Akar tanah (Umbi akar)",
+        "C": "Batang atas tangkai",
+        "D": "Buah gantung (pisang)",
+        "E": "Bunga sari benang"
+      },
+      "kunci": "B",
+      "pembahasan": "Singkong ubi jalar (Cassava) adalah modifikasi akar perintis tunggang membentuk bonggol umbi penyimpan makanan pati cadangan di dasar panah.",
+      "trik": "Singkong numbuh dibawah nyangkul di akar = Umbi Akar."
+    },
+    {
+      "id": "smp-8-prakarya-08",
+      "teks": "Makanan tradisional olahan fermentasi kacang kedelai dng khasiat protein tinggi nabati bantuan jamur Rhizopus oligosporus adalah... (Latihan #8)",
+      "opsi": {
+        "A": "Tape Manis",
+        "B": "Tauco",
+        "C": "Tempe",
+        "D": "Tahu Tofu putih",
+        "E": "Kecap Hitam"
+      },
+      "kunci": "C",
+      "pembahasan": "Tempe adalah olahan biji kedelai yg dikapang oleh ragi tempe khusus membentuk padatan berserat jamur putih bergizi.",
+      "trik": "Kedelai mentah fermentasi jamur Rhizopus jd padat ulet = TEMPE Indonesia."
+    },
+    {
+      "id": "smp-8-prakarya-09",
+      "teks": "Teknik pengolahan makanan dengan merebus racikan mentah memakai sedikit kuah cair dalam mangkuk wadah panci perlahan (simmering), sering disebut tekink memasak dengan api... (Latihan #9)",
+      "opsi": {
+        "A": "Baking Pembakaran",
+        "B": "Boiling api Mendidih bergolak kuat 100 celcius terus menerus",
+        "C": "Frying menggoreng Genangan minyak gajih",
+        "D": "Kecil berangsur mendidih meresap (Poaching/Simmering)",
+        "E": "Roasting pemanggangan terbuka oven"
+      },
+      "kunci": "D",
+      "pembahasan": "Memasak kuah perlahan kaldu agar awet lembut bumbu (spt sop kuoton/semur) pakai suhu di bawah titik didih bergelembung kecil dikarenakan tknik simmering meresap api pelan.",
+      "trik": "Simmer (meresap pelan) = Api kecil dan gelembung perlahan kuah sedikit."
+    },
+    {
+      "id": "smp-8-prakarya-10",
+      "teks": "Tujuan awal pemanasan singkong ubi mentah dipotong dan dikukus/boiling sebelum menjadikannya getuk lindri cemilan tradisional adalah untuk... (Latihan #10)",
+      "opsi": {
+        "A": "Memberinya pewarna kimia bahaya hijau yg rekat dlm daging umbi",
+        "B": "Menjadikannya keripik gurih super garing renyah mekar",
+        "C": "Mengurangi kandungan pemanis gula tebu yg tumpah luap",
+        "D": "Menambah kadar lemak kalori trans goreng",
+        "E": "Membuat teksum singkong ubi berubah menjadi lunak lembur memudahkannya untuk dilumatkan"
+      },
+      "kunci": "E",
+      "pembahasan": "Ubi Mentah berkarakter Keras sekali, dng dipanaskan (dikukus merebus), sel pati singkong gelatinisasi lalu mejadi lembek empuk lunak siap di tumbuk halus Getuk.",
+      "trik": "Perebusan bikin umbi jadi Empuk Lunak Lumat(getuk)."
+    },
+    {
+      "id": "smp-8-prakarya-11",
+      "teks": "Tanah liat, serat alam, dan getah nyatu merupakan contoh bahan lunak pembuatan kerajinan yang bahan dasarnya bersifat... (Latihan #11)",
+      "opsi": {
+        "A": "Alam (dibawa dari alam tanpa zat kimia dasar)",
+        "B": "Sintetis/Buatan",
+        "C": "Keras batuan",
+        "D": "Limbah kimia beracun",
+        "E": "Lunak organik buatan"
+      },
+      "kunci": "A",
+      "pembahasan": "Bahan lunak alam adalah bahan mentah dari kekayaan alam yang tidak dirubah/dicampuri unsur sintetik keras.",
+      "trik": "Tanah, Getah = Dari Alam asli."
+    },
+    {
+      "id": "smp-8-prakarya-12",
+      "teks": "Bubur kertas (paper clay), parafin lilin cair, spons gips, dan sabun batang adalah contoh kerajinan berdasarkan bahan lunak... (Latihan #12)",
+      "opsi": {
+        "A": "Bahan lunak alam",
+        "B": "Bahan lunak buatan (Sintetis)",
+        "C": "Bahan lunak padat mineral",
+        "D": "Bahan keras buatan",
+        "E": "Bahan setengah jadi logam"
+      },
+      "kunci": "B",
+      "pembahasan": "Sabun/Lilin/Gips sudah dicampuri pabrik zat kimia pengolahan manusia, sehingga di labelkan buatan (Artificial soft material).",
+      "trik": "Pabrik kimia = Buatan."
+    },
+    {
+      "id": "smp-8-prakarya-13",
+      "teks": "Keterampilan merakit radio atau bel listrik rumah gampang mendemonstrasikan hasil kecekatan dari bidang Prakarya... (Latihan #13)",
+      "opsi": {
+        "A": "Budi Daya",
+        "B": "Pengolahan Makanan",
+        "C": "Rekayasa (Teknologi Tepat Guna)",
+        "D": "Kerajinan Kriya Rotan",
+        "E": "Perikanan"
+      },
+      "kunci": "C",
+      "pembahasan": "Segala rangkaian pembuatan alat mekanik elektronik pemecah solusi praktis dng dasar sains disebut bidang Rekayasa Teknologi.",
+      "trik": "Bikin Alat Mesin Listrik = Rekayasa (Engineering)."
+    },
+    {
+      "id": "smp-8-prakarya-14",
+      "teks": "Hewan yang tidak bertujuan komersil potong daging, melainkan dipelihara khusus buat pesona warna / suara / kelucuan / teman main disebut... (Latihan #14)",
+      "opsi": {
+        "A": "Ternak unggas pedaging besar",
+        "B": "Ternak Perah Susu laktasi",
+        "C": "Binatang parasit hama liar",
+        "D": "Ternak Hewan Kesayangan (Pets)",
+        "E": "Marga satwa langkah dilindungi karantina"
+      },
+      "kunci": "D",
+      "pembahasan": "Ternak peliharaan kesayangan (Pets) spt kucing kelinci iguana diternakan karena keindahan bulu / sifat unik penghibur penat manusia.",
+      "trik": "Teman Hobi manja dirumah = Pets / Ternak Kesayangan."
+    },
+    {
+      "id": "smp-8-prakarya-15",
+      "teks": "Teknik penyajian pakan rumput hiaju atau pellet yang tepat pd kelinci wajib dijaga higienis nya sebab kelembapan mudah memperanakkan bibit sakit perut... (Latihan #15)",
+      "opsi": {
+        "A": "Flu Tulang",
+        "B": "Rabies sapi Gila",
+        "C": "Kurap cacing mata bintil",
+        "D": "Malaria demam Nyamuk",
+        "E": "Mencret kembung diare/Tympanion"
+      },
+      "kunci": "E",
+      "pembahasan": "Kelinci memiliki sistem lambung yg sangat sensitif dng kandugan pakan (hijauan basah mengembun dapat membuat kelinci kembung diare dan co-mati seketika).",
+      "trik": "Kelinci mencret = sakit mematikan utama kelinci mkn sayur basah."
+    },
+    {
+      "id": "smp-8-prakarya-16",
+      "teks": "Segala jenis biji-bijian karbohidrat dari keluarga rumput padang (Gramineae) spt Gandum, Jagung, Oat, Padi disebut sbg produk pangan... (Latihan #16)",
+      "opsi": {
+        "A": "Serealia",
+        "B": "Umbi-umbian tanah",
+        "C": "Sayuran polong polong",
+        "D": "Kacang-kacangan protein",
+        "E": "Rempah aromatik"
+      },
+      "kunci": "A",
+      "pembahasan": "Serealia (Cereals) berasal dr bahasa romawi ceres (dewi tani) mengindikasi serealia biji padi padian utama bumi sbg nasi.",
+      "trik": "Padi, gandum, jagung tergolong sereal (Serealia / Biji Nasi)."
+    },
+    {
+      "id": "smp-8-prakarya-17",
+      "teks": "Ketela pohon (Singkong/Ubi kayu) adalah pembengkakan bagian ... yang tumbuh mendalam guna melestarikan zat tepung/kadbohidrat cadangan sari pati (Latihan #17)",
+      "opsi": {
+        "A": "Daun hijau menjari",
+        "B": "Akar tanah (Umbi akar)",
+        "C": "Batang atas tangkai",
+        "D": "Buah gantung (pisang)",
+        "E": "Bunga sari benang"
+      },
+      "kunci": "B",
+      "pembahasan": "Singkong ubi jalar (Cassava) adalah modifikasi akar perintis tunggang membentuk bonggol umbi penyimpan makanan pati cadangan di dasar panah.",
+      "trik": "Singkong numbuh dibawah nyangkul di akar = Umbi Akar."
+    },
+    {
+      "id": "smp-8-prakarya-18",
+      "teks": "Makanan tradisional olahan fermentasi kacang kedelai dng khasiat protein tinggi nabati bantuan jamur Rhizopus oligosporus adalah... (Latihan #18)",
+      "opsi": {
+        "A": "Tape Manis",
+        "B": "Tauco",
+        "C": "Tempe",
+        "D": "Tahu Tofu putih",
+        "E": "Kecap Hitam"
+      },
+      "kunci": "C",
+      "pembahasan": "Tempe adalah olahan biji kedelai yg dikapang oleh ragi tempe khusus membentuk padatan berserat jamur putih bergizi.",
+      "trik": "Kedelai mentah fermentasi jamur Rhizopus jd padat ulet = TEMPE Indonesia."
+    },
+    {
+      "id": "smp-8-prakarya-19",
+      "teks": "Teknik pengolahan makanan dengan merebus racikan mentah memakai sedikit kuah cair dalam mangkuk wadah panci perlahan (simmering), sering disebut tekink memasak dengan api... (Latihan #19)",
+      "opsi": {
+        "A": "Baking Pembakaran",
+        "B": "Boiling api Mendidih bergolak kuat 100 celcius terus menerus",
+        "C": "Frying menggoreng Genangan minyak gajih",
+        "D": "Kecil berangsur mendidih meresap (Poaching/Simmering)",
+        "E": "Roasting pemanggangan terbuka oven"
+      },
+      "kunci": "D",
+      "pembahasan": "Memasak kuah perlahan kaldu agar awet lembut bumbu (spt sop kuoton/semur) pakai suhu di bawah titik didih bergelembung kecil dikarenakan tknik simmering meresap api pelan.",
+      "trik": "Simmer (meresap pelan) = Api kecil dan gelembung perlahan kuah sedikit."
+    },
+    {
+      "id": "smp-8-prakarya-20",
+      "teks": "Tujuan awal pemanasan singkong ubi mentah dipotong dan dikukus/boiling sebelum menjadikannya getuk lindri cemilan tradisional adalah untuk... (Latihan #20)",
+      "opsi": {
+        "A": "Memberinya pewarna kimia bahaya hijau yg rekat dlm daging umbi",
+        "B": "Menjadikannya keripik gurih super garing renyah mekar",
+        "C": "Mengurangi kandungan pemanis gula tebu yg tumpah luap",
+        "D": "Menambah kadar lemak kalori trans goreng",
+        "E": "Membuat teksum singkong ubi berubah menjadi lunak lembur memudahkannya untuk dilumatkan"
+      },
+      "kunci": "E",
+      "pembahasan": "Ubi Mentah berkarakter Keras sekali, dng dipanaskan (dikukus merebus), sel pati singkong gelatinisasi lalu mejadi lembek empuk lunak siap di tumbuk halus Getuk.",
+      "trik": "Perebusan bikin umbi jadi Empuk Lunak Lumat(getuk)."
+    },
+    {
+      "id": "smp-8-prakarya-21",
+      "teks": "Tanah liat, serat alam, dan getah nyatu merupakan contoh bahan lunak pembuatan kerajinan yang bahan dasarnya bersifat... (Latihan #21)",
+      "opsi": {
+        "A": "Alam (dibawa dari alam tanpa zat kimia dasar)",
+        "B": "Sintetis/Buatan",
+        "C": "Keras batuan",
+        "D": "Limbah kimia beracun",
+        "E": "Lunak organik buatan"
+      },
+      "kunci": "A",
+      "pembahasan": "Bahan lunak alam adalah bahan mentah dari kekayaan alam yang tidak dirubah/dicampuri unsur sintetik keras.",
+      "trik": "Tanah, Getah = Dari Alam asli."
+    },
+    {
+      "id": "smp-8-prakarya-22",
+      "teks": "Bubur kertas (paper clay), parafin lilin cair, spons gips, dan sabun batang adalah contoh kerajinan berdasarkan bahan lunak... (Latihan #22)",
+      "opsi": {
+        "A": "Bahan lunak alam",
+        "B": "Bahan lunak buatan (Sintetis)",
+        "C": "Bahan lunak padat mineral",
+        "D": "Bahan keras buatan",
+        "E": "Bahan setengah jadi logam"
+      },
+      "kunci": "B",
+      "pembahasan": "Sabun/Lilin/Gips sudah dicampuri pabrik zat kimia pengolahan manusia, sehingga di labelkan buatan (Artificial soft material).",
+      "trik": "Pabrik kimia = Buatan."
+    },
+    {
+      "id": "smp-8-prakarya-23",
+      "teks": "Keterampilan merakit radio atau bel listrik rumah gampang mendemonstrasikan hasil kecekatan dari bidang Prakarya... (Latihan #23)",
+      "opsi": {
+        "A": "Budi Daya",
+        "B": "Pengolahan Makanan",
+        "C": "Rekayasa (Teknologi Tepat Guna)",
+        "D": "Kerajinan Kriya Rotan",
+        "E": "Perikanan"
+      },
+      "kunci": "C",
+      "pembahasan": "Segala rangkaian pembuatan alat mekanik elektronik pemecah solusi praktis dng dasar sains disebut bidang Rekayasa Teknologi.",
+      "trik": "Bikin Alat Mesin Listrik = Rekayasa (Engineering)."
+    },
+    {
+      "id": "smp-8-prakarya-24",
+      "teks": "Hewan yang tidak bertujuan komersil potong daging, melainkan dipelihara khusus buat pesona warna / suara / kelucuan / teman main disebut... (Latihan #24)",
+      "opsi": {
+        "A": "Ternak unggas pedaging besar",
+        "B": "Ternak Perah Susu laktasi",
+        "C": "Binatang parasit hama liar",
+        "D": "Ternak Hewan Kesayangan (Pets)",
+        "E": "Marga satwa langkah dilindungi karantina"
+      },
+      "kunci": "D",
+      "pembahasan": "Ternak peliharaan kesayangan (Pets) spt kucing kelinci iguana diternakan karena keindahan bulu / sifat unik penghibur penat manusia.",
+      "trik": "Teman Hobi manja dirumah = Pets / Ternak Kesayangan."
+    },
+    {
+      "id": "smp-8-prakarya-25",
+      "teks": "Teknik penyajian pakan rumput hiaju atau pellet yang tepat pd kelinci wajib dijaga higienis nya sebab kelembapan mudah memperanakkan bibit sakit perut... (Latihan #25)",
+      "opsi": {
+        "A": "Flu Tulang",
+        "B": "Rabies sapi Gila",
+        "C": "Kurap cacing mata bintil",
+        "D": "Malaria demam Nyamuk",
+        "E": "Mencret kembung diare/Tympanion"
+      },
+      "kunci": "E",
+      "pembahasan": "Kelinci memiliki sistem lambung yg sangat sensitif dng kandugan pakan (hijauan basah mengembun dapat membuat kelinci kembung diare dan co-mati seketika).",
+      "trik": "Kelinci mencret = sakit mematikan utama kelinci mkn sayur basah."
+    },
+    {
+      "id": "smp-8-prakarya-26",
+      "teks": "Segala jenis biji-bijian karbohidrat dari keluarga rumput padang (Gramineae) spt Gandum, Jagung, Oat, Padi disebut sbg produk pangan... (Latihan #26)",
+      "opsi": {
+        "A": "Serealia",
+        "B": "Umbi-umbian tanah",
+        "C": "Sayuran polong polong",
+        "D": "Kacang-kacangan protein",
+        "E": "Rempah aromatik"
+      },
+      "kunci": "A",
+      "pembahasan": "Serealia (Cereals) berasal dr bahasa romawi ceres (dewi tani) mengindikasi serealia biji padi padian utama bumi sbg nasi.",
+      "trik": "Padi, gandum, jagung tergolong sereal (Serealia / Biji Nasi)."
+    },
+    {
+      "id": "smp-8-prakarya-27",
+      "teks": "Ketela pohon (Singkong/Ubi kayu) adalah pembengkakan bagian ... yang tumbuh mendalam guna melestarikan zat tepung/kadbohidrat cadangan sari pati (Latihan #27)",
+      "opsi": {
+        "A": "Daun hijau menjari",
+        "B": "Akar tanah (Umbi akar)",
+        "C": "Batang atas tangkai",
+        "D": "Buah gantung (pisang)",
+        "E": "Bunga sari benang"
+      },
+      "kunci": "B",
+      "pembahasan": "Singkong ubi jalar (Cassava) adalah modifikasi akar perintis tunggang membentuk bonggol umbi penyimpan makanan pati cadangan di dasar panah.",
+      "trik": "Singkong numbuh dibawah nyangkul di akar = Umbi Akar."
+    },
+    {
+      "id": "smp-8-prakarya-28",
+      "teks": "Makanan tradisional olahan fermentasi kacang kedelai dng khasiat protein tinggi nabati bantuan jamur Rhizopus oligosporus adalah... (Latihan #28)",
+      "opsi": {
+        "A": "Tape Manis",
+        "B": "Tauco",
+        "C": "Tempe",
+        "D": "Tahu Tofu putih",
+        "E": "Kecap Hitam"
+      },
+      "kunci": "C",
+      "pembahasan": "Tempe adalah olahan biji kedelai yg dikapang oleh ragi tempe khusus membentuk padatan berserat jamur putih bergizi.",
+      "trik": "Kedelai mentah fermentasi jamur Rhizopus jd padat ulet = TEMPE Indonesia."
+    },
+    {
+      "id": "smp-8-prakarya-29",
+      "teks": "Teknik pengolahan makanan dengan merebus racikan mentah memakai sedikit kuah cair dalam mangkuk wadah panci perlahan (simmering), sering disebut tekink memasak dengan api... (Latihan #29)",
+      "opsi": {
+        "A": "Baking Pembakaran",
+        "B": "Boiling api Mendidih bergolak kuat 100 celcius terus menerus",
+        "C": "Frying menggoreng Genangan minyak gajih",
+        "D": "Kecil berangsur mendidih meresap (Poaching/Simmering)",
+        "E": "Roasting pemanggangan terbuka oven"
+      },
+      "kunci": "D",
+      "pembahasan": "Memasak kuah perlahan kaldu agar awet lembut bumbu (spt sop kuoton/semur) pakai suhu di bawah titik didih bergelembung kecil dikarenakan tknik simmering meresap api pelan.",
+      "trik": "Simmer (meresap pelan) = Api kecil dan gelembung perlahan kuah sedikit."
+    },
+    {
+      "id": "smp-8-prakarya-30",
+      "teks": "Tujuan awal pemanasan singkong ubi mentah dipotong dan dikukus/boiling sebelum menjadikannya getuk lindri cemilan tradisional adalah untuk... (Latihan #30)",
+      "opsi": {
+        "A": "Memberinya pewarna kimia bahaya hijau yg rekat dlm daging umbi",
+        "B": "Menjadikannya keripik gurih super garing renyah mekar",
+        "C": "Mengurangi kandungan pemanis gula tebu yg tumpah luap",
+        "D": "Menambah kadar lemak kalori trans goreng",
+        "E": "Membuat teksum singkong ubi berubah menjadi lunak lembur memudahkannya untuk dilumatkan"
+      },
+      "kunci": "E",
+      "pembahasan": "Ubi Mentah berkarakter Keras sekali, dng dipanaskan (dikukus merebus), sel pati singkong gelatinisasi lalu mejadi lembek empuk lunak siap di tumbuk halus Getuk.",
+      "trik": "Perebusan bikin umbi jadi Empuk Lunak Lumat(getuk)."
+    },
+    {
+      "id": "smp-8-prakarya-31",
+      "teks": "Tanah liat, serat alam, dan getah nyatu merupakan contoh bahan lunak pembuatan kerajinan yang bahan dasarnya bersifat... (Latihan #31)",
+      "opsi": {
+        "A": "Alam (dibawa dari alam tanpa zat kimia dasar)",
+        "B": "Sintetis/Buatan",
+        "C": "Keras batuan",
+        "D": "Limbah kimia beracun",
+        "E": "Lunak organik buatan"
+      },
+      "kunci": "A",
+      "pembahasan": "Bahan lunak alam adalah bahan mentah dari kekayaan alam yang tidak dirubah/dicampuri unsur sintetik keras.",
+      "trik": "Tanah, Getah = Dari Alam asli."
+    },
+    {
+      "id": "smp-8-prakarya-32",
+      "teks": "Bubur kertas (paper clay), parafin lilin cair, spons gips, dan sabun batang adalah contoh kerajinan berdasarkan bahan lunak... (Latihan #32)",
+      "opsi": {
+        "A": "Bahan lunak alam",
+        "B": "Bahan lunak buatan (Sintetis)",
+        "C": "Bahan lunak padat mineral",
+        "D": "Bahan keras buatan",
+        "E": "Bahan setengah jadi logam"
+      },
+      "kunci": "B",
+      "pembahasan": "Sabun/Lilin/Gips sudah dicampuri pabrik zat kimia pengolahan manusia, sehingga di labelkan buatan (Artificial soft material).",
+      "trik": "Pabrik kimia = Buatan."
+    },
+    {
+      "id": "smp-8-prakarya-33",
+      "teks": "Keterampilan merakit radio atau bel listrik rumah gampang mendemonstrasikan hasil kecekatan dari bidang Prakarya... (Latihan #33)",
+      "opsi": {
+        "A": "Budi Daya",
+        "B": "Pengolahan Makanan",
+        "C": "Rekayasa (Teknologi Tepat Guna)",
+        "D": "Kerajinan Kriya Rotan",
+        "E": "Perikanan"
+      },
+      "kunci": "C",
+      "pembahasan": "Segala rangkaian pembuatan alat mekanik elektronik pemecah solusi praktis dng dasar sains disebut bidang Rekayasa Teknologi.",
+      "trik": "Bikin Alat Mesin Listrik = Rekayasa (Engineering)."
+    },
+    {
+      "id": "smp-8-prakarya-34",
+      "teks": "Hewan yang tidak bertujuan komersil potong daging, melainkan dipelihara khusus buat pesona warna / suara / kelucuan / teman main disebut... (Latihan #34)",
+      "opsi": {
+        "A": "Ternak unggas pedaging besar",
+        "B": "Ternak Perah Susu laktasi",
+        "C": "Binatang parasit hama liar",
+        "D": "Ternak Hewan Kesayangan (Pets)",
+        "E": "Marga satwa langkah dilindungi karantina"
+      },
+      "kunci": "D",
+      "pembahasan": "Ternak peliharaan kesayangan (Pets) spt kucing kelinci iguana diternakan karena keindahan bulu / sifat unik penghibur penat manusia.",
+      "trik": "Teman Hobi manja dirumah = Pets / Ternak Kesayangan."
+    },
+    {
+      "id": "smp-8-prakarya-35",
+      "teks": "Teknik penyajian pakan rumput hiaju atau pellet yang tepat pd kelinci wajib dijaga higienis nya sebab kelembapan mudah memperanakkan bibit sakit perut... (Latihan #35)",
+      "opsi": {
+        "A": "Flu Tulang",
+        "B": "Rabies sapi Gila",
+        "C": "Kurap cacing mata bintil",
+        "D": "Malaria demam Nyamuk",
+        "E": "Mencret kembung diare/Tympanion"
+      },
+      "kunci": "E",
+      "pembahasan": "Kelinci memiliki sistem lambung yg sangat sensitif dng kandugan pakan (hijauan basah mengembun dapat membuat kelinci kembung diare dan co-mati seketika).",
+      "trik": "Kelinci mencret = sakit mematikan utama kelinci mkn sayur basah."
+    },
+    {
+      "id": "smp-8-prakarya-36",
+      "teks": "Segala jenis biji-bijian karbohidrat dari keluarga rumput padang (Gramineae) spt Gandum, Jagung, Oat, Padi disebut sbg produk pangan... (Latihan #36)",
+      "opsi": {
+        "A": "Serealia",
+        "B": "Umbi-umbian tanah",
+        "C": "Sayuran polong polong",
+        "D": "Kacang-kacangan protein",
+        "E": "Rempah aromatik"
+      },
+      "kunci": "A",
+      "pembahasan": "Serealia (Cereals) berasal dr bahasa romawi ceres (dewi tani) mengindikasi serealia biji padi padian utama bumi sbg nasi.",
+      "trik": "Padi, gandum, jagung tergolong sereal (Serealia / Biji Nasi)."
+    },
+    {
+      "id": "smp-8-prakarya-37",
+      "teks": "Ketela pohon (Singkong/Ubi kayu) adalah pembengkakan bagian ... yang tumbuh mendalam guna melestarikan zat tepung/kadbohidrat cadangan sari pati (Latihan #37)",
+      "opsi": {
+        "A": "Daun hijau menjari",
+        "B": "Akar tanah (Umbi akar)",
+        "C": "Batang atas tangkai",
+        "D": "Buah gantung (pisang)",
+        "E": "Bunga sari benang"
+      },
+      "kunci": "B",
+      "pembahasan": "Singkong ubi jalar (Cassava) adalah modifikasi akar perintis tunggang membentuk bonggol umbi penyimpan makanan pati cadangan di dasar panah.",
+      "trik": "Singkong numbuh dibawah nyangkul di akar = Umbi Akar."
+    },
+    {
+      "id": "smp-8-prakarya-38",
+      "teks": "Makanan tradisional olahan fermentasi kacang kedelai dng khasiat protein tinggi nabati bantuan jamur Rhizopus oligosporus adalah... (Latihan #38)",
+      "opsi": {
+        "A": "Tape Manis",
+        "B": "Tauco",
+        "C": "Tempe",
+        "D": "Tahu Tofu putih",
+        "E": "Kecap Hitam"
+      },
+      "kunci": "C",
+      "pembahasan": "Tempe adalah olahan biji kedelai yg dikapang oleh ragi tempe khusus membentuk padatan berserat jamur putih bergizi.",
+      "trik": "Kedelai mentah fermentasi jamur Rhizopus jd padat ulet = TEMPE Indonesia."
+    },
+    {
+      "id": "smp-8-prakarya-39",
+      "teks": "Teknik pengolahan makanan dengan merebus racikan mentah memakai sedikit kuah cair dalam mangkuk wadah panci perlahan (simmering), sering disebut tekink memasak dengan api... (Latihan #39)",
+      "opsi": {
+        "A": "Baking Pembakaran",
+        "B": "Boiling api Mendidih bergolak kuat 100 celcius terus menerus",
+        "C": "Frying menggoreng Genangan minyak gajih",
+        "D": "Kecil berangsur mendidih meresap (Poaching/Simmering)",
+        "E": "Roasting pemanggangan terbuka oven"
+      },
+      "kunci": "D",
+      "pembahasan": "Memasak kuah perlahan kaldu agar awet lembut bumbu (spt sop kuoton/semur) pakai suhu di bawah titik didih bergelembung kecil dikarenakan tknik simmering meresap api pelan.",
+      "trik": "Simmer (meresap pelan) = Api kecil dan gelembung perlahan kuah sedikit."
+    },
+    {
+      "id": "smp-8-prakarya-40",
+      "teks": "Tujuan awal pemanasan singkong ubi mentah dipotong dan dikukus/boiling sebelum menjadikannya getuk lindri cemilan tradisional adalah untuk... (Latihan #40)",
+      "opsi": {
+        "A": "Memberinya pewarna kimia bahaya hijau yg rekat dlm daging umbi",
+        "B": "Menjadikannya keripik gurih super garing renyah mekar",
+        "C": "Mengurangi kandungan pemanis gula tebu yg tumpah luap",
+        "D": "Menambah kadar lemak kalori trans goreng",
+        "E": "Membuat teksum singkong ubi berubah menjadi lunak lembur memudahkannya untuk dilumatkan"
+      },
+      "kunci": "E",
+      "pembahasan": "Ubi Mentah berkarakter Keras sekali, dng dipanaskan (dikukus merebus), sel pati singkong gelatinisasi lalu mejadi lembek empuk lunak siap di tumbuk halus Getuk.",
+      "trik": "Perebusan bikin umbi jadi Empuk Lunak Lumat(getuk)."
+    },
+    {
+      "id": "smp-8-prakarya-41",
+      "teks": "Tanah liat, serat alam, dan getah nyatu merupakan contoh bahan lunak pembuatan kerajinan yang bahan dasarnya bersifat... (Latihan #41)",
+      "opsi": {
+        "A": "Alam (dibawa dari alam tanpa zat kimia dasar)",
+        "B": "Sintetis/Buatan",
+        "C": "Keras batuan",
+        "D": "Limbah kimia beracun",
+        "E": "Lunak organik buatan"
+      },
+      "kunci": "A",
+      "pembahasan": "Bahan lunak alam adalah bahan mentah dari kekayaan alam yang tidak dirubah/dicampuri unsur sintetik keras.",
+      "trik": "Tanah, Getah = Dari Alam asli."
+    },
+    {
+      "id": "smp-8-prakarya-42",
+      "teks": "Bubur kertas (paper clay), parafin lilin cair, spons gips, dan sabun batang adalah contoh kerajinan berdasarkan bahan lunak... (Latihan #42)",
+      "opsi": {
+        "A": "Bahan lunak alam",
+        "B": "Bahan lunak buatan (Sintetis)",
+        "C": "Bahan lunak padat mineral",
+        "D": "Bahan keras buatan",
+        "E": "Bahan setengah jadi logam"
+      },
+      "kunci": "B",
+      "pembahasan": "Sabun/Lilin/Gips sudah dicampuri pabrik zat kimia pengolahan manusia, sehingga di labelkan buatan (Artificial soft material).",
+      "trik": "Pabrik kimia = Buatan."
+    },
+    {
+      "id": "smp-8-prakarya-43",
+      "teks": "Keterampilan merakit radio atau bel listrik rumah gampang mendemonstrasikan hasil kecekatan dari bidang Prakarya... (Latihan #43)",
+      "opsi": {
+        "A": "Budi Daya",
+        "B": "Pengolahan Makanan",
+        "C": "Rekayasa (Teknologi Tepat Guna)",
+        "D": "Kerajinan Kriya Rotan",
+        "E": "Perikanan"
+      },
+      "kunci": "C",
+      "pembahasan": "Segala rangkaian pembuatan alat mekanik elektronik pemecah solusi praktis dng dasar sains disebut bidang Rekayasa Teknologi.",
+      "trik": "Bikin Alat Mesin Listrik = Rekayasa (Engineering)."
+    },
+    {
+      "id": "smp-8-prakarya-44",
+      "teks": "Hewan yang tidak bertujuan komersil potong daging, melainkan dipelihara khusus buat pesona warna / suara / kelucuan / teman main disebut... (Latihan #44)",
+      "opsi": {
+        "A": "Ternak unggas pedaging besar",
+        "B": "Ternak Perah Susu laktasi",
+        "C": "Binatang parasit hama liar",
+        "D": "Ternak Hewan Kesayangan (Pets)",
+        "E": "Marga satwa langkah dilindungi karantina"
+      },
+      "kunci": "D",
+      "pembahasan": "Ternak peliharaan kesayangan (Pets) spt kucing kelinci iguana diternakan karena keindahan bulu / sifat unik penghibur penat manusia.",
+      "trik": "Teman Hobi manja dirumah = Pets / Ternak Kesayangan."
+    },
+    {
+      "id": "smp-8-prakarya-45",
+      "teks": "Teknik penyajian pakan rumput hiaju atau pellet yang tepat pd kelinci wajib dijaga higienis nya sebab kelembapan mudah memperanakkan bibit sakit perut... (Latihan #45)",
+      "opsi": {
+        "A": "Flu Tulang",
+        "B": "Rabies sapi Gila",
+        "C": "Kurap cacing mata bintil",
+        "D": "Malaria demam Nyamuk",
+        "E": "Mencret kembung diare/Tympanion"
+      },
+      "kunci": "E",
+      "pembahasan": "Kelinci memiliki sistem lambung yg sangat sensitif dng kandugan pakan (hijauan basah mengembun dapat membuat kelinci kembung diare dan co-mati seketika).",
+      "trik": "Kelinci mencret = sakit mematikan utama kelinci mkn sayur basah."
+    },
+    {
+      "id": "smp-8-prakarya-46",
+      "teks": "Segala jenis biji-bijian karbohidrat dari keluarga rumput padang (Gramineae) spt Gandum, Jagung, Oat, Padi disebut sbg produk pangan... (Latihan #46)",
+      "opsi": {
+        "A": "Serealia",
+        "B": "Umbi-umbian tanah",
+        "C": "Sayuran polong polong",
+        "D": "Kacang-kacangan protein",
+        "E": "Rempah aromatik"
+      },
+      "kunci": "A",
+      "pembahasan": "Serealia (Cereals) berasal dr bahasa romawi ceres (dewi tani) mengindikasi serealia biji padi padian utama bumi sbg nasi.",
+      "trik": "Padi, gandum, jagung tergolong sereal (Serealia / Biji Nasi)."
+    },
+    {
+      "id": "smp-8-prakarya-47",
+      "teks": "Ketela pohon (Singkong/Ubi kayu) adalah pembengkakan bagian ... yang tumbuh mendalam guna melestarikan zat tepung/kadbohidrat cadangan sari pati (Latihan #47)",
+      "opsi": {
+        "A": "Daun hijau menjari",
+        "B": "Akar tanah (Umbi akar)",
+        "C": "Batang atas tangkai",
+        "D": "Buah gantung (pisang)",
+        "E": "Bunga sari benang"
+      },
+      "kunci": "B",
+      "pembahasan": "Singkong ubi jalar (Cassava) adalah modifikasi akar perintis tunggang membentuk bonggol umbi penyimpan makanan pati cadangan di dasar panah.",
+      "trik": "Singkong numbuh dibawah nyangkul di akar = Umbi Akar."
+    },
+    {
+      "id": "smp-8-prakarya-48",
+      "teks": "Makanan tradisional olahan fermentasi kacang kedelai dng khasiat protein tinggi nabati bantuan jamur Rhizopus oligosporus adalah... (Latihan #48)",
+      "opsi": {
+        "A": "Tape Manis",
+        "B": "Tauco",
+        "C": "Tempe",
+        "D": "Tahu Tofu putih",
+        "E": "Kecap Hitam"
+      },
+      "kunci": "C",
+      "pembahasan": "Tempe adalah olahan biji kedelai yg dikapang oleh ragi tempe khusus membentuk padatan berserat jamur putih bergizi.",
+      "trik": "Kedelai mentah fermentasi jamur Rhizopus jd padat ulet = TEMPE Indonesia."
+    },
+    {
+      "id": "smp-8-prakarya-49",
+      "teks": "Teknik pengolahan makanan dengan merebus racikan mentah memakai sedikit kuah cair dalam mangkuk wadah panci perlahan (simmering), sering disebut tekink memasak dengan api... (Latihan #49)",
+      "opsi": {
+        "A": "Baking Pembakaran",
+        "B": "Boiling api Mendidih bergolak kuat 100 celcius terus menerus",
+        "C": "Frying menggoreng Genangan minyak gajih",
+        "D": "Kecil berangsur mendidih meresap (Poaching/Simmering)",
+        "E": "Roasting pemanggangan terbuka oven"
+      },
+      "kunci": "D",
+      "pembahasan": "Memasak kuah perlahan kaldu agar awet lembut bumbu (spt sop kuoton/semur) pakai suhu di bawah titik didih bergelembung kecil dikarenakan tknik simmering meresap api pelan.",
+      "trik": "Simmer (meresap pelan) = Api kecil dan gelembung perlahan kuah sedikit."
+    },
+    {
+      "id": "smp-8-prakarya-50",
+      "teks": "Tujuan awal pemanasan singkong ubi mentah dipotong dan dikukus/boiling sebelum menjadikannya getuk lindri cemilan tradisional adalah untuk... (Latihan #50)",
+      "opsi": {
+        "A": "Memberinya pewarna kimia bahaya hijau yg rekat dlm daging umbi",
+        "B": "Menjadikannya keripik gurih super garing renyah mekar",
+        "C": "Mengurangi kandungan pemanis gula tebu yg tumpah luap",
+        "D": "Menambah kadar lemak kalori trans goreng",
+        "E": "Membuat teksum singkong ubi berubah menjadi lunak lembur memudahkannya untuk dilumatkan"
+      },
+      "kunci": "E",
+      "pembahasan": "Ubi Mentah berkarakter Keras sekali, dng dipanaskan (dikukus merebus), sel pati singkong gelatinisasi lalu mejadi lembek empuk lunak siap di tumbuk halus Getuk.",
+      "trik": "Perebusan bikin umbi jadi Empuk Lunak Lumat(getuk)."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "judul": "Persiapan Interview dan Dunia Kerja",
+  "tingkatan": "KULIAH",
+  "jurusan": "Karir / Profesional",
+  "deskripsi": "Materi persiapan memasuki dunia kerja profesional meliputi penulisan CV/Resume ATS, teknik interview STAR, personal branding (LinkedIn), serta etika kerja.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Menulis CV dan Resume Standar ATS",
+      "konten": "Penggunaan kata kunci (keywords) yang relevan, struktur CV yang bersih, perbedaan Resume dan CV, serta cara menonjolkan pencapaian (Achievement-oriented).",
+      "tag": [
+        "kuliah persiapan kerja materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Personal Branding dan LinkedIn",
+      "konten": "Optimalisasi profil LinkedIn, membangun jaringan profesional (networking), cara melamar kerja via platform digital, serta menjaga jejak digital positif.",
+      "tag": [
+        "kuliah persiapan kerja materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Teknik Interview Kerja Lanjut",
+      "konten": "Metode STAR (Situation, Task, Action, Result) dalam menjawab pertanyaan perilaku, riset perusahaan, cara berpakaian profesional, serta negosiasi gaji.",
+      "tag": [
+        "kuliah persiapan kerja materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Etika dan Komunikasi Profesional",
+      "konten": "Etika berkirim email (email etiquette), komunikasi asertif di kantor, manajemen konflik rekan kerja, serta pemahaman budaya organisasi (corporate culture).",
+      "tag": [
+        "kuliah persiapan kerja materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Adaptasi dan Pengembangan Karir",
+      "konten": "Pentingnya Growth Mindset, manajemen waktu (Prioritas), proaktif dalam bekerja, serta perencanaan karir jangka panjang dan jenjang promosi.",
+      "tag": [
+        "kuliah persiapan kerja materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-persiapan-kerja-materi",
+  "mapel": "Persiapan Interview dan Dunia Kerja",
+  "tag": [
+    "kuliah persiapan kerja materi"
+  ]
+}

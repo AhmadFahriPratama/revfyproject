@@ -1,0 +1,652 @@
+[
+  {
+    "id": "MA_TK_01",
+    "pertanyaan": "Mesin yang berfungsi sebagai penggerak utama (Main Engine) agar kapal dapat melaju di air biasanya adalah mesin...",
+    "opsi": [
+      "Mesin Diesel",
+      "Mesin Uap",
+      "Mesin Tik",
+      "Mesin Cuci",
+      "Mesin Jahit"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mesin Diesel dipilih karena memiliki daya tahan tinggi dan efisiensi bahan bakar untuk pelayaran jarak jauh."
+  },
+  {
+    "id": "MA_TK_02",
+    "pertanyaan": "Komponen mesin yang bergerak naik turun di dalam silinder untuk menghasilkan tenaga disebut...",
+    "opsi": [
+      "Katup (Valve)",
+      "Piston (Torak)",
+      "Busi",
+      "Knalpot",
+      "Karburator"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Piston meneruskan tenaga hasil pembakaran ke poros engkol."
+  },
+  {
+    "id": "MA_TK_03",
+    "pertanyaan": "Suku cadang mesin yang berfungsi mengubah gerak naik-turun piston menjadi gerak putar adalah...",
+    "opsi": [
+      "Noken As",
+      "Rantai Kamrat",
+      "Poros Engkol (Crankshaft)",
+      "Radiator",
+      "Filter Oli"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Gerak putar poros engkol inilah yang memutar baling-baling (propeller) kapal."
+  },
+  {
+    "id": "MA_TK_04",
+    "pertanyaan": "Sistem pada mesin yang berfungsi mengurangi panas berlebih agar mesin tidak mengalami overheat disebut...",
+    "opsi": [
+      "Sistem Pelumasan",
+      "Sistem Pembuangan",
+      "Sistem Pengapian",
+      "Sistem Pendinginan (Cooling System)",
+      "Sistem Bahan Bakar"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kapal biasanya menggunakan air laut yang didinginkan melalui heat exchanger."
+  },
+  {
+    "id": "MA_TK_05",
+    "pertanyaan": "Cairan yang berfungsi melumasi komponen mesin yang bergesekan untuk mengurangi keausan disebut...",
+    "opsi": [
+      "Air",
+      "Solar",
+      "Bensin",
+      "Air Aki",
+      "Oli (Minyak Lumas)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Oli juga membantu mendinginkan bagian dalam mesin dan membersihkan kotoran logam."
+  },
+  {
+    "id": "MA_TK_06",
+    "pertanyaan": "Alat bantu pada kapal ikan yang digunakan untuk menarik jaring yang sangat berat dari tengah laut ke dek disebut...",
+    "opsi": [
+      "Net Hauler / Winch",
+      "Anchor",
+      "Crane",
+      "Tali",
+      "Pancing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Net hauler digerakkan oleh sistem hidrolik untuk memudahkan kru kapal."
+  },
+  {
+    "id": "MA_TK_07",
+    "pertanyaan": "Alat bantu navigasi khusus nelayan yang berfungsi mendeteksi keberadaan gerombolan ikan di bawah air disebut...",
+    "opsi": [
+      "GPS",
+      "Fish Finder / Sonar",
+      "Radar",
+      "Radio",
+      "Televisi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Fish finder bekerja dengan memancarkan gelombang ultrasonik ke dasar laut."
+  },
+  {
+    "id": "MA_TK_08",
+    "pertanyaan": "Bahan bakar utama yang digunakan untuk mengoperasikan mesin diesel kapal adalah...",
+    "opsi": [
+      "Bensin (Gasoline)",
+      "Kayu Bakar",
+      "Minyak Solar (MFO/HSD)",
+      "Batu Bara",
+      "Listrik PLN"
+    ],
+    "jawaban": 2,
+    "pembahasan": "HSD (High Speed Diesel) umum digunakan pada mesin berkecepatan tinggi."
+  },
+  {
+    "id": "MA_TK_09",
+    "pertanyaan": "Generator listrik di atas kapal (Genset) berfungsi untuk...",
+    "opsi": [
+      "Memutar baling-baling",
+      "Mengangkat ikan",
+      "Memasak nasi",
+      "Menyediakan daya listrik bagi lampu, alat navigasi, dan mesin bantu",
+      "Membersihkan kapal"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tanpa genset, sistem navigasi dan komunikasi kapal tidak dapat berfungsi."
+  },
+  {
+    "id": "MA_TK_10",
+    "pertanyaan": "Apa risiko jika terjadi kebocoran pipa bahan bakar di dekat mesin yang sedang panas?",
+    "opsi": [
+      "Mesin makin kencang",
+      "Hanya bau solar saja",
+      "Mesin jadi dingin",
+      "Tidak ada bahaya",
+      "Bahaya Kebakaran ledakan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Area kamar mesin (engine room) harus selalu diawasi dari kebocoran oli atau bahan bakar."
+  },
+  {
+    "id": "MA_TK_11",
+    "pertanyaan": "Pelampung yang dipasang pada jaring agar bagian atas jaring tetap berada di permukaan air disebut...",
+    "opsi": [
+      "Pelampung (Float)",
+      "Pemberat (Sinker)",
+      "Tali Ris",
+      "Mata Lubang",
+      "Saku"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pelampung menjaga jaring tetap terbuka secara vertikal."
+  },
+  {
+    "id": "MA_TK_12",
+    "pertanyaan": "Benda berat (besi atau timah) yang dipasang pada bagian bawah jaring agar jaring tenggelam ke bawah disebut...",
+    "opsi": [
+      "Buoy",
+      "Sinker (Pemberat)",
+      "Fender",
+      "Jangkar",
+      "Batu"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pemberat menarik bagian bawah jaring ke arah dasar laut."
+  },
+  {
+    "id": "MA_TK_13",
+    "pertanyaan": "Pembersihan permukaan luar lambung kapal yang terendam air (cleaning hull) bertujuan untuk...",
+    "opsi": [
+      "Agar kapal mengkilap",
+      "Menambah berat kapal",
+      "Menghilangkan teritip/lumut agar gesekan air berkurang sehingga kecepatan kapal tetap maksimal",
+      "Hobi saja",
+      "Mencari ikan kecil"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Lambung yang kotor (fouling) membuat konsumsi bahan bakar boros."
+  },
+  {
+    "id": "MA_TK_14",
+    "pertanyaan": "Alat pelindung diri (APD) yang wajib digunakan saat berada di kamar mesin yang bising adalah...",
+    "opsi": [
+      "Masker",
+      "Kacamata",
+      "Helm",
+      "Ear Plug / Ear Muff (Pelindung Telinga)",
+      "Sarung Tangan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mencegah kerusakan pendengaran akibat kebisingan mesin kontinyu."
+  },
+  {
+    "id": "MA_TK_15",
+    "pertanyaan": "Alat ukur yang digunakan untuk mengecek tegangan baterai (aki) kapal adalah...",
+    "opsi": [
+      "Termometer",
+      "Stopwatch",
+      "Meteran Baja",
+      "Kompas",
+      "Multimeter / Voltmeter"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Memastikan sistem starting mesin memiliki daya yang cukup."
+  },
+  {
+    "id": "MA_TK_16",
+    "pertanyaan": "Propeller atau baling-baling kapal berfungsi untuk...",
+    "opsi": [
+      "Menghasilkan gaya dorong agar kapal bergerak maju atau mundur",
+      "Menarik jaring",
+      "Mendinginkan mesin",
+      "Mengusir hiu",
+      "Penyaring air"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Propeller mengubah tenaga putar mesin menjadi daya hambat air."
+  },
+  {
+    "id": "MA_TK_17",
+    "pertanyaan": "Istilah 'Overhaul' pada mesin kapal artinya...",
+    "opsi": [
+      "Menambah kecepatan",
+      "Pembongkaran dan pemeriksaan menyeluruh komponen mesin untuk perbaikan besar",
+      "Mengecat badan kapal",
+      "Mengisih bahan bakar",
+      "Membuang jangkar"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Overhaul dilakukan secara berkala berdasarkan jumlah jam kerja mesin (running hours)."
+  },
+  {
+    "id": "MA_TK_18",
+    "pertanyaan": "Apa fungsi katup (valve) masuk pada mesin 4 tak?",
+    "opsi": [
+      "Mengeluarkan asap",
+      "Menyaring oli",
+      "Memasukkan campuran udara (atau udara-bahan bakar) ke dalam silinder",
+      "Mendinginkan piston",
+      "Mengerem mesin"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Katup terbuka pada langkah hisap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Memasukkan campuran udara (atau udara-bahan bakar) ke dalam silinder\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "MA_TK_19",
+    "pertanyaan": "Apa fungsi katup (valve) buang pada mesin 4 tak?",
+    "opsi": [
+      "Memasukkan udara",
+      "Memutar roda",
+      "Mengatur rem",
+      "Mengeluarkan gas sisa pembakaran menuju knalpot",
+      "Mendinginkan mesin"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Katup terbuka pada langkah buang. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengeluarkan gas sisa pembakaran menuju knalpot\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "MA_TK_20",
+    "pertanyaan": "Berapakah jumlah langkah (stroke) yang terjadi dalam satu siklus pembakaran pada mesin 'Four Stroke'?",
+    "opsi": [
+      "1 langkah",
+      "2 langkah",
+      "6 langkah",
+      "8 langkah",
+      "4 langkah"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Hisap, Kompresi, Usaha, Buang. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"4 langkah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "MA_TK_21",
+    "pertanyaan": "Alat yang berfungsi merubah tegangan listrik AC 220V menjadi DC 12V/24V untuk mengisi baterai disebut...",
+    "opsi": [
+      "Charger / Rectifier",
+      "Inverter",
+      "Alternator",
+      "Kapasitor",
+      "Resistor"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penting untuk menjaga stok daya listrik di kapal."
+  },
+  {
+    "id": "MA_TK_22",
+    "pertanyaan": "Pompa bilga (Bilge Pump) pada kapal berfungsi untuk...",
+    "opsi": [
+      "Memompa air minum",
+      "Menguras air yang masuk ke ruang palka atau kamar mesin agar kapal tidak tenggelam",
+      "Menyemprot ikan",
+      "Pompa bahan bakar",
+      "Pengatur suhu"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kapasitas pompa bilga harus memadai untuk kondisi darurat kebocoran."
+  },
+  {
+    "id": "MA_TK_23",
+    "pertanyaan": "Kemudi kapal (Rudder) terletak di bagian...",
+    "opsi": [
+      "Haluan",
+      "Atas geladak",
+      "Buritan, tepat di belakang propeller",
+      "Samping kanan",
+      "Bawah dasar laut"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rudder mengarahkan aliran air dari propeller untuk membelokkan kapal."
+  },
+  {
+    "id": "MA_TK_24",
+    "pertanyaan": "Tali pemancing ikan yang sangat panjang dengan banyak kaitan pancing disebut alat tangkap...",
+    "opsi": [
+      "Pukat Harimau",
+      "Jaring Insang",
+      "Bubu",
+      "Long Line (Rawai)",
+      "Tombak"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Rawai bisa mencapai panjang puluhan kilometer."
+  },
+  {
+    "id": "MA_TK_25",
+    "pertanyaan": "Metode penyimpanan ikan di atas kapal agar tetap segar selama berhari-hari di laut adalah menggunakan...",
+    "opsi": [
+      "Dijemur panas matahari",
+      "Direbus",
+      "Diberi garam saja",
+      "Dibiarkan terbuka",
+      "Pendinginan dengan Es atau sistem Refrigerasi (ABF/Freezer)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Rantai dingin (cold chain) dimulai sejak ikan naik ke dek kapal."
+  },
+  {
+    "id": "MA_TK_26",
+    "pertanyaan": "Tempat penyimpanan ikan yang kedap air dan dingin di dalam perut kapal disebut...",
+    "opsi": [
+      "Palka (Hold)",
+      "Anjungan",
+      "Kabin",
+      "Dapur",
+      "Tangki"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Palka diisolasi agar suhu rendah dapat terjaga lama."
+  },
+  {
+    "id": "MA_TK_27",
+    "pertanyaan": "Zat kimia yang digunakan dalam sistem pendingin (refrigerasi) kapal disebut...",
+    "opsi": [
+      "Spiritus",
+      "Refrigeran (Freon / Amonia)",
+      "Air Sabun",
+      "Kerosin",
+      "Merkuri"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sirkulasi refrigeran menyerap panas dari dalam palka ikan."
+  },
+  {
+    "id": "MA_TK_28",
+    "pertanyaan": "Apa fungsi turbocharger pada mesin diesel kapal?",
+    "opsi": [
+      "Menambah suara bising",
+      "Menghemat berat mesin",
+      "Meningkatkan tenaga mesin dengan memasukkan udara bertekanan ke ruang bakar",
+      "Mengurangi oli",
+      "Pengatur kecepatan kipas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Turbocharger memanfaatkan gas buang untuk memutar blower udara masuk."
+  },
+  {
+    "id": "MA_TK_29",
+    "pertanyaan": "Bagaimana cara memadamkan kebakaran akibat korsleting listrik di kapal?",
+    "opsi": [
+      "Menyiram kencang dengan air laut",
+      "Melemparnya dengan bensin",
+      "Meniupnya bersama-sama",
+      "Menggunakan alat pemadam api jenis Powder atau CO2 setelah memutus aliran listrik",
+      "Meninggalkan kapal langsung"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Memutus arus listrik adalah langkah vital pertama agar api tidak merambat."
+  },
+  {
+    "id": "MA_TK_30",
+    "pertanyaan": "Prinsip 'Kesejahteraan Hewan' dalam penangkapan ikan berarti...",
+    "opsi": [
+      "Memberikan ikan makan enak",
+      "Melepaskan semua ikan",
+      "Ikan tidak boleh dipancing",
+      "Memelihara ikan di akuarium saja",
+      "Menangani ikan hasil tangkapan dengan cepat dan tidak menyiksa agar kualitas dagingnya tetap baik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ikan yang stres saat mati akan memiliki tekstur daging yang kurang baik."
+  },
+  {
+    "id": "MA_TK_31",
+    "pertanyaan": "Zat berminyak dari kapal yang sangat dilarang dibuang ke laut karena mencemari ekosistem adalah...",
+    "opsi": [
+      "Limbah Cairan Kamar Mesin (Sludge/Oily Water)",
+      "Air hujan",
+      "Air minum sisa",
+      "Keringat pelaut",
+      "Air pendingin bersih"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sesuai aturan MARPOL, limbah minyak harus ditampung dan dibuang di fasilitas pelabuhan."
+  },
+  {
+    "id": "MA_TK_32",
+    "pertanyaan": "Istilah 'Stern' pada bagian kapal perikanan modern sering dilengkapi dengan 'Slipway' yang berfungsi untuk...",
+    "opsi": [
+      "Tempat istirahat",
+      "Mempermudah menarik jaring besar ke atas kapal (Trawl)",
+      "Tempat memasak",
+      "Kabin kapten",
+      "Tiang antena"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Slipway adalah bidang miring di buritan kapal."
+  },
+  {
+    "id": "MA_TK_33",
+    "pertanyaan": "Alat tangkap yang dilarang pemerintah karena merusak terumbu karang dan ekosistem dasar laut adalah...",
+    "opsi": [
+      "Pancing Ulur",
+      "Bubu bambu",
+      "Pukat Harimau (Trawl dasar yang tidak ramah lingkungan)",
+      "Jaring Angkat",
+      "Pancing Pole and Line"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Penggunaan alat tangkap tidak ramah lingkungan merugikan masa depan nelayan."
+  },
+  {
+    "id": "MA_TK_34",
+    "pertanyaan": "Filter atau saringan bahan bakar di mesin kapal harus dibersihkan secara rutin agar...",
+    "opsi": [
+      "Mesin tidak berisik",
+      "Solar tidak berubah warna",
+      "Mesin jadi dingin",
+      "Aliran bahan bakar lancar dan tidak menyumbat nozzle injektor",
+      "Tidak ada gunanya"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kotoran pada bahan bakar bisa menyebabkan mesin mati mendadak di tengah laut."
+  },
+  {
+    "id": "MA_TK_35",
+    "pertanyaan": "Berapakah suhu ideal untuk membekukan ikan di dalam freezer agar tahan lama?",
+    "opsi": [
+      "10 Celcius",
+      "0 Celcius",
+      "25 Celcius",
+      "100 Celcius",
+      "-18 hingga -30 Celcius"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Suhu beku di bawah -18 Celcius menghentikan aktivitas bakteri pembusuk."
+  },
+  {
+    "id": "MA_TK_36",
+    "pertanyaan": "Alat bantu yang digunakan untuk mengetahui koordinat posisi kapal di tengah laut adalah...",
+    "opsi": [
+      "GPS (Global Positioning System)",
+      "Kompas Magnet",
+      "Peta Kertas saja",
+      "Penggaris",
+      "Jam tangan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "GPS memberikan data Lintang dan Bujur secara akurat."
+  },
+  {
+    "id": "MA_TK_37",
+    "pertanyaan": "Pekerjaan 'Fitter' di kapal berkaitan dengan...",
+    "opsi": [
+      "Memasak",
+      "Pengelasan dan fabrikasi logam/pipa di kamar mesin",
+      "Menyanyi",
+      "Navigasi",
+      "Mencuci baju"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Fitter memiliki keahlian dalam perbaikan struktur logam dan permesinan."
+  },
+  {
+    "id": "MA_TK_38",
+    "pertanyaan": "Salah satu tugas harian perwira mesin (Masinis) adalah...",
+    "opsi": [
+      "Melihat peta",
+      "Menjual ikan",
+      "Melakukan sounding (cek level) tangki bahan bakar dan pelumas",
+      "Mencari umpan",
+      "Menerima telepon"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Memastikan kecukupan stok bahan bakar untuk perjalanan."
+  },
+  {
+    "id": "MA_TK_39",
+    "pertanyaan": "Gaya apung yang membuat kapal tidak tenggelam ditemukan oleh ilmuwan...",
+    "opsi": [
+      "Newton",
+      "Einstein",
+      "Galileo",
+      "Archimedes",
+      "Edison"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Prinsip hukum Archimedes: Gaya apung sama dengan berat cairan yang dipindahkan."
+  },
+  {
+    "id": "MA_TK_40",
+    "pertanyaan": "Apa risiko jika kapal diisi muatan ikan melebihi kapasitas (overload)?",
+    "opsi": [
+      "Kapal makin cepat",
+      "Ikan makin segar",
+      "Bahan bakar makin irit",
+      "Kapal jadi cantik",
+      "Stabilitas kapal menurun dan berisiko tenggelam jika terkena ombak"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Keselamatan harus selalu di atas keuntungan ekonomi."
+  },
+  {
+    "id": "MA_TK_41",
+    "pertanyaan": "Ikan yang ditangkap menggunakan pancing 'Pole and Line' satu persatu (One by One) dianggap lebih...",
+    "opsi": [
+      "Ramah Lingkungan (Sustainable) dan bernilai tinggi",
+      "Murah",
+      "Kurus",
+      "Banyak jumlahnya",
+      "Kecil ukurannya"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Metode ini tidak merusak spesies lain (minim by-catch)."
+  },
+  {
+    "id": "MA_TK_42",
+    "pertanyaan": "Lampu celup bawah air (LACUBA) digunakan nelayan malam hari untuk...",
+    "opsi": [
+      "Melihat pemandangan laut",
+      "Menarik perhatian ikan (Fototaksis Positif) agar mendekat ke jaring",
+      "Menerangi jalan pulang",
+      "Cermin",
+      "Memasak di air"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Ikan tertentu tertarik pada sumber cahaya di kegelapan malam."
+  },
+  {
+    "id": "MA_TK_43",
+    "pertanyaan": "Cairan pendingin baterai (aki) yang harus ditambah jika berkurang adalah...",
+    "opsi": [
+      "Air laut",
+      "Air kelapa",
+      "Air Aki (Zuur / Aquades)",
+      "Air mineral",
+      "Bensin"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Level air aki harus berada di antara garis Lower dan Upper."
+  },
+  {
+    "id": "MA_TK_44",
+    "pertanyaan": "Apa singkatan dari KKM di kapal?",
+    "opsi": [
+      "Kepala Kantor Mesin",
+      "Koki Kapal Modern",
+      "Kelasi Kapal Mandiri",
+      "Kepala Kamar Mesin (Chief Engineer)",
+      "Kelompok Kelasi Muda"
+    ],
+    "jawaban": 3,
+    "pembahasan": "KKM adalah penanggung jawab tertinggi di departemen mesin."
+  },
+  {
+    "id": "MA_TK_45",
+    "pertanyaan": "Tindakan mencuci mesin kapal (Engine Cleaning) bertujuan untuk...",
+    "opsi": [
+      "Agar mesin harum",
+      "Agar mesin licin",
+      "Meningkatkan berat mesin",
+      "Hobi saja",
+      "Memudahkan pengecekan jika ada rembesan atau kebocoran dini"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kamar mesin yang bersih mencerminkan perawatan yang baik."
+  },
+  {
+    "id": "MA_TK_46",
+    "pertanyaan": "Alat yang berfungsi mengeluarkan udara dari piston kapal agar tidak meledak disebut...",
+    "opsi": [
+      "Safety Valve (Katup Pengaman)",
+      "Kran",
+      "Sumbat",
+      "Lem",
+      "Lakban"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Menjaga tekanan di dalam sistem mesin tetap pada batas aman."
+  },
+  {
+    "id": "MA_TK_47",
+    "pertanyaan": "Warna khas tabung oksigen untuk pengelasan di bengkel kapal adalah...",
+    "opsi": [
+      "Merah",
+      "Biru / Hijau",
+      "Kuning",
+      "Hitam",
+      "Ungu"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biasanya Biru menandakan Oksigen, Merah menandakan gas mudah terbakar (Asetilin)."
+  },
+  {
+    "id": "MA_TK_48",
+    "pertanyaan": "Dalam keadaan darurat, seluruh kru kapal harus berkumpul di titik kumpul yang disebut...",
+    "opsi": [
+      "Dapur",
+      "Kamar Tidur",
+      "Muster Station",
+      "Kamar Mandi",
+      "Tiang Kapal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Muster station biasanya terletak di area dek terbuka dekat sekoci."
+  },
+  {
+    "id": "MA_TK_49",
+    "pertanyaan": "Teknologi 'Radio Direction Finder' (RDF) membantu pelaut untuk...",
+    "opsi": [
+      "Mendengar radio swasta",
+      "Menonton bioskop",
+      "Mencari radio rusak",
+      "Menemukan arah asal sinyal radio dari darat atau kapal lain",
+      "Memperbaiki kabel"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Salah satu metode navigasi elektronik klasik."
+  },
+  {
+    "id": "MA_TK_50",
+    "pertanyaan": "Pekerjaan sebagai teknika kapal ikan memerlukan fisik yang kuat dan mental yang tangguh karena...",
+    "opsi": [
+      "Bekerja di bawah AC terus",
+      "Hanya duduk santai",
+      "Hanya makan enak",
+      "Tidak ada tantangan",
+      "Menghadapi kondisi laut yang ekstrim dan jam kerja yang tidak menentu saat ikan banyak"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pelaut perikanan adalah pahlawan ketahanan pangan protein bangsa."
+  }
+]

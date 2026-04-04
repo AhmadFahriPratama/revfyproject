@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_EN_01",
+    "pertanyaan": "Choose the most appropriate response. 'How do you do?'",
+    "opsi": [
+      "How do you do?",
+      "I am fine, thank you.",
+      "Very well.",
+      "Nice to meet you.",
+      "Goodbye."
+    ],
+    "jawaban": 0,
+    "pembahasan": "'How do you do?' is a formal greeting used when meeting someone for the first time, and the response is also 'How do you do?'."
+  },
+  {
+    "id": "TKA_SMK_EN_02",
+    "pertanyaan": "First, plug in the cable. ..., turn on the power switch. What is the correct conjunction?",
+    "opsi": [
+      "Finally",
+      "Then",
+      "But",
+      "Because",
+      "If"
+    ],
+    "jawaban": 1,
+    "pembahasan": "'Then' is a sequence adverb used to show the next step in a procedure."
+  },
+  {
+    "id": "TKA_SMK_EN_03",
+    "pertanyaan": "A person who designs, builds, or maintains engines, machines, or public works is called an...",
+    "opsi": [
+      "Architect",
+      "Manager",
+      "Engineer",
+      "Doctor",
+      "Teacher"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Description of the 'Engineer' profession."
+  },
+  {
+    "id": "TKA_SMK_EN_04",
+    "pertanyaan": "If I ... rich, I would buy a new car. (Conditional sentence type 2)",
+    "opsi": [
+      "am",
+      "was",
+      "be",
+      "were",
+      "been"
+    ],
+    "jawaban": 3,
+    "pembahasan": "In conditional type 2, 'were' is used for all subjects in the 'if' clause."
+  },
+  {
+    "id": "TKA_SMK_EN_05",
+    "pertanyaan": "Which one is a formal closing for a business letter when you don't know the recipient's name?",
+    "opsi": [
+      "Love,",
+      "Best regards,",
+      "Cheers,",
+      "Bye,",
+      "Yours faithfully,"
+    ],
+    "jawaban": 4,
+    "pembahasan": "'Yours faithfully' is used when the name is unknown (Dear Sir/Madam)."
+  },
+  {
+    "id": "TKA_SMK_EN_06",
+    "pertanyaan": "She ... a lot of experience in graphic design.",
+    "opsi": [
+      "has",
+      "have",
+      "is",
+      "am",
+      "are"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Present tense for singular third person (She)."
+  },
+  {
+    "id": "TKA_SMK_EN_07",
+    "pertanyaan": "The company ... new employees every year.",
+    "opsi": [
+      "hire",
+      "hires",
+      "hiring",
+      "hired",
+      "is hire"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Present habit/routine uses V1 + s/es for singular subjects."
+  },
+  {
+    "id": "TKA_SMK_EN_08",
+    "pertanyaan": "What does 'ASAP' stand for in communication?",
+    "opsi": [
+      "Always Send A Package",
+      "After Sunday At Principal",
+      "As Soon As Possible",
+      "As System As Process",
+      "At Some Afternoon Point"
+    ],
+    "jawaban": 2,
+    "pembahasan": "ASAP indicates urgency. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"As Soon As Possible\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_09",
+    "pertanyaan": "The laptop is ... than the tablet.",
+    "opsi": [
+      "expensive",
+      "most expensive",
+      "expensiver",
+      "more expensive",
+      "as expensive"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Comparative degree for adjectives with more than two syllables."
+  },
+  {
+    "id": "TKA_SMK_EN_10",
+    "pertanyaan": "Could you please ... the document to me?",
+    "opsi": [
+      "forwards",
+      "forwarded",
+      "forwarding",
+      "to forward",
+      "forward"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Modal 'could' is followed by a base verb (V1)."
+  },
+  {
+    "id": "TKA_SMK_EN_11",
+    "pertanyaan": "The report ... by the manager yesterday.",
+    "opsi": [
+      "was written",
+      "is written",
+      "written",
+      "wrote",
+      "writes"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Passive voice for past tense (was/were + V3)."
+  },
+  {
+    "id": "TKA_SMK_EN_12",
+    "pertanyaan": "I look forward to ... you at the meeting.",
+    "opsi": [
+      "see",
+      "seeing",
+      "seen",
+      "saw",
+      "be seeing"
+    ],
+    "jawaban": 1,
+    "pembahasan": "'Look forward to' is followed by a gerund (V-ing)."
+  },
+  {
+    "id": "TKA_SMK_EN_13",
+    "pertanyaan": "Wait a minute! I ... for a taxi.",
+    "opsi": [
+      "wait",
+      "waited",
+      "am waiting",
+      "waiting",
+      "have wait"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Present continuous for actions happening at the moment."
+  },
+  {
+    "id": "TKA_SMK_EN_14",
+    "pertanyaan": "Mr. Robert is the man ... owns this factory.",
+    "opsi": [
+      "which",
+      "whom",
+      "whose",
+      "who",
+      "where"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Relative pronoun for a person as a subject."
+  },
+  {
+    "id": "TKA_SMK_EN_15",
+    "pertanyaan": "Don't touch the wire! It's very ....",
+    "opsi": [
+      "danger",
+      "dangerously",
+      "dangered",
+      "safety",
+      "dangerous"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Adjective to describe the condition of the wire."
+  },
+  {
+    "id": "TKA_SMK_EN_16",
+    "pertanyaan": "We have ... this project since last month.",
+    "opsi": [
+      "started",
+      "start",
+      "starts",
+      "starting",
+      "been start"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Present perfect tense (have/has + V3). Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"started\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_17",
+    "pertanyaan": "The mechanic is ... the engine right now.",
+    "opsi": [
+      "fixes",
+      "fixing",
+      "fix",
+      "fixed",
+      "to fix"
+    ],
+    "jawaban": 1,
+    "pembahasan": "The word 'right now' indicates present continuous."
+  },
+  {
+    "id": "TKA_SMK_EN_18",
+    "pertanyaan": "I have two sisters. ... names are Anna and Elsa.",
+    "opsi": [
+      "His",
+      "Her",
+      "Their",
+      "My",
+      "Our"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Possessive adjective for plural third person."
+  },
+  {
+    "id": "TKA_SMK_EN_19",
+    "pertanyaan": "You ... use a helmet when working in this area.",
+    "opsi": [
+      "might",
+      "may",
+      "could",
+      "must",
+      "will"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Modal indicating obligation or rule. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"must\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_20",
+    "pertanyaan": "What is the synonym of 'Purchase'?",
+    "opsi": [
+      "Sell",
+      "Rent",
+      "Borrow",
+      "Own",
+      "Buy"
+    ],
+    "jawaban": 4,
+    "pembahasan": "To purchase means to buy. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Buy\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_21",
+    "pertanyaan": "I usually ... to work by bus.",
+    "opsi": [
+      "go",
+      "goes",
+      "going",
+      "gone",
+      "am go"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Simple present for routine with subject 'I'."
+  },
+  {
+    "id": "TKA_SMK_EN_22",
+    "pertanyaan": "The opposite of 'Expensive' is...",
+    "opsi": [
+      "High",
+      "Cheap",
+      "Low",
+      "Empty",
+      "Full"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Cheap means low in price. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Cheap\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_23",
+    "pertanyaan": "Please ... the door when you leave.",
+    "opsi": [
+      "closed",
+      "closing",
+      "close",
+      "closes",
+      "to close"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Imperative sentence uses base verb (V1)."
+  },
+  {
+    "id": "TKA_SMK_EN_24",
+    "pertanyaan": "There ... a lot of water in the tank.",
+    "opsi": [
+      "are",
+      "am",
+      "be",
+      "is",
+      "were"
+    ],
+    "jawaban": 3,
+    "pembahasan": "'Water' is an uncountable noun, uses singular verb 'is'."
+  },
+  {
+    "id": "TKA_SMK_EN_25",
+    "pertanyaan": "He spoke ... so that everyone could understand.",
+    "opsi": [
+      "clear",
+      "cleared",
+      "clears",
+      "to clear",
+      "clearly"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Adverb to describe how he spoke. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"clearly\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_26",
+    "pertanyaan": "Would you mind ... the window?",
+    "opsi": [
+      "opening",
+      "open",
+      "opened",
+      "opens",
+      "to open"
+    ],
+    "jawaban": 0,
+    "pembahasan": "'Would you mind' is followed by a gerund (V-ing)."
+  },
+  {
+    "id": "TKA_SMK_EN_27",
+    "pertanyaan": "I have ... finished my homework.",
+    "opsi": [
+      "yet",
+      "already",
+      "still",
+      "ever",
+      "since"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Already is used for completed actions in present perfect."
+  },
+  {
+    "id": "TKA_SMK_EN_28",
+    "pertanyaan": "She sang a song yesterday. Change to negative!",
+    "opsi": [
+      "She does not sing a song yesterday.",
+      "She is not singing a song yesterday.",
+      "She did not sing a song yesterday.",
+      "She was not sing a song yesterday.",
+      "She had not sing a song yesterday."
+    ],
+    "jawaban": 2,
+    "pembahasan": "Past negative: did not + V1. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"She did not sing a song yesterday.\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_29",
+    "pertanyaan": "If I ... a bird, I would fly to you.",
+    "opsi": [
+      "am",
+      "is",
+      "was",
+      "were",
+      "be"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Unreal present condition (Conditional type 2)."
+  },
+  {
+    "id": "TKA_SMK_EN_30",
+    "pertanyaan": "The manager asked me ... the report.",
+    "opsi": [
+      "finish",
+      "finishing",
+      "finished",
+      "finishes",
+      "to finish"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Verb 'ask' is followed by an infinitive (to + V1)."
+  },
+  {
+    "id": "TKA_SMK_EN_31",
+    "pertanyaan": "This is the car ... I bought last year.",
+    "opsi": [
+      "which",
+      "who",
+      "whom",
+      "whose",
+      "where"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Relative pronoun for an object/thing. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"which\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_32",
+    "pertanyaan": "The sun ... in the east.",
+    "opsi": [
+      "rise",
+      "rises",
+      "rising",
+      "rose",
+      "risen"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Fact/General truth uses simple present. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"rises\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_33",
+    "pertanyaan": "My father ... coffee every morning.",
+    "opsi": [
+      "drink",
+      "drinking",
+      "drinks",
+      "drank",
+      "drunk"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Daily habit uses simple present. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"drinks\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_34",
+    "pertanyaan": "How ... sugar do you want?",
+    "opsi": [
+      "many",
+      "a few",
+      "any",
+      "much",
+      "few"
+    ],
+    "jawaban": 3,
+    "pembahasan": "'Much' for uncountable nouns. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"much\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_35",
+    "pertanyaan": "Listen! Someone ... a piano.",
+    "opsi": [
+      "plays",
+      "played",
+      "playing",
+      "to play",
+      "is playing"
+    ],
+    "jawaban": 4,
+    "pembahasan": "'Listen!' implies something is happening now."
+  },
+  {
+    "id": "TKA_SMK_EN_36",
+    "pertanyaan": "I didn't ... anything yesterday.",
+    "opsi": [
+      "buy",
+      "bought",
+      "buys",
+      "buying",
+      "boughten"
+    ],
+    "jawaban": 0,
+    "pembahasan": "After 'did not', use base verb (V1). Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"buy\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_37",
+    "pertanyaan": "She doesn't like ... to the cinema.",
+    "opsi": [
+      "go",
+      "going",
+      "goes",
+      "went",
+      "to go"
+    ],
+    "jawaban": 1,
+    "pembahasan": "'Like' is often followed by a gerund. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"going\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_38",
+    "pertanyaan": "Can you ... me a favor?",
+    "opsi": [
+      "does",
+      "doing",
+      "do",
+      "did",
+      "done"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Modal followed by base verb. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"do\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_39",
+    "pertanyaan": "The bank is ... to the supermarket.",
+    "opsi": [
+      "between",
+      "among",
+      "opposite",
+      "next",
+      "in front"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Next to is a common preposition of place."
+  },
+  {
+    "id": "TKA_SMK_EN_40",
+    "pertanyaan": "The children are playing ... in the garden.",
+    "opsi": [
+      "happy",
+      "happiness",
+      "happier",
+      "happiest",
+      "happily"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Adverb modifying the verb 'playing'. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"happily\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_41",
+    "pertanyaan": "I have ... seen that movie before.",
+    "opsi": [
+      "never",
+      "ever",
+      "yet",
+      "already",
+      "since"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Negative 경험 (experience). Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"never\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_42",
+    "pertanyaan": "A place where planes take off and land is an...",
+    "opsi": [
+      "Station",
+      "Airport",
+      "Harbor",
+      "Garage",
+      "Office"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Airport\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_43",
+    "pertanyaan": "Don't forget to ... off the light before you sleep.",
+    "opsi": [
+      "turned",
+      "turning",
+      "turn",
+      "turns",
+      "to turn"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Imperative phrase. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"turn\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_44",
+    "pertanyaan": "Is there ... milk in the fridge?",
+    "opsi": [
+      "many",
+      "much",
+      "some",
+      "any",
+      "few"
+    ],
+    "jawaban": 3,
+    "pembahasan": "'Any' is for questions and negatives. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"any\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_45",
+    "pertanyaan": "Whose book is this? It is ... (Belongs to me)",
+    "opsi": [
+      "my",
+      "me",
+      "myself",
+      "I",
+      "mine"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Possessive pronoun. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"mine\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_46",
+    "pertanyaan": "They ... to the beach next weekend.",
+    "opsi": [
+      "will go",
+      "go",
+      "goes",
+      "went",
+      "have gone"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Future plan. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"will go\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_47",
+    "pertanyaan": "Can you ... the meeting for tomorrow?",
+    "opsi": [
+      "scheduled",
+      "schedule",
+      "scheduling",
+      "schedules",
+      "to schedule"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"schedule\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_48",
+    "pertanyaan": "This is the ... beautiful painting I've ever seen.",
+    "opsi": [
+      "more",
+      "as",
+      "most",
+      "the same",
+      "very"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Superlative degree. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"most\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_49",
+    "pertanyaan": "The teacher ... us a lot of homework last night.",
+    "opsi": [
+      "give",
+      "gives",
+      "given",
+      "gave",
+      "is give"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Simple past (yesterday/last night). Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"gave\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EN_50",
+    "pertanyaan": "Why English is very important for SMK students?",
+    "opsi": [
+      "It is just a subject.",
+      "To talk to tourists only.",
+      "Because it's hard.",
+      "No reason.",
+      "To be able to communicate globally and access technical documentation in English."
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"To be able to communicate globally and access technical documentation in English.\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

@@ -1,0 +1,658 @@
+{
+  "id": "smp-9-seni",
+  "tingkat": "SMP",
+  "mapel": "Seni Budaya",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "seni9-1",
+      "teks": "Aliran seni lukis yang menggambarkan bentuk benda secara nyata sesuai dengan objek aslinya dinamakan aliran...",
+      "opsi": {
+        "A": "Realisme",
+        "B": "Surealisme",
+        "C": "Abstraksionisme",
+        "D": "Romantisme"
+      },
+      "kunci": "A",
+      "pembahasan": "Realisme melukiskan keadaan nyata alam/benda keseharian tanpa tambahan utopi/imajinasi berat.",
+      "trik": "Real = Nyata sesungguhnya."
+    },
+    {
+      "id": "seni9-2",
+      "teks": "Patung dari bahan keras seperti batu marmer dan kayu jati umumnya dikerjakan menggunakan teknik...",
+      "opsi": {
+        "A": "Cor (Cetak)",
+        "B": "Pahat / Subtractive",
+        "C": "Butsir",
+        "D": "Merakit"
+      },
+      "kunci": "B",
+      "pembahasan": "Bahan padat keras dibentuk dengan mengurangi massa dasar memakai palu dan pahat tatah (Subtractive).",
+      "trik": "Keras = di Palu Pahat."
+    },
+    {
+      "id": "seni9-3",
+      "teks": "Pernapasan yang sangat dianjurkan saat menyanyi solo vokal agar suara lebih bertenaga dan panjang nafasnya adalah...",
+      "opsi": {
+        "A": "Pernapasan Dada",
+        "B": "Pernapasan Perut",
+        "C": "Pernapasan Diafragma",
+        "D": "Pernapasan Leher"
+      },
+      "kunci": "C",
+      "pembahasan": "Diafragma menjaga stabilnya tiupan rongga udara ke pita suara dng cadangan paling besar dan lentur relaksasinya.",
+      "trik": "Diafragma penyanyi = tahan napas kuat."
+    },
+    {
+      "id": "seni9-4",
+      "teks": "Tarian yang diciptakan sesuai perkembangan zaman namun tidak melepaskan akar nilai tradisi dasarnya disebut...",
+      "opsi": {
+        "A": "Tari Klasik",
+        "B": "Tari Adat Sakral",
+        "C": "Tari Ballet",
+        "D": "Tari Kreasi Baru / Kontemporer"
+      },
+      "kunci": "D",
+      "pembahasan": "Tari Kreasi berakar pola tradisi tapi bebas modifikasi tata artistik menyesuaikan spirit saat ini.",
+      "trik": "Kreasi = modifikasi kreatif."
+    },
+    {
+      "id": "seni9-5",
+      "teks": "Seksi panitia pameran yang bertugas mencari donatur / sponsor / dana persiapan pertunjukan adalah seksi...",
+      "opsi": {
+        "A": "Usaha / Danus (Dana Usaha)",
+        "B": "Konsumsi",
+        "C": "Sekretariat",
+        "D": "Dokumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Danus (Dana Usaha / Pemasaran sponsorship) fokus mencari dana tambahan komersil jalannya pameran.",
+      "trik": "Dana = Danus/Keuangan."
+    },
+    {
+      "id": "smp-9-seni-6",
+      "teks": "Aliran seni lukis yang menggambarkan bentuk benda secara nyata sesuai dengan objek aslinya dinamakan aliran... (Latihan Intensif #6)",
+      "opsi": {
+        "A": "Surealisme",
+        "B": "Realisme",
+        "C": "Abstraksionisme",
+        "D": "Romantisme"
+      },
+      "kunci": "B",
+      "pembahasan": "Realisme melukiskan keadaan nyata alam/benda keseharian tanpa tambahan utopi/imajinasi berat.",
+      "trik": "Real = Nyata sesungguhnya."
+    },
+    {
+      "id": "smp-9-seni-7",
+      "teks": "Seksi panitia pameran yang bertugas mencari donatur / sponsor / dana persiapan pertunjukan adalah seksi... (Latihan Intensif #7)",
+      "opsi": {
+        "A": "Konsumsi",
+        "B": "Sekretariat",
+        "C": "Usaha / Danus (Dana Usaha)",
+        "D": "Dokumentasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Danus (Dana Usaha / Pemasaran sponsorship) fokus mencari dana tambahan komersil jalannya pameran.",
+      "trik": "Dana = Danus/Keuangan."
+    },
+    {
+      "id": "smp-9-seni-8",
+      "teks": "Aliran seni lukis yang menggambarkan bentuk benda secara nyata sesuai dengan objek aslinya dinamakan aliran... (Latihan Intensif #8)",
+      "opsi": {
+        "A": "Surealisme",
+        "B": "Abstraksionisme",
+        "C": "Romantisme",
+        "D": "Realisme"
+      },
+      "kunci": "D",
+      "pembahasan": "Realisme melukiskan keadaan nyata alam/benda keseharian tanpa tambahan utopi/imajinasi berat.",
+      "trik": "Real = Nyata sesungguhnya."
+    },
+    {
+      "id": "smp-9-seni-9",
+      "teks": "Seksi panitia pameran yang bertugas mencari donatur / sponsor / dana persiapan pertunjukan adalah seksi... (Latihan Intensif #9)",
+      "opsi": {
+        "A": "Usaha / Danus (Dana Usaha)",
+        "B": "Konsumsi",
+        "C": "Sekretariat",
+        "D": "Dokumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Danus (Dana Usaha / Pemasaran sponsorship) fokus mencari dana tambahan komersil jalannya pameran.",
+      "trik": "Dana = Danus/Keuangan."
+    },
+    {
+      "id": "smp-9-seni-10",
+      "teks": "Pernapasan yang sangat dianjurkan saat menyanyi solo vokal agar suara lebih bertenaga dan panjang nafasnya adalah... (Latihan Intensif #10)",
+      "opsi": {
+        "A": "Pernapasan Dada",
+        "B": "Pernapasan Diafragma",
+        "C": "Pernapasan Perut",
+        "D": "Pernapasan Leher"
+      },
+      "kunci": "B",
+      "pembahasan": "Diafragma menjaga stabilnya tiupan rongga udara ke pita suara dng cadangan paling besar dan lentur relaksasinya.",
+      "trik": "Diafragma penyanyi = tahan napas kuat."
+    },
+    {
+      "id": "smp-9-seni-11",
+      "teks": "Aliran seni lukis yang menggambarkan bentuk benda secara nyata sesuai dengan objek aslinya dinamakan aliran... (Latihan Intensif #11)",
+      "opsi": {
+        "A": "Surealisme",
+        "B": "Abstraksionisme",
+        "C": "Realisme",
+        "D": "Romantisme"
+      },
+      "kunci": "C",
+      "pembahasan": "Realisme melukiskan keadaan nyata alam/benda keseharian tanpa tambahan utopi/imajinasi berat.",
+      "trik": "Real = Nyata sesungguhnya."
+    },
+    {
+      "id": "smp-9-seni-12",
+      "teks": "Pernapasan yang sangat dianjurkan saat menyanyi solo vokal agar suara lebih bertenaga dan panjang nafasnya adalah... (Latihan Intensif #12)",
+      "opsi": {
+        "A": "Pernapasan Dada",
+        "B": "Pernapasan Perut",
+        "C": "Pernapasan Leher",
+        "D": "Pernapasan Diafragma"
+      },
+      "kunci": "D",
+      "pembahasan": "Diafragma menjaga stabilnya tiupan rongga udara ke pita suara dng cadangan paling besar dan lentur relaksasinya.",
+      "trik": "Diafragma penyanyi = tahan napas kuat."
+    },
+    {
+      "id": "smp-9-seni-13",
+      "teks": "Patung dari bahan keras seperti batu marmer dan kayu jati umumnya dikerjakan menggunakan teknik... (Latihan Intensif #13)",
+      "opsi": {
+        "A": "Pahat / Subtractive",
+        "B": "Cor (Cetak)",
+        "C": "Butsir",
+        "D": "Merakit"
+      },
+      "kunci": "A",
+      "pembahasan": "Bahan padat keras dibentuk dengan mengurangi massa dasar memakai palu dan pahat tatah (Subtractive).",
+      "trik": "Keras = di Palu Pahat."
+    },
+    {
+      "id": "smp-9-seni-14",
+      "teks": "Patung dari bahan keras seperti batu marmer dan kayu jati umumnya dikerjakan menggunakan teknik... (Latihan Intensif #14)",
+      "opsi": {
+        "A": "Cor (Cetak)",
+        "B": "Pahat / Subtractive",
+        "C": "Butsir",
+        "D": "Merakit"
+      },
+      "kunci": "B",
+      "pembahasan": "Bahan padat keras dibentuk dengan mengurangi massa dasar memakai palu dan pahat tatah (Subtractive).",
+      "trik": "Keras = di Palu Pahat."
+    },
+    {
+      "id": "smp-9-seni-15",
+      "teks": "Seksi panitia pameran yang bertugas mencari donatur / sponsor / dana persiapan pertunjukan adalah seksi... (Latihan Intensif #15)",
+      "opsi": {
+        "A": "Konsumsi",
+        "B": "Sekretariat",
+        "C": "Usaha / Danus (Dana Usaha)",
+        "D": "Dokumentasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Danus (Dana Usaha / Pemasaran sponsorship) fokus mencari dana tambahan komersil jalannya pameran.",
+      "trik": "Dana = Danus/Keuangan."
+    },
+    {
+      "id": "smp-9-seni-16",
+      "teks": "Seksi panitia pameran yang bertugas mencari donatur / sponsor / dana persiapan pertunjukan adalah seksi... (Latihan Intensif #16)",
+      "opsi": {
+        "A": "Konsumsi",
+        "B": "Sekretariat",
+        "C": "Dokumentasi",
+        "D": "Usaha / Danus (Dana Usaha)"
+      },
+      "kunci": "D",
+      "pembahasan": "Danus (Dana Usaha / Pemasaran sponsorship) fokus mencari dana tambahan komersil jalannya pameran.",
+      "trik": "Dana = Danus/Keuangan."
+    },
+    {
+      "id": "smp-9-seni-17",
+      "teks": "Tarian yang diciptakan sesuai perkembangan zaman namun tidak melepaskan akar nilai tradisi dasarnya disebut... (Latihan Intensif #17)",
+      "opsi": {
+        "A": "Tari Kreasi Baru / Kontemporer",
+        "B": "Tari Klasik",
+        "C": "Tari Adat Sakral",
+        "D": "Tari Ballet"
+      },
+      "kunci": "A",
+      "pembahasan": "Tari Kreasi berakar pola tradisi tapi bebas modifikasi tata artistik menyesuaikan spirit saat ini.",
+      "trik": "Kreasi = modifikasi kreatif."
+    },
+    {
+      "id": "smp-9-seni-18",
+      "teks": "Patung dari bahan keras seperti batu marmer dan kayu jati umumnya dikerjakan menggunakan teknik... (Latihan Intensif #18)",
+      "opsi": {
+        "A": "Cor (Cetak)",
+        "B": "Pahat / Subtractive",
+        "C": "Butsir",
+        "D": "Merakit"
+      },
+      "kunci": "B",
+      "pembahasan": "Bahan padat keras dibentuk dengan mengurangi massa dasar memakai palu dan pahat tatah (Subtractive).",
+      "trik": "Keras = di Palu Pahat."
+    },
+    {
+      "id": "smp-9-seni-19",
+      "teks": "Aliran seni lukis yang menggambarkan bentuk benda secara nyata sesuai dengan objek aslinya dinamakan aliran... (Latihan Intensif #19)",
+      "opsi": {
+        "A": "Surealisme",
+        "B": "Abstraksionisme",
+        "C": "Realisme",
+        "D": "Romantisme"
+      },
+      "kunci": "C",
+      "pembahasan": "Realisme melukiskan keadaan nyata alam/benda keseharian tanpa tambahan utopi/imajinasi berat.",
+      "trik": "Real = Nyata sesungguhnya."
+    },
+    {
+      "id": "smp-9-seni-20",
+      "teks": "Tarian yang diciptakan sesuai perkembangan zaman namun tidak melepaskan akar nilai tradisi dasarnya disebut... (Latihan Intensif #20)",
+      "opsi": {
+        "A": "Tari Klasik",
+        "B": "Tari Adat Sakral",
+        "C": "Tari Ballet",
+        "D": "Tari Kreasi Baru / Kontemporer"
+      },
+      "kunci": "D",
+      "pembahasan": "Tari Kreasi berakar pola tradisi tapi bebas modifikasi tata artistik menyesuaikan spirit saat ini.",
+      "trik": "Kreasi = modifikasi kreatif."
+    },
+    {
+      "id": "smp-9-seni-21",
+      "teks": "Seksi panitia pameran yang bertugas mencari donatur / sponsor / dana persiapan pertunjukan adalah seksi... (Latihan Intensif #21)",
+      "opsi": {
+        "A": "Usaha / Danus (Dana Usaha)",
+        "B": "Konsumsi",
+        "C": "Sekretariat",
+        "D": "Dokumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Danus (Dana Usaha / Pemasaran sponsorship) fokus mencari dana tambahan komersil jalannya pameran.",
+      "trik": "Dana = Danus/Keuangan."
+    },
+    {
+      "id": "smp-9-seni-22",
+      "teks": "Tarian yang diciptakan sesuai perkembangan zaman namun tidak melepaskan akar nilai tradisi dasarnya disebut... (Latihan Intensif #22)",
+      "opsi": {
+        "A": "Tari Klasik",
+        "B": "Tari Kreasi Baru / Kontemporer",
+        "C": "Tari Adat Sakral",
+        "D": "Tari Ballet"
+      },
+      "kunci": "B",
+      "pembahasan": "Tari Kreasi berakar pola tradisi tapi bebas modifikasi tata artistik menyesuaikan spirit saat ini.",
+      "trik": "Kreasi = modifikasi kreatif."
+    },
+    {
+      "id": "smp-9-seni-23",
+      "teks": "Seksi panitia pameran yang bertugas mencari donatur / sponsor / dana persiapan pertunjukan adalah seksi... (Latihan Intensif #23)",
+      "opsi": {
+        "A": "Konsumsi",
+        "B": "Sekretariat",
+        "C": "Usaha / Danus (Dana Usaha)",
+        "D": "Dokumentasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Danus (Dana Usaha / Pemasaran sponsorship) fokus mencari dana tambahan komersil jalannya pameran.",
+      "trik": "Dana = Danus/Keuangan."
+    },
+    {
+      "id": "smp-9-seni-24",
+      "teks": "Pernapasan yang sangat dianjurkan saat menyanyi solo vokal agar suara lebih bertenaga dan panjang nafasnya adalah... (Latihan Intensif #24)",
+      "opsi": {
+        "A": "Pernapasan Dada",
+        "B": "Pernapasan Perut",
+        "C": "Pernapasan Leher",
+        "D": "Pernapasan Diafragma"
+      },
+      "kunci": "D",
+      "pembahasan": "Diafragma menjaga stabilnya tiupan rongga udara ke pita suara dng cadangan paling besar dan lentur relaksasinya.",
+      "trik": "Diafragma penyanyi = tahan napas kuat."
+    },
+    {
+      "id": "smp-9-seni-25",
+      "teks": "Pernapasan yang sangat dianjurkan saat menyanyi solo vokal agar suara lebih bertenaga dan panjang nafasnya adalah... (Latihan Intensif #25)",
+      "opsi": {
+        "A": "Pernapasan Diafragma",
+        "B": "Pernapasan Dada",
+        "C": "Pernapasan Perut",
+        "D": "Pernapasan Leher"
+      },
+      "kunci": "A",
+      "pembahasan": "Diafragma menjaga stabilnya tiupan rongga udara ke pita suara dng cadangan paling besar dan lentur relaksasinya.",
+      "trik": "Diafragma penyanyi = tahan napas kuat."
+    },
+    {
+      "id": "smp-9-seni-26",
+      "teks": "Patung dari bahan keras seperti batu marmer dan kayu jati umumnya dikerjakan menggunakan teknik... (Latihan Intensif #26)",
+      "opsi": {
+        "A": "Cor (Cetak)",
+        "B": "Pahat / Subtractive",
+        "C": "Butsir",
+        "D": "Merakit"
+      },
+      "kunci": "B",
+      "pembahasan": "Bahan padat keras dibentuk dengan mengurangi massa dasar memakai palu dan pahat tatah (Subtractive).",
+      "trik": "Keras = di Palu Pahat."
+    },
+    {
+      "id": "smp-9-seni-27",
+      "teks": "Pernapasan yang sangat dianjurkan saat menyanyi solo vokal agar suara lebih bertenaga dan panjang nafasnya adalah... (Latihan Intensif #27)",
+      "opsi": {
+        "A": "Pernapasan Dada",
+        "B": "Pernapasan Perut",
+        "C": "Pernapasan Diafragma",
+        "D": "Pernapasan Leher"
+      },
+      "kunci": "C",
+      "pembahasan": "Diafragma menjaga stabilnya tiupan rongga udara ke pita suara dng cadangan paling besar dan lentur relaksasinya.",
+      "trik": "Diafragma penyanyi = tahan napas kuat."
+    },
+    {
+      "id": "smp-9-seni-28",
+      "teks": "Tarian yang diciptakan sesuai perkembangan zaman namun tidak melepaskan akar nilai tradisi dasarnya disebut... (Latihan Intensif #28)",
+      "opsi": {
+        "A": "Tari Klasik",
+        "B": "Tari Adat Sakral",
+        "C": "Tari Ballet",
+        "D": "Tari Kreasi Baru / Kontemporer"
+      },
+      "kunci": "D",
+      "pembahasan": "Tari Kreasi berakar pola tradisi tapi bebas modifikasi tata artistik menyesuaikan spirit saat ini.",
+      "trik": "Kreasi = modifikasi kreatif."
+    },
+    {
+      "id": "smp-9-seni-29",
+      "teks": "Patung dari bahan keras seperti batu marmer dan kayu jati umumnya dikerjakan menggunakan teknik... (Latihan Intensif #29)",
+      "opsi": {
+        "A": "Pahat / Subtractive",
+        "B": "Cor (Cetak)",
+        "C": "Butsir",
+        "D": "Merakit"
+      },
+      "kunci": "A",
+      "pembahasan": "Bahan padat keras dibentuk dengan mengurangi massa dasar memakai palu dan pahat tatah (Subtractive).",
+      "trik": "Keras = di Palu Pahat."
+    },
+    {
+      "id": "smp-9-seni-30",
+      "teks": "Tarian yang diciptakan sesuai perkembangan zaman namun tidak melepaskan akar nilai tradisi dasarnya disebut... (Latihan Intensif #30)",
+      "opsi": {
+        "A": "Tari Klasik",
+        "B": "Tari Kreasi Baru / Kontemporer",
+        "C": "Tari Adat Sakral",
+        "D": "Tari Ballet"
+      },
+      "kunci": "B",
+      "pembahasan": "Tari Kreasi berakar pola tradisi tapi bebas modifikasi tata artistik menyesuaikan spirit saat ini.",
+      "trik": "Kreasi = modifikasi kreatif."
+    },
+    {
+      "id": "smp-9-seni-31",
+      "teks": "Patung dari bahan keras seperti batu marmer dan kayu jati umumnya dikerjakan menggunakan teknik... (Latihan Intensif #31)",
+      "opsi": {
+        "A": "Cor (Cetak)",
+        "B": "Butsir",
+        "C": "Pahat / Subtractive",
+        "D": "Merakit"
+      },
+      "kunci": "C",
+      "pembahasan": "Bahan padat keras dibentuk dengan mengurangi massa dasar memakai palu dan pahat tatah (Subtractive).",
+      "trik": "Keras = di Palu Pahat."
+    },
+    {
+      "id": "smp-9-seni-32",
+      "teks": "Patung dari bahan keras seperti batu marmer dan kayu jati umumnya dikerjakan menggunakan teknik... (Latihan Intensif #32)",
+      "opsi": {
+        "A": "Cor (Cetak)",
+        "B": "Butsir",
+        "C": "Merakit",
+        "D": "Pahat / Subtractive"
+      },
+      "kunci": "D",
+      "pembahasan": "Bahan padat keras dibentuk dengan mengurangi massa dasar memakai palu dan pahat tatah (Subtractive).",
+      "trik": "Keras = di Palu Pahat."
+    },
+    {
+      "id": "smp-9-seni-33",
+      "teks": "Patung dari bahan keras seperti batu marmer dan kayu jati umumnya dikerjakan menggunakan teknik... (Latihan Intensif #33)",
+      "opsi": {
+        "A": "Pahat / Subtractive",
+        "B": "Cor (Cetak)",
+        "C": "Butsir",
+        "D": "Merakit"
+      },
+      "kunci": "A",
+      "pembahasan": "Bahan padat keras dibentuk dengan mengurangi massa dasar memakai palu dan pahat tatah (Subtractive).",
+      "trik": "Keras = di Palu Pahat."
+    },
+    {
+      "id": "smp-9-seni-34",
+      "teks": "Patung dari bahan keras seperti batu marmer dan kayu jati umumnya dikerjakan menggunakan teknik... (Latihan Intensif #34)",
+      "opsi": {
+        "A": "Cor (Cetak)",
+        "B": "Pahat / Subtractive",
+        "C": "Butsir",
+        "D": "Merakit"
+      },
+      "kunci": "B",
+      "pembahasan": "Bahan padat keras dibentuk dengan mengurangi massa dasar memakai palu dan pahat tatah (Subtractive).",
+      "trik": "Keras = di Palu Pahat."
+    },
+    {
+      "id": "smp-9-seni-35",
+      "teks": "Aliran seni lukis yang menggambarkan bentuk benda secara nyata sesuai dengan objek aslinya dinamakan aliran... (Latihan Intensif #35)",
+      "opsi": {
+        "A": "Surealisme",
+        "B": "Abstraksionisme",
+        "C": "Realisme",
+        "D": "Romantisme"
+      },
+      "kunci": "C",
+      "pembahasan": "Realisme melukiskan keadaan nyata alam/benda keseharian tanpa tambahan utopi/imajinasi berat.",
+      "trik": "Real = Nyata sesungguhnya."
+    },
+    {
+      "id": "smp-9-seni-36",
+      "teks": "Tarian yang diciptakan sesuai perkembangan zaman namun tidak melepaskan akar nilai tradisi dasarnya disebut... (Latihan Intensif #36)",
+      "opsi": {
+        "A": "Tari Klasik",
+        "B": "Tari Adat Sakral",
+        "C": "Tari Ballet",
+        "D": "Tari Kreasi Baru / Kontemporer"
+      },
+      "kunci": "D",
+      "pembahasan": "Tari Kreasi berakar pola tradisi tapi bebas modifikasi tata artistik menyesuaikan spirit saat ini.",
+      "trik": "Kreasi = modifikasi kreatif."
+    },
+    {
+      "id": "smp-9-seni-37",
+      "teks": "Aliran seni lukis yang menggambarkan bentuk benda secara nyata sesuai dengan objek aslinya dinamakan aliran... (Latihan Intensif #37)",
+      "opsi": {
+        "A": "Realisme",
+        "B": "Surealisme",
+        "C": "Abstraksionisme",
+        "D": "Romantisme"
+      },
+      "kunci": "A",
+      "pembahasan": "Realisme melukiskan keadaan nyata alam/benda keseharian tanpa tambahan utopi/imajinasi berat.",
+      "trik": "Real = Nyata sesungguhnya."
+    },
+    {
+      "id": "smp-9-seni-38",
+      "teks": "Pernapasan yang sangat dianjurkan saat menyanyi solo vokal agar suara lebih bertenaga dan panjang nafasnya adalah... (Latihan Intensif #38)",
+      "opsi": {
+        "A": "Pernapasan Dada",
+        "B": "Pernapasan Diafragma",
+        "C": "Pernapasan Perut",
+        "D": "Pernapasan Leher"
+      },
+      "kunci": "B",
+      "pembahasan": "Diafragma menjaga stabilnya tiupan rongga udara ke pita suara dng cadangan paling besar dan lentur relaksasinya.",
+      "trik": "Diafragma penyanyi = tahan napas kuat."
+    },
+    {
+      "id": "smp-9-seni-39",
+      "teks": "Tarian yang diciptakan sesuai perkembangan zaman namun tidak melepaskan akar nilai tradisi dasarnya disebut... (Latihan Intensif #39)",
+      "opsi": {
+        "A": "Tari Klasik",
+        "B": "Tari Adat Sakral",
+        "C": "Tari Kreasi Baru / Kontemporer",
+        "D": "Tari Ballet"
+      },
+      "kunci": "C",
+      "pembahasan": "Tari Kreasi berakar pola tradisi tapi bebas modifikasi tata artistik menyesuaikan spirit saat ini.",
+      "trik": "Kreasi = modifikasi kreatif."
+    },
+    {
+      "id": "smp-9-seni-40",
+      "teks": "Pernapasan yang sangat dianjurkan saat menyanyi solo vokal agar suara lebih bertenaga dan panjang nafasnya adalah... (Latihan Intensif #40)",
+      "opsi": {
+        "A": "Pernapasan Dada",
+        "B": "Pernapasan Perut",
+        "C": "Pernapasan Leher",
+        "D": "Pernapasan Diafragma"
+      },
+      "kunci": "D",
+      "pembahasan": "Diafragma menjaga stabilnya tiupan rongga udara ke pita suara dng cadangan paling besar dan lentur relaksasinya.",
+      "trik": "Diafragma penyanyi = tahan napas kuat."
+    },
+    {
+      "id": "smp-9-seni-41",
+      "teks": "Tarian yang diciptakan sesuai perkembangan zaman namun tidak melepaskan akar nilai tradisi dasarnya disebut... (Latihan Intensif #41)",
+      "opsi": {
+        "A": "Tari Kreasi Baru / Kontemporer",
+        "B": "Tari Klasik",
+        "C": "Tari Adat Sakral",
+        "D": "Tari Ballet"
+      },
+      "kunci": "A",
+      "pembahasan": "Tari Kreasi berakar pola tradisi tapi bebas modifikasi tata artistik menyesuaikan spirit saat ini.",
+      "trik": "Kreasi = modifikasi kreatif."
+    },
+    {
+      "id": "smp-9-seni-42",
+      "teks": "Tarian yang diciptakan sesuai perkembangan zaman namun tidak melepaskan akar nilai tradisi dasarnya disebut... (Latihan Intensif #42)",
+      "opsi": {
+        "A": "Tari Klasik",
+        "B": "Tari Kreasi Baru / Kontemporer",
+        "C": "Tari Adat Sakral",
+        "D": "Tari Ballet"
+      },
+      "kunci": "B",
+      "pembahasan": "Tari Kreasi berakar pola tradisi tapi bebas modifikasi tata artistik menyesuaikan spirit saat ini.",
+      "trik": "Kreasi = modifikasi kreatif."
+    },
+    {
+      "id": "smp-9-seni-43",
+      "teks": "Aliran seni lukis yang menggambarkan bentuk benda secara nyata sesuai dengan objek aslinya dinamakan aliran... (Latihan Intensif #43)",
+      "opsi": {
+        "A": "Surealisme",
+        "B": "Abstraksionisme",
+        "C": "Realisme",
+        "D": "Romantisme"
+      },
+      "kunci": "C",
+      "pembahasan": "Realisme melukiskan keadaan nyata alam/benda keseharian tanpa tambahan utopi/imajinasi berat.",
+      "trik": "Real = Nyata sesungguhnya."
+    },
+    {
+      "id": "smp-9-seni-44",
+      "teks": "Aliran seni lukis yang menggambarkan bentuk benda secara nyata sesuai dengan objek aslinya dinamakan aliran... (Latihan Intensif #44)",
+      "opsi": {
+        "A": "Surealisme",
+        "B": "Abstraksionisme",
+        "C": "Romantisme",
+        "D": "Realisme"
+      },
+      "kunci": "D",
+      "pembahasan": "Realisme melukiskan keadaan nyata alam/benda keseharian tanpa tambahan utopi/imajinasi berat.",
+      "trik": "Real = Nyata sesungguhnya."
+    },
+    {
+      "id": "smp-9-seni-45",
+      "teks": "Aliran seni lukis yang menggambarkan bentuk benda secara nyata sesuai dengan objek aslinya dinamakan aliran... (Latihan Intensif #45)",
+      "opsi": {
+        "A": "Realisme",
+        "B": "Surealisme",
+        "C": "Abstraksionisme",
+        "D": "Romantisme"
+      },
+      "kunci": "A",
+      "pembahasan": "Realisme melukiskan keadaan nyata alam/benda keseharian tanpa tambahan utopi/imajinasi berat.",
+      "trik": "Real = Nyata sesungguhnya."
+    },
+    {
+      "id": "smp-9-seni-46",
+      "teks": "Aliran seni lukis yang menggambarkan bentuk benda secara nyata sesuai dengan objek aslinya dinamakan aliran... (Latihan Intensif #46)",
+      "opsi": {
+        "A": "Surealisme",
+        "B": "Realisme",
+        "C": "Abstraksionisme",
+        "D": "Romantisme"
+      },
+      "kunci": "B",
+      "pembahasan": "Realisme melukiskan keadaan nyata alam/benda keseharian tanpa tambahan utopi/imajinasi berat.",
+      "trik": "Real = Nyata sesungguhnya."
+    },
+    {
+      "id": "smp-9-seni-47",
+      "teks": "Patung dari bahan keras seperti batu marmer dan kayu jati umumnya dikerjakan menggunakan teknik... (Latihan Intensif #47)",
+      "opsi": {
+        "A": "Cor (Cetak)",
+        "B": "Butsir",
+        "C": "Pahat / Subtractive",
+        "D": "Merakit"
+      },
+      "kunci": "C",
+      "pembahasan": "Bahan padat keras dibentuk dengan mengurangi massa dasar memakai palu dan pahat tatah (Subtractive).",
+      "trik": "Keras = di Palu Pahat."
+    },
+    {
+      "id": "smp-9-seni-48",
+      "teks": "Patung dari bahan keras seperti batu marmer dan kayu jati umumnya dikerjakan menggunakan teknik... (Latihan Intensif #48)",
+      "opsi": {
+        "A": "Cor (Cetak)",
+        "B": "Butsir",
+        "C": "Merakit",
+        "D": "Pahat / Subtractive"
+      },
+      "kunci": "D",
+      "pembahasan": "Bahan padat keras dibentuk dengan mengurangi massa dasar memakai palu dan pahat tatah (Subtractive).",
+      "trik": "Keras = di Palu Pahat."
+    },
+    {
+      "id": "smp-9-seni-49",
+      "teks": "Pernapasan yang sangat dianjurkan saat menyanyi solo vokal agar suara lebih bertenaga dan panjang nafasnya adalah... (Latihan Intensif #49)",
+      "opsi": {
+        "A": "Pernapasan Diafragma",
+        "B": "Pernapasan Dada",
+        "C": "Pernapasan Perut",
+        "D": "Pernapasan Leher"
+      },
+      "kunci": "A",
+      "pembahasan": "Diafragma menjaga stabilnya tiupan rongga udara ke pita suara dng cadangan paling besar dan lentur relaksasinya.",
+      "trik": "Diafragma penyanyi = tahan napas kuat."
+    },
+    {
+      "id": "smp-9-seni-50",
+      "teks": "Seksi panitia pameran yang bertugas mencari donatur / sponsor / dana persiapan pertunjukan adalah seksi... (Latihan Intensif #50)",
+      "opsi": {
+        "A": "Konsumsi",
+        "B": "Usaha / Danus (Dana Usaha)",
+        "C": "Sekretariat",
+        "D": "Dokumentasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Danus (Dana Usaha / Pemasaran sponsorship) fokus mencari dana tambahan komersil jalannya pameran.",
+      "trik": "Dana = Danus/Keuangan."
+    }
+  ]
+}

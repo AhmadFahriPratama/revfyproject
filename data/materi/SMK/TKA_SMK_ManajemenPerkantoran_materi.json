@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Manajemen Perkantoran",
+  "tingkatan": "SMK",
+  "jurusan": "Manajemen Perkantoran / Pilihan",
+  "deskripsi": "Materi persiapan TKA Manajemen Perkantoran (MP) untuk siswa SMK yang berfokus pada administrasi umum, korespondensi, kearsipan, teknologi perkantoran, dan pelayanan prima.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar-Dasar Administrasi Perkantoran",
+      "konten": "Pengertian administrasi, fungsi kantor bagi organisasi, unsur-unsur administrasi (menurut The Liang Gie), serta peran staf administrasi di era digital.",
+      "tag": [
+        "tka smk manajemenperkantoran materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Korespondensi (Surat Menyurat)",
+      "konten": "Bagian-bagian surat resmi, jenis surat (niaga, dinas, lamaran kerja), tata bahasa surat yang baik, serta penggunaan e-mail dan aplikasi perpesanan bisnis.",
+      "tag": [
+        "tka smk manajemenperkantoran materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Manajemen Kearsipan (Records Management)",
+      "konten": "Siklus hidup arsip (penciptaan, penggunaan, penyimpanan, penyusutan), sistem kearsipan (abjad, subjek, tanggal, wilayah, nomor), serta digitalisasi arsip.",
+      "tag": [
+        "tka smk manajemenperkantoran materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Teknologi Perkantoran dan Otomasi",
+      "konten": "Penggunaan perangkat lunak perkantoran (Word, Excel, PPT), peralatan kantor (mesin fotokopi, scanner, PABX), serta konsep kantor virtual (Virtual Office).",
+      "tag": [
+        "tka smk manajemenperkantoran materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pelayanan Prima dan Etika Profesi",
+      "konten": "Konsep Excellent Service (A6), etika berkomunikasi lewat telepon, penanganan tamu, keprotokolan, serta pengembangan kepribadian staf kantor.",
+      "tag": [
+        "tka smk manajemenperkantoran materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-manajemenperkantoran-materi",
+  "mapel": "TKA SMK: Manajemen Perkantoran",
+  "tag": [
+    "tka smk manajemenperkantoran materi"
+  ]
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_MD_01",
+    "pertanyaan": "FR Hospitality: Jika ada tamu dari Tiongkok datang ke hotel, sapaan paling sopan adalah...",
+    "opsi": [
+      "Ni hao, huanying guanglin!",
+      "Oi!",
+      "Hello!",
+      "Makan yuk",
+      "Zaijian"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Huanying guanglin berarti Selamat datang.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_MD_02",
+    "pertanyaan": "FR Bisnis: Saat menerima kartu nama dari kolega Tiongkok, sebaiknya kita...",
+    "opsi": [
+      "Menerima dengan satu tangan saja",
+      "Menerima dengan dua tangan dan membacanya sebentar sebagai rasa hormat",
+      "Langsung memasukkannya ke saku",
+      "Mencoret-coret kartu tersebut",
+      "Menaruhnya di meja bawah"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_MD_03",
+    "pertanyaan": "FR Angka: Angka '4' (Si) sering dihindari di gedung-gedung Tiongkok karena pelafalannya mirip dengan kata...",
+    "opsi": [
+      "Lapar",
+      "Miskin",
+      "Mati (Si)",
+      "Sial",
+      "Sakit"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Tetapi dengan nada yang berbeda. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Mati (Si)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_MD_04",
+    "pertanyaan": "FR Teknis: Tombol 'Mulai' dalam Bahasa Mandarin sering tertulis...",
+    "opsi": [
+      "Jieshu (结束)",
+      "Tingzhi (停止)",
+      "Fanhui (返回)",
+      "Kaishi (开始)",
+      "Guanbi (关闭)"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_MD_05",
+    "pertanyaan": "FR Pergaulan: Apa arti dari istilah 'Guanxi' dalam budaya sosial Tiongkok?",
+    "opsi": [
+      "Persaingan",
+      "Kekerasan",
+      "Kebohongan",
+      "Makan siang",
+      "Hubungan atau Jaringan Sosial (Koneksi)"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Guanxi sangat krusial dalam keberhasilan bisnis dan karier di Tiongkok.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "materi-smp-kls9-pai",
+  "tingkat": "SMP Kelas 9",
+  "mapel": "Pendidikan Agama Islam",
+  "materi": "Hari Kiamat, Qada Qadar, Hormat Ortu Guru, Haji Umrah, Tradisi Islam Nusantara",
+  "deskripsi": "Materi PAI Kelas 9 meliputi rukun iman pamungkas (Hari Akhir dan Takdir), Adab kepada guru dan orangtua, fiqih sembelih hewan dan ibadah ke tanah suci, serta sejarah akulturasi ulama Nusantara Wali Songo.",
+  "konten": [
+    {
+      "bab": "1. Meyakini Hari Akhir (Kiamat) dan Hikmahnya",
+      "teks": "Iman rukun kelima. Kiamat Sugra (Kecil) dan Kubra (Besar hancur Semesta Alam). Tahapan alam barzah, yaumul ba'ats, mahsyar, hisab mizan."
+    },
+    {
+      "bab": "2. Jujur dan Menepati Janji",
+      "teks": "Perilaku budi luhur menepati setiap janji ikrar kepada sesama/Tuhan sebagai wujud amanah berat, larangan obral sumpah palsu dosa besar."
+    },
+    {
+      "bab": "3. Menuai Keberkahan dng Taat Hormat Orangtua dan Guru",
+      "teks": "Birrul Walidain (Berbakti). Beradab dng Guru adalah kunci sukses mendapatkan ilmu manfaat duniawi akhirat tanpa kutukan durhaka (Uququl Walidain)."
+    },
+    {
+      "bab": "4. Ibadah Haji dan Umrah",
+      "teks": "Pengertian kewajiban haji mampu (Istita'ah). Syarat rukun wajib dan sunah thawaf, sa'i, wukuf padang arafah, ihram tahalul. Bedanya dgn Umrah."
+    },
+    {
+      "bab": "5. Penyembelihan Hewan, Kurban, dan Akikah",
+      "teks": "Syarat rukun pemotongan tajam pisau leher hewan halal nama Allah. Jadwal kurban Idul Adha. Ketentuan Akikah tebusan bayi laki(2)/pr(1)."
+    },
+    {
+      "bab": "6. Qada' dan Qadar (Takdir Allah)",
+      "teks": "Iman ketetapan takdir. Takdir Mubram (Pasti/tak bisa diubah sprt kelahiran mati) dan Takdir Muallaq (bisa dirubah ikhtiar doa spt Sakit, Kaya/miskin Bodoh/pintar)."
+    },
+    {
+      "bab": "7. Sejarah Tradisi Islam di Nusantara",
+      "teks": "Masuknya Islam damai via Perdagangan Pernikahan Kesenian. Kiprah akulturasi sembilan Wali. Menghargai tradisi slametan halal-bihalal Grebeg Maulid dll dng syariat murni."
+    }
+  ],
+  "tag": ["smp-9", "pai", "rukun-iman", "haji-umrah", "takdir", "qurban", "sejarah-wali"]
+}

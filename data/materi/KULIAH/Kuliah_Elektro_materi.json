@@ -1,0 +1,53 @@
+{
+  "judul": "Teknik Elektro (Lanjut)",
+  "tingkatan": "KULIAH",
+  "jurusan": "STEM / Teknik Elektro",
+  "deskripsi": "Materi tingkat universitas mengenai analisis rangkaian listrik lanjut, medan elektromagnetik, sistem kontrol (kendali), pengolahan sinyal digital, serta elektronika daya dan energi terbarukan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Analisis Rangkaian Listrik dan Sinyal",
+      "konten": "Teorema rangkaian (Thevenin, Norton, Superposisi) pada arus bolak-balik (AC). Analisis domain waktu dan frekuensi (Transformasi Laplace dan Fourier). Filter pasif dan aktif.",
+      "tag": [
+        "kuliah elektro materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Sistem Elektronika dan Digital lanjut",
+      "konten": "Arsitektur mikroprosesor dan mikrokontroler (ARM/AVR), desain sistem tertanam (Embedded Systems), pengenalan VHDL/Verilog, serta operasional amplifier (Op-Amp) lanjut.",
+      "tag": [
+        "kuliah elektro materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Medan Elektromagnetik dan Gelombang",
+      "konten": "Persamaan Maxwell, hukum Gauss, hukum Ampere, serta perambatan gelombang elektromagnetik dalam medium dan saluran transmisi (Antena & Waveguide).",
+      "tag": [
+        "kuliah elektro materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Sistem Kontrol dan Kendali Lanjut",
+      "konten": "Pemodelan ruang keadaan (State-Space), analisis stabilitas sistem (Nyquist, Bode Plot, Routh-Hurwitz), serta desain kendali PID dan kendali digital.",
+      "tag": [
+        "kuliah elektro materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Sistem Tenaga Listrik dan Energi Baru Terbarukan",
+      "konten": "Analisis aliran daya (Power Flow), sistem proteksi ketenagalistrikan, mesin listrik (Transformator, Motor Induksi), serta integrasi Panel Surya (PV) dan Turbin Angin ke Grid.",
+      "tag": [
+        "kuliah elektro materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-elektro-materi",
+  "mapel": "Teknik Elektro (Lanjut)",
+  "tag": [
+    "kuliah elektro materi"
+  ]
+}

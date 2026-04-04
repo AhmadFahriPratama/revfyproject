@@ -1,0 +1,26 @@
+{
+  "id": "bundle-catalog",
+  "bundles": [
+    {
+      "name": "UTBK Core Sprint",
+      "includes": [
+        "roadmap/utbk_roadmap.json",
+        "tryout/UTBK/utbk_final_sprint_v01.json"
+      ]
+    },
+    {
+      "name": "CPNS Final Sprint",
+      "includes": [
+        "roadmap/cpns_roadmap.json",
+        "tryout/CPNS/cpns_final_sprint_v01.json"
+      ]
+    },
+    {
+      "name": "TKA SMP Wajib Pack",
+      "includes": [
+        "roadmap/tka_smp_roadmap.json",
+        "tryout/TKA_SMP/tka_smp_wajib_tryout_v01.json"
+      ]
+    }
+  ]
+}

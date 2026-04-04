@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Kuliner (Tata Boga)",
+  "tingkatan": "SMK",
+  "jurusan": "Kuliner / Tata Boga / Pilihan",
+  "deskripsi": "Materi persiapan TKA Kuliner untuk siswa SMK yang berfokus pada teknik memasak dasar, manajemen dapur, pengetahuan bahan makanan, serta penyajian hidangan nusantara dan kontinental.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar-Dasar Pengolahan Makanan",
+      "konten": "Teknik memotong (Chop, Dice, Julienne), teknik memasak panas basah (Boiling, Steaming), dan panas kering (Roasting, Grilling), serta penggunaan alat dapur (Kitchen Utensils).",
+      "tag": [
+        "tka smk kuliner materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Pengetahuan Bahan Makanan",
+      "konten": "Karakteristik daging, unggas, ikan, serealia, sayuran, dan buah-buahan, teknik penyimpanan bahan (Chilling, Freezing), serta pemilihan bahan segar.",
+      "tag": [
+        "tka smk kuliner materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Menu dan Gizi Seimbang",
+      "konten": "Perencanaan menu (Menu Planning), perhitungan porsi, prinsip gizi (Nutrisi), serta klasifikasi hidangan (Appetizer, Main Course, Dessert).",
+      "tag": [
+        "tka smk kuliner materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Sanitasi, Higiene, dan K3 Dapur",
+      "konten": "Higiene personal penjamu makanan, sanitasi peralatan dan area dapur, prosedur keselamatan kerja (K3), serta pencegahan kontaminasi silang (Cross-contamination).",
+      "tag": [
+        "tka smk kuliner materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pengelolaan Usaha Kuliner",
+      "konten": "Perhitungan harga jual (Food Costing), teknik penyajian/plating yang estetis, pelayanan restoran (Service), serta tren industri kuliner modern.",
+      "tag": [
+        "tka smk kuliner materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-kuliner-materi",
+  "mapel": "TKA SMK: Kuliner (Tata Boga)",
+  "tag": [
+    "tka smk kuliner materi"
+  ]
+}

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TI_DKV_01",
+    "pertanyaan": "Unsur seni rupa yang paling dasar dan merupakan kumpulan dari titik-titik adalah...",
+    "opsi": [
+      "Garis",
+      "Bidang",
+      "Warna",
+      "Tekstur",
+      "Ruang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Garis terbentuk dari goresan atau tarikan titik yang memanjang."
+  },
+  {
+    "id": "TI_DKV_02",
+    "pertanyaan": "Prinsip desain yang mengatur agar semua elemen dalam sebuah karya desain terasa menyatu dan serasi disebut...",
+    "opsi": [
+      "Keseimbangan (Balance)",
+      "Kesatuan (Unity)",
+      "Irama (Rhythm)",
+      "Penekanan (Emphasis)",
+      "Proporsi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Unity memastikan tidak ada elemen yang terlihat 'lepas' atau tidak berhubungan."
+  },
+  {
+    "id": "TI_DKV_03",
+    "pertanyaan": "Warna yang dihasilkan dari percampuran dua warna primer disebut warna...",
+    "opsi": [
+      "Tersier",
+      "Netral",
+      "Sekunder",
+      "Komplementer",
+      "Analog"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh: Merah + Kuning = Orange (Sekunder)."
+  },
+  {
+    "id": "TI_DKV_04",
+    "pertanyaan": "Warna biru, hijau, dan ungu termasuk dalam kategori kelompok warna...",
+    "opsi": [
+      "Panas",
+      "Cerah",
+      "Gelap",
+      "Dingin",
+      "Neon"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Cool colors (warna dingin) memberikan kesan tenang dan sejuk."
+  },
+  {
+    "id": "TI_DKV_05",
+    "pertanyaan": "Ilmu yang mempelajari tentang pemilihan dan penataan huruf agar mudah dibaca dan menarik disebut...",
+    "opsi": [
+      "Fotografi",
+      "Ilustrasi",
+      "Layout",
+      "Sketsa",
+      "Tipografi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tipografi sangat krusial dalam penyampaian pesan visual teks."
+  },
+  {
+    "id": "TI_DKV_06",
+    "pertanyaan": "Jenis font yang memiliki 'kaki' atau sirip kecil di setiap ujung karakter (contoh: Times New Roman) disebut...",
+    "opsi": [
+      "Serif",
+      "Sans Serif",
+      "Script",
+      "Decorative",
+      "Monospace"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Serif memberikan kesan formal, klasik, dan terpercaya."
+  },
+  {
+    "id": "TI_DKV_07",
+    "pertanyaan": "Jenis font yang tidak memiliki sirip atau kaki (contoh: Arial, Helvetica) disebut...",
+    "opsi": [
+      "Serif",
+      "Sans Serif",
+      "Script",
+      "Gothic",
+      "Old English"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sans Serif memberikan kesan modern, bersih, dan minimalis."
+  },
+  {
+    "id": "TI_DKV_08",
+    "pertanyaan": "Gambar yang terbentuk dari koordinat matematis sehingga bisa diperbesar tanpa pecah/blur disebut gambar...",
+    "opsi": [
+      "Bitmap / Raster",
+      "JPEG",
+      "Vektor",
+      "Screenshot",
+      "Thumbnail"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Vektor sangat cocok untuk desain logo dan ikon."
+  },
+  {
+    "id": "TI_DKV_09",
+    "pertanyaan": "Gambar yang terdiri dari susunan titik warna (pixel) dan akan pecah jika diperbesar berlebihan disebut gambar...",
+    "opsi": [
+      "Vektor",
+      "SVG",
+      "EPS",
+      "Bitmap / Raster",
+      "AI"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh gambar bitmap adalah hasil foto kamera digital."
+  },
+  {
+    "id": "TI_DKV_10",
+    "pertanyaan": "Perangkat lunak berbasis vektor yang paling umum digunakan dalam industri desain grafis adalah...",
+    "opsi": [
+      "Adobe Photoshop",
+      "Microsoft Paint",
+      "Notepad",
+      "Windows Media Player",
+      "Adobe Illustrator / CorelDraw"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Illustrator dan CorelDraw adalah software pengolah vektor standar."
+  },
+  {
+    "id": "TI_DKV_11",
+    "pertanyaan": "Resolusi gambar dinyatakan dalam satuan...",
+    "opsi": [
+      "DPI / PPI (Pixels Per Inch)",
+      "CMYK",
+      "RGB",
+      "Bitrate",
+      "Watt"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Semakin tinggi DPI, semakin tajam dan detail hasil cetakan gambar."
+  },
+  {
+    "id": "TI_DKV_12",
+    "pertanyaan": "Model warna yang digunakan untuk kebutuhan cetak (printing) adalah...",
+    "opsi": [
+      "RGB",
+      "CMYK",
+      "Grayscale",
+      "HSB",
+      "Lab Color"
+    ],
+    "jawaban": 1,
+    "pembahasan": "CMYK (Cyan, Magenta, Yellow, Key/Black)."
+  },
+  {
+    "id": "TI_DKV_13",
+    "pertanyaan": "Model warna yang dihasilkan oleh cahaya layar monitor atau HP adalah...",
+    "opsi": [
+      "CMYK",
+      "Pantone",
+      "RGB",
+      "Vektor",
+      "Dot Matrix"
+    ],
+    "jawaban": 2,
+    "pembahasan": "RGB (Red, Green, Blue) adalah model warna aditif (cahaya)."
+  },
+  {
+    "id": "TI_DKV_14",
+    "pertanyaan": "Citra visual yang berfungsi menjelaskan, mempertegas, atau menghiasi suatu pesan/cerita disebut...",
+    "opsi": [
+      "Tipografi",
+      "Fotografi",
+      "Audio",
+      "Ilustrasi",
+      "Animasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ilustrasi bisa berupa gambar tangan atau digital."
+  },
+  {
+    "id": "TI_DKV_15",
+    "pertanyaan": "Sketsa gambar yang disusun berurutan sesuai naskah untuk merencanakan adegan film/animasi disebut...",
+    "opsi": [
+      "Script",
+      "Timeline",
+      "Keyframe",
+      "Wireframe",
+      "Storyboard"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Storyboard mempermudah sutradara dan desainer memvisualisasikan cerita."
+  },
+  {
+    "id": "TI_DKV_16",
+    "pertanyaan": "Dalam fotografi, 'Aperture' atau bukaan diafragma lensa ditandai dengan lambang...",
+    "opsi": [
+      "f / (contoh f/2.8)",
+      "ISO",
+      "SS",
+      "WB",
+      "AF"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Aperture mengatur jumlah cahaya yang masuk dan efek 'bokeh' (blur background)."
+  },
+  {
+    "id": "TI_DKV_17",
+    "pertanyaan": "Semakin besar angka ISO pada kamera, maka hasil foto akan semakin...",
+    "opsi": [
+      "Gelap",
+      "Terang (namun berisiko noise/bintik)",
+      "Tajam",
+      "Berwarna biru",
+      "Blur"
+    ],
+    "jawaban": 1,
+    "pembahasan": "ISO tinggi digunakan di tempat minim cahaya (low light)."
+  },
+  {
+    "id": "TI_DKV_18",
+    "pertanyaan": "Teknik pengambilan gambar di mana kamera berada sangat rendah sehingga objek terlihat besar dan megah disebut...",
+    "opsi": [
+      "High Angle",
+      "Eye Level",
+      "Low Angle",
+      "Bird Eye View",
+      "Frog Eye"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Low angle memberikan kesan kekuatan atau kekuasaan pada objek."
+  },
+  {
+    "id": "TI_DKV_19",
+    "pertanyaan": "Teknik pengambilan gambar dari ketinggian ekstrim (seperti penglihatan burung) disebut...",
+    "opsi": [
+      "High Angle",
+      "Low Angle",
+      "Canted Angle",
+      "Bird eye view",
+      "Macro"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Biasanya digunakan untuk memperlihatkan layout area atau kota."
+  },
+  {
+    "id": "TI_DKV_20",
+    "pertanyaan": "Ikon grafis atau simbol yang mewakili identitas sebuah perusahaan atau merek disebut...",
+    "opsi": [
+      "Iklan",
+      "Slogan",
+      "Baliho",
+      "Pamflet",
+      "Logo"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Logo harus unik, mudah diingat, dan mencerminkan filosofi brand."
+  },
+  {
+    "id": "TI_DKV_21",
+    "pertanyaan": "Media publikasi cetak berukuran besar yang biasanya diletakkan di pinggir jalan raya disebut...",
+    "opsi": [
+      "Billboard / Baliho",
+      "Brosur",
+      "Katalog",
+      "Name Card",
+      "Voucher"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Billboard dirancang agar terbaca cepat oleh pengendara."
+  },
+  {
+    "id": "TI_DKV_22",
+    "pertanyaan": "Proses pewarnaan pada komik atau ilustrasi yang memberikan dimensi gelap terang disebut...",
+    "opsi": [
+      "Inking",
+      "Shading",
+      "Sketching",
+      "Tracing",
+      "Lining"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Shading membuat gambar datar (2D) terlihat lebih bervolume."
+  },
+  {
+    "id": "TI_DKV_23",
+    "pertanyaan": "Warna komplementer adalah warna yang...",
+    "opsi": [
+      "Bersebelahan dalam lingkaran warna",
+      "Semuanya berwarna hitam",
+      "Berhadapan langsung dalam lingkaran warna",
+      "Semuanya berwarna putih",
+      "Tidak bisa dicampur"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Warna komplementer memberikan kontras yang sangat kuat (misal: Merah dan Hijau)."
+  },
+  {
+    "id": "TI_DKV_24",
+    "pertanyaan": "Apa singkatan dari Nirmana dalam seni rupa?",
+    "opsi": [
+      "Tanpa batas",
+      "Tanpa warna",
+      "Tanpa makna",
+      "Tanpa bentuk (pengorganisasian elemen rupa menjadi satu kesatuan)",
+      "Tanpa garis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Nirmana melatih kepekaan desainer terhadap komposisi elemen visual."
+  },
+  {
+    "id": "TI_DKV_25",
+    "pertanyaan": "Format file standar untuk gambar dengan kualitas tinggi namun ukuran file relatif kecil yang banyak digunakan di internet adalah...",
+    "opsi": [
+      "PSD",
+      "AI",
+      "EXE",
+      "DOCX",
+      "JPEG / JPG"
+    ],
+    "jawaban": 4,
+    "pembahasan": "JPEG menggunakan kompresi lossy untuk menyeimbangkan kualitas dan ukuran."
+  },
+  {
+    "id": "TI_DKV_26",
+    "pertanyaan": "Apa kegunaan utama dari 'Layers' pada software desain?",
+    "opsi": [
+      "Memisahkan elemen-elemen desain ke dalam lapisan berbeda agar mudah diedit tanpa mengganggu elemen lain lainnya",
+      "Membuat komputer berat",
+      "Menghapus gambar",
+      "Mengunci kursor",
+      "Memutar video"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Layering adalah kunci manajemen file desain yang rapi."
+  },
+  {
+    "id": "TI_DKV_27",
+    "pertanyaan": "Alat seleksi berbentuk lingkaran atau kotak pada Photoshop disebut...",
+    "opsi": [
+      "Lasso Tool",
+      "Marquee Tool",
+      "Pen Tool",
+      "Magic Wand",
+      "Eraser"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Marquee tool digunakan untuk seleksi bentuk geometris sederhana."
+  },
+  {
+    "id": "TI_DKV_28",
+    "pertanyaan": "Alat pada Illustrator/Photoshop yang paling akurat untuk membuat garis lengkung dan tracing manual adalah...",
+    "opsi": [
+      "Brush Tool",
+      "Pencil Tool",
+      "Pen Tool",
+      "Bucket Tool",
+      "Blur Tool"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pen Tool menggunakan kurva Bezier yang presisi."
+  },
+  {
+    "id": "TI_DKV_29",
+    "pertanyaan": "Jarak antar baris teks dalam tipografi disebut...",
+    "opsi": [
+      "Kerning",
+      "Tracking",
+      "Space",
+      "Leading",
+      "Padding"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Leading yang tepat membuat teks lebih nyaman dibaca (tidak terlalu rapat)."
+  },
+  {
+    "id": "TI_DKV_30",
+    "pertanyaan": "Jarak antar dua karakter huruf tertentu dalam tipografi disebut...",
+    "opsi": [
+      "Leading",
+      "Tracking",
+      "Margin",
+      "Alignment",
+      "Kerning"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kerning menyesuaikan ruang antara pasangan huruf (seperti A dan V)."
+  },
+  {
+    "id": "TI_DKV_31",
+    "pertanyaan": "Komposisi 'Rule of Thirds' dalam desain/fotografi dilakukan dengan...",
+    "opsi": [
+      "Membagi bidang menjadi 9 kotak sama besar dan menempatkan objek di titik potong garis",
+      "Meletakkan objek di tengah-tengah",
+      "Menghapus satu per tiga bagian gambar",
+      "Mewarnai sepertiga gambar",
+      "Membuat gambar menjadi sangat miring"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Rule of thirds menciptakan keseimbangan asimetris yang dinamis."
+  },
+  {
+    "id": "TI_DKV_32",
+    "pertanyaan": "Prinsip desain yang menciptakan perbedaan mencolok antara dua elemen (misal gelap vs terang) disebut...",
+    "opsi": [
+      "Repetisi",
+      "Kontras",
+      "Proporsi",
+      "Irama",
+      "Kesatuan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kontras digunakan untuk menarik perhatian (vocal point)."
+  },
+  {
+    "id": "TI_DKV_33",
+    "pertanyaan": "Dalam fotografi, cahaya yang berasal dari samping objek sehingga memberikan bayangan dramatis disebut...",
+    "opsi": [
+      "Front Light",
+      "Back Light",
+      "Side Light",
+      "Top Light",
+      "Flat Light"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Side light menonjolkan tekstur dan bentuk objek."
+  },
+  {
+    "id": "TI_DKV_34",
+    "pertanyaan": "Apa fungsi dari 'Grip' pada kamera atau tripod?",
+    "opsi": [
+      "Sebagai hiasan",
+      "Menyimpan memori",
+      "Menerangi objek",
+      "Memastikan pegangan yang mantap agar kamera tidak goyang (shake)",
+      "Mengubah warna foto"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Stabilitas sangat penting untuk menghasilkan foto yang tajam."
+  },
+  {
+    "id": "TI_DKV_35",
+    "pertanyaan": "Logo yang hanya terdiri dari teks saja (contoh: Google, Coca-cola) disebut jenis logo...",
+    "opsi": [
+      "Logo Mark",
+      "Emblem",
+      "Mascot",
+      "Abstract",
+      "Wordmark / Logotype"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Wordmark fokus pada keunikan bentuk huruf."
+  },
+  {
+    "id": "TI_DKV_36",
+    "pertanyaan": "Warna emas dan perak dalam desain grafis sering melambangkan kesan...",
+    "opsi": [
+      "Mewah (Luxury) dan Eksklusif",
+      "Murah dan Sederhana",
+      "Alam dan Segar",
+      "Sedih dan Berduka",
+      "Lucu dan Menggemaskan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Psikologi warna berperan penting dalam branding target pasar tertentu."
+  },
+  {
+    "id": "TI_DKV_37",
+    "pertanyaan": "Proses mengubah desain digital menjadi produk fisik (spanduk, buku, kaos) disebut...",
+    "opsi": [
+      "Rendering",
+      "Produksi / Printing",
+      "Exporting",
+      "Saving",
+      "Uploading"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Desainer harus memahami spesifikasi mesin cetak agar warna akurat."
+  },
+  {
+    "id": "TI_DKV_38",
+    "pertanyaan": "Software gratis (Open Source) yang merupakan alternatif Photoshop adalah...",
+    "opsi": [
+      "Inkscape",
+      "Krita",
+      "GIMP",
+      "Blender",
+      "Audacity"
+    ],
+    "jawaban": 2,
+    "pembahasan": "GIMP cukup mumpuni untuk manipulasi foto dasar hingga menengah."
+  },
+  {
+    "id": "TI_DKV_39",
+    "pertanyaan": "Format file desain yang masih mengandung data mentah dari kamera DSLR disebut format...",
+    "opsi": [
+      "JPEG",
+      "PNG",
+      "GIF",
+      "RAW",
+      "WEBP"
+    ],
+    "jawaban": 3,
+    "pembahasan": "RAW memberikan fleksibilitas maksimal saat proses editing (post-processing)."
+  },
+  {
+    "id": "TI_DKV_40",
+    "pertanyaan": "Teknik foto yang membekukan gerakan objek yang sangat cepat disebut...",
+    "opsi": [
+      "Slow Speed",
+      "Panning",
+      "Bulb",
+      "Time Lapse",
+      "Freezing"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Freezing memerlukan Shutter Speed yang sangat tinggi (misal 1/1000s)."
+  },
+  {
+    "id": "TI_DKV_41",
+    "pertanyaan": "Teknik foto yang mengikuti gerak objek sehingga background terlihat kabur bergerak namun objek tetap tajam disebut...",
+    "opsi": [
+      "Panning",
+      "Freezing",
+      "Macro",
+      "Bokehmation",
+      "Zooming"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Panning memberikan kesan kecepatan pada objek balap atau olahraga."
+  },
+  {
+    "id": "TI_DKV_42",
+    "pertanyaan": "Salah satu prinsip desain 'Hierarchy' bertujuan untuk...",
+    "opsi": [
+      "Membuat semua elemen sama besarnya",
+      "Menyusun urutan kepentingan informasi agar mata pembaca terarah",
+      "Menghilangkan warna",
+      "Mengulang-ulang gambar",
+      "Menghapus background"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tanpa hierarki, pembaca akan bingung mana informasi yang paling penting."
+  },
+  {
+    "id": "TI_DKV_43",
+    "pertanyaan": "Kertas standar yang paling umum digunakan untuk mencetak brosur/flyer dengan permukaan licin mengkilap adalah...",
+    "opsi": [
+      "HVS",
+      "Koran",
+      "Art Paper / Art Carton",
+      "Karton Manila",
+      "Kertas Dupleks"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Art paper memberikan hasil warna yang tajam dan premium."
+  },
+  {
+    "id": "TI_DKV_44",
+    "pertanyaan": "Aplikasi desain online yang sangat populer bagi pemula karena menyediakan ribuan template siap pakai adalah...",
+    "opsi": [
+      "Capcut",
+      "Spotify",
+      "Zoom",
+      "Canva",
+      "Discord"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Canva mempermudah desain cepat untuk media sosial."
+  },
+  {
+    "id": "TI_DKV_45",
+    "pertanyaan": "Format gambar animasi singkat yang sering digunakan di internet adalah...",
+    "opsi": [
+      "PNG",
+      "BMP",
+      "ICO",
+      "TIFF",
+      "GIF"
+    ],
+    "jawaban": 4,
+    "pembahasan": "GIF mendukung loop animasi sederhana. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"GIF\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TI_DKV_46",
+    "pertanyaan": "Dalam dunia desain, istilah 'White Space' atau 'Negative Space' adalah...",
+    "opsi": [
+      "Ruang kosong di sekitar elemen desain untuk memberikan 'napas' agar tidak sesak",
+      "Ruang yang diisi cat putih",
+      "Area yang tidak boleh dilihat",
+      "Kesalahan mencetak",
+      "Kertas yang belum digambar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Negative space meningkatkan estetika dan fokus desain."
+  },
+  {
+    "id": "TI_DKV_47",
+    "pertanyaan": "Seorang desainer yang bertugas membuat tampilan luar produk/kemasan disebut spesialis...",
+    "opsi": [
+      "Web Design",
+      "Packaging Design",
+      "App Architecture",
+      "Sound Engineering",
+      "Copywriting"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Desain kemasan harus menggabungkan fungsi pelindung dan daya tarik visual."
+  },
+  {
+    "id": "TI_DKV_48",
+    "pertanyaan": "Semboyan yang sering digunakan desainer 'Less is More' merujuk pada gaya desain...",
+    "opsi": [
+      "Dekoratif",
+      "Klasik",
+      "Minimalis",
+      "Abstrak",
+      "Pop Art"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kesederhanaan seringkali memberikan dampak visual yang lebih kuat."
+  },
+  {
+    "id": "TI_DKV_49",
+    "pertanyaan": "Warna Merah pada rambu lalu lintas dilarang parkir melambangkan...",
+    "opsi": [
+      "Kesenangan",
+      "Kebahagiaan",
+      "Ketenangan",
+      "Bahaya atau Larangan",
+      "Kekayaan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Merah memiliki panjang gelombang tinggi sehingga mudah menarik perhatian."
+  },
+  {
+    "id": "TI_DKV_50",
+    "pertanyaan": "Pekerjaan utama seorang desainer grafis adalah...",
+    "opsi": [
+      "Memperbaiki komputer rusak",
+      "Menyanyi di panggung",
+      "Menghitung uang",
+      "Mengelas besi",
+      "Menyampaikan pesan/informasi melalui media visual secara efektif"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Desain bukan sekadar seni, melainkan solusi komunikasi."
+  }
+]

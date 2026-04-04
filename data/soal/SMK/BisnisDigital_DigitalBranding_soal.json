@@ -1,0 +1,652 @@
+[
+  {
+    "id": "BD_DB_01",
+    "pertanyaan": "Digital Branding memiliki fokus utama pada...",
+    "opsi": [
+      "Membangun koneksi emosional dan nilai sebuah merek di mata audiens",
+      "Penjualan barang sebanyak-banyaknya dalam sehari",
+      "Menghindari pajak perusahaan",
+      "Merekrut karyawan sebanyak mungkin",
+      "Menutup toko fisik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Digital branding berfokus pada persepsi jangka panjang, sedangkan marketing lebih ke arah transaksi."
+  },
+  {
+    "id": "BD_DB_02",
+    "pertanyaan": "Elemen visual yang paling cepat dikenali dari sebuah brand adalah...",
+    "opsi": [
+      "Nomor Rekening",
+      "Logo",
+      "Nama Direktur",
+      "Alamat Cabang",
+      "Ukuran Gudang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Logo adalah simbol visual utama identitas sebuah merek."
+  },
+  {
+    "id": "BD_DB_03",
+    "pertanyaan": "Pemilihan warna 'Merah' dalam branding seringkali untuk memberikan kesan...",
+    "opsi": [
+      "Tenang dan Damai",
+      "Mewah dan Elegan",
+      "Berani, Semangat, dan Mendesak",
+      "Alami dan Ramah Lingkungan",
+      "Sedih dan Galau"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Psikologi warna berperan penting dalam memengaruhi emosi konsumen."
+  },
+  {
+    "id": "BD_DB_04",
+    "pertanyaan": "Brand Awareness berarti...",
+    "opsi": [
+      "Pelanggan yang sudah berhenti membeli",
+      "Hanya promosi lewat brosur",
+      "Warna baju seragam karyawan",
+      "Tingkat kesadaran atau pengenalan masyarakat terhadap sebuah merek",
+      "Nama gedung kantor"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Semakin tinggi awareness, semakin sering merek tersebut diingat oleh calon pembeli."
+  },
+  {
+    "id": "BD_DB_05",
+    "pertanyaan": "Teknik menyampaikan pesan brand melalui alur cerita yang menarik disebut...",
+    "opsi": [
+      "Hard Selling",
+      "Accounting",
+      "Logistics",
+      "Directing",
+      "Storytelling"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Storytelling membuat audiens merasa terhubung secara personal dengan nilai brand."
+  },
+  {
+    "id": "BD_DB_06",
+    "pertanyaan": "Pilar konten (Content Pillars) berguna untuk...",
+    "opsi": [
+      "Menentukan topik-topik utama agar konten media sosial terarah dan konsisten",
+      "Menghapus postingan lama",
+      "Menaikkan harga barang",
+      "Menghitung jumlah like saja",
+      "Memecat admin medsos"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pilar konten mencegah pengelola media sosial kehabisan ide postingan."
+  },
+  {
+    "id": "BD_DB_07",
+    "pertanyaan": "Orang yang memiliki pengaruh besar di media sosial untuk mempromosikan brand disebut...",
+    "opsi": [
+      "Follower",
+      "Influencer atau KOL",
+      "Programmer",
+      "Investor",
+      "Moderator"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Endorsement dari influencer yang tepat dapat meningkatkan kredibilitas brand dengan cepat."
+  },
+  {
+    "id": "BD_DB_08",
+    "pertanyaan": "Brand Voice adalah...",
+    "opsi": [
+      "Suara iklan radio",
+      "Lagu tema perusahaan",
+      "Gaya bahasa dan nada bicara yang konsisten digunakan brand dalam berkomunikasi",
+      "Suara mesin pabrik",
+      "Panggilan telepon sales"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Apakah brand berbicara secara formal, lucu/humoris, atau santai/gaul."
+  },
+  {
+    "id": "BD_DB_09",
+    "pertanyaan": "Apa keunggulan menggunakan platform TikTok untuk digital branding saat ini?",
+    "opsi": [
+      "Hanya untuk anak kecil",
+      "Harga iklannya paling mahal",
+      "Tidak perlu menggunakan video",
+      "Algoritma yang memudahkan konten viral menjangkau audiens baru secara besar-besaran",
+      "Hanya bisa diakses di pagi hari"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Format video pendek di TikTok sangat efektif menarik perhatian (attention span) yang singkat."
+  },
+  {
+    "id": "BD_DB_10",
+    "pertanyaan": "Engagement dalam media sosial diukur dari...",
+    "opsi": [
+      "Jumlah karyawan perusahaan",
+      "Besar kecilnya gedung kantor",
+      "Harga produk",
+      "Jumlah stok di gudang",
+      "Interaksi seperti Like, Comment, Share, dan Save"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Engagement menunjukkan seberapa tertarik audiens terhadap konten yang disajikan."
+  },
+  {
+    "id": "BD_DB_11",
+    "pertanyaan": "Apa tindakan terbaik saat brand mendapatkan komentar negatif yang jujur di media sosial?",
+    "opsi": [
+      "Merespon secara sopan, meminta maaf, dan menawarkan solusi (solutif)",
+      "Langsung menghapus komentar dan blokir usernya",
+      "Membalas dengan marah-marah",
+      "Mendiamkan saja sampai orang lupa",
+      "Melaporkan ke polisi langsung"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Cara menangani komplain secara terbuka menunjukkan integritas dan profesionalisme brand."
+  },
+  {
+    "id": "BD_DB_12",
+    "pertanyaan": "Brand Identity tidak hanya soal visual, tapi juga soal...",
+    "opsi": [
+      "Berapa banyak hutang perusahaan",
+      "Visi, misi, dan nilai-nilai (values) yang diusung brand",
+      "Merk laptop yang dipakai bos",
+      "Lokasi kantin kantor",
+      "Nama supir pengantar barang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Identitas adalah jawaban atas pertanyaan 'Siapa kami?' dan 'Apa yang kami perjuangkan?'."
+  },
+  {
+    "id": "BD_DB_13",
+    "pertanyaan": "Salah satu keuntungan Digital Branding adalah membangun Loyalitas Pelanggan, yang artinya...",
+    "opsi": [
+      "Pelanggan hanya beli sekali lalu pindah",
+      "Pelanggan meminta diskon terus",
+      "Pelanggan bersedia membeli kembali (repeat order) dan merekomendasikan brand ke orang lain",
+      "Pelanggan tidak pernah komplain",
+      "Pelanggan yang bekerja di perusahaan tersebut"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Loyalitas adalah aset paling berharga dalam bisnis."
+  },
+  {
+    "id": "BD_DB_14",
+    "pertanyaan": "Tagline atau Slogan sebuah brand haruslah...",
+    "opsi": [
+      "Sangat panjang seperti paragraf",
+      "Susah diucapkan",
+      "Hanya berisi daftar harga",
+      "Singkat, mudah diingat, dan mencerminkan nilai brand",
+      "Hanya untuk dipasang di koran"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: Nike 'Just Do It' atau Indomie 'Indomie Seleraku'."
+  },
+  {
+    "id": "BD_DB_15",
+    "pertanyaan": "UGC (User Generated Content) adalah strategi branding yang ampuh karena...",
+    "opsi": [
+      "Konten dibuat oleh robot",
+      "Harganya sangat murah",
+      "Bisa menghapus postingan kompetitor",
+      "Hanya untuk orang terkenal",
+      "Konten dibuat sendiri oleh konsumen (misal video unboxing), sehingga lebih terpercaya"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Review dari pengguna asli memberikan bukti sosial (social proof) yang kuat."
+  },
+  {
+    "id": "BD_DB_16",
+    "pertanyaan": "Warna biru pada logo perusahaan teknologi/perbankan umumnya menyimbolkan...",
+    "opsi": [
+      "Kepercayaan (Trust), Keamanan, dan Profesionalisme",
+      "Bahaya",
+      "Cinta dan Romansa",
+      "Hobi dan Hiburan",
+      "Kesedihan mendalam"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Biru memberikan kesan stabil dan dapat diandalkan."
+  },
+  {
+    "id": "BD_DB_17",
+    "pertanyaan": "Typography (Pemilihan font/huruf) dalam branding bertujuan untuk...",
+    "opsi": [
+      "Menghabiskan tinta printer",
+      "Memastikan pesan dapat dibaca dengan mudah dan memiliki karakter unik",
+      "Menyembunyikan informasi",
+      "Membingungkan pembaca",
+      "Memperkecil ukuran file"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Jenis huruf mencerminkan kepribadian brand (misal: Serif terkesan formal, Sans Serif terkesan modern)."
+  },
+  {
+    "id": "BD_DB_18",
+    "pertanyaan": "Platform media sosial profesional yang cocok untuk branding perusahaan B2B adalah...",
+    "opsi": [
+      "Pinterest",
+      "Snapchat",
+      "LinkedIn",
+      "TikTok",
+      "BeReal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "LinkedIn fokus pada jaringan bisnis dan profesionalisme."
+  },
+  {
+    "id": "BD_DB_19",
+    "pertanyaan": "Analisis kompetitor dalam digital branding dilakukan untuk...",
+    "opsi": [
+      "Meniru semua ide mereka persis",
+      "Menghancurkan website mereka",
+      "Melaporkan akun mereka ke pusat",
+      "Memahami kelebihan/kekurangan mereka agar kita bisa tampil lebih unik",
+      "Membeli saham mereka"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Menemukan 'celah' yang belum diisi oleh kompetitor (Unique Selling Point/USP)."
+  },
+  {
+    "id": "BD_DB_20",
+    "pertanyaan": "Istilah 'Viral' dalam branding berarti konten tersebut...",
+    "opsi": [
+      "Mengandung virus komputer",
+      "Hanya ditonton oleh satu orang saja",
+      "Dibuat dengan biaya miliaran rupiah",
+      "Hanya muncul di TV",
+      "Tersebar sangat cepat dan luas karena banyak dibagikan secara sukarela oleh netizen"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Konten viral biasanya memiliki unsur emosional, unik, atau sedang tren."
+  },
+  {
+    "id": "BD_DB_21",
+    "pertanyaan": "Inkonsistensi branding (misal warna ganti-ganti tiap minggu) akan mengakibatkan...",
+    "opsi": [
+      "Konsumen bingung dan brand jadi susah diingat",
+      "Konsumen makin suka",
+      "Produksi makin lancar",
+      "Gaji admin naik",
+      "Followers bertambah drastis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Brand harus terlihat senapas di manapun ia muncul."
+  },
+  {
+    "id": "BD_DB_22",
+    "pertanyaan": "Manakah yang merupakan pilar konten 'Edukasi'?",
+    "opsi": [
+      "Harga diskon hari ini",
+      "Tips dan Trik menggunakan produk kami",
+      "Foto gedung kantor",
+      "Video komedi singkat",
+      "Daftar pemenang undian"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Edukasi memberikan manfaat (value) berupaa pengetahuan kepada audiens."
+  },
+  {
+    "id": "BD_DB_23",
+    "pertanyaan": "Copywriting dalam digital branding harus disesuaikan dengan...",
+    "opsi": [
+      "Warna cat tembok kantor",
+      "Jumlah tombol keyboard",
+      "Target audiens dan kepribadian brand",
+      "Ukuran layar monitor",
+      "Lokasi satelit internet"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Bahasa yang digunakan untuk remaja tentu berbeda dengan bahasa untuk kalangan korporat."
+  },
+  {
+    "id": "BD_DB_24",
+    "pertanyaan": "Nama domain website (misal: www.brandkita.com) sebaiknya...",
+    "opsi": [
+      "Sangat panjang dan susah dieja",
+      "Menggunakan kode angka rahasia",
+      "Hanya berisi titik-titik saja",
+      "Mudah diingat dan sesuai dengan nama brand",
+      "Ganti-ganti setiap bulan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Domain adalah bagian dari alamat digital yang krusial untuk dicatat audiens."
+  },
+  {
+    "id": "BD_DB_25",
+    "pertanyaan": "Brand Experience adalah...",
+    "opsi": [
+      "Hanya iklan televisi",
+      "Logo di baju karyawan",
+      "Harga di rak supermarket",
+      "Review di koran lama",
+      "Totalitas pengalaman yang dirasakan konsumen saat berinteraksi dengan sebuah merek"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Mulai dari lihat iklan, beli, pakai, sampai komplain; semuanya adalah pengalaman pelanggan terhadap brand."
+  },
+  {
+    "id": "BD_DB_26",
+    "pertanyaan": "Branding yang dilakukan melalui konten video pendek (Reels/Shorts) mengutamakan...",
+    "opsi": [
+      "Visual yang menarik dan pesan yang cepat dipahami",
+      "Teks yang sangat panjang",
+      "Kualitas kamera sekelas bioskop 4K",
+      "Tidak perlu menggunakan suara",
+      "Diputar hanya di jam 12 malam"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Durasi pendek menuntut kreativitas tinggi untuk menyampaikan pesan di detik-detik awal."
+  },
+  {
+    "id": "BD_DB_27",
+    "pertanyaan": "Personal Branding adalah upaya membangun citra diri bagi...",
+    "opsi": [
+      "Perusahaan besar",
+      "Satu orang individu (misal CEO, Freelancer, Konten Kreator)",
+      "Sekolah",
+      "Gedung Apartemen",
+      "Negara"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Individu juga memiliki 'brand' untuk menunjukkan kepakaran dan nilainya."
+  },
+  {
+    "id": "BD_DB_28",
+    "pertanyaan": "Call to Action (CTA) dalam sebuah konten branding berguna untuk...",
+    "opsi": [
+      "Mematikan aplikasi",
+      "Membeli pulsa",
+      "Mengarahkan audiens melakukan tindakan tertentu (misal: Klik link di Bio!)",
+      "Menghapus history",
+      "Mencabut kabel listrik"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tanpa CTA, audiens mungkin hanya melihat tanpa tahu apa langkah selanjutnya."
+  },
+  {
+    "id": "BD_DB_29",
+    "pertanyaan": "Digital Branding jangka panjang berimbas pada meningkatnya...",
+    "opsi": [
+      "Jumlah hutang",
+      "Beban kerja admin",
+      "Harga paket internet",
+      "Ekuitas Merek (Brand Equity)",
+      "Denda pajak"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Brand equity adalah nilai komersial yang didapat dari persepsi merek yang kuat."
+  },
+  {
+    "id": "BD_DB_30",
+    "pertanyaan": "Istilah 'Spill produk' di media sosial merupakan bentuk dari...",
+    "opsi": [
+      "Mencemari lingkungan",
+      "Tindakan menjatuhkan kompetitor",
+      "Membuang barang rusak",
+      "Memberikan barang secara gratis selamanya",
+      "Promosi/Branding tipis-tipis melalui rekomendasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Biasanya dilakukan saat audiens bertanya tentang produk yang digunakan kreator."
+  },
+  {
+    "id": "BD_DB_31",
+    "pertanyaan": "Re-branding dilakukan apabila sebuah merek ingin...",
+    "opsi": [
+      "Mengubah citra atau identitasnya karena alasan tertentu (perubahan pasar/visi)",
+      "Menambah jumlah utang",
+      "Menutup perusahaan selamanya",
+      "Menghindar dari tanggung jawab",
+      "Merayakan ulang tahun pemilik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: logo Gojek yang berubah dari motor menjadi lingkaran 'Solv'."
+  },
+  {
+    "id": "BD_DB_32",
+    "pertanyaan": "Apa itu 'Niche Market'?",
+    "opsi": [
+      "Pasar yang sangat luas untuk semua orang",
+      "Ceruk pasar yang sangat spesifik dan tertarget (misal: kolektor jam tangan antik)",
+      "Nama pasar tradisional di Jakarta",
+      "Pasar malam",
+      "Pembelian grosir skala besar"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Fokus pada niche membuat branding lebih tajam dan tertarget."
+  },
+  {
+    "id": "BD_DB_33",
+    "pertanyaan": "Sebuah feed Instagram yang rapi (aesthetic) termasuk dalam bagian...",
+    "opsi": [
+      "Legalitas Bisnis",
+      "Logika Matematika",
+      "Digital Visual Identity",
+      "Keamanan Data",
+      "Penerimaan Karyawan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tampilan feed mencerminkan keprofesionalan dan cita rasa sebuah brand."
+  },
+  {
+    "id": "BD_DB_34",
+    "pertanyaan": "Brand yang memiliki karakter 'Ramah, Ceria, dan Murah Hati' biasanya menggunakan font...",
+    "opsi": [
+      "Tebal, Kaku, dan Bersudut Tajam",
+      "Tulisan Tangan (Cakar Ayam)",
+      "Huruf Kapital semua",
+      "Rounded (Membulat) dan Lembut",
+      "Garis-garis putus"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Font membulat memberikan kesan yang tidak kaku dan friendly."
+  },
+  {
+    "id": "BD_DB_35",
+    "pertanyaan": "Strategi kolaborasi antar dua brand yang berbeda (misal: Brand Kopi x Brand Fashion) disebut...",
+    "opsi": [
+      "Battle Branding",
+      "Monopoly",
+      "Sponsorship",
+      "Substitusi",
+      "Co-Branding"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tujuannya untuk menjangkau audiens baru dari masing-masing brand."
+  },
+  {
+    "id": "BD_DB_36",
+    "pertanyaan": "Berapa lama rata-rata perhatian audiens (attention span) di media sosial untuk sebuah konten video?",
+    "opsi": [
+      "3 - 8 Detik awal",
+      "1 Jam",
+      "30 Menit",
+      "Hanya 1 Detik",
+      "Sepanjang hari"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Detik awal harus sangat menarik (hook) agar audiens tidak melakukan 'scroll' ke konten lain."
+  },
+  {
+    "id": "BD_DB_37",
+    "pertanyaan": "Membangun kredibilitas brand di Google bisa dilakukan melalui...",
+    "opsi": [
+      "Memasang banyak foto pribadi",
+      "Review di Google Maps / Business",
+      "Membeli banyak handphone",
+      "Mengganti nama perusahaan setiap hari",
+      "Menghapus history browser"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Ulasan bintang 5 dengan testimoni positif sangat memengaruhi calon pembeli lokal."
+  },
+  {
+    "id": "BD_DB_38",
+    "pertanyaan": "Apa itu ‘Brand Personality’?",
+    "opsi": [
+      "Nama pemilik brand",
+      "Warna baju seragam",
+      "Karakteristik manusia yang disematkan pada merek (misal: Mewah, Sporty, atau Religius)",
+      "Alamat kantor",
+      "Jenis kertas bon"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Personality membantu audiens 'berteman' atau merasa cocok dengan gaya brand tersebut."
+  },
+  {
+    "id": "BD_DB_39",
+    "pertanyaan": "Hashtag (#) dalam media sosial berfungsi untuk...",
+    "opsi": [
+      "Hiasan saja",
+      "Mengunci akun agar tidak dibobol",
+      "Menghapus follower palsu",
+      "Menandai topik agar konten mudah dicari dan ditemukan audiens yang relevan",
+      "Memperindah foto"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hashtag mengelompokkan konten dalam satu tema besar."
+  },
+  {
+    "id": "BD_DB_40",
+    "pertanyaan": "Brand yang berfokus pada kemewahan (Luxury Brand) biasanya memiliki harga yang...",
+    "opsi": [
+      "Paling murah di pasar",
+      "Gratis",
+      "Sama dengan harga pasar loak",
+      "Tergantung mood penjual",
+      "Premium (Tinggi) sebagai simbol status dan kualitas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Harga tinggi adalah bagian dari strategi eksklusivitas branding."
+  },
+  {
+    "id": "BD_DB_41",
+    "pertanyaan": "Sebuah brand yang baik harus memiliki USP. Apa kepanjangan USP?",
+    "opsi": [
+      "Unique Selling Point (Titik Jual Unik)",
+      "Universal System Program",
+      "United Sales Promotion",
+      "User Service Plus",
+      "Ultra Super Power"
+    ],
+    "jawaban": 0,
+    "pembahasan": "USP adalah alasan utama mengapa konsumen harus beli dari kita, bukan dari pesaing."
+  },
+  {
+    "id": "BD_DB_42",
+    "pertanyaan": "Testimonial pelanggan termasuk dalam elemen branding...",
+    "opsi": [
+      "Identitas Visual",
+      "Social Proof (Bukti Sosial)",
+      "Logistika",
+      "Perpajakan",
+      "Manajer Sdm"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Keyakinan calon pembeli akan meningkat jika melihat orang lain sudah terbukti puas."
+  },
+  {
+    "id": "BD_DB_43",
+    "pertanyaan": "Manakah platform yang paling cocok untuk branding portofolio visual (seperti arsitek/desainer)?",
+    "opsi": [
+      "Twitter/X",
+      "WhatsApp",
+      "Behance atau Pinterest",
+      "Radio",
+      "Koran"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Behance dan Pinterest sangat fokus pada keindahan dan inspirasi visual."
+  },
+  {
+    "id": "BD_DB_44",
+    "pertanyaan": "Digital Branding membantu usaha kecil (UMKM) untuk...",
+    "opsi": [
+      "Membayar gaji tinggi tanpa kerja",
+      "Mengambil tanah tetangga",
+      "Menghapus koneksi WiFi pesaing",
+      "Bersaing secara profesional berdampingan dengan brand besar di internet",
+      "Menghindari hukum"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Dunia digital meruntuhkan batasan geografis dan modal besar untuk terlihat 'wah'."
+  },
+  {
+    "id": "BD_DB_45",
+    "pertanyaan": "Menggunakan 'Meme' dalam branding bisa dilakukan jika brand memiliki kepribadian yang...",
+    "opsi": [
+      "Sangat formal dan kaku",
+      "Serius dan membosankan",
+      "Sedih dan penuh duka",
+      "Kuno dan tradisional",
+      "Humoris, Trendi, dan Ingin Dekat dengan Kaum Muda"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Meme marketing sangat efektif menarik interaksi jika dilakukan dengan tepat."
+  },
+  {
+    "id": "BD_DB_46",
+    "pertanyaan": "Salah satu ciri branding yang buruk adalah...",
+    "opsi": [
+      "Membuat janji yang berlebihan namun tidak bisa dibuktikan (over-promising)",
+      "Memberikan informasi yang jujur",
+      "Memiliki logo yang unik",
+      "Merespon chat dengan cepat",
+      "Website yang mudah dibuka"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Janji manis yang bohong akan merusak reputasi jangka panjang."
+  },
+  {
+    "id": "BD_DB_47",
+    "pertanyaan": "Pesan branding yang dikirimkan lewat WhatsApp Broadcast sebaiknya...",
+    "opsi": [
+      "Dikirim 50 kali sehari ke nomor asing",
+      "Personalisasi, Relevan, dan Tidak Bersifat Mengganggu (Spam)",
+      "Hanya gambar tanpa teks",
+      "Berisi link phising",
+      "Berisi tulisan yang tidak bisa dibaca"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Privasi pelanggan harus dihormati agar tidak diblokir/report."
+  },
+  {
+    "id": "BD_DB_48",
+    "pertanyaan": "Memastikan nama brand tidak melanggar hak cipta orang lain adalah bagian dari...",
+    "opsi": [
+      "Visual Branding",
+      "Content Branding",
+      "Legal Branding",
+      "Socio Branding",
+      "E-Branding"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pendaftaran HKI sangat penting agar aset merek kita terlindungi hukum."
+  },
+  {
+    "id": "BD_DB_49",
+    "pertanyaan": "Kecepatan website (load speed) berpengaruh pada branding karena...",
+    "opsi": [
+      "Website lambat membuat orang makin penasaran",
+      "Website lambat menghemat listrik",
+      "Supaya orang bisa baca artikel pelan-pelan",
+      "Website lambat membuat brand terkesan tidak profesional dan teknologi tertinggal",
+      "Tidak ada pengaruhnya sama sekali"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Website cepat memberikan kesan efisiensi dan keandalan."
+  },
+  {
+    "id": "BD_DB_50",
+    "pertanyaan": "Seorang Brand Manager bertanggung jawab untuk...",
+    "opsi": [
+      "Menyapu lantai kantor",
+      "Menghapus folder foto",
+      "Memasang kabel jaringan",
+      "Mengantar paket ke kurir",
+      "Menjaga dan mengelola integritas serta citra merek di seluruh saluran"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Memastikan brand tetap 'on track' sesuai visi dan strategi yang sudah ditetapkan."
+  }
+]

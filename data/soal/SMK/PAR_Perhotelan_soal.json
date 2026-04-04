@@ -1,0 +1,652 @@
+[
+  {
+    "id": "PAR_PH_01",
+    "pertanyaan": "Usaha yang menyediakan jasa penginapan, makanan, minuman, dan jasa lainnya bagi umum yang dikelola secara komersial disebut...",
+    "opsi": [
+      "Hotel",
+      "Apartemen",
+      "Losmen",
+      "Asrama",
+      "Kos-kosan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Hotel adalah jenis akomodasi yang menggunakan sebagian atau seluruh bangunan untuk menyediakan jasa penginapan secara komersial."
+  },
+  {
+    "id": "PAR_PH_02",
+    "pertanyaan": "Hotel yang berlokasi di area pegunungan dan biasanya untuk tujuan rekreasi disebut...",
+    "opsi": [
+      "City Hotel",
+      "Resort Hotel",
+      "Airport Hotel",
+      "Suburban Hotel",
+      "Transit Hotel"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Resort hotel biasanya terletak di tempat wisata (pantai/gunung) untuk memfasilitasi tamu yang berlibur."
+  },
+  {
+    "id": "PAR_PH_03",
+    "pertanyaan": "Departemen yang sering disebut sebagai 'First Image' atau wajah dari sebuah hotel adalah...",
+    "opsi": [
+      "Housekeeping",
+      "Accounting",
+      "Front Office",
+      "Engineering",
+      "Security"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Front Office adalah departemen pertama yang ditemui tamu saat masuk ke hotel."
+  },
+  {
+    "id": "PAR_PH_04",
+    "pertanyaan": "Proses pendaftaran tamu yang sudah memesan kamar sebelumnya disebut...",
+    "opsi": [
+      "Registration",
+      "Reservation",
+      "Checking",
+      "Check-in",
+      "Booking"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Check-in adalah prosedur resmi saat tamu datang untuk mulai menginap di hotel."
+  },
+  {
+    "id": "PAR_PH_05",
+    "pertanyaan": "Alat komunikasi internal di hotel yang menghubungkan antar kamar dan departemen disebut...",
+    "opsi": [
+      "Handy Talky",
+      "Surat",
+      "Pager",
+      "Megaphone",
+      "PABX / Telepon"
+    ],
+    "jawaban": 4,
+    "pembahasan": "PABX (Private Automatic Branch Exchange) adalah sistem telepon internal hotel."
+  },
+  {
+    "id": "PAR_PH_06",
+    "pertanyaan": "Bagian di Front Office yang bertugas menangani barang bawaan tamu adalah...",
+    "opsi": [
+      "Concierge / Bellboy",
+      "Receptionist",
+      "Reservation Clerk",
+      "Telephone Operator",
+      "Front Office Manager"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bellboy atau Concierge membantu tamu membawa koper ke kamar dan menjelaskan fasilitas hotel."
+  },
+  {
+    "id": "PAR_PH_07",
+    "pertanyaan": "Status kamar yang menunjukkan bahwa kamar tersebut sedang dibersihkan oleh petugas disebut...",
+    "opsi": [
+      "Vacant Clean",
+      "Dirty / VD (Vacant Dirty)",
+      "Occupied Clean",
+      "Under Construction",
+      "Cleaning in Progress"
+    ],
+    "jawaban": 1,
+    "pembahasan": "VD berarti kamar kosong tapi kotor (habis dipakai tamu sebelumnya) dan perlu dibersihkan."
+  },
+  {
+    "id": "PAR_PH_08",
+    "pertanyaan": "Linen hotel yang digunakan untuk menutupi kasur disebut...",
+    "opsi": [
+      "Pillow Case",
+      "Blanket",
+      "Bed Sheet",
+      "Bed Cover",
+      "Towel"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Bed sheet (sprei) adalah kain dasar yang dipasang di atas matras."
+  },
+  {
+    "id": "PAR_PH_09",
+    "pertanyaan": "Peralatan mandi yang disediakan hotel secara gratis (sabun, sampo, sikat gigi) disebut...",
+    "opsi": [
+      "Room Supplies",
+      "Linen",
+      "Laundry",
+      "Guest Amenities",
+      "Household"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Amenities adalah fasilitas tambahan yang disediakan untuk kenyamanan tamu."
+  },
+  {
+    "id": "PAR_PH_10",
+    "pertanyaan": "Bila tamu memberikan instruksi 'Do Not Disturb' (DND), apa yang harus dilakukan petugas housekeeping?",
+    "opsi": [
+      "Tetap masuk dan membersihkan",
+      "Berteriak dari luar",
+      "Memanggil manajer",
+      "Mencopot tanda tersebut",
+      "Tidak boleh masuk atau mengetuk pintu kamar tersebut"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tanda DND harus dihormati sebagai privasi tertinggi tamu."
+  },
+  {
+    "id": "PAR_PH_11",
+    "pertanyaan": "Layanan pembersihan pakaian tamu yang disediakan hotel disebut...",
+    "opsi": [
+      "Laundry Service",
+      "Valet Parking",
+      "Room Service",
+      "Concierge",
+      "Bell Service"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Laundry menangani pencucian, penyetrikaan, hingga dry cleaning pakaian tamu."
+  },
+  {
+    "id": "PAR_PH_12",
+    "pertanyaan": "Seni menata meja makan agar terlihat menarik dan rapi disebut...",
+    "opsi": [
+      "Table Manner",
+      "Table Setting",
+      "Buffet Service",
+      "Room Service",
+      "Order Taker"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Table setting melibatkan pengaturan chinaware, silverware, dan glassware sesuai menu."
+  },
+  {
+    "id": "PAR_PH_13",
+    "pertanyaan": "Alat makan yang terbuat dari bahan keramik (piring, mangkuk) disebut...",
+    "opsi": [
+      "Silverware",
+      "Glassware",
+      "Chinaware",
+      "Flatware",
+      "Kitchenware"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Chinaware adalah porselen atau keramik berkualitas untuk penyajian makanan."
+  },
+  {
+    "id": "PAR_PH_14",
+    "pertanyaan": "Sendok, garpu, dan pisau dalam istilah perhotelan disebut...",
+    "opsi": [
+      "Glassware",
+      "Chinaware",
+      "Linen",
+      "Silverware / Cutlery",
+      "Stationary"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Cutlery atau silverware adalah perangkat makan logam."
+  },
+  {
+    "id": "PAR_PH_15",
+    "pertanyaan": "Layanan pemesanan makanan untuk dimakan di dalam kamar hotel disebut...",
+    "opsi": [
+      "Dine In",
+      "Take Away",
+      "Table Service",
+      "Buffet",
+      "Room Service"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Room service memungkinkan tamu menikmati makanan tanpa keluar kamar."
+  },
+  {
+    "id": "PAR_PH_16",
+    "pertanyaan": "Teknik pelayanan di mana tamu mengambil sendiri makanan yang disediakan di meja panjang disebut...",
+    "opsi": [
+      "Buffet Service (Prasmanan)",
+      "A la Carte",
+      "Table Service",
+      "French Service",
+      "English Service"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Buffet sangat populer untuk sarapan (breakfast) di hotel bintang 3 ke atas."
+  },
+  {
+    "id": "PAR_PH_17",
+    "pertanyaan": "Serangkaian kegiatan dari menyapa tamu, menawarkan bantuan, hingga mengucapkan terima kasih disebut...",
+    "opsi": [
+      "Standard Operating Procedure (SOP)",
+      "Service Sequence",
+      "Hospitality Cycle / Guest Cycle",
+      "Magic Moment",
+      "Upselling"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Urutan pelayanan menjamin kualitas yang konsisten bagi setiap tamu."
+  },
+  {
+    "id": "PAR_PH_18",
+    "pertanyaan": "Standar penampilan fisik bagi karyawan hotel disebut...",
+    "opsi": [
+      "Modis",
+      "Fashionable",
+      "Grooming",
+      "Stylish",
+      "Causal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Grooming mencakup kebersihan diri, kerapihan seragam, rambut, dan kuku."
+  },
+  {
+    "id": "PAR_PH_19",
+    "pertanyaan": "Gaya bicara dan pemilihan kata yang sopan saat melayani tamu disebut...",
+    "opsi": [
+      "Public Speaking",
+      "Negotiation",
+      "Lobbying",
+      "Professional Greeting / Courtesy",
+      "Debating"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kesantunan (courtesy) adalah kunci utama kepuasan pelanggan."
+  },
+  {
+    "id": "PAR_PH_20",
+    "pertanyaan": "Kepanjangan dari SOP adalah...",
+    "opsi": [
+      "Sistem Operasi Perhotelan",
+      "Standar Orang Pintar",
+      "Sarana Objek Pariwisata",
+      "Satu Orang Perhalaman",
+      "Standard Operating Procedure"
+    ],
+    "jawaban": 4,
+    "pembahasan": "SOP adalah panduan langkah demi langkah dalam menjalankan tugas di hotel."
+  },
+  {
+    "id": "PAR_PH_21",
+    "pertanyaan": "Hotel yang menyediakan fasilitas bandara dan biasanya hanya untuk menginap singkat disebut...",
+    "opsi": [
+      "Transit / Airport Hotel",
+      "Resort Hotel",
+      "Floating Hotel",
+      "Motel",
+      "Boutique Hotel"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ditujukan bagi penumpang yang menunggu jadwal penerbangan berikutnya."
+  },
+  {
+    "id": "PAR_PH_22",
+    "pertanyaan": "Kamar hotel dengan dua tempat tidur terpisah disebut...",
+    "opsi": [
+      "Single Room",
+      "Twin Room",
+      "Double Room",
+      "Suite Room",
+      "Presidential Suite"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Twin room memiliki 2 bed single untuk dua orang."
+  },
+  {
+    "id": "PAR_PH_23",
+    "pertanyaan": "Kamar hotel dengan satu tempat tidur besar (untuk 2 orang) disebut...",
+    "opsi": [
+      "Single Room",
+      "Twin Room",
+      "Double Room",
+      "Triple Room",
+      "Family Room"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Biasanya menggunakan King Size atau Queen Size bed."
+  },
+  {
+    "id": "PAR_PH_24",
+    "pertanyaan": "Kamar hotel yang memiliki ruang tamu terpisah dari kamar tidur disebut...",
+    "opsi": [
+      "Standard Room",
+      "Deluxe Room",
+      "Superior Room",
+      "Suite Room",
+      "Connecting Room"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Suite room adalah tipe kamar mewah yang lebih luas dan memiliki fasilitas ruang tamu (living room)."
+  },
+  {
+    "id": "PAR_PH_25",
+    "pertanyaan": "Dua kamar yang bersebelahan dan memiliki pintu penghubung di dalamnya disebut...",
+    "opsi": [
+      "Adjoining Room",
+      "Adjacent Room",
+      "Duplex Room",
+      "Studio Room",
+      "Connecting Room"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sangat cocok untuk tamu keluarga yang membawa anak."
+  },
+  {
+    "id": "PAR_PH_26",
+    "pertanyaan": "Waktu maksimal tamu harus meninggalkan kamar (check-out) di Indonesia umumnya adalah jam...",
+    "opsi": [
+      "12.00 WIB",
+      "10.00 WIB",
+      "14.00 WIB",
+      "16.00 WIB",
+      "20.00 WIB"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Jam 12 siang adalah waktu standar agar housekeeping punya waktu membersihkan sebelum tamu baru masuk jam 2 sore."
+  },
+  {
+    "id": "PAR_PH_27",
+    "pertanyaan": "Sistem harga kamar hotel yang sudah termasuk sarapan pagi disebut...",
+    "opsi": [
+      "European Plan",
+      "Continental Plan",
+      "American Plan",
+      "Bermuda Plan",
+      "Hotel Plan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Continental plan: Menginap + Sarapan pagi."
+  },
+  {
+    "id": "PAR_PH_28",
+    "pertanyaan": "Sistem harga kamar hotel yang hanya harga kamar saja (tanpa makan) disebut...",
+    "opsi": [
+      "Continental Plan",
+      "American Plan",
+      "European Plan",
+      "Asian Plan",
+      "Full Board"
+    ],
+    "jawaban": 2,
+    "pembahasan": "European Plan (EP): Room Only. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"European Plan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PAR_PH_29",
+    "pertanyaan": "Buku yang digunakan Front Office untuk memberikan informasi bergantian antar shift kerja disebut...",
+    "opsi": [
+      "Diary",
+      "Inventory Book",
+      "Guest History",
+      "Log Book",
+      "Billing Book"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Log book berisi kejadian penting atau pesan tamu yang harus ditindaklanjuti shift berikutnya."
+  },
+  {
+    "id": "PAR_PH_30",
+    "pertanyaan": "Alat pembersih lantai berupa kain yang ditarik disebut...",
+    "opsi": [
+      "Broom",
+      "Brush",
+      "Vacuum Cleaner",
+      "Dust Pan",
+      "Mop"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Mopping adalah proses pembersihan lantai menggunakan air dan cairan pembersih."
+  },
+  {
+    "id": "PAR_PH_31",
+    "pertanyaan": "Mesin yang digunakan untuk menghisap debu di karpet hotel disebut...",
+    "opsi": [
+      "Vacuum Cleaner",
+      "Floor Polisher",
+      "Hand Brush",
+      "Squeegee",
+      "Dryer"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Vacuum cleaner wajib digunakan untuk area hotel yang berkarpet tebal."
+  },
+  {
+    "id": "PAR_PH_32",
+    "pertanyaan": "Petugas housekeeping yang bertanggung jawab membersihkan area lobi, koridor, dan toilet umum disebut...",
+    "opsi": [
+      "Room Boy",
+      "Public Area Attendant",
+      "Laundry Attendant",
+      "Order Taker",
+      "Butler"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Menjaga kebersihan area yang sering dilalui tamu umum."
+  },
+  {
+    "id": "PAR_PH_33",
+    "pertanyaan": "Istilah 'Turn Down Service' di hotel artinya...",
+    "opsi": [
+      "Membersihkan kamar pagi hari",
+      "Layanan mengantar makanan",
+      "Layanan membuka tempat tidur dan merapikan kamar pada sore/malam hari agar tamu siap tidur",
+      "Layanan parkir mobil",
+      "Layanan mematikan lampu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Biasanya dilakukan antara jam 6 sore sampai 9 malam."
+  },
+  {
+    "id": "PAR_PH_34",
+    "pertanyaan": "Layanan laundry 'Dry Cleaning' menggunakan media apa untuk mencuci?",
+    "opsi": [
+      "Air sabun banyak",
+      "Minyak goreng",
+      "Cuka apel",
+      "Uap panas dan bahan kimia khusus (bukan air)",
+      "Sinar matahari"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mencegah kerusakan kain yang sensitif terhadap air (seperti jas/gaun sutra)."
+  },
+  {
+    "id": "PAR_PH_35",
+    "pertanyaan": "Istilah 'Complimentary' dalam perhotelan berarti...",
+    "opsi": [
+      "Sangat mahal",
+      "Wajib dibayar di muka",
+      "Rusak",
+      "Penuh kotoran",
+      "Gratis (tidak dipungut biaya)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: Complimentary drink (minuman selamat datang gratis)."
+  },
+  {
+    "id": "PAR_PH_36",
+    "pertanyaan": "Urutan pelayanan makanan formal dimulai dari...",
+    "opsi": [
+      "Appetizer -> Main Course -> Dessert",
+      "Main Course -> Dessert -> Appetizer",
+      "Dessert -> Appetizer -> Main Course",
+      "Langsung makanan berat",
+      "Minum saja"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Appetizer (Pembuka), Main Course (Utama), Dessert (Penutup)."
+  },
+  {
+    "id": "PAR_PH_37",
+    "pertanyaan": "Makanan pembuka yang berfungsi untuk membangkitkan selera makan disebut...",
+    "opsi": [
+      "Dessert",
+      "Appetizer",
+      "Main Course",
+      "Side Dish",
+      "Condiment"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biasanya porsinya kecil dan rasanya gurih atau segar."
+  },
+  {
+    "id": "PAR_PH_38",
+    "pertanyaan": "Alat untuk membawa piring makanan yang banyak dari dapur ke meja tamu disebut...",
+    "opsi": [
+      "Trolley",
+      "Plate Cover",
+      "Tray (Nampan)",
+      "Napkin",
+      "Cart"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Seorang waiter harus mahir membawa tray dengan satu tangan."
+  },
+  {
+    "id": "PAR_PH_39",
+    "pertanyaan": "Kain kecil yang digunakan tamu di meja makan untuk menyeka mulut atau menutupi pangkuan disebut...",
+    "opsi": [
+      "Towels",
+      "Table Cloth",
+      "Skirting",
+      "Napkin (Serbet Makan)",
+      "Runner"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Napkin juga dilipat secara artistik untuk mempercantik meja makan."
+  },
+  {
+    "id": "PAR_PH_40",
+    "pertanyaan": "Upselling dalam layanan front office berarti...",
+    "opsi": [
+      "Menurunkan harga kamar",
+      "Mengusir tamu",
+      "Membatalkan pesanan",
+      "Menjual perabot hotel",
+      "Menawarkan kamar ke tipe yang lebih tinggi (mahal) dengan menjelaskan kelebihannya"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Strategi meningkatkan pendapatan hotel dengan cara persuasif kepada tamu."
+  },
+  {
+    "id": "PAR_PH_41",
+    "pertanyaan": "Istilah 'Occupancy' menunjukkan...",
+    "opsi": [
+      "Tingkat hunian kamar (persentase kamar yang terisi)",
+      "Jumlah karyawan",
+      "Harga makanan",
+      "Luas hotel",
+      "Jumlah cabang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Semakin tinggi persentase occupancy, semakin sukses operasional hotel."
+  },
+  {
+    "id": "PAR_PH_42",
+    "pertanyaan": "Dalam industri hotel, apa itu 'Night Auditor'?",
+    "opsi": [
+      "Petugas yang tidur malam",
+      "Petugas Front Office yang bertugas malam hari untuk audit transaksi harian",
+      "Penjaga keamanan",
+      "Pembersih kolam renang",
+      "Tukang masak subuh"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Night Auditor menutup laporan hari ini dan menyiapkan sistem untuk hari berikutnya."
+  },
+  {
+    "id": "PAR_PH_43",
+    "pertanyaan": "Barang tamu yang tertinggal di kamar setelah check-out disebut...",
+    "opsi": [
+      "Souvenir",
+      "Donation",
+      "Lost and Found",
+      "Trash",
+      "Legacy"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Housekeeping harus mendata dan mengamankan barang tersebut di lemari Lost and Found."
+  },
+  {
+    "id": "PAR_PH_44",
+    "pertanyaan": "Apa singkatan dari B&B dalam industri akomodasi?",
+    "opsi": [
+      "Bed and Bath",
+      "Big and Best",
+      "Buy and Build",
+      "Bed and Breakfast",
+      "Bus and Boat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jenis akomodasi sederhana yang hanya menawarkan tempat tidur dan sarapan."
+  },
+  {
+    "id": "PAR_PH_45",
+    "pertanyaan": "Menangani komplain tamu harus dilakukan dengan sikap...",
+    "opsi": [
+      "Marah balik",
+      "Acuh tak acuh",
+      "Menyalahkan departemen lain",
+      "Langsung memecat karyawan",
+      "Mendengarkan dengan empati dan mencari solusi (Problem Solving)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Komplain yang ditangani dengan baik justru bisa meningkatkan loyalitas tamu."
+  },
+  {
+    "id": "PAR_PH_46",
+    "pertanyaan": "Bahasa internasional yang paling wajib dikuasai staf hotel adalah...",
+    "opsi": [
+      "Bahasa Inggris",
+      "Bahasa Spanyol",
+      "Bahasa Arab",
+      "Bahasa Jepang",
+      "Bahasa Mandarin"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bahasa Inggris adalah lingua franca dalam pariwisata dunia."
+  },
+  {
+    "id": "PAR_PH_47",
+    "pertanyaan": "Faktor 'Security and Safety' di hotel meliputi...",
+    "opsi": [
+      "Hanya satpam depan",
+      "CCTV, alarm kebakaran, kunci pintu yang aman, dan prosedur evakuasi",
+      "Harga murah",
+      "Warna cat gedung",
+      "Jumlah bantal"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tamu merasa nyaman jika merasa aman selama menginap."
+  },
+  {
+    "id": "PAR_PH_48",
+    "pertanyaan": "Daftar menu makanan yang harganya tercantum masing-masing per porsi disebut menu...",
+    "opsi": [
+      "Table d'hote",
+      "Set Menu",
+      "A la Carte",
+      "Special Menu",
+      "Buffet"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tamu bebas memilih item yang diinginkan secara satuan."
+  },
+  {
+    "id": "PAR_PH_49",
+    "pertanyaan": "Peralatan gelas yang digunakan untuk menyajikan jus atau air putih disebut...",
+    "opsi": [
+      "Wine Glass",
+      "Champagne Flute",
+      "Mug",
+      "Water Goblet",
+      "Shot Glass"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Water goblet adalah gelas standar untuk air mineral di meja makan formal."
+  },
+  {
+    "id": "PAR_PH_50",
+    "pertanyaan": "Sapaan 'Good Morning' sebaiknya diucapkan staf hotel pada rentang waktu...",
+    "opsi": [
+      "Sepanjang hari",
+      "12.00 - 18.00",
+      "18.00 - 24.00",
+      "Tergantung cuaca",
+      "00.00 - 12.00"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Greeting yang tepat waktu menunjukkan profesionalisme dan perhatian staf."
+  }
+]

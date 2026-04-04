@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls7-pjok",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "PJOK",
+  "materi": "Permainan Bola Besar/Kecil, Atletik, Senam, dan Pola Makan Sehat",
+  "deskripsi": "Pendidikan Jasmani Olahraga dan Kesehatan untuk Kelas 7 mengasah keterampilan motorik dari berbagai permainan olahraga, atletik, dan wawasan gizi remaja.",
+  "konten": [
+    {
+      "bab": "1. Permainan Bola Besar",
+      "teks": "Mempelajari variasi dan kombinasi gerak spesifik dalam permainan sepak bola, bola voli, dan bola basket."
+    },
+    {
+      "bab": "2. Permainan Bola Kecil",
+      "teks": "Mengenal dan mempraktikkan gerak dasar permainan kasti, bulu tangkis, atau tenis meja."
+    },
+    {
+      "bab": "3. Atletik Dasar",
+      "teks": "Latihan dasar untuk jalan cepat, lari jarak pendek, lompat jauh, atau tolak peluru."
+    },
+    {
+      "bab": "4. Senam Lantai dan Senam Irama",
+      "teks": "Melakukan rangkaian gerak sederhana senam lantai (guling depan/belakang) dan gerak ritmik diiringi musik."
+    },
+    {
+      "bab": "5. Pola Makan Sehat dan Gizi Seimbang",
+      "teks": "Memahami konsep gizi seimbang, pentingnya sarapan, dan akibat dari gizi buruk bagi remaja."
+    }
+  ],
+  "tag": ["smp-7", "pjok", "olahraga", "kesehatan", "atletik"]
+}

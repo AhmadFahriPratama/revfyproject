@@ -1,0 +1,657 @@
+{
+  "id": "TKA_SMP_IPS_SOAL",
+  "mapel": "TKA SMP IPS",
+  "tingkat": "SMP",
+  "soal": [
+    {
+      "id": "SMP_IPS_01",
+      "pertanyaan": "Secara astronomis, Indonesia terletak di antara...",
+      "opsi": [
+        "6 LU-11 LS & 95 BT-141 BT",
+        "11 LU-6 LS & 95 BT-141 BT",
+        "6 LU-11 LS & 141 BT-95 BT",
+        "0 LU-10 LS & 100 BT-150 BT",
+        "5 LU-15 LS & 90 BT-140 BT"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"6 LU-11 LS & 95 BT-141 BT\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_02",
+      "pertanyaan": "Angin yang menyebabkan musim hujan di Indonesia adalah...",
+      "opsi": [
+        "Monsun Timur",
+        "Monsun Barat",
+        "Angin Passat",
+        "Angin Darat",
+        "Angin Lembah"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Monsun Barat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_03",
+      "pertanyaan": "Benua terkecil di dunia adalah...",
+      "opsi": [
+        "Asia",
+        "Eropa",
+        "Australia",
+        "Antartika",
+        "Afrika"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Australia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_04",
+      "pertanyaan": "Garis yang membagi wilayah persebaran fauna Indonesia Barat dan Tengah adalah...",
+      "opsi": [
+        "Garis Weber",
+        "Garis Khatulistiwa",
+        "Garis Lintang",
+        "Garis Wallace",
+        "Garis Bujur"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Garis Wallace\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_05",
+      "pertanyaan": "Faktor utama penyebab konflik sosial adalah...",
+      "opsi": [
+        "Persamaan kepentingan",
+        "Integrasi sosial",
+        "Kerjasama",
+        "Simpati",
+        "Perbedaan individu/budaya"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Perbedaan individu/budaya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_06",
+      "pertanyaan": "Zaman batu besar disebut juga...",
+      "opsi": [
+        "Megalitikum",
+        "Paleolitikum",
+        "Mesolitikum",
+        "Neolitikum",
+        "Logam"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Megalitikum\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_07",
+      "pertanyaan": "Kerajaan Hindu tertua di Indonesia adalah...",
+      "opsi": [
+        "Majapahit",
+        "Kutai",
+        "Tarumanegara",
+        "Singasari",
+        "Sriwijaya"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kutai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_08",
+      "pertanyaan": "Peninggalan kerajaan Sriwijaya yang terkenal di Palembang adalah...",
+      "opsi": [
+        "Candi Borobudur",
+        "Candi Prambanan",
+        "Prasasti Kedukan Bukit",
+        "Candi Muara Takus",
+        "Candi Penataran"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Prasasti Kedukan Bukit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_09",
+      "pertanyaan": "Semboyan 'Bhinneka Tunggal Ika' terdapat di kitab...",
+      "opsi": [
+        "Negarakertagama",
+        "Arjuna Wiwaha",
+        "Mahabharata",
+        "Sutasoma",
+        "Ramayana"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Sutasoma\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_10",
+      "pertanyaan": "Prinsip ekonomi adalah...",
+      "opsi": [
+        "Mendapat untung sebesar mungkin",
+        "Menabung terus menerus",
+        "Membeli barang mewah",
+        "Bekerja tanpa batas",
+        "Pengorbanan tertentu untuk hasil maksimal"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pengorbanan tertentu untuk hasil maksimal\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_11",
+      "pertanyaan": "Mata uang resmi Indonesia adalah...",
+      "opsi": [
+        "Rupiah",
+        "Dollar",
+        "Ringgit",
+        "Yen",
+        "Euro"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rupiah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_12",
+      "pertanyaan": "Kebutuhan yang harus dipenuhi untuk mempertahankan hidup disebut...",
+      "opsi": [
+        "Sekunder",
+        "Primer",
+        "Tersier",
+        "Individu",
+        "Sekelompok"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Primer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_13",
+      "pertanyaan": "Kegiatan menyalurkan barang dari produsen ke konsumen disebut...",
+      "opsi": [
+        "Produksi",
+        "Konsumsi",
+        "Distribusi",
+        "Promosi",
+        "Investasi"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Distribusi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_14",
+      "pertanyaan": "Orang yang melakukan kegiatan konsumsi disebut...",
+      "opsi": [
+        "Produsen",
+        "Distributor",
+        "Investor",
+        "Konsumen",
+        "Karyawan"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Konsumen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_15",
+      "pertanyaan": "Pihak yang memimpin pelayaran pertama Spanyol ke dunia timur adalah...",
+      "opsi": [
+        "Vasco da Gama",
+        "Magelhaens",
+        "Cornelis de Houtman",
+        "Erasmus",
+        "Christopher Columbus"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Christopher Columbus\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_16",
+      "pertanyaan": "Sistem tanam paksa (Cultuurstelsel) dicetuskan oleh...",
+      "opsi": [
+        "Van den Bosch",
+        "Daendels",
+        "Raffles",
+        "Jan Pieterszoon Coen",
+        "Speelman"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Van den Bosch\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_17",
+      "pertanyaan": "Organisasi pergerakan nasional pertama di Indonesia adalah...",
+      "opsi": [
+        "Sarekat Islam",
+        "Budi Utomo",
+        "Indische Partij",
+        "PNI",
+        "Muhammadiyah"
+      ],
+      "jawaban": 1,
+      "pembahasan": "20 Mei 1908. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Budi Utomo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_18",
+      "pertanyaan": "Teks proklamasi dirumuskan di rumah...",
+      "opsi": [
+        "Ir. Soekarno",
+        "Drs. Moh. Hatta",
+        "Laksamana Maeda",
+        "Ahmad Subardjo",
+        "Sayuti Melik"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Laksamana Maeda\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_19",
+      "pertanyaan": "Lembaga sosial yang terkecil adalah...",
+      "opsi": [
+        "Sekolah",
+        "Agama",
+        "Politik",
+        "Keluarga",
+        "Ekonomi"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Keluarga\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_20",
+      "pertanyaan": "Perpindahan penduduk dari desa ke kota disebut...",
+      "opsi": [
+        "Transmigrasi",
+        "Emigrasi",
+        "Imigrasi",
+        "Remigrasi",
+        "Urbanisasi"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Urbanisasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_21",
+      "pertanyaan": "Komoditas ekspor utama Indonesia dari sektor tambang adalah...",
+      "opsi": [
+        "Batu Bara",
+        "Padi",
+        "Kelapa Sawit",
+        "Karet",
+        "Teh"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Batu Bara\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_22",
+      "pertanyaan": "Gunung tertinggi di Indonesia adalah...",
+      "opsi": [
+        "Gunung Merapi",
+        "Puncak Jaya",
+        "Gunung Semeru",
+        "Gunung Kerinci",
+        "Gunung Rinjani"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Puncak Jaya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_23",
+      "pertanyaan": "Warna hijau pada peta biasanya menunjukkan...",
+      "opsi": [
+        "Pegunungan",
+        "Perairan",
+        "Dataran Rendah",
+        "Hutan Lindung",
+        "Gurun"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Dataran Rendah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_24",
+      "pertanyaan": "Interaksi antara individu dengan individu contohnya...",
+      "opsi": [
+        "Guru mengajar sekelas",
+        "Presiden berpidato",
+        "Suporter bola",
+        "Dua orang bersalaman",
+        "Iklan TV"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Dua orang bersalaman\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_25",
+      "pertanyaan": "Manusia sebagai makhuk sosial artinya...",
+      "opsi": [
+        "Suka pamer",
+        "Bisa hidup sendiri",
+        "Hanya butuh uang",
+        "Suka berperang",
+        "Membutuhkan orang lain"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Membutuhkan orang lain\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_26",
+      "pertanyaan": "Norma yang sumbernya dari Tuhan adalah...",
+      "opsi": [
+        "Norma Agama",
+        "Norma Kesusilaan",
+        "Norma Kesopanan",
+        "Norma Hukum",
+        "Norma Adat"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Norma Agama\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_27",
+      "pertanyaan": "Peta yang menggambarkan seluruh permukaan bumi disebut...",
+      "opsi": [
+        "Peta Tematik",
+        "Globe",
+        "Peta Topografi",
+        "Atlas",
+        "Peta Khusus"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Globe\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_28",
+      "pertanyaan": "Sungai terpanjang di Indonesia adalah...",
+      "opsi": [
+        "Bengawan Solo",
+        "Sungai Musi",
+        "Sungai Kapuas",
+        "Sungai Barito",
+        "Sungai Mahakam"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sungai Kapuas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_29",
+      "pertanyaan": "Penghasil timah terbesar di Indonesia adalah pulau...",
+      "opsi": [
+        "Jawa",
+        "Sumatra",
+        "Kalimantan",
+        "Bangka Belitung",
+        "Sulawesi"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Bangka Belitung\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_30",
+      "pertanyaan": "Badan usaha yang berasaskan kekeluargaan adalah...",
+      "opsi": [
+        "PT",
+        "CV",
+        "BUMN",
+        "Firma",
+        "Koperasi"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Koperasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_31",
+      "pertanyaan": "Tujuan utama kerja sama ASEAN di bidang ekonomi adalah...",
+      "opsi": [
+        "Meningkatkan daya saing ekonomi",
+        "Menciptakan perdamaian",
+        "Membasmi narkoba",
+        "Latihan militer bersama",
+        "Budaya"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Meningkatkan daya saing ekonomi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_32",
+      "pertanyaan": "Bapak Proklamator Indonesia adalah...",
+      "opsi": [
+        "Soeharto",
+        "Soekarno dan Moh. Hatta",
+        "Gus Dur",
+        "Habibie",
+        "Megawati"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Soekarno dan Moh. Hatta\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_33",
+      "pertanyaan": "Agama Islam masuk ke Indonesia pertama kali melalui...",
+      "opsi": [
+        "Peperangan",
+        "Penjajahan",
+        "Perdagangan",
+        "Pendidikan",
+        "Seni"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Perdagangan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_34",
+      "pertanyaan": "Sifat memaksa adalah ciri dari norma...",
+      "opsi": [
+        "Agama",
+        "Kesusilaan",
+        "Kesopanan",
+        "Hukum",
+        "Adat"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Hukum\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_35",
+      "pertanyaan": "Kebutuhan yang berkaitan dengan status sosial disebut...",
+      "opsi": [
+        "Primer",
+        "Sekunder",
+        "Jasmani",
+        "Rohani",
+        "Tersier"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Tersier\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_36",
+      "pertanyaan": "Aktivitas manusia untuk memenuhi kebutuhan hidup disebut...",
+      "opsi": [
+        "Ekonomi",
+        "Politik",
+        "Budaya",
+        "Hukum",
+        "Sains"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ekonomi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_37",
+      "pertanyaan": "Faktor produksi alam contohnya...",
+      "opsi": [
+        "Mesin",
+        "Tanah",
+        "Tenaga kerja",
+        "Modal",
+        "Keahlian"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Tanah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_38",
+      "pertanyaan": "Suku Bugis berasal dari provinsi...",
+      "opsi": [
+        "Jawa Timur",
+        "Sumatra Utara",
+        "Sulawesi Selatan",
+        "Papua",
+        "Bali"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Sulawesi Selatan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_39",
+      "pertanyaan": "Pura adalah tempat ibadah agama...",
+      "opsi": [
+        "Islam",
+        "Kristen",
+        "Katolik",
+        "Hindu",
+        "Buddha"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Hindu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_40",
+      "pertanyaan": "Hari Kebangkitan Nasional diperingati setiap tanggal...",
+      "opsi": [
+        "17 Agustus",
+        "1 Juni",
+        "10 November",
+        "28 Oktober",
+        "20 Mei"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"20 Mei\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_41",
+      "pertanyaan": "Hasil tambang di PT Freeport Papua adalah...",
+      "opsi": [
+        "Emas dan Tembaga",
+        "Minyak bumi",
+        "Gas alam",
+        "Batu bara",
+        "Aspal"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Emas dan Tembaga\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_42",
+      "pertanyaan": "Wilayah Indonesia paling barat adalah...",
+      "opsi": [
+        "Merauke",
+        "Sabang (Pulau Weh)",
+        "Rote",
+        "Miangas",
+        "Jakarta"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sabang (Pulau Weh)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_43",
+      "pertanyaan": "Negara tetangga Indonesia yang berbentuk kerajaan adalah...",
+      "opsi": [
+        "Filipina",
+        "Vietnam",
+        "Malaysia",
+        "Singapura",
+        "Timor Leste"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Malaysia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_44",
+      "pertanyaan": "Perjanjian Linggarjati ditandatangani pada masa...",
+      "opsi": [
+        "Penjajahan Jepang",
+        "Perang Dunia I",
+        "Orde Baru",
+        "Revolusi Fisik",
+        "Reformasi"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Revolusi Fisik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_45",
+      "pertanyaan": "Sistem barter artinya...",
+      "opsi": [
+        "Tukar barang dengan uang",
+        "Beli dengan cicilan",
+        "Bayar dengan kartu",
+        "Hadiah gratis",
+        "Tukar barang dengan barang"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tukar barang dengan barang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_46",
+      "pertanyaan": "Perusahaan yang seluruh modalnya milik negara disebut...",
+      "opsi": [
+        "BUMN",
+        "BUMD",
+        "Koperasi",
+        "Yayasan",
+        "Perseroan Terbatas"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"BUMN\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_47",
+      "pertanyaan": "Inflasi adalah kondisi...",
+      "opsi": [
+        "Harga barang turun",
+        "Harga barang naik secara umum dan terus menerus",
+        "Uang melimpah",
+        "Tidak ada barang",
+        "Gaji naik"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Harga barang naik secara umum dan terus menerus\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_48",
+      "pertanyaan": "Puncak perjuangan bangsa Indonesia untuk merdeka adalah...",
+      "opsi": [
+        "Sumpah Pemuda",
+        "Perang Diponegoro",
+        "Proklamasi 17 Agustus 1945",
+        "Sidang BPUPKI",
+        "Dekrit Presiden"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Proklamasi 17 Agustus 1945\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_49",
+      "pertanyaan": "Identitas nasional bangsa Indonesia adalah...",
+      "opsi": [
+        "Bahasa daerah",
+        "Lagu Barat",
+        "Smartphone",
+        "Bendera Merah Putih",
+        "Mata uang Dollar"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Bendera Merah Putih\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPS_50",
+      "pertanyaan": "Ciri iklim tropis di Indonesia adalah...",
+      "opsi": [
+        "Punya 4 musim",
+        "Curah hujan rendah sekali",
+        "Hanya ada musim salju",
+        "Sangat dingin",
+        "Memiliki dua musim (hujan dan kemarau)"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Memiliki dua musim (hujan dan kemarau)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    }
+  ]
+}

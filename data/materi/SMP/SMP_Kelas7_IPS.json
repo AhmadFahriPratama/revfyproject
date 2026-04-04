@@ -1,0 +1,26 @@
+{
+  "id": "materi-smp-kls7-ips",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "IPS",
+  "materi": "Keruangan, Interaksi Sosial, dan Masa Pra-Aksara",
+  "deskripsi": "Materi Ilmu Pengetahuan Sosial (IPS) Kelas 7 mempelajari manusia dari aspek keruangan, interaksi sosial, ekonomi dasar, serta sejarah awal Nusantara.",
+  "konten": [
+    {
+      "bab": "1. Manusia, Tempat, dan Lingkungan",
+      "teks": "Mengidentifikasi letak dan luas Indonesia, potensi sumber daya alam, keadaan iklim, serta persebaran penduduknya."
+    },
+    {
+      "bab": "2. Interaksi Sosial dan Lembaga Sosial",
+      "teks": "Mempelajari bentuk, syarat, dan ciri interaksi sosial. Mengetahui jenis, fungsi, dan peran lembaga sosial di masyarakat (keluarga, agama, ekonomi, dll)."
+    },
+    {
+      "bab": "3. Aktivitas Manusia dalam Memenuhi Kebutuhan",
+      "teks": "Memahami konsep masalah ekonomi, pelaku ekonomi, prinsip/tindakan/motif ekonomi, serta peran IPTEK dalam menunjang kegiatan ekonomi."
+    },
+    {
+      "bab": "4. Kehidupan Masyarakat pada Masa Pra-Aksara",
+      "teks": "Melacak asal-usul nenek moyang bangsa Indonesia (periodisasi masa pra-aksara secara geologis maupun arkeologis) hingga masuknya Hindu-Buddha."
+    }
+  ],
+  "tag": ["smp-7", "ips", "keruangan", "interaksi-sosial", "ekonomi", "pra-aksara"]
+}

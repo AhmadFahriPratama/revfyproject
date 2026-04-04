@@ -1,0 +1,26 @@
+{
+  "id": "materi-smp-kls9-tik",
+  "tingkat": "SMP Kelas 9",
+  "mapel": "Informatika",
+  "materi": "Browser Lanjut, CMS Web Design, Logika Algoritma Dasar, Presentasi Visual Data, Etika Siber",
+  "deskripsi": "Informatika 9 mengantar siswa untuk mendevelop konten kreasi berbasis web builder CMS, mengelola big data di Spreadsheet, dan mulai merangkai alur blok coding (Scratch level Madya).",
+  "konten": [
+    {
+      "bab": "1. Merambah Dunia Siber Web (Web Browser dan CMS)",
+      "teks": "Optimalisasi Search Engine. Pengenalan platform CMS (WordPress / Blogger). Berlatih mendesain layout halaman web statis dan mengatur Domain/Hosting dasar."
+    },
+    {
+      "bab": "2. Teknologi Big Data dan Spreadsheet Lanjutan",
+      "teks": "Fungsi kalkulasi logika (IF, VLOOKUP, HLOOKUP) pada Excel / Google Sheets untuk memproses tabel ribuan data nilai atau absen menjadi info grafik visual (Chart) bermakna."
+    },
+    {
+      "bab": "3. Algoritma Pemrograman Visual Blok",
+      "teks": "Menyusun logika sequence, percabangan (if-else), dan perulangan (looping) dalam bahasa Scratch / Blockly untuk menciptakan mini game / animasi interaktif."
+    },
+    {
+      "bab": "4. Literasi Media Sosial dan Cyber Law",
+      "teks": "Kesadaran Undang-Undang ITE pencemaran nama baik, bullying siber, filter hoaks, penjagaan privasi Password, dan etika profesional dlm forum internet."
+    }
+  ],
+  "tag": ["smp-9", "informatika", "web-cms", "spreadsheet", "algoritma-blok", "cyber-law"]
+}

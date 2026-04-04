@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls9-mat",
+  "tingkat": "SMP Kelas 9",
+  "mapel": "Matematika",
+  "materi": "Perpangkatan, Persamaan Kuadrat, Transformasi Geometri, Kesebangunan, Bangun Ruang Sisi Lengkung",
+  "deskripsi": "Materi Matematika Kelas 9 adalah puncak tingkat SMP, membahas manipulasi aljabar kuadratik kritis, dilatasi koordinat, serta volume bangun ruang lengkung seperti Tabung dan Kerucut.",
+  "konten": [
+    {
+      "bab": "1. Perpangkatan dan Bentuk Akar",
+      "teks": "Aturan operasi eksponen (pangkat bulat positif/negatif/nol), sifaf perkalian bilangan akar, dan merasionalkan penyebut pecahan bentuk akar."
+    },
+    {
+      "bab": "2. Persamaan dan Fungsi Kuadrat",
+      "teks": "Menentukan akar PK $ax^2 + bx + c = 0$ dengan cara pemfaktoran, melengkapkan kuadrat, dan Rumus ABC. Menggambar grafik parabola fungsi kuadrat beserta titik puncaknya."
+    },
+    {
+      "bab": "3. Transformasi Geometri",
+      "teks": "Menentukan koordinat bayangan benda setelah proses Refleksi (pencerminan), Translasi (pergeseran), Rotasi (perputaran), dan Dilatasi (perkalian/skala)."
+    },
+    {
+      "bab": "4. Kekongruenan dan Kesebangunan",
+      "teks": "Syarat dua bangun datar kongruen (sama persis) dan sebangun (proporsional). Penerapan kesebangunan pada segitiga untuk mengukur tinggi gedung pakai bayangan matahari."
+    },
+    {
+      "bab": "5. Bangun Ruang Sisi Lengkung",
+      "teks": "Menghitung luas permukaan dan volume mutlak dari bangun Tabung, Kerucut, dan Bola padat. Serta memecahkan soal kombinasi (misal Tabung ditumpuk setengah bola)."
+    }
+  ],
+  "tag": ["smp-9", "matematika", "eksponen", "kuadrat", "transformasi", "kesebangunan", "bangun-ruang"]
+}

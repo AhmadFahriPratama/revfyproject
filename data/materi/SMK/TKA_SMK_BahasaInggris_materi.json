@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Bahasa Inggris",
+  "tingkatan": "SMK",
+  "jurusan": "Semua Jurusan",
+  "deskripsi": "Materi persiapan Tes Kemampuan Akademik (TKA) jenjang SMK yang berfokus pada English for Specific Purposes (ESP), komunikasi bisnis, dan pemahaman teks teknis.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Professional Greetings and Introductions",
+      "konten": "Formal and informal greetings, introducing oneself in an interview, exchanging business cards, and basic networking vocabulary.",
+      "tag": [
+        "tka smk bahasainggris materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Technical Manuals and Procedures",
+      "konten": "Understanding imperative sentences, sequence adverbs (first, then, finally), and vocabulary related to tools, safety, and machinery.",
+      "tag": [
+        "tka smk bahasainggris materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Business Correspondence",
+      "konten": "Writing formal emails, asking for information, handling complaints, and understanding the structure of a curriculum vitae (CV) in English.",
+      "tag": [
+        "tka smk bahasainggris materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Descriptive and Report Texts",
+      "konten": "Describing products, explaining work processes, interpreting charts and graphs, and making comparisons (degree of comparison).",
+      "tag": [
+        "tka smk bahasainggris materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Direct and Indirect Speech",
+      "konten": "Reporting what others said, understanding tense shifts, and practical usage in workplace communication and briefings.",
+      "tag": [
+        "tka smk bahasainggris materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-bahasainggris-materi",
+  "mapel": "TKA SMK: Bahasa Inggris",
+  "tag": [
+    "tka smk bahasainggris materi"
+  ]
+}

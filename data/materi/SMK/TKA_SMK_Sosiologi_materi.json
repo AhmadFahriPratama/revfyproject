@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Sosiologi",
+  "tingkatan": "SMK",
+  "jurusan": "Pilihan / Soshum",
+  "deskripsi": "Materi persiapan TKA Sosiologi untuk siswa SMK yang berfokus pada interaksi sosial, dinamika kelompok, perubahan sosial, dan pemberdayaan masyarakat.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengenalan Sosiologi dan Interaksi Sosial",
+      "konten": "Sosiologi sebagai ilmu pengetahuan, ciri-ciri sosiologi, syarat interaksi sosial (kontak dan komunikasi), faktor pendorong interaksi (imitasi, sugesti, identifikasi, simpati, empati).",
+      "tag": [
+        "tka smk sosiologi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Nilai, Norma, dan Sosialisasi",
+      "konten": "Jenis-jenis nilai dan norma sosial, fungsi norma bagi ketertiban, tahapan sosialisasi (preparatory, play, game, generalized other), serta agen sosialisasi.",
+      "tag": [
+        "tka smk sosiologi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Dinamika Kelompok dan Stratifikasi Sosial",
+      "konten": "Kelompok sosial (in-group/out-group, primer/sekunder), bentuk-bentuk diferensiasi dan stratifikasi sosial (terbuka, tertutup, campuran).",
+      "tag": [
+        "tka smk sosiologi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Konflik dan Integrasi Sosial",
+      "konten": "Sebab terjadinya konflik, bentuk akomodasi (mediasi, arbitrasi, konsiliasi), serta proses integrasi sosial dalam masyarakat multikultural.",
+      "tag": [
+        "tka smk sosiologi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Perubahan Sosial dan Globalisasi",
+      "konten": "Bentuk perubahan sosial (evolusi, revolusi), dampak globalisasi bagi kearifan lokal, serta upaya pemberdayaan masyarakat di lingkungan SMK.",
+      "tag": [
+        "tka smk sosiologi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-sosiologi-materi",
+  "mapel": "TKA SMK: Sosiologi",
+  "tag": [
+    "tka smk sosiologi materi"
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "id": "fr-tka25-smp",
+  "tahun": 2025,
+  "tingkat": "SMP",
+  "mapel": "Lintas Mapel TKA SMP",
+  "deskripsi": "Rekonstruksi FR TKA SMP 2025 lintas mapel berdasarkan pola soal dan ringkasan testimoni peserta.",
+  "soal": [
+    {
+      "id": "ftkasmp25-01",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Pada rekonstruksi TKA SMP 2025, peserta mendapat teks berita tentang banjir di kawasan padat penduduk. Pertanyaan menanyakan pernyataan yang tidak sesuai dengan isi teks. Strategi paling tepat adalah?",
+      "opsi": {
+        "A": "Melakukan scanning kata kunci opsi ke bagian teks yang relevan",
+        "B": "Menentukan jawaban dari judul saja",
+        "C": "Memilih opsi yang paling panjang",
+        "D": "Mengabaikan data angka di teks",
+        "E": "Menyimpulkan isi teks dari kalimat pertama saja"
+      },
+      "kunci": "A",
+      "pembahasan": "Untuk soal kesesuaian isi teks, strategi tercepat adalah melacak kata kunci pada opsi ke bagian teks yang relevan. Cara ini lebih akurat daripada menebak berdasarkan judul atau panjang opsi.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-02",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Sebuah kutipan cerpen menggambarkan tokoh yang tetap membantu temannya walau pernah dikecewakan. Nilai yang paling menonjol dalam kutipan tersebut adalah?",
+      "opsi": {
+        "A": "Ambisi",
+        "B": "Kepedulian",
+        "C": "Dendam",
+        "D": "Kecerobohan",
+        "E": "Kemalasan"
+      },
+      "kunci": "B",
+      "pembahasan": "Tindakan tetap membantu setelah mengalami kekecewaan menunjukkan kepedulian dan kedewasaan sikap. Pilihan lain tidak sesuai dengan perilaku tokoh dalam kutipan.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-03",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Kalimat manakah yang paling efektif untuk laporan hasil pengamatan?",
+      "opsi": {
+        "A": "Tanaman itu tumbuh dengan sangat amat cepat sekali.",
+        "B": "Tanaman itu adalah tumbuh cepat karena sebab cahaya.",
+        "C": "Tanaman itu tumbuh cepat setelah mendapat cukup cahaya.",
+        "D": "Tanaman itu tumbuh cepat, maka oleh karena itu tinggi.",
+        "E": "Tanaman itu tumbuh cepat sekali dengan sangat baik sekali."
+      },
+      "kunci": "C",
+      "pembahasan": "Kalimat efektif harus hemat, logis, dan tidak berlebihan. Opsi B paling tepat karena jelas, tidak boros kata, dan hubungan sebabnya masuk akal.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-04",
+      "mapel": "Bahasa Inggris",
+      "teks": "In a short dialogue, one student says, \"I guess we should leave earlier if we do not want to miss the train.\" The implied meaning is that they should?",
+      "opsi": {
+        "A": "Wait for another train",
+        "B": "Cancel the trip immediately",
+        "C": "Ask someone else to drive them",
+        "D": "Leave sooner than planned",
+        "E": "Change the destination"
+      },
+      "kunci": "D",
+      "pembahasan": "The phrase \"leave earlier\" clearly implies going sooner than the original plan to avoid missing the train.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-05",
+      "mapel": "Bahasa Inggris",
+      "teks": "A school notice says: \"Students must submit the science project by Friday at 10 a.m.\" What is the main purpose of the notice?",
+      "opsi": {
+        "A": "To entertain students",
+        "B": "To describe a science experiment",
+        "C": "To invite parents to school",
+        "D": "To compare project topics",
+        "E": "To inform students about a deadline"
+      },
+      "kunci": "E",
+      "pembahasan": "The notice provides a clear submission deadline, so its purpose is to inform students about when the project must be submitted.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-06",
+      "mapel": "Bahasa Inggris",
+      "teks": "In the sentence \"Rani gave Dita her notebook because she had finished the task,\" the word \"she\" most likely refers to?",
+      "opsi": {
+        "A": "Rani",
+        "B": "Dita",
+        "C": "The teacher",
+        "D": "The notebook",
+        "E": "The class"
+      },
+      "kunci": "A",
+      "pembahasan": "The most logical reference is Rani, because she is the one giving the notebook after finishing the task.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-07",
+      "mapel": "Matematika",
+      "teks": "Perbandingan siswa laki-laki dan perempuan di kelas adalah 3:5. Jika jumlah seluruh siswa 32, banyak siswa perempuan adalah?",
+      "opsi": {
+        "A": "10",
+        "B": "20",
+        "C": "12",
+        "D": "18",
+        "E": "22"
+      },
+      "kunci": "B",
+      "pembahasan": "Jumlah bagian = 3 + 5 = 8. Setiap bagian = 32/8 = 4. Banyak siswa perempuan = 5 x 4 = 20.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-08",
+      "mapel": "Matematika",
+      "teks": "Jika 3x - 5 = 16, nilai x adalah?",
+      "opsi": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8",
+        "E": "9"
+      },
+      "kunci": "C",
+      "pembahasan": "Tambahkan 5 pada kedua ruas: 3x = 21. Bagi 3 sehingga diperoleh x = 7.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-09",
+      "mapel": "Matematika",
+      "teks": "Data nilai 70, 75, 80, 85, 90. Median dari data tersebut adalah?",
+      "opsi": {
+        "A": "75",
+        "B": "82",
+        "C": "85",
+        "D": "80",
+        "E": "400"
+      },
+      "kunci": "D",
+      "pembahasan": "Karena banyak data ganjil, median adalah nilai tengah setelah diurutkan. Nilai tengahnya adalah 80.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-10",
+      "mapel": "IPA",
+      "teks": "Dalam rantai makanan rumput -> belalang -> katak -> ular, organisme yang berperan sebagai konsumen tingkat II adalah?",
+      "opsi": {
+        "A": "Rumput",
+        "B": "Belalang",
+        "C": "Ular",
+        "D": "Pengurai",
+        "E": "Katak"
+      },
+      "kunci": "E",
+      "pembahasan": "Belalang adalah konsumen tingkat I karena memakan produsen. Katak memakan belalang, sehingga katak menjadi konsumen tingkat II.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-11",
+      "mapel": "IPA",
+      "teks": "Sebuah benda didorong dengan gaya tetap sehingga bergerak makin cepat. Besaran yang pasti bertambah adalah?",
+      "opsi": {
+        "A": "Kecepatan",
+        "B": "Massa",
+        "C": "Jenis zat",
+        "D": "Volume",
+        "E": "Warna benda"
+      },
+      "kunci": "A",
+      "pembahasan": "Jika benda bergerak makin cepat, kecepatan bertambah. Massa, volume, dan warna tidak berubah hanya karena didorong.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-12",
+      "mapel": "IPA",
+      "teks": "Larutan yang mengubah kertas lakmus biru menjadi merah memiliki sifat?",
+      "opsi": {
+        "A": "Basa",
+        "B": "Asam",
+        "C": "Netral",
+        "D": "Logam",
+        "E": "Garam jenuh"
+      },
+      "kunci": "B",
+      "pembahasan": "Larutan asam mengubah lakmus biru menjadi merah. Basa justru mengubah lakmus merah menjadi biru.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-13",
+      "mapel": "IPS",
+      "teks": "Peta digunakan untuk menunjukkan letak suatu wilayah. Unsur peta yang menjelaskan arti simbol disebut?",
+      "opsi": {
+        "A": "Skala",
+        "B": "Inset",
+        "C": "Legenda",
+        "D": "Orientasi",
+        "E": "Garis astronomis"
+      },
+      "kunci": "C",
+      "pembahasan": "Legenda berfungsi menjelaskan arti simbol dalam peta. Skala menunjukkan perbandingan jarak, bukan arti simbol.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-14",
+      "mapel": "IPS",
+      "teks": "Kegiatan membeli barang dari luar negeri ke dalam negeri disebut?",
+      "opsi": {
+        "A": "Ekspor",
+        "B": "Distribusi",
+        "C": "Produksi",
+        "D": "Impor",
+        "E": "Konsumsi"
+      },
+      "kunci": "D",
+      "pembahasan": "Impor adalah kegiatan memasukkan barang dari luar negeri ke dalam negeri. Ekspor berarti menjual ke luar negeri.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-15",
+      "mapel": "IPS",
+      "teks": "Peristiwa Proklamasi Kemerdekaan Indonesia terjadi pada tanggal?",
+      "opsi": {
+        "A": "18 Agustus 1945",
+        "B": "20 Mei 1908",
+        "C": "28 Oktober 1928",
+        "D": "1 Juni 1945",
+        "E": "17 Agustus 1945"
+      },
+      "kunci": "E",
+      "pembahasan": "Proklamasi Kemerdekaan Indonesia dibacakan pada tanggal 17 Agustus 1945. Tanggal lain terkait peristiwa sejarah berbeda.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-16",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Dalam musyawarah kelas, sikap yang paling sesuai dengan sila keempat Pancasila adalah?",
+      "opsi": {
+        "A": "Mendengarkan pendapat teman dan mencari mufakat",
+        "B": "Memaksakan pendapat sendiri",
+        "C": "Keluar ruangan saat berbeda pendapat",
+        "D": "Menolak hasil musyawarah tanpa alasan",
+        "E": "Mengikuti keputusan karena takut"
+      },
+      "kunci": "A",
+      "pembahasan": "Sila keempat menekankan musyawarah, hikmat kebijaksanaan, dan penghargaan terhadap pendapat orang lain. Karena itu mencari mufakat adalah sikap yang paling tepat.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-17",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Contoh pelaksanaan kewajiban di sekolah adalah?",
+      "opsi": {
+        "A": "Menuntut nilai tinggi setiap saat",
+        "B": "Datang tepat waktu dan mengikuti aturan sekolah",
+        "C": "Menggunakan fasilitas sekolah sesuka hati",
+        "D": "Meminta teman mengerjakan tugas",
+        "E": "Menolak piket kelas"
+      },
+      "kunci": "B",
+      "pembahasan": "Kewajiban siswa di sekolah mencakup menaati tata tertib dan melaksanakan tanggung jawab dengan disiplin.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmp25-18",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Sikap yang tepat saat bertemu teman dengan latar belakang budaya berbeda adalah?",
+      "opsi": {
+        "A": "Menghindari pergaulan",
+        "B": "Mengejek kebiasaan mereka",
+        "C": "Menghargai perbedaan dan tetap bekerja sama",
+        "D": "Meminta mereka meniru budaya kita",
+        "E": "Menganggap budaya sendiri paling benar"
+      },
+      "kunci": "C",
+      "pembahasan": "Nilai persatuan dan kemanusiaan menuntut sikap saling menghargai dalam keberagaman. Kerja sama tetap bisa dilakukan tanpa merendahkan budaya lain.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 dan testimoni peserta"
+    }
+  ]
+}

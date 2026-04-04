@@ -1,0 +1,708 @@
+{
+  "id": "smp-7-ipa",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "IPA",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-7-ipa-1",
+      "teks": "Langkah pertama dalam kerja atau metode ilmiah adalah... (Latihan #1)",
+      "opsi": {
+        "A": "Merumuskan masalah",
+        "B": "Menarik kesimpulan",
+        "C": "Melakukan eksperimen",
+        "D": "Menyusun hipotesis",
+        "E": "Mempublikasikan hasil"
+      },
+      "kunci": "A",
+      "pembahasan": "Metode ilmiah dimulai dengan merumuskan masalah berdasarkan observasi atau pengamatan awal.",
+      "trik": "Tanya (Masalah) -> Duga (Hipotesis) -> Coba (Eksperimen) -> Simpulkan."
+    },
+    {
+      "id": "smp-7-ipa-2",
+      "teks": "Berikut ini yang merupakan kelompok besaran pokok adalah... (Latihan #2)",
+      "opsi": {
+        "A": "Luas, volume, dan kecepatan",
+        "B": "Panjang, massa, dan suhu",
+        "C": "Massa jenis, gaya, dan usaha",
+        "D": "Waktu, kuat arus, dan gaya",
+        "E": "Suhu, energi, dan daya"
+      },
+      "kunci": "B",
+      "pembahasan": "Besaran pokok ada 7: Panjang, Massa, Waktu, Suhu, Kuat Arus, Intensitas Cahaya, dan Jumlah Zat.",
+      "trik": "Hafalan: PaMaWaSuKuInJu (Panjang, Massa, Waktu, Suhu, Kuat arus, Intensitas, Jumlah zat)."
+    },
+    {
+      "id": "smp-7-ipa-3",
+      "teks": "Alat yang digunakan untuk mengukur diameter kelereng dengan ketelitian tinggi adalah... (Latihan #3)",
+      "opsi": {
+        "A": "Penggaris",
+        "B": "Mikrometer sekrup",
+        "C": "Jangka sorong",
+        "D": "Meteran rol",
+        "E": "Neraca Ohaus"
+      },
+      "kunci": "C",
+      "pembahasan": "Jangka sorong biasa digunakan untuk mengukur diameter luar atau dalam benda berskala kecil seperti kelereng atau pipa.",
+      "trik": "Diameter kecil -> Jangka sorong."
+    },
+    {
+      "id": "smp-7-ipa-4",
+      "teks": "Urutan takson tumbuhan dari yang tertinggi hingga terendah adalah... (Latihan #4)",
+      "opsi": {
+        "A": "Kingdom - Phylum - Class - Ordo - Familia - Genus - Species",
+        "B": "Species - Genus - Familia - Ordo - Class - Divisio - Kingdom",
+        "C": "Divisio - Kingdom - Ordo - Class - Genus - Familia - Species",
+        "D": "Kingdom - Divisio - Class - Ordo - Familia - Genus - Species",
+        "E": "Kingdom - Ordo - Class - Divisio - Familia - Genus - Species"
+      },
+      "kunci": "D",
+      "pembahasan": "Untuk tumbuhan, takson di bawah Kingdom adalah Divisio (bukan Phylum seperti pada hewan).",
+      "trik": "Tumbuhan: Kingdom-Divisio. Hewan: Kingdom-Phylum."
+    },
+    {
+      "id": "smp-7-ipa-5",
+      "teks": "Perubahan es menjadi air disebut... (Latihan #5)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Menyublim",
+        "E": "Mencair"
+      },
+      "kunci": "E",
+      "pembahasan": "Perubahan wujud dari padat (es) menjadi cair (air) disebut mencair.",
+      "trik": "Padat -> Cair = Mencair."
+    },
+    {
+      "id": "smp-7-ipa-6",
+      "teks": "Ciri khas dari perubahan kimia adalah... (Latihan #6)",
+      "opsi": {
+        "A": "Terbentuknya zat jenis baru",
+        "B": "Hanya terjadi perubahan wujud",
+        "C": "Tidak menghasilkan zat baru",
+        "D": "Dapat kembali ke bentuk semula dengan mudah",
+        "E": "Wujud zat tidak berubah"
+      },
+      "kunci": "A",
+      "pembahasan": "Perubahan kimia menghasilkan zat baru dengan sifat yang berbeda (reaksi kimia).",
+      "trik": "Kimia = Zat baru. Fisika = Wujud."
+    },
+    {
+      "id": "smp-7-ipa-7",
+      "teks": "Perpindahan kalor dari matahari ke bumi yang tidak melalui zat perantara disebut... (Latihan #7)",
+      "opsi": {
+        "A": "Konduksi",
+        "B": "Radiasi",
+        "C": "Konveksi",
+        "D": "Evaporasi",
+        "E": "Kondensasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Radiasi adalah perpindahan panas tanpa memerlukan zat perantara (medium), seperti cahaya dan panas matahari melalui ruang hampa ke bumi.",
+      "trik": "Tanpa medium = Radiasi."
+    },
+    {
+      "id": "smp-7-ipa-8",
+      "teks": "Benda langit yang mengelilingi matahari dengan orbit sangat lonjong dan memiliki ekor yang selalu menjauhi matahari disebut... (Latihan #8)",
+      "opsi": {
+        "A": "Asteroid",
+        "B": "Meteor",
+        "C": "Komet",
+        "D": "Meteorit",
+        "E": "Satelit"
+      },
+      "kunci": "C",
+      "pembahasan": "Komet (bintang berekor) mengorbit matahari dengan lintasan lonjong dan ekornya memanjang ke arah berlawanan dari matahari karena dorongan angin surya.",
+      "trik": "Orbit lonjong + pamer ekor = Komet."
+    },
+    {
+      "id": "smp-7-ipa-9",
+      "teks": "Berikut ini yang BUKAN merupakan planet terestrial (planet kebumian/dalam) adalah... (Latihan #9)",
+      "opsi": {
+        "A": "Merkurius",
+        "B": "Venus",
+        "C": "Bumi",
+        "D": "Jupiter",
+        "E": "Mars"
+      },
+      "kunci": "D",
+      "pembahasan": "Jupiter termasuk planet Jovian (planet luar/raksasa gas), bukan planet kebumian (yang permukaannya padat batuan).",
+      "trik": "Planet dalam: MeVeBuMa. Planet luar: JuSaUraNep."
+    },
+    {
+      "id": "smp-7-ipa-10",
+      "teks": "Organel sel yang berfungsi sebagai tempat terjadinya respirasi sel (menghasilkan energi) adalah... (Latihan #10)",
+      "opsi": {
+        "A": "Nukleus",
+        "B": "Ribosom",
+        "C": "Vakuola",
+        "D": "Lisosom",
+        "E": "Mitokondria"
+      },
+      "kunci": "E",
+      "pembahasan": "Mitokondria disebut sebagai 'the powerhouse of cell' karena di sinilah energi diproduksi melalui respirasi sel.",
+      "trik": "Energi/Respirasi = Mitokondria."
+    },
+    {
+      "id": "smp-7-ipa-11",
+      "teks": "Langkah pertama dalam kerja atau metode ilmiah adalah... (Latihan #11)",
+      "opsi": {
+        "A": "Merumuskan masalah",
+        "B": "Menarik kesimpulan",
+        "C": "Melakukan eksperimen",
+        "D": "Menyusun hipotesis",
+        "E": "Mempublikasikan hasil"
+      },
+      "kunci": "A",
+      "pembahasan": "Metode ilmiah dimulai dengan merumuskan masalah berdasarkan observasi atau pengamatan awal.",
+      "trik": "Tanya (Masalah) -> Duga (Hipotesis) -> Coba (Eksperimen) -> Simpulkan."
+    },
+    {
+      "id": "smp-7-ipa-12",
+      "teks": "Berikut ini yang merupakan kelompok besaran pokok adalah... (Latihan #12)",
+      "opsi": {
+        "A": "Luas, volume, dan kecepatan",
+        "B": "Panjang, massa, dan suhu",
+        "C": "Massa jenis, gaya, dan usaha",
+        "D": "Waktu, kuat arus, dan gaya",
+        "E": "Suhu, energi, dan daya"
+      },
+      "kunci": "B",
+      "pembahasan": "Besaran pokok ada 7: Panjang, Massa, Waktu, Suhu, Kuat Arus, Intensitas Cahaya, dan Jumlah Zat.",
+      "trik": "Hafalan: PaMaWaSuKuInJu (Panjang, Massa, Waktu, Suhu, Kuat arus, Intensitas, Jumlah zat)."
+    },
+    {
+      "id": "smp-7-ipa-13",
+      "teks": "Alat yang digunakan untuk mengukur diameter kelereng dengan ketelitian tinggi adalah... (Latihan #13)",
+      "opsi": {
+        "A": "Penggaris",
+        "B": "Mikrometer sekrup",
+        "C": "Jangka sorong",
+        "D": "Meteran rol",
+        "E": "Neraca Ohaus"
+      },
+      "kunci": "C",
+      "pembahasan": "Jangka sorong biasa digunakan untuk mengukur diameter luar atau dalam benda berskala kecil seperti kelereng atau pipa.",
+      "trik": "Diameter kecil -> Jangka sorong."
+    },
+    {
+      "id": "smp-7-ipa-14",
+      "teks": "Urutan takson tumbuhan dari yang tertinggi hingga terendah adalah... (Latihan #14)",
+      "opsi": {
+        "A": "Kingdom - Phylum - Class - Ordo - Familia - Genus - Species",
+        "B": "Species - Genus - Familia - Ordo - Class - Divisio - Kingdom",
+        "C": "Divisio - Kingdom - Ordo - Class - Genus - Familia - Species",
+        "D": "Kingdom - Divisio - Class - Ordo - Familia - Genus - Species",
+        "E": "Kingdom - Ordo - Class - Divisio - Familia - Genus - Species"
+      },
+      "kunci": "D",
+      "pembahasan": "Untuk tumbuhan, takson di bawah Kingdom adalah Divisio (bukan Phylum seperti pada hewan).",
+      "trik": "Tumbuhan: Kingdom-Divisio. Hewan: Kingdom-Phylum."
+    },
+    {
+      "id": "smp-7-ipa-15",
+      "teks": "Perubahan es menjadi air disebut... (Latihan #15)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Menyublim",
+        "E": "Mencair"
+      },
+      "kunci": "E",
+      "pembahasan": "Perubahan wujud dari padat (es) menjadi cair (air) disebut mencair.",
+      "trik": "Padat -> Cair = Mencair."
+    },
+    {
+      "id": "smp-7-ipa-16",
+      "teks": "Ciri khas dari perubahan kimia adalah... (Latihan #16)",
+      "opsi": {
+        "A": "Terbentuknya zat jenis baru",
+        "B": "Hanya terjadi perubahan wujud",
+        "C": "Tidak menghasilkan zat baru",
+        "D": "Dapat kembali ke bentuk semula dengan mudah",
+        "E": "Wujud zat tidak berubah"
+      },
+      "kunci": "A",
+      "pembahasan": "Perubahan kimia menghasilkan zat baru dengan sifat yang berbeda (reaksi kimia).",
+      "trik": "Kimia = Zat baru. Fisika = Wujud."
+    },
+    {
+      "id": "smp-7-ipa-17",
+      "teks": "Perpindahan kalor dari matahari ke bumi yang tidak melalui zat perantara disebut... (Latihan #17)",
+      "opsi": {
+        "A": "Konduksi",
+        "B": "Radiasi",
+        "C": "Konveksi",
+        "D": "Evaporasi",
+        "E": "Kondensasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Radiasi adalah perpindahan panas tanpa memerlukan zat perantara (medium), seperti cahaya dan panas matahari melalui ruang hampa ke bumi.",
+      "trik": "Tanpa medium = Radiasi."
+    },
+    {
+      "id": "smp-7-ipa-18",
+      "teks": "Benda langit yang mengelilingi matahari dengan orbit sangat lonjong dan memiliki ekor yang selalu menjauhi matahari disebut... (Latihan #18)",
+      "opsi": {
+        "A": "Asteroid",
+        "B": "Meteor",
+        "C": "Komet",
+        "D": "Meteorit",
+        "E": "Satelit"
+      },
+      "kunci": "C",
+      "pembahasan": "Komet (bintang berekor) mengorbit matahari dengan lintasan lonjong dan ekornya memanjang ke arah berlawanan dari matahari karena dorongan angin surya.",
+      "trik": "Orbit lonjong + pamer ekor = Komet."
+    },
+    {
+      "id": "smp-7-ipa-19",
+      "teks": "Berikut ini yang BUKAN merupakan planet terestrial (planet kebumian/dalam) adalah... (Latihan #19)",
+      "opsi": {
+        "A": "Merkurius",
+        "B": "Venus",
+        "C": "Bumi",
+        "D": "Jupiter",
+        "E": "Mars"
+      },
+      "kunci": "D",
+      "pembahasan": "Jupiter termasuk planet Jovian (planet luar/raksasa gas), bukan planet kebumian (yang permukaannya padat batuan).",
+      "trik": "Planet dalam: MeVeBuMa. Planet luar: JuSaUraNep."
+    },
+    {
+      "id": "smp-7-ipa-20",
+      "teks": "Organel sel yang berfungsi sebagai tempat terjadinya respirasi sel (menghasilkan energi) adalah... (Latihan #20)",
+      "opsi": {
+        "A": "Nukleus",
+        "B": "Ribosom",
+        "C": "Vakuola",
+        "D": "Lisosom",
+        "E": "Mitokondria"
+      },
+      "kunci": "E",
+      "pembahasan": "Mitokondria disebut sebagai 'the powerhouse of cell' karena di sinilah energi diproduksi melalui respirasi sel.",
+      "trik": "Energi/Respirasi = Mitokondria."
+    },
+    {
+      "id": "smp-7-ipa-21",
+      "teks": "Langkah pertama dalam kerja atau metode ilmiah adalah... (Latihan #21)",
+      "opsi": {
+        "A": "Merumuskan masalah",
+        "B": "Menarik kesimpulan",
+        "C": "Melakukan eksperimen",
+        "D": "Menyusun hipotesis",
+        "E": "Mempublikasikan hasil"
+      },
+      "kunci": "A",
+      "pembahasan": "Metode ilmiah dimulai dengan merumuskan masalah berdasarkan observasi atau pengamatan awal.",
+      "trik": "Tanya (Masalah) -> Duga (Hipotesis) -> Coba (Eksperimen) -> Simpulkan."
+    },
+    {
+      "id": "smp-7-ipa-22",
+      "teks": "Berikut ini yang merupakan kelompok besaran pokok adalah... (Latihan #22)",
+      "opsi": {
+        "A": "Luas, volume, dan kecepatan",
+        "B": "Panjang, massa, dan suhu",
+        "C": "Massa jenis, gaya, dan usaha",
+        "D": "Waktu, kuat arus, dan gaya",
+        "E": "Suhu, energi, dan daya"
+      },
+      "kunci": "B",
+      "pembahasan": "Besaran pokok ada 7: Panjang, Massa, Waktu, Suhu, Kuat Arus, Intensitas Cahaya, dan Jumlah Zat.",
+      "trik": "Hafalan: PaMaWaSuKuInJu (Panjang, Massa, Waktu, Suhu, Kuat arus, Intensitas, Jumlah zat)."
+    },
+    {
+      "id": "smp-7-ipa-23",
+      "teks": "Alat yang digunakan untuk mengukur diameter kelereng dengan ketelitian tinggi adalah... (Latihan #23)",
+      "opsi": {
+        "A": "Penggaris",
+        "B": "Mikrometer sekrup",
+        "C": "Jangka sorong",
+        "D": "Meteran rol",
+        "E": "Neraca Ohaus"
+      },
+      "kunci": "C",
+      "pembahasan": "Jangka sorong biasa digunakan untuk mengukur diameter luar atau dalam benda berskala kecil seperti kelereng atau pipa.",
+      "trik": "Diameter kecil -> Jangka sorong."
+    },
+    {
+      "id": "smp-7-ipa-24",
+      "teks": "Urutan takson tumbuhan dari yang tertinggi hingga terendah adalah... (Latihan #24)",
+      "opsi": {
+        "A": "Kingdom - Phylum - Class - Ordo - Familia - Genus - Species",
+        "B": "Species - Genus - Familia - Ordo - Class - Divisio - Kingdom",
+        "C": "Divisio - Kingdom - Ordo - Class - Genus - Familia - Species",
+        "D": "Kingdom - Divisio - Class - Ordo - Familia - Genus - Species",
+        "E": "Kingdom - Ordo - Class - Divisio - Familia - Genus - Species"
+      },
+      "kunci": "D",
+      "pembahasan": "Untuk tumbuhan, takson di bawah Kingdom adalah Divisio (bukan Phylum seperti pada hewan).",
+      "trik": "Tumbuhan: Kingdom-Divisio. Hewan: Kingdom-Phylum."
+    },
+    {
+      "id": "smp-7-ipa-25",
+      "teks": "Perubahan es menjadi air disebut... (Latihan #25)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Menyublim",
+        "E": "Mencair"
+      },
+      "kunci": "E",
+      "pembahasan": "Perubahan wujud dari padat (es) menjadi cair (air) disebut mencair.",
+      "trik": "Padat -> Cair = Mencair."
+    },
+    {
+      "id": "smp-7-ipa-26",
+      "teks": "Ciri khas dari perubahan kimia adalah... (Latihan #26)",
+      "opsi": {
+        "A": "Terbentuknya zat jenis baru",
+        "B": "Hanya terjadi perubahan wujud",
+        "C": "Tidak menghasilkan zat baru",
+        "D": "Dapat kembali ke bentuk semula dengan mudah",
+        "E": "Wujud zat tidak berubah"
+      },
+      "kunci": "A",
+      "pembahasan": "Perubahan kimia menghasilkan zat baru dengan sifat yang berbeda (reaksi kimia).",
+      "trik": "Kimia = Zat baru. Fisika = Wujud."
+    },
+    {
+      "id": "smp-7-ipa-27",
+      "teks": "Perpindahan kalor dari matahari ke bumi yang tidak melalui zat perantara disebut... (Latihan #27)",
+      "opsi": {
+        "A": "Konduksi",
+        "B": "Radiasi",
+        "C": "Konveksi",
+        "D": "Evaporasi",
+        "E": "Kondensasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Radiasi adalah perpindahan panas tanpa memerlukan zat perantara (medium), seperti cahaya dan panas matahari melalui ruang hampa ke bumi.",
+      "trik": "Tanpa medium = Radiasi."
+    },
+    {
+      "id": "smp-7-ipa-28",
+      "teks": "Benda langit yang mengelilingi matahari dengan orbit sangat lonjong dan memiliki ekor yang selalu menjauhi matahari disebut... (Latihan #28)",
+      "opsi": {
+        "A": "Asteroid",
+        "B": "Meteor",
+        "C": "Komet",
+        "D": "Meteorit",
+        "E": "Satelit"
+      },
+      "kunci": "C",
+      "pembahasan": "Komet (bintang berekor) mengorbit matahari dengan lintasan lonjong dan ekornya memanjang ke arah berlawanan dari matahari karena dorongan angin surya.",
+      "trik": "Orbit lonjong + pamer ekor = Komet."
+    },
+    {
+      "id": "smp-7-ipa-29",
+      "teks": "Berikut ini yang BUKAN merupakan planet terestrial (planet kebumian/dalam) adalah... (Latihan #29)",
+      "opsi": {
+        "A": "Merkurius",
+        "B": "Venus",
+        "C": "Bumi",
+        "D": "Jupiter",
+        "E": "Mars"
+      },
+      "kunci": "D",
+      "pembahasan": "Jupiter termasuk planet Jovian (planet luar/raksasa gas), bukan planet kebumian (yang permukaannya padat batuan).",
+      "trik": "Planet dalam: MeVeBuMa. Planet luar: JuSaUraNep."
+    },
+    {
+      "id": "smp-7-ipa-30",
+      "teks": "Organel sel yang berfungsi sebagai tempat terjadinya respirasi sel (menghasilkan energi) adalah... (Latihan #30)",
+      "opsi": {
+        "A": "Nukleus",
+        "B": "Ribosom",
+        "C": "Vakuola",
+        "D": "Lisosom",
+        "E": "Mitokondria"
+      },
+      "kunci": "E",
+      "pembahasan": "Mitokondria disebut sebagai 'the powerhouse of cell' karena di sinilah energi diproduksi melalui respirasi sel.",
+      "trik": "Energi/Respirasi = Mitokondria."
+    },
+    {
+      "id": "smp-7-ipa-31",
+      "teks": "Langkah pertama dalam kerja atau metode ilmiah adalah... (Latihan #31)",
+      "opsi": {
+        "A": "Merumuskan masalah",
+        "B": "Menarik kesimpulan",
+        "C": "Melakukan eksperimen",
+        "D": "Menyusun hipotesis",
+        "E": "Mempublikasikan hasil"
+      },
+      "kunci": "A",
+      "pembahasan": "Metode ilmiah dimulai dengan merumuskan masalah berdasarkan observasi atau pengamatan awal.",
+      "trik": "Tanya (Masalah) -> Duga (Hipotesis) -> Coba (Eksperimen) -> Simpulkan."
+    },
+    {
+      "id": "smp-7-ipa-32",
+      "teks": "Berikut ini yang merupakan kelompok besaran pokok adalah... (Latihan #32)",
+      "opsi": {
+        "A": "Luas, volume, dan kecepatan",
+        "B": "Panjang, massa, dan suhu",
+        "C": "Massa jenis, gaya, dan usaha",
+        "D": "Waktu, kuat arus, dan gaya",
+        "E": "Suhu, energi, dan daya"
+      },
+      "kunci": "B",
+      "pembahasan": "Besaran pokok ada 7: Panjang, Massa, Waktu, Suhu, Kuat Arus, Intensitas Cahaya, dan Jumlah Zat.",
+      "trik": "Hafalan: PaMaWaSuKuInJu (Panjang, Massa, Waktu, Suhu, Kuat arus, Intensitas, Jumlah zat)."
+    },
+    {
+      "id": "smp-7-ipa-33",
+      "teks": "Alat yang digunakan untuk mengukur diameter kelereng dengan ketelitian tinggi adalah... (Latihan #33)",
+      "opsi": {
+        "A": "Penggaris",
+        "B": "Mikrometer sekrup",
+        "C": "Jangka sorong",
+        "D": "Meteran rol",
+        "E": "Neraca Ohaus"
+      },
+      "kunci": "C",
+      "pembahasan": "Jangka sorong biasa digunakan untuk mengukur diameter luar atau dalam benda berskala kecil seperti kelereng atau pipa.",
+      "trik": "Diameter kecil -> Jangka sorong."
+    },
+    {
+      "id": "smp-7-ipa-34",
+      "teks": "Urutan takson tumbuhan dari yang tertinggi hingga terendah adalah... (Latihan #34)",
+      "opsi": {
+        "A": "Kingdom - Phylum - Class - Ordo - Familia - Genus - Species",
+        "B": "Species - Genus - Familia - Ordo - Class - Divisio - Kingdom",
+        "C": "Divisio - Kingdom - Ordo - Class - Genus - Familia - Species",
+        "D": "Kingdom - Divisio - Class - Ordo - Familia - Genus - Species",
+        "E": "Kingdom - Ordo - Class - Divisio - Familia - Genus - Species"
+      },
+      "kunci": "D",
+      "pembahasan": "Untuk tumbuhan, takson di bawah Kingdom adalah Divisio (bukan Phylum seperti pada hewan).",
+      "trik": "Tumbuhan: Kingdom-Divisio. Hewan: Kingdom-Phylum."
+    },
+    {
+      "id": "smp-7-ipa-35",
+      "teks": "Perubahan es menjadi air disebut... (Latihan #35)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Menyublim",
+        "E": "Mencair"
+      },
+      "kunci": "E",
+      "pembahasan": "Perubahan wujud dari padat (es) menjadi cair (air) disebut mencair.",
+      "trik": "Padat -> Cair = Mencair."
+    },
+    {
+      "id": "smp-7-ipa-36",
+      "teks": "Ciri khas dari perubahan kimia adalah... (Latihan #36)",
+      "opsi": {
+        "A": "Terbentuknya zat jenis baru",
+        "B": "Hanya terjadi perubahan wujud",
+        "C": "Tidak menghasilkan zat baru",
+        "D": "Dapat kembali ke bentuk semula dengan mudah",
+        "E": "Wujud zat tidak berubah"
+      },
+      "kunci": "A",
+      "pembahasan": "Perubahan kimia menghasilkan zat baru dengan sifat yang berbeda (reaksi kimia).",
+      "trik": "Kimia = Zat baru. Fisika = Wujud."
+    },
+    {
+      "id": "smp-7-ipa-37",
+      "teks": "Perpindahan kalor dari matahari ke bumi yang tidak melalui zat perantara disebut... (Latihan #37)",
+      "opsi": {
+        "A": "Konduksi",
+        "B": "Radiasi",
+        "C": "Konveksi",
+        "D": "Evaporasi",
+        "E": "Kondensasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Radiasi adalah perpindahan panas tanpa memerlukan zat perantara (medium), seperti cahaya dan panas matahari melalui ruang hampa ke bumi.",
+      "trik": "Tanpa medium = Radiasi."
+    },
+    {
+      "id": "smp-7-ipa-38",
+      "teks": "Benda langit yang mengelilingi matahari dengan orbit sangat lonjong dan memiliki ekor yang selalu menjauhi matahari disebut... (Latihan #38)",
+      "opsi": {
+        "A": "Asteroid",
+        "B": "Meteor",
+        "C": "Komet",
+        "D": "Meteorit",
+        "E": "Satelit"
+      },
+      "kunci": "C",
+      "pembahasan": "Komet (bintang berekor) mengorbit matahari dengan lintasan lonjong dan ekornya memanjang ke arah berlawanan dari matahari karena dorongan angin surya.",
+      "trik": "Orbit lonjong + pamer ekor = Komet."
+    },
+    {
+      "id": "smp-7-ipa-39",
+      "teks": "Berikut ini yang BUKAN merupakan planet terestrial (planet kebumian/dalam) adalah... (Latihan #39)",
+      "opsi": {
+        "A": "Merkurius",
+        "B": "Venus",
+        "C": "Bumi",
+        "D": "Jupiter",
+        "E": "Mars"
+      },
+      "kunci": "D",
+      "pembahasan": "Jupiter termasuk planet Jovian (planet luar/raksasa gas), bukan planet kebumian (yang permukaannya padat batuan).",
+      "trik": "Planet dalam: MeVeBuMa. Planet luar: JuSaUraNep."
+    },
+    {
+      "id": "smp-7-ipa-40",
+      "teks": "Organel sel yang berfungsi sebagai tempat terjadinya respirasi sel (menghasilkan energi) adalah... (Latihan #40)",
+      "opsi": {
+        "A": "Nukleus",
+        "B": "Ribosom",
+        "C": "Vakuola",
+        "D": "Lisosom",
+        "E": "Mitokondria"
+      },
+      "kunci": "E",
+      "pembahasan": "Mitokondria disebut sebagai 'the powerhouse of cell' karena di sinilah energi diproduksi melalui respirasi sel.",
+      "trik": "Energi/Respirasi = Mitokondria."
+    },
+    {
+      "id": "smp-7-ipa-41",
+      "teks": "Langkah pertama dalam kerja atau metode ilmiah adalah... (Latihan #41)",
+      "opsi": {
+        "A": "Merumuskan masalah",
+        "B": "Menarik kesimpulan",
+        "C": "Melakukan eksperimen",
+        "D": "Menyusun hipotesis",
+        "E": "Mempublikasikan hasil"
+      },
+      "kunci": "A",
+      "pembahasan": "Metode ilmiah dimulai dengan merumuskan masalah berdasarkan observasi atau pengamatan awal.",
+      "trik": "Tanya (Masalah) -> Duga (Hipotesis) -> Coba (Eksperimen) -> Simpulkan."
+    },
+    {
+      "id": "smp-7-ipa-42",
+      "teks": "Berikut ini yang merupakan kelompok besaran pokok adalah... (Latihan #42)",
+      "opsi": {
+        "A": "Luas, volume, dan kecepatan",
+        "B": "Panjang, massa, dan suhu",
+        "C": "Massa jenis, gaya, dan usaha",
+        "D": "Waktu, kuat arus, dan gaya",
+        "E": "Suhu, energi, dan daya"
+      },
+      "kunci": "B",
+      "pembahasan": "Besaran pokok ada 7: Panjang, Massa, Waktu, Suhu, Kuat Arus, Intensitas Cahaya, dan Jumlah Zat.",
+      "trik": "Hafalan: PaMaWaSuKuInJu (Panjang, Massa, Waktu, Suhu, Kuat arus, Intensitas, Jumlah zat)."
+    },
+    {
+      "id": "smp-7-ipa-43",
+      "teks": "Alat yang digunakan untuk mengukur diameter kelereng dengan ketelitian tinggi adalah... (Latihan #43)",
+      "opsi": {
+        "A": "Penggaris",
+        "B": "Mikrometer sekrup",
+        "C": "Jangka sorong",
+        "D": "Meteran rol",
+        "E": "Neraca Ohaus"
+      },
+      "kunci": "C",
+      "pembahasan": "Jangka sorong biasa digunakan untuk mengukur diameter luar atau dalam benda berskala kecil seperti kelereng atau pipa.",
+      "trik": "Diameter kecil -> Jangka sorong."
+    },
+    {
+      "id": "smp-7-ipa-44",
+      "teks": "Urutan takson tumbuhan dari yang tertinggi hingga terendah adalah... (Latihan #44)",
+      "opsi": {
+        "A": "Kingdom - Phylum - Class - Ordo - Familia - Genus - Species",
+        "B": "Species - Genus - Familia - Ordo - Class - Divisio - Kingdom",
+        "C": "Divisio - Kingdom - Ordo - Class - Genus - Familia - Species",
+        "D": "Kingdom - Divisio - Class - Ordo - Familia - Genus - Species",
+        "E": "Kingdom - Ordo - Class - Divisio - Familia - Genus - Species"
+      },
+      "kunci": "D",
+      "pembahasan": "Untuk tumbuhan, takson di bawah Kingdom adalah Divisio (bukan Phylum seperti pada hewan).",
+      "trik": "Tumbuhan: Kingdom-Divisio. Hewan: Kingdom-Phylum."
+    },
+    {
+      "id": "smp-7-ipa-45",
+      "teks": "Perubahan es menjadi air disebut... (Latihan #45)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Menyublim",
+        "E": "Mencair"
+      },
+      "kunci": "E",
+      "pembahasan": "Perubahan wujud dari padat (es) menjadi cair (air) disebut mencair.",
+      "trik": "Padat -> Cair = Mencair."
+    },
+    {
+      "id": "smp-7-ipa-46",
+      "teks": "Ciri khas dari perubahan kimia adalah... (Latihan #46)",
+      "opsi": {
+        "A": "Terbentuknya zat jenis baru",
+        "B": "Hanya terjadi perubahan wujud",
+        "C": "Tidak menghasilkan zat baru",
+        "D": "Dapat kembali ke bentuk semula dengan mudah",
+        "E": "Wujud zat tidak berubah"
+      },
+      "kunci": "A",
+      "pembahasan": "Perubahan kimia menghasilkan zat baru dengan sifat yang berbeda (reaksi kimia).",
+      "trik": "Kimia = Zat baru. Fisika = Wujud."
+    },
+    {
+      "id": "smp-7-ipa-47",
+      "teks": "Perpindahan kalor dari matahari ke bumi yang tidak melalui zat perantara disebut... (Latihan #47)",
+      "opsi": {
+        "A": "Konduksi",
+        "B": "Radiasi",
+        "C": "Konveksi",
+        "D": "Evaporasi",
+        "E": "Kondensasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Radiasi adalah perpindahan panas tanpa memerlukan zat perantara (medium), seperti cahaya dan panas matahari melalui ruang hampa ke bumi.",
+      "trik": "Tanpa medium = Radiasi."
+    },
+    {
+      "id": "smp-7-ipa-48",
+      "teks": "Benda langit yang mengelilingi matahari dengan orbit sangat lonjong dan memiliki ekor yang selalu menjauhi matahari disebut... (Latihan #48)",
+      "opsi": {
+        "A": "Asteroid",
+        "B": "Meteor",
+        "C": "Komet",
+        "D": "Meteorit",
+        "E": "Satelit"
+      },
+      "kunci": "C",
+      "pembahasan": "Komet (bintang berekor) mengorbit matahari dengan lintasan lonjong dan ekornya memanjang ke arah berlawanan dari matahari karena dorongan angin surya.",
+      "trik": "Orbit lonjong + pamer ekor = Komet."
+    },
+    {
+      "id": "smp-7-ipa-49",
+      "teks": "Berikut ini yang BUKAN merupakan planet terestrial (planet kebumian/dalam) adalah... (Latihan #49)",
+      "opsi": {
+        "A": "Merkurius",
+        "B": "Venus",
+        "C": "Bumi",
+        "D": "Jupiter",
+        "E": "Mars"
+      },
+      "kunci": "D",
+      "pembahasan": "Jupiter termasuk planet Jovian (planet luar/raksasa gas), bukan planet kebumian (yang permukaannya padat batuan).",
+      "trik": "Planet dalam: MeVeBuMa. Planet luar: JuSaUraNep."
+    },
+    {
+      "id": "smp-7-ipa-50",
+      "teks": "Organel sel yang berfungsi sebagai tempat terjadinya respirasi sel (menghasilkan energi) adalah... (Latihan #50)",
+      "opsi": {
+        "A": "Nukleus",
+        "B": "Ribosom",
+        "C": "Vakuola",
+        "D": "Lisosom",
+        "E": "Mitokondria"
+      },
+      "kunci": "E",
+      "pembahasan": "Mitokondria disebut sebagai 'the powerhouse of cell' karena di sinilah energi diproduksi melalui respirasi sel.",
+      "trik": "Energi/Respirasi = Mitokondria."
+    }
+  ]
+}

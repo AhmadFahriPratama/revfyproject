@@ -1,0 +1,53 @@
+{
+  "judul": "Akuntansi Keuangan",
+  "tingkatan": "SMK",
+  "jurusan": "Akuntansi dan Keuangan Lembaga",
+  "deskripsi": "Materi mengenai pengelolaan kas, piutang, persediaan barang dagang, serta aktiva tetap dan kewajiban jangka pendek.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengelolaan Kas dan Rekonsiliasi Bank",
+      "konten": "Kas adalah aktiva yang paling likuid. Pembahasan meliputi sistem Kas Kecil (Metode Imprest dan Fluktuasi), serta penyusunan Rekonsiliasi Bank untuk menyesuaikan saldo kas di buku perusahaan dengan saldo di rekening koran bank.",
+      "tag": [
+        "akl akuntansikeuangan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Akuntansi Piutang Dagang",
+      "konten": "Pencatatan piutang dagang, penaksiran piutang tak tertagih (Metode Cadangan dan Penghapusan Langsung), serta pengelolaan Wesel Tagih (Promes) termasuk pendiskontoannya.",
+      "tag": [
+        "akl akuntansikeuangan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Persediaan Barang Dagang",
+      "konten": "Metode pencatatan persediaan (Perpetual dan Periodik). Sistem penilaian harga pokok persediaan menggunakan metode Dasar (FIFO, LIFO, dan Average) sesuai standar akuntansi yang berlaku.",
+      "tag": [
+        "akl akuntansikeuangan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Aset Tetap (Aktiva Tetap)",
+      "konten": "Penentuan harga perolehan aset tetap, macam-macam metode penyusutan (Garis Lurus, Saldo Menurun, Jumlah Angka Tahun, Satuan Jam Kerja/Produksi), hingga penghentian/penjualan aset tetap.",
+      "tag": [
+        "akl akuntansikeuangan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Kewajiban dan Utang",
+      "konten": "Pencatatan utang lancar/jangka pendek (Utang dagang, utang pajak, utang gaji) serta pengenalan utang jangka panjang seperti Utang Obligasi dan Utang Bank.",
+      "tag": [
+        "akl akuntansikeuangan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "akl-akuntansikeuangan-materi",
+  "mapel": "Akuntansi Keuangan",
+  "tag": [
+    "akl akuntansikeuangan materi"
+  ]
+}

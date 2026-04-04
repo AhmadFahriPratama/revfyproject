@@ -1,0 +1,607 @@
+{
+  "id": "latihan-sd-kls2-mat",
+  "tipe": "SD",
+  "mapel": "Matematika Kelas 2",
+  "soal": [
+    {
+      "id": "mat-2-01",
+      "teks": "Nilai tempat angka 4 pada bilangan 45 adalah...",
+      "opsi": {
+        "A": "Puluhan",
+        "B": "Satusan",
+        "C": "Satuan"
+      },
+      "kunci": "A",
+      "pembahasan": "Angka yang berada di depan pada bilangan dua digit (seperti 45) adalah puluhan (40). Angka belakangnya satuan (5).",
+      "trik": "Angka depan puluhan, angka belakang satuan."
+    },
+    {
+      "id": "mat-2-02",
+      "teks": "23 + 14 = ...",
+      "opsi": {
+        "A": "47",
+        "B": "37",
+        "C": "57"
+      },
+      "kunci": "B",
+      "pembahasan": "Jumlahkan puluhan: 20+10=30. Jumlahkan satuan: 3+4=7. Total 30+7=37.",
+      "trik": "Jumlahkan atas bawah bersusun."
+    },
+    {
+      "id": "mat-2-03",
+      "teks": "50 - 20 = ...",
+      "opsi": {
+        "A": "20",
+        "B": "40",
+        "C": "30"
+      },
+      "kunci": "C",
+      "pembahasan": "Lima puluh kurangi dua puluh sisa tiga puluh.",
+      "trik": "Ambil angka depan saja: 5 - 2 = 3. Tambahkan nol: 30."
+    },
+    {
+      "id": "mat-2-04",
+      "teks": "Bentuk penjumlahan berulang dari 4 x 3 adalah...",
+      "opsi": {
+        "A": "3 + 3 + 3 + 3",
+        "B": "4 + 4 + 4 + 4",
+        "C": "3 + 3 + 3"
+      },
+      "kunci": "A",
+      "pembahasan": "4 kumpulan yang masing-masing berisi 3. Jadi: 3 + 3 + 3 + 3.",
+      "trik": "Wadah x Isi = Isi dijumlah wadah kali."
+    },
+    {
+      "id": "mat-2-05",
+      "teks": "Jam menunjukkan pukul 09.00. Jarum panjang menunjuk angka...",
+      "opsi": {
+        "A": "9",
+        "B": "12",
+        "C": "6"
+      },
+      "kunci": "B",
+      "pembahasan": "Pada jam genap / tepat waktu (00 menit), jarum panjang selalu berada di atas lurus menunjuk nomor 12.",
+      "trik": "Jam Tepat waktu = Jarum Lurus ke 12."
+    },
+    {
+      "id": "mat-2-06",
+      "teks": "Ibu memotong 1 kue bolu menjadi 2 bagian sama besar untuk kakak dan adik. Adik mendapat ... bagian.",
+      "opsi": {
+        "A": "1/3",
+        "B": "1/4",
+        "C": "1/2 (Setengah)"
+      },
+      "kunci": "C",
+      "pembahasan": "Satu benda utuh dibelah menjadi kembar dua potong nilai potongannya adalah Setengah (1/2).",
+      "trik": "Dibagi 2 anak = Satu per Dua."
+    },
+    {
+      "id": "mat-2-07",
+      "teks": "Angka ganjil sesudah bilangan 11 adalah...",
+      "opsi": {
+        "A": "13",
+        "B": "12",
+        "C": "14"
+      },
+      "kunci": "A",
+      "pembahasan": "Setelah 11 adalah 12 (genap), lalu 13 (ganjil).",
+      "trik": "Ganjil itu tidak bisa habis di bagi 2 teman (bersisa ganjil)."
+    },
+    {
+      "id": "mat-2-08",
+      "teks": "Alat untuk mengukur panjang meja adalah...",
+      "opsi": {
+        "A": "Timbangan",
+        "B": "Meteran / Penggaris",
+        "C": "Jam beker"
+      },
+      "kunci": "B",
+      "pembahasan": "Panjang benda diukur dengan bantuan meteran roll pita garis penggaris.",
+      "trik": "Panjang= Pengukur dimensi meter / cm."
+    },
+    {
+      "id": "mat-2-09",
+      "teks": "Ayah membawa 15 mangga. Sampai rumah, diberikan ke paman 5 mangga. Sisa mangga ayah...",
+      "opsi": {
+        "A": "20",
+        "B": "25",
+        "C": "10"
+      },
+      "kunci": "C",
+      "pembahasan": "Pengurangan barang: 15 - 5 = 10 utuh sisa.",
+      "trik": "Diberikan berarti jumlah berkurang."
+    },
+    {
+      "id": "mat-2-10",
+      "teks": "Perkalian 5 x 2 menghasilkan...",
+      "opsi": {
+        "A": "10",
+        "B": "7",
+        "C": "12"
+      },
+      "kunci": "A",
+      "pembahasan": "2 + 2 + 2 + 2 + 2 = 10. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"10\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Dua tangan punya masing-masing 5 jari. Digabung jadi 10!"
+    },
+    {
+      "id": "mat-2-11",
+      "teks": "Gambar pizza dipotong menjadi 4 lapis rata. Toni makan sepotong. Toni makan pecahan berapa...",
+      "opsi": {
+        "A": "1/2",
+        "B": "1/4 (Seperempat)",
+        "C": "1/3"
+      },
+      "kunci": "B",
+      "pembahasan": "Pizza yang dipotong jadi 4 berarti 1 sisinya senilai Seperempat (1/4).",
+      "trik": "Dari 4 keping, diambil 1 = 1 per 4."
+    },
+    {
+      "id": "mat-2-12",
+      "teks": "Uang pecahan dua puluh ribu nolnya ada berapa baris bilangannya?",
+      "opsi": {
+        "A": "2",
+        "B": "3",
+        "C": "4"
+      },
+      "kunci": "C",
+      "pembahasan": "Uang dua puluh ribu ditulis dengan format angka 20.000, jumlah angka nol nya 4 digit nol terbaris.",
+      "trik": "Ribu (3 nol) + Dua Puluh (1 nol) = 4."
+    },
+    {
+      "id": "mat-2-13",
+      "teks": "Budi punya 45 kelereng, Dodi punya 54 kelereng. Kelereng siapa yang lebih banyak bilangannya?",
+      "opsi": {
+        "A": "Dodi",
+        "B": "Budi",
+        "C": "Sama rata banyaknya"
+      },
+      "kunci": "A",
+      "pembahasan": "Lihat puluhan depan: 5 (pada 54) lebih besar nilainya daripada 4 (pada 45), jadi 54 lebih banyak/besar ruas.",
+      "trik": "Hanya cek angka depan jika angka ratusan dll sama-sama."
+    },
+    {
+      "id": "mat-2-14",
+      "teks": "8 + 8 = ...",
+      "opsi": {
+        "A": "15",
+        "B": "16",
+        "C": "18"
+      },
+      "kunci": "B",
+      "pembahasan": "Berdasarkan penjumlahan memori, delapan tambah lengan delapan berjumlah 16 hitungan lidi.",
+      "trik": "Hafal perkalian kembar bilangan 8x2."
+    },
+    {
+      "id": "mat-2-15",
+      "teks": "Di peternakan ada 12 sapi jantan dan 14 sapi betina coklat. Seluruh jumlah peliharaan ternak ada?",
+      "opsi": {
+        "A": "24",
+        "B": "28",
+        "C": "26"
+      },
+      "kunci": "C",
+      "pembahasan": "12 + 14 = 26 sapi merayap makan gumpal rumput di padang kandang.",
+      "trik": "10+10= 20 , 2+4= 6, jadi 26."
+    },
+    {
+      "id": "mat-2-16",
+      "teks": "Rani mau ke bandung menumpang laju kereta berangkat jam 10 pagi, durasi tancap mesinnya menempuh 3 jam, maka tiba jam..?",
+      "opsi": {
+        "A": "13.00 (Jam 1 siang)",
+        "B": "11 siang terang",
+        "C": "12 siang genap bolong mendung"
+      },
+      "kunci": "A",
+      "pembahasan": "10 ditambah 3 jam melaju = 13 (Jika waktu berantai lewat batas angka 12, disebut jam 13 siang).",
+      "trik": "Tarik 3 garis di jam: 11, 12... 1 melampau."
+    },
+    {
+      "id": "mat-2-17",
+      "teks": "Simbol uang negara di Indonesia dinamakan dengan singkatan huruf...",
+      "opsi": {
+        "A": "$ (Dollar)",
+        "B": "Rp (Rupiah)",
+        "C": "¥ (Yen Jepang anime)"
+      },
+      "kunci": "B",
+      "pembahasan": "Mata uang resmi jajan rakyat RI pakai uang Rupiah bersimbol uang sepeserpun Rp di depan baris digit.",
+      "trik": "Singkatan R dan P."
+    },
+    {
+      "id": "mat-2-18",
+      "teks": "Tali milik ani panjang 1 meter, tapi rafia punya adit cuma 50 cm. Siapa tali rafia terpanjang di ukuran benda...?",
+      "opsi": {
+        "A": "Adit dipotong pendek gila",
+        "B": "Sama kok imbang imbang adil",
+        "C": "Ani terulur"
+      },
+      "kunci": "C",
+      "pembahasan": "1 meter di konversi meter ukurannya setara dengan seratus 100 CM. Sedang adit cuma setengahnya batas ukur dacin meteran.",
+      "trik": "Meter melebihi sentimeter 1M = 100 cm"
+    },
+    {
+      "id": "mat-2-19",
+      "teks": "22 - 7 hitungan mundur ambil simpan hasil...?",
+      "opsi": {
+        "A": "15",
+        "B": "13",
+        "C": "14"
+      },
+      "kunci": "A",
+      "pembahasan": "Pinjam 10 dari angka 2 (12-7 = 5), puluhan sisa 1 turun jadi 15.",
+      "trik": "Peminjaman baris susunan kurangan bersusun."
+    },
+    {
+      "id": "mat-2-20",
+      "teks": "Perut lapar budi makan roti potong 1/3 (Sepertiga). Berarti roti budi sisa berapa dipiring bulet...?",
+      "opsi": {
+        "A": "1/4 keping koin",
+        "B": "Awalnya 3 potong utuh belah, dimaan satu, sisa 2/3 kue buletnya.",
+        "C": "Sisa hampa dimakan anjing gigit lari lompat parit kawat tiang."
+      },
+      "kunci": "B",
+      "pembahasan": "Anggaplah pecahan bawahnya 3 membagi kue tiga keping siksak, dimakan sepotong keping masih nyisah 2 potongan per tiga 2/3 sisa roti lumer manis enak.",
+      "trik": "Bawah tetap penyebutnya per tiga (3). Atas sisa (3 - 1 = 2)."
+    },
+    {
+      "id": "mat-2-21",
+      "teks": "Kumpulan keping 100 rupiah sebanyak 5 buah nilainya disamakan pecahan selembaran...",
+      "opsi": {
+        "A": "Seribuan",
+        "B": "Lima ribuan hijau kekuningan",
+        "C": "Lima ratusan"
+      },
+      "kunci": "C",
+      "pembahasan": "100 + 100 + 100 + 100 + 100 recehan logam = setara satu keping/lembar kertas 500.",
+      "trik": "Lima keping x 100 = 500 uang jajanan permen."
+    },
+    {
+      "id": "mat-2-22",
+      "teks": "Urutan angka deret lompat dari yang paling rendah ini: {21, 14, 25, 11}. Urutan depannya nomor apa duluan?",
+      "opsi": {
+        "A": "11 angka kecil puluhan tipis satu",
+        "B": "25 yang didepan gagah paling kuat tinggi luhur",
+        "C": "14 diantara perantara"
+      },
+      "kunci": "A",
+      "pembahasan": "Menyeret angka membariskan dari yg terkecil awal. 11, 14, 21, 25... .11 paling pertama disebut.",
+      "trik": "Semakin mundur lisan urut hitungan awal maka itu nilainya yg dikit."
+    },
+    {
+      "id": "mat-2-23",
+      "teks": "Bangun ruang yang bentuknya kayak kardus paketan kotak sepatu, apa sebutannya ciri dimensi tiganya...",
+      "opsi": {
+        "A": "Bola bunder melenting angin tendang gelinding lapangan",
+        "B": "Balok/Kubus",
+        "C": "Tabung drum kaleng susu kental berongga corong"
+      },
+      "kunci": "B",
+      "pembahasan": "Kardus sepatu punya sisi sisi tegak bersudut enam muka. Sifat ini dinamai persegi ruang volume disebut Balok (panjang) atau Kubus (kalo sama rusuknya persegi semua).",
+      "trik": "Kotak itu nama awamnya. Nama matanya = Kubus/Balok dimensi isi bungkus paket kotak kado."
+    },
+    {
+      "id": "mat-2-24",
+      "teks": "Bu guru meminta siswa menghitung jari kelas anak yang hadir. Ada 10 anak hadir, masing-masih 10 jari. Total jarinya berapa lurus barisan tangan angkat ke guru?",
+      "opsi": {
+        "A": "20 saja.",
+        "B": "50 lengan",
+        "C": "100 jari seratus tangan"
+      },
+      "kunci": "C",
+      "pembahasan": "Penerapan konsep perkalian puluhan! 10 anak dikali masing-masing bawa tangan 10 jari = 100 titik jari tangan anak serempak lambai bu.",
+      "trik": "Sepuluh tambah sepuluh sebanyak sepuluh kali ulangan puluhan hitungan= 100."
+    },
+    {
+      "id": "mat-2-25",
+      "teks": "Nilai tukar 1 lembar Seribu Rupiah sama dan senilai jika kita tukarkan ke keping koin warna perak 500 buahnya ada...?",
+      "opsi": {
+        "A": "2 keping perak bulet dua dituang digenggam tangan",
+        "B": "1 keping cukup",
+        "C": "5 keping berat kantong jebol longgar saku selipan receh pasar obral paman"
+      },
+      "kunci": "A",
+      "pembahasan": "500 rupiah perak kencring + 500 satu laginya = 1000 seribu ribuan uang koin dua butir receh.",
+      "trik": "Separoh Seribu yaitu gopek Lima Ratus Rupiah jajan (Butuh dua kembar agar jadi seribu utuh jajan bakso cilok murah)."
+    },
+    {
+      "id": "mat-2-26",
+      "teks": "Perkalian 3 dikalikan 0 angka = ?",
+      "opsi": {
+        "A": "3 utuh bulat stabil tenang",
+        "B": "0 (Semuanya hilang lumat abis keisap ruang hampa angka kosong)",
+        "C": "30 tambah melar membengkak balon besar air membesar."
+      },
+      "kunci": "B",
+      "pembahasan": "Aksioma Matematika: Setiap bilangan yang dikalikan dengan nol hasilnya mutlak mutlak 0 juga lenyap tidak bersisa sebutannya apa apa.",
+      "trik": "Kali Kosong ya hasilnya kosong hampa jua angin lebay!"
+    },
+    {
+      "id": "mat-2-27",
+      "teks": "Pangkat perkalian tiga dan tiga (3 x 3). Angka ujung hitungannya jumlahan ...?",
+      "opsi": {
+        "A": "6 gandaan dobel doang",
+        "B": "12 belasan jauh mutar kalender",
+        "C": "9 ganjil kembar tinggi puncak keluk angka"
+      },
+      "kunci": "C",
+      "pembahasan": "3 ditambahkan sebannyak tiga jejeran wadah lidi. 3+3+3 = Sembilan utuh titik lidi dipecah 3 bagian gantung lidi asik seru.",
+      "trik": "Perkalian kuadrat Tiga di lipat lagi lipatan atas lipat = Sembilan sisi ujung pola bangun lipat!"
+    },
+    {
+      "id": "mat-2-28",
+      "teks": "Alat ukur gram dan kilogram biasa dipergunakan menimbang dacin jarum apa gunanya alat ukur pedagang sayur tukang beras buah pasar dsb...?",
+      "opsi": {
+        "A": "Mengukur berat daging atau benda masif padat",
+        "B": "Tinggi badan tiang posyandu ujung dacin ditarik meter pita rambut ukur",
+        "C": "Lama masak nasi tungku beras kukus panci beras putih merah empuk lembek kompor jam api bara panas mendidih."
+      },
+      "kunci": "A",
+      "pembahasan": "Timbangan besi pasar adalah alat mencari tahu seberapa bobot berat / massa sembako gula batu dsb biar jualnya sesuai timbang.",
+      "trik": "Gram berat / Kilogram (Kg) massanya berat badan timbang berat obeng dll barang solid timbangan."
+    },
+    {
+      "id": "mat-2-29",
+      "teks": "Tali milik Tono 10 mm. Milik Dini 1 cm. Tali siapa yang paling melar ukurnya?",
+      "opsi": {
+        "A": "Tono",
+        "B": "Hanya sama ukur keduanya adil akur seratus sentimeter persis satu garis milimeter meter setara!",
+        "C": "Dini"
+      },
+      "kunci": "B",
+      "pembahasan": "Konversi dasar: 1 cm dalam penggarisan meteran garis penggaris plastik ujung anak tk itu senilai tepat ukur sejajar dengan 10 keping milimeter kecil semut merah.",
+      "trik": "Angka Sentimeter selalu dibantu angka 10 teman milimeter garis anak jarum tipis tipis itu barisan milinya!"
+    },
+    {
+      "id": "mat-2-30",
+      "teks": "Penjumlahan berurut baris: {10, 20, 30, ... }. Barusan kosong apaan ya ...?",
+      "opsi": {
+        "A": "35 tengah ganjil",
+        "B": "100 kejauhan melesat lari marathon napas letih henti pos air sedia teguk galon lelah letih lesu panjang jalan setapak debu pasir",
+        "C": "40 dong majunya genap konstan"
+      },
+      "kunci": "C",
+      "pembahasan": "Setiap pergerakan antar angka ke seberang menujunya berjarak selisih beda nambah +10 puluhan. Jadi tambah genap utuh = 40 (empat puluhan) bulat mantap titik.",
+      "trik": "Perkalian dari 1,2,3... cuma didalamnya ditambahi ujungnya O nol. (1... 2... 3... jadi 4 ... jadi 40)."
+    },
+    {
+      "id": "mat-2-31",
+      "teks": "Jarum pendek pada angka jam di dinding kamar mu menunjuk jam sepuluh pas. Jarum yg berpostur panjang tebal jarumnya kemana ...",
+      "opsi": {
+        "A": "Angka ke arah dua belas lurus keatas ujung paling gantung atap putar jam tik-tok dinding nyamuk jam weker meja letak pinggir tepi sudut kamar lurus tengah mentok pojok",
+        "B": "Angka dua jam lebih lama jam santey rebah bantal letih ngantuk matap",
+        "C": "Jarum enam mendatar memanah bumi lanta putar tengah bolong lobang."
+      },
+      "kunci": "A",
+      "pembahasan": "Di setiap titik jam waktu pukul tuntas yg tanpa embel lebih menit maka jarum pas menunju pukulnya wajib mengisyartkan panjang ke 12 batas genap mula perputaran rotasi angka genap bolong angka hitam weker dinding bunyi tik tik tik... memutar terus jarum putar.",
+      "trik": "Jam Pas = Panjang di atas (12)."
+    },
+    {
+      "id": "mat-2-32",
+      "teks": "Buaya giginya rontok 15 hilang dicabut patah gusi bengkak merah perih ngilu dari total 50 taring paku tajem nyala mulut. Berapa giginya gigi buaya hewan liar itu sekarang muara rawa buaya sisa nancap gusinya putih karang tajam koyak sisa...?",
+      "opsi": {
+        "A": "30 gigi.",
+        "B": "35 gigi sisa ngunyah rahang",
+        "C": "Lompong tua ombong botak gingsul tak berguna ompong"
+      },
+      "kunci": "B",
+      "pembahasan": "Soal terikat angka (50 total awal) dan angka (15 minus hilangnya copot jatuh lepas tanggal). Kurangkannya susunan bertumpang bersusun... 50 dikurang bawahnya 15 (Pinjam puluhan atas noll jadi 10-5 = 5. Angka 5 dlm 50 turun 4 karena dipinjam sisa 4, kurangi dng satu = 3). Maka tertoreh jumlah 35.",
+      "trik": "Kurangan bersusun (O dikurangi bilangan riil = Harus wajib meminjam puluh sebelahnya jadi bernilai sepuluh murni minjaminya satu per puluhan hitungan nilai titik potong lidi lurus angka tegak potong)"
+    },
+    {
+      "id": "mat-2-33",
+      "teks": "Nilai tukar logam Rp. 500 ditambah Rp. 200 logam ringan rupiah receh putih kuning. Jadinya senilai koin berapa...?",
+      "opsi": {
+        "A": "Rp. 1.000 bulat ",
+        "B": "Uang kaget",
+        "C": "Rp. 700 kembalian"
+      },
+      "kunci": "C",
+      "pembahasan": "Menotalkan receh (nilai tempat yang sama yakni lima ratus koin kuningan, campur lembaran ratusan jg setipenya) = 5+2 = 7 ratus rupiah serpih koin recehan keroncongan anak saku koin jajan beli permen perak ringan dsb.",
+      "trik": "Satuan ratutan dijumlah sama sama. (Abaikan nolnya dua, yg dihitung 5 dan 2 = 7 + dua nol raturan Rp = 700 rupiah rp.)"
+    },
+    {
+      "id": "mat-2-34",
+      "teks": "Manakah benda yang sifatnya mempunyai Sisi lengkungan tanpa sudut sedikitpun disudut lengkungannya ...",
+      "opsi": {
+        "A": "Bola lampu pimpong bola bekel kelereng gundu baling kipas baling karet piring donat kue kue bolong.",
+        "B": "Buku atlas",
+        "C": "Papan catur dam-daman kotak jalan pion hitam putih bidang petak tanah batas lahan sawah blok kotak blok tehel lantai garis-garis silang lurus kotak sama"
+      },
+      "kunci": "A",
+      "pembahasan": "Sisi Lengkung mutlak membundar dimiliki benda benda bola donat koin, yg merupakan identitas dari geometri benda bangun ruang Bola atau lingkaran datar keliling (Tak memiliki ujung tajam siki manapun bentuk pinggirnya keliling lengkung licin aspal bundaran miring roda putar).",
+      "trik": "Bangun lengkung artinya bundar/bulat tak ada yg mengganjal di ujung ujung (tanpa ujung)."
+    },
+    {
+      "id": "mat-2-35",
+      "teks": "34 + 21. Hitung bersusun ke turun alasnya",
+      "opsi": {
+        "A": "54 (Kurang satuan)",
+        "B": "55 (Puluhan dan satuan tak beradu pas tak sisa simpan atas)",
+        "C": "56 (Kelebihan itung jari)"
+      },
+      "kunci": "B",
+      "pembahasan": "Menurunkan angkahan... Depannya puluhan: 3 tambah 2 baris sama dengan puluhan berjumlah lima (50). Lalu satuan buruannya buntut... 4 ditambah sisi satuan 1 sama nilainya lima (5). Lima dengan Lima bergabung tulisan baris: 55 angka kembar.",
+      "trik": "Dua dua kolomnya dijumlah sama besar teman teman sejenis (Satuan vs stauan angka buntut dan baris puluhan awal vs awalan angka)."
+    },
+    {
+      "id": "mat-2-36",
+      "teks": "Angka Delapan Puluh Tujuh dilambangkan memakai wujud bilangannya ...",
+      "opsi": {
+        "A": "78 kebalik ketukar tempat posisi bangku deret urutan sela gang baris tempat letak nomor parkiran.",
+        "B": "807 angka nol menyela ditengah mengelaui.",
+        "C": "87 lurus pas cocok"
+      },
+      "kunci": "C",
+      "pembahasan": "Sesuai sebutan lisan (Delapan Puluh = Angka Delapan memimpin awalan puluhan puluhan. Tujuh = Satuan Buntut belakang tempelan). Sehingga digabung jejer rapat : angka Delapan (8) dan Tujuh (7) menjadilah wujud bilangan murni 87 angka ukir lurus gores.",
+      "trik": "Puluhan baca 8 dulu (awal). Tujuh satuan belakangan."
+    },
+    {
+      "id": "mat-2-37",
+      "teks": "Tiga kelompok bangku murid SD taman masing meja kursi ada dua siswa duduk lesehan bangku panjang. Berapa semua anak yg ada... (Sistem konsep perkalian dasar kali kali kumpulan siswa ruang belajar)?",
+      "opsi": {
+        "A": "Enam siswa duduk tenang mendengarkan manis lurus tegap pandang lurus bu gurunya ngajar hapalan maju sebut angka abjad. (3 Wadah bangku kumpulan dikalikan 2 sisi duduk = 6 anak pas).",
+        "B": "Delapan gerombol banyak riuh berisik ngobrol main kelereng belakang guru",
+        "C": "Lima kurang nyempil nyusup wc."
+      },
+      "kunci": "A",
+      "pembahasan": "Memahami konsep wadah kumpulan : (Bangku ada 3 wadah spot utama). Setiap isi 1 wadah terdapat dua isian sosok insan (Anak 2 x Bangku 3 = Tiga dikali Dua penjumlahan kelipatan = 6 total insan).",
+      "trik": "Sama maknanya ditambahkan sebanyak tempat mangkok kelompoknya. (Kelompok bangkunya 3, yg didalam bangku ada isinya 2 siswa. Berarti 2+2+2)."
+    },
+    {
+      "id": "mat-2-38",
+      "teks": "Apa yg ukurannya jauh melengkung paling lama butuh masa ...",
+      "opsi": {
+        "A": "Satu minggu putar libur akhir kerja sekolah senint sabtu minggu main tv kartun",
+        "B": "Satu bulan purnama penanggal kalender robek kertas angka pasang didinding paku",
+        "C": "Satu jam (perputaran di jam dinding tok... tak... bunyi detak kenceng irama pelan pelayunan piring waktu)."
+      },
+      "kunci": "B",
+      "pembahasan": "Peringkat durasi (Satu bulan terdiri rata-ruta dari masa panjang berkisar sekumpulan hari total 30 putaran siang/malam), sedangkan (satu minggu) nilainya berkumpulan cuman batas angka tujuh hari masa, sementara hanya putaran menitan angka (jam-durasi 60 menitan muter tipis cepat detak). (Bulan) menduduki waktu terlama memutar musim iklim kalendri penanggalan tanggal usia manusia panjang dsb masa tua...",
+      "trik": "Hari itu cepat. Minggu agak cepat. BULAN itu butuh puasa masa panjang nunggu habis gajian uang jajan sebulan penuh ganti nama juli juni mei."
+    },
+    {
+      "id": "mat-2-39",
+      "teks": "Ada nilai bilangan tertulis:  7 ... 1 ... 5. Susun menurut dari wujud angkanya nilai angka paling terkecil awal ... ",
+      "opsi": {
+        "A": "7 lalu 5 lantas 1",
+        "B": "acak ambruk asal tiban timbun pusing muter pala muter bingung letih pening lesu",
+        "C": "1 lalu disusul angka lebih gemuk besar 5, kemudian 7 pamungkas membesar bertumbuh angka"
+      },
+      "kunci": "C",
+      "pembahasan": "Sorting terkecil / naik mengembang mekar membesar. (Pertama teridentifikasi kacil kurus 1... Kemudian lima 5 menimbang lebih dikit nilainya piring dari tujuh yg meluap banyak permen 7 biji). (1 -> 5 -> 7 polanya berkembang menaik bertambah satuan barang bilingnya).",
+      "trik": "Angka Satu selalu jadi angka permulaan (paling dikit lidi cuma setunggal tipis). Angka besar itu kalo bendanya dikumpul numpuk ruah banyak tumpeng bukit."
+    },
+    {
+      "id": "mat-2-40",
+      "teks": "Angka 'Sembilan' di dalam wujud '95' nilai status derajat letak tempatnya berada di gelar apa ...?",
+      "opsi": {
+        "A": "Puluhan (Tempat pembuka bilangan di baris duo/dua digit belasan puluhan)",
+        "B": "Ratusan ribu besar jaya berkuasa atas segalanya dewa angka luhur pucuk gunung",
+        "C": "Satuan ujung melorot ekor bawah terendah pamungkas titik akhir sisa ampas paku titik noktah."
+      },
+      "kunci": "A",
+      "pembahasan": "Disebutnya lisan Sembilan Puluh Lima (9 itu disebut Sembilan Puluh karena posisi di depan nilai memimpin digit angka kedua yaitu Lima sebagai angka ekor buntut/satuan kecil poin tunggal unitnya).",
+      "trik": "Semua yg dibelakang (5) itu recehan (Satuan). Yang dedepannya melingkar dua digit dibilang gelar jabatan Puluhan!"
+    },
+    {
+      "id": "mat-2-41",
+      "teks": "Andi membawa uang 5.000 untuk beli buku, harga bukunya di loket penjual tulis angka merah 3.000 (tiga ribu). Ibu berpesan... kembali uangnya sisa susuk berapa...?",
+      "opsi": {
+        "A": "1.000 saja perak kurang dipotong preman pajak toko lari tilep",
+        "B": "2.000 uang balik kembalian pas buat beli parkir bayar permen tabungan simpanan besok ke loket tiket.",
+        "C": "Habis tidak di kasih uang lari pedagang curang maling bawa lari rampok jahat tangkap lapor guru kepala botak guru marah rotan patah pukul kayu patah meja amarah beringas."
+      },
+      "kunci": "B",
+      "pembahasan": "Konteks transaksi pembelian dasar mengukur operasi minus kurang bilangan bulat ribuan... Uang modal 5 rb dikurangi potongan bayar barang sejumlah 3rb mutlak (5-3 = angka sisa dlm ribu menjadi 2 ... 2.000 Rupiah (Kembalian susuk)).",
+      "trik": "5 jari lipat 3 jadi tersisa di genggaman hanya 2 tangan dua."
+    },
+    {
+      "id": "mat-2-42",
+      "teks": "Jarum waktu pada jarum tipis detik berjalan putaran satu kali memutar kaleng bundar jam (60 putaran tek tek tek detik pusing muter satu poros kincir rodanya pas ketemu titik awal). Apanya bertambah di catatan penanggal jam laci kita...?",
+      "opsi": {
+        "A": "Menambah detik saja",
+        "B": "Menyulap bertambah satu hari langsung tidur lusa kemaren jadul",
+        "C": "Berubah satu menit melaju merayap naik menanjak beranjak jarumnya sedikit pendek..."
+      },
+      "kunci": "C",
+      "pembahasan": "Konversi sistem satuan waktu alam: Setiap satu putaran jarum super halus/detikan jarum berjalan memutari angkanya genap satu kali rotasi balapan (60 detik komplit bulat piring), berarti di setarakan sama dengan majunya satu skala jarum panjang jam dinding merayap lambat lamban disebut (Satu 1 Menitan masa lalu berlalu waktu detikannya menitan lari detiknya hilang menitan datang ganti beruntun terus detik menit jam kalender dll menua umurnya botak rambut uban).",
+      "trik": "Detik lari muter pas 60... Menit bergerak merayap atu garis tipis (1 menit pas tambah putar terus ga capek puter)."
+    },
+    {
+      "id": "mat-2-43",
+      "teks": "Nilai 4 dikali... berapa kekosongan yg jika jawabannya bernilai persis 12 (Empat dideret panjang x .. = 12 lidi ditaruh sebar gabung). Isi titik itu kekosongan apanya angkanya berapa... ",
+      "opsi": {
+        "A": "Dikali angkat tiga kembar (Tiga kali kembang empat isi jadi mutlak dua belas lidi putus taro piring).",
+        "B": "Lima lipatan",
+        "C": "Enam buahan apel lidi dahan pohon patah lidi serak hamburan nyapu capek lidi terbang nyamuk sapu usir bersih piring lantai ngepel wangi lantai bening kinclong."
+      },
+      "kunci": "A",
+      "pembahasan": "Aksioma tebak balik aljabar pengalian pembagi dasar: Angka di kali sekian (N)... Berapa kali angka empat mesti didobel supaya tercapai 12... 4 + tangkas 4 = 8, lalu didobel tangkas empat lagi kepingan kelereng 8 + 4 = 12 klop! (Berati butuh Tiga renteng dobelan kellereng dideret 3X4).",
+      "trik": "Empat + Empat itu lapan delapan ganda lipat. Kalo buat jadi DUA BELAS kurang empat kelereng batu atu doang sebiji kurang empat keping (3 keping tempatnya/wadah)."
+    },
+    {
+      "id": "mat-2-44",
+      "teks": "Pecahan sepotong semangka merah dipotong ibu tiga teman sama porsinya bagitiga. Aku makan satu porsiku... (Dari tiga teman). Itu namanya pecahan disebut pecahan berapanya secara nulis garis perut belah...?",
+      "opsi": {
+        "A": "1 /2 separoh belah besar kembung nyatu",
+        "B": "1 / 3 sepertiganya seper potongnya dari potongan keseluruhan bundar wuluh lingkaran hijau semangka bulat gedug bundar air lumer merah delima pecah renyah potong pisau ibu iris rata",
+        "C": "Seper sepuluh tipis kikis pelit pelik cicit kikir bakhil"
+      },
+      "kunci": "B",
+      "pembahasan": "Satu potongan objek dimakan, per/dibagi membelah potongan belah tiga asal belahannya merujuk asal wujud utuh 3 bilah... (Dihamburkan penulisannya menjadi 1 Garis Garis pembagi Belah Angka utuh potong aslinya mula (3)). 1/3 bilah (Sepertiga mutlak nilai pecahan pembagi rasionya belahan kue/buah padat murni rata keadilan timbang rata besar potongan sama teman tidak iri curang).",
+      "trik": "Potong ibu TIGA temannya... 3 (Dibawahnya / 3)... Aku nya 1 nyaplok lahap gigit ... (1 garis sepertiganya potong 1/3...!"
+    },
+    {
+      "id": "mat-2-45",
+      "teks": "Lola simpen celengan 25 ribu kertas. Ditambah bapak 4 ribu receh koin perak perak kuningan kembalian. Celengan lola gemuk banyak pecah berat tumpah ruah numpuk logam kertas jadi apaan rupiah semuanya receh belasan ratussan rebu ribunaya kumpul jadi satu ...?",
+      "opsi": {
+        "A": "Rp. 50.000 (Ibu nambahin bohong diam-diam) diam menabung di hari tuwa darsini ganda riba tabung bank asuransi pensiun bulanan dana kaget untung balig ganda seribu balik muter lumbung.",
+        "B": "Habis dicuri bolong bawahnya hilang copet kabur ninja bayangan hitam wus.",
+        "C": "25+4 = Rp. 29.000 numpuk (Dua puluh sembilan tebal) ribuan uang duit logam balok receh celeng ayam jago babi tanah liat pecah berat lempar tanah tumpah ambyar"
+      },
+      "kunci": "C",
+      "pembahasan": "Pemahaman penjumlahan konteks ribuan puluhan duit koin celengan harian: (25) Ribuan... disatukan jumlahnya simpen nabung (Ditambah kemasukan celeng) (4) ... = (Jejerkan susunanya gempang atas bawah tambahnya 25 atasnya sejajar angka buntut belakang susun 4). (5 ketemu pas dengan 4 bawahnya = 9 sembilan)... Menjadi total jumlahan menajam jadi 29 (Dua puluh sembilan ganda ribu perak). (Rp. 29.000)",
+      "trik": "Angka Ribuan (Yg ada Rebu Ribunya 000 Abaikan jgn dibawa puyeng).... Hitung utamanya nilai depannya belasan.. (25 + 4). 4 tambah lima satuan buntut angka. Jadi SEMBILAN... Tempel deh depannya tetep (2)."
+    },
+    {
+      "id": "mat-2-46",
+      "teks": "Panjang pensil Didi diukur garis penggaris plastik lentur menunjukkan ujung mata hitam di angka 13 cm. Berapa ya pensil si panjangnya nilai cm angka besarnya panjang batang kayu kayu tebal rapuh serut sisa nulis coret...?",
+      "opsi": {
+        "A": "13 sentimeter lurus tepat akurat titik tuju ukur skala baku angka skala ukur",
+        "B": "12",
+        "C": "14 senti lebih potong patah runcing patah rapuh tancap serut bengkok pisau."
+      },
+      "kunci": "A",
+      "pembahasan": "Alat ukur baku lurus skala ukur plastik / penggaris akan menetapkan skala ukur berhenti menunjuk batas terjauhnya panjang mutlak. Jika kayu runcing ujung mata pensil lurusnya tepat mentoknya angka (13). Maka (13 cm Sentimeter lah mutlak ukurannya tetap tidak berubah konstan).",
+      "trik": "Lihat ujung tancap terakhir mentok angka dimana letaknya! Itulah ukurannya angkanya mutlak batas titik ujung benda kerasnya."
+    },
+    {
+      "id": "mat-2-47",
+      "teks": "Kalau ngerjakan pembagian bagi-bagian adil kelompok 8 dibagi disebar jatah dua adil rata kiri kanan 8 / 2 = ...?",
+      "opsi": {
+        "A": "Tiga potong melingkar (3) ga pas bagi tumpah nyisa kelereng gelinding sisa sebiji tumpuk kurang pas.",
+        "B": "Sama persis (4) karena lawannya pengurang kali lipat dua... (4 dan 4 digabung sama lagi ke awalnya wujud asli semula 8 balik mutar mutlak aksioma ukur).",
+        "C": "Takarannya Lima (5) sisa berlebihan tumpah lewatin gelas aduk rata porsi."
+      },
+      "kunci": "B",
+      "pembahasan": "Penyederhanaan Pembagian= kebalikan kali lipat dobel.  Sama persis dgn 8 kelereng diambil 2 diambil lg 2 (ngulangin proses buang empat kali wadah sampai mangosuk kosong abis tak nyisa angka 0). (8 buang 2 = 6, dikurang lepas 2 = 4, dikurang sebar 2 =2 , lepas sebar lg ke anak keliling temen sebangku laci masukin 2 biji terakhir = 0 Abis!). Berapa step perulangan? / (Ada total 4 step buangan lepas lempar = Jadi isinya bagi (4) mutlak!!",
+      "trik": "Bagi itu artimya... Lo buang-buang aja kurangin angkanya terus (8-2, kurang 2 trus)... Hitung berapa kali lu ngebuang angkanya pas nol kosong... Itu jawaban sebar keliling brapa muternya!"
+    },
+    {
+      "id": "mat-2-48",
+      "teks": "Sudut segitiga sisinya titik lancip kuncup perpaduan tajam garis-garis silang jumlah nyudut di bangun datar pipih... berapa banyak sisinya ujung tajanya letak runcing garisnya nyebut pojok tumpu lancip...?",
+      "opsi": {
+        "A": "Ada 4 sudut pojok siku (salah bangun ngawur kotak melar panjang nyiku kotak tembok siku pojokan kelas laci meja).",
+        "B": "Tidak punya bulat pelontos halus muter membelah keliling piring aspal halus putar ban gerak roda mutar tak bersudut.",
+        "C": "Tiga Sudut Lancip Segitiga runcing tusuk piramid atas, kiri bawah pinggul pangkal, sudut miring lurus samping kanan pangkal dasar (total 3 sudut pancang tiang kembang piramida kerucut puncaknya meruncing atap rumah pas naik tegak miring lurus lincip miring runcing asah kuncup pisau lurus tiga)."
+      },
+      "kunci": "C",
+      "pembahasan": "Semua jenis klasifikasi rupa dimensi datar geometri (Segitiga) baik sama kaki seimbang maupun ngesiku patah memotong tegak pasti mutlak absolut berjumlah pojok-pojokan ujung garis potong bertumpuk berjumlah tepat dan jleas (3 Tiga Titik Runcing Tumpu Sudut Tajamnya Lincip patahan titik pangkal garis temu garis menyentuh bersatu padu siku).",
+      "trik": "Sebut nama nya. Panggil aja SEGITIGA... berarti SEGI nya ya TIGA bijinya sudut miring kotaknya pojoknya 3 dong... Kan namanya ditaruh kedalam depan muka wajah kata."
+    },
+    {
+      "id": "mat-2-49",
+      "teks": "Sebuah botol minuman isinya kepenuhan 10 liter gede drum ember sumur dalam. Dituang gelas habis dibagi disedot teman-teman sebanyak 6 liter kesedot di perut kembung perut masuk lambung kenyang air es sirup haus lepas tuntas siram adem glegak tuntas.. Botol itu menyisakan nilai air liter berapakah di dasar sisa ampas genangan...?",
+      "opsi": {
+        "A": "Empat liter genang nyisah dasar endap lumpur gula tebal manis ampas 4 sisa liter ember tabung (pengurangan kurangi ambil sisakan timpa kurang).",
+        "B": "Malah nembah beludu melibret bludak ruah banjir tumpah karpet basah licin jatuh 16 liter",
+        "C": "Ludes abis pecah botol kaca beling beling tajam sebar robek sapu serok abu gosok aman buang jauh"
+      },
+      "kunci": "A",
+      "pembahasan": "Pengukuran baku besaran satuan isi benda mengalir (volume liter air / literan). Logikanya: Botol penuh awal mulanya wadah memuat 10 isian L.. diambil pergi minum (dikurang hisap/minum tandas sedotan kuras gelas) sebanyak (6 l). Soal nanya sisa endapan?  Pake pengurangan : 10 awal ambil hisap pindah ruang tabung (6). (10 di kurangan (-) meminjam angka pengambil 6)... Sisa genang air 10-6 = (4 Angka Empat Liter mutlak menetes sisa dikit tetesan dasar).",
+      "trik": "Disedot dipindah diminum buang... (Kurangin Minus!). Pake itung telapak sepuluh jari jarimu... lipatan enam biji tutup jemarimu ke dalam genggaman pelan pelan tekuk lipat rapat urat jari tekuk... Angka jari yang lurus tegak nantang langit ada ... Empat jarimu 4!"
+    },
+    {
+      "id": "mat-2-50",
+      "teks": "Urutan genap barisan setelahnya : 2, 4, 6... Lompata barisan setelah lewatin angka 6 ada lah...?",
+      "opsi": {
+        "A": "7 ganjil miring serong miring",
+        "B": "8 Genap lompat ganda 2 angka pulih utuh mantap kembar lipat genap lidi asik",
+        "C": "9 ganjil kelewatan jomblang jurang jauh lompat tinggi pagar jauh kali."
+      },
+      "kunci": "B",
+      "pembahasan": "Setiap perletakaan angka lompatan bilangan pada kelas 2 (membentuk deretan lompat) barisan lompat +2 dua tambah genap terus menerus konsisten loncat ganda angka bilangan utuhnya stabil (2.. 2+2=4... 4+2=6... 6+2 = 8). ",
+      "trik": "Genap = Bilangan yang bisa digrupkan teman kawan pasangan tak menyisa ngelir lidi (Pasangan gandengan teman pas sejoli kawan sebangku sebaya tanding imbang baris tentara 2-2 kompi berjejer sama padu sama imbang padu bulat padat utuh)."
+    }
+  ]
+}

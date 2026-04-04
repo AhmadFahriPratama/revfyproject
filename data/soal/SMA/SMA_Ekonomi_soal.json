@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMA_EK_01",
+    "pertanyaan": "Masalah utama ekonomi yang timbul karena kebutuhan manusia tidak terbatas sementara alat pemuas kebutuhan terbatas disebut...",
+    "opsi": [
+      "Kelangkaan (Scarcity)",
+      "Inflasi",
+      "Deflasi",
+      "Keseimbangan",
+      "Kemakmuran"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kelangkaan memaksa manusia untuk melakukan pilihan (choice) dalam memenuhi kebutuhannya."
+  },
+  {
+    "id": "SMA_EK_02",
+    "pertanyaan": "Keinginan seseorang untuk membeli barang pada berbagai tingkat harga disebut...",
+    "opsi": [
+      "Penawaran",
+      "Permintaan",
+      "Pasar",
+      "Distribusi",
+      "Konsumsi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Permintaan (demand) berbanding terbalik dengan harga (Hukum Permintaan)."
+  },
+  {
+    "id": "SMA_EK_03",
+    "pertanyaan": "Jika harga suatu barang naik, maka jumlah barang yang ditawarkan akan cenderung...",
+    "opsi": [
+      "Turun",
+      "Tetap",
+      "Naik",
+      "Hilang",
+      "Tidak menentu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hukum Penawaran: Semakin tinggi harga, semakin banyak barang yang ditawarkan oleh produsen."
+  },
+  {
+    "id": "SMA_EK_04",
+    "pertanyaan": "Biaya yang timbul karena memilih satu alternatif dan mengorbankan alternatif lainnya disebut...",
+    "opsi": [
+      "Biaya Produksi",
+      "Biaya Tetap",
+      "Biaya Variabel",
+      "Biaya Peluang (Opportunity Cost)",
+      "Biaya Total"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Opportunity cost adalah nilai barang/jasa yang dikorbankan demi pilihan lain."
+  },
+  {
+    "id": "SMA_EK_05",
+    "pertanyaan": "Lembaga yang bertugas mengatur dan mengawasi seluruh kegiatan di dalam sektor jasa keuangan di Indonesia adalah...",
+    "opsi": [
+      "Bank Indonesia",
+      "Kementerian Keuangan",
+      "Lembaga Penjamin Simpanan (LPS)",
+      "Bursa Efek Indonesia",
+      "Otoritas Jasa Keuangan (OJK)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "OJK mengawasi perbankan, pasar modal, dan IKNB (Industri Keuangan Non-Bank)."
+  },
+  {
+    "id": "SMA_EK_06",
+    "pertanyaan": "Inflasi yang terjadi karena kenaikan biaya produksi disebut...",
+    "opsi": [
+      "Cost push inflation",
+      "Demand pull inflation",
+      "Hyper inflation",
+      "Imported inflation",
+      "Domestic inflation"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Cost push terjadi jika bahan baku atau upah buruh naik secara signifikan."
+  },
+  {
+    "id": "SMA_EK_07",
+    "pertanyaan": "Jumlah nilai seluruh barang dan jasa yang dihasilkan oleh penduduk suatu negara (termasuk yang di luar negeri) dalam satu tahun adalah...",
+    "opsi": [
+      "GDP",
+      "GNP",
+      "NNP",
+      "Pendapatan Per Kapita",
+      "Pendapatan Neto"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Gross National Product (GNP) menghitung berdasarkan kewarganegaraan."
+  },
+  {
+    "id": "SMA_EK_08",
+    "pertanyaan": "Tindakan bank sentral untuk mengurangi jumlah uang beredar dengan menaikkan suku bunga bank adalah kebijakan...",
+    "opsi": [
+      "Pasar terbuka",
+      "Cadangan kas",
+      "Diskonto",
+      "Kredit selektif",
+      "Fiskal ekspansif"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Politik diskonto menggunakan instrumen suku bunga untuk mengendalikan inflasi."
+  },
+  {
+    "id": "SMA_EK_09",
+    "pertanyaan": "Pasar yang di dalamnya hanya terdapat satu penjual yang menguasai seluruh penawaran barang disebut...",
+    "opsi": [
+      "Oligopoli",
+      "Duopoli",
+      "Persaingan Sempurna",
+      "Monopoli",
+      "Monopolistik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pasar monopoli tidak memiliki barang pengganti yang dekat (close substitute)."
+  },
+  {
+    "id": "SMA_EK_10",
+    "pertanyaan": "Pihak yang melakukan kegiatan konsumsi disebut...",
+    "opsi": [
+      "Produsen",
+      "Distributor",
+      "Pemerintah",
+      "Spekulan",
+      "Konsumen"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Konsumen menghabiskan nilai guna barang/jasa untuk memenuhi kebutuhan."
+  },
+  {
+    "id": "SMA_EK_11",
+    "pertanyaan": "Ilmu ekonomi yang mempelajari ekonomi secara keseluruhan (agregat) seperti inflasi dan pengangguran disebut...",
+    "opsi": [
+      "Ekonomi Makro",
+      "Ekonomi Mikro",
+      "Ekonomi Terapan",
+      "Ekonomi Deskriptif",
+      "Ekonomi Publik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Makro berfokus pada isu skala nasional/global."
+  },
+  {
+    "id": "SMA_EK_12",
+    "pertanyaan": "Bapak Ilmu Ekonomi dunia yang menulis buku 'The Wealth of Nations' adalah...",
+    "opsi": [
+      "David Ricardo",
+      "Adam Smith",
+      "John Maynard Keynes",
+      "Karl Marx",
+      "Thomas Malthus"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Adam Smith mencetuskan teori pasar bebas (Laissez-faire)."
+  },
+  {
+    "id": "SMA_EK_13",
+    "pertanyaan": "Sistem ekonomi di mana pemerintah memiliki kendali penuh atas semua faktor produksi disebut...",
+    "opsi": [
+      "Sistem Ekonomi Pasar",
+      "Sistem Ekonomi Campuran",
+      "Sistem Ekonomi Komando / Terpusat",
+      "Sistem Ekonomi Tradisional",
+      "Sistem Ekonomi Liberal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dalam sistem komando, hak milik perorangan hampir tidak diakui."
+  },
+  {
+    "id": "SMA_EK_14",
+    "pertanyaan": "Keinginan yang didukung oleh daya beli (uang) disebut permintaan...",
+    "opsi": [
+      "Absolut",
+      "Potensial",
+      "Individu",
+      "Efektif",
+      "Pasar"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Permintaan efektif adalah permintaan yang benar-benar terealisasi dalam transaksi."
+  },
+  {
+    "id": "SMA_EK_15",
+    "pertanyaan": "Bursa Efek Indonesia (BEI) adalah tempat berkumpulnya penjual dan pembeli...",
+    "opsi": [
+      "Bahan pokok",
+      "Tenaga kerja",
+      "Valuta asing",
+      "Barang bekas",
+      "Surat berharga (saham/obligasi)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pasar modal memfasilitasi pendanaan jangka panjang bagi perusahaan."
+  },
+  {
+    "id": "SMA_EK_16",
+    "pertanyaan": "Nilai tukar mata uang satu negara terhadap mata uang negara lain disebut...",
+    "opsi": [
+      "Kurs",
+      "Kuarto",
+      "Kuintal",
+      "Kredit",
+      "Kupon"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kurs valuta asing berfluktuasi berdasarkan permintaan dan penawaran di pasar global."
+  },
+  {
+    "id": "SMA_EK_17",
+    "pertanyaan": "Kebijakan pemerintah untuk menurunkan nilai mata uang dalam negeri terhadap mata uang asing disebut...",
+    "opsi": [
+      "Revaluasi",
+      "Devaluasi",
+      "Apresiasi",
+      "Depresiasi",
+      "Inflasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Devaluasi biasanya bertujuan untuk meningkatkan volume ekspor."
+  },
+  {
+    "id": "SMA_EK_18",
+    "pertanyaan": "Perusahaan yang seluruh atau sebagian besar modalnya dimiliki oleh negara disebut...",
+    "opsi": [
+      "BUMS",
+      "Koperasi",
+      "BUMN",
+      "Firma",
+      "CV"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh BUMN di Indonesia: Pertamina, PLN, KAI."
+  },
+  {
+    "id": "SMA_EK_19",
+    "pertanyaan": "Asas utama yang mendasari berdirinya koperasi di Indonesia adalah...",
+    "opsi": [
+      "Asas Kapitalis",
+      "Asas Keuntungan",
+      "Asas Persaingan",
+      "Asas Kekeluargaan",
+      "Asas Monopoli"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sejalan dengan Pasal 33 UUD 1945. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Asas Kekeluargaan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_EK_20",
+    "pertanyaan": "Pajak merupakan iuran wajib warga negara kepada negara yang bersifat...",
+    "opsi": [
+      "Sukarela",
+      "Mendapat hadiah langsung",
+      "Hanya untuk PNS",
+      "Hanya untuk orang kaya",
+      "Dapat dipaksakan dan tidak mendapat imbalan langsung"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pajak digunakan untuk membiayai pengeluaran umum negara."
+  },
+  {
+    "id": "SMA_EK_21",
+    "pertanyaan": "Apa yang dimaksud dengan elastisitas harga?",
+    "opsi": [
+      "Derajat kepekaan perubahan jumlah barang saat harga berubah",
+      "Kecepatan barang basi",
+      "Kekuatan daya beli masyarakat",
+      "Jumlah total produksi",
+      "Harga emas dunia"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Membantu produsen memprediksi efek kenaikan harga terhadap pendapatan."
+  },
+  {
+    "id": "SMA_EK_22",
+    "pertanyaan": "Seseorang yang memiliki ide bisnis, berani mengambil risiko, dan mengelola usaha disebut...",
+    "opsi": [
+      "Karyawan",
+      "Wirausahawan (Entrepreneur)",
+      "Buruh",
+      "Pialang",
+      "Investor"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Wirausaha adalah penggerak ekonomi melalui inovasi."
+  },
+  {
+    "id": "SMA_EK_23",
+    "pertanyaan": "Timbangan neraca perdagangan dikatakan surplus jika...",
+    "opsi": [
+      "Impor lebih besar dari Ekspor",
+      "Ekspor sama dengan Impor",
+      "Ekspor lebih besar dari Impor",
+      "Tidak ada ekspor",
+      "Tidak ada impor"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Surplus perdagangan mendatangkan devisa bagi negara."
+  },
+  {
+    "id": "SMA_EK_24",
+    "pertanyaan": "Pengangguran yang terjadi karena adanya ketidakcocokan antara keterampilan pencari kerja dengan kebutuhan industri disebut pengangguran...",
+    "opsi": [
+      "Siklus",
+      "Friksional",
+      "Musiman",
+      "Struktural",
+      "Teknologi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Biasanya terjadi saat ada pergeseran struktur ekonomi dari agraris ke industri."
+  },
+  {
+    "id": "SMA_EK_25",
+    "pertanyaan": "Jumlah uang yang harus dikeluarkan untuk mendapatkan satu unit barang disebut...",
+    "opsi": [
+      "Nilai",
+      "Pasar",
+      "Modal",
+      "Biaya",
+      "Harga"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Harga adalah perwujudan nilai barang dalam satuan uang."
+  },
+  {
+    "id": "SMA_EK_26",
+    "pertanyaan": "Sumber daya modal dalam ekonomi dapat berupa...",
+    "opsi": [
+      "Mesin, peralatan, dan bangunan untuk produksi",
+      "Hanya uang tunai",
+      "Hanya emas",
+      "Hanya tenaga manusia",
+      "Semua jawaban salah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Modal adalah sarana yang digunakan untuk menghasilkan produk lain."
+  },
+  {
+    "id": "SMA_EK_27",
+    "pertanyaan": "Prinsip ekonomi adalah...",
+    "opsi": [
+      "Mengeluarkan uang sebanyak-banyaknya",
+      "Mendapat hasil maksimal dengan pengorbanan sekecil mungkin",
+      "Hanya membeli barang bermerk",
+      "Tidak mau bekerja",
+      "Mencari barang gratis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Prinsip ini menjadi dasar efisiensi dalam setiap tindakan ekonomi."
+  },
+  {
+    "id": "SMA_EK_28",
+    "pertanyaan": "Kegiatan distribusi bertujuan untuk...",
+    "opsi": [
+      "Menghasilkan barang",
+      "Menghabiskan nilai guna barang",
+      "Menyalurkan barang dari produsen ke konsumen",
+      "Membuat iklan",
+      "Mencetak uang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Distribusi menjamin ketersediaan barang di berbagai tempat."
+  },
+  {
+    "id": "SMA_EK_29",
+    "pertanyaan": "Salah satu contoh kebijakan fiskal adalah...",
+    "opsi": [
+      "Menaikkan suku bunga",
+      "Mencetak uang baru",
+      "Mengatur kurs rupiah",
+      "Menetapkan tarif pajak",
+      "Memberikan kredit"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kebijakan fiskal dikelola oleh pemerintah (Kemenkeu) melalui APBN."
+  },
+  {
+    "id": "SMA_EK_30",
+    "pertanyaan": "Tabungan masyarakat di bank masuk dalam komponen jumlah uang beredar dalam arti luas, yang disebut...",
+    "opsi": [
+      "M1",
+      "M3",
+      "Uang kartal",
+      "Uang barang",
+      "M2"
+    ],
+    "jawaban": 4,
+    "pembahasan": "M2 meliputi M1 (uang kartal + giral) ditambah uang kuasi (deposito/tabungan)."
+  },
+  {
+    "id": "SMA_EK_31",
+    "pertanyaan": "Perdagangan yang dilakukan oleh penduduk suatu negara dengan penduduk negara lain disebut...",
+    "opsi": [
+      "Perdagangan Internasional",
+      "Perdagangan Antarpulau",
+      "Perdagangan Tradisional",
+      "Perdagangan Regional",
+      "Perdagangan Lokal"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Melibatkan ekspor, impor, dan penggunaan devisa."
+  },
+  {
+    "id": "SMA_EK_32",
+    "pertanyaan": "Sikap 'Konsumtif' dalam ekonomi berarti...",
+    "opsi": [
+      "Suka menabung",
+      "Kecenderungan untuk belanja berlebihan melampaui kebutuhan",
+      "Suka berinvestasi",
+      "Gemar berdagang",
+      "Tertarik belajar ekonomi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Hidup konsumtif dapat mengganggu stabilitas keuangan pribadi."
+  },
+  {
+    "id": "SMA_EK_33",
+    "pertanyaan": "Alat pemuas kebutuhan yang jumlahnya terbatas dan butuh pengorbanan untuk mendapatkannya disebut barang...",
+    "opsi": [
+      "Bebas",
+      "Ilith",
+      "Ekonomi",
+      "Publik",
+      "Mewah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Barang ekonomi memiliki harga karena produksinya membutuhkan biaya."
+  },
+  {
+    "id": "SMA_EK_34",
+    "pertanyaan": "Air di laut bagi nelayan adalah contoh barang...",
+    "opsi": [
+      "Ekonomi",
+      "Langka",
+      "Produksi",
+      "Bebas",
+      "Komplementer"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Barang bebas tersedia melimpah di alam tanpa perlu pengorbanan besar."
+  },
+  {
+    "id": "SMA_EK_35",
+    "pertanyaan": "Jas hujan hanya berguna saat hujan. Ini adalah contoh kegunaan barang berdasarkan...",
+    "opsi": [
+      "Bentuk (Form utility)",
+      "Tempat (Place utility)",
+      "Milik (Ownership utility)",
+      "Unsur (Element utility)",
+      "Waktu (Time utility)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kegunaan barang meningkat pada waktu-waktu tertentu."
+  },
+  {
+    "id": "SMA_EK_36",
+    "pertanyaan": "Kenaikan harga barang secara umum dan terus-menerus disebut...",
+    "opsi": [
+      "Inflasi",
+      "Deflasi",
+      "Resesi",
+      "Depresi",
+      "Apresiasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Inflasi menurunkan daya beli mata uang. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Inflasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_EK_37",
+    "pertanyaan": "Bank yang memiliki fungsi sebagai 'Lender of last resort' adalah...",
+    "opsi": [
+      "Bank Mandiri",
+      "Bank Indonesia (Bank Sentral)",
+      "Bank BCA",
+      "Bank Dunia",
+      "Bank Syariah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "BI menjadi penolong terakhir bagi bank yang mengalami masalah likuiditas."
+  },
+  {
+    "id": "SMA_EK_38",
+    "pertanyaan": "Pembatasan jumlah barang impor yang masuk ke suatu negara disebut...",
+    "opsi": [
+      "Tarif",
+      "Larangan Impor",
+      "Kuota",
+      "Subsidi",
+      "Premi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kuota bertujuan melindungi produsen dalam negeri dari persaingan produk asing."
+  },
+  {
+    "id": "SMA_EK_39",
+    "pertanyaan": "Perusahaan yang dimiliki oleh dua orang atau lebih dengan nama bersama disebut...",
+    "opsi": [
+      "CV",
+      "PT",
+      "Perum",
+      "Firma",
+      "Koperasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Anggota firma bertanggung jawab secara renteng (semua bertanggung jawab)."
+  },
+  {
+    "id": "SMA_EK_40",
+    "pertanyaan": "Dalam akuntansi, persamaan dasar adalah...",
+    "opsi": [
+      "Utang = Harta + Modal",
+      "Laba = Pendapatan + Beban",
+      "Kas = Modal - Utang",
+      "Modal = Harta + Utang",
+      "Harta = Utang + Modal"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Prinsip keseimbangan antara sumber daya (harta) dan sumber dana."
+  },
+  {
+    "id": "SMA_EK_41",
+    "pertanyaan": "Alat pembayaran non-tunai yang berupa surat perintah pemindahbukuan dana disebut...",
+    "opsi": [
+      "Bilyet Giro",
+      "Uang kertas",
+      "Uang logam",
+      "Kartu Kredit",
+      "Bitcoin"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Giro tidak bisa dicairkan tunai, hanya bisa dipindahkan antar rekening."
+  },
+  {
+    "id": "SMA_EK_42",
+    "pertanyaan": "Apa itu kemiskinan relatif?",
+    "opsi": [
+      "Kemiskinan yang sangat parah sampai tidak bisa makan",
+      "Kemiskinan yang diukur berdasarkan perbandingan dengan masyarakat sekitar",
+      "Kemiskinan yang dibuat-buat",
+      "Kemiskinan yang hanya sementara",
+      "Kemiskinan karena malas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Seseorang dianggap miskin relatif jika pendapatannya jauh di bawah rata-rata lingkungannya."
+  },
+  {
+    "id": "SMA_EK_43",
+    "pertanyaan": "Kenaikan GDP suatu negara dari tahun ke tahun disebut...",
+    "opsi": [
+      "Pembangunan Ekonomi",
+      "Kemajuan Teknologi",
+      "Pertumbuhan Ekonomi",
+      "Stabilitas Ekonomi",
+      "Revolusi Industri"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pertumbuhan bersifat kuantitatif (fokus pada angka produksi)."
+  },
+  {
+    "id": "SMA_EK_44",
+    "pertanyaan": "Teori yang menyatakan perkembangan populasi manusia lebih cepat daripada produksi pangan adalah teori...",
+    "opsi": [
+      "David Ricardo",
+      "Karl Marx",
+      "John Locke",
+      "Thomas Robert Malthus",
+      "Aristoteles"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Populasi deret ukur, pangan deret hitung."
+  },
+  {
+    "id": "SMA_EK_45",
+    "pertanyaan": "Sisa Hasil Usaha (SHU) koperasi dibagikan kepada anggota berdasarkan...",
+    "opsi": [
+      "Besar kecilnya tabungan",
+      "Undian",
+      "Jabatan di koperasi",
+      "Lama menjadi anggota",
+      "Jasa usaha dan jasa modal anggota"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Menjunjung tinggi keadilan bagi anggota yang aktif bertransaksi di koperasi."
+  },
+  {
+    "id": "SMA_EK_46",
+    "pertanyaan": "Pasar yang memiliki baris hambatan masuk tinggi dan hanya dikuasai beberapa produsen besar disebut...",
+    "opsi": [
+      "Oligopoli",
+      "Monopoli",
+      "Monopolistik",
+      "Pasar Abstrak",
+      "Pasar Tradisional"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: Pasar provider telekomunikasi atau maskapai penerbangan."
+  },
+  {
+    "id": "SMA_EK_47",
+    "pertanyaan": "Emas sering digunakan sebagai standar cadangan devisa karena sifatnya yang...",
+    "opsi": [
+      "Ringan",
+      "Diterima secara internasional dan nilainya stabil (Safe Haven)",
+      "Mudah ditemukan",
+      "Murah harganya",
+      "Bisa dimakan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Emas menjaga nilai kekayaan negara dari gejolak inflasi global."
+  },
+  {
+    "id": "SMA_EK_48",
+    "pertanyaan": "Negara yang melakukan politik dumping berarti...",
+    "opsi": [
+      "Memberikan pajak tinggi untuk ekspor",
+      "Membatalkan seluruh impor",
+      "Menjual barang di luar negeri lebih murah daripada di dalam negeri",
+      "Membeli barang bekas dari luar negeri",
+      "Mencetak uang sebanyak-banyaknya"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dumping bertujuan untuk menguasai pangsa pasar internasional."
+  },
+  {
+    "id": "SMA_EK_49",
+    "pertanyaan": "Lembaga Kerja Sama Ekonomi Internasional yang berada di bawah naungan PBB adalah...",
+    "opsi": [
+      "ASEAN",
+      "APEC",
+      "G20",
+      "IMF (International Monetary Fund)",
+      "OPEC"
+    ],
+    "jawaban": 3,
+    "pembahasan": "IMF membantu stabilitas sistem keuangan global."
+  },
+  {
+    "id": "SMA_EK_50",
+    "pertanyaan": "Penerapan sistem ekonomi kerakyatan di Indonesia bertujuan untuk...",
+    "opsi": [
+      "Mensejahterakan segelintir orang kaya",
+      "Menjual kekayaan alam ke asing",
+      "Mengganti mata uang",
+      "Menghilangkan pajak",
+      "Menciptakan kemakmuran bagi seluruh rakyat sesuai pasal 33 UUD 1945"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ekonomi yang dikelola dengan semangat gotong-royong."
+  }
+]

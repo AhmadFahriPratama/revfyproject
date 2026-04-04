@@ -1,0 +1,368 @@
+{
+  "id": "fr-cpns-2024",
+  "tahun": 2024,
+  "mapel": "TIU, TWK, TKP",
+  "deskripsi": "Rekonstruksi FR CPNS 2024 berbasis pola soal TIU, TWK, dan TKP.",
+  "soal": [
+    {
+      "id": "fr24-tiu-01",
+      "subtes": "TIU",
+      "teks": "Premis 1: Semua mahasiswa Manajemen tekun membaca referensi. Premis 2: Beberapa mahasiswa yang tekun membaca referensi mendapat nilai tertinggi. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Sebagian mahasiswa Manajemen tidak tekun membaca referensi.",
+        "C": "Beberapa mahasiswa Manajemen pasti mendapat nilai tertinggi.",
+        "D": "Semua mahasiswa Manajemen mendapat nilai tertinggi.",
+        "E": "Semua yang mendapat nilai tertinggi adalah mahasiswa Manajemen."
+      },
+      "kunci": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Manajemen pasti mendapat nilai tertinggi. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia.",
+      "sumber": "Rekonstruksi pola TIU CPNS 2024"
+    },
+    {
+      "id": "fr24-tiu-02",
+      "subtes": "TIU",
+      "teks": "Deret angka 3, 7, 11, 15, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "15",
+        "B": "19",
+        "C": "23",
+        "D": "27",
+        "E": "17"
+      },
+      "kunci": "B",
+      "pembahasan": "Pola deret bertambah tetap 4 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 4 dari angka terakhir menjadi 19.",
+      "sumber": "Rekonstruksi pola TIU CPNS 2024"
+    },
+    {
+      "id": "fr24-tiu-03",
+      "subtes": "TIU",
+      "teks": "Analogi: arsitek : bangunan = editor : ...",
+      "opsi": {
+        "A": "agenda",
+        "B": "ruangan",
+        "C": "naskah",
+        "D": "catatan",
+        "E": "jadwal"
+      },
+      "kunci": "C",
+      "pembahasan": "arsitek berhubungan langsung dengan bangunan sebagai objek kerja utama. Hubungan setara terjadi antara editor dan naskah.",
+      "sumber": "Rekonstruksi pola TIU CPNS 2024"
+    },
+    {
+      "id": "fr24-tiu-04",
+      "subtes": "TIU",
+      "teks": "Jika y = 4x dan x = 15, nilai y adalah?",
+      "opsi": {
+        "A": "11",
+        "B": "56",
+        "C": "75",
+        "D": "60",
+        "E": "19"
+      },
+      "kunci": "D",
+      "pembahasan": "Substitusikan x = 15 ke persamaan y = 4x sehingga diperoleh y = 60.",
+      "sumber": "Rekonstruksi pola TIU CPNS 2024"
+    },
+    {
+      "id": "fr24-tiu-05",
+      "subtes": "TIU",
+      "teks": "Premis 1: Semua mahasiswa Arsitektur rutin mengikuti bimbingan. Premis 2: Beberapa mahasiswa yang rutin mengikuti bimbingan menjadi finalis lomba. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Semua yang menjadi finalis lomba adalah mahasiswa Arsitektur.",
+        "B": "Sebagian mahasiswa Arsitektur tidak rutin mengikuti bimbingan.",
+        "C": "Beberapa mahasiswa Arsitektur pasti menjadi finalis lomba.",
+        "D": "Semua mahasiswa Arsitektur menjadi finalis lomba.",
+        "E": "Tidak dapat ditarik kesimpulan pasti dari kedua premis."
+      },
+      "kunci": "E",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Arsitektur pasti menjadi finalis lomba. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia.",
+      "sumber": "Rekonstruksi pola TIU CPNS 2024"
+    },
+    {
+      "id": "fr24-tiu-06",
+      "subtes": "TIU",
+      "teks": "Deret angka 4, 9, 14, 19, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "24",
+        "B": "22",
+        "C": "19",
+        "D": "29",
+        "E": "34"
+      },
+      "kunci": "A",
+      "pembahasan": "Pola deret bertambah tetap 5 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 5 dari angka terakhir menjadi 24.",
+      "sumber": "Rekonstruksi pola TIU CPNS 2024"
+    },
+    {
+      "id": "fr24-tiu-07",
+      "subtes": "TIU",
+      "teks": "Analogi: hakim : putusan = analis : ...",
+      "opsi": {
+        "A": "agenda",
+        "B": "laporan",
+        "C": "ruangan",
+        "D": "catatan",
+        "E": "jadwal"
+      },
+      "kunci": "B",
+      "pembahasan": "hakim berhubungan langsung dengan putusan sebagai objek kerja utama. Hubungan setara terjadi antara analis dan laporan.",
+      "sumber": "Rekonstruksi pola TIU CPNS 2024"
+    },
+    {
+      "id": "fr24-tiu-08",
+      "subtes": "TIU",
+      "teks": "Jika y = 5x dan x = 18, nilai y adalah?",
+      "opsi": {
+        "A": "23",
+        "B": "13",
+        "C": "90",
+        "D": "85",
+        "E": "108"
+      },
+      "kunci": "C",
+      "pembahasan": "Substitusikan x = 18 ke persamaan y = 5x sehingga diperoleh y = 90.",
+      "sumber": "Rekonstruksi pola TIU CPNS 2024"
+    },
+    {
+      "id": "fr24-twk-01",
+      "subtes": "TWK",
+      "teks": "Amandemen UUD 1945 telah dilakukan sebanyak dalam materi pilar negara pada paket 05?",
+      "opsi": {
+        "A": "1 kali",
+        "B": "2 kali",
+        "C": "3 kali",
+        "D": "4 kali",
+        "E": "5 kali"
+      },
+      "kunci": "D",
+      "pembahasan": "Amandemen UUD 1945 dilakukan empat kali pada periode 1999-2002.",
+      "sumber": "Rekonstruksi pola TWK CPNS 2024"
+    },
+    {
+      "id": "fr24-twk-02",
+      "subtes": "TWK",
+      "teks": "Sila keempat Pancasila menekankan pada simulasi CAT pada paket 06?",
+      "opsi": {
+        "A": "Kebebasan mutlak individu",
+        "B": "Persaingan ekonomi",
+        "C": "Kekuasaan absolut",
+        "D": "Kesamaan profesi",
+        "E": "Musyawarah untuk mufakat"
+      },
+      "kunci": "E",
+      "pembahasan": "Sila keempat menekankan kerakyatan dan permusyawaratan.",
+      "sumber": "Rekonstruksi pola TWK CPNS 2024"
+    },
+    {
+      "id": "fr24-twk-03",
+      "subtes": "TWK",
+      "teks": "Bentuk negara Indonesia adalah dalam modul integrasi nasional pada paket 07?",
+      "opsi": {
+        "A": "Negara Kesatuan",
+        "B": "Konfederasi",
+        "C": "Monarki",
+        "D": "Protektorat",
+        "E": "Federasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Indonesia adalah Negara Kesatuan Republik Indonesia.",
+      "sumber": "Rekonstruksi pola TWK CPNS 2024"
+    },
+    {
+      "id": "fr24-twk-04",
+      "subtes": "TWK",
+      "teks": "Hak DPR untuk meminta keterangan kepada pemerintah disebut pada pembahasan kebangsaan pada paket 08?",
+      "opsi": {
+        "A": "Hak Imunitas",
+        "B": "Hak Interpelasi",
+        "C": "Hak Grasi",
+        "D": "Hak Angket",
+        "E": "Hak Budget"
+      },
+      "kunci": "B",
+      "pembahasan": "Hak interpelasi adalah hak DPR untuk meminta keterangan kepada pemerintah.",
+      "sumber": "Rekonstruksi pola TWK CPNS 2024"
+    },
+    {
+      "id": "fr24-twk-05",
+      "subtes": "TWK",
+      "teks": "Nilai yang menjiwai sila kedua Pancasila adalah dalam konteks sejarah nasional pada paket 09?",
+      "opsi": {
+        "A": "Kepentingan kelompok",
+        "B": "Kekuasaan mutlak",
+        "C": "Kemanusiaan yang adil dan beradab",
+        "D": "Persaingan bebas",
+        "E": "Kepatuhan tanpa kritik"
+      },
+      "kunci": "C",
+      "pembahasan": "Sila kedua menekankan penghormatan terhadap martabat manusia dan perlakuan yang adil.",
+      "sumber": "Rekonstruksi pola TWK CPNS 2024"
+    },
+    {
+      "id": "fr24-twk-06",
+      "subtes": "TWK",
+      "teks": "Lembaga yang berwenang menguji undang-undang terhadap UUD 1945 adalah pada topik bela negara pada paket 10?",
+      "opsi": {
+        "A": "Mahkamah Agung",
+        "B": "Komisi Yudisial",
+        "C": "DPR",
+        "D": "Mahkamah Konstitusi",
+        "E": "MPR"
+      },
+      "kunci": "D",
+      "pembahasan": "Mahkamah Konstitusi berwenang melakukan judicial review terhadap undang-undang.",
+      "sumber": "Rekonstruksi pola TWK CPNS 2024"
+    },
+    {
+      "id": "fr24-twk-07",
+      "subtes": "TWK",
+      "teks": "Arti penting persatuan dalam NKRI adalah dalam konteks konstitusi pada paket 11?",
+      "opsi": {
+        "A": "Menghapus semua perbedaan budaya",
+        "B": "Menolak seluruh budaya lokal",
+        "C": "Menyeragamkan semua pendapat",
+        "D": "Mengutamakan kelompok sendiri",
+        "E": "Menjaga keutuhan bangsa dalam keberagaman"
+      },
+      "kunci": "E",
+      "pembahasan": "Persatuan bertujuan menjaga keutuhan bangsa sambil tetap menghormati perbedaan.",
+      "sumber": "Rekonstruksi pola TWK CPNS 2024"
+    },
+    {
+      "id": "fr24-twk-08",
+      "subtes": "TWK",
+      "teks": "Tokoh yang dikenal sebagai Bapak Koperasi Indonesia adalah pada evaluasi wawasan kebangsaan pada paket 12?",
+      "opsi": {
+        "A": "Mohammad Hatta",
+        "B": "Soepomo",
+        "C": "Mohammad Yamin",
+        "D": "Sutan Sjahrir",
+        "E": "Soekarno"
+      },
+      "kunci": "A",
+      "pembahasan": "Mohammad Hatta dikenal sebagai Bapak Koperasi Indonesia karena gagasan dan perannya dalam ekonomi kerakyatan.",
+      "sumber": "Rekonstruksi pola TWK CPNS 2024"
+    },
+    {
+      "id": "fr24-tkp-01",
+      "subtes": "TKP",
+      "teks": "Anda mengetahui data layanan belum diperbarui padahal akan dipublikasikan saat tugas mendesak datang bersamaan pada skenario 05?",
+      "opsi": {
+        "A": "Tetap mempublikasikan agar cepat selesai",
+        "B": "Memeriksa ulang data dan melaporkan kondisi sebenarnya sebelum dipublikasikan",
+        "C": "Menghapus data lama tanpa verifikasi",
+        "D": "Diam agar tidak dianggap lambat",
+        "E": "Menyalahkan petugas sebelumnya"
+      },
+      "kunci": "B",
+      "pembahasan": "Integritas menuntut ketepatan data dan keberanian menyampaikan kondisi yang sebenarnya.",
+      "sumber": "Rekonstruksi pola TKP CPNS 2024"
+    },
+    {
+      "id": "fr24-tkp-02",
+      "subtes": "TKP",
+      "teks": "Masyarakat dari latar budaya berbeda datang ke kantor Anda di unit layanan publik pada skenario 06?",
+      "opsi": {
+        "A": "Membuat candaan tentang budaya mereka",
+        "B": "Menghindari komunikasi",
+        "C": "Memberi layanan yang sama dengan tetap menghormati latar belakang mereka",
+        "D": "Menyuruh orang lain menangani tanpa alasan",
+        "E": "Hanya melayani yang paling dikenal"
+      },
+      "kunci": "C",
+      "pembahasan": "Kepekaan sosial budaya dan kesetaraan layanan adalah nilai penting pada TKP.",
+      "sumber": "Rekonstruksi pola TKP CPNS 2024"
+    },
+    {
+      "id": "fr24-tkp-03",
+      "subtes": "TKP",
+      "teks": "Atasan meminta Anda membantu unit lain yang sedang kewalahan saat menangani warga pada skenario 07?",
+      "opsi": {
+        "A": "Membiarkan situasi memburuk",
+        "B": "Mengeluh di depan tim",
+        "C": "Menolak karena bukan unit Anda",
+        "D": "Mengatur prioritas pekerjaan lalu membantu tanpa mengabaikan tugas utama",
+        "E": "Menyalahkan unit lain"
+      },
+      "kunci": "D",
+      "pembahasan": "Respons terbaik menunjukkan kolaborasi, tanggung jawab, dan pengelolaan prioritas yang baik.",
+      "sumber": "Rekonstruksi pola TKP CPNS 2024"
+    },
+    {
+      "id": "fr24-tkp-04",
+      "subtes": "TKP",
+      "teks": "Sistem pelayanan mendadak berubah dan warga mulai kebingungan dalam koordinasi antarrekan pada skenario 08?",
+      "opsi": {
+        "A": "Menunda layanan sampai suasana sepi",
+        "B": "Menyuruh warga mencari tahu sendiri",
+        "C": "Menyalahkan pembuat kebijakan",
+        "D": "Menganggap keluhan warga berlebihan",
+        "E": "Menjelaskan perubahan dengan sabar dan membantu warga beradaptasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Pelayanan publik menuntut empati, komunikasi jelas, dan kesiapan membantu saat perubahan terjadi.",
+      "sumber": "Rekonstruksi pola TKP CPNS 2024"
+    },
+    {
+      "id": "fr24-tkp-05",
+      "subtes": "TKP",
+      "teks": "Anda sedang menyusun laporan, lalu warga datang mengajukan keluhan layanan di kantor pelayanan terpadu pada skenario 09?",
+      "opsi": {
+        "A": "Menghentikan sejenak pekerjaan dan melayani warga dengan ramah sesuai prosedur",
+        "B": "Menyuruh warga kembali besok",
+        "C": "Mengabaikan warga karena laporan lebih penting",
+        "D": "Memarahi warga karena datang tanpa janji",
+        "E": "Meminta warga menyelesaikan sendiri"
+      },
+      "kunci": "A",
+      "pembahasan": "Orientasi pelayanan publik menuntut respons ramah dan solusi yang tetap sesuai prosedur.",
+      "sumber": "Rekonstruksi pola TKP CPNS 2024"
+    },
+    {
+      "id": "fr24-tkp-06",
+      "subtes": "TKP",
+      "teks": "Rekan kerja melakukan kesalahan yang membuat tim ditegur atasan saat tugas mendesak datang bersamaan pada skenario 10?",
+      "opsi": {
+        "A": "Menyalahkan rekan di depan atasan",
+        "B": "Mengajak rekan berdiskusi mencari solusi dan mencegah kesalahan terulang",
+        "C": "Diam karena bukan kesalahan Anda",
+        "D": "Meminta pindah unit",
+        "E": "Menyebarkan kesalahannya ke grup kantor"
+      },
+      "kunci": "B",
+      "pembahasan": "TKP memberi nilai tinggi pada kerja sama, ketenangan, dan penyelesaian masalah.",
+      "sumber": "Rekonstruksi pola TKP CPNS 2024"
+    },
+    {
+      "id": "fr24-tkp-07",
+      "subtes": "TKP",
+      "teks": "Anda menerima tugas baru dengan aplikasi yang belum pernah digunakan di unit layanan publik pada skenario 11?",
+      "opsi": {
+        "A": "Menunggu tanpa berinisiatif",
+        "B": "Menyalahkan pimpinan",
+        "C": "Mempelajari aplikasi tersebut dan meminta arahan seperlunya agar pekerjaan tetap berjalan",
+        "D": "Menggunakan cara lama tanpa izin",
+        "E": "Menolak tugas itu"
+      },
+      "kunci": "C",
+      "pembahasan": "Adaptasi dan kemauan belajar adalah ciri penting profesionalisme ASN.",
+      "sumber": "Rekonstruksi pola TKP CPNS 2024"
+    },
+    {
+      "id": "fr24-tkp-08",
+      "subtes": "TKP",
+      "teks": "Dalam rapat tim, pendapat Anda berbeda dengan mayoritas saat menangani warga pada skenario 12?",
+      "opsi": {
+        "A": "Menyindir rekan yang berbeda pendapat",
+        "B": "Membiarkan rapat gagal",
+        "C": "Keluar dari rapat",
+        "D": "Menyampaikan alasan secara sopan lalu menerima keputusan bersama",
+        "E": "Memaksakan pendapat dengan keras"
+      },
+      "kunci": "D",
+      "pembahasan": "Pilihan terbaik menunjukkan komunikasi sehat dan penghargaan pada keputusan bersama.",
+      "sumber": "Rekonstruksi pola TKP CPNS 2024"
+    }
+  ]
+}

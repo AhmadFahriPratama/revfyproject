@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Farmasi",
+  "tingkatan": "SMK",
+  "jurusan": "Kesehatan / Farmasi",
+  "deskripsi": "Materi mengenai pengenalan obat-obatan, farmakologi dasar, teknik meracik obat (puyer, salep), administrasi farmasi, serta undang-undang kesehatan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Sejarah dan Konsep Dasar Farmasi",
+      "konten": "Pengertian farmasi, lambang farmasi (Bowl of Hygieia), sejarah pengobatan, serta peran dan tanggung jawab tenaga teknis kefarmasian (TTK) di apotek/RS.",
+      "tag": [
+        "kesehatan farmasi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Dasar-Dasar Farmakologi",
+      "konten": "Pengenalan jenis obat (bebas, bebas terbatas, keras, narkotika/psikotropika), rute pemberian obat (oral, topikal, injeksi), serta efek samping dan interaksi obat dasar.",
+      "tag": [
+        "kesehatan farmasi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Teknik Meracik Obat (Pulveres dan Salep)",
+      "konten": "Prosedur penimbangan bahan obat, teknik mencampur obat di dalam mortar-stempel, pembagian puyer (pulveres), serta pembuatan salep (unguentum) yang stabil.",
+      "tag": [
+        "kesehatan farmasi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Farmakognosi Dasar",
+      "konten": "Pengenalan simplisia (bahan alam) yang berasal dari tumbuh-tumbuhan, hewan, dan mineral yang memiliki khasiat obat. Contoh: Jahe, Kunyit, Kayu Manis.",
+      "tag": [
+        "kesehatan farmasi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Administrasi dan Pelayanan Apotek",
+      "konten": "Cara membaca resep dokter, perhitungan dosis obat bagi anak dan dewasa, pengelolaan stok obat (FIFO/FEFO), serta teknik pemberian informasi obat (PIO) kepada pasien.",
+      "tag": [
+        "kesehatan farmasi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kesehatan-farmasi-materi",
+  "mapel": "Dasar-Dasar Farmasi",
+  "tag": [
+    "kesehatan farmasi materi"
+  ]
+}

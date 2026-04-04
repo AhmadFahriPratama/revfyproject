@@ -1,0 +1,39 @@
+{
+  "id": "FR_SMP_EN_2025",
+  "mapel": "FR TKA SMP Bahasa Inggris",
+  "tingkat": "SMP",
+  "soal": [
+    {
+      "id": "FR_SMP_EN_01",
+      "pertanyaan": "FR 2025: In the TKA SMP exam, students reported a dialogue about 'Planning a birthday party'. The question asks for the 'Implied meaning' of one character's response. What should you focus on?",
+      "opsi": [
+        "Context and intonation markers (e.g., Wow!, Oops!)",
+        "Literal words only",
+        "The length of sentences",
+        "Grammar errors",
+        "The character's name"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Implication questions are a trend in 2025. You must understand the context beyond literal meaning.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    },
+    {
+      "id": "FR_SMP_EN_02",
+      "pertanyaan": "FR 2025: A short Narrative text about a clever mouse deer was given. The question asks for the 'Main Moral Lesson'. According to test-takers, the answer usually relates to...",
+      "opsi": [
+        "Being strong",
+        "Being clever/smart to solve problems",
+        "Running fast",
+        "Having many friends",
+        "Living in the jungle"
+      ],
+      "jawaban": "B",
+      "pembahasan": "Narrative moral lessons are common in TKA literacy sections.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    }
+  ],
+  "tahun": 2025,
+  "deskripsi": "Arsip rekonstruksi berdasarkan pola soal pada file tka2025_smp_bahasa_inggris.json."
+}

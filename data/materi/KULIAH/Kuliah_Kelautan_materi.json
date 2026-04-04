@@ -1,0 +1,53 @@
+{
+  "judul": "Ilmu Kelautan dan Perikanan Terpadu",
+  "tingkatan": "KULIAH",
+  "jurusan": "MIPA / Perikanan / Ilmu Kelautan",
+  "deskripsi": "Materi akademik tingkat universitas mengenai oceanografi fisis, kimia air laut, taksonomi biota laut, serta manajemen sumber daya pesisir berkelanjutan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Oceanografi Fisis dan Dinamika Laut",
+      "konten": "Sirkulasi arus laut global (Thermohaline), teori pasang surut, gelombang laut, transmisi suara di bawah air, serta interaksi laut-atmosfer (El Nino/La Nina).",
+      "tag": [
+        "kuliah kelautan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Oceanografi Kimia dan Kualitas Air",
+      "konten": "Komposisi kimia air laut (Salinitas, pH), siklus karbon di laut, pengasaman laut (Ocean Acidification), serta polusi nutrien dan logam berat di perairan.",
+      "tag": [
+        "kuliah kelautan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Biologi Laut dan Ekologi Pesisir",
+      "konten": "Klasifikasi biota laut (Plankton, Nekton, Bentos), ekosistem mangrove, terumbu karang (Coral Reef), padang lamun (Seagrass), serta rantai makanan laut.",
+      "tag": [
+        "kuliah kelautan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Manajemen Sumber Daya Perikanan",
+      "konten": "Estimasi stok ikan (Stock Assessment), Maximum Sustainable Yield (MSY), kebijakan penangkapan ikan terukur, serta hukum laut internasional (UNCLOS).",
+      "tag": [
+        "kuliah kelautan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Teknologi Kelautan dan Maritim",
+      "konten": "Aplikasi Remote Sensing (Citra Satelit) untuk pemetaan laut, teknologi akustik (Echosounder), konservasi kawasan perairan (MPA), serta mitigasi bencana pesisir.",
+      "tag": [
+        "kuliah kelautan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-kelautan-materi",
+  "mapel": "Ilmu Kelautan dan Perikanan Terpadu",
+  "tag": [
+    "kuliah kelautan materi"
+  ]
+}

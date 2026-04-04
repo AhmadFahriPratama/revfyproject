@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_BI_01",
+    "pertanyaan": "Teks yang berisi langkah-langkah sistematis untuk menggunakan sebuah mesin disebut...",
+    "opsi": [
+      "Teks Prosedur",
+      "Teks Deskripsi",
+      "Teks Narasi",
+      "Teks Eksposisi",
+      "Teks Eksplanasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Teks prosedur menjelaskan cara melakukan sesuatu melalui serangkaian tindakan."
+  },
+  {
+    "id": "TKA_SMK_BI_02",
+    "pertanyaan": "Kata hubung yang tepat untuk menyatakan hubungan sebab-akibat dalam kalimat adalah...",
+    "opsi": [
+      "Dan",
+      "Oleh karena itu",
+      "Atau",
+      "Tetapi",
+      "Bahwa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Oleh karena itu menunjukkan kesimpulan atau akibat dari peristiwa sebelumnya."
+  },
+  {
+    "id": "TKA_SMK_BI_03",
+    "pertanyaan": "Format surat lamaran pekerjaan yang baik harus mencantumkan hal berikut, kecuali...",
+    "opsi": [
+      "Alamat yang dituju",
+      "Salam pembuka",
+      "Daftar hobi makan",
+      "Pengalaman kerja / kualifikasi",
+      "Salam penutup"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hobi makan tidak relevan dalam konteks profesional surat lamaran."
+  },
+  {
+    "id": "TKA_SMK_BI_04",
+    "pertanyaan": "Dalam negosiasi, hasil yang diharapkan adalah 'win-win solution', artinya...",
+    "opsi": [
+      "Satu pihak menang mutlak",
+      "Kedua pihak tidak mendapatkan apa-apa",
+      "Salah satu pihak merasa dirugikan",
+      "Keputusan yang menguntungkan kedua belah pihak secara adil",
+      "Dibatalkannya perjanjian"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Negosiasi bertujuan mencapai kesepakatan yang memuaskan kedua pihak."
+  },
+  {
+    "id": "TKA_SMK_BI_05",
+    "pertanyaan": "Penggunaan bahasa dalam email bisnis kepada atasan sebaiknya bersifat...",
+    "opsi": [
+      "Slang (Bahasa Gaul)",
+      "Singkat dan tidak jelas",
+      "Puitis",
+      "Penuh teka-teki",
+      "Formal dan sopan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Komunikasi profesional menuntut bahasa standar yang hormat."
+  },
+  {
+    "id": "TKA_SMK_BI_06",
+    "pertanyaan": "Bagian CV yang berisi ringkasan singkat profil diri untuk menarik perhatian HRD disebut...",
+    "opsi": [
+      "Personal Summary / Profile",
+      "Portfolio",
+      "Hobi",
+      "Riwayat Pendidikan",
+      "Konten"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ringkasan profil membantu perekrut memahami kompetensi utama kandidat dengan cepat."
+  },
+  {
+    "id": "TKA_SMK_BI_07",
+    "pertanyaan": "Makna idiom 'Membanting tulang' adalah...",
+    "opsi": [
+      "Berkelahi",
+      "Bekerja keras",
+      "Patah tulang",
+      "Olahraga berat",
+      "Putus asa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Menunjukkan gigihnya seseorang dalam mencari nafkah."
+  },
+  {
+    "id": "TKA_SMK_BI_08",
+    "pertanyaan": "Kata serapan dari bahasa Inggris 'Management' yang baku adalah...",
+    "opsi": [
+      "Managemen",
+      "Manajement",
+      "Manajemen",
+      "Manajeman",
+      "Management"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sesuai KBBI adalah Manajemen. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Manajemen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BI_09",
+    "pertanyaan": "Kalimat yang menyatakan opini dalam artikel bisnis adalah...",
+    "opsi": [
+      "IHSG turun 0.5% hari ini.",
+      "Perusahaan itu berdiri tahun 1990.",
+      "Harga emas mencapai Rp1.000.000 per gram.",
+      "Menurut saya, inovasi adalah kunci sukses utama.",
+      "Laporan tahunan telah dipublikasi."
+    ],
+    "jawaban": 3,
+    "pembahasan": "Frasa 'Menurut saya' menunjukkan pandangan subjektif pengarang."
+  },
+  {
+    "id": "TKA_SMK_BI_10",
+    "pertanyaan": "Iklan lowongan kerja yang meminta pelamar datang langsung tanpa janji disebut...",
+    "opsi": [
+      "Interview",
+      "Workshop",
+      "Seminar",
+      "Webinar",
+      "Walk-in Interview"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Walk-in interview memudahkan rekrutmen massal secara cepat."
+  },
+  {
+    "id": "TKA_SMK_BI_11",
+    "pertanyaan": "Kalimat mana yang menggunakan ejaan (huruf kapital) secara tepat?",
+    "opsi": [
+      "Kita harus bangga sebagai bangsa Indonesia.",
+      "saya lahir di desa sukamaju.",
+      "Andi membeli Pisang Ambon.",
+      "Ibu pergi ke pasar Senin semalam.",
+      "Presiden jokowi sedang berpidato."
+    ],
+    "jawaban": 0,
+    "pembahasan": "Opsi D benar. Opsi B salah (p dan a kecil jika nama buah), Opsi C pasar (p kecil), E (j harus kapital)."
+  },
+  {
+    "id": "TKA_SMK_BI_12",
+    "pertanyaan": "Laporan hasil prakerin (praktik kerja industri) biasanya disusun secara...",
+    "opsi": [
+      "Fiktif",
+      "Sistematis dan Berdasarkan Fakta Lapangan",
+      "Subjektif",
+      "Singkat saja",
+      "Sesuka hati"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Laporan akademik harus mengikuti struktur yang ditentukan dan berbasis data nyata."
+  },
+  {
+    "id": "TKA_SMK_BI_13",
+    "pertanyaan": "Inti dari sebuah presentasi produk sebaiknya diletakkan pada bagian...",
+    "opsi": [
+      "Prolog",
+      "Orientasi",
+      "Inti / Pembahasan",
+      "Penutup",
+      "Koda"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Bagian inti menyampaikan USP (Unique Selling Point) produk."
+  },
+  {
+    "id": "TKA_SMK_BI_14",
+    "pertanyaan": "Sinonim dari kata 'Inovasi' adalah...",
+    "opsi": [
+      "Kemunduran",
+      "Stagnasi",
+      "Kuno",
+      "Kebaruan",
+      "Bosan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Inovasi berkaitan dengan penemuan hal baru yang lebih baik."
+  },
+  {
+    "id": "TKA_SMK_BI_15",
+    "pertanyaan": "Surat yang dikeluarkan oleh instansi untuk memanggil seseorang perihal pekerjaan disebut...",
+    "opsi": [
+      "Surat Undangan",
+      "Surat Cinta",
+      "Surat Kaleng",
+      "Surat Perjanjian",
+      "Surat Panggilan Kerja / Panggilan Wawancara"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Langkah lanjutan setelah seleksi berkas."
+  },
+  {
+    "id": "TKA_SMK_BI_16",
+    "pertanyaan": "Gaya bahasa 'Metafora' contohnya ada pada kalimat...",
+    "opsi": [
+      "Dia adalah bintang kelas.",
+      "Wajahnya sangat cantik.",
+      "Air laut menari-nari.",
+      "Sangat panas sekali di sini.",
+      "Dia berlari seperti kilat."
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bintang kelas adalah kiasan untuk murid tercerdas."
+  },
+  {
+    "id": "TKA_SMK_BI_17",
+    "pertanyaan": "Dokumen tertulis yang berisi rincian harga barang atau jasa yang ditawarkan kepada calon pembeli disebut...",
+    "opsi": [
+      "Nota",
+      "Quotation / Surat Penawaran Harga",
+      "Kuitansi",
+      "Faktur",
+      "Surat Jalan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Quotation digunakan dalam tahap negosiasi bisnis B2B."
+  },
+  {
+    "id": "TKA_SMK_BI_18",
+    "pertanyaan": "Penggunaan imbuhan 'me-kan' yang benar pada kata 'tunjuk' adalah...",
+    "opsi": [
+      "Menunjuk",
+      "Mempersatukan",
+      "Menunjukkan",
+      "Mentunjukkan",
+      "Mengtunjukkan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Menunjukkan (dobel 'n' karena kata dasar tunjuk + kan)."
+  },
+  {
+    "id": "TKA_SMK_BI_19",
+    "pertanyaan": "Paragraf yang merinci ciri-ciri fisik suatu benda atau ruangan disebut paragraf...",
+    "opsi": [
+      "Narasi",
+      "Eksposisi",
+      "Persuasi",
+      "Deskripsi",
+      "Argumentasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Deskripsi membuat pembaca seolah melihat atau merasakan objek."
+  },
+  {
+    "id": "TKA_SMK_BI_20",
+    "pertanyaan": "Dalam bahasa surat resmi, penulisan 'Yth Bapak Direktur' yang benar adalah...",
+    "opsi": [
+      "YTH BAPAK DIREKTUR",
+      "Yth, Bapak Direktur",
+      "Ke Bapak Direktur",
+      "Buat Bapak Direktur",
+      "Yth. Bapak Direktur"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Yth. (dengan titik) adalah singkatan Yang Terhormat."
+  },
+  {
+    "id": "TKA_SMK_BI_21",
+    "pertanyaan": "Antonim dari kata 'Efektif' adalah...",
+    "opsi": [
+      "Sia-sia / Tidak Berhasil Guna",
+      "Efisien",
+      "Cepat",
+      "Hebat",
+      "Berhasil"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Lawan kata efektif adalah tidak efektif atau sia-sia."
+  },
+  {
+    "id": "TKA_SMK_BI_22",
+    "pertanyaan": "Iklan yang dimuat di surat kabar dan hanya terdiri dari beberapa baris tulisan tanpa gambar disebut...",
+    "opsi": [
+      "Iklan Display",
+      "Iklan Baris",
+      "Iklan Advartorial",
+      "Iklan TV",
+      "Brosur"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Iklan baris sangat ekonomis dan terfokus pada info inti."
+  },
+  {
+    "id": "TKA_SMK_BI_23",
+    "pertanyaan": "Bagian surat yang berisi keterangan tempat dan tanggal surat dibuat disebut...",
+    "opsi": [
+      "Kepala Surat",
+      "Isi Surat",
+      "Titimangsa",
+      "Lampiran",
+      "Salam Penutup"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh: Jakarta, 25 Maret 2026. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Titimangsa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BI_24",
+    "pertanyaan": "Kalimat retoris adalah kalimat tanya yang...",
+    "opsi": [
+      "Butuh jawaban panjang",
+      "Sulit dijawab",
+      "Ditujukan untuk anak kecil",
+      "Tidak butuh jawaban karena sudah jelas",
+      "Palsu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Digunakan untuk penegasan atau menyindir."
+  },
+  {
+    "id": "TKA_SMK_BI_25",
+    "pertanyaan": "Unsur 5W+1H dalam jurnalistik, 'W' yang menanyakan sebab suatu peristiwa adalah...",
+    "opsi": [
+      "Who",
+      "Where",
+      "When",
+      "What",
+      "Why"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Why menanyakan alasan atau latar belakang kejadian."
+  },
+  {
+    "id": "TKA_SMK_BI_26",
+    "pertanyaan": "Teks yang menceritakan pengalaman lucu atau kritik sosial yang dibalut komedi disebut...",
+    "opsi": [
+      "Anekdot",
+      "Fabel",
+      "Legenda",
+      "Mitos",
+      "Novel"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Anekdot biasanya menyasar tokoh publik atau fenomena sosial."
+  },
+  {
+    "id": "TKA_SMK_BI_27",
+    "pertanyaan": "Singkatan 'cv' dalam konteks pekerjaan adalah...",
+    "opsi": [
+      "Command Center",
+      "Curriculum Vitae",
+      "Computer Vision",
+      "Commercial Vehicle",
+      "Core Value"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Daftar riwayat hidup. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Curriculum Vitae\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BI_28",
+    "pertanyaan": "Kalimat: 'Mohon maaf atas ketidakhadirannya'. Perbaikan kalimat tersebut yang benar adalah...",
+    "opsi": [
+      "Mohon maaf atas ketidakhadiran saya.",
+      "Mohon maaf karena saya tidak datang.",
+      "Opsi A dan D benar.",
+      "Maafin ya saya gak datang.",
+      "Ketidakhadiran saya mohon dimaafkan."
+    ],
+    "jawaban": 2,
+    "pembahasan": "Penggunaan '-nya' pada orang pertama tidak tepat."
+  },
+  {
+    "id": "TKA_SMK_BI_29",
+    "pertanyaan": "Istilah profesional untuk menceritakan keahlian yang dimiliki disebut...",
+    "opsi": [
+      "Hobi",
+      "Cita-cita",
+      "Curhat",
+      "Skill / Hard Skill & Soft Skill",
+      "Kritik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hard skill (kemampuan teknis), Soft skill (kepribadian/interaksi)."
+  },
+  {
+    "id": "TKA_SMK_BI_30",
+    "pertanyaan": "Memo biasanya digunakan untuk komunikasi di dalam...",
+    "opsi": [
+      "Antar negara",
+      "Antar keluarga",
+      "Media massa",
+      "Pasar",
+      "Internal organisasi / perusahaan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Memo bersifat instruksi atau info singkat antar departemen."
+  },
+  {
+    "id": "TKA_SMK_BI_31",
+    "pertanyaan": "Penggunaan tanda baca titik dua (:) yang tepat adalah...",
+    "opsi": [
+      "Nama: Andi Maulana",
+      "Ibu membeli buah: apel, mangga, dan duku.",
+      "Ayah berangkat: ke kantor.",
+      "Pagi ini: mendung.",
+      "Makan: roti."
+    ],
+    "jawaban": 0,
+    "pembahasan": "Titik dua digunakan sesudah urutan atau identitas dalam formulir."
+  },
+  {
+    "id": "TKA_SMK_BI_32",
+    "pertanyaan": "Dalam berdiskusi, sikap yang benar saat tidak setuju dengan pendapat orang lain adalah...",
+    "opsi": [
+      "Memotong pembicaraan dengan kasar",
+      "Mendengarkan sampai selesai, lalu menyampaikan keberatan dengan bahasa santun",
+      "Meninggalkan ruangan",
+      "Diam saja dan marah",
+      "Berteriak kencang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Etika diskusi mengutamakan objektivitas dan keramahtamahan."
+  },
+  {
+    "id": "TKA_SMK_BI_33",
+    "pertanyaan": "Iklan pengumuman tentang duka cita atau pernikahan termasuk jenis iklan...",
+    "opsi": [
+      "Komersial",
+      "Layanan Masyarakat",
+      "Keluarga / Non-komersial",
+      "Politik",
+      "Lowongan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Iklan keluarga berisi berita personal di media massa."
+  },
+  {
+    "id": "TKA_SMK_BI_34",
+    "pertanyaan": "Arti dari 'Deadline' dalam bahasa Indonesia yang baku adalah...",
+    "opsi": [
+      "Garis Mati",
+      "Waktu senggang",
+      "Akhir hayat",
+      "Tenggat Waktu",
+      "Jadwal"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Batas akhir pengumpulan atau penyelesaian tugas."
+  },
+  {
+    "id": "TKA_SMK_BI_35",
+    "pertanyaan": "Bahasa yang digunakan untuk merayu pembaca agar mau membeli produk adalah...",
+    "opsi": [
+      "Lugas",
+      "Instruktif",
+      "Naratif",
+      "Fiksi",
+      "Persuasif"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bahasa iklan harus persuasif dan menarik (catchy)."
+  },
+  {
+    "id": "TKA_SMK_BI_36",
+    "pertanyaan": "Teks biografi menceritakan tentang...",
+    "opsi": [
+      "Riwayat hidup seseorang yang ditulis oleh orang lain",
+      "Riwayat hidup yang ditulis sendiri",
+      "Kisah fiksi pahlawan",
+      "Cara membuat kue",
+      "Berita kriminal"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Jika ditulis sendiri disebut Autobiografi."
+  },
+  {
+    "id": "TKA_SMK_BI_37",
+    "pertanyaan": "Salah satu ciri kalimat efektif adalah kehematan kata, contohnya...",
+    "opsi": [
+      "Para siswa-siswa belajar di kelas.",
+      "Siswa belajar di kelas.",
+      "Semua siswa-siswi semuanya belajar di kelas.",
+      "Banyak sekali siswa yang sedang belajar di kelas.",
+      "Siswa yang sangat rajin sekali sedang belajar."
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sangat hemat dan strukturnya benar. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Siswa belajar di kelas.\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BI_38",
+    "pertanyaan": "Istilah 'Hoaks' berasal dari bahasa Inggris 'Hoax', artinya...",
+    "opsi": [
+      "Kebenaran mutlak",
+      "Berita menarik",
+      "Informasi palsu / bohong",
+      "Hasil riset",
+      "Iklan TV"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sirkulasi hoaks berbahaya bagi kondusivitas sosial."
+  },
+  {
+    "id": "TKA_SMK_BI_39",
+    "pertanyaan": "Tanda baca yang digunakan untuk memisahkan jam, menit, dan detik dalam penulisan waktu adalah...",
+    "opsi": [
+      "Koma (,)",
+      "Titik dua (:)",
+      "Sembunyikan",
+      "Titik (.)",
+      "Titik koma (;)"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sesuai PUEBI/EBI: Pukul 08.30.00 (bukan 08:30:00)."
+  },
+  {
+    "id": "TKA_SMK_BI_40",
+    "pertanyaan": "Proposal usaha yang diajukan ke investor harus memiliki bagian 'Analisis SWOT', singkatan dari...",
+    "opsi": [
+      "Smart, Work, Open, Task",
+      "Simple, Win, On, Time",
+      "Sale, White, Order, Team",
+      "Social, Web, Off, Tech",
+      "Strengths, Weaknesses, Opportunities, Threats"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Analisis SWOT memetakan kondisi internal dan eksternal bisnis."
+  },
+  {
+    "id": "TKA_SMK_BI_41",
+    "pertanyaan": "Kata hubung 'Sedangkan' digunakan untuk menyatakan...",
+    "opsi": [
+      "Perlawanan / Perbandingan",
+      "Sebab",
+      "Akibat",
+      "Tujuan",
+      "Urutan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: Budi suka bola, sedangkan Andi suka kasti."
+  },
+  {
+    "id": "TKA_SMK_BI_42",
+    "pertanyaan": "Surat resmi yang isinya meminta izin untuk meminjam gedung disebut...",
+    "opsi": [
+      "Surat Perintah",
+      "Surat Peminjaman",
+      "Surat Edaran",
+      "Surat Tugas",
+      "Surat Kuasa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biasanya dikirim oleh organisasi atau kepanitiaan."
+  },
+  {
+    "id": "TKA_SMK_BI_43",
+    "pertanyaan": "Ibu berkata kepada saya agar cepat pulang. Kalimat langsungnya adalah...",
+    "opsi": [
+      "Ibu bertanya, 'Kapan pulang?'",
+      "Ibu berteriak, 'Jangan pulang!'",
+      "Ibu berkata, 'Cepat pulang!'",
+      "'Kamu mau pulang?' tanya Ibu.",
+      "'Ayo pulang' kata Ayah."
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kalimat langsung menggunakan tanda petik dan mencatat ucapan persis."
+  },
+  {
+    "id": "TKA_SMK_BI_44",
+    "pertanyaan": "Penggunaan kosa kata 'SOP' dalam bidang kerja artinya...",
+    "opsi": [
+      "System Of Production",
+      "Social Organization Policy",
+      "Safety On Project",
+      "Standard Operating Procedure (Prosedur Operasi Standar)",
+      "Security Office Plan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pedoman kerja agar efisien dan aman. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Standard Operating Procedure (Prosedur Operasi Standar)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BI_45",
+    "pertanyaan": "Bagian novel yang menceritakan penurunan konflik menuju penyelesaian disebut...",
+    "opsi": [
+      "Orientasi",
+      "Komplikasi",
+      "Klimaks",
+      "Teks",
+      "Resolusi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Masalah mulai terurai dan menemukan jalan keluar."
+  },
+  {
+    "id": "TKA_SMK_BI_46",
+    "pertanyaan": "Istilah perniagaan: 'Cash on Delivery' disingkat...",
+    "opsi": [
+      "COD",
+      "PO",
+      "DO",
+      "PPN",
+      "PPH"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bayar di tempat saat barang sampai. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"COD\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BI_47",
+    "pertanyaan": "Paragraf yang merangkum keseluruhan isi tulisan dan diletakkan di akhir disebut...",
+    "opsi": [
+      "Pembuka",
+      "Penutup / Simpulan",
+      "Isi",
+      "Transisi",
+      "Iklan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Simpulan memberikan penegasan atas ide-ide yang telah dibahas."
+  },
+  {
+    "id": "TKA_SMK_BI_48",
+    "pertanyaan": "Pahlawan nasional yang membela hak pendidikan perempuan dan menulis surat 'Habis Gelap Terbitlah Terang' adalah...",
+    "opsi": [
+      "Cut Nyak Dien",
+      "Dewi Sartika",
+      "RA Kartini",
+      "Fatmawati",
+      "Syahrir"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Surat-suratnya dikumpulkan dalam buku monumental tersebut."
+  },
+  {
+    "id": "TKA_SMK_BI_49",
+    "pertanyaan": "Bahasa Indonesia ditetapkan sebagai bahasa persatuan pada peristiwa...",
+    "opsi": [
+      "Proklamasi Kemerdekaan",
+      "Sidang BPUPKI",
+      "Pertempuran Surabaya",
+      "Sumpah Pemuda (28 Oktober 1928)",
+      "Reformasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ujung dari tiga butir ikrar Sumpah Pemuda."
+  },
+  {
+    "id": "TKA_SMK_BI_50",
+    "pertanyaan": "Mengapa penguasaan Bahasa Indonesia sangat vital bagi lulusan SMK yang ingin bekerja?",
+    "opsi": [
+      "Supaya terlihat pintar",
+      "Agar lancar bergosip",
+      "Hanya untuk lulus ujian",
+      "Supaya bisa baca WhatsApp",
+      "Karena komunikasi adalah kunci koordinasi kerja, negosiasi bisnis, dan citra profesional di hadapan klien"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kompetensi berbahasa menentukan kualitas profesionalisme seseorang."
+  }
+]

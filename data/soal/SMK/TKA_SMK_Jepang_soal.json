@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_JP_01",
+    "pertanyaan": "Salam 'Selamat Pagi' dalam Bahasa Jepang adalah...",
+    "opsi": [
+      "Ohayou gozaimasu",
+      "Konnichiwa",
+      "Konbanwa",
+      "Oyasumi nasai",
+      "Sayounara"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Digunakan sampai sekitar jam 10-11 pagi."
+  },
+  {
+    "id": "TKA_SMK_JP_02",
+    "pertanyaan": "Huruf Jepang yang digunakan untuk menulis kata serapan dari bahasa asing (seperti 'Supa' / Supermarket) adalah...",
+    "opsi": [
+      "Hiragana",
+      "Katakana",
+      "Kanji",
+      "Romaji",
+      "Hangeul"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Katakana khusus untuk kata asing dan onomatopeia."
+  },
+  {
+    "id": "TKA_SMK_JP_03",
+    "pertanyaan": "Arti dari 'Watashi' (私) adalah...",
+    "opsi": [
+      "Kamu",
+      "Dia",
+      "Saya",
+      "Mereka",
+      "Kita"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Saya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_04",
+    "pertanyaan": "Partikel yang digunakan untuk menyatakan kepemilikan (misal: Tas saya) adalah...",
+    "opsi": [
+      "wa",
+      "ni",
+      "ga",
+      "no",
+      "o"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Watashi no kaban = Tas saya. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"no\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_05",
+    "pertanyaan": "Bilangan '100' dalam Bahasa Jepang disebut...",
+    "opsi": [
+      "Juu",
+      "Sen",
+      "Man",
+      "Ichi",
+      "Hyaku"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hyaku\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_06",
+    "pertanyaan": "Arti dari 'Arigatou gozaimasu' adalah...",
+    "opsi": [
+      "Terima kasih",
+      "Maaf",
+      "Halo",
+      "Selamat jalan",
+      "Tolong"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Terima kasih\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_07",
+    "pertanyaan": "Jika ingin menanyakan 'Jam berapa sekarang?', pertanyaannya adalah...",
+    "opsi": [
+      "Nan sai desu ka?",
+      "Ima nan-ji desu ka?",
+      "Nan-nin desu ka?",
+      "Doko desu ka?",
+      "Nan desu ka?"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ima nan-ji desu ka?\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_08",
+    "pertanyaan": "Kata kerja bentuk negatif (~tidak) berakhir dengan bunyi...",
+    "opsi": [
+      "~masu",
+      "~mashita",
+      "~masen",
+      "~mashidewa",
+      "~masende"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"~masen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_09",
+    "pertanyaan": "Arti dari 'Sensei' (先生) adalah...",
+    "opsi": [
+      "Siswa",
+      "Dokter saja",
+      "Teman",
+      "Guru / Dosen",
+      "Kepala Sekolah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Guru / Dosen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_10",
+    "pertanyaan": "Bahasa Jepang dari 'Makan' adalah...",
+    "opsi": [
+      "Nomimasu",
+      "Ikimasu",
+      "Kimasu",
+      "Mimasu",
+      "Tabemasu"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tabemasu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_11",
+    "pertanyaan": "Huruf Hiragana 'a' yang benar adalah...",
+    "opsi": [
+      "あ",
+      "い",
+      "う",
+      "え",
+      "お"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"あ\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_12",
+    "pertanyaan": "Partikel tanya dalam Bahasa Jepang diletakkan di akhir kalimat, yaitu...",
+    "opsi": [
+      "wa",
+      "ka",
+      "ga",
+      "ne",
+      "yo"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"ka\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_13",
+    "pertanyaan": "Bilangan '5.000' diucapkan...",
+    "opsi": [
+      "Go-juu",
+      "Go-hyaku",
+      "Go-sen",
+      "Go-man",
+      "Sen-go"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Go-sen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_14",
+    "pertanyaan": "Apa arti dari 'Itadakimasu' sebelum makan?",
+    "opsi": [
+      "Terima kasih makanannya (setelah makan)",
+      "Makanannya enak",
+      "Saya kenyang",
+      "Selamat makan / Saya terima makanannya",
+      "Cuci tangan yuk"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Selamat makan / Saya terima makanannya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_15",
+    "pertanyaan": "Hari 'Senin' disebut 'Getsuyoubi', yang dilambangkan dengan kanji...",
+    "opsi": [
+      "日",
+      "火",
+      "水",
+      "木",
+      "月"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kanji bulan (tsuki). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"月\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_16",
+    "pertanyaan": "Negara 'Jepang' dalam Bahasa Jepang disebut...",
+    "opsi": [
+      "Nihon / Nippon",
+      "Kankoku",
+      "Chuugoku",
+      "Indonesia",
+      "Amerika"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Nihon / Nippon\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_17",
+    "pertanyaan": "Kata tunjuk 'Kore' berarti...",
+    "opsi": [
+      "Itu (dekat lawan bicara)",
+      "Ini (dekat pembicara)",
+      "Itu (jauh dari keduanya)",
+      "Mana",
+      "Siapa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ini (dekat pembicara)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_18",
+    "pertanyaan": "Arti dari 'Gakksou' (学校) adalah...",
+    "opsi": [
+      "Rumah",
+      "Pasar",
+      "Sekolah",
+      "Stasiun",
+      "Pabrik"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sekolah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_19",
+    "pertanyaan": "Salam 'Selamat Malam' saat akan berpisah/tidur adalah...",
+    "opsi": [
+      "Konbanwa",
+      "Sayounara",
+      "Ittekimasu",
+      "Oyasumi nasai",
+      "Okaeri"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Oyasumi nasai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_20",
+    "pertanyaan": "Angka '4' bisa dibaca 'yon' atau...",
+    "opsi": [
+      "San",
+      "Go",
+      "Nana",
+      "Kyuu",
+      "Shi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Shi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_21",
+    "pertanyaan": "Pekerjaan 'Insinyur' dalam Katakana ditulis sbagai...",
+    "opsi": [
+      "Enjinia",
+      "Dokuta",
+      "Kaishain",
+      "Gakusei",
+      "Kashu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Enjinia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_22",
+    "pertanyaan": "Arti dari 'Sumimasen' adalah...",
+    "opsi": [
+      "Saya pergi",
+      "Permisi / Maaf",
+      "Sampai jumpa",
+      "Apa kabar",
+      "Selamat siang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Permisi / Maaf\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_23",
+    "pertanyaan": "Minuman 'Ocha' (お茶) dalam Bahasa Jepang adalah...",
+    "opsi": [
+      "Kopi",
+      "Susu",
+      "Teh Hijau",
+      "Air Mineral",
+      "Bir"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Teh Hijau\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_24",
+    "pertanyaan": "Kata kerja 'Mimasu' berarti...",
+    "opsi": [
+      "Mendengar",
+      "Membaca",
+      "Menulis",
+      "Melihat / Tonton",
+      "Berbicara"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Melihat / Tonton\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_25",
+    "pertanyaan": "Salam 'Selamat Datang' di toko/restoran adalah...",
+    "opsi": [
+      "Hajimemashite",
+      "Douzo",
+      "Ganbatte",
+      "Gomennasai",
+      "Irrashaimase"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Irrashaimase\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_26",
+    "pertanyaan": "Mata uang Jepang adalah...",
+    "opsi": [
+      "Yen",
+      "Yuan",
+      "Won",
+      "Rupiah",
+      "Dollar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Yen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_27",
+    "pertanyaan": "Jika ingin memperkenalkan diri, kalimat penutup yang sopan adalah...",
+    "opsi": [
+      "Arigatou",
+      "Douzo yoroshiku onegaishimasu",
+      "Shitsurei shimasu",
+      "Omedetou",
+      "Nan desu ka"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Artinya: Senang bertemu dengan Anda / Mohon bimbingannya."
+  },
+  {
+    "id": "TKA_SMK_JP_28",
+    "pertanyaan": "Penyebutan 'Kakak Perempuan sendiri' adalah...",
+    "opsi": [
+      "Ani",
+      "Oneesan",
+      "Ane",
+      "Otousan",
+      "Okaasan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Oneesan untuk orang lain atau panggilan langsung."
+  },
+  {
+    "id": "TKA_SMK_JP_29",
+    "pertanyaan": "Art dari 'Doko' (どこ) adalah...",
+    "opsi": [
+      "Siapa",
+      "Kapan",
+      "Bagaimana",
+      "Di mana",
+      "Mengapa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Di mana\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_30",
+    "pertanyaan": "Budaya membungkuk di Jepang disebut...",
+    "opsi": [
+      "Kimono",
+      "Tatami",
+      "Bento",
+      "Sashimi",
+      "Ojigi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ojigi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_31",
+    "pertanyaan": "Huruf Katakana 'ka' yang benar adalah...",
+    "opsi": [
+      "カ",
+      "キ",
+      "ク",
+      "ケ",
+      "コ"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"カ\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_32",
+    "pertanyaan": "Arti dari 'Hon' (本) adalah...",
+    "opsi": [
+      "Pensil",
+      "Buku",
+      "Kertas",
+      "Meja",
+      "Kursi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Buku\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_33",
+    "pertanyaan": "Bilangan '10.000' disebut...",
+    "opsi": [
+      "Ichi-sen",
+      "Ichi-hyaku",
+      "Ichi-man",
+      "Ju-man",
+      "Sen-sen"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Ichi-man\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_34",
+    "pertanyaan": "Kata ganti 'Kalian' dalam Bahasa Jepang adalah...",
+    "opsi": [
+      "Watashitachi",
+      "Karera",
+      "Kore",
+      "Anatatachi / Kimitachi",
+      "Sore"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Anatatachi / Kimitachi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_35",
+    "pertanyaan": "Partikel 'mo' berarti...",
+    "opsi": [
+      "Dan",
+      "Atau",
+      "Bukan",
+      "Hanya",
+      "Juga"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Juga\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_36",
+    "pertanyaan": "Sebutan untuk 'Ibu orang lain' secara formal adalah...",
+    "opsi": [
+      "Okaasan",
+      "Haha",
+      "Chichi",
+      "Otousan",
+      "Obaasan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Okaasan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_37",
+    "pertanyaan": "Arti dari 'Yasumi' adalah...",
+    "opsi": [
+      "Kerja",
+      "Libur / Istirahat",
+      "Belajar",
+      "Makan",
+      "Mandi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Libur / Istirahat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_38",
+    "pertanyaan": "Gunung paling terkenal di Jepang adalah...",
+    "opsi": [
+      "Everest",
+      "Semeru",
+      "Fuji",
+      "Batur",
+      "Kinabalu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Fuji\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_39",
+    "pertanyaan": "Makanan mentah berupa irisan ikan segar disebut...",
+    "opsi": [
+      "Sushi",
+      "Ramen",
+      "Takoyaki",
+      "Sashimi",
+      "Tempura"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sashimi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_40",
+    "pertanyaan": "Kota Ibu Kota Jepang saat ini adalah...",
+    "opsi": [
+      "Kyoto",
+      "Osaka",
+      "Hiroshima",
+      "Nara",
+      "Tokyo"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Tokyo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_41",
+    "pertanyaan": "Arti dari 'Hanashimasu' adalah...",
+    "opsi": [
+      "Berbicara",
+      "Mendengar",
+      "Menulis",
+      "Membaca",
+      "Menyanyi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Berbicara\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_42",
+    "pertanyaan": "Penggunaan Akhiran '~san' diletakkan setelah...",
+    "opsi": [
+      "Nama diri sendiri",
+      "Nama orang lain",
+      "Nama benda",
+      "Nama tempat",
+      "Nama hewan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penyebutan nama sendiri dengan ~san dianggap tidak sopan (sombong)."
+  },
+  {
+    "id": "TKA_SMK_JP_43",
+    "pertanyaan": "Kata tunjuk 'Asoko' berarti...",
+    "opsi": [
+      "Di sini",
+      "Di situ",
+      "Di sana (jauh)",
+      "Mana",
+      "Siapa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Di sana (jauh)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_44",
+    "pertanyaan": "Sapaan 'Moshi-moshi' digunakan saat...",
+    "opsi": [
+      "Bertemu langsung",
+      "Berpisah",
+      "Marah",
+      "Menelepon",
+      "Berdoa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menelepon\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_45",
+    "pertanyaan": "Arti dari 'Ikuradesu ka?' adalah...",
+    "opsi": [
+      "Berapa jumlahnya?",
+      "Siapa Anda?",
+      "Kapan datang?",
+      "Mau makan apa?",
+      "Berapa harganya?"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Berapa harganya?\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_46",
+    "pertanyaan": "Kata kerja bentuk lampau berakhir dengan...",
+    "opsi": [
+      "~mashita",
+      "~masen",
+      "~mashidewa",
+      "~desu",
+      "~da"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"~mashita\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_47",
+    "pertanyaan": "Pakaian tradisional Jepang disebut...",
+    "opsi": [
+      "Batik",
+      "Kimono",
+      "Hanbok",
+      "Sari",
+      "Cheongsam"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kimono\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_48",
+    "pertanyaan": "Arti dari 'Oishii' (美味しい) adalah...",
+    "opsi": [
+      "Cantik",
+      "Mahal",
+      "Enak / Lezat",
+      "Pedas",
+      "Pahit"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Enak / Lezat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_49",
+    "pertanyaan": "Angka 'Shi-juu go' adalah...",
+    "opsi": [
+      "15",
+      "54",
+      "405",
+      "45",
+      "504"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"45\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_JP_50",
+    "pertanyaan": "Mengapa penguasaan Bahasa Jepang penting bagi lulusan SMK?",
+    "opsi": [
+      "Biar bisa beli komik",
+      "Supaya jago karate",
+      "Hanya hobi",
+      "Tidak ada gunanya",
+      "Karena banyak perusahaan Jepang di Indonesia dan adanya program magang/bekerja di Jepang (SSW/Ginou Jisshuu)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Karena banyak perusahaan Jepang di Indonesia dan adanya program magang/bekerja di Jepang (SSW/Ginou Jisshuu)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

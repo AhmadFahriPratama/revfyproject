@@ -1,0 +1,26 @@
+{
+  "id": "study-pack-index",
+  "packs": [
+    {
+      "topic": "UTBK Literasi",
+      "assets": [
+        "materi/UTBK/utbk_materi_literasi_bahasa_indonesia.json",
+        "tryout/UTBK/utbk_section_literasi_v01.json"
+      ]
+    },
+    {
+      "topic": "CPNS TIU",
+      "assets": [
+        "soal/CPNS/cpns_tiu_latihan.json",
+        "tryout/CPNS/cpns_mini_drill_tiu_v01.json"
+      ]
+    },
+    {
+      "topic": "TKA SMP Wajib",
+      "assets": [
+        "fr_soal/TKA_SMP/tka2025_smp_wajib_rekonstruksi.json",
+        "tryout/TKA_SMP/tka_smp_wajib_tryout_v01.json"
+      ]
+    }
+  ]
+}

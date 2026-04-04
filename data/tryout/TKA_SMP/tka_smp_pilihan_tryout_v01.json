@@ -1,0 +1,527 @@
+{
+  "id": "tka_smp_pilihan_tryout-v01",
+  "judul": "Try Out TKA SMP Pilihan V01",
+  "durasiMenit": 40,
+  "soal": [
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-01",
+      "pertanyaan": "[IPA] Satuan SI untuk massa adalah...",
+      "opsi": {
+        "A": "Kilogram",
+        "B": "Gram",
+        "C": "Newton",
+        "D": "Pascal",
+        "E": "Meter"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kilogram\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-02",
+      "pertanyaan": "[IPA] Perubahan wujud dari gas menjadi cair disebut...",
+      "opsi": {
+        "A": "Mencair",
+        "B": "Mengembun",
+        "C": "Menyumblim",
+        "D": "Menguap",
+        "E": "Membeku"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Mengembun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-03",
+      "pertanyaan": "[IPA] Suhu tubuh normal manusia (37 C) sama dengan ... Kelvin.",
+      "opsi": {
+        "A": "273",
+        "B": "300",
+        "C": "310",
+        "D": "370",
+        "E": "100"
+      },
+      "jawaban": "C",
+      "pembahasan": "37 + 273 = 310 K. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"310\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-04",
+      "pertanyaan": "[IPA] Bagian sel yang berfungsi sebagai penghasil energi adalah...",
+      "opsi": {
+        "A": "Ribosom",
+        "B": "Lisosom",
+        "C": "Inti sel",
+        "D": "Mitokondria",
+        "E": "Vakuola"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Mitokondria\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-05",
+      "pertanyaan": "[IPA] Larutan yang memiliki pH < 7 disebut...",
+      "opsi": {
+        "A": "Basa",
+        "B": "Netral",
+        "C": "Garam",
+        "D": "Buffer",
+        "E": "Asam"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Asam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-06",
+      "pertanyaan": "[IPA] Gaya tarik-menarik antara molekul sejenis disebut...",
+      "opsi": {
+        "A": "Kohesi",
+        "B": "Adhesi",
+        "C": "Kapilaritas",
+        "D": "Gravitasi",
+        "E": "Magnet"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kohesi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-07",
+      "pertanyaan": "[IPA] Besaran yang dimensinya [L][T]^-1 adalah...",
+      "opsi": {
+        "A": "Gaya",
+        "B": "Kecepatan",
+        "C": "Percepatan",
+        "D": "Usaha",
+        "E": "Daya"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kecepatan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-08",
+      "pertanyaan": "[IPA] Peredaran darah dari jantung ke paru-paru lalu kembali ke jantung adalah...",
+      "opsi": {
+        "A": "Besar",
+        "B": "Terbuka",
+        "C": "Kecil",
+        "D": "Ganda",
+        "E": "Tunggal"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kecil\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-09",
+      "pertanyaan": "[IPA] Hubungan antara dua mahkluk hidup yang satu untung dan satu rugi adalah...",
+      "opsi": {
+        "A": "Mutualisme",
+        "B": "Komensalisme",
+        "C": "Amensalisme",
+        "D": "Parasitisme",
+        "E": "Karnivora"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Parasitisme\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-10",
+      "pertanyaan": "[IPA] Planet terdekat dari matahari adalah...",
+      "opsi": {
+        "A": "Venus",
+        "B": "Mars",
+        "C": "Bumi",
+        "D": "Jupiter",
+        "E": "Merkurius"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Merkurius\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-11",
+      "pertanyaan": "[IPA] Zat yang menyebabkan efek rumah kaca adalah...",
+      "opsi": {
+        "A": "Karbon Dioksida",
+        "B": "Oksigen",
+        "C": "Nitrogen",
+        "D": "Helium",
+        "E": "Argon"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Karbon Dioksida\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-12",
+      "pertanyaan": "[IPA] Alat pengukur tekanan udara adalah...",
+      "opsi": {
+        "A": "Termometer",
+        "B": "Barometer",
+        "C": "Higrometer",
+        "D": "Anemometer",
+        "E": "Manometer"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Barometer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-13",
+      "pertanyaan": "[IPA] Enzim amilase di mulut berfungsi mengubah amilum menjadi...",
+      "opsi": {
+        "A": "Protein",
+        "B": "Lemak",
+        "C": "Glukosa/Maltosa",
+        "D": "Pepton",
+        "E": "Asam amino"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Glukosa/Maltosa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-14",
+      "pertanyaan": "[IPA] Cermin yang bayangannya selalu tegak, maya, dan diperkecil adalah...",
+      "opsi": {
+        "A": "Datar",
+        "B": "Cekung",
+        "C": "Ganda",
+        "D": "Cembung",
+        "E": "Lensa"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Cembung\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-15",
+      "pertanyaan": "[IPA] Hukum Archimedes berkaitan dengan...",
+      "opsi": {
+        "A": "Bunyi",
+        "B": "Cahaya",
+        "C": "Listrik",
+        "D": "Magnet",
+        "E": "Gaya Angkat Zat Cair"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Gaya Angkat Zat Cair\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-16",
+      "pertanyaan": "[IPA] Organel sel yang hanya ada di tumbuhan adalah...",
+      "opsi": {
+        "A": "Kloroplas",
+        "B": "Sentriol",
+        "C": "Sitosol",
+        "D": "Membran sel",
+        "E": "Dinding sel"
+      },
+      "jawaban": "A",
+      "pembahasan": "Kloroplas untuk fotosintesis. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kloroplas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-17",
+      "pertanyaan": "[IPA] Pengangkutan air dari akar ke daun melalui pembuluh...",
+      "opsi": {
+        "A": "Floem",
+        "B": "Xilem",
+        "C": "Kambium",
+        "D": "Epidermis",
+        "E": "Korteks"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Xilem\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-18",
+      "pertanyaan": "[IPA] Bunyi yang frekuensinya di bawah 20 Hz disebut...",
+      "opsi": {
+        "A": "Audiosonik",
+        "B": "Ultrasonik",
+        "C": "Infrasonik",
+        "D": "Supersonik",
+        "E": "Ekolokasi"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Infrasonik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-19",
+      "pertanyaan": "[IPA] Hukum Newton II dirumuskan...",
+      "opsi": {
+        "A": "v = s/t",
+        "B": "W = F.s",
+        "C": "P = F/A",
+        "D": "F = m.a",
+        "E": "Ek = 1/2mv^2"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"F = m.a\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ipa-20",
+      "pertanyaan": "[IPA] Urutan sistem pencernaan manusia yang benar adalah...",
+      "opsi": {
+        "A": "Mulut-Lambung-Usus-Kerongkongan",
+        "B": "Mulut-Usus-Lambung",
+        "C": "Kerongkongan-Mulut-Lambung",
+        "D": "Lambung-Mulut-Usus",
+        "E": "Mulut-Kerongkongan-Lambung-Usus"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mulut-Kerongkongan-Lambung-Usus\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-01",
+      "pertanyaan": "[IPS] Secara astronomis, Indonesia terletak di antara...",
+      "opsi": {
+        "A": "6 LU-11 LS & 95 BT-141 BT",
+        "B": "11 LU-6 LS & 95 BT-141 BT",
+        "C": "6 LU-11 LS & 141 BT-95 BT",
+        "D": "0 LU-10 LS & 100 BT-150 BT",
+        "E": "5 LU-15 LS & 90 BT-140 BT"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"6 LU-11 LS & 95 BT-141 BT\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-02",
+      "pertanyaan": "[IPS] Angin yang menyebabkan musim hujan di Indonesia adalah...",
+      "opsi": {
+        "A": "Monsun Timur",
+        "B": "Monsun Barat",
+        "C": "Angin Passat",
+        "D": "Angin Darat",
+        "E": "Angin Lembah"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Monsun Barat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-03",
+      "pertanyaan": "[IPS] Benua terkecil di dunia adalah...",
+      "opsi": {
+        "A": "Asia",
+        "B": "Eropa",
+        "C": "Australia",
+        "D": "Antartika",
+        "E": "Afrika"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Australia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-04",
+      "pertanyaan": "[IPS] Garis yang membagi wilayah persebaran fauna Indonesia Barat dan Tengah adalah...",
+      "opsi": {
+        "A": "Garis Weber",
+        "B": "Garis Khatulistiwa",
+        "C": "Garis Lintang",
+        "D": "Garis Wallace",
+        "E": "Garis Bujur"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Garis Wallace\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-05",
+      "pertanyaan": "[IPS] Faktor utama penyebab konflik sosial adalah...",
+      "opsi": {
+        "A": "Persamaan kepentingan",
+        "B": "Integrasi sosial",
+        "C": "Kerjasama",
+        "D": "Simpati",
+        "E": "Perbedaan individu/budaya"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Perbedaan individu/budaya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-06",
+      "pertanyaan": "[IPS] Zaman batu besar disebut juga...",
+      "opsi": {
+        "A": "Megalitikum",
+        "B": "Paleolitikum",
+        "C": "Mesolitikum",
+        "D": "Neolitikum",
+        "E": "Logam"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Megalitikum\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-07",
+      "pertanyaan": "[IPS] Kerajaan Hindu tertua di Indonesia adalah...",
+      "opsi": {
+        "A": "Majapahit",
+        "B": "Kutai",
+        "C": "Tarumanegara",
+        "D": "Singasari",
+        "E": "Sriwijaya"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kutai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-08",
+      "pertanyaan": "[IPS] Peninggalan kerajaan Sriwijaya yang terkenal di Palembang adalah...",
+      "opsi": {
+        "A": "Candi Borobudur",
+        "B": "Candi Prambanan",
+        "C": "Prasasti Kedukan Bukit",
+        "D": "Candi Muara Takus",
+        "E": "Candi Penataran"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Prasasti Kedukan Bukit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-09",
+      "pertanyaan": "[IPS] Semboyan 'Bhinneka Tunggal Ika' terdapat di kitab...",
+      "opsi": {
+        "A": "Negarakertagama",
+        "B": "Arjuna Wiwaha",
+        "C": "Mahabharata",
+        "D": "Sutasoma",
+        "E": "Ramayana"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Sutasoma\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-10",
+      "pertanyaan": "[IPS] Prinsip ekonomi adalah...",
+      "opsi": {
+        "A": "Mendapat untung sebesar mungkin",
+        "B": "Menabung terus menerus",
+        "C": "Membeli barang mewah",
+        "D": "Bekerja tanpa batas",
+        "E": "Pengorbanan tertentu untuk hasil maksimal"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pengorbanan tertentu untuk hasil maksimal\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-11",
+      "pertanyaan": "[IPS] Mata uang resmi Indonesia adalah...",
+      "opsi": {
+        "A": "Rupiah",
+        "B": "Dollar",
+        "C": "Ringgit",
+        "D": "Yen",
+        "E": "Euro"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rupiah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-12",
+      "pertanyaan": "[IPS] Kebutuhan yang harus dipenuhi untuk mempertahankan hidup disebut...",
+      "opsi": {
+        "A": "Sekunder",
+        "B": "Primer",
+        "C": "Tersier",
+        "D": "Individu",
+        "E": "Sekelompok"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Primer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-13",
+      "pertanyaan": "[IPS] Kegiatan menyalurkan barang dari produsen ke konsumen disebut...",
+      "opsi": {
+        "A": "Produksi",
+        "B": "Konsumsi",
+        "C": "Distribusi",
+        "D": "Promosi",
+        "E": "Investasi"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Distribusi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-14",
+      "pertanyaan": "[IPS] Orang yang melakukan kegiatan konsumsi disebut...",
+      "opsi": {
+        "A": "Produsen",
+        "B": "Distributor",
+        "C": "Investor",
+        "D": "Konsumen",
+        "E": "Karyawan"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Konsumen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-15",
+      "pertanyaan": "[IPS] Pihak yang memimpin pelayaran pertama Spanyol ke dunia timur adalah...",
+      "opsi": {
+        "A": "Vasco da Gama",
+        "B": "Magelhaens",
+        "C": "Cornelis de Houtman",
+        "D": "Erasmus",
+        "E": "Christopher Columbus"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Christopher Columbus\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-16",
+      "pertanyaan": "[IPS] Sistem tanam paksa (Cultuurstelsel) dicetuskan oleh...",
+      "opsi": {
+        "A": "Van den Bosch",
+        "B": "Daendels",
+        "C": "Raffles",
+        "D": "Jan Pieterszoon Coen",
+        "E": "Speelman"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Van den Bosch\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-17",
+      "pertanyaan": "[IPS] Organisasi pergerakan nasional pertama di Indonesia adalah...",
+      "opsi": {
+        "A": "Sarekat Islam",
+        "B": "Budi Utomo",
+        "C": "Indische Partij",
+        "D": "PNI",
+        "E": "Muhammadiyah"
+      },
+      "jawaban": "B",
+      "pembahasan": "20 Mei 1908. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Budi Utomo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-18",
+      "pertanyaan": "[IPS] Teks proklamasi dirumuskan di rumah...",
+      "opsi": {
+        "A": "Ir. Soekarno",
+        "B": "Drs. Moh. Hatta",
+        "C": "Laksamana Maeda",
+        "D": "Ahmad Subardjo",
+        "E": "Sayuti Melik"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Laksamana Maeda\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-19",
+      "pertanyaan": "[IPS] Lembaga sosial yang terkecil adalah...",
+      "opsi": {
+        "A": "Sekolah",
+        "B": "Agama",
+        "C": "Politik",
+        "D": "Keluarga",
+        "E": "Ekonomi"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Keluarga\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_pilihan_tryout-v01-ips-20",
+      "pertanyaan": "[IPS] Perpindahan penduduk dari desa ke kota disebut...",
+      "opsi": {
+        "A": "Transmigrasi",
+        "B": "Emigrasi",
+        "C": "Imigrasi",
+        "D": "Remigrasi",
+        "E": "Urbanisasi"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Urbanisasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    }
+  ]
+}

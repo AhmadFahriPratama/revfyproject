@@ -1,0 +1,26 @@
+{
+  "id": "materi-smp-kls9-ips",
+  "tingkat": "SMP Kelas 9",
+  "mapel": "IPS",
+  "materi": "Benua Dunia, Globalisasi, Perdagangan Bebas Internasional, Sejarah Pasca Kemerdekaan",
+  "deskripsi": "IPS Kelas 9 mengajak siswa menelaah interaksi ruang di lima benua, dinamika sosial gempuran globalisasi, ekonomi dunia bebas, masa kemerdekaan sampai orde reformasi.",
+  "konten": [
+    {
+      "bab": "1. Interaksi Antarnegara Asia dan Benua Lainnya",
+      "teks": "Letak dan luas 5 benua (Asia, Amerika, Eropa, Afrika, Australia). Potensi SDA tiap region, dinamika populasi penduduk, dan efek interaksi perdagangan antarbenua."
+    },
+    {
+      "bab": "2. Perubahan Sosial Budaya dan Globalisasi",
+      "teks": "Menganalisis modernisasi dan globalisasi dibidang (IPTEK, transportasi, budaya). Faktor penghambat, pendorong, serta sikap kritis menghadapi westernisasi."
+    },
+    {
+      "bab": "3. Ketergantungan Antarruang serta Pengaruhnya",
+      "teks": "Konsep perdagangan internasional (ekspor impor, devisa). Pengembangan ekonomi Kreatif dng keunggulan wilayah. Dampak pasar bebas AFTA, MEA, WTO dll."
+    },
+    {
+      "bab": "4. Indonesia dari Masa Kemerdekaan hingga Masa Reformasi",
+      "teks": "Detik-detik proklamasi 1945, perjuangan agresi militer, Demokrasi Parlementer, Demokrasi Terpimpin, runtuhnya Orde Baru oleh mahasiswa, jalannya orde Reformasi masa kini."
+    }
+  ],
+  "tag": ["smp-9", "ips", "benua", "globalisasi", "ekonomi-internasional", "sejarah-kemerdekaan"]
+}

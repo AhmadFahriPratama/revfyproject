@@ -1,0 +1,708 @@
+{
+  "id": "smp-7-prakarya",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "Prakarya",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-7-prakarya-01",
+      "teks": "Bahan serat alam dari tumbuhan yang dapat diolah menjadi kerajinan tas punden/keranjang hasil anyaman dan batangnya mengapung di rawa adalah... (Latihan #1)",
+      "opsi": {
+        "A": "Eceng gondok",
+        "B": "Daun pandan",
+        "C": "Sabut kelapa",
+        "D": "Rami",
+        "E": "Sisal"
+      },
+      "kunci": "A",
+      "pembahasan": "Eceng gondok merupakan gulma air berbonggol mengapung. Batangnya dapat dikeringkan dan dianyam memiliki nilai ekonomi.",
+      "trik": "Tumbuhan gulma air yang sering dianyam = Eceng gondok."
+    },
+    {
+      "id": "smp-7-prakarya-02",
+      "teks": "Teknik pengolahan kerajinan serat kelapa (sabut/cocopeat) menjadi tali temali dikerjakan dengan metode... (Latihan #2)",
+      "opsi": {
+        "A": "Pahat",
+        "B": "Pintal / Gulung pilin",
+        "C": "Ukir",
+        "D": "Tempa",
+        "E": "Cor (Casting)"
+      },
+      "kunci": "B",
+      "pembahasan": "Sabut kelapa yang berserabut diproses dirajut/dipilin, dipintal panjang sehingga membentuk untaian tambang atau tali.",
+      "trik": "Membuat serat jadi benang atau tali = Pintal (spinning/pilin)."
+    },
+    {
+      "id": "smp-7-prakarya-03",
+      "teks": "Struktur atau kerangka dasar dalam pembuatan miniatur bangunan yang bertujuan menopang jembatan di bagian bawah disebut... (Latihan #3)",
+      "opsi": {
+        "A": "Atap",
+        "B": "Balkon luar",
+        "C": "Tiang pilar/Pondasi pylon",
+        "D": "Ornamen hias",
+        "E": "Plafon"
+      },
+      "kunci": "C",
+      "pembahasan": "Pondasi tiang beton atau pylon (pada bridge/jembatan) memegang struktur atas jembatan agar stabil dan tak runtuh beban.",
+      "trik": "Dudukan terbawah jembatan = Pilar/Pondasi."
+    },
+    {
+      "id": "smp-7-prakarya-04",
+      "teks": "Tahapan perencanaan yang krusial sebelum melakukan konstruksi (seperti membuat miniatur dari stik es krim) adalah... (Latihan #4)",
+      "opsi": {
+        "A": "Mengecat bahan langsung",
+        "B": "Mengkalkulasi harga di pasar",
+        "C": "Menguji daya patah setiap stik es krim",
+        "D": "Pembuatan sketsa atau desain pola gambar",
+        "E": "Penyerahan hasil karya"
+      },
+      "kunci": "D",
+      "pembahasan": "Pra-konstruksi utamanya berurusan dng desain awal dan sketsa untuk menghindari kesalahan menyambung.",
+      "trik": "Sebelum praktek bikin = Selaku harus punya Desain/Rancangan/Sketsa (Mewujudkan idea)."
+    },
+    {
+      "id": "smp-7-prakarya-05",
+      "teks": "Berikut media tanam yang tidak menggunakan tanah (hidroponik) untuk budi daya sayur selada atau sawi, KECUALI... (Latihan #5)",
+      "opsi": {
+        "A": "Rockwool",
+        "B": "Cocopeat (serbuk kelapa)",
+        "C": "Spons (Busa)",
+        "D": "Sekam bakar arang",
+        "E": "Tanah liat lempung"
+      },
+      "kunci": "E",
+      "pembahasan": "Hidro (air) ponik (kerja), metode menanam dng nutrisi air tanpa medium tanah (soil-less). Tanah hat dpt menumpuk genangan lumpur basah.",
+      "trik": "Kecuali Media NON hidroponik -> Maka pastilah Tanah Biasa/Liat."
+    },
+    {
+      "id": "smp-7-prakarya-06",
+      "teks": "Hasil budi daya sayuran di dataran tinggi pegunungan beriklim sejuk sering dikembangkan tanaman berupa... (Latihan #6)",
+      "opsi": {
+        "A": "Kol, wortel, dan kentang",
+        "B": "Kelapa pandan wangi",
+        "C": "Mangrrove / Bakau",
+        "D": "Kaktus",
+        "E": "Melon tropis dataran rendah"
+      },
+      "kunci": "A",
+      "pembahasan": "Dataran tinggi pegunungan (sejuk/dingin) adalah daerah kultivar sayuran sub-tropis sayur daun tebal dan umbi-umbian (kentang, gubis/kol, wortel).",
+      "trik": "Dingin sayur populer -> Kentang, Kol, Wortel."
+    },
+    {
+      "id": "smp-7-prakarya-07",
+      "teks": "Perbedaan jus buah murni dengan smoothies terletak pada... (Latihan #7)",
+      "opsi": {
+        "A": "Smoothies selalu disajikan suhu mendidih",
+        "B": "Jus disaring ampasnya sedangkan smoothies dicampur susu/yogurt beserta bulir tekstur pekat.",
+        "C": "Jus tidak boleh memakai buah air banyak",
+        "D": "Smoothies hanya terbuat dari coklat manis",
+        "E": "Jus perlu difermentasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Jus/sari buah berbentuk encer (sering disaring), sementara smoothies di-blend kental beserta yogurt atau es tanpa menyisihkan tekstur serat.",
+      "trik": "Smooth(ies) = kental, halus ber-volume susu/yogurt."
+    },
+    {
+      "id": "smp-7-prakarya-08",
+      "teks": "Kandungan paling mendominasi yang membuat buah segar (seperti jeruk, jambu, mangga) baik sebagai peningkatan imun imunitas karena vitamin ... (Latihan #8)",
+      "opsi": {
+        "A": "D",
+        "B": "E",
+        "C": "C",
+        "D": "B12",
+        "E": "K"
+      },
+      "kunci": "C",
+      "pembahasan": "Banyak buah-buahan tropika (jeruk, jambu biji) mengandung persentase Vitamin C tinggi untuk anti-oksidan/imun.",
+      "trik": "Jeruk/Asam = Vitamin C / Asam askorbat."
+    },
+    {
+      "id": "smp-7-prakarya-09",
+      "teks": "Alat potong dapur utama untuk mengupas dan mengiris bahan buah atau sayur disebut... (Latihan #9)",
+      "opsi": {
+        "A": "Mangkuk mixer",
+        "B": "Telenan",
+        "C": "Panci dadar",
+        "D": "Pisau/Peeler tangan",
+        "E": "Spatula besi"
+      },
+      "kunci": "D",
+      "pembahasan": "Pengupas kulit luar biasa disebut (Peeler) dan alat bedah inti buah paling dasar adalah pisau.",
+      "trik": "Alat potong/kupas."
+    },
+    {
+      "id": "smp-7-prakarya-10",
+      "teks": "Pengemasan karya kerajinan atau hasil masakan, fungsi KEDUA selain untuk melindungi melindungi produk (proteksi) adalah untuk... (Latihan #10)",
+      "opsi": {
+        "A": "Membuat produk membusuk cepat",
+        "B": "Menambah beban berat timbangan kargo",
+        "C": "Mempersulit pembuangan pada tong sampah",
+        "D": "Sengaja disembunyikan isinya",
+        "E": "Meningkatkan daya tarik nilai jual estetika (promosi)"
+      },
+      "kunci": "E",
+      "pembahasan": "Bungkusan/packaging memiliki 2 fungsi dwi-ganda. Primer (penahan benturan debu). Sekunder (Daya tarik mata pelanggan/marketing).",
+      "trik": "Bungkus bagus = Laku."
+    },
+    {
+      "id": "smp-7-prakarya-11",
+      "teks": "Bahan serat alam dari tumbuhan yang dapat diolah menjadi kerajinan tas punden/keranjang hasil anyaman dan batangnya mengapung di rawa adalah... (Latihan #11)",
+      "opsi": {
+        "A": "Eceng gondok",
+        "B": "Daun pandan",
+        "C": "Sabut kelapa",
+        "D": "Rami",
+        "E": "Sisal"
+      },
+      "kunci": "A",
+      "pembahasan": "Eceng gondok merupakan gulma air berbonggol mengapung. Batangnya dapat dikeringkan dan dianyam memiliki nilai ekonomi.",
+      "trik": "Tumbuhan gulma air yang sering dianyam = Eceng gondok."
+    },
+    {
+      "id": "smp-7-prakarya-12",
+      "teks": "Teknik pengolahan kerajinan serat kelapa (sabut/cocopeat) menjadi tali temali dikerjakan dengan metode... (Latihan #12)",
+      "opsi": {
+        "A": "Pahat",
+        "B": "Pintal / Gulung pilin",
+        "C": "Ukir",
+        "D": "Tempa",
+        "E": "Cor (Casting)"
+      },
+      "kunci": "B",
+      "pembahasan": "Sabut kelapa yang berserabut diproses dirajut/dipilin, dipintal panjang sehingga membentuk untaian tambang atau tali.",
+      "trik": "Membuat serat jadi benang atau tali = Pintal (spinning/pilin)."
+    },
+    {
+      "id": "smp-7-prakarya-13",
+      "teks": "Struktur atau kerangka dasar dalam pembuatan miniatur bangunan yang bertujuan menopang jembatan di bagian bawah disebut... (Latihan #13)",
+      "opsi": {
+        "A": "Atap",
+        "B": "Balkon luar",
+        "C": "Tiang pilar/Pondasi pylon",
+        "D": "Ornamen hias",
+        "E": "Plafon"
+      },
+      "kunci": "C",
+      "pembahasan": "Pondasi tiang beton atau pylon (pada bridge/jembatan) memegang struktur atas jembatan agar stabil dan tak runtuh beban.",
+      "trik": "Dudukan terbawah jembatan = Pilar/Pondasi."
+    },
+    {
+      "id": "smp-7-prakarya-14",
+      "teks": "Tahapan perencanaan yang krusial sebelum melakukan konstruksi (seperti membuat miniatur dari stik es krim) adalah... (Latihan #14)",
+      "opsi": {
+        "A": "Mengecat bahan langsung",
+        "B": "Mengkalkulasi harga di pasar",
+        "C": "Menguji daya patah setiap stik es krim",
+        "D": "Pembuatan sketsa atau desain pola gambar",
+        "E": "Penyerahan hasil karya"
+      },
+      "kunci": "D",
+      "pembahasan": "Pra-konstruksi utamanya berurusan dng desain awal dan sketsa untuk menghindari kesalahan menyambung.",
+      "trik": "Sebelum praktek bikin = Selaku harus punya Desain/Rancangan/Sketsa (Mewujudkan idea)."
+    },
+    {
+      "id": "smp-7-prakarya-15",
+      "teks": "Berikut media tanam yang tidak menggunakan tanah (hidroponik) untuk budi daya sayur selada atau sawi, KECUALI... (Latihan #15)",
+      "opsi": {
+        "A": "Rockwool",
+        "B": "Cocopeat (serbuk kelapa)",
+        "C": "Spons (Busa)",
+        "D": "Sekam bakar arang",
+        "E": "Tanah liat lempung"
+      },
+      "kunci": "E",
+      "pembahasan": "Hidro (air) ponik (kerja), metode menanam dng nutrisi air tanpa medium tanah (soil-less). Tanah hat dpt menumpuk genangan lumpur basah.",
+      "trik": "Kecuali Media NON hidroponik -> Maka pastilah Tanah Biasa/Liat."
+    },
+    {
+      "id": "smp-7-prakarya-16",
+      "teks": "Hasil budi daya sayuran di dataran tinggi pegunungan beriklim sejuk sering dikembangkan tanaman berupa... (Latihan #16)",
+      "opsi": {
+        "A": "Kol, wortel, dan kentang",
+        "B": "Kelapa pandan wangi",
+        "C": "Mangrrove / Bakau",
+        "D": "Kaktus",
+        "E": "Melon tropis dataran rendah"
+      },
+      "kunci": "A",
+      "pembahasan": "Dataran tinggi pegunungan (sejuk/dingin) adalah daerah kultivar sayuran sub-tropis sayur daun tebal dan umbi-umbian (kentang, gubis/kol, wortel).",
+      "trik": "Dingin sayur populer -> Kentang, Kol, Wortel."
+    },
+    {
+      "id": "smp-7-prakarya-17",
+      "teks": "Perbedaan jus buah murni dengan smoothies terletak pada... (Latihan #17)",
+      "opsi": {
+        "A": "Smoothies selalu disajikan suhu mendidih",
+        "B": "Jus disaring ampasnya sedangkan smoothies dicampur susu/yogurt beserta bulir tekstur pekat.",
+        "C": "Jus tidak boleh memakai buah air banyak",
+        "D": "Smoothies hanya terbuat dari coklat manis",
+        "E": "Jus perlu difermentasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Jus/sari buah berbentuk encer (sering disaring), sementara smoothies di-blend kental beserta yogurt atau es tanpa menyisihkan tekstur serat.",
+      "trik": "Smooth(ies) = kental, halus ber-volume susu/yogurt."
+    },
+    {
+      "id": "smp-7-prakarya-18",
+      "teks": "Kandungan paling mendominasi yang membuat buah segar (seperti jeruk, jambu, mangga) baik sebagai peningkatan imun imunitas karena vitamin ... (Latihan #18)",
+      "opsi": {
+        "A": "D",
+        "B": "E",
+        "C": "C",
+        "D": "B12",
+        "E": "K"
+      },
+      "kunci": "C",
+      "pembahasan": "Banyak buah-buahan tropika (jeruk, jambu biji) mengandung persentase Vitamin C tinggi untuk anti-oksidan/imun.",
+      "trik": "Jeruk/Asam = Vitamin C / Asam askorbat."
+    },
+    {
+      "id": "smp-7-prakarya-19",
+      "teks": "Alat potong dapur utama untuk mengupas dan mengiris bahan buah atau sayur disebut... (Latihan #19)",
+      "opsi": {
+        "A": "Mangkuk mixer",
+        "B": "Telenan",
+        "C": "Panci dadar",
+        "D": "Pisau/Peeler tangan",
+        "E": "Spatula besi"
+      },
+      "kunci": "D",
+      "pembahasan": "Pengupas kulit luar biasa disebut (Peeler) dan alat bedah inti buah paling dasar adalah pisau.",
+      "trik": "Alat potong/kupas."
+    },
+    {
+      "id": "smp-7-prakarya-20",
+      "teks": "Pengemasan karya kerajinan atau hasil masakan, fungsi KEDUA selain untuk melindungi melindungi produk (proteksi) adalah untuk... (Latihan #20)",
+      "opsi": {
+        "A": "Membuat produk membusuk cepat",
+        "B": "Menambah beban berat timbangan kargo",
+        "C": "Mempersulit pembuangan pada tong sampah",
+        "D": "Sengaja disembunyikan isinya",
+        "E": "Meningkatkan daya tarik nilai jual estetika (promosi)"
+      },
+      "kunci": "E",
+      "pembahasan": "Bungkusan/packaging memiliki 2 fungsi dwi-ganda. Primer (penahan benturan debu). Sekunder (Daya tarik mata pelanggan/marketing).",
+      "trik": "Bungkus bagus = Laku."
+    },
+    {
+      "id": "smp-7-prakarya-21",
+      "teks": "Bahan serat alam dari tumbuhan yang dapat diolah menjadi kerajinan tas punden/keranjang hasil anyaman dan batangnya mengapung di rawa adalah... (Latihan #21)",
+      "opsi": {
+        "A": "Eceng gondok",
+        "B": "Daun pandan",
+        "C": "Sabut kelapa",
+        "D": "Rami",
+        "E": "Sisal"
+      },
+      "kunci": "A",
+      "pembahasan": "Eceng gondok merupakan gulma air berbonggol mengapung. Batangnya dapat dikeringkan dan dianyam memiliki nilai ekonomi.",
+      "trik": "Tumbuhan gulma air yang sering dianyam = Eceng gondok."
+    },
+    {
+      "id": "smp-7-prakarya-22",
+      "teks": "Teknik pengolahan kerajinan serat kelapa (sabut/cocopeat) menjadi tali temali dikerjakan dengan metode... (Latihan #22)",
+      "opsi": {
+        "A": "Pahat",
+        "B": "Pintal / Gulung pilin",
+        "C": "Ukir",
+        "D": "Tempa",
+        "E": "Cor (Casting)"
+      },
+      "kunci": "B",
+      "pembahasan": "Sabut kelapa yang berserabut diproses dirajut/dipilin, dipintal panjang sehingga membentuk untaian tambang atau tali.",
+      "trik": "Membuat serat jadi benang atau tali = Pintal (spinning/pilin)."
+    },
+    {
+      "id": "smp-7-prakarya-23",
+      "teks": "Struktur atau kerangka dasar dalam pembuatan miniatur bangunan yang bertujuan menopang jembatan di bagian bawah disebut... (Latihan #23)",
+      "opsi": {
+        "A": "Atap",
+        "B": "Balkon luar",
+        "C": "Tiang pilar/Pondasi pylon",
+        "D": "Ornamen hias",
+        "E": "Plafon"
+      },
+      "kunci": "C",
+      "pembahasan": "Pondasi tiang beton atau pylon (pada bridge/jembatan) memegang struktur atas jembatan agar stabil dan tak runtuh beban.",
+      "trik": "Dudukan terbawah jembatan = Pilar/Pondasi."
+    },
+    {
+      "id": "smp-7-prakarya-24",
+      "teks": "Tahapan perencanaan yang krusial sebelum melakukan konstruksi (seperti membuat miniatur dari stik es krim) adalah... (Latihan #24)",
+      "opsi": {
+        "A": "Mengecat bahan langsung",
+        "B": "Mengkalkulasi harga di pasar",
+        "C": "Menguji daya patah setiap stik es krim",
+        "D": "Pembuatan sketsa atau desain pola gambar",
+        "E": "Penyerahan hasil karya"
+      },
+      "kunci": "D",
+      "pembahasan": "Pra-konstruksi utamanya berurusan dng desain awal dan sketsa untuk menghindari kesalahan menyambung.",
+      "trik": "Sebelum praktek bikin = Selaku harus punya Desain/Rancangan/Sketsa (Mewujudkan idea)."
+    },
+    {
+      "id": "smp-7-prakarya-25",
+      "teks": "Berikut media tanam yang tidak menggunakan tanah (hidroponik) untuk budi daya sayur selada atau sawi, KECUALI... (Latihan #25)",
+      "opsi": {
+        "A": "Rockwool",
+        "B": "Cocopeat (serbuk kelapa)",
+        "C": "Spons (Busa)",
+        "D": "Sekam bakar arang",
+        "E": "Tanah liat lempung"
+      },
+      "kunci": "E",
+      "pembahasan": "Hidro (air) ponik (kerja), metode menanam dng nutrisi air tanpa medium tanah (soil-less). Tanah hat dpt menumpuk genangan lumpur basah.",
+      "trik": "Kecuali Media NON hidroponik -> Maka pastilah Tanah Biasa/Liat."
+    },
+    {
+      "id": "smp-7-prakarya-26",
+      "teks": "Hasil budi daya sayuran di dataran tinggi pegunungan beriklim sejuk sering dikembangkan tanaman berupa... (Latihan #26)",
+      "opsi": {
+        "A": "Kol, wortel, dan kentang",
+        "B": "Kelapa pandan wangi",
+        "C": "Mangrrove / Bakau",
+        "D": "Kaktus",
+        "E": "Melon tropis dataran rendah"
+      },
+      "kunci": "A",
+      "pembahasan": "Dataran tinggi pegunungan (sejuk/dingin) adalah daerah kultivar sayuran sub-tropis sayur daun tebal dan umbi-umbian (kentang, gubis/kol, wortel).",
+      "trik": "Dingin sayur populer -> Kentang, Kol, Wortel."
+    },
+    {
+      "id": "smp-7-prakarya-27",
+      "teks": "Perbedaan jus buah murni dengan smoothies terletak pada... (Latihan #27)",
+      "opsi": {
+        "A": "Smoothies selalu disajikan suhu mendidih",
+        "B": "Jus disaring ampasnya sedangkan smoothies dicampur susu/yogurt beserta bulir tekstur pekat.",
+        "C": "Jus tidak boleh memakai buah air banyak",
+        "D": "Smoothies hanya terbuat dari coklat manis",
+        "E": "Jus perlu difermentasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Jus/sari buah berbentuk encer (sering disaring), sementara smoothies di-blend kental beserta yogurt atau es tanpa menyisihkan tekstur serat.",
+      "trik": "Smooth(ies) = kental, halus ber-volume susu/yogurt."
+    },
+    {
+      "id": "smp-7-prakarya-28",
+      "teks": "Kandungan paling mendominasi yang membuat buah segar (seperti jeruk, jambu, mangga) baik sebagai peningkatan imun imunitas karena vitamin ... (Latihan #28)",
+      "opsi": {
+        "A": "D",
+        "B": "E",
+        "C": "C",
+        "D": "B12",
+        "E": "K"
+      },
+      "kunci": "C",
+      "pembahasan": "Banyak buah-buahan tropika (jeruk, jambu biji) mengandung persentase Vitamin C tinggi untuk anti-oksidan/imun.",
+      "trik": "Jeruk/Asam = Vitamin C / Asam askorbat."
+    },
+    {
+      "id": "smp-7-prakarya-29",
+      "teks": "Alat potong dapur utama untuk mengupas dan mengiris bahan buah atau sayur disebut... (Latihan #29)",
+      "opsi": {
+        "A": "Mangkuk mixer",
+        "B": "Telenan",
+        "C": "Panci dadar",
+        "D": "Pisau/Peeler tangan",
+        "E": "Spatula besi"
+      },
+      "kunci": "D",
+      "pembahasan": "Pengupas kulit luar biasa disebut (Peeler) dan alat bedah inti buah paling dasar adalah pisau.",
+      "trik": "Alat potong/kupas."
+    },
+    {
+      "id": "smp-7-prakarya-30",
+      "teks": "Pengemasan karya kerajinan atau hasil masakan, fungsi KEDUA selain untuk melindungi melindungi produk (proteksi) adalah untuk... (Latihan #30)",
+      "opsi": {
+        "A": "Membuat produk membusuk cepat",
+        "B": "Menambah beban berat timbangan kargo",
+        "C": "Mempersulit pembuangan pada tong sampah",
+        "D": "Sengaja disembunyikan isinya",
+        "E": "Meningkatkan daya tarik nilai jual estetika (promosi)"
+      },
+      "kunci": "E",
+      "pembahasan": "Bungkusan/packaging memiliki 2 fungsi dwi-ganda. Primer (penahan benturan debu). Sekunder (Daya tarik mata pelanggan/marketing).",
+      "trik": "Bungkus bagus = Laku."
+    },
+    {
+      "id": "smp-7-prakarya-31",
+      "teks": "Bahan serat alam dari tumbuhan yang dapat diolah menjadi kerajinan tas punden/keranjang hasil anyaman dan batangnya mengapung di rawa adalah... (Latihan #31)",
+      "opsi": {
+        "A": "Eceng gondok",
+        "B": "Daun pandan",
+        "C": "Sabut kelapa",
+        "D": "Rami",
+        "E": "Sisal"
+      },
+      "kunci": "A",
+      "pembahasan": "Eceng gondok merupakan gulma air berbonggol mengapung. Batangnya dapat dikeringkan dan dianyam memiliki nilai ekonomi.",
+      "trik": "Tumbuhan gulma air yang sering dianyam = Eceng gondok."
+    },
+    {
+      "id": "smp-7-prakarya-32",
+      "teks": "Teknik pengolahan kerajinan serat kelapa (sabut/cocopeat) menjadi tali temali dikerjakan dengan metode... (Latihan #32)",
+      "opsi": {
+        "A": "Pahat",
+        "B": "Pintal / Gulung pilin",
+        "C": "Ukir",
+        "D": "Tempa",
+        "E": "Cor (Casting)"
+      },
+      "kunci": "B",
+      "pembahasan": "Sabut kelapa yang berserabut diproses dirajut/dipilin, dipintal panjang sehingga membentuk untaian tambang atau tali.",
+      "trik": "Membuat serat jadi benang atau tali = Pintal (spinning/pilin)."
+    },
+    {
+      "id": "smp-7-prakarya-33",
+      "teks": "Struktur atau kerangka dasar dalam pembuatan miniatur bangunan yang bertujuan menopang jembatan di bagian bawah disebut... (Latihan #33)",
+      "opsi": {
+        "A": "Atap",
+        "B": "Balkon luar",
+        "C": "Tiang pilar/Pondasi pylon",
+        "D": "Ornamen hias",
+        "E": "Plafon"
+      },
+      "kunci": "C",
+      "pembahasan": "Pondasi tiang beton atau pylon (pada bridge/jembatan) memegang struktur atas jembatan agar stabil dan tak runtuh beban.",
+      "trik": "Dudukan terbawah jembatan = Pilar/Pondasi."
+    },
+    {
+      "id": "smp-7-prakarya-34",
+      "teks": "Tahapan perencanaan yang krusial sebelum melakukan konstruksi (seperti membuat miniatur dari stik es krim) adalah... (Latihan #34)",
+      "opsi": {
+        "A": "Mengecat bahan langsung",
+        "B": "Mengkalkulasi harga di pasar",
+        "C": "Menguji daya patah setiap stik es krim",
+        "D": "Pembuatan sketsa atau desain pola gambar",
+        "E": "Penyerahan hasil karya"
+      },
+      "kunci": "D",
+      "pembahasan": "Pra-konstruksi utamanya berurusan dng desain awal dan sketsa untuk menghindari kesalahan menyambung.",
+      "trik": "Sebelum praktek bikin = Selaku harus punya Desain/Rancangan/Sketsa (Mewujudkan idea)."
+    },
+    {
+      "id": "smp-7-prakarya-35",
+      "teks": "Berikut media tanam yang tidak menggunakan tanah (hidroponik) untuk budi daya sayur selada atau sawi, KECUALI... (Latihan #35)",
+      "opsi": {
+        "A": "Rockwool",
+        "B": "Cocopeat (serbuk kelapa)",
+        "C": "Spons (Busa)",
+        "D": "Sekam bakar arang",
+        "E": "Tanah liat lempung"
+      },
+      "kunci": "E",
+      "pembahasan": "Hidro (air) ponik (kerja), metode menanam dng nutrisi air tanpa medium tanah (soil-less). Tanah hat dpt menumpuk genangan lumpur basah.",
+      "trik": "Kecuali Media NON hidroponik -> Maka pastilah Tanah Biasa/Liat."
+    },
+    {
+      "id": "smp-7-prakarya-36",
+      "teks": "Hasil budi daya sayuran di dataran tinggi pegunungan beriklim sejuk sering dikembangkan tanaman berupa... (Latihan #36)",
+      "opsi": {
+        "A": "Kol, wortel, dan kentang",
+        "B": "Kelapa pandan wangi",
+        "C": "Mangrrove / Bakau",
+        "D": "Kaktus",
+        "E": "Melon tropis dataran rendah"
+      },
+      "kunci": "A",
+      "pembahasan": "Dataran tinggi pegunungan (sejuk/dingin) adalah daerah kultivar sayuran sub-tropis sayur daun tebal dan umbi-umbian (kentang, gubis/kol, wortel).",
+      "trik": "Dingin sayur populer -> Kentang, Kol, Wortel."
+    },
+    {
+      "id": "smp-7-prakarya-37",
+      "teks": "Perbedaan jus buah murni dengan smoothies terletak pada... (Latihan #37)",
+      "opsi": {
+        "A": "Smoothies selalu disajikan suhu mendidih",
+        "B": "Jus disaring ampasnya sedangkan smoothies dicampur susu/yogurt beserta bulir tekstur pekat.",
+        "C": "Jus tidak boleh memakai buah air banyak",
+        "D": "Smoothies hanya terbuat dari coklat manis",
+        "E": "Jus perlu difermentasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Jus/sari buah berbentuk encer (sering disaring), sementara smoothies di-blend kental beserta yogurt atau es tanpa menyisihkan tekstur serat.",
+      "trik": "Smooth(ies) = kental, halus ber-volume susu/yogurt."
+    },
+    {
+      "id": "smp-7-prakarya-38",
+      "teks": "Kandungan paling mendominasi yang membuat buah segar (seperti jeruk, jambu, mangga) baik sebagai peningkatan imun imunitas karena vitamin ... (Latihan #38)",
+      "opsi": {
+        "A": "D",
+        "B": "E",
+        "C": "C",
+        "D": "B12",
+        "E": "K"
+      },
+      "kunci": "C",
+      "pembahasan": "Banyak buah-buahan tropika (jeruk, jambu biji) mengandung persentase Vitamin C tinggi untuk anti-oksidan/imun.",
+      "trik": "Jeruk/Asam = Vitamin C / Asam askorbat."
+    },
+    {
+      "id": "smp-7-prakarya-39",
+      "teks": "Alat potong dapur utama untuk mengupas dan mengiris bahan buah atau sayur disebut... (Latihan #39)",
+      "opsi": {
+        "A": "Mangkuk mixer",
+        "B": "Telenan",
+        "C": "Panci dadar",
+        "D": "Pisau/Peeler tangan",
+        "E": "Spatula besi"
+      },
+      "kunci": "D",
+      "pembahasan": "Pengupas kulit luar biasa disebut (Peeler) dan alat bedah inti buah paling dasar adalah pisau.",
+      "trik": "Alat potong/kupas."
+    },
+    {
+      "id": "smp-7-prakarya-40",
+      "teks": "Pengemasan karya kerajinan atau hasil masakan, fungsi KEDUA selain untuk melindungi melindungi produk (proteksi) adalah untuk... (Latihan #40)",
+      "opsi": {
+        "A": "Membuat produk membusuk cepat",
+        "B": "Menambah beban berat timbangan kargo",
+        "C": "Mempersulit pembuangan pada tong sampah",
+        "D": "Sengaja disembunyikan isinya",
+        "E": "Meningkatkan daya tarik nilai jual estetika (promosi)"
+      },
+      "kunci": "E",
+      "pembahasan": "Bungkusan/packaging memiliki 2 fungsi dwi-ganda. Primer (penahan benturan debu). Sekunder (Daya tarik mata pelanggan/marketing).",
+      "trik": "Bungkus bagus = Laku."
+    },
+    {
+      "id": "smp-7-prakarya-41",
+      "teks": "Bahan serat alam dari tumbuhan yang dapat diolah menjadi kerajinan tas punden/keranjang hasil anyaman dan batangnya mengapung di rawa adalah... (Latihan #41)",
+      "opsi": {
+        "A": "Eceng gondok",
+        "B": "Daun pandan",
+        "C": "Sabut kelapa",
+        "D": "Rami",
+        "E": "Sisal"
+      },
+      "kunci": "A",
+      "pembahasan": "Eceng gondok merupakan gulma air berbonggol mengapung. Batangnya dapat dikeringkan dan dianyam memiliki nilai ekonomi.",
+      "trik": "Tumbuhan gulma air yang sering dianyam = Eceng gondok."
+    },
+    {
+      "id": "smp-7-prakarya-42",
+      "teks": "Teknik pengolahan kerajinan serat kelapa (sabut/cocopeat) menjadi tali temali dikerjakan dengan metode... (Latihan #42)",
+      "opsi": {
+        "A": "Pahat",
+        "B": "Pintal / Gulung pilin",
+        "C": "Ukir",
+        "D": "Tempa",
+        "E": "Cor (Casting)"
+      },
+      "kunci": "B",
+      "pembahasan": "Sabut kelapa yang berserabut diproses dirajut/dipilin, dipintal panjang sehingga membentuk untaian tambang atau tali.",
+      "trik": "Membuat serat jadi benang atau tali = Pintal (spinning/pilin)."
+    },
+    {
+      "id": "smp-7-prakarya-43",
+      "teks": "Struktur atau kerangka dasar dalam pembuatan miniatur bangunan yang bertujuan menopang jembatan di bagian bawah disebut... (Latihan #43)",
+      "opsi": {
+        "A": "Atap",
+        "B": "Balkon luar",
+        "C": "Tiang pilar/Pondasi pylon",
+        "D": "Ornamen hias",
+        "E": "Plafon"
+      },
+      "kunci": "C",
+      "pembahasan": "Pondasi tiang beton atau pylon (pada bridge/jembatan) memegang struktur atas jembatan agar stabil dan tak runtuh beban.",
+      "trik": "Dudukan terbawah jembatan = Pilar/Pondasi."
+    },
+    {
+      "id": "smp-7-prakarya-44",
+      "teks": "Tahapan perencanaan yang krusial sebelum melakukan konstruksi (seperti membuat miniatur dari stik es krim) adalah... (Latihan #44)",
+      "opsi": {
+        "A": "Mengecat bahan langsung",
+        "B": "Mengkalkulasi harga di pasar",
+        "C": "Menguji daya patah setiap stik es krim",
+        "D": "Pembuatan sketsa atau desain pola gambar",
+        "E": "Penyerahan hasil karya"
+      },
+      "kunci": "D",
+      "pembahasan": "Pra-konstruksi utamanya berurusan dng desain awal dan sketsa untuk menghindari kesalahan menyambung.",
+      "trik": "Sebelum praktek bikin = Selaku harus punya Desain/Rancangan/Sketsa (Mewujudkan idea)."
+    },
+    {
+      "id": "smp-7-prakarya-45",
+      "teks": "Berikut media tanam yang tidak menggunakan tanah (hidroponik) untuk budi daya sayur selada atau sawi, KECUALI... (Latihan #45)",
+      "opsi": {
+        "A": "Rockwool",
+        "B": "Cocopeat (serbuk kelapa)",
+        "C": "Spons (Busa)",
+        "D": "Sekam bakar arang",
+        "E": "Tanah liat lempung"
+      },
+      "kunci": "E",
+      "pembahasan": "Hidro (air) ponik (kerja), metode menanam dng nutrisi air tanpa medium tanah (soil-less). Tanah hat dpt menumpuk genangan lumpur basah.",
+      "trik": "Kecuali Media NON hidroponik -> Maka pastilah Tanah Biasa/Liat."
+    },
+    {
+      "id": "smp-7-prakarya-46",
+      "teks": "Hasil budi daya sayuran di dataran tinggi pegunungan beriklim sejuk sering dikembangkan tanaman berupa... (Latihan #46)",
+      "opsi": {
+        "A": "Kol, wortel, dan kentang",
+        "B": "Kelapa pandan wangi",
+        "C": "Mangrrove / Bakau",
+        "D": "Kaktus",
+        "E": "Melon tropis dataran rendah"
+      },
+      "kunci": "A",
+      "pembahasan": "Dataran tinggi pegunungan (sejuk/dingin) adalah daerah kultivar sayuran sub-tropis sayur daun tebal dan umbi-umbian (kentang, gubis/kol, wortel).",
+      "trik": "Dingin sayur populer -> Kentang, Kol, Wortel."
+    },
+    {
+      "id": "smp-7-prakarya-47",
+      "teks": "Perbedaan jus buah murni dengan smoothies terletak pada... (Latihan #47)",
+      "opsi": {
+        "A": "Smoothies selalu disajikan suhu mendidih",
+        "B": "Jus disaring ampasnya sedangkan smoothies dicampur susu/yogurt beserta bulir tekstur pekat.",
+        "C": "Jus tidak boleh memakai buah air banyak",
+        "D": "Smoothies hanya terbuat dari coklat manis",
+        "E": "Jus perlu difermentasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Jus/sari buah berbentuk encer (sering disaring), sementara smoothies di-blend kental beserta yogurt atau es tanpa menyisihkan tekstur serat.",
+      "trik": "Smooth(ies) = kental, halus ber-volume susu/yogurt."
+    },
+    {
+      "id": "smp-7-prakarya-48",
+      "teks": "Kandungan paling mendominasi yang membuat buah segar (seperti jeruk, jambu, mangga) baik sebagai peningkatan imun imunitas karena vitamin ... (Latihan #48)",
+      "opsi": {
+        "A": "D",
+        "B": "E",
+        "C": "C",
+        "D": "B12",
+        "E": "K"
+      },
+      "kunci": "C",
+      "pembahasan": "Banyak buah-buahan tropika (jeruk, jambu biji) mengandung persentase Vitamin C tinggi untuk anti-oksidan/imun.",
+      "trik": "Jeruk/Asam = Vitamin C / Asam askorbat."
+    },
+    {
+      "id": "smp-7-prakarya-49",
+      "teks": "Alat potong dapur utama untuk mengupas dan mengiris bahan buah atau sayur disebut... (Latihan #49)",
+      "opsi": {
+        "A": "Mangkuk mixer",
+        "B": "Telenan",
+        "C": "Panci dadar",
+        "D": "Pisau/Peeler tangan",
+        "E": "Spatula besi"
+      },
+      "kunci": "D",
+      "pembahasan": "Pengupas kulit luar biasa disebut (Peeler) dan alat bedah inti buah paling dasar adalah pisau.",
+      "trik": "Alat potong/kupas."
+    },
+    {
+      "id": "smp-7-prakarya-50",
+      "teks": "Pengemasan karya kerajinan atau hasil masakan, fungsi KEDUA selain untuk melindungi melindungi produk (proteksi) adalah untuk... (Latihan #50)",
+      "opsi": {
+        "A": "Membuat produk membusuk cepat",
+        "B": "Menambah beban berat timbangan kargo",
+        "C": "Mempersulit pembuangan pada tong sampah",
+        "D": "Sengaja disembunyikan isinya",
+        "E": "Meningkatkan daya tarik nilai jual estetika (promosi)"
+      },
+      "kunci": "E",
+      "pembahasan": "Bungkusan/packaging memiliki 2 fungsi dwi-ganda. Primer (penahan benturan debu). Sekunder (Daya tarik mata pelanggan/marketing).",
+      "trik": "Bungkus bagus = Laku."
+    }
+  ]
+}

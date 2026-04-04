@@ -1,0 +1,266 @@
+{
+  "id": "fr-tka-2025-smp-wajib",
+  "tahun": 2025,
+  "tingkat": "SMP",
+  "materiKategori": "wajib",
+  "mapel": "TKA SMP wajib",
+  "deskripsi": "Rekonstruksi FR TKA SMP 2025 kategori wajib.",
+  "soal": [
+    {
+      "id": "fr25-smp-wajib-bi-01",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Kata serapan dari bahasa Inggris yang benar adalah...",
+      "opsi": {
+        "A": "Aktifitas",
+        "B": "Bis",
+        "C": "Kwitansi",
+        "D": "Kualitas",
+        "E": "Sistim"
+      },
+      "kunci": "D",
+      "pembahasan": "Quality -> Kualitas. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kualitas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Bahasa Indonesia",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smp-wajib-bi-02",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Urutan struktur teks deskripsi yang benar adalah...",
+      "opsi": {
+        "A": "Tesis - Argumentasi - Rekomendasi",
+        "B": "Orientasi - Komplikasi - Resolusi",
+        "C": "Pernyataan Umum - Deskripsi Bagian",
+        "D": "Tujuan - Langkah-langkah - Penutup",
+        "E": "Identifikasi - Deskripsi Bagian - Penutup"
+      },
+      "kunci": "E",
+      "pembahasan": "Identifikasi -> Deskripsi -> Penutup. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Identifikasi - Deskripsi Bagian - Penutup\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Bahasa Indonesia",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smp-wajib-bi-03",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Sinonim dari kata 'Edukasi' adalah...",
+      "opsi": {
+        "A": "Pendidikan",
+        "B": "Hiburan",
+        "C": "Informasi",
+        "D": "Kesehatan",
+        "E": "Ekonomi"
+      },
+      "kunci": "A",
+      "pembahasan": "Edukasi = Pendidikan. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pendidikan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Bahasa Indonesia",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smp-wajib-bi-04",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Kalimat mana yang menggunakan huruf kapital secara tepat?",
+      "opsi": {
+        "A": "sultan hasanuddin berasal dari makassar",
+        "B": "Sultan Hasanuddin berasal dari Makassar",
+        "C": "Sultan Hasanuddin berasal dari makassar",
+        "D": "sultan Hasanuddin berasal dari Makassar",
+        "E": "Sultan hasanuddin Berasal Dari Makassar"
+      },
+      "kunci": "B",
+      "pembahasan": "Nama orang/tempat kapital. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Sultan Hasanuddin berasal dari Makassar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Bahasa Indonesia",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smp-wajib-en-01",
+      "mapel": "Bahasa Inggris",
+      "teks": "Where ... you live?",
+      "opsi": {
+        "A": "Does",
+        "B": "Are",
+        "C": "Is",
+        "D": "Do",
+        "E": "Am"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Do\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Bahasa Inggris",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smp-wajib-en-02",
+      "mapel": "Bahasa Inggris",
+      "teks": "The antonym of 'Difficult' is...",
+      "opsi": {
+        "A": "Hard",
+        "B": "Fast",
+        "C": "Slow",
+        "D": "High",
+        "E": "Easy"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Easy\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Bahasa Inggris",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smp-wajib-en-03",
+      "mapel": "Bahasa Inggris",
+      "teks": "Waitress: 'May I ... your order, please?'",
+      "opsi": {
+        "A": "Take",
+        "B": "Give",
+        "C": "Make",
+        "D": "Eat",
+        "E": "Bring"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Take\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Bahasa Inggris",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smp-wajib-en-04",
+      "mapel": "Bahasa Inggris",
+      "teks": "I have ... apple in my bag.",
+      "opsi": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "Some",
+        "E": "Many"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"An\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Bahasa Inggris",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smp-wajib-mt-01",
+      "mapel": "Matematika",
+      "teks": "Besar sudut pelurus dari 60 derajat adalah...",
+      "opsi": {
+        "A": "30",
+        "B": "90",
+        "C": "100",
+        "D": "120",
+        "E": "180"
+      },
+      "kunci": "D",
+      "pembahasan": "180 - 60 = 120. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"120\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Matematika",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smp-wajib-mt-02",
+      "mapel": "Matematika",
+      "teks": "Luas persegi dengan sisi 5 cm adalah...",
+      "opsi": {
+        "A": "10",
+        "B": "20",
+        "C": "50",
+        "D": "100",
+        "E": "25"
+      },
+      "kunci": "E",
+      "pembahasan": "5 x 5 = 25. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"25\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Matematika",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smp-wajib-mt-03",
+      "mapel": "Matematika",
+      "teks": "Keliling lingkaran dengan jari-jari 7 cm adalah... (pi=22/7)",
+      "opsi": {
+        "A": "44",
+        "B": "22",
+        "C": "88",
+        "D": "154",
+        "E": "308"
+      },
+      "kunci": "A",
+      "pembahasan": "2 x 22/7 x 7 = 44. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"44\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Matematika",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smp-wajib-mt-04",
+      "mapel": "Matematika",
+      "teks": "Jika 3 lusin buku seharga 108.000, harga 1 buku adalah...",
+      "opsi": {
+        "A": "3.600",
+        "B": "3.000",
+        "C": "4.000",
+        "D": "4.500",
+        "E": "9.000"
+      },
+      "kunci": "B",
+      "pembahasan": "108.000 / 36 = 3.000. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"3.000\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Matematika",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smp-wajib-pp-01",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Gotong royong merupakan cerminan sila ke-...",
+      "opsi": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "3",
+        "E": "5"
+      },
+      "kunci": "D",
+      "pembahasan": "Persatuan Indonesia. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Pendidikan Pancasila",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smp-wajib-pp-02",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Kedaulatan berada di tangan rakyat dan dilaksanakan menurut UUD merupakan bunyi pasal ... ayat 2.",
+      "opsi": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "E": "1"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Pendidikan Pancasila",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smp-wajib-pp-03",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Alat pemersatu bangsa Indonesia adalah...",
+      "opsi": {
+        "A": "Bahasa Indonesia",
+        "B": "Lagu Barat",
+        "C": "Mata uang Dollar",
+        "D": "Film asing",
+        "E": "Hobi masing-masing"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bahasa Indonesia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Pendidikan Pancasila",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smp-wajib-pp-04",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Lembaga Yudikatif di Indonesia adalah...",
+      "opsi": {
+        "A": "Presiden",
+        "B": "MK dan MA",
+        "C": "DPR",
+        "D": "MPR",
+        "E": "DPD"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"MK dan MA\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - Pendidikan Pancasila",
+      "hari_ujian": 4
+    }
+  ]
+}

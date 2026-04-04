@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_PKK_01",
+    "pertanyaan": "FR BNSP: Apa yang dimaksud dengan 'Zero Defect' dalam manajemen kualitas industri?",
+    "opsi": [
+      "Produksi tanpa cacat sedikitpun agar efisien",
+      "Banyak barang rusak",
+      "Produksi asal jadi",
+      "Produksi tanpa mesin",
+      "Harga nol"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_PKK_02",
+    "pertanyaan": "FR Startup: Istilah 'Pitching' dalam dunia wirausaha kreatif adalah...",
+    "opsi": [
+      "Melempar bola",
+      "Presentasi singkat ide bisnis di hadapan calon investor untuk mendapatkan pendanaan",
+      "Membuat iklan",
+      "Berhenti usaha",
+      "Membayar gaji"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_PKK_03",
+    "pertanyaan": "FR Digital: Perbedaan utama antara 'Ecommerce' dan 'Social Commerce' adalah...",
+    "opsi": [
+      "E-commerce pakai laptop, Social pakai HP",
+      "E-commerce hanya untuk barang mahal",
+      "Social commerce melakukan transaksi langsung di dalam platform media sosial (seperti TikTok Shop)",
+      "Sama saja",
+      "Social commerce dilarang"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_PKK_04",
+    "pertanyaan": "FR HAKI: Berapa lama masa perlindungan Hak Cipta atas buku sejak penciptanya meninggal dunia?",
+    "opsi": [
+      "10 tahun",
+      "20 tahun",
+      "50 tahun",
+      "70 tahun",
+      "Selamanya"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Sesuai UU Hak Cipta terbaru (70 tahun). Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"70 tahun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_PKK_05",
+    "pertanyaan": "FR Ekonomi: Jika biaya tetap Rp1.000.000, biaya variabel per unit Rp10.000, dan harga jual Rp20.000, maka BEP unitnya adalah...",
+    "opsi": [
+      "50 unit",
+      "1.000 unit",
+      "10.000 unit",
+      "500 unit",
+      "100 unit"
+    ],
+    "jawaban": "E",
+    "pembahasan": "BEP unit = Biaya Tetap / (Harga Jual - Biaya Variabel) = 1.000.000 / 10.000 = 100.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SN_KC_01",
+    "pertanyaan": "Profesi yang ahli dalam mengaplikasikan kosmetik ke wajah seseorang untuk keperluan komersial (pengantin, film, pesta) disebut...",
+    "opsi": [
+      "MUA (Make Up Artist)",
+      "Hairdresser",
+      "Fashion Designer",
+      "Therapist",
+      "Model"
+    ],
+    "jawaban": 0,
+    "pembahasan": "MUA menggunakan teknik seni visual untuk mempercantik wajah pelanggan."
+  },
+  {
+    "id": "SN_KC_02",
+    "pertanyaan": "Lapisan terluar kulit manusia yang berfungsi sebagai pelindung utama tubuh disebut...",
+    "opsi": [
+      "Dermis",
+      "Epidermis",
+      "Hipodermis",
+      "Melanin",
+      "Protein"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Epidermis mengandung sel-sel kulit mati yang terus berganti."
+  },
+  {
+    "id": "SN_KC_03",
+    "pertanyaan": "Jenis kulit yang memiliki ciri-ciri pori-pori besar, permukaan mengkilap, dan mudah berjerawat adalah...",
+    "opsi": [
+      "Kulit Kering",
+      "Kulit Normal",
+      "Kulit Berminyak",
+      "Kulit Sensitif",
+      "Kulit Bayi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Disebabkan oleh produksi kelenjar sebasea (minyak) yang berlebih."
+  },
+  {
+    "id": "SN_KC_04",
+    "pertanyaan": "Zat pemberi warna alami (pigmen) pada kulit dan rambut manusia disebut...",
+    "opsi": [
+      "Kolagen",
+      "Keratin",
+      "Elastin",
+      "Melanin",
+      "Serum"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Melanin melindungi kulit dari bahaya sinar ultraviolet matahari."
+  },
+  {
+    "id": "SN_KC_05",
+    "pertanyaan": "Protein utama yang menyusun rambut, kuku, dan lapisan luar kulit adalah...",
+    "opsi": [
+      "Melanin",
+      "Hemoglobin",
+      "Insulin",
+      "Glukosa",
+      "Keratin"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Keratin memberikan kekuatan dan struktur pada jaringan tersebut."
+  },
+  {
+    "id": "SN_KC_06",
+    "pertanyaan": "Alat kecantikan yang digunakan untuk mengangkat sel kulit mati pada wajah melalui butiran halus disebut...",
+    "opsi": [
+      "Scrub",
+      "Cleanser",
+      "Toner",
+      "Serum",
+      "Sunblock"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Proses eksfoliasi dengan scrub membantu regenerasi kulit."
+  },
+  {
+    "id": "SN_KC_07",
+    "pertanyaan": "Langkah awal sebelum memulai make up atau perawatan wajah adalah...",
+    "opsi": [
+      "Memasang bulu mata",
+      "Membersihkan wajah (Cleansing)",
+      "Memakai foundation",
+      "Memakai bedak",
+      "Menggambar alis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Wajah harus bersih dari sisa riasan, debu, dan minyak agar produk kosmetik menempel sempurna."
+  },
+  {
+    "id": "SN_KC_08",
+    "pertanyaan": "Cairan yang berfungsi menyegarkan kulit dan mengembalikan keseimbangan pH kulit setelah pembersihan disebut...",
+    "opsi": [
+      "Milk Cleanser",
+      "Air Sabun",
+      "Toner (Face Tonic)",
+      "Minyak Goreng",
+      "Alkohol 70%"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Toner juga berfungsi menutup pori-pori yang terbuka saat pembersihan."
+  },
+  {
+    "id": "SN_KC_09",
+    "pertanyaan": "Kosmetik dasar yang berfungsi untuk meratakan warna kulit dan menutupi noda pada wajah sebelum aplikasi produk lain disebut...",
+    "opsi": [
+      "Lipstick",
+      "Mascara",
+      "Blush On",
+      "Foundation (Alas Bedak)",
+      "Eyeliner"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Foundation tersedia dalam bentuk cair, krim, atau padat."
+  },
+  {
+    "id": "SN_KC_10",
+    "pertanyaan": "Teknik make up yang memberikan efek bayangan gelap untuk menyamarkan bagian wajah tertentu (misal hidung agar terlihat lebih mancung) disebut...",
+    "opsi": [
+      "Highlighting",
+      "Blending",
+      "Smoking",
+      "Drawing",
+      "Shading (Contouring)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Shading menggunakan warna yang lebih gelap dari warna kulit asli."
+  },
+  {
+    "id": "SN_KC_11",
+    "pertanyaan": "Teknik make up yang memberikan efek cahaya terang untuk menonjolkan bagian wajah tertentu disebut...",
+    "opsi": [
+      "Highlighting",
+      "Shading",
+      "Shadowing",
+      "Mixing",
+      "Sanding"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Highlighter biasanya diaplikasikan di tulang pipi atau tulang hidung."
+  },
+  {
+    "id": "SN_KC_12",
+    "pertanyaan": "Alat make up yang digunakan untuk merapikan dan mewarnai alis mata disebut...",
+    "opsi": [
+      "Eyeliner",
+      "Pensil Alis (Eyebrow Pencil)",
+      "Mascara",
+      "Lip Liner",
+      "Eye Shadow"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Alis yang rapi menentukan karakter keseluruhan wajah."
+  },
+  {
+    "id": "SN_KC_13",
+    "pertanyaan": "Kosmetik yang digunakan untuk memberikan warna pada kelopak mata agar mata terlihat lebih hidup adalah...",
+    "opsi": [
+      "Blush On",
+      "Concealer",
+      "Eye Shadow",
+      "Bronzer",
+      "Primer"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Eye shadow tersedia dalam berbagai warna dan tekstur (matte/shimmer)."
+  },
+  {
+    "id": "SN_KC_14",
+    "pertanyaan": "Kosmetik yang diaplikasikan pada pipi untuk memberikan kesan segar dan bersemu disebut...",
+    "opsi": [
+      "Foundation",
+      "Bedak Tabur",
+      "Lip Gloss",
+      "Blush On (Pemerah Pipi)",
+      "Mascara"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Warna blush on biasanya disesuaikan dengan skin tone pengguna."
+  },
+  {
+    "id": "SN_KC_15",
+    "pertanyaan": "Alat make up yang digunakan untuk melentikkan dan mempertebal bulu mata adalah...",
+    "opsi": [
+      "Eyeliner",
+      "Penjepit alis",
+      "Kuas bedak",
+      "Spons",
+      "Mascara"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Mascara membuat mata terlihat lebih lebar dan ekspresif."
+  },
+  {
+    "id": "SN_KC_16",
+    "pertanyaan": "Proses perawatan kuku tangan agar bersih, rapi, dan sehat disebut...",
+    "opsi": [
+      "Manicure",
+      "Pedicure",
+      "Facial",
+      "Creambath",
+      "Spa"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mani = tangan (latin). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Manicure\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SN_KC_17",
+    "pertanyaan": "Proses perawatan kuku kaki dan telapak kaki disebut...",
+    "opsi": [
+      "Manicure",
+      "Pedicure",
+      "Lulur",
+      "Massage",
+      "Masking"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pedi = kaki (latin). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pedicure\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SN_KC_18",
+    "pertanyaan": "Cairan pembersih yang digunakan untuk menghapus cat kuku (kutek) disebut...",
+    "opsi": [
+      "Alkohol",
+      "Air Mawar",
+      "Aseton / Nail Polish Remover",
+      "Minyak Zaitun",
+      "Sabun Cair"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Aseton melarutkan lapisan cat kuku tanpa merusak kuku dengan aplikasi yang tepat."
+  },
+  {
+    "id": "SN_KC_19",
+    "pertanyaan": "Dalam industri kecantikan, istilah 'Sanitasi' merujuk pada...",
+    "opsi": [
+      "Cara menjual makeup",
+      "Cara berdendang",
+      "Promosi diskon",
+      "Kebersihan peralatan dan lingkungan kerja agar bebas dari kuman penyakit",
+      "Pemilihan warna cat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Peralatan seperti kuas, sisir, dan alat manicure harus disterilkan untuk kesehatan pelanggan."
+  },
+  {
+    "id": "SN_KC_20",
+    "pertanyaan": "Perawatan rambut menggunakan krim khusus yang mengandung nutrisi dan dilakukan pijatan pada kulit kepala disebut...",
+    "opsi": [
+      "Hair Dying",
+      "Smoothing",
+      "Rebonding",
+      "Hair Cutting",
+      "Creambath"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Creambath membantu melancarkan peredaran darah di kepala dan menyehatkan rambut."
+  },
+  {
+    "id": "SN_KC_21",
+    "pertanyaan": "Studi mengenai bentuk wajah manusia dalam tata rias disebut...",
+    "opsi": [
+      "Morfologi Wajah",
+      "Anatomi",
+      "Geologi",
+      "Biologi",
+      "Antropologi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Morfologi membantu MUA menentukan teknik koreksi wajah yang paling pas (misal untuk wajah bulat atau kotak)."
+  },
+  {
+    "id": "SN_KC_22",
+    "pertanyaan": "Penggunaan 'Sunscreen' (tabir surya) pada wajah bertujuan untuk...",
+    "opsi": [
+      "Menghitamkan wajah",
+      "Melindungi kulit dari paparan radiasi sinar UV yang dapat merusak sel kulit",
+      "Hanya sebagai hiasan",
+      "Menghilangkan jerawat secara instan",
+      "Membuat kantuk"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sunscreen mencegah penuaan dini dan risiko kanker kulit."
+  },
+  {
+    "id": "SN_KC_23",
+    "pertanyaan": "Produk perawatan wajah yang konsentrasinya tinggi dan molekulnya sangat kecil sehingga meresap ke lapisan kulit dalam disebut...",
+    "opsi": [
+      "Face Wash",
+      "Bedak",
+      "Serum",
+      "Lip Balm",
+      "Parfum"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Serum memberikan perawatan intensif untuk masalah kulit tertentu (misal pencerah atau anti-aging)."
+  },
+  {
+    "id": "SN_KC_24",
+    "pertanyaan": "Lampu yang digunakan terapis saat melakukan facial agar pori-pori wajah terlihat jelas disebut...",
+    "opsi": [
+      "Lampu Tidur",
+      "Lampu Senter",
+      "Lampu Hazard",
+      "Magnifying Lamp (Lampu Pembesar)",
+      "Lampu Taman"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lampu pembesar membantu terapis mendeteksi komedo atau masalah kulit secara detail."
+  },
+  {
+    "id": "SN_KC_25",
+    "pertanyaan": "Alat pengering rambut elektronik yang mengeluarkan udara panas disebut...",
+    "opsi": [
+      "Sisir",
+      "Catokan",
+      "Gunting",
+      "Klip",
+      "Hair Dryer"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Digunakan untuk mengeringkan rambut dengan cepat atau membantu proses styling."
+  },
+  {
+    "id": "SN_KC_26",
+    "pertanyaan": "Alat pemanas rambut yang digunakan untuk meluruskan rambut disebut...",
+    "opsi": [
+      "Flat Iron / Catokan Lurus",
+      "Hair Dryer",
+      "Curling Iron",
+      "Rol rambut",
+      "Sisir sasak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Panas catokan dapat mengubah bentuk rambut secara sementara."
+  },
+  {
+    "id": "SN_KC_27",
+    "pertanyaan": "Teknik menyasak rambut (backcombing) dilakukan untuk memberikan efek...",
+    "opsi": [
+      "Rambut tipis lurus",
+      "Volume / kesan rambut lebih mengembang dan tebal",
+      "Rambut berkilau",
+      "Rambut basah",
+      "Rambut rontok"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sasak sering digunakan dalam sediaan sanggul tradisional."
+  },
+  {
+    "id": "SN_KC_28",
+    "pertanyaan": "Salah satu bentuk tatanan rambut tradisional Indonesia yang sering digunakan pengantin Jawa adalah...",
+    "opsi": [
+      "Bob Cut",
+      "Ponytail",
+      "Sanggul (Bun)",
+      "Pixie",
+      "Mohawk"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sanggul memiliki berbagai jenis sesuai daerah (tekuk, ciwidey, dst)."
+  },
+  {
+    "id": "SN_KC_29",
+    "pertanyaan": "Apa risiko berbagi alat make up (terutama kuas mata atau lipstick) dengan orang lain?",
+    "opsi": [
+      "Make up jadi cepat habis",
+      "Warna makeup jadi pudar",
+      "Tidak ada risiko",
+      "Penularan penyakit kulit atau infeksi bakteri/virus antar pengguna",
+      "Makeup jadi bagus"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Higienitas pribadi sangat penting untuk kesehatan mata dan bibir."
+  },
+  {
+    "id": "SN_KC_30",
+    "pertanyaan": "Bedak yang berbentuk butiran halus dan biasanya diaplikasikan dengan kuas besar disebut bedak...",
+    "opsi": [
+      "Padat (Compact Powder)",
+      "Krim",
+      "Cair",
+      "Stick",
+      "Tabur (Loose Powder)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bedak tabur baik untuk menyerap minyak berlebih di wajah."
+  },
+  {
+    "id": "SN_KC_31",
+    "pertanyaan": "Kosmetik untuk bibir yang memberikan warna yang pekat (pigmented) disebut...",
+    "opsi": [
+      "Lipstick",
+      "Lip Gloss",
+      "Lip Balm",
+      "Lip Tint",
+      "Lip Scrub"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Lipstick tersedia dalam finishing matte, satin, atau creamy."
+  },
+  {
+    "id": "SN_KC_32",
+    "pertanyaan": "Kosmetik bibir yang tujuannya hanya memberikan efek kilau/basah disebut...",
+    "opsi": [
+      "Lipstick Matte",
+      "Lip Gloss",
+      "Lip Liner",
+      "Concealer bibir",
+      "Pasta gigi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Lip gloss membuat bibir terlihat lebih penuh."
+  },
+  {
+    "id": "SN_KC_33",
+    "pertanyaan": "Pembersihan area ketiak atau kaki dari bulu yang tidak diinginkan dengan menggunakan cairan lengket panas disebut...",
+    "opsi": [
+      "Shaving",
+      "Bleaching",
+      "Waxing",
+      "Facial",
+      "Spa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Waxing mencabut rambut sampai ke akarnya."
+  },
+  {
+    "id": "SN_KC_34",
+    "pertanyaan": "Apa manfaat massage (pijat) saat melakukan perawatan spa atau facial?",
+    "opsi": [
+      "Hanya supaya mengantuk",
+      "Membikin kulit perih",
+      "Menghilangkan makeup saja",
+      "Melancarakan peredaran darah, merelaksasi otot, dan mengurangi stres",
+      "Menambah berat badan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sentuhan fisik yang lembut memicu hormon relaksasi."
+  },
+  {
+    "id": "SN_KC_35",
+    "pertanyaan": "Salah satu etika kerja asisten kecantikan saat melayani pelanggan adalah...",
+    "opsi": [
+      "Banyak bergosip di depan pelanggan",
+      "Memakai baju kotor",
+      "Menggunakan alat yang sudah dipakai orang lain",
+      "Asal-asalan saat bekerja",
+      "Ramah, sopan, dan menjaga kerahasiaan masalah kulit pelanggan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kenyamanan dan kepercayaan pelanggan adalah kunci bisnis kecantikan."
+  },
+  {
+    "id": "SN_KC_36",
+    "pertanyaan": "Alat manicure yang digunakan untuk membuang kulit mati di pinggiran kuku (kutikula) adalah...",
+    "opsi": [
+      "Cuticle Nipper (Tang Kutikula)",
+      "Gunting Kuku",
+      "Palu",
+      "Obeng",
+      "Sikat Gigi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Harus dilakukan sangat hati-hati agar tidak melukai jari."
+  },
+  {
+    "id": "SN_KC_37",
+    "pertanyaan": "Bau parfum yang paling tahan lama di kulit karena konsentrasi minyak wanginya paling tinggi adalah...",
+    "opsi": [
+      "Eau de Cologne",
+      "Eau de Parfum",
+      "Eau de Toilette",
+      "Body Splash",
+      "Bedak Harum"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Semakin tinggi konsentrasi minyak esensial, semakin lama wanginya bertahan."
+  },
+  {
+    "id": "SN_KC_38",
+    "pertanyaan": "Bedak padat yang praktis dibawa kemana-mana disebut bedak...",
+    "opsi": [
+      "Loose Powder",
+      "Liquid Powder",
+      "Compact Powder",
+      "Shimmer",
+      "Bronzer"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Compact powder biasanya sudah dilengkapi cermin dan spons di dalamnya."
+  },
+  {
+    "id": "SN_KC_39",
+    "pertanyaan": "Jenis masker wajah yang setelah kering dapat ditarik/dilepas (tanpa bilas air) disebut...",
+    "opsi": [
+      "Clay Mask",
+      "Sheet Mask",
+      "Cream Mask",
+      "Peel-off Mask",
+      "Masker Kain"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Membantu mengangkat komedo dan kotoran pori-pori secara fisik."
+  },
+  {
+    "id": "SN_KC_40",
+    "pertanyaan": "Untuk membuat riasan wajah yang dramatis pada area mata, biasanya digunakan warna-warna...",
+    "opsi": [
+      "Warna Putih saja",
+      "Tanpa warna",
+      "Warna Transparan",
+      "Warna Kulit",
+      "Warna Gelap/Bold (Smokey Eyes)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Teknik smokey eyes menggunakan gradasi warna gelap (abu-abu/hitam)."
+  },
+  {
+    "id": "SN_KC_41",
+    "pertanyaan": "Berapakah jarak minimal alat catok rambut dari kulit kepala agar tidak melepuh?",
+    "opsi": [
+      "Sekitar 1-2 cm",
+      "Menempel langsung",
+      "100 cm",
+      "Jauh sekali",
+      "Tidak perlu jarak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Keamanan kulit pelanggan harus diutamakan (safety first)."
+  },
+  {
+    "id": "SN_KC_42",
+    "pertanyaan": "Aktivitas 'Blow Dry' pada penataan rambut menghasilkan efek...",
+    "opsi": [
+      "Rambut sangat lurus menempel",
+      "Rambut bervolume, berkilau, dan tertata rapi",
+      "Rambut kusut",
+      "Rambut beruban",
+      "Rambut hilang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Menggunakan sisir bulat (round brush) dan hair dryer."
+  },
+  {
+    "id": "SN_KC_43",
+    "pertanyaan": "Spons makeup yang bentuknya menyerupai telur dan digunakan untuk blend foundation disebut...",
+    "opsi": [
+      "Kapas",
+      "Tisu",
+      "Beauty Blender",
+      "Kain",
+      "Kuas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Beauty blender harus dibasahi sedikit agar foundation tidak terserap ke dalam spons."
+  },
+  {
+    "id": "SN_KC_44",
+    "pertanyaan": "Krim yang digunakan untuk mencegah iritasi saat melakukan proses pengeritingan atau pelurusan rambut kimia disebut...",
+    "opsi": [
+      "Shampoo",
+      "Cat",
+      "Oli",
+      "Barrier Cream / Neutralizer",
+      "Lulur"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Melindungi kulit sensitif di sekitar garis rambut."
+  },
+  {
+    "id": "SN_KC_45",
+    "pertanyaan": "Aparatus kecantikan yang mengeluarkan uap panas ke wajah untuk membuka pori-pori disebut...",
+    "opsi": [
+      "Kipas angin",
+      "AC",
+      "Kompor",
+      "Setrika",
+      "Face Steamer"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Mempermudah ekstraksi komedo dan penetrasi krim pijat."
+  },
+  {
+    "id": "SN_KC_46",
+    "pertanyaan": "Warna dasar dalam lingkaran warna adalah...",
+    "opsi": [
+      "Merah, Kuning, Biru",
+      "Hitam dan Putih",
+      "Hijau, Jingga, Ungu",
+      "Cokelat",
+      "Abu-abu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Dari warna primer inilah semua warna makeup lainnya dihasilkan."
+  },
+  {
+    "id": "SN_KC_47",
+    "pertanyaan": "Apa itu 'Informed Consent' dalam dunia perawatan kecantikan?",
+    "opsi": [
+      "Nota belanja",
+      "Persetujuan tertulis pelanggan setelah dijelaskan risiko dan prosedur perawatan",
+      "Iklan promo",
+      "Daftar harga",
+      "Kartu nama"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penting sebagai payung hukum jika terjadi alergi atau ketidakpuasan hasil."
+  },
+  {
+    "id": "SN_KC_48",
+    "pertanyaan": "Lensa kontak (Contact Lens) berwarna yang sering digunakan untuk menunjang makeup mata harus diperhatikan...",
+    "opsi": [
+      "Harganya saja",
+      "Supaya terlihat seperti boneka saja",
+      "Masa pakai, kebersihan cairan, dan kenyamanan mata (jangan dipakai tidur)",
+      "Bisa dipinjamkan teman",
+      "Warna baju saja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Lensa kontak yang kotor dapat menyebabkan infeksi mata serius."
+  },
+  {
+    "id": "SN_KC_49",
+    "pertanyaan": "Berapakah durasi ideal cuci tangan terapis kecantikan sebelum menyentuh wajah pelanggan?",
+    "opsi": [
+      "1 detik",
+      "1 jam",
+      "Tidak perlu cuci tangan",
+      "20-40 detik (cuci tangan bersih)",
+      "Hanya jika ingat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Menjamin tangan higienis dan tidak memindahkan bakteri ke wajah pelanggan."
+  },
+  {
+    "id": "SN_KC_50",
+    "pertanyaan": "Peluang wirausaha di bidang kecantikan sangat besar karena...",
+    "opsi": [
+      "Hanya tren sebentar",
+      "Barang makeup mudah didapat",
+      "Tidak butuh modal",
+      "Tidak butuh keahlian",
+      "Kebutuhan manusia untuk tampil percaya diri dan menawan selalu ada"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Industri kecantikan (Beauty Industry) terus tumbuh seiring gaya hidup modern."
+  }
+]

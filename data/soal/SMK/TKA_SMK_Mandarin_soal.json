@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_MD_01",
+    "pertanyaan": "Arti dari 'Ni hao' (你好) adalah...",
+    "opsi": [
+      "Halo / Apa kabar",
+      "Terima kasih",
+      "Maaf",
+      "Sampai jumpa",
+      "Selamat pagi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Salam pembuka standar dalam Bahasa Mandarin."
+  },
+  {
+    "id": "TKA_SMK_MD_02",
+    "pertanyaan": "Nada ke-2 dalam Bahasa Mandarin biasanya digambarkan dengan garis...",
+    "opsi": [
+      "Datar",
+      "Naik",
+      "Melengkung (Turun-Naik)",
+      "Turun",
+      "Tidak ada"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Nada 1 (datar), 2 (naik), 3 (turun-naik), 4 (turun)."
+  },
+  {
+    "id": "TKA_SMK_MD_03",
+    "pertanyaan": "Bahasa Mandarin dari 'Terima kasih' adalah...",
+    "opsi": [
+      "Bu keqi",
+      "Dui bu qi",
+      "Xie xie",
+      "Mei guanxi",
+      "Zai jian"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Xie xie\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_04",
+    "pertanyaan": "Kata ganti orang ketiga tunggal 'Dia' (Laki-laki) dalam Pinyin adalah...",
+    "opsi": [
+      "Wo",
+      "Ni",
+      "Women",
+      "Ta",
+      "Nimen"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Ta\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_05",
+    "pertanyaan": "Arti dari kata 'Xuesheng' (学生) adalah...",
+    "opsi": [
+      "Guru",
+      "Dokter",
+      "Pegawai",
+      "Polisi",
+      "Siswa / Pelajar"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Siswa / Pelajar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_06",
+    "pertanyaan": "Bilangan '20' dalam Bahasa Mandarin diucapkan...",
+    "opsi": [
+      "Er shi",
+      "Shi",
+      "Shi er",
+      "Er",
+      "Shi shi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "2 (er) + 10 (shi) = 20 (er shi). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Er shi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_07",
+    "pertanyaan": "Arti dari 'Zai jian' (再见) adalah...",
+    "opsi": [
+      "Apa kabar",
+      "Selamat tinggal / Sampai jumpa",
+      "Maaf",
+      "Sama-sama",
+      "Halo"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Selamat tinggal / Sampai jumpa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_08",
+    "pertanyaan": "Urutan penulisan goresan Hanzi dimulai dari...",
+    "opsi": [
+      "Bawah ke Atas",
+      "Kanan ke Kiri",
+      "Kiri ke Kanan dan Atas ke Bawah",
+      "Tengah ke Samping",
+      "Belakang ke Depan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kiri ke Kanan dan Atas ke Bawah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_09",
+    "pertanyaan": "Kata tanya 'Apa' dalam Bahasa Mandarin adalah...",
+    "opsi": [
+      "Shui",
+      "Nar",
+      "Zenme",
+      "Shenme",
+      "Wei shenme"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Shenme\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_10",
+    "pertanyaan": "Arti dari 'Wo ai ni' (我爱你) adalah...",
+    "opsi": [
+      "Saya benci kamu",
+      "Kamu siapa",
+      "Saya pergi dulu",
+      "Terima kasih kembali",
+      "Saya cinta kamu"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Saya cinta kamu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_11",
+    "pertanyaan": "Bahasa Mandarin dari 'Ayah' adalah...",
+    "opsi": [
+      "Baba",
+      "Mama",
+      "Gege",
+      "Meimei",
+      "Jiejie"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Baba\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_12",
+    "pertanyaan": "Jika sekarang jam 8 pagi, salam yang tepat adalah...",
+    "opsi": [
+      "Wu an",
+      "Zao an",
+      "Wan an",
+      "Zai jian",
+      "Dui bu qi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Zao an = Selamat pagi. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Zao an\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_13",
+    "pertanyaan": "Warna 'Merah' (Hongse) identik dengan keberuntungan di Tiongkok. Hanzi-nya adalah...",
+    "opsi": [
+      "蓝色",
+      "黑色",
+      "红色",
+      "白色",
+      "黄色"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"红色\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_14",
+    "pertanyaan": "Arti dari 'Meiguo' (美国) adalah negara...",
+    "opsi": [
+      "Prancis",
+      "Jepang",
+      "Inggris",
+      "Amerika Serikat",
+      "Indonesia"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Amerika Serikat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_15",
+    "pertanyaan": "Angka '9' dalam Mandarin adalah...",
+    "opsi": [
+      "Wu",
+      "Liu",
+      "Qi",
+      "Ba",
+      "Jiu"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi E karena sesuai dengan konsep utama pada soal, yaitu \"Jiu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_16",
+    "pertanyaan": "Penerjemahan harfiah 'Zhongguo' (中国) adalah...",
+    "opsi": [
+      "Negara Tengah",
+      "Negara Timur",
+      "Negara Barat",
+      "Negara Surgawi",
+      "Negara Naga"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Negara Tengah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_17",
+    "pertanyaan": "Kata kerja 'Makan' adalah...",
+    "opsi": [
+      "He",
+      "Chi",
+      "Shuo",
+      "Xie",
+      "Kan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Chi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_18",
+    "pertanyaan": "Arti dari 'Dui bu qi' (对不起) adalah...",
+    "opsi": [
+      "Halo",
+      "Sama-sama",
+      "Maaf",
+      "Silakan",
+      "Misi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Maaf\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_19",
+    "pertanyaan": "Jika ingin menanyakan nama seseorang, kita mengucapkan 'Ni jiao ... mingzi?'",
+    "opsi": [
+      "Shui",
+      "Ji",
+      "Duo",
+      "Shenme",
+      "Nar"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Shenme\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_20",
+    "pertanyaan": "Angka '8' dalam Mandarin dianggap angka keberuntungan, diucapkan...",
+    "opsi": [
+      "Si",
+      "Wu",
+      "Liu",
+      "Jiu",
+      "Ba"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Ba\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_21",
+    "pertanyaan": "Bahasa Mandarin dari 'Indonesia' adalah...",
+    "opsi": [
+      "Yindunixiya",
+      "Meiguo",
+      "Faguo",
+      "Riben",
+      "Hanguo"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Yindunixiya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_22",
+    "pertanyaan": "Hari 'Minggu' disebut 'Xingqi ...'",
+    "opsi": [
+      "Yi",
+      "Tian",
+      "Er",
+      "San",
+      "Si"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi E karena sesuai dengan konsep utama pada soal, yaitu \"Tian\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_23",
+    "pertanyaan": "Minuman yang sangat terkenal di Tiongkok adalah 'Cha' (茶), artinya...",
+    "opsi": [
+      "Kopi",
+      "Susu",
+      "Teh",
+      "Air putih",
+      "Jus"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Teh\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_24",
+    "pertanyaan": "Kata 'Laoshi' (老师) ditujukan untuk profesi...",
+    "opsi": [
+      "Dokter",
+      "Insinyur",
+      "Sopir",
+      "Guru",
+      "Koki"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Guru\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_25",
+    "pertanyaan": "Cara menanyakan kabar selain 'Ni hao ma?' adalah 'Ni ... senmeyang?'",
+    "opsi": [
+      "Ming tian",
+      "Xian zai",
+      "Dou",
+      "Ba",
+      "Zui jin"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Zui jin artinya akhir-akhir ini. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Zui jin\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_26",
+    "pertanyaan": "Hanzi dari angka '1' adalah...",
+    "opsi": [
+      "一",
+      "二",
+      "三",
+      "十",
+      "百"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"一\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_27",
+    "pertanyaan": "Kata 'Hen' (很) dalam kalimat 'Wo hen hao' berarti...",
+    "opsi": [
+      "Tidak",
+      "Sangat",
+      "Juga",
+      "Mungkin",
+      "Lagi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Sangat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_28",
+    "pertanyaan": "Arti dari 'Wo de' (我的) adalah...",
+    "opsi": [
+      "Kamu punya",
+      "Mereka punya",
+      "Saya punya / Milik saya",
+      "Kita punya",
+      "Bukan saya"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Saya punya / Milik saya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_29",
+    "pertanyaan": "Mandarin dari 'Sekolah' adalah...",
+    "opsi": [
+      "Yiyuan",
+      "Fandian",
+      "Shudian",
+      "Xuexiao",
+      "Yinhang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Xuexiao\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_30",
+    "pertanyaan": "Zodiac Tiongkok disebut dengan istilah...",
+    "opsi": [
+      "Shu",
+      "Xingzuo",
+      "Bagua",
+      "Fengshui",
+      "Shengxiao (Shio)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Shengxiao (Shio)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_31",
+    "pertanyaan": "Arti dari 'Bu' (不) adalah...",
+    "opsi": [
+      "Tidak",
+      "Ya",
+      "Bisa",
+      "Mau",
+      "Perlu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tidak\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_32",
+    "pertanyaan": "Mandarin dari 'Kakak laki-laki' adalah...",
+    "opsi": [
+      "Baba",
+      "Gege",
+      "Mama",
+      "Didi",
+      "Jiejie"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Gege\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_33",
+    "pertanyaan": "Hanzi 'Ren' (人) melambangkan...",
+    "opsi": [
+      "Tumbuhan",
+      "Bumi",
+      "Manusia",
+      "Langit",
+      "Gunung"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Manusia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_34",
+    "pertanyaan": "Ucapan selamat ulang tahun adalah 'Zhu ni shengri ...'",
+    "opsi": [
+      "Hao",
+      "Zaijian",
+      "Xiexie",
+      "Kuaile",
+      "Duibuqi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kuaile\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_35",
+    "pertanyaan": "Mata uang Tiongkok secara resmi disebut...",
+    "opsi": [
+      "Yuan",
+      "Yen",
+      "Ringgit",
+      "Dollar",
+      "RMB (Renminbi)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Yuan adalah satuannya, RMB nama mata uangnya."
+  },
+  {
+    "id": "TKA_SMK_MD_36",
+    "pertanyaan": "Arti dari 'Qing wen' (请问) adalah...",
+    "opsi": [
+      "Numpang tanya / Misi mau tanya",
+      "Silakan duduk",
+      "Silakan makan",
+      "Sampai jumpa",
+      "Terima kasih"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Numpang tanya / Misi mau tanya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_37",
+    "pertanyaan": "Pinyin 'K' dibaca mirip dengan huruf ... dalam bahasa Indonesia.",
+    "opsi": [
+      "K biasa",
+      "Kh (disertai hembusan angin)",
+      "G",
+      "B",
+      "S"
+    ],
+    "jawaban": 1,
+    "pembahasan": "K adalah konsonan aspirasi. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kh (disertai hembusan angin)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_38",
+    "pertanyaan": "Waktu 'Sekarang' dalam Mandarin adalah...",
+    "opsi": [
+      "Jintian",
+      "Mingtian",
+      "Xianzai",
+      "Zuotian",
+      "Houtian"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Xianzai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_39",
+    "pertanyaan": "Makanan khas Tiongkok yang berupa pangsit air disebut...",
+    "opsi": [
+      "Mantou",
+      "Baozi",
+      "Mian",
+      "Jiaozi",
+      "Tofu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Jiaozi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_40",
+    "pertanyaan": "Pertanyaan 'Ni hao ma?' diakhiri dengan partikel tanya...",
+    "opsi": [
+      "Ba",
+      "Le",
+      "Ne",
+      "De",
+      "Ma"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Ma\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_41",
+    "pertanyaan": "Mandarin dari 'Minum' adalah...",
+    "opsi": [
+      "He",
+      "Chi",
+      "Wan",
+      "Shui",
+      "Zuo"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"He\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_42",
+    "pertanyaan": "Sapaan untuk 'Kalian' adalah...",
+    "opsi": [
+      "Women",
+      "Nimen",
+      "Tamen",
+      "Dajia",
+      "Ni"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Nimen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_43",
+    "pertanyaan": "Kota Ibu Kota Tiongkok adalah...",
+    "opsi": [
+      "Shanghai",
+      "Guangzhou",
+      "Beijing",
+      "Shenzhen",
+      "Chengdu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Beijing\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_44",
+    "pertanyaan": "Arti dari Hanzi 'Shan' (山) adalah...",
+    "opsi": [
+      "Sungai",
+      "Hutan",
+      "Laut",
+      "Gunung",
+      "Sawah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Gunung\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_45",
+    "pertanyaan": "Hanzi dari '100' adalah...",
+    "opsi": [
+      "十",
+      "千",
+      "万",
+      "亿",
+      "百 (Bai)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"百 (Bai)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_46",
+    "pertanyaan": "Bulan 'Januari' disebut...",
+    "opsi": [
+      "Yi yue",
+      "Er yue",
+      "San yue",
+      "Shi yue",
+      "Shiyi yue"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Yi yue\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_47",
+    "pertanyaan": "Alat makan tradisional Tiongkok adalah 'Kuai zi', artinya...",
+    "opsi": [
+      "Sendok",
+      "Sumpit",
+      "Garpu",
+      "Pisau",
+      "Piring"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Sumpit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_48",
+    "pertanyaan": "Arti dari 'Wo de pengyou' adalah...",
+    "opsi": [
+      "Guru saya",
+      "Ayah saya",
+      "Teman saya",
+      "Rumah saya",
+      "Sekolah saya"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Teman saya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_49",
+    "pertanyaan": "Partikel 'le' (了) biasanya menunjukkan bahwa suatu perbuatan...",
+    "opsi": [
+      "Sedang dilakukan",
+      "Akan dilakukan",
+      "Mungkin dilakukan",
+      "Sudah selesai dilakukan",
+      "Palsu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sudah selesai dilakukan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MD_50",
+    "pertanyaan": "Mengapa Bahasa Mandarin dianggap bahasa masa depan bagi lulusan SMK?",
+    "opsi": [
+      "Biar bisa nonton drama",
+      "Supaya jago menyanyi",
+      "Hanya untuk keren-kerenan",
+      "Tidak penting",
+      "Karena ekonomi Tiongkok yang mendunia membuka banyak peluang kerja dan bisnis internasional"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Karena ekonomi Tiongkok yang mendunia membuka banyak peluang kerja dan bisnis internasional\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls8-pjok",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "PJOK",
+  "materi": "Variasi Bermain Bola, Senam Ketangkasan, Kebugaran Jasmani, Penyakit Menular",
+  "deskripsi": "Materi PJOK Kelas 8 berfokus pada variasi gerak spesifik dalam olahraga permainan, peningkatan kebugaran, dan pengetahuan tentang bahaya pergaulan bebas serta penyakit.",
+  "konten": [
+    {
+      "bab": "1. Variasi Gerak Spesifik Permainan",
+      "teks": "Mengombinasikan gerak mengoper, menghentikan, dan menggiring bola pada sepak bola, basket, atau voli."
+    },
+    {
+      "bab": "2. Aktivitas Atletik Lanjutan",
+      "teks": "Mempraktikkan variasi gerak jalan cepat, lari jarak menengah/jauh, tolak peluru, dan lompat jauh gaya jongkok/menggantung."
+    },
+    {
+      "bab": "3. Kebugaran Jasmani",
+      "teks": "Latihan komponen kebugaran jasmani peningkat daya tahan, kelincahan (agility test), keseimbangan, dan kecepatan."
+    },
+    {
+      "bab": "4. Senam Lantai Ketangkasan",
+      "teks": "Mempraktikkan rangkaian gerakan senam meroda (cartwheel), guling lenting (neck spring), dan sikap lilin."
+    },
+    {
+      "bab": "5. Bahaya Pergaulan Bebas dan Penyakit Menular",
+      "teks": "Memahami dampak negatif pergaulan bebas, kenakalan remaja, serta upaya pencegahan Penyakit Menular Seksual (PMS) seperti HIV/AIDS."
+    }
+  ],
+  "tag": ["smp-8", "pjok", "olahraga", "kebugaran", "kesehatan-remaja"]
+}

@@ -1,0 +1,1334 @@
+{
+  "id": "soal_index",
+  "totalFile": 166,
+  "entries": [
+    {
+      "path": "soal/CPNS/cpns_latihan_lengkap.json",
+      "file": "cpns_latihan_lengkap.json",
+      "category": "CPNS",
+      "id": "cpns-latihan-lengkap",
+      "title": "CPNS",
+      "itemCount": 3000
+    },
+    {
+      "path": "soal/CPNS/cpns_tiu_latihan.json",
+      "file": "cpns_tiu_latihan.json",
+      "category": "CPNS",
+      "id": "cpns-tiu-latihan",
+      "title": "CPNS",
+      "itemCount": 1000
+    },
+    {
+      "path": "soal/CPNS/cpns_tkp_latihan.json",
+      "file": "cpns_tkp_latihan.json",
+      "category": "CPNS",
+      "id": "cpns-tkp-latihan",
+      "title": "CPNS",
+      "itemCount": 1000
+    },
+    {
+      "path": "soal/CPNS/cpns_twk_latihan.json",
+      "file": "cpns_twk_latihan.json",
+      "category": "CPNS",
+      "id": "cpns-twk-latihan",
+      "title": "CPNS",
+      "itemCount": 1000
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Agroteknologi_soal.json",
+      "file": "Kuliah_Agroteknologi_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Akuntansi_Sertifikasi_soal.json",
+      "file": "Kuliah_Akuntansi_Sertifikasi_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Arsitektur_soal.json",
+      "file": "Kuliah_Arsitektur_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_CPNS_soal.json",
+      "file": "Kuliah_CPNS_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 3000
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Ekonomi_soal.json",
+      "file": "Kuliah_Ekonomi_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Elektro_soal.json",
+      "file": "Kuliah_Elektro_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Farmasi_soal.json",
+      "file": "Kuliah_Farmasi_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Fisika_soal.json",
+      "file": "Kuliah_Fisika_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_HI_soal.json",
+      "file": "Kuliah_HI_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Hukum_soal.json",
+      "file": "Kuliah_Hukum_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Informatika_soal.json",
+      "file": "Kuliah_Informatika_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Kedokteran_soal.json",
+      "file": "Kuliah_Kedokteran_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Kelautan_soal.json",
+      "file": "Kuliah_Kelautan_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Keperawatan_soal.json",
+      "file": "Kuliah_Keperawatan_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Komunikasi_soal.json",
+      "file": "Kuliah_Komunikasi_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Matematika_soal.json",
+      "file": "Kuliah_Matematika_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Persiapan_Kerja_soal.json",
+      "file": "Kuliah_Persiapan_Kerja_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Psikologi_soal.json",
+      "file": "Kuliah_Psikologi_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Psikotes_soal.json",
+      "file": "Kuliah_Psikotes_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Sipil_soal.json",
+      "file": "Kuliah_Sipil_soal.json",
+      "category": "KULIAH",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/KULIAH/kuliah_tpa_100_soal.json",
+      "file": "kuliah_tpa_100_soal.json",
+      "category": "KULIAH",
+      "id": "kuliah_tpa_100",
+      "title": "Ujian Mandiri / TPA Kuliah",
+      "itemCount": 100
+    },
+    {
+      "path": "soal/SD/SD_Kelas1_BahasaIndonesia.json",
+      "file": "SD_Kelas1_BahasaIndonesia.json",
+      "category": "SD",
+      "id": "latihan-sd-kls1-bi",
+      "title": "Bahasa Indonesia Kelas 1",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas1_Matematika.json",
+      "file": "SD_Kelas1_Matematika.json",
+      "category": "SD",
+      "id": "latihan-sd-kls1-mat",
+      "title": "Matematika Kelas 1",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas2_BahasaIndonesia.json",
+      "file": "SD_Kelas2_BahasaIndonesia.json",
+      "category": "SD",
+      "id": "latihan-sd-kls2-bi",
+      "title": "Bahasa Indonesia Kelas 2",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas2_Matematika.json",
+      "file": "SD_Kelas2_Matematika.json",
+      "category": "SD",
+      "id": "latihan-sd-kls2-mat",
+      "title": "Matematika Kelas 2",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas3_BahasaIndonesia.json",
+      "file": "SD_Kelas3_BahasaIndonesia.json",
+      "category": "SD",
+      "id": "latihan-sd-kls3-bi",
+      "title": "Bahasa Indonesia Kelas 3",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas3_IPAS.json",
+      "file": "SD_Kelas3_IPAS.json",
+      "category": "SD",
+      "id": "latihan-sd-kls3-ipas",
+      "title": "IPAS Kelas 3",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas3_Matematika.json",
+      "file": "SD_Kelas3_Matematika.json",
+      "category": "SD",
+      "id": "latihan-sd-kls3-mat",
+      "title": "Matematika Kelas 3",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas4_BahasaIndonesia.json",
+      "file": "SD_Kelas4_BahasaIndonesia.json",
+      "category": "SD",
+      "id": "sd-4-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas4_IPAS.json",
+      "file": "SD_Kelas4_IPAS.json",
+      "category": "SD",
+      "id": "sd-4-ipas",
+      "title": "IPAS",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas4_Matematika.json",
+      "file": "SD_Kelas4_Matematika.json",
+      "category": "SD",
+      "id": "sd-4-mat",
+      "title": "Matematika",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas5_BahasaIndonesia.json",
+      "file": "SD_Kelas5_BahasaIndonesia.json",
+      "category": "SD",
+      "id": "sd-5-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas5_IPAS.json",
+      "file": "SD_Kelas5_IPAS.json",
+      "category": "SD",
+      "id": "sd-5-ipas",
+      "title": "IPAS",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas5_Matematika.json",
+      "file": "SD_Kelas5_Matematika.json",
+      "category": "SD",
+      "id": "sd-5-mat",
+      "title": "Matematika",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas6_BahasaIndonesia.json",
+      "file": "SD_Kelas6_BahasaIndonesia.json",
+      "category": "SD",
+      "id": "sd-6-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas6_IPAS.json",
+      "file": "SD_Kelas6_IPAS.json",
+      "category": "SD",
+      "id": "sd-6-ipas",
+      "title": "IPAS",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SD/SD_Kelas6_Matematika.json",
+      "file": "SD_Kelas6_Matematika.json",
+      "category": "SD",
+      "id": "sd-6-mat",
+      "title": "Matematika",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMA/SMA_Biologi_soal.json",
+      "file": "SMA_Biologi_soal.json",
+      "category": "SMA",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMA/SMA_Ekonomi_soal.json",
+      "file": "SMA_Ekonomi_soal.json",
+      "category": "SMA",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMA/SMA_Fisika_soal.json",
+      "file": "SMA_Fisika_soal.json",
+      "category": "SMA",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMA/SMA_Geografi_soal.json",
+      "file": "SMA_Geografi_soal.json",
+      "category": "SMA",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMA/SMA_Informatika_soal.json",
+      "file": "SMA_Informatika_soal.json",
+      "category": "SMA",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMA/SMA_Kimia_soal.json",
+      "file": "SMA_Kimia_soal.json",
+      "category": "SMA",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMA/SMA_MatematikaLanjut_soal.json",
+      "file": "SMA_MatematikaLanjut_soal.json",
+      "category": "SMA",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMA/SMA_Sejarah_soal.json",
+      "file": "SMA_Sejarah_soal.json",
+      "category": "SMA",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMA/SMA_Sosiologi_soal.json",
+      "file": "SMA_Sosiologi_soal.json",
+      "category": "SMA",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Agribisnis_Perikanan_soal.json",
+      "file": "Agribisnis_Perikanan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Agribisnis_Tanaman_soal.json",
+      "file": "Agribisnis_Tanaman_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Agribisnis_Ternak_soal.json",
+      "file": "Agribisnis_Ternak_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/AKL_AkuntansiDasar_soal.json",
+      "file": "AKL_AkuntansiDasar_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/AKL_AkuntansiKeuangan_soal.json",
+      "file": "AKL_AkuntansiKeuangan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/AKL_AkuntansiLembaga_soal.json",
+      "file": "AKL_AkuntansiLembaga_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/AKL_KomputerAkuntansi_soal.json",
+      "file": "AKL_KomputerAkuntansi_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/AKL_LayananPerbankan_soal.json",
+      "file": "AKL_LayananPerbankan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/AKL_Perpajakan_soal.json",
+      "file": "AKL_Perpajakan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/AKL_Spreadsheet_soal.json",
+      "file": "AKL_Spreadsheet_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/BisnisDigital_DigitalBranding_soal.json",
+      "file": "BisnisDigital_DigitalBranding_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/BisnisDigital_ECommerce_soal.json",
+      "file": "BisnisDigital_ECommerce_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/BisnisDigital_MarketingDasar_soal.json",
+      "file": "BisnisDigital_MarketingDasar_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Kehutanan_soal.json",
+      "file": "Kehutanan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Kesehatan_Farmasi_soal.json",
+      "file": "Kesehatan_Farmasi_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Kesehatan_Keperawatan_soal.json",
+      "file": "Kesehatan_Keperawatan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Maritime_Nautika_soal.json",
+      "file": "Maritime_Nautika_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Maritime_Teknika_soal.json",
+      "file": "Maritime_Teknika_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/MPLB_Kearsipan_soal.json",
+      "file": "MPLB_Kearsipan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/MPLB_Kepegawaian_soal.json",
+      "file": "MPLB_Kepegawaian_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/MPLB_Keuangan_soal.json",
+      "file": "MPLB_Keuangan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/MPLB_Korespondensi_soal.json",
+      "file": "MPLB_Korespondensi_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/MPLB_TataKelola_soal.json",
+      "file": "MPLB_TataKelola_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Pariwisata_Kuliner_soal.json",
+      "file": "Pariwisata_Kuliner_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Pariwisata_Perhotelan_soal.json",
+      "file": "Pariwisata_Perhotelan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/PAR_Kecantikan_soal.json",
+      "file": "PAR_Kecantikan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/PAR_Kuliner_soal.json",
+      "file": "PAR_Kuliner_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/PAR_Perhotelan_soal.json",
+      "file": "PAR_Perhotelan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/PAR_ULW_soal.json",
+      "file": "PAR_ULW_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Seni_Animasi_soal.json",
+      "file": "Seni_Animasi_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Seni_Busana_soal.json",
+      "file": "Seni_Busana_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Seni_Kecantikan_soal.json",
+      "file": "Seni_Kecantikan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Seni_Musik_soal.json",
+      "file": "Seni_Musik_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Seni_Tari_soal.json",
+      "file": "Seni_Tari_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Teknik_Konstruksi_soal.json",
+      "file": "Teknik_Konstruksi_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Teknik_Listrik_soal.json",
+      "file": "Teknik_Listrik_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Teknik_Logistik_soal.json",
+      "file": "Teknik_Logistik_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Teknik_Mekatronika_soal.json",
+      "file": "Teknik_Mekatronika_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Teknik_Mesin_soal.json",
+      "file": "Teknik_Mesin_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/Teknik_Otomotif_soal.json",
+      "file": "Teknik_Otomotif_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TI_Broadcasting_soal.json",
+      "file": "TI_Broadcasting_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TI_DKV_soal.json",
+      "file": "TI_DKV_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TI_PPLG_soal.json",
+      "file": "TI_PPLG_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TI_TKJ_soal.json",
+      "file": "TI_TKJ_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_AkuntansiDasar_soal.json",
+      "file": "TKA_SMK_AkuntansiDasar_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Arab_soal.json",
+      "file": "TKA_SMK_Arab_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_BahasaIndonesia_soal.json",
+      "file": "TKA_SMK_BahasaIndonesia_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_BahasaInggris_soal.json",
+      "file": "TKA_SMK_BahasaInggris_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Biologi_soal.json",
+      "file": "TKA_SMK_Biologi_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Busana_soal.json",
+      "file": "TKA_SMK_Busana_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Ekonomi_soal.json",
+      "file": "TKA_SMK_Ekonomi_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Fisika_soal.json",
+      "file": "TKA_SMK_Fisika_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Geografi_soal.json",
+      "file": "TKA_SMK_Geografi_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Jepang_soal.json",
+      "file": "TKA_SMK_Jepang_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Kecantikan_soal.json",
+      "file": "TKA_SMK_Kecantikan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Kimia_soal.json",
+      "file": "TKA_SMK_Kimia_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Korea_soal.json",
+      "file": "TKA_SMK_Korea_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Kuliner_soal.json",
+      "file": "TKA_SMK_Kuliner_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Logistik_soal.json",
+      "file": "TKA_SMK_Logistik_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_ManajemenPerkantoran_soal.json",
+      "file": "TKA_SMK_ManajemenPerkantoran_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Mandarin_soal.json",
+      "file": "TKA_SMK_Mandarin_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Matematika_soal.json",
+      "file": "TKA_SMK_Matematika_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_MatLat_soal.json",
+      "file": "TKA_SMK_MatLat_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Pancasila_soal.json",
+      "file": "TKA_SMK_Pancasila_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Perhotelan_soal.json",
+      "file": "TKA_SMK_Perhotelan_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_PKK_soal.json",
+      "file": "TKA_SMK_PKK_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Sejarah_soal.json",
+      "file": "TKA_SMK_Sejarah_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_SeniBudaya_soal.json",
+      "file": "TKA_SMK_SeniBudaya_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Sosiologi_soal.json",
+      "file": "TKA_SMK_Sosiologi_soal.json",
+      "category": "SMK",
+      "id": null,
+      "title": null,
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_BahasaIndonesia.json",
+      "file": "SMP_Kelas7_BahasaIndonesia.json",
+      "category": "SMP",
+      "id": "smp-7-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_BahasaInggris.json",
+      "file": "SMP_Kelas7_BahasaInggris.json",
+      "category": "SMP",
+      "id": "smp-7-bing",
+      "title": "Bahasa Inggris",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_Informatika.json",
+      "file": "SMP_Kelas7_Informatika.json",
+      "category": "SMP",
+      "id": "smp-7-tik",
+      "title": "Informatika",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_IPA.json",
+      "file": "SMP_Kelas7_IPA.json",
+      "category": "SMP",
+      "id": "smp-7-ipa",
+      "title": "IPA",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_IPS.json",
+      "file": "SMP_Kelas7_IPS.json",
+      "category": "SMP",
+      "id": "smp-7-ips",
+      "title": "IPS",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_Matematika.json",
+      "file": "SMP_Kelas7_Matematika.json",
+      "category": "SMP",
+      "id": "smp-7-mat",
+      "title": "Matematika",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_PAI.json",
+      "file": "SMP_Kelas7_PAI.json",
+      "category": "SMP",
+      "id": "smp-7-pai",
+      "title": "PAI",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_PJOK.json",
+      "file": "SMP_Kelas7_PJOK.json",
+      "category": "SMP",
+      "id": "smp-7-pjok",
+      "title": "PJOK",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_PPKn.json",
+      "file": "SMP_Kelas7_PPKn.json",
+      "category": "SMP",
+      "id": "smp-7-ppkn",
+      "title": "PPKn",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_Prakarya.json",
+      "file": "SMP_Kelas7_Prakarya.json",
+      "category": "SMP",
+      "id": "smp-7-prakarya",
+      "title": "Prakarya",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_SeniBudaya.json",
+      "file": "SMP_Kelas7_SeniBudaya.json",
+      "category": "SMP",
+      "id": "smp-7-seni",
+      "title": "Seni Budaya",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_BahasaIndonesia.json",
+      "file": "SMP_Kelas8_BahasaIndonesia.json",
+      "category": "SMP",
+      "id": "smp-8-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_BahasaInggris.json",
+      "file": "SMP_Kelas8_BahasaInggris.json",
+      "category": "SMP",
+      "id": "smp-8-bing",
+      "title": "Bahasa Inggris",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_Informatika.json",
+      "file": "SMP_Kelas8_Informatika.json",
+      "category": "SMP",
+      "id": "smp-8-tik",
+      "title": "Informatika",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_IPA.json",
+      "file": "SMP_Kelas8_IPA.json",
+      "category": "SMP",
+      "id": "smp-8-ipa",
+      "title": "IPA",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_IPS.json",
+      "file": "SMP_Kelas8_IPS.json",
+      "category": "SMP",
+      "id": "smp-8-ips",
+      "title": "IPS",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_Matematika.json",
+      "file": "SMP_Kelas8_Matematika.json",
+      "category": "SMP",
+      "id": "smp-8-mat",
+      "title": "Matematika",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_PAI.json",
+      "file": "SMP_Kelas8_PAI.json",
+      "category": "SMP",
+      "id": "smp-8-pai",
+      "title": "PAI",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_PJOK.json",
+      "file": "SMP_Kelas8_PJOK.json",
+      "category": "SMP",
+      "id": "smp-8-pjok",
+      "title": "PJOK",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_PPKn.json",
+      "file": "SMP_Kelas8_PPKn.json",
+      "category": "SMP",
+      "id": "smp-8-ppkn",
+      "title": "PPKn",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_Prakarya.json",
+      "file": "SMP_Kelas8_Prakarya.json",
+      "category": "SMP",
+      "id": "smp-8-prakarya",
+      "title": "Prakarya",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_SeniBudaya.json",
+      "file": "SMP_Kelas8_SeniBudaya.json",
+      "category": "SMP",
+      "id": "smp-8-seni",
+      "title": "Seni Budaya",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_BahasaIndonesia.json",
+      "file": "SMP_Kelas9_BahasaIndonesia.json",
+      "category": "SMP",
+      "id": "smp-9-bindo",
+      "title": "Bahasa Indonesia",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_BahasaInggris.json",
+      "file": "SMP_Kelas9_BahasaInggris.json",
+      "category": "SMP",
+      "id": "smp-9-bing",
+      "title": "Bahasa Inggris",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_Informatika.json",
+      "file": "SMP_Kelas9_Informatika.json",
+      "category": "SMP",
+      "id": "smp-9-tik",
+      "title": "Informatika",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_IPA.json",
+      "file": "SMP_Kelas9_IPA.json",
+      "category": "SMP",
+      "id": "smp-9-ipa",
+      "title": "IPA",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_IPS.json",
+      "file": "SMP_Kelas9_IPS.json",
+      "category": "SMP",
+      "id": "smp-9-ips",
+      "title": "IPS",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_Matematika.json",
+      "file": "SMP_Kelas9_Matematika.json",
+      "category": "SMP",
+      "id": "smp-9-mat",
+      "title": "Matematika",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_PAI.json",
+      "file": "SMP_Kelas9_PAI.json",
+      "category": "SMP",
+      "id": "smp-9-pai",
+      "title": "Pendidikan Agama Islam",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_PJOK.json",
+      "file": "SMP_Kelas9_PJOK.json",
+      "category": "SMP",
+      "id": "smp-9-pjok",
+      "title": "PJOK",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_PPKn.json",
+      "file": "SMP_Kelas9_PPKn.json",
+      "category": "SMP",
+      "id": "smp-9-ppkn",
+      "title": "PPKn",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_Prakarya.json",
+      "file": "SMP_Kelas9_Prakarya.json",
+      "category": "SMP",
+      "id": "smp-9-prakarya",
+      "title": "Prakarya",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_SeniBudaya.json",
+      "file": "SMP_Kelas9_SeniBudaya.json",
+      "category": "SMP",
+      "id": "smp-9-seni",
+      "title": "Seni Budaya",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/TK/TK_FaseFondasi.json",
+      "file": "TK_FaseFondasi.json",
+      "category": "TK",
+      "id": "latihan-tk-fondasi-01",
+      "title": "Fase Fondasi",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/TKA_SMP/TKA_SMP_BahasaIndonesia_soal.json",
+      "file": "TKA_SMP_BahasaIndonesia_soal.json",
+      "category": "TKA_SMP",
+      "id": "TKA_SMP_BINDO_SOAL",
+      "title": "TKA SMP Bahasa Indonesia",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/TKA_SMP/TKA_SMP_BahasaInggris_soal.json",
+      "file": "TKA_SMP_BahasaInggris_soal.json",
+      "category": "TKA_SMP",
+      "id": "TKA_SMP_INGGRIS_SOAL",
+      "title": "TKA SMP Bahasa Inggris",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/TKA_SMP/TKA_SMP_IPA_soal.json",
+      "file": "TKA_SMP_IPA_soal.json",
+      "category": "TKA_SMP",
+      "id": "TKA_SMP_IPA_SOAL",
+      "title": "TKA SMP IPA",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/TKA_SMP/TKA_SMP_IPS_soal.json",
+      "file": "TKA_SMP_IPS_soal.json",
+      "category": "TKA_SMP",
+      "id": "TKA_SMP_IPS_SOAL",
+      "title": "TKA SMP IPS",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/TKA_SMP/TKA_SMP_Matematika_soal.json",
+      "file": "TKA_SMP_Matematika_soal.json",
+      "category": "TKA_SMP",
+      "id": "TKA_SMP_MAT_SOAL",
+      "title": "TKA SMP Matematika",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/TKA_SMP/TKA_SMP_Pancasila_soal.json",
+      "file": "TKA_SMP_Pancasila_soal.json",
+      "category": "TKA_SMP",
+      "id": "TKA_SMP_PANCASILA_SOAL",
+      "title": "TKA SMP Pendidikan Pancasila",
+      "itemCount": 50
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Literasi_dalam_Bahasa_Indonesia.json",
+      "file": "utbk_latihan_Literasi_dalam_Bahasa_Indonesia.json",
+      "category": "UTBK",
+      "id": "lat-lbi",
+      "title": "UTBK",
+      "itemCount": 5000
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Literasi_dalam_Bahasa_Inggris.json",
+      "file": "utbk_latihan_Literasi_dalam_Bahasa_Inggris.json",
+      "category": "UTBK",
+      "id": "lat-lbe",
+      "title": "UTBK",
+      "itemCount": 5000
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Pemahaman_Bacaan_dan_Menulis.json",
+      "file": "utbk_latihan_Pemahaman_Bacaan_dan_Menulis.json",
+      "category": "UTBK",
+      "id": "lat-pbm",
+      "title": "UTBK",
+      "itemCount": 5000
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Penalaran_Matematika.json",
+      "file": "utbk_latihan_Penalaran_Matematika.json",
+      "category": "UTBK",
+      "id": "lat-pm",
+      "title": "UTBK",
+      "itemCount": 5000
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Penalaran_Umum.json",
+      "file": "utbk_latihan_Penalaran_Umum.json",
+      "category": "UTBK",
+      "id": "lat-pu",
+      "title": "UTBK",
+      "itemCount": 5000
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Pengetahuan_dan_Pemahaman_Umum.json",
+      "file": "utbk_latihan_Pengetahuan_dan_Pemahaman_Umum.json",
+      "category": "UTBK",
+      "id": "lat-ppu",
+      "title": "UTBK",
+      "itemCount": 5000
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Pengetahuan_Kuantitatif.json",
+      "file": "utbk_latihan_Pengetahuan_Kuantitatif.json",
+      "category": "UTBK",
+      "id": "lat-pk",
+      "title": "UTBK",
+      "itemCount": 5000
+    }
+  ]
+}

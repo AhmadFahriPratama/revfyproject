@@ -1,0 +1,41 @@
+{
+  "id": "mat-lbi",
+  "tingkat": "UTBK",
+  "mapel": "Literasi dalam Bahasa Indonesia",
+  "materi": "Literasi dalam Bahasa Indonesia",
+  "deskripsi": "Materi ini membantu peserta memahami teks panjang, menangkap informasi implisit, menilai argumen penulis, dan menarik simpulan secara akurat.",
+  "konten": [
+    {
+      "bab": "1. Membaca Untuk Memahami Gagasan",
+      "teks": "Dalam literasi, membaca tidak cukup berhenti pada mengenali isi kalimat demi kalimat. Peserta harus melihat hubungan antarparagraf agar mampu memahami tujuan umum, sudut pandang penulis, dan alur pengembangan gagasan."
+    },
+    {
+      "bab": "2. Informasi Eksplisit dan Implisit",
+      "teks": "Informasi eksplisit tertulis langsung di teks, sedangkan informasi implisit harus disimpulkan dari petunjuk yang tersebar. Banyak soal menjebak peserta yang terlalu cepat memilih jawaban padahal teks hanya mendukung kesimpulan yang lebih terbatas."
+    },
+    {
+      "bab": "3. Menilai Argumen Dalam Bacaan",
+      "teks": "Peserta perlu membedakan antara data, pendapat, contoh, dan simpulan penulis. Dengan membedakan fungsi tiap bagian, peserta akan lebih mudah menilai apakah argumen penulis kuat, cukup, atau justru melompat dari bukti yang tersedia."
+    },
+    {
+      "bab": "4. Sikap dan Tujuan Penulis",
+      "teks": "Sikap penulis dapat terlihat dari pilihan kata, penekanan informasi, dan cara menyajikan data. Tujuan penulis pun tidak selalu menyuruh atau melarang secara langsung, tetapi bisa berupa menginformasikan, mengkritik, membandingkan, atau meyakinkan pembaca."
+    },
+    {
+      "bab": "5. Mengelola Bacaan Panjang",
+      "teks": "Saat teks panjang, buat catatan singkat berupa kata kunci untuk tiap paragraf agar orientasi isi tetap terjaga. Teknik ini membantu saat harus kembali mencari dasar jawaban tanpa membaca ulang seluruh teks dari awal."
+    },
+    {
+      "bab": "6. Pola Latihan Yang Disarankan",
+      "teks": "Biasakan mengerjakan satu bacaan penuh lalu menjelaskan kembali isi utamanya dengan bahasa sendiri. Jika dapat merangkum secara tepat, biasanya kemampuan menjawab soal inferensi dan gagasan utama juga meningkat."
+    }
+  ],
+  "tag": [
+    "utbk",
+    "literasi bahasa indonesia",
+    "bacaan panjang",
+    "inferensi",
+    "argumen",
+    "literasi"
+  ]
+}

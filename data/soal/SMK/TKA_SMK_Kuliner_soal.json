@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_KLN_01",
+    "pertanyaan": "Teknik memotong sayuran berbentuk batang korek api (ukuran 3cm x 1mm x 1mm) disebut...",
+    "opsi": [
+      "Julienne",
+      "Dice",
+      "Chopping",
+      "Chiffonade",
+      "Mincing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Julienne sering digunakan untuk wortel pada selada atau isi lumpia."
+  },
+  {
+    "id": "TKA_SMK_KLN_02",
+    "pertanyaan": "Metode memasak dengan sedikit lemak/minyak dalam wajan datar dengan api sedang disebut...",
+    "opsi": [
+      "Deep Frying",
+      "Sautéing (Menumis)",
+      "Boiling",
+      "Poaching",
+      "Steaming"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sautéing (Menumis)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_03",
+    "pertanyaan": "Suhu penyimpanan ideal untuk daging segar di dalam chiller adalah...",
+    "opsi": [
+      "-18 s.d -20 derajat Celcius",
+      "10 s.d 15 derajat Celcius",
+      "1 s.d 4 derajat Celcius",
+      "25 s.d 30 derajat Celcius",
+      "100 derajat Celcius"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Suhu -18 ke bawah adalah untuk freezer (pembekuan)."
+  },
+  {
+    "id": "TKA_SMK_KLN_04",
+    "pertanyaan": "Urutan hidangan lengkap (Full Course Meal) yang benar adalah...",
+    "opsi": [
+      "Dessert - Main Course - Appetizer",
+      "Main Course - Soup - Appetizer",
+      "Drink - Dessert - Main Course",
+      "Appetizer - Soup - Main Course - Dessert",
+      "Langsung nasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Appetizer - Soup - Main Course - Dessert\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_05",
+    "pertanyaan": "Penyebab utama kontaminasi silang (Cross-contamination) di dapur adalah...",
+    "opsi": [
+      "Mencuci piring pakai sabun",
+      "Memasak nasi terlalu lama",
+      "Menggunakan spatula besi",
+      "Kulkas kekecilan",
+      "Menggunakan talenan yang sama untuk daging mentah dan sayuran tanpa dicuci"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bakteri dari daging mentah bisa berpindah ke sayuran yang tidak dimasak lagi."
+  },
+  {
+    "id": "TKA_SMK_KLN_06",
+    "pertanyaan": "Istilah 'Mise en Place' dalam dunia kuliner berarti...",
+    "opsi": [
+      "Mempersiapkan segala bahan dan alat sebelum proses memasak dimulai",
+      "Mencuci piring",
+      "Makan bersama staff",
+      "Menyimpan makanan",
+      "Membayar tagihan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mempersiapkan segala bahan dan alat sebelum proses memasak dimulai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_07",
+    "pertanyaan": "Alat dapur bertangkai panjang dengan lubang-lubang untuk meniriskan gorengan disebut...",
+    "opsi": [
+      "Spatula",
+      "Skimmer / Spider",
+      "Whisk",
+      "Ladle",
+      "Tongs"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Skimmer / Spider\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_08",
+    "pertanyaan": "Berikut ini yang termasuk bumbu dasar putih (Nusantara) adalah...",
+    "opsi": [
+      "Cabai merah, bawang merah, terasi",
+      "Kunyit, jahe, lengkuas",
+      "Bawang merah, bawang putih, kemiri",
+      "Tomat, cabai hijau, bawang",
+      "Kecap dan saus sambal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Bawang merah, bawang putih, kemiri\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_09",
+    "pertanyaan": "Memasak telur di dalam air yang hampir mendidih (suhu 71-82 C) tanpa cangkang disebut...",
+    "opsi": [
+      "Boiling",
+      "Simmering",
+      "Braising",
+      "Poaching",
+      "Stewing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Poaching\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_10",
+    "pertanyaan": "Gizi yang berfungsi sebagai sumber energi utama bagi tubuh adalah...",
+    "opsi": [
+      "Vitamin",
+      "Protein",
+      "Lemak jahat saja",
+      "Mineral",
+      "Karbohidrat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Karbohidrat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_11",
+    "pertanyaan": "Pisau dapur yang paling serbaguna (untuk mencincang, memotong) disebut...",
+    "opsi": [
+      "Chef's Knife (Pisau Juru Masak)",
+      "Boning Knife",
+      "Paring Knife",
+      "Bread Knife",
+      "Cleaver"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Chef's Knife (Pisau Juru Masak)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_12",
+    "pertanyaan": "Istilah 'Al Dente' dalam perebusan pasta berarti...",
+    "opsi": [
+      "Sangat lembek",
+      "Masih agak keras/terasa gigitannya (pas)",
+      "Belum matang sama sekali",
+      "Gosong",
+      "Airnya habis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Masih agak keras/terasa gigitannya (pas)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_13",
+    "pertanyaan": "Apa fungsi ragi (yeast) dalam pembuatan roti?",
+    "opsi": [
+      "Memberi warna",
+      "Memberi rasa asin",
+      "Sebagai pengembang adonan melalui proses fermentasi",
+      "Biar roti keras",
+      "Agar roti awet 10 tahun"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sebagai pengembang adonan melalui proses fermentasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_14",
+    "pertanyaan": "Saus dasar (Mother Sauce) yang berbahan dasar susu dan roux putih disebut...",
+    "opsi": [
+      "Espagnole",
+      "Velouté",
+      "Hollandaise",
+      "Béchamel",
+      "Tomato Sauce"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Béchamel\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_15",
+    "pertanyaan": "Teknik memotong daun-daunan (misal: seledri) menjadi irisan halus memanjang disebut...",
+    "opsi": [
+      "Julienne",
+      "Mincing",
+      "Dice",
+      "Brunoize",
+      "Chiffonade"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Chiffonade\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_16",
+    "pertanyaan": "Daging sapi bagian punuk yang berlemak dan sering digunakan untuk rendang disebut...",
+    "opsi": [
+      "Chuck / Blade",
+      "Sirloin",
+      "Tenderloin",
+      "Rib Eye",
+      "T-Bone"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Chuck / Blade\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_17",
+    "pertanyaan": "Metode memasak 'Braising' adalah...",
+    "opsi": [
+      "Menggoreng kering",
+      "Memasak makanan dengan sedikit cairan di dalam wadah tertutup",
+      "Membakar langsung",
+      "Merebus dengan banyak air",
+      "Memijat daging"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Memasak makanan dengan sedikit cairan di dalam wadah tertutup\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_18",
+    "pertanyaan": "Standardized Recipe bertujuan untuk...",
+    "opsi": [
+      "Membuat resep rahasia",
+      "Memperlama waktu masak",
+      "Menjamin kualitas, rasa, dan porsi makanan tetap konsisten setiap kali dibuat",
+      "Menghemat bumbu asal-asalan",
+      "Biar keren saja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menjamin kualitas, rasa, dan porsi makanan tetap konsisten setiap kali dibuat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_19",
+    "pertanyaan": "Suhu bahaya untuk pertumbuhan bakteri pada makanan (Danger Zone) adalah antara...",
+    "opsi": [
+      "-5 s.d 0 C",
+      "60 s.d 75 C",
+      "75 s.d 100 C",
+      "5 s.d 60 C",
+      "100 s.d 120 C"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bakteri berkembang biak paling cepat pada suhu hangat."
+  },
+  {
+    "id": "TKA_SMK_KLN_20",
+    "pertanyaan": "Garnish pada hidangan berfungsi untuk...",
+    "opsi": [
+      "Mengeyangkan tamu",
+      "Bahan utama",
+      "Menghilangkan rasa asin",
+      "Supaya bungkusnya berat",
+      "Mempercantik penampilan hidangan agar menarik selera makan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mempercantik penampilan hidangan agar menarik selera makan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_21",
+    "pertanyaan": "Minuman kopi yang terdiri dari espresso dan busa susu (foamed milk) tebal disebut...",
+    "opsi": [
+      "Cappuccino",
+      "Americano",
+      "Latte",
+      "Macchiato",
+      "Tubruk"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Cappuccino\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_22",
+    "pertanyaan": "Apa itu 'HPP' (Food Costing) dalam kuliner?",
+    "opsi": [
+      "Harga jual ke konsumen",
+      "Harga Pokok Produksi (Biaya bahan baku per porsi)",
+      "Gaji koki",
+      "Tagihan listrik dapur",
+      "Biaya sewa ruko"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Harga Pokok Produksi (Biaya bahan baku per porsi)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_23",
+    "pertanyaan": "Salah satu ciri ikan segar adalah...",
+    "opsi": [
+      "Mata merah dan cekung",
+      "Daging lunak jika ditekan",
+      "Insang berwarna merah segar dan mata jernih menonjol",
+      "Berbau busuk menyengat",
+      "Badannya kaku berjamur"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Insang berwarna merah segar dan mata jernih menonjol\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_24",
+    "pertanyaan": "Alat pemanggang roti (Toast) disebut...",
+    "opsi": [
+      "Oven",
+      "Blender",
+      "Mixer",
+      "Toaster",
+      "Microwave"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Toaster\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_25",
+    "pertanyaan": "Hidangan pencuci mulut yang disajikan dingin menggunakan gelatin disebut...",
+    "opsi": [
+      "Cake",
+      "Soup",
+      "Steak",
+      "Nasi Goreng",
+      "Pudding / Jelly"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pudding / Jelly\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_26",
+    "pertanyaan": "Apa manfaat PKL (Praktek Kerja Lapangan) bagi siswa SMK Kuliner?",
+    "opsi": [
+      "Mempelajari standar industri dan kecepatan kerja di dapur profesional (Kitchen brigade)",
+      "Biar bisa makan enak terus",
+      "Mencari tips dari pelanggan",
+      "Malas-malasan",
+      "Hanya formalitas lulus"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mempelajari standar industri dan kecepatan kerja di dapur profesional (Kitchen brigade)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_27",
+    "pertanyaan": "Talenan warna HIJAU biasanya digunakan khusus untuk memotong...",
+    "opsi": [
+      "Daging sapi",
+      "Sayuran dan buah-buahan",
+      "Ikan mentah",
+      "Ayam mentah",
+      "Roti"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sistem pewarnaan talenan mencegah kontaminasi silang."
+  },
+  {
+    "id": "TKA_SMK_KLN_28",
+    "pertanyaan": "Seorang koki profesional harus memakai 'Chef Hat' (Topi Koki) tujuannya untuk...",
+    "opsi": [
+      "Gaya-gayaan",
+      "Supaya terlihat tinggi",
+      "Mencegah rambut jatuh ke dalam makanan",
+      "Penghangat kepala",
+      "Menyimpan bumbu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mencegah rambut jatuh ke dalam makanan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_29",
+    "pertanyaan": "Prosedur mencuci tangan yang benar bagi penjamu makanan minimal dilakukan selama...",
+    "opsi": [
+      "2 detik",
+      "1 menit tanpa sabun",
+      "Hanya saat mau makan saja",
+      "20 detik dengan sabun di bawah air mengalir",
+      "Pakai tisu saja cukup"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"20 detik dengan sabun di bawah air mengalir\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_30",
+    "pertanyaan": "Keahlian menyusun piring dngan elemen warna dan tekstur yang menarik disebut...",
+    "opsi": [
+      "Cleaning",
+      "Serving",
+      "Tasting",
+      "Ordering",
+      "Plating / Food Styling"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Plating / Food Styling\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_31",
+    "pertanyaan": "Jenis sup yang kental dengan penambahan susu atau krim disebut...",
+    "opsi": [
+      "Thick Soup / Cream Soup",
+      "Clear Soup",
+      "Noodle Soup",
+      "Cold Soup",
+      "Sayur Asem"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Thick Soup / Cream Soup\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_32",
+    "pertanyaan": "Bahan cair pengental saus yang terbuat dari campuran lemak (mentega) dan tepung terigu disebut...",
+    "opsi": [
+      "Stock",
+      "Roux",
+      "Glaze",
+      "Marinade",
+      "Batter"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Roux\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_33",
+    "pertanyaan": "Daging merah yang memiliki garis-garis lemak putih di sela-selanya disebut daging...",
+    "opsi": [
+      "Berjamur",
+      "Kering",
+      "Marbling",
+      "Liot",
+      "Sariawan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Marbling menentukan kelembutan (juiciness) steak."
+  },
+  {
+    "id": "TKA_SMK_KLN_34",
+    "pertanyaan": "Alat pengocok adonan telur manual berbentuk kawat disebut...",
+    "opsi": [
+      "Spatula",
+      "Rolling Pin",
+      "Pastry Cutter",
+      "Ballon Whisk",
+      "Colander"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ballon Whisk\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_35",
+    "pertanyaan": "Apa itu 'Bouquet Garni'?",
+    "opsi": [
+      "Bunga hias di meja makan",
+      "Nama koki terkenal",
+      "Jenis sup Prancis",
+      "Hidangan penutup",
+      "Ikatan sayuran aromatik (seperti seledri, daun bawang) untuk menambah aroma pada kaldu (stock)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ikatan sayuran aromatik (seperti seledri, daun bawang) untuk menambah aroma pada kaldu (stock)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_36",
+    "pertanyaan": "Penyebab keracunan makanan paling umum di dapur hotel adalah bakteri...",
+    "opsi": [
+      "Salmonella / E-Coli",
+      "Lactobacillus",
+      "Virus Influenza",
+      "Cacing tanah",
+      "Jamur Ragi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Salmonella / E-Coli\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_37",
+    "pertanyaan": "Alat untuk menimbang bahan kue dengan akurasi gram disebut...",
+    "opsi": [
+      "Gelas ukur saja",
+      "Timbangan Digital",
+      "Kira-kira pakai tangan",
+      "Sendok makan",
+      "Meteran"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Timbangan Digital\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_38",
+    "pertanyaan": "Hidangan 'Soto' termasuk dalam kategori hidangan...",
+    "opsi": [
+      "Appetizer",
+      "Dessert",
+      "Main Course (di Indonesia bisa soup atau main dish)",
+      "Drink",
+      "Snack"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Main Course (di Indonesia bisa soup atau main dish)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_39",
+    "pertanyaan": "Berapa lama waktu ideal mencuci buah sebelum diolah?",
+    "opsi": [
+      "Tidak perlu dicuci",
+      "Direbus dulu",
+      "Direndam sabun cuci baju",
+      "Dicuci di air mengalir sampai bersih dari debu/pestisida",
+      "Dikelupas saja"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Dicuci di air mengalir sampai bersih dari debu/pestisida\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_40",
+    "pertanyaan": "Jabatan kepemimpinan tertinggi di sebuah dapur profesional adalah...",
+    "opsi": [
+      "Sous Chef",
+      "Chef de Partie",
+      "Commis",
+      "Steward",
+      "Executive Chef"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Executive Chef\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_41",
+    "pertanyaan": "Minuman teh yang dicincang dengan susu dan rempah-rempah disebut...",
+    "opsi": [
+      "Chai Tea",
+      "Thai Tea",
+      "Greentea",
+      "Es Teh Manis",
+      "Wedang Jahe"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Chai Tea\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_42",
+    "pertanyaan": "Apa itu 'Stock' dalam kuliner?",
+    "opsi": [
+      "Persediaan barang",
+      "Cairan hasil rebusan tulang, daging, dan sayuran (Kaldu)",
+      "Gudang makanan",
+      "Harga saham",
+      "Bumbu botolan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Cairan hasil rebusan tulang, daging, dan sayuran (Kaldu)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_43",
+    "pertanyaan": "Teknik pembakaran bagian atas makanan demi mendapatkan tekstur karamel disebut...",
+    "opsi": [
+      "Roasting",
+      "Deep Fry",
+      "Torching / Salamander",
+      "Boiling",
+      "Mincing"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Torching / Salamander\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_44",
+    "pertanyaan": "Jenis pisau untuk mengupas kulit buah/sayur yang kecil disebut...",
+    "opsi": [
+      "Cleaver",
+      "Serrated Knife",
+      "Hunting Knife",
+      "Peeler / Paring Knife",
+      "Sword"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Peeler / Paring Knife\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_45",
+    "pertanyaan": "Mengapa koki dilarang memakai jam tangan atau cincin saat memasak?",
+    "opsi": [
+      "Takut rusak",
+      "Biar tangannya ringan",
+      "Dilarang agama",
+      "Sombong",
+      "Bisa menjadi tempat berkumpulnya kuman dan jatuh ke makanan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bisa menjadi tempat berkumpulnya kuman dan jatuh ke makanan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_46",
+    "pertanyaan": "Proses menghias kue ulang tahun menggunakan krim kocok disebut...",
+    "opsi": [
+      "Decorating / Icing",
+      "Baking",
+      "Frying",
+      "Tasting",
+      "Serving"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Decorating / Icing\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_47",
+    "pertanyaan": "Alat dapur untuk menyaring santan atau kaldu disebut...",
+    "opsi": [
+      "Bowl",
+      "Colander / Strainer",
+      "Pan",
+      "Plate",
+      "Glass"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Colander / Strainer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_48",
+    "pertanyaan": "Apa itu 'Bakery'?",
+    "opsi": [
+      "Toko daging",
+      "Toko sayur",
+      "Toko yang menjual aneka roti dan kue",
+      "Restoran mahal",
+      "Pasar ikan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Toko yang menjual aneka roti dan kue\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_49",
+    "pertanyaan": "Sikap koki terhadap kritik tamu mengenai rasa makanan sebaiknya...",
+    "opsi": [
+      "Marah-marah",
+      "Berhenti masak",
+      "Menyalahkan bahan baku",
+      "Terbuka (Open minded), menerima masukan, dan menjadikannya bahan evaluasi kualitas masakan",
+      "Menangis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Terbuka (Open minded), menerima masukan, dan menjadikannya bahan evaluasi kualitas masakan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KLN_50",
+    "pertanyaan": "Mengapa penguasaan ilmu Kuliner sangat menjanjikan untuk wirausaha?",
+    "opsi": [
+      "Hanya buat hobi",
+      "Agar jago makan",
+      "Supaya dibilang chef",
+      "Tidak ada alasan",
+      "Karena semua orang butuh makan setiap hari dan tren industri F&B terus berkembang"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Karena semua orang butuh makan setiap hari dan tren industri F&B terus berkembang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

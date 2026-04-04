@@ -1,0 +1,34 @@
+{
+  "id": "materi-smp-kls8-seni",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "Seni Budaya",
+  "materi": "Menggambar Model, Poster, Komik, Menyanyikan Lagu Tradisional, Pantomim",
+  "deskripsi": "Seni Budaya Kelas 8 memfokuskan peningkatkan kreativitas visual melalui pembuatan poster/komik, keterampilan suara, tari tradisional iringan, dan teater tradisional.",
+  "konten": [
+    {
+      "bab": "1. Menggambar Model dan Ilustrasi",
+      "teks": "Konsep menggambar model (manusia, flora, fauna, benda) dengan proporsi, komposisi, serta menggambar ilustrasi cerita."
+    },
+    {
+      "bab": "2. Menggambar Poster dan Komik",
+      "teks": "Elemen tipografi dan visual poster, syarat komik. Praktik mendesain poster persuasif serta komik strip cerita."
+    },
+    {
+      "bab": "3. Menyanyikan Lagu Tradisional Populer",
+      "teks": "Praktik menyanyi lagu daerah secara vokal grup atau paduan suara, lengkap dengan dinamika dan keharmonisan."
+    },
+    {
+      "bab": "4. Memainkan Alat Musik Tradisional",
+      "teks": "Bermain ansambel musik sejenis atau campuran menggunakan angklung, kolintang, atau gamelan."
+    },
+    {
+      "bab": "5. Keunikan Gerak Tari Tradisional",
+      "teks": "Eksplorasi ragam gerak, pola lantai, dan properti tari tradisional dari berbagai wilayah Nusantara."
+    },
+    {
+      "bab": "6. Bermain Pantomim",
+      "teks": "Dasar akting non-verbal (tanpa suara), menyusun naskah kasar pantomim, dan rias wajah karakter pantomim."
+    }
+  ],
+  "tag": ["smp-8", "seni-budaya", "seni-rupa", "komik", "musik-ansambel", "pantomim", "tari-tradisional"]
+}

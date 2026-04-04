@@ -1,0 +1,658 @@
+{
+  "id": "smp-9-bing",
+  "tingkat": "SMP",
+  "mapel": "Bahasa Inggris",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "bing9-1",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...'",
+      "opsi": {
+        "A": "Congratulations, I'm proud of you!",
+        "B": "Good luck next time",
+        "C": "I hope you fail",
+        "D": "I disagree"
+      },
+      "kunci": "A",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "bing9-2",
+      "teks": "We should eat breakfast ... we have energy for the day.",
+      "opsi": {
+        "A": "in order not to",
+        "B": "so that",
+        "C": "but",
+        "D": "because of"
+      },
+      "kunci": "B",
+      "pembahasan": "So that (sehingga) diikuti oleh kalimat Subjek + Verb.",
+      "trik": "So that diikuti klausa utuh (we have...)."
+    },
+    {
+      "id": "bing9-3",
+      "teks": "From the nutrition facts label, 'Sodium 5mg' means...",
+      "opsi": {
+        "A": "The product contains 5mg of sugar",
+        "B": "The product has no expiration date",
+        "C": "The product contains 5 milligrams of salt",
+        "D": "The product is poisonous"
+      },
+      "kunci": "C",
+      "pembahasan": "Sodium adalah nama lain dari garam (salt) dalam kemasan.",
+      "trik": "Sodium = Natrium = Garam."
+    },
+    {
+      "id": "bing9-4",
+      "teks": "What is the purpose of a procedure text?",
+      "opsi": {
+        "A": "To tell a story of the past",
+        "B": "To describe an animal",
+        "C": "To argue about global warming",
+        "D": "To tell the reader how to do or make something"
+      },
+      "kunci": "D",
+      "pembahasan": "Prosedur bertujuan menjelaskan cara melakukan atau membuat sesuatu.",
+      "trik": "Procedure = How to make/How to use."
+    },
+    {
+      "id": "bing9-5",
+      "teks": "I ... (live) in Jakarta since 2010.",
+      "opsi": {
+        "A": "have lived",
+        "B": "live",
+        "C": "lived",
+        "D": "am living"
+      },
+      "kunci": "A",
+      "pembahasan": "Terdapat kata 'since', menunjukkan Present Perfect (have + V3).",
+      "trik": "Since / For + keterangan waktu = Present perfect."
+    },
+    {
+      "id": "smp-9-bing-6",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #6)",
+      "opsi": {
+        "A": "Good luck next time",
+        "B": "Congratulations, I'm proud of you!",
+        "C": "I hope you fail",
+        "D": "I disagree"
+      },
+      "kunci": "B",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-7",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #7)",
+      "opsi": {
+        "A": "Good luck next time",
+        "B": "I hope you fail",
+        "C": "Congratulations, I'm proud of you!",
+        "D": "I disagree"
+      },
+      "kunci": "C",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-8",
+      "teks": "From the nutrition facts label, 'Sodium 5mg' means... (Latihan Intensif #8)",
+      "opsi": {
+        "A": "The product contains 5mg of sugar",
+        "B": "The product has no expiration date",
+        "C": "The product is poisonous",
+        "D": "The product contains 5 milligrams of salt"
+      },
+      "kunci": "D",
+      "pembahasan": "Sodium adalah nama lain dari garam (salt) dalam kemasan.",
+      "trik": "Sodium = Natrium = Garam."
+    },
+    {
+      "id": "smp-9-bing-9",
+      "teks": "What is the purpose of a procedure text? (Latihan Intensif #9)",
+      "opsi": {
+        "A": "To tell the reader how to do or make something",
+        "B": "To tell a story of the past",
+        "C": "To describe an animal",
+        "D": "To argue about global warming"
+      },
+      "kunci": "A",
+      "pembahasan": "Prosedur bertujuan menjelaskan cara melakukan atau membuat sesuatu.",
+      "trik": "Procedure = How to make/How to use."
+    },
+    {
+      "id": "smp-9-bing-10",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #10)",
+      "opsi": {
+        "A": "Good luck next time",
+        "B": "Congratulations, I'm proud of you!",
+        "C": "I hope you fail",
+        "D": "I disagree"
+      },
+      "kunci": "B",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-11",
+      "teks": "What is the purpose of a procedure text? (Latihan Intensif #11)",
+      "opsi": {
+        "A": "To tell a story of the past",
+        "B": "To describe an animal",
+        "C": "To tell the reader how to do or make something",
+        "D": "To argue about global warming"
+      },
+      "kunci": "C",
+      "pembahasan": "Prosedur bertujuan menjelaskan cara melakukan atau membuat sesuatu.",
+      "trik": "Procedure = How to make/How to use."
+    },
+    {
+      "id": "smp-9-bing-12",
+      "teks": "We should eat breakfast ... we have energy for the day. (Latihan Intensif #12)",
+      "opsi": {
+        "A": "in order not to",
+        "B": "but",
+        "C": "because of",
+        "D": "so that"
+      },
+      "kunci": "D",
+      "pembahasan": "So that (sehingga) diikuti oleh kalimat Subjek + Verb.",
+      "trik": "So that diikuti klausa utuh (we have...)."
+    },
+    {
+      "id": "smp-9-bing-13",
+      "teks": "We should eat breakfast ... we have energy for the day. (Latihan Intensif #13)",
+      "opsi": {
+        "A": "so that",
+        "B": "in order not to",
+        "C": "but",
+        "D": "because of"
+      },
+      "kunci": "A",
+      "pembahasan": "So that (sehingga) diikuti oleh kalimat Subjek + Verb.",
+      "trik": "So that diikuti klausa utuh (we have...)."
+    },
+    {
+      "id": "smp-9-bing-14",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #14)",
+      "opsi": {
+        "A": "Good luck next time",
+        "B": "Congratulations, I'm proud of you!",
+        "C": "I hope you fail",
+        "D": "I disagree"
+      },
+      "kunci": "B",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-15",
+      "teks": "We should eat breakfast ... we have energy for the day. (Latihan Intensif #15)",
+      "opsi": {
+        "A": "in order not to",
+        "B": "but",
+        "C": "so that",
+        "D": "because of"
+      },
+      "kunci": "C",
+      "pembahasan": "So that (sehingga) diikuti oleh kalimat Subjek + Verb.",
+      "trik": "So that diikuti klausa utuh (we have...)."
+    },
+    {
+      "id": "smp-9-bing-16",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #16)",
+      "opsi": {
+        "A": "Good luck next time",
+        "B": "I hope you fail",
+        "C": "I disagree",
+        "D": "Congratulations, I'm proud of you!"
+      },
+      "kunci": "D",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-17",
+      "teks": "I ... (live) in Jakarta since 2010. (Latihan Intensif #17)",
+      "opsi": {
+        "A": "have lived",
+        "B": "live",
+        "C": "lived",
+        "D": "am living"
+      },
+      "kunci": "A",
+      "pembahasan": "Terdapat kata 'since', menunjukkan Present Perfect (have + V3).",
+      "trik": "Since / For + keterangan waktu = Present perfect."
+    },
+    {
+      "id": "smp-9-bing-18",
+      "teks": "We should eat breakfast ... we have energy for the day. (Latihan Intensif #18)",
+      "opsi": {
+        "A": "in order not to",
+        "B": "so that",
+        "C": "but",
+        "D": "because of"
+      },
+      "kunci": "B",
+      "pembahasan": "So that (sehingga) diikuti oleh kalimat Subjek + Verb.",
+      "trik": "So that diikuti klausa utuh (we have...)."
+    },
+    {
+      "id": "smp-9-bing-19",
+      "teks": "From the nutrition facts label, 'Sodium 5mg' means... (Latihan Intensif #19)",
+      "opsi": {
+        "A": "The product contains 5mg of sugar",
+        "B": "The product has no expiration date",
+        "C": "The product contains 5 milligrams of salt",
+        "D": "The product is poisonous"
+      },
+      "kunci": "C",
+      "pembahasan": "Sodium adalah nama lain dari garam (salt) dalam kemasan.",
+      "trik": "Sodium = Natrium = Garam."
+    },
+    {
+      "id": "smp-9-bing-20",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #20)",
+      "opsi": {
+        "A": "Good luck next time",
+        "B": "I hope you fail",
+        "C": "I disagree",
+        "D": "Congratulations, I'm proud of you!"
+      },
+      "kunci": "D",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-21",
+      "teks": "We should eat breakfast ... we have energy for the day. (Latihan Intensif #21)",
+      "opsi": {
+        "A": "so that",
+        "B": "in order not to",
+        "C": "but",
+        "D": "because of"
+      },
+      "kunci": "A",
+      "pembahasan": "So that (sehingga) diikuti oleh kalimat Subjek + Verb.",
+      "trik": "So that diikuti klausa utuh (we have...)."
+    },
+    {
+      "id": "smp-9-bing-22",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #22)",
+      "opsi": {
+        "A": "Good luck next time",
+        "B": "Congratulations, I'm proud of you!",
+        "C": "I hope you fail",
+        "D": "I disagree"
+      },
+      "kunci": "B",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-23",
+      "teks": "I ... (live) in Jakarta since 2010. (Latihan Intensif #23)",
+      "opsi": {
+        "A": "live",
+        "B": "lived",
+        "C": "have lived",
+        "D": "am living"
+      },
+      "kunci": "C",
+      "pembahasan": "Terdapat kata 'since', menunjukkan Present Perfect (have + V3).",
+      "trik": "Since / For + keterangan waktu = Present perfect."
+    },
+    {
+      "id": "smp-9-bing-24",
+      "teks": "We should eat breakfast ... we have energy for the day. (Latihan Intensif #24)",
+      "opsi": {
+        "A": "in order not to",
+        "B": "but",
+        "C": "because of",
+        "D": "so that"
+      },
+      "kunci": "D",
+      "pembahasan": "So that (sehingga) diikuti oleh kalimat Subjek + Verb.",
+      "trik": "So that diikuti klausa utuh (we have...)."
+    },
+    {
+      "id": "smp-9-bing-25",
+      "teks": "I ... (live) in Jakarta since 2010. (Latihan Intensif #25)",
+      "opsi": {
+        "A": "have lived",
+        "B": "live",
+        "C": "lived",
+        "D": "am living"
+      },
+      "kunci": "A",
+      "pembahasan": "Terdapat kata 'since', menunjukkan Present Perfect (have + V3).",
+      "trik": "Since / For + keterangan waktu = Present perfect."
+    },
+    {
+      "id": "smp-9-bing-26",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #26)",
+      "opsi": {
+        "A": "Good luck next time",
+        "B": "Congratulations, I'm proud of you!",
+        "C": "I hope you fail",
+        "D": "I disagree"
+      },
+      "kunci": "B",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-27",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #27)",
+      "opsi": {
+        "A": "Good luck next time",
+        "B": "I hope you fail",
+        "C": "Congratulations, I'm proud of you!",
+        "D": "I disagree"
+      },
+      "kunci": "C",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-28",
+      "teks": "What is the purpose of a procedure text? (Latihan Intensif #28)",
+      "opsi": {
+        "A": "To tell a story of the past",
+        "B": "To describe an animal",
+        "C": "To argue about global warming",
+        "D": "To tell the reader how to do or make something"
+      },
+      "kunci": "D",
+      "pembahasan": "Prosedur bertujuan menjelaskan cara melakukan atau membuat sesuatu.",
+      "trik": "Procedure = How to make/How to use."
+    },
+    {
+      "id": "smp-9-bing-29",
+      "teks": "I ... (live) in Jakarta since 2010. (Latihan Intensif #29)",
+      "opsi": {
+        "A": "have lived",
+        "B": "live",
+        "C": "lived",
+        "D": "am living"
+      },
+      "kunci": "A",
+      "pembahasan": "Terdapat kata 'since', menunjukkan Present Perfect (have + V3).",
+      "trik": "Since / For + keterangan waktu = Present perfect."
+    },
+    {
+      "id": "smp-9-bing-30",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #30)",
+      "opsi": {
+        "A": "Good luck next time",
+        "B": "Congratulations, I'm proud of you!",
+        "C": "I hope you fail",
+        "D": "I disagree"
+      },
+      "kunci": "B",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-31",
+      "teks": "I ... (live) in Jakarta since 2010. (Latihan Intensif #31)",
+      "opsi": {
+        "A": "live",
+        "B": "lived",
+        "C": "have lived",
+        "D": "am living"
+      },
+      "kunci": "C",
+      "pembahasan": "Terdapat kata 'since', menunjukkan Present Perfect (have + V3).",
+      "trik": "Since / For + keterangan waktu = Present perfect."
+    },
+    {
+      "id": "smp-9-bing-32",
+      "teks": "I ... (live) in Jakarta since 2010. (Latihan Intensif #32)",
+      "opsi": {
+        "A": "live",
+        "B": "lived",
+        "C": "am living",
+        "D": "have lived"
+      },
+      "kunci": "D",
+      "pembahasan": "Terdapat kata 'since', menunjukkan Present Perfect (have + V3).",
+      "trik": "Since / For + keterangan waktu = Present perfect."
+    },
+    {
+      "id": "smp-9-bing-33",
+      "teks": "What is the purpose of a procedure text? (Latihan Intensif #33)",
+      "opsi": {
+        "A": "To tell the reader how to do or make something",
+        "B": "To tell a story of the past",
+        "C": "To describe an animal",
+        "D": "To argue about global warming"
+      },
+      "kunci": "A",
+      "pembahasan": "Prosedur bertujuan menjelaskan cara melakukan atau membuat sesuatu.",
+      "trik": "Procedure = How to make/How to use."
+    },
+    {
+      "id": "smp-9-bing-34",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #34)",
+      "opsi": {
+        "A": "Good luck next time",
+        "B": "Congratulations, I'm proud of you!",
+        "C": "I hope you fail",
+        "D": "I disagree"
+      },
+      "kunci": "B",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-35",
+      "teks": "I ... (live) in Jakarta since 2010. (Latihan Intensif #35)",
+      "opsi": {
+        "A": "live",
+        "B": "lived",
+        "C": "have lived",
+        "D": "am living"
+      },
+      "kunci": "C",
+      "pembahasan": "Terdapat kata 'since', menunjukkan Present Perfect (have + V3).",
+      "trik": "Since / For + keterangan waktu = Present perfect."
+    },
+    {
+      "id": "smp-9-bing-36",
+      "teks": "From the nutrition facts label, 'Sodium 5mg' means... (Latihan Intensif #36)",
+      "opsi": {
+        "A": "The product contains 5mg of sugar",
+        "B": "The product has no expiration date",
+        "C": "The product is poisonous",
+        "D": "The product contains 5 milligrams of salt"
+      },
+      "kunci": "D",
+      "pembahasan": "Sodium adalah nama lain dari garam (salt) dalam kemasan.",
+      "trik": "Sodium = Natrium = Garam."
+    },
+    {
+      "id": "smp-9-bing-37",
+      "teks": "From the nutrition facts label, 'Sodium 5mg' means... (Latihan Intensif #37)",
+      "opsi": {
+        "A": "The product contains 5 milligrams of salt",
+        "B": "The product contains 5mg of sugar",
+        "C": "The product has no expiration date",
+        "D": "The product is poisonous"
+      },
+      "kunci": "A",
+      "pembahasan": "Sodium adalah nama lain dari garam (salt) dalam kemasan.",
+      "trik": "Sodium = Natrium = Garam."
+    },
+    {
+      "id": "smp-9-bing-38",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #38)",
+      "opsi": {
+        "A": "Good luck next time",
+        "B": "Congratulations, I'm proud of you!",
+        "C": "I hope you fail",
+        "D": "I disagree"
+      },
+      "kunci": "B",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-39",
+      "teks": "I ... (live) in Jakarta since 2010. (Latihan Intensif #39)",
+      "opsi": {
+        "A": "live",
+        "B": "lived",
+        "C": "have lived",
+        "D": "am living"
+      },
+      "kunci": "C",
+      "pembahasan": "Terdapat kata 'since', menunjukkan Present Perfect (have + V3).",
+      "trik": "Since / For + keterangan waktu = Present perfect."
+    },
+    {
+      "id": "smp-9-bing-40",
+      "teks": "We should eat breakfast ... we have energy for the day. (Latihan Intensif #40)",
+      "opsi": {
+        "A": "in order not to",
+        "B": "but",
+        "C": "because of",
+        "D": "so that"
+      },
+      "kunci": "D",
+      "pembahasan": "So that (sehingga) diikuti oleh kalimat Subjek + Verb.",
+      "trik": "So that diikuti klausa utuh (we have...)."
+    },
+    {
+      "id": "smp-9-bing-41",
+      "teks": "Ana: 'I won the speech contest.' Budi: '...' (Latihan Intensif #41)",
+      "opsi": {
+        "A": "Congratulations, I'm proud of you!",
+        "B": "Good luck next time",
+        "C": "I hope you fail",
+        "D": "I disagree"
+      },
+      "kunci": "A",
+      "pembahasan": "Ucapan yang tepat untuk orang yang menang lomba adalah Congratulations.",
+      "trik": "Kemenangan = Selamat (Congrats)."
+    },
+    {
+      "id": "smp-9-bing-42",
+      "teks": "We should eat breakfast ... we have energy for the day. (Latihan Intensif #42)",
+      "opsi": {
+        "A": "in order not to",
+        "B": "so that",
+        "C": "but",
+        "D": "because of"
+      },
+      "kunci": "B",
+      "pembahasan": "So that (sehingga) diikuti oleh kalimat Subjek + Verb.",
+      "trik": "So that diikuti klausa utuh (we have...)."
+    },
+    {
+      "id": "smp-9-bing-43",
+      "teks": "From the nutrition facts label, 'Sodium 5mg' means... (Latihan Intensif #43)",
+      "opsi": {
+        "A": "The product contains 5mg of sugar",
+        "B": "The product has no expiration date",
+        "C": "The product contains 5 milligrams of salt",
+        "D": "The product is poisonous"
+      },
+      "kunci": "C",
+      "pembahasan": "Sodium adalah nama lain dari garam (salt) dalam kemasan.",
+      "trik": "Sodium = Natrium = Garam."
+    },
+    {
+      "id": "smp-9-bing-44",
+      "teks": "I ... (live) in Jakarta since 2010. (Latihan Intensif #44)",
+      "opsi": {
+        "A": "live",
+        "B": "lived",
+        "C": "am living",
+        "D": "have lived"
+      },
+      "kunci": "D",
+      "pembahasan": "Terdapat kata 'since', menunjukkan Present Perfect (have + V3).",
+      "trik": "Since / For + keterangan waktu = Present perfect."
+    },
+    {
+      "id": "smp-9-bing-45",
+      "teks": "We should eat breakfast ... we have energy for the day. (Latihan Intensif #45)",
+      "opsi": {
+        "A": "so that",
+        "B": "in order not to",
+        "C": "but",
+        "D": "because of"
+      },
+      "kunci": "A",
+      "pembahasan": "So that (sehingga) diikuti oleh kalimat Subjek + Verb.",
+      "trik": "So that diikuti klausa utuh (we have...)."
+    },
+    {
+      "id": "smp-9-bing-46",
+      "teks": "From the nutrition facts label, 'Sodium 5mg' means... (Latihan Intensif #46)",
+      "opsi": {
+        "A": "The product contains 5mg of sugar",
+        "B": "The product contains 5 milligrams of salt",
+        "C": "The product has no expiration date",
+        "D": "The product is poisonous"
+      },
+      "kunci": "B",
+      "pembahasan": "Sodium adalah nama lain dari garam (salt) dalam kemasan.",
+      "trik": "Sodium = Natrium = Garam."
+    },
+    {
+      "id": "smp-9-bing-47",
+      "teks": "From the nutrition facts label, 'Sodium 5mg' means... (Latihan Intensif #47)",
+      "opsi": {
+        "A": "The product contains 5mg of sugar",
+        "B": "The product has no expiration date",
+        "C": "The product contains 5 milligrams of salt",
+        "D": "The product is poisonous"
+      },
+      "kunci": "C",
+      "pembahasan": "Sodium adalah nama lain dari garam (salt) dalam kemasan.",
+      "trik": "Sodium = Natrium = Garam."
+    },
+    {
+      "id": "smp-9-bing-48",
+      "teks": "From the nutrition facts label, 'Sodium 5mg' means... (Latihan Intensif #48)",
+      "opsi": {
+        "A": "The product contains 5mg of sugar",
+        "B": "The product has no expiration date",
+        "C": "The product is poisonous",
+        "D": "The product contains 5 milligrams of salt"
+      },
+      "kunci": "D",
+      "pembahasan": "Sodium adalah nama lain dari garam (salt) dalam kemasan.",
+      "trik": "Sodium = Natrium = Garam."
+    },
+    {
+      "id": "smp-9-bing-49",
+      "teks": "I ... (live) in Jakarta since 2010. (Latihan Intensif #49)",
+      "opsi": {
+        "A": "have lived",
+        "B": "live",
+        "C": "lived",
+        "D": "am living"
+      },
+      "kunci": "A",
+      "pembahasan": "Terdapat kata 'since', menunjukkan Present Perfect (have + V3).",
+      "trik": "Since / For + keterangan waktu = Present perfect."
+    },
+    {
+      "id": "smp-9-bing-50",
+      "teks": "From the nutrition facts label, 'Sodium 5mg' means... (Latihan Intensif #50)",
+      "opsi": {
+        "A": "The product contains 5mg of sugar",
+        "B": "The product contains 5 milligrams of salt",
+        "C": "The product has no expiration date",
+        "D": "The product is poisonous"
+      },
+      "kunci": "B",
+      "pembahasan": "Sodium adalah nama lain dari garam (salt) dalam kemasan.",
+      "trik": "Sodium = Natrium = Garam."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "materi-smp-kls8-prakarya",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "Prakarya",
+  "materi": "Kerajinan Bahan Lunak, TIK Perangkat Keras, Budi Daya Ternak, dan Olahan Pangan",
+  "deskripsi": "Materi Prakarya Kelas 8 mengajak siswa berkreasi dengan bahan lunak buatan/alam, pengenalan sistem TIK dasar, serta keterampilan boga dan ternak kesayangan.",
+  "konten": [
+    {
+      "bab": "1. Kerajinan Bahan Lunak",
+      "teks": "Prinsip dan prosedur pembuatan kerajinan dari bahan lunak alam (tanah liat, getah nyatu) dan buatan (lilin, sabun, bubur kertas)."
+    },
+    {
+      "bab": "2. Rekayasa Teknologi Informasi dan Komunikasi",
+      "teks": "Memahami fungsi dasar TIK, peralatan komunikasi kuno hingga modern, serta merangkai alat komunikasi sederhana (telegraf kawat/radio)."
+    },
+    {
+      "bab": "3. Budi Daya Ternak Kesayangan",
+      "teks": "Jenis ternak kesayangan (hamster, kelinci, burung), kandang yang tepat, pemeliharaan, serta pencegahan hama/penyakit."
+    },
+    {
+      "bab": "4. Pengolahan Serealia, Kacang-kacangan, dan Umbi",
+      "teks": "Teknik pengolahan pangan dari hasil pertanian (beras, jagung, kacang kedelai, singkong, ubi) menjadi makanan pokok atau jajanan Nusantara."
+    }
+  ],
+  "tag": ["smp-8", "prakarya", "kerajinan-lunak", "teknologi", "ternak", "pangan"]
+}

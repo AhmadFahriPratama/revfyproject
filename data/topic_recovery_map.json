@@ -1,0 +1,37 @@
+{
+  "id": "topic-recovery-map",
+  "recovery": [
+    {
+      "topic": "UTBK Penalaran Umum",
+      "path": [
+        "materi/UTBK/utbk_materi_penalaran_umum.json",
+        "soal/UTBK/utbk_latihan_Penalaran_Umum.json",
+        "tryout/UTBK/utbk_mini_drill_penalaran_umum_v01.json"
+      ]
+    },
+    {
+      "topic": "UTBK Literasi",
+      "path": [
+        "materi/UTBK/utbk_materi_literasi_bahasa_indonesia.json",
+        "soal/UTBK/utbk_latihan_Literasi_dalam_Bahasa_Indonesia.json",
+        "tryout/UTBK/utbk_section_literasi_v01.json"
+      ]
+    },
+    {
+      "topic": "CPNS TIU",
+      "path": [
+        "materi/CPNS/cpns_materi_lengkap.json",
+        "soal/CPNS/cpns_tiu_latihan.json",
+        "tryout/CPNS/cpns_mini_drill_tiu_v01.json"
+      ]
+    },
+    {
+      "topic": "CPNS TKP",
+      "path": [
+        "materi/CPNS/cpns_materi_lengkap.json",
+        "soal/CPNS/cpns_tkp_latihan.json",
+        "tryout/CPNS/cpns_final_sprint_v01.json"
+      ]
+    }
+  ]
+}

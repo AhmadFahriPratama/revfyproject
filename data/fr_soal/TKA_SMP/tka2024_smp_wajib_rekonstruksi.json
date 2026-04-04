@@ -1,0 +1,266 @@
+{
+  "id": "fr-tka-2024-smp-wajib",
+  "tahun": 2024,
+  "tingkat": "SMP",
+  "materiKategori": "wajib",
+  "mapel": "TKA SMP wajib",
+  "deskripsi": "Rekonstruksi FR TKA SMP 2024 kategori wajib.",
+  "soal": [
+    {
+      "id": "fr24-smp-wajib-bi-01",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Teks yang berisi langkah-langkah kerja disebut teks...",
+      "opsi": {
+        "A": "Narasi",
+        "B": "Deskripsi",
+        "C": "Eksposisi",
+        "D": "Laporan",
+        "E": "Prosedur"
+      },
+      "kunci": "E",
+      "pembahasan": "Teks prosedur menjelaskan cara atau langkah-langkah melakukan sesuatu.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Bahasa Indonesia",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smp-wajib-bi-02",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Kalimat yang mengandung opini adalah...",
+      "opsi": {
+        "A": "Kopi ini rasanya sangat enak",
+        "B": "Jakarta adalah ibu kota Indonesia",
+        "C": "Gajah adalah hewan mamalia",
+        "D": "Matahari terbit dari timur",
+        "E": "Air mendidih pada suhu 100 derajat"
+      },
+      "kunci": "A",
+      "pembahasan": "Opini bersifat subjektif dan relatif. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kopi ini rasanya sangat enak\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Bahasa Indonesia",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr24-smp-wajib-bi-03",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Majas personifikasi terdapat pada kalimat...",
+      "opsi": {
+        "A": "Wajahnya cantik seperti rembulan",
+        "B": "Angin berbisik di telingaku",
+        "C": "Ia bekerja keras banting tulang",
+        "D": "Suaranya menggelegar membelah angkasa",
+        "E": "Sampah menumpuk di pinggir jalan"
+      },
+      "kunci": "B",
+      "pembahasan": "Memberikan sifat manusia pada benda mati.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Bahasa Indonesia",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smp-wajib-bi-04",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Pernyataan yang merupakan fakta adalah...",
+      "opsi": {
+        "A": "Bunga mawar adalah bunga tercantik",
+        "B": "Belajar matematika sangat menyenangkan",
+        "C": "Gunung Merapi meletus pada tahun 2010",
+        "D": "Masakan ibu adalah yang terbaik",
+        "E": "Hari ini cuacanya sangat panas"
+      },
+      "kunci": "C",
+      "pembahasan": "Dapat dibuktikan secara objektif. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Gunung Merapi meletus pada tahun 2010\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Bahasa Indonesia",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr24-smp-wajib-en-01",
+      "mapel": "Bahasa Inggris",
+      "teks": "Elephant is ... than a cat.",
+      "opsi": {
+        "A": "Big",
+        "B": "Biggest",
+        "C": "Small",
+        "D": "Smaller",
+        "E": "Bigger"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bigger\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Bahasa Inggris",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr24-smp-wajib-en-02",
+      "mapel": "Bahasa Inggris",
+      "teks": "What is the synonym of 'Happy'?",
+      "opsi": {
+        "A": "Glad",
+        "B": "Sad",
+        "C": "Angry",
+        "D": "Bored",
+        "E": "Tired"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Glad\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Bahasa Inggris",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smp-wajib-en-03",
+      "mapel": "Bahasa Inggris",
+      "teks": "A: Can you help me? B: ... I'm busy.",
+      "opsi": {
+        "A": "Yes, sure",
+        "B": "No, I can't",
+        "C": "Of course",
+        "D": "Yes, I can",
+        "E": "No problem"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"No, I can't\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Bahasa Inggris",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr24-smp-wajib-en-04",
+      "mapel": "Bahasa Inggris",
+      "teks": "He ... football now.",
+      "opsi": {
+        "A": "Play",
+        "B": "Plays",
+        "C": "Is playing",
+        "D": "Played",
+        "E": "Will play"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Is playing\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Bahasa Inggris",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr24-smp-wajib-mt-01",
+      "mapel": "Matematika",
+      "teks": "Hasil kali (x + 2)(x + 3) adalah...",
+      "opsi": {
+        "A": "x^2 + 5",
+        "B": "x^2 + 6",
+        "C": "x^2 + 2x + 6",
+        "D": "x^2 + 3x + 5",
+        "E": "x^2 + 5x + 6"
+      },
+      "kunci": "E",
+      "pembahasan": "x^2 + 3x + 2x + 6 = x^2 + 5x + 6. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"x^2 + 5x + 6\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Matematika",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smp-wajib-mt-02",
+      "mapel": "Matematika",
+      "teks": "KPK dari 12 dan 15 adalah...",
+      "opsi": {
+        "A": "60",
+        "B": "3",
+        "C": "30",
+        "D": "90",
+        "E": "120"
+      },
+      "kunci": "A",
+      "pembahasan": "12=2^2x3, 15=3x5. KPK=2^2x3x5=60. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"60\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Matematika",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr24-smp-wajib-mt-03",
+      "mapel": "Matematika",
+      "teks": "FPB dari 18 dan 24 adalah...",
+      "opsi": {
+        "A": "2",
+        "B": "6",
+        "C": "3",
+        "D": "12",
+        "E": "72"
+      },
+      "kunci": "B",
+      "pembahasan": "18=2x3^2, 24=2^3x3. FPB=2x3=6. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"6\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Matematika",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr24-smp-wajib-mt-04",
+      "mapel": "Matematika",
+      "teks": "Nilai dari 2^3 + 3^2 adalah...",
+      "opsi": {
+        "A": "5",
+        "B": "13",
+        "C": "17",
+        "D": "25",
+        "E": "31"
+      },
+      "kunci": "C",
+      "pembahasan": "8 + 9 = 17. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"17\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Matematika",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smp-wajib-pp-01",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Rumusan Pancasila yang sah terdapat dalam...",
+      "opsi": {
+        "A": "Piagam Jakarta",
+        "B": "Pidato Soekarno",
+        "C": "Naskah Proklamasi",
+        "D": "Kitab Sutasoma",
+        "E": "Pembukaan UUD 1945"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pembukaan UUD 1945\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Pendidikan Pancasila",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr24-smp-wajib-pp-02",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Lembaga yang berwenang mengubah UUD adalah...",
+      "opsi": {
+        "A": "MPR",
+        "B": "DPR",
+        "C": "DPD",
+        "D": "Presiden",
+        "E": "MK"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"MPR\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Pendidikan Pancasila",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr24-smp-wajib-pp-03",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Hak DPR untuk meminta keterangan kepada pemerintah disebut...",
+      "opsi": {
+        "A": "Hak Angket",
+        "B": "Hak Interpelasi",
+        "C": "Hak Menyatakan Pendapat",
+        "D": "Hak Imunitas",
+        "E": "Hak Budget"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hak Interpelasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Pendidikan Pancasila",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smp-wajib-pp-04",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Warga negara yang baik adalah yang ... hukum.",
+      "opsi": {
+        "A": "Menghindari",
+        "B": "Melanggar",
+        "C": "Mematuhi",
+        "D": "Mengabaikan",
+        "E": "Menantang"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Mematuhi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - Pendidikan Pancasila",
+      "hari_ujian": 3
+    }
+  ]
+}

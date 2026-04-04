@@ -1,0 +1,70 @@
+{
+  "id": "TKA_SMP_INGGRIS",
+  "mapel": "TKA SMP Bahasa Inggris 2025",
+  "tingkatan": "SMP",
+  "materiKategori": "wajib",
+  "tag": [
+    "tka",
+    "smp",
+    "bahasa inggris",
+    "reading",
+    "grammar",
+    "vocabulary"
+  ],
+  "deskripsi": "Panduan materi Bahasa Inggris untuk TKA SMP 2025 yang menekankan reading comprehension, vocabulary in context, grammar dasar, dan fungsi sosial teks.",
+  "daftarMateri": [
+    {
+      "sub": "Bab 1: Greeting, Introduction, and Daily Expressions",
+      "isi": "Siswa perlu memahami ungkapan sapaan, perkenalan diri, meminta maaf, berterima kasih, meminta tolong, dan respon yang sesuai dalam situasi formal maupun informal. Materi ini tampak dasar, tetapi sering muncul dalam bentuk dialog pendek yang menuntut ketepatan konteks.",
+      "tag": [
+        "tka smp bahasainggris materi",
+        "bab-1"
+      ]
+    },
+    {
+      "sub": "Bab 2: Descriptive and Recount Text",
+      "isi": "Siswa harus memahami tujuan sosial, struktur, dan ciri kebahasaan descriptive dan recount text. Pada TKA, soal biasanya meminta ide utama, detail spesifik, referensi kata, dan urutan kejadian dalam bacaan sederhana.",
+      "tag": [
+        "tka smp bahasainggris materi",
+        "bab-2"
+      ]
+    },
+    {
+      "sub": "Bab 3: Narrative and Procedure Text",
+      "isi": "Narrative text menuntut pemahaman alur dan pesan cerita, sedangkan procedure text menuntut ketelitian pada langkah, tujuan, dan kata kerja perintah. Siswa perlu mengenali perbedaan fungsi sosial kedua jenis teks itu dengan jelas.",
+      "tag": [
+        "tka smp bahasainggris materi",
+        "bab-3"
+      ]
+    },
+    {
+      "sub": "Bab 4: Vocabulary in Context",
+      "isi": "Kosakata tidak cukup dipelajari secara terpisah, tetapi harus dipahami dari kalimat dan paragraf tempat kata itu digunakan. Soal vocabulary sering menguji makna kata, sinonim sederhana, antonim, dan rujukan kata ganti dalam teks.",
+      "tag": [
+        "tka smp bahasainggris materi",
+        "bab-4"
+      ]
+    },
+    {
+      "sub": "Bab 5: Grammar Dasar SMP",
+      "isi": "Materi penting mencakup simple present tense, simple past tense, present continuous, pronoun, article, preposition, conjunction, serta subject-verb agreement. Fokus utamanya adalah mengenali bentuk yang paling tepat untuk konteks kalimat.",
+      "tag": [
+        "tka smp bahasainggris materi",
+        "bab-5"
+      ]
+    },
+    {
+      "sub": "Bab 6: Strategi Membaca Soal Bahasa Inggris",
+      "isi": "Mulailah dengan membaca pertanyaan agar tahu informasi apa yang dicari, lalu scan bagian teks yang relevan. Hindari menerjemahkan seluruh bacaan kata demi kata karena itu menghabiskan waktu dan tidak selalu diperlukan untuk menemukan jawaban yang tepat.",
+      "tag": [
+        "tka smp bahasainggris materi",
+        "bab-6"
+      ]
+    }
+  ],
+  "ringkasan": [
+    "Kemampuan membaca teks pendek dan memahami konteks jauh lebih penting daripada hafalan kosakata lepas.",
+    "Grammar dasar harus dikuasai untuk memilih bentuk kata dan kalimat yang benar.",
+    "Latihan dialog dan teks sangat membantu meningkatkan akurasi pada TKA SMP Bahasa Inggris."
+  ]
+}

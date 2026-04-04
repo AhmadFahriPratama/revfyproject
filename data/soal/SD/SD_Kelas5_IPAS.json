@@ -1,0 +1,708 @@
+{
+  "id": "sd-5-ipas",
+  "tingkat": "SD Kelas 5",
+  "mapel": "IPAS",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "ipas5-01",
+      "teks": "Bagian tubuh manusia yang berfungsi menyerap air dari sisa makanan adalah pada percobaan sederhana.",
+      "opsi": {
+        "A": "usus besar",
+        "B": "paru-paru",
+        "C": "ginjal",
+        "D": "trakea",
+        "E": "lambung"
+      },
+      "kunci": "A",
+      "pembahasan": "Usus besar menyerap air dari sisa makanan sebelum dikeluarkan dari tubuh. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-02",
+      "teks": "Tempat pertukaran oksigen dan karbon dioksida pada paru-paru adalah pada percobaan sederhana.",
+      "opsi": {
+        "A": "laring",
+        "B": "alveolus",
+        "C": "diafragma",
+        "D": "bronkus",
+        "E": "trakea"
+      },
+      "kunci": "B",
+      "pembahasan": "Alveolus memiliki dinding tipis yang memungkinkan pertukaran gas berlangsung efektif. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-03",
+      "teks": "Makhluk hidup yang mampu membuat makanan sendiri dalam ekosistem disebut pada percobaan sederhana.",
+      "opsi": {
+        "A": "predator",
+        "B": "konsumen",
+        "C": "produsen",
+        "D": "pengurai",
+        "E": "parasit"
+      },
+      "kunci": "C",
+      "pembahasan": "Produsen seperti tumbuhan membuat makanan sendiri melalui fotosintesis. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-04",
+      "teks": "Perubahan wujud air menjadi uap karena panas disebut pada percobaan sederhana.",
+      "opsi": {
+        "A": "kondensasi",
+        "B": "presipitasi",
+        "C": "infiltrasi",
+        "D": "evaporasi",
+        "E": "adveksi"
+      },
+      "kunci": "D",
+      "pembahasan": "Evaporasi adalah penguapan air akibat panas matahari atau sumber panas lain. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-05",
+      "teks": "Gaya yang menyebabkan benda jatuh ke bawah adalah pada percobaan sederhana.",
+      "opsi": {
+        "A": "gaya pegas",
+        "B": "gaya magnet",
+        "C": "gaya gesek",
+        "D": "gaya listrik",
+        "E": "gaya gravitasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Gravitasi menarik benda ke pusat bumi sehingga benda bergerak ke bawah. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-06",
+      "teks": "Contoh sumber energi terbarukan adalah pada percobaan sederhana.",
+      "opsi": {
+        "A": "matahari",
+        "B": "minyak bumi",
+        "C": "gas alam",
+        "D": "bensin",
+        "E": "batu bara"
+      },
+      "kunci": "A",
+      "pembahasan": "Energi matahari termasuk sumber energi terbarukan karena tersedia terus-menerus di alam. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-07",
+      "teks": "Benda yang dapat ditarik magnet disebut benda pada percobaan sederhana.",
+      "opsi": {
+        "A": "cair",
+        "B": "magnetis",
+        "C": "rapuh",
+        "D": "plastis",
+        "E": "elastis"
+      },
+      "kunci": "B",
+      "pembahasan": "Benda magnetis seperti besi dan baja dapat tertarik oleh magnet. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-08",
+      "teks": "Rantai makanan dimulai dari makhluk hidup yang berperan sebagai pada percobaan sederhana.",
+      "opsi": {
+        "A": "detritivor",
+        "B": "konsumen puncak",
+        "C": "produsen",
+        "D": "pengurai",
+        "E": "pemangsa"
+      },
+      "kunci": "C",
+      "pembahasan": "Produsen menjadi dasar rantai makanan karena menghasilkan sumber energi awal bagi makhluk hidup lain. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-09",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dan mineral dari tanah adalah pada percobaan sederhana.",
+      "opsi": {
+        "A": "batang",
+        "B": "daun",
+        "C": "bunga",
+        "D": "akar",
+        "E": "buah"
+      },
+      "kunci": "D",
+      "pembahasan": "Akar menyerap air dan mineral dari tanah untuk kebutuhan pertumbuhan tumbuhan. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-10",
+      "teks": "Campuran air dan minyak termasuk campuran pada percobaan sederhana.",
+      "opsi": {
+        "A": "homogen",
+        "B": "larutan jenuh",
+        "C": "murni",
+        "D": "tunggal",
+        "E": "heterogen"
+      },
+      "kunci": "E",
+      "pembahasan": "Air dan minyak tidak bercampur merata sehingga termasuk campuran heterogen. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-11",
+      "teks": "Bagian tubuh manusia yang berfungsi menyerap air dari sisa makanan adalah saat pengamatan di kelas.",
+      "opsi": {
+        "A": "usus besar",
+        "B": "paru-paru",
+        "C": "ginjal",
+        "D": "trakea",
+        "E": "lambung"
+      },
+      "kunci": "A",
+      "pembahasan": "Usus besar menyerap air dari sisa makanan sebelum dikeluarkan dari tubuh. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-12",
+      "teks": "Tempat pertukaran oksigen dan karbon dioksida pada paru-paru adalah saat pengamatan di kelas.",
+      "opsi": {
+        "A": "laring",
+        "B": "alveolus",
+        "C": "diafragma",
+        "D": "bronkus",
+        "E": "trakea"
+      },
+      "kunci": "B",
+      "pembahasan": "Alveolus memiliki dinding tipis yang memungkinkan pertukaran gas berlangsung efektif. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-13",
+      "teks": "Makhluk hidup yang mampu membuat makanan sendiri dalam ekosistem disebut saat pengamatan di kelas.",
+      "opsi": {
+        "A": "predator",
+        "B": "konsumen",
+        "C": "produsen",
+        "D": "pengurai",
+        "E": "parasit"
+      },
+      "kunci": "C",
+      "pembahasan": "Produsen seperti tumbuhan membuat makanan sendiri melalui fotosintesis. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-14",
+      "teks": "Perubahan wujud air menjadi uap karena panas disebut saat pengamatan di kelas.",
+      "opsi": {
+        "A": "kondensasi",
+        "B": "presipitasi",
+        "C": "infiltrasi",
+        "D": "evaporasi",
+        "E": "adveksi"
+      },
+      "kunci": "D",
+      "pembahasan": "Evaporasi adalah penguapan air akibat panas matahari atau sumber panas lain. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-15",
+      "teks": "Gaya yang menyebabkan benda jatuh ke bawah adalah saat pengamatan di kelas.",
+      "opsi": {
+        "A": "gaya pegas",
+        "B": "gaya magnet",
+        "C": "gaya gesek",
+        "D": "gaya listrik",
+        "E": "gaya gravitasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Gravitasi menarik benda ke pusat bumi sehingga benda bergerak ke bawah. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-16",
+      "teks": "Contoh sumber energi terbarukan adalah saat pengamatan di kelas.",
+      "opsi": {
+        "A": "matahari",
+        "B": "minyak bumi",
+        "C": "gas alam",
+        "D": "bensin",
+        "E": "batu bara"
+      },
+      "kunci": "A",
+      "pembahasan": "Energi matahari termasuk sumber energi terbarukan karena tersedia terus-menerus di alam. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-17",
+      "teks": "Benda yang dapat ditarik magnet disebut benda saat pengamatan di kelas.",
+      "opsi": {
+        "A": "cair",
+        "B": "magnetis",
+        "C": "rapuh",
+        "D": "plastis",
+        "E": "elastis"
+      },
+      "kunci": "B",
+      "pembahasan": "Benda magnetis seperti besi dan baja dapat tertarik oleh magnet. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-18",
+      "teks": "Rantai makanan dimulai dari makhluk hidup yang berperan sebagai saat pengamatan di kelas.",
+      "opsi": {
+        "A": "detritivor",
+        "B": "konsumen puncak",
+        "C": "produsen",
+        "D": "pengurai",
+        "E": "pemangsa"
+      },
+      "kunci": "C",
+      "pembahasan": "Produsen menjadi dasar rantai makanan karena menghasilkan sumber energi awal bagi makhluk hidup lain. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-19",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dan mineral dari tanah adalah saat pengamatan di kelas.",
+      "opsi": {
+        "A": "batang",
+        "B": "daun",
+        "C": "bunga",
+        "D": "akar",
+        "E": "buah"
+      },
+      "kunci": "D",
+      "pembahasan": "Akar menyerap air dan mineral dari tanah untuk kebutuhan pertumbuhan tumbuhan. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-20",
+      "teks": "Campuran air dan minyak termasuk campuran saat pengamatan di kelas.",
+      "opsi": {
+        "A": "homogen",
+        "B": "larutan jenuh",
+        "C": "murni",
+        "D": "tunggal",
+        "E": "heterogen"
+      },
+      "kunci": "E",
+      "pembahasan": "Air dan minyak tidak bercampur merata sehingga termasuk campuran heterogen. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-21",
+      "teks": "Bagian tubuh manusia yang berfungsi menyerap air dari sisa makanan adalah dalam kehidupan sehari-hari.",
+      "opsi": {
+        "A": "usus besar",
+        "B": "paru-paru",
+        "C": "ginjal",
+        "D": "trakea",
+        "E": "lambung"
+      },
+      "kunci": "A",
+      "pembahasan": "Usus besar menyerap air dari sisa makanan sebelum dikeluarkan dari tubuh. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-22",
+      "teks": "Tempat pertukaran oksigen dan karbon dioksida pada paru-paru adalah dalam kehidupan sehari-hari.",
+      "opsi": {
+        "A": "laring",
+        "B": "alveolus",
+        "C": "diafragma",
+        "D": "bronkus",
+        "E": "trakea"
+      },
+      "kunci": "B",
+      "pembahasan": "Alveolus memiliki dinding tipis yang memungkinkan pertukaran gas berlangsung efektif. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-23",
+      "teks": "Makhluk hidup yang mampu membuat makanan sendiri dalam ekosistem disebut dalam kehidupan sehari-hari.",
+      "opsi": {
+        "A": "predator",
+        "B": "konsumen",
+        "C": "produsen",
+        "D": "pengurai",
+        "E": "parasit"
+      },
+      "kunci": "C",
+      "pembahasan": "Produsen seperti tumbuhan membuat makanan sendiri melalui fotosintesis. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-24",
+      "teks": "Perubahan wujud air menjadi uap karena panas disebut dalam kehidupan sehari-hari.",
+      "opsi": {
+        "A": "kondensasi",
+        "B": "presipitasi",
+        "C": "infiltrasi",
+        "D": "evaporasi",
+        "E": "adveksi"
+      },
+      "kunci": "D",
+      "pembahasan": "Evaporasi adalah penguapan air akibat panas matahari atau sumber panas lain. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-25",
+      "teks": "Gaya yang menyebabkan benda jatuh ke bawah adalah dalam kehidupan sehari-hari.",
+      "opsi": {
+        "A": "gaya pegas",
+        "B": "gaya magnet",
+        "C": "gaya gesek",
+        "D": "gaya listrik",
+        "E": "gaya gravitasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Gravitasi menarik benda ke pusat bumi sehingga benda bergerak ke bawah. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-26",
+      "teks": "Contoh sumber energi terbarukan adalah dalam kehidupan sehari-hari.",
+      "opsi": {
+        "A": "matahari",
+        "B": "minyak bumi",
+        "C": "gas alam",
+        "D": "bensin",
+        "E": "batu bara"
+      },
+      "kunci": "A",
+      "pembahasan": "Energi matahari termasuk sumber energi terbarukan karena tersedia terus-menerus di alam. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-27",
+      "teks": "Benda yang dapat ditarik magnet disebut benda dalam kehidupan sehari-hari.",
+      "opsi": {
+        "A": "cair",
+        "B": "magnetis",
+        "C": "rapuh",
+        "D": "plastis",
+        "E": "elastis"
+      },
+      "kunci": "B",
+      "pembahasan": "Benda magnetis seperti besi dan baja dapat tertarik oleh magnet. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-28",
+      "teks": "Rantai makanan dimulai dari makhluk hidup yang berperan sebagai dalam kehidupan sehari-hari.",
+      "opsi": {
+        "A": "detritivor",
+        "B": "konsumen puncak",
+        "C": "produsen",
+        "D": "pengurai",
+        "E": "pemangsa"
+      },
+      "kunci": "C",
+      "pembahasan": "Produsen menjadi dasar rantai makanan karena menghasilkan sumber energi awal bagi makhluk hidup lain. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-29",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dan mineral dari tanah adalah dalam kehidupan sehari-hari.",
+      "opsi": {
+        "A": "batang",
+        "B": "daun",
+        "C": "bunga",
+        "D": "akar",
+        "E": "buah"
+      },
+      "kunci": "D",
+      "pembahasan": "Akar menyerap air dan mineral dari tanah untuk kebutuhan pertumbuhan tumbuhan. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-30",
+      "teks": "Campuran air dan minyak termasuk campuran dalam kehidupan sehari-hari.",
+      "opsi": {
+        "A": "homogen",
+        "B": "larutan jenuh",
+        "C": "murni",
+        "D": "tunggal",
+        "E": "heterogen"
+      },
+      "kunci": "E",
+      "pembahasan": "Air dan minyak tidak bercampur merata sehingga termasuk campuran heterogen. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-31",
+      "teks": "Bagian tubuh manusia yang berfungsi menyerap air dari sisa makanan adalah pada kegiatan proyek sains.",
+      "opsi": {
+        "A": "usus besar",
+        "B": "paru-paru",
+        "C": "ginjal",
+        "D": "trakea",
+        "E": "lambung"
+      },
+      "kunci": "A",
+      "pembahasan": "Usus besar menyerap air dari sisa makanan sebelum dikeluarkan dari tubuh. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-32",
+      "teks": "Tempat pertukaran oksigen dan karbon dioksida pada paru-paru adalah pada kegiatan proyek sains.",
+      "opsi": {
+        "A": "laring",
+        "B": "alveolus",
+        "C": "diafragma",
+        "D": "bronkus",
+        "E": "trakea"
+      },
+      "kunci": "B",
+      "pembahasan": "Alveolus memiliki dinding tipis yang memungkinkan pertukaran gas berlangsung efektif. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-33",
+      "teks": "Makhluk hidup yang mampu membuat makanan sendiri dalam ekosistem disebut pada kegiatan proyek sains.",
+      "opsi": {
+        "A": "predator",
+        "B": "konsumen",
+        "C": "produsen",
+        "D": "pengurai",
+        "E": "parasit"
+      },
+      "kunci": "C",
+      "pembahasan": "Produsen seperti tumbuhan membuat makanan sendiri melalui fotosintesis. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-34",
+      "teks": "Perubahan wujud air menjadi uap karena panas disebut pada kegiatan proyek sains.",
+      "opsi": {
+        "A": "kondensasi",
+        "B": "presipitasi",
+        "C": "infiltrasi",
+        "D": "evaporasi",
+        "E": "adveksi"
+      },
+      "kunci": "D",
+      "pembahasan": "Evaporasi adalah penguapan air akibat panas matahari atau sumber panas lain. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-35",
+      "teks": "Gaya yang menyebabkan benda jatuh ke bawah adalah pada kegiatan proyek sains.",
+      "opsi": {
+        "A": "gaya pegas",
+        "B": "gaya magnet",
+        "C": "gaya gesek",
+        "D": "gaya listrik",
+        "E": "gaya gravitasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Gravitasi menarik benda ke pusat bumi sehingga benda bergerak ke bawah. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-36",
+      "teks": "Contoh sumber energi terbarukan adalah pada kegiatan proyek sains.",
+      "opsi": {
+        "A": "matahari",
+        "B": "minyak bumi",
+        "C": "gas alam",
+        "D": "bensin",
+        "E": "batu bara"
+      },
+      "kunci": "A",
+      "pembahasan": "Energi matahari termasuk sumber energi terbarukan karena tersedia terus-menerus di alam. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-37",
+      "teks": "Benda yang dapat ditarik magnet disebut benda pada kegiatan proyek sains.",
+      "opsi": {
+        "A": "cair",
+        "B": "magnetis",
+        "C": "rapuh",
+        "D": "plastis",
+        "E": "elastis"
+      },
+      "kunci": "B",
+      "pembahasan": "Benda magnetis seperti besi dan baja dapat tertarik oleh magnet. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-38",
+      "teks": "Rantai makanan dimulai dari makhluk hidup yang berperan sebagai pada kegiatan proyek sains.",
+      "opsi": {
+        "A": "detritivor",
+        "B": "konsumen puncak",
+        "C": "produsen",
+        "D": "pengurai",
+        "E": "pemangsa"
+      },
+      "kunci": "C",
+      "pembahasan": "Produsen menjadi dasar rantai makanan karena menghasilkan sumber energi awal bagi makhluk hidup lain. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-39",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dan mineral dari tanah adalah pada kegiatan proyek sains.",
+      "opsi": {
+        "A": "batang",
+        "B": "daun",
+        "C": "bunga",
+        "D": "akar",
+        "E": "buah"
+      },
+      "kunci": "D",
+      "pembahasan": "Akar menyerap air dan mineral dari tanah untuk kebutuhan pertumbuhan tumbuhan. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-40",
+      "teks": "Campuran air dan minyak termasuk campuran pada kegiatan proyek sains.",
+      "opsi": {
+        "A": "homogen",
+        "B": "larutan jenuh",
+        "C": "murni",
+        "D": "tunggal",
+        "E": "heterogen"
+      },
+      "kunci": "E",
+      "pembahasan": "Air dan minyak tidak bercampur merata sehingga termasuk campuran heterogen. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-41",
+      "teks": "Bagian tubuh manusia yang berfungsi menyerap air dari sisa makanan adalah dalam contoh lingkungan sekitar.",
+      "opsi": {
+        "A": "usus besar",
+        "B": "paru-paru",
+        "C": "ginjal",
+        "D": "trakea",
+        "E": "lambung"
+      },
+      "kunci": "A",
+      "pembahasan": "Usus besar menyerap air dari sisa makanan sebelum dikeluarkan dari tubuh. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-42",
+      "teks": "Tempat pertukaran oksigen dan karbon dioksida pada paru-paru adalah dalam contoh lingkungan sekitar.",
+      "opsi": {
+        "A": "laring",
+        "B": "alveolus",
+        "C": "diafragma",
+        "D": "bronkus",
+        "E": "trakea"
+      },
+      "kunci": "B",
+      "pembahasan": "Alveolus memiliki dinding tipis yang memungkinkan pertukaran gas berlangsung efektif. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-43",
+      "teks": "Makhluk hidup yang mampu membuat makanan sendiri dalam ekosistem disebut dalam contoh lingkungan sekitar.",
+      "opsi": {
+        "A": "predator",
+        "B": "konsumen",
+        "C": "produsen",
+        "D": "pengurai",
+        "E": "parasit"
+      },
+      "kunci": "C",
+      "pembahasan": "Produsen seperti tumbuhan membuat makanan sendiri melalui fotosintesis. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-44",
+      "teks": "Perubahan wujud air menjadi uap karena panas disebut dalam contoh lingkungan sekitar.",
+      "opsi": {
+        "A": "kondensasi",
+        "B": "presipitasi",
+        "C": "infiltrasi",
+        "D": "evaporasi",
+        "E": "adveksi"
+      },
+      "kunci": "D",
+      "pembahasan": "Evaporasi adalah penguapan air akibat panas matahari atau sumber panas lain. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-45",
+      "teks": "Gaya yang menyebabkan benda jatuh ke bawah adalah dalam contoh lingkungan sekitar.",
+      "opsi": {
+        "A": "gaya pegas",
+        "B": "gaya magnet",
+        "C": "gaya gesek",
+        "D": "gaya listrik",
+        "E": "gaya gravitasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Gravitasi menarik benda ke pusat bumi sehingga benda bergerak ke bawah. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-46",
+      "teks": "Contoh sumber energi terbarukan adalah dalam contoh lingkungan sekitar.",
+      "opsi": {
+        "A": "matahari",
+        "B": "minyak bumi",
+        "C": "gas alam",
+        "D": "bensin",
+        "E": "batu bara"
+      },
+      "kunci": "A",
+      "pembahasan": "Energi matahari termasuk sumber energi terbarukan karena tersedia terus-menerus di alam. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-47",
+      "teks": "Benda yang dapat ditarik magnet disebut benda dalam contoh lingkungan sekitar.",
+      "opsi": {
+        "A": "cair",
+        "B": "magnetis",
+        "C": "rapuh",
+        "D": "plastis",
+        "E": "elastis"
+      },
+      "kunci": "B",
+      "pembahasan": "Benda magnetis seperti besi dan baja dapat tertarik oleh magnet. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-48",
+      "teks": "Rantai makanan dimulai dari makhluk hidup yang berperan sebagai dalam contoh lingkungan sekitar.",
+      "opsi": {
+        "A": "detritivor",
+        "B": "konsumen puncak",
+        "C": "produsen",
+        "D": "pengurai",
+        "E": "pemangsa"
+      },
+      "kunci": "C",
+      "pembahasan": "Produsen menjadi dasar rantai makanan karena menghasilkan sumber energi awal bagi makhluk hidup lain. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-49",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dan mineral dari tanah adalah dalam contoh lingkungan sekitar.",
+      "opsi": {
+        "A": "batang",
+        "B": "daun",
+        "C": "bunga",
+        "D": "akar",
+        "E": "buah"
+      },
+      "kunci": "D",
+      "pembahasan": "Akar menyerap air dan mineral dari tanah untuk kebutuhan pertumbuhan tumbuhan. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    },
+    {
+      "id": "ipas5-50",
+      "teks": "Campuran air dan minyak termasuk campuran dalam contoh lingkungan sekitar.",
+      "opsi": {
+        "A": "homogen",
+        "B": "larutan jenuh",
+        "C": "murni",
+        "D": "tunggal",
+        "E": "heterogen"
+      },
+      "kunci": "E",
+      "pembahasan": "Air dan minyak tidak bercampur merata sehingga termasuk campuran heterogen. Konteks pada soal membantu menghubungkan konsep dengan situasi nyata.",
+      "trik": "Cari kata kunci fungsi atau proses, lalu pilih opsi yang paling sesuai secara ilmiah."
+    }
+  ]
+}

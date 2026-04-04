@@ -1,0 +1,53 @@
+{
+  "judul": "Kehutanan (Manajemen dan Konservasi)",
+  "tingkatan": "SMK",
+  "jurusan": "Agribisnis dan Agriteknologi / Kehutanan",
+  "deskripsi": "Materi kejuruan SMK mengenai teknik silvikultur, inventarisasi hutan, pemetaan lahan, serta perlindungan dan pelestarian sumber daya hutan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Ilmu Kehutanan",
+      "konten": "Definisi hutan, fungsi hutan (Produksi, Lindung, Konservasi), pengenalan jenis pohon ekonomis (Jati, Pinus, Mahoni), serta ekosistem hutan.",
+      "tag": [
+        "kehutanan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Teknik Silvikultur dan Pembibitan",
+      "konten": "Penyemaian bibit, teknik penanaman, pemeliharaan tanaman hutan (Penyiangan, Penyulaman, Pemangkasan), serta sistem tebang pilih (TPTI).",
+      "tag": [
+        "kehutanan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Inventarisasi dan Pemetaan Hutan",
+      "konten": "Pengukuran diameter pohon (DBH), tinggi pohon, cara penggunaan alat ukur (Kompas, Clinometer, GPS), serta penghitungan volume tegakan.",
+      "tag": [
+        "kehutanan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Perlindungan Hutan dan K3",
+      "konten": "Pengendalian hama dan penyakit hutan, pencegahan kebakaran hutan, penanganan pembalakan liar, serta keselamatan kerja di lapangan hutan.",
+      "tag": [
+        "kehutanan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Hasil Hutan dan Konservasi",
+      "konten": "Pemanfaatan hasil hutan kayu dan non-kayu (Rotan, Madu, Getah), serta prinsip konservasi alam dan keanekaragaman hayati.",
+      "tag": [
+        "kehutanan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kehutanan-materi",
+  "mapel": "Kehutanan (Manajemen dan Konservasi)",
+  "tag": [
+    "kehutanan materi"
+  ]
+}

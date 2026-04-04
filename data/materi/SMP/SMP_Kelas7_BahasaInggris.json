@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls7-bing",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "Bahasa Inggris",
+  "materi": "Greetings, Introductions, Time, and Descriptive Text",
+  "deskripsi": "Materi Bahasa Inggris Kelas 7 SMP dirancang untuk memperkenalkan ungkapan dasar sehari-hari dan kemampuan mendeskripsikan orang, benda, dan hewan.",
+  "konten": [
+    {
+      "bab": "1. Good Morning. How Are You?",
+      "teks": "Mempelajari ungkapan sapaan (greeting), pamitan (leave-taking), berterima kasih (thanking), dan meminta maaf (apologizing)."
+    },
+    {
+      "bab": "2. This is Me!",
+      "teks": "Memberikan dan meminta informasi terkait jati diri (introduction), hobi, dan anggota keluarga."
+    },
+    {
+      "bab": "3. What Time Is It?",
+      "teks": "Menyebutkan nama hari, bulan, nama waktu dalam hari, waktu dalam bentuk angka (jam), tanggal, dan tahun."
+    },
+    {
+      "bab": "4. This is My World",
+      "teks": "Mengenal kosa kata terkait benda-benda, hewan, dan bangunan publik yang ada di sekitar rumah dan sekolah."
+    },
+    {
+      "bab": "5. It's a Beautiful Day!",
+      "teks": "Meminta dan memberi informasi terkait sifat orang, binatang, dan benda untuk mengidentifikasi atau mengkritik (Descriptive)."
+    }
+  ],
+  "tag": ["smp-7", "bahasa-inggris", "greeting", "introduction", "descriptive-text"]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mat-lbe",
+  "tingkat": "UTBK",
+  "mapel": "Literasi dalam Bahasa Inggris",
+  "materi": "Literasi dalam Bahasa Inggris",
+  "deskripsi": "Materi ini membahas cara memahami teks bahasa Inggris pada level akademik menengah, termasuk main idea, detail penting, inference, dan vocabulary in context.",
+  "konten": [
+    {
+      "bab": "1. Reading For Meaning",
+      "teks": "Saat membaca teks bahasa Inggris, prioritaskan pemahaman makna per paragraf lebih dulu sebelum memikirkan terjemahan setiap kata. Cara ini membantu menjaga kecepatan baca dan mencegah peserta terjebak pada satu kosakata yang sebenarnya tidak terlalu menentukan."
+    },
+    {
+      "bab": "2. Main Idea dan Supporting Details",
+      "teks": "Main idea adalah pesan utama paragraf atau teks, sedangkan supporting details menjelaskan, membuktikan, atau memberi contoh. Banyak soal menuntut peserta membedakan mana ide sentral dan mana detail pendukung yang hanya memperkuatnya."
+    },
+    {
+      "bab": "3. Inference dan Author's Purpose",
+      "teks": "Inference berarti menarik kesimpulan yang didukung teks meskipun tidak diucapkan secara langsung. Author's purpose menanyakan tujuan penulis menulis teks, misalnya untuk inform, persuade, compare, atau explain."
+    },
+    {
+      "bab": "4. Vocabulary In Context",
+      "teks": "Arti kata dalam bacaan harus ditentukan dari konteks kalimat dan paragraf, bukan hanya dari arti kamus yang paling umum. Sering kali sebuah kata memiliki makna khusus sesuai topik yang sedang dibahas."
+    },
+    {
+      "bab": "5. Teknik Menghadapi Teks Inggris",
+      "teks": "Bacalah pertanyaan dengan cepat untuk mengetahui informasi apa yang perlu dicari, lalu telusuri bagian teks yang paling relevan. Teknik scanning dan careful rereading pada bagian penting akan jauh lebih efisien daripada menerjemahkan seluruh teks secara penuh."
+    },
+    {
+      "bab": "6. Pola Latihan Yang Efektif",
+      "teks": "Gunakan artikel pendek berbahasa Inggris dan latih diri menuliskan satu kalimat ringkasan untuk setiap paragraf. Kebiasaan ini memperkuat kemampuan menangkap ide utama, hubungan antarbagian, dan makna kata dalam konteks."
+    }
+  ],
+  "tag": [
+    "utbk",
+    "literasi bahasa inggris",
+    "reading comprehension",
+    "inference",
+    "vocabulary in context",
+    "literasi"
+  ]
+}

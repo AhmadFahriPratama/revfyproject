@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_KI_01",
+    "pertanyaan": "FR Industri Logam: Cairan pendingin mesin yang mengandung etilen glikol bertujuan untuk...",
+    "opsi": [
+      "Menaikkan titik didih dan menurunkan titik beku",
+      "Memperindah warna mesin",
+      "Membuat mesin berbau wangi",
+      "Mengurangi konsumsi bahan bakar",
+      "Mencegah debu masuk"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Aplikasi sifat koligatif larutan di industri otomotif.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KI_02",
+    "pertanyaan": "FR Lingkungan: Gas buang kendaraan bermotor mengandung partikel halus PM2.5. Apa kepanjangan PM?",
+    "opsi": [
+      "Power Motor",
+      "Particulate Matter",
+      "Pressure Meter",
+      "Plastic Material",
+      "Pure Molecule"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KI_03",
+    "pertanyaan": "FR Kesehatan: Alkohol 70% lebih efektif sebagai antiseptik daripada alkohol 95% karena...",
+    "opsi": [
+      "Lebih murah",
+      "Warna alkohol 70% lebih bening",
+      "Kandungan airnya membantu penetrasi alkohol ke dalam sel bakteri untuk mendenaturasi protein",
+      "Lebih wangi",
+      "Tidak mudah terbakar"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KI_04",
+    "pertanyaan": "FR Farmasi: Mengapa obat maag bersifat basa?",
+    "opsi": [
+      "Supaya enak dimakan",
+      "Karena basa itu kuat",
+      "Agar tidak basi",
+      "Untuk menetralkan kelebihan asam lambung (HCl)",
+      "Biar cepat larut"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KI_05",
+    "pertanyaan": "FR Kompetisi: Reaksi pembakaran 1 mol gas propana menghasilkan berapa mol gas CO2?",
+    "opsi": [
+      "1 mol",
+      "2 mol",
+      "4 mol",
+      "5 mol",
+      "3 mol"
+    ],
+    "jawaban": "E",
+    "pembahasan": "C3H8 + 5O2 -> 3CO2 + 4H2O. Jawaban yang paling tepat adalah opsi E karena sesuai dengan konsep utama pada soal, yaitu \"3 mol\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

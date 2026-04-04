@@ -1,0 +1,47 @@
+{
+  "id": "roadmap-tka-smp",
+  "title": "TKA SMP Roadmap",
+  "category": "TKA_SMP",
+  "badge": "School Exit",
+  "highlight": "Pisahkan jalur wajib dan pilihan agar belajar lebih fokus.",
+  "stages": [
+    {
+      "step": 1,
+      "title": "Materi wajib",
+      "estimatedMinutes": 300,
+      "resources": [
+        "materi/TKA_SMP/TKA_SMP_BahasaIndonesia_materi.json",
+        "materi/TKA_SMP/TKA_SMP_BahasaInggris_materi.json",
+        "materi/TKA_SMP/TKA_SMP_Matematika_materi.json",
+        "materi/TKA_SMP/TKA_SMP_Pancasila_materi.json"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Materi pilihan",
+      "estimatedMinutes": 180,
+      "resources": [
+        "materi/TKA_SMP/TKA_SMP_IPA_materi.json",
+        "materi/TKA_SMP/TKA_SMP_IPS_materi.json"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "FR wajib dan pilihan",
+      "estimatedMinutes": 180,
+      "resources": [
+        "fr_soal/TKA_SMP/tka2025_smp_wajib_rekonstruksi.json",
+        "fr_soal/TKA_SMP/tka2025_smp_pilihan_rekonstruksi.json"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Tryout terpisah",
+      "estimatedMinutes": 120,
+      "resources": [
+        "tryout/TKA_SMP/tka_smp_wajib_tryout_v01.json",
+        "tryout/TKA_SMP/tka_smp_pilihan_tryout_v01.json"
+      ]
+    }
+  ]
+}

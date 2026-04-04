@@ -1,0 +1,53 @@
+{
+  "judul": "Ekonomi (SMA IPS)",
+  "tingkatan": "SMA",
+  "jurusan": "IPS / Peminatan Sosial",
+  "deskripsi": "Materi mengenai konsep dasar ekonomi, kelangkaan, pasar, lembaga jasa keuangan, manajemen, serta perdagangan internasional.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Konsep Ilmu Ekonomi",
+      "konten": "Pengertian ilmu ekonomi, inti masalah ekonomi (kelangkaan), kebutuhan manusia yang tidak terbatas, serta motif dan prinsip ekonomi. Pembagian ilmu ekonomi (makro dan mikro).",
+      "tag": [
+        "sma ekonomi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Keseimbangan Pasar dan Struktur Pasar",
+      "konten": "Hukum permintaan dan penawaran, kurva keseimbangan, elastisitas, serta jenis-jenis pasar (persaingan sempurna, monopoli, oligopoli, dan persaingan monopolistik).",
+      "tag": [
+        "sma ekonomi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Lembaga Jasa Keuangan",
+      "konten": "Otoritas Jasa Keuangan (OJK), peran Bank Sentral (BI), sistem pembayaran, alat pembayaran (tunai dan non-tunai), serta pengenalan perbankan dan industri keuangan non-bank.",
+      "tag": [
+        "sma ekonomi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Pendapatan Nasional dan Pertumbuhan Ekonomi",
+      "konten": "Konsep GDP, GNP, NNP, NNI, PI, dan DI. Cara menghitung pendapatan nasional, masalah kesenjangan ekonomi, serta teori pertumbuhan dan pembangunan ekonomi.",
+      "tag": [
+        "sma ekonomi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Kebijakan Moneter dan Fiskal",
+      "konten": "Peran pemerintah dalam mengatur ekonomi melalui instrumen pajak (fiskal) dan pengaturan jumlah uang beredar (moneter) untuk mengatasi inflasi dan pengangguran.",
+      "tag": [
+        "sma ekonomi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "sma-ekonomi-materi",
+  "mapel": "Ekonomi (SMA IPS)",
+  "tag": [
+    "sma ekonomi materi"
+  ]
+}

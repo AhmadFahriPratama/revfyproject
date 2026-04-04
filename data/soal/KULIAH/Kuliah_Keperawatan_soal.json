@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_KP_01",
+    "pertanyaan": "Metode sistematis yang digunakan perawat untuk memberikan asuhan keperawatan secara individual dan komprehensif disebut...",
+    "opsi": [
+      "Proses Keperawatan",
+      "Instruksi Dokter",
+      "SOP Rumah Sakit",
+      "Diagnosis Medis",
+      "Resep Obat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Proses keperawatan terdiri dari pengkajian, diagnosis, intervensi, implementasi, dan evaluasi."
+  },
+  {
+    "id": "KU_KP_02",
+    "pertanyaan": "Tahap pengumpulan data subjektif (keluhan pasien) dan data objektif (hasil observasi/pemeriksaan) dalam proses keperawatan adalah...",
+    "opsi": [
+      "Diagnosis",
+      "Pengkajian",
+      "Intervensi",
+      "Implementasi",
+      "Evaluasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pengkajian adalah langkah awal yang menentukan ketepatan diagnosis keperawatan."
+  },
+  {
+    "id": "KU_KP_03",
+    "pertanyaan": "Penilaian klinis mengenai respon individu terhadap masalah kesehatan yang aktual atau potensial disebut...",
+    "opsi": [
+      "Diagnosis Medis",
+      "Laporan Harian",
+      "Diagnosis Keperawatan",
+      "Tindakan Operatif",
+      "Rekam Medik"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Diagnosis keperawatan fokus pada respon pasien, bukan pada penyakitnya saja."
+  },
+  {
+    "id": "KU_KP_04",
+    "pertanyaan": "Standar Diagnosis Keperawatan Indonesia yang saat ini menjadi acuan nasional disingkat...",
+    "opsi": [
+      "NANDA",
+      "NIC",
+      "NOC",
+      "SDKI",
+      "ICD-10"
+    ],
+    "jawaban": 3,
+    "pembahasan": "SDKI diterbitkan oleh PPNI (Persatuan Perawat Nasional Indonesia)."
+  },
+  {
+    "id": "KU_KP_05",
+    "pertanyaan": "Tahap di mana perawat menetapkan tujuan dan kriteria hasil serta memilih tindakan yang tepat adalah...",
+    "opsi": [
+      "Pengkajian",
+      "Implementasi",
+      "Evaluasi",
+      "Terminasi",
+      "Intervensi / Perencanaan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Intervensi harus didasarkan pada bukti ilmiah (Evidence-Based Practice)."
+  },
+  {
+    "id": "KU_KP_06",
+    "pertanyaan": "Pemeriksaan fisik berupa pengetukan pada bagian tubuh tertentu (misal paru/perut) untuk mendengarkan resonansi suara disebut...",
+    "opsi": [
+      "Perkusi",
+      "Inspeksi",
+      "Palpasi",
+      "Auskultasi",
+      "Wawancara"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Perkusi membantu menentukan apakah organ berisi udara, cairan, atau massa padat."
+  },
+  {
+    "id": "KU_KP_07",
+    "pertanyaan": "Suara napas tambahan bersifat kasar dan nyaring yang terdengar saat auskultasi pada pasien dengan penumpukan sekret (dahak) disebut...",
+    "opsi": [
+      "Vesikuler",
+      "Ronkhi",
+      "Wheezing (Mengi)",
+      "Stridor",
+      "Bronkhial"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Ronkhi menandakan adanya obstruksi jalan napas akibat cairan/sekret."
+  },
+  {
+    "id": "KU_KP_08",
+    "pertanyaan": "Suara napas tinggi seperti siulan yang terdengar saat ekspirasi pada pasien asma disebut...",
+    "opsi": [
+      "Ronkhi",
+      "Vesikuler",
+      "Wheezing",
+      "Pleural Rub",
+      "Krakles"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Wheezing terjadi karena penyempitan saluran napas (bronkokonstriksi)."
+  },
+  {
+    "id": "KU_KP_09",
+    "pertanyaan": "Posisi tidur pasien dengan kepala lebih tinggi (30-45 derajat) untuk membantu ekspansi paru dan mengurangi sesak disebut posisi...",
+    "opsi": [
+      "Supinasi",
+      "Prone (Tengkurap)",
+      "Trendelenburg",
+      "Semi-Fowler",
+      "Sims"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Posisi Fowler membantu pasien bernapas lebih lega."
+  },
+  {
+    "id": "KU_KP_10",
+    "pertanyaan": "Prinsip asuhan keperawatan yang menjaga kerahasiaan informasi pasien disebut...",
+    "opsi": [
+      "Autonomy",
+      "Justice",
+      "Beneficence",
+      "Veracity",
+      "Confidentiality"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Perawat wajib melindungi data medis pasien dari orang yang tidak berhak."
+  },
+  {
+    "id": "KU_KP_11",
+    "pertanyaan": "Tindakan perawat memberikan informasi yang jujur dan benar kepada pasien disebut prinsip...",
+    "opsi": [
+      "Veracity (Kejujuran)",
+      "Non-maleficence",
+      "Fidelity",
+      "Justice",
+      "Advocacy"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Veracity membangun kepercayaan antara perawat dan pasien."
+  },
+  {
+    "id": "KU_KP_12",
+    "pertanyaan": "Istilah profesional bagi perawat yang lulus pendidikan profesi ners dan memiliki izin praktik mandiri adalah...",
+    "opsi": [
+      "Perawat Asisten",
+      "Perawat Register (Registered Nurse / Ners)",
+      "Bidan",
+      "Dokter Kecil",
+      "Apoteker"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Ners memiliki kewenangan asuhan keperawatan yang lebih luas dan mandiri."
+  },
+  {
+    "id": "KU_KP_13",
+    "pertanyaan": "Luka yang terjadi akibat penekanan lama pada jaringan kulit (biasanya pada pasien yang tidak mampu bergerak/tirah baring lama) disebut...",
+    "opsi": [
+      "Luka Bakar",
+      "Luka Sayat",
+      "Luka Dekubitus (Pressure Ulcer)",
+      "Eksim",
+      "Jerawat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pencegahan dekubitus dilakukan dengan mika-miki (miring kanan miring kiri) setiap 2 jam."
+  },
+  {
+    "id": "KU_KP_14",
+    "pertanyaan": "Sistem skoring yang digunakan untuk menilai tingkat kesadaran pasien dewasa secara kuantitatif disebut...",
+    "opsi": [
+      "APGAR Score",
+      "BMT",
+      "TTV",
+      "GCS (Glasgow Coma Scale)",
+      "RAB"
+    ],
+    "jawaban": 3,
+    "pembahasan": "GCS menilai respon Mata (Eye), Verbal, dan Motorik."
+  },
+  {
+    "id": "KU_KP_15",
+    "pertanyaan": "Nilai GCS total yang menunjukkan seseorang dalam kondisi sadar penuh (Compos Mentis) adalah...",
+    "opsi": [
+      "3",
+      "8",
+      "10",
+      "20",
+      "15"
+    ],
+    "jawaban": 4,
+    "pembahasan": "E4 V5 M6 = Total 15. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"15\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_KP_16",
+    "pertanyaan": "Nilai GCS terendah yang menunjukkan kondisi koma dalam adalah...",
+    "opsi": [
+      "3",
+      "0",
+      "1",
+      "5",
+      "7"
+    ],
+    "jawaban": 0,
+    "pembahasan": "E1 V1 M1 = Total 3. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_KP_17",
+    "pertanyaan": "Pertolongan pertama berupa kompres dada dan napas bantuan pada pasien henti jantung disebut...",
+    "opsi": [
+      "Ambulasi",
+      "RJP / CPR (Resusitasi Jantung Paru)",
+      "Diet Jantung",
+      "Operasi",
+      "Suntikan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "RJP bertujuan mempertahankan aliran darah dan oksigen ke otak."
+  },
+  {
+    "id": "KU_KP_18",
+    "pertanyaan": "Perbandingan kedalaman kompresi dada yang ideal saat melakukan RJP pada orang dewasa adalah sedalam...",
+    "opsi": [
+      "1 cm",
+      "2 cm",
+      "5 - 6 cm",
+      "10 cm",
+      "Asal nempel"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kompresi harus cukup dalam dan cepat (100-120 kali per menit)."
+  },
+  {
+    "id": "KU_KP_19",
+    "pertanyaan": "Infeksi yang didapatkan pasien saat menjalani perawatan di rumah sakit disebut infeksi...",
+    "opsi": [
+      "Herediter",
+      "Genetik",
+      "Psikosomatik",
+      "Nosokomial (Healthcare-Associated Infections / HAIs)",
+      "Akut"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Cuci tangan (Hand hygiene) adalah kunci utama mencegah infeksi nosokomial."
+  },
+  {
+    "id": "KU_KP_20",
+    "pertanyaan": "Waktu atau momen nomor satu yang wajib dilakukan perawat untuk mencuci tangan menurut WHO adalah...",
+    "opsi": [
+      "Setelah makan",
+      "Setelah pulang kerja",
+      "Sebelum tidur",
+      "Setelah memegang HP",
+      "Sebelum menyentuh pasien"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Momen 1: Sebelum kontak dengan pasien. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sebelum menyentuh pasien\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_KP_21",
+    "pertanyaan": "Alat pelindung diri (APD) yang wajib digunakan perawat saat melakukan tindakan steril (seperti memasang kateter atau menjahit luka) adalah...",
+    "opsi": [
+      "Handschoen Steril (Sarung tangan steril)",
+      "Sarung tangan bersih saja",
+      "Topi",
+      "Masker kain",
+      "Sandal Jepit"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sarung tangan steril mencegah kontaminasi mikroba ke luka pasien."
+  },
+  {
+    "id": "KU_KP_22",
+    "pertanyaan": "Proses pengeluaran dahak secara paksa melalui batuk yang dibantu oleh perawat disebut batuk...",
+    "opsi": [
+      "Batuk Pilek",
+      "Batuk Efektif",
+      "Batuk Berdahak",
+      "Batuk Kering",
+      "Batuk Darah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Batuk efektif menghemat energi pasien dan membersihkan jalan napas."
+  },
+  {
+    "id": "KU_KP_23",
+    "pertanyaan": "Cairan infus yang memiliki konsentrasi garam yang sama dengan cairan tubuh (seperti NaCl 0,9%) disebut cairan...",
+    "opsi": [
+      "Hipotonis",
+      "Hipertonis",
+      "Isotonis",
+      "Asam",
+      "Basa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Cairan isotonis digunakan untuk rehidrasi umum."
+  },
+  {
+    "id": "KU_KP_24",
+    "pertanyaan": "Pemasangan selang melalui hidung menuju lambung untuk pemberian nutrisi pada pasien yang tidak bisa menelan disebut...",
+    "opsi": [
+      "Kateter Urin",
+      "Infus",
+      "IV Catheter",
+      "NGT (Nasogastric Tube)",
+      "Nebulizer"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penempatan NGT harus dipastikan melalui auskultasi udara di perut atau tes pH."
+  },
+  {
+    "id": "KU_KP_25",
+    "pertanyaan": "Prosedur medis untuk mengeluarkan urin secara langsung dari kandung kemih melalui selang disebut...",
+    "opsi": [
+      "Suction",
+      "Injeksi",
+      "Vena Seksi",
+      "Punksi",
+      "Kateterisasi Urin"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pemasangan kateter harus dilakukan dengan teknik aseptik tinggi."
+  },
+  {
+    "id": "KU_KP_26",
+    "pertanyaan": "Tindakan pembersihan jalan napas menggunakan mesin penghisap lendir pada pasien yang tidak sadar disebut...",
+    "opsi": [
+      "Suction",
+      "Washing",
+      "Dressing",
+      "Heating",
+      "Cooling"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Suction dilakukan maksimal 10-15 detik sekali tarik agar pasien tidak hipoksia (kurang O2)."
+  },
+  {
+    "id": "KU_KP_27",
+    "pertanyaan": "Asuhan keperawatan yang diberikan kepada pasien menjelang kematian dengan fokus pada kenyamanan dan martabat pasien disebut keperawatan...",
+    "opsi": [
+      "Keperawatan Akut",
+      "Keperawatan Paliatif",
+      "Keperawatan Bedah",
+      "Keperawatan Anak",
+      "Keperawatan Estetika"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Paliatif bertujuan meningkatkan kualitas hidup pasien di masa terminal."
+  },
+  {
+    "id": "KU_KP_28",
+    "pertanyaan": "Apa tanda fisik utama dari kondisi syok hipovolemik (kurang volume darah/cairan)?",
+    "opsi": [
+      "Nadi kuat dan lambat",
+      "Wajah sangat merah",
+      "Nadi cepat dan lemah, akral dingin, penurunan tekanan darah",
+      "Lapar",
+      "Gigi gemetaran"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kondisi darurat medis yang memerlukan resusitasi cairan segera."
+  },
+  {
+    "id": "KU_KP_29",
+    "pertanyaan": "Instrumen yang digunakan untuk menilai intensitas nyeri pasien secara subjektif (0-10) disebut...",
+    "opsi": [
+      "Termometer",
+      "Timbangan",
+      "Mistar",
+      "Visual Analogue Scale (VAS) / NRS",
+      "Kalkulator"
+    ],
+    "jawaban": 3,
+    "pembahasan": "0 = tidak nyeri, 10 = nyeri sangat hebat yang tidak tertahankan."
+  },
+  {
+    "id": "KU_KP_30",
+    "pertanyaan": "Gangguan koordinasi motorik atau kesulitan berbicara akibat stroke pada pasien lansia di keperawatan gerontik disebut...",
+    "opsi": [
+      "Insomnia",
+      "Amnesia",
+      "Anemia",
+      "Uremia",
+      "Afasia"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Afasia mengganggu kemampuan berkomunikasi secara efektif."
+  },
+  {
+    "id": "KU_KP_31",
+    "pertanyaan": "Tindakan keperawatan yang bertujuan untuk mencegah kekakuan sendi pada pasien yang lumpuh atau bedrest lama disebut...",
+    "opsi": [
+      "ROM (Range of Motion)",
+      "Ambulasi dini",
+      "Kompres hangat",
+      "Inhalasi",
+      "Relaksasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "ROM dilakukan dengan menggerakkan sendi-sendi pasien secara pasif atau aktif."
+  },
+  {
+    "id": "KU_KP_32",
+    "pertanyaan": "Pemberian uap obat untuk mengencerkan dahak dan melebarkan jalan napas menggunakan alat penguap disebut...",
+    "opsi": [
+      "Oksigenasi",
+      "Nebulisasi (Nebulizer)",
+      "Saturasi",
+      "Radiasi",
+      "Transfusi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Nebulizer sering diberikan pada pasien asma atau bronkitis."
+  },
+  {
+    "id": "KU_KP_33",
+    "pertanyaan": "Kadar saturasi oksigen (SpO2) normal pada manusia sehat yang diukur dengan oximeter adalah...",
+    "opsi": [
+      "50% - 60%",
+      "70% - 80%",
+      "95% - 100%",
+      "0% - 10%",
+      "120%"
+    ],
+    "jawaban": 2,
+    "pembahasan": "SpO2 di bawah 90% menandakan adanya hipoksemia (kurang oksigen di darah)."
+  },
+  {
+    "id": "KU_KP_34",
+    "pertanyaan": "Suntikan yang dilakukan ke dalam lapisan lemak di bawah kulit (seperti suntik insulin) disebut suntikan...",
+    "opsi": [
+      "Intramuskular (IM)",
+      "Intravena (IV)",
+      "Intrakutan (IC)",
+      "Subkutan (SC)",
+      "Intraoral"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Suntikan SC diabsorpsi secara perlahan oleh jaringan lemak."
+  },
+  {
+    "id": "KU_KP_35",
+    "pertanyaan": "Suntikan yang dilakukan ke dalam jaringan otot (seperti vaksin atau obat pereda nyeri tertentu) disebut suntikan...",
+    "opsi": [
+      "Subkutan",
+      "Intradermal",
+      "Intralimbik",
+      "Intraartikular",
+      "Intramuskular (IM)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Otot memiliki banyak pembuluh darah sehingga absorpsi lebih cepat dari subkutan."
+  },
+  {
+    "id": "KU_KP_36",
+    "pertanyaan": "Tindakan pemberian darah atau komponen darah dari donor kepada pasien melalui pembuluh darah disebut...",
+    "opsi": [
+      "Transfusi Darah",
+      "Infusi",
+      "Dialisis",
+      "Suntikan kalsium",
+      "Operasi jantung"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Transfusi harus dicek golongan darah dan rhesusnya agar tidak terjadi reaksi hemolitik."
+  },
+  {
+    "id": "KU_KP_37",
+    "pertanyaan": "Apa peran utama seorang perawat mandiri dalam kesehatan masyarakat?",
+    "opsi": [
+      "Hanya menyuntik saja",
+      "Edukator, koordinator asuhan, advokat pasien, dan pemberi pelayanan kesehatan yang mandiri",
+      "Menunggu perintah dokter saja",
+      "Membersihkan lantai RS",
+      "Menata parkir RS"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Perawat adalah mitra kolaborasi dalam tim kesehatan."
+  },
+  {
+    "id": "KU_KP_38",
+    "pertanyaan": "Sistem rujukan pasien di Indonesia berjenjang, mulai dari Fasilitas Kesehatan Tingkat Pertama (FKTP) yaitu...",
+    "opsi": [
+      "Rumah Sakit Tipe A",
+      "Kementerian Kesehatan",
+      "Puskesmas atau Klinik Pratama",
+      "Apotek terdekat",
+      "Toko obat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "FKTP adalah pintu pertama pelayanan kesehatan bagi peserta BPJS."
+  },
+  {
+    "id": "KU_KP_39",
+    "pertanyaan": "Pencegahan tersier dalam keperawatan komunitas fokus pada...",
+    "opsi": [
+      "Imunisasi",
+      "Skrining penyakit",
+      "Penyuluhan cuci tangan",
+      "Rehabilitasi dan pencegahan kecacatan lebih lanjut pada pasien sakit kronis",
+      "Pemberian pupuk"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tersier bertujuan meminimalkan efek negatif dari penyakit yang sudah diderita."
+  },
+  {
+    "id": "KU_KP_40",
+    "pertanyaan": "Berapa lama rata-rata pendidikan profesi Ners setelah lulus Sarjana Keperawatan?",
+    "opsi": [
+      "1 minggu",
+      "5 tahun",
+      "10 tahun",
+      "Tidak ada praktik",
+      "1 tahun (2 semester praktik klinik)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pendidikan profesi wajib ditempuh untuk mendapatkan gelar Ners (Ns.)."
+  },
+  {
+    "id": "KU_KP_41",
+    "pertanyaan": "Alat ukur kesehatan untuk mengetahui tekanan darah secara manual maupun digital adalah...",
+    "opsi": [
+      "Tensimeter / Sphygmomanometer",
+      "Stetoskop",
+      "Glukometer",
+      "Timbangan",
+      "Oximeter"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Satuan tekanan darah adalah milimeter merkuri (mmHg)."
+  },
+  {
+    "id": "KU_KP_42",
+    "pertanyaan": "Apa itu 'Hectic' dalam lingkungan rumah sakit?",
+    "opsi": [
+      "Kondisi relaksasi",
+      "Kondisi sangat sibuk, gaduh, atau penuh dengan pasien darurat di IGD",
+      "Cara membersihkan alat",
+      "Nama obat",
+      "Nama alat bedah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Stres kerja perawat sering meningkat saat kondisi IGD/'Hectic' terjadi."
+  },
+  {
+    "id": "KU_KP_43",
+    "pertanyaan": "Cara perawat memperkenalkan diri, menjelaskan tujuan tindakan, dan membina kepercayaan dengan pasien disebut komunikasi...",
+    "opsi": [
+      "Komunikasi Sosial",
+      "Komunikasi Massa",
+      "Komunikasi Terapeutik",
+      "Komunikasi Searah",
+      "Komunikasi Batin"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Komunikasi terapeutik mempercepat proses kesembuhan pasien."
+  },
+  {
+    "id": "KU_KP_44",
+    "pertanyaan": "Zat warna kuning pada kulit dan mata (ikterus) pada bayi baru lahir disebabkan oleh peningkatan kadar...",
+    "opsi": [
+      "Gula",
+      "Kalsium",
+      "Zat besi",
+      "Bilirubin",
+      "Urium"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Dibutuhkan fototerapi (sinar biru) untuk membantu pemecahan bilirubin pada bayi."
+  },
+  {
+    "id": "KU_KP_45",
+    "pertanyaan": "Manajemen nyeri non-farmakologi (tanpa obat) yang bisa diajarkan perawat kepada pasien adalah, kecuali...",
+    "opsi": [
+      "Teknik relaksasi napas dalam",
+      "Distraksi (mendengarkan musik/menonton)",
+      "Pijatan ringan (massage)",
+      "Kompres hangat/dingin",
+      "Pemberian ampul Morfin tanpa resep"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pemberian Morfin adalah farmakologi dan harus dengan resep dokter ketat."
+  },
+  {
+    "id": "KU_KP_46",
+    "pertanyaan": "Dalam asuhan keperawatan maternitas, masa setelah melahirkan hingga 6 minggu kemudian disebut masa...",
+    "opsi": [
+      "Postpartum / Nifas",
+      "Prenatal",
+      "Intranatal",
+      "Pubertas",
+      "Menopause"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Fase pemulihan organ reproduksi ibu ke kondisi semula."
+  },
+  {
+    "id": "KU_KP_47",
+    "pertanyaan": "Pemeriksaan gula darah sewaktu (GDS) menggunakan alat glukometer dilakukan dengan mengambil sampel darah dari...",
+    "opsi": [
+      "Vena besar di lengan",
+      "Kapiler ujung jari (finger prick)",
+      "Arteri di leher",
+      "Tumit (untuk bayi)",
+      "Paha"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Hasil GDS keluar secara cepat dalam hitungan detik."
+  },
+  {
+    "id": "KU_KP_48",
+    "pertanyaan": "Istilah perawat untuk tindakan melaporkan operan tugas antar shift (pergantian perawat) disebut...",
+    "opsi": [
+      "Rapat Kerja",
+      "Ujian Lisan",
+      "Timbang Terima (Handover)",
+      "Diskusi Umum",
+      "Istirahat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Handover menjamin kesinambungan asuhan keperawatan pasien."
+  },
+  {
+    "id": "KU_KP_49",
+    "pertanyaan": "Upaya meningkatkan derajat kesehatan masyarakat melalui pendidikan kesehatan di tingkat RW atau desa adalah tugas keperawatan...",
+    "opsi": [
+      "Gawat Darurat",
+      "Bedah Saraf",
+      "Anestesi",
+      "Keperawatan Komunitas (Kesmas)",
+      "Laboratorium"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Perawat komunitas bekerja di luar lingkungan rumah sakit."
+  },
+  {
+    "id": "KU_KP_50",
+    "pertanyaan": "Seorang ners harus memiliki STR (Surat Tanda Registrasi) agar...",
+    "opsi": [
+      "Bisa jalan-jalan gratis",
+      "Hanya sebagai pajangan dinding",
+      "Supaya gaji besar",
+      "Biar punya banyak gelar",
+      "Legalitas atau izin sah untuk memberikan pelayanan keperawatan secara profesional"
+    ],
+    "jawaban": 4,
+    "pembahasan": "STR membuktikan bahwa perawat tersebut kompeten dan terdaftar secara hukum."
+  }
+]

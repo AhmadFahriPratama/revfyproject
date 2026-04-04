@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMA_SE_01",
+    "pertanyaan": "Sejarah berasal dari kata 'Syajaratun' (Bahasa Arab) yang berarti...",
+    "opsi": [
+      "Pohon",
+      "Masa lalu",
+      "Kejadian",
+      "Rantai",
+      "Silsilah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pohon menggambarkan silsilah keluarga atau perkembangan peristiwa yang bercabang namun saling terhubung."
+  },
+  {
+    "id": "SMA_SE_02",
+    "pertanyaan": "Cara berpikir sejarah yang menekankan pada urutan waktu terjadinya peristiwa disebut cara berpikir...",
+    "opsi": [
+      "Sinkronik",
+      "Diakronik (Kronologis)",
+      "Anakronik",
+      "Periodisasi",
+      "Evolusi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Diakronik memanjang dalam waktu namun menyempit dalam ruang."
+  },
+  {
+    "id": "SMA_SE_03",
+    "pertanyaan": "Fosil manusia purba yang ditemukan oleh Eugene Dubois di Trinil (Ngawi) yang dijuluki 'Manusia Kera yang Berjalan Tegak' adalah...",
+    "opsi": [
+      "Meganthropus Paleojavanicus",
+      "Homo Soloensis",
+      "Pithecanthropus Erectus",
+      "Homo Wajakensis",
+      "Homo Sapiens"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pithecanthropus Erectus adalah temuan fenomenal yang menghubungkan evolusi manusia."
+  },
+  {
+    "id": "SMA_SE_04",
+    "pertanyaan": "Pembagian zaman batu di mana manusia mulai hidup menetap dan bercocok tanam (Food Producing) adalah zaman...",
+    "opsi": [
+      "Paleolitikum",
+      "Mesolitikum",
+      "Megalitikum",
+      "Neolitikum",
+      "Arkaekum"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Neolitikum (Zaman Batu Muda) menandai revolusi kebudayaan manusia purba."
+  },
+  {
+    "id": "SMA_SE_05",
+    "pertanyaan": "Bangunan megalitikum yang berfungsi sebagai tempat pemujaan roh nenek moyang dan berbentuk tangga bertingkat disebut...",
+    "opsi": [
+      "Menhir",
+      "Dolmen",
+      "Sarkofagus",
+      "Waruga",
+      "Punden Berundak"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Punden berundak merupakan cikal bakal arsitektur candi di Indonesia."
+  },
+  {
+    "id": "SMA_SE_06",
+    "pertanyaan": "Prasasti tertua di Indonesia yang ditemukan di Kalimantan Timur dan menyebutkan tentang Raja Mulawarman berasal dari kerajaan...",
+    "opsi": [
+      "Kutai",
+      "Tarumanegara",
+      "Sriwijaya",
+      "Majapahit",
+      "Singasari"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Prasasti Yupa (Kutai) adalah bukti pertama masuknya pengaruh Hindu di Nusantara (abad ke-4 M)."
+  },
+  {
+    "id": "SMA_SE_07",
+    "pertanyaan": "Kerajaan Buddha terbesar di Indonesia yang menjadi pusat pembelajaran agama Buddha di Asia Tenggara adalah...",
+    "opsi": [
+      "Mataram Kuno",
+      "Sriwijaya",
+      "Majapahit",
+      "Singasari",
+      "Pajajaran"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sriwijaya dikenal sebagai kerajaan maritim yang menguasai jalur perdagangan Selat Malaka."
+  },
+  {
+    "id": "SMA_SE_08",
+    "pertanyaan": "Candi Borobudur yang merupakan candi Buddha terbesar di dunia dibangun oleh dinasti...",
+    "opsi": [
+      "Sanjaya",
+      "Isyana",
+      "Syailendra",
+      "Rajasa",
+      "Kertanegara"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dinasti Syailendra berkuasa di Jawa Tengah bagian selatan pada masa Mataram Kuno."
+  },
+  {
+    "id": "SMA_SE_09",
+    "pertanyaan": "Gajah Mada adalah patih terkenal dari kerajaan Majapahit yang mengucapkan sumpah untuk menyatukan Nusantara, yaitu...",
+    "opsi": [
+      "Sumpah Pemuda",
+      "Sumpah Setia",
+      "Sumpah Sakti",
+      "Sumpah Palapa",
+      "Sumpah Jabatan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sumpah Palapa diucapkan pada masa pemerintahan Ratu Tribhuwana Tunggadewi."
+  },
+  {
+    "id": "SMA_SE_10",
+    "pertanyaan": "Kerajaan Islam pertama di Indonesia yang terletak di daerah Aceh adalah...",
+    "opsi": [
+      "Demak",
+      "Aceh Darussalam",
+      "Perlak",
+      "Banten",
+      "Samudera Pasai"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Keberadaan Samudera Pasai dikukuhkan oleh catatan perjalanan Marco Polo dan Ibnu Batutah."
+  },
+  {
+    "id": "SMA_SE_11",
+    "pertanyaan": "Wali Songo yang menyebarkan Islam di Jawa melalui media kesenian wayang kulit adalah...",
+    "opsi": [
+      "Sunan Kalijaga",
+      "Sunan Ampel",
+      "Sunan Giri",
+      "Sunan Kudus",
+      "Sunan Gunung Jati"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sunan Kalijaga menggunakan pendekatan budaya agar Islam lebih mudah diterima masyarakat."
+  },
+  {
+    "id": "SMA_SE_12",
+    "pertanyaan": "Tujuan utama bangsa Eropa (3G) datang ke Nusantara adalah...",
+    "opsi": [
+      "Gun, Gate, Goal",
+      "Gold, Glory, Gospel",
+      "Gold, Government, Garnish",
+      "Gain, Great, Good",
+      "Game, Group, Give"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mencari kekayaan (Gold), kejayaan (Glory), dan menyebarkan agama (Gospel)."
+  },
+  {
+    "id": "SMA_SE_13",
+    "pertanyaan": "Organisasi dagang milik Belanda yang memonopoli perdagangan rempah-rempah di Indonesia adalah...",
+    "opsi": [
+      "EIC",
+      "NIC",
+      "VOC",
+      "GMS",
+      "PPT"
+    ],
+    "jawaban": 2,
+    "pembahasan": "VOC (Vereenigde Oost-Indische Compagnie) berdiri tahun 1602."
+  },
+  {
+    "id": "SMA_SE_14",
+    "pertanyaan": "Tokoh Belanda yang mencetuskan sistem Tanam Paksa (Cultuurstelsel) di Indonesia adalah...",
+    "opsi": [
+      "Cornelis de Houtman",
+      "Jan Pieterszoon Coen",
+      "Herman Willem Daendels",
+      "Van den Bosch",
+      "Snuock Hurgronje"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tanam paksa mengakibatkan penderitaan rakyat namun menyelamatkan kas Belanda dari kebangkrutan."
+  },
+  {
+    "id": "SMA_SE_15",
+    "pertanyaan": "Sultah Ageng Tirtayasa adalah pemimpin perlawanan terhadap VOC dari kesultanan...",
+    "opsi": [
+      "Mataram",
+      "Gowa-Tallo",
+      "Ternate",
+      "Tidore",
+      "Banten"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kesultanan Banten merupakan saingan berat pelabuhan Batavia (VOC)."
+  },
+  {
+    "id": "SMA_SE_16",
+    "pertanyaan": "Hermen Willem Daendels dikenal sebagai Gubernur Jenderal yang membangun jalan raya sepanjang 1.000 km dari...",
+    "opsi": [
+      "Anyer ke Panarukan",
+      "Jakarta ke Surabaya",
+      "Medan ke Banda Aceh",
+      "Bali ke Lombok",
+      "Ambon ke Papua"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Jalan Raya Pos (De Grote Postweg) dibangun untuk kepentingan militer melawan Inggris."
+  },
+  {
+    "id": "SMA_SE_17",
+    "pertanyaan": "Perang Diponegoro (1825-1830) dipicu oleh tindakan Belanda yang...",
+    "opsi": [
+      "Membakar keraton",
+      "Memasang patok jalan melewati makam leluhur pangeran",
+      "Menaikkan pajak pasar",
+      "Melarang ibadah",
+      "Mencuri keris pusaka"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Perang ini merupakan perang terbesar di Jawa yang membuat Belanda sangat kewalahan."
+  },
+  {
+    "id": "SMA_SE_18",
+    "pertanyaan": "Dokumen tertulis yang merupakan sumber sejarah primer adalah...",
+    "opsi": [
+      "Buku teks sekolah",
+      "Legenda masyarakat",
+      "Naskah asli teks proklamasi",
+      "Film dokumenter sekarang",
+      "Cerita dari kakek"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sumber primer berasal langsung dari pelaku atau saksi pada zaman terjadinya peristiwa."
+  },
+  {
+    "id": "SMA_SE_19",
+    "pertanyaan": "Kumpulan hasil kebudayaan manusia purba berupa sampah dapur kulit siput dan kerang yang membukit disebut...",
+    "opsi": [
+      "Abris Sous Roche",
+      "Dolmen",
+      "Menhir",
+      "Kjokkenmoddinger",
+      "Sarkofagus"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Banyak ditemukan di pesisir timur Pulau Sumatra."
+  },
+  {
+    "id": "SMA_SE_20",
+    "pertanyaan": "Teori masuknya Islam yang menyebutkan bahwa Islam di Indonesia berasal dari pedagang Gujarat (India) dikemukakan oleh...",
+    "opsi": [
+      "Buya Hamka",
+      "Crawfurd",
+      "Keyzer",
+      "Van Leur",
+      "Snouck Hurgronje"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Teori Gujarat didasarkan pada bentuk nisan Sultan Malik As-Saleh yang mirip nisan di India."
+  },
+  {
+    "id": "SMA_SE_21",
+    "pertanyaan": "Peristiwa Rengasdengklok terjadi karena adanya perbedaan pendapat mengenai...",
+    "opsi": [
+      "Waktu pelaksanaan proklamasi",
+      "Teks proklamasi",
+      "Lokasi pembacaan",
+      "Tokoh yang menandatangani",
+      "Bahasa yang digunakan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Golongan muda mendesak proklamasi segera dilakukan tanpa menunggu janji Jepang."
+  },
+  {
+    "id": "SMA_SE_22",
+    "pertanyaan": "BPUPKI dibentuk oleh Jepang dengan tujuan untuk...",
+    "opsi": [
+      "Menjajah Indonesia lebih lama",
+      "Mempersiapkan kemerdekaan Indonesia",
+      "Mencari tentara tambahan",
+      "Mengusir Sekutu",
+      "Membuat undang-undang kerja paksa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia dipimpin oleh Dr. Radjiman Wedyodiningrat."
+  },
+  {
+    "id": "SMA_SE_23",
+    "pertanyaan": "Tokoh yang menjahit Bendera Pusaka Sang Merah Putih adalah...",
+    "opsi": [
+      "Cut Nyak Dhien",
+      "RA Kartini",
+      "Fatmawati",
+      "Sayuti Melik",
+      "Sukarni"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Ibu Fatmawati adalah istri dari Presiden Sukarno."
+  },
+  {
+    "id": "SMA_SE_24",
+    "pertanyaan": "Perang Dunia II di Asia Pasifik berakhir setelah Jepang menyerah tanpa syarat kepada Sekutu akibat...",
+    "opsi": [
+      "Kekalahan di laut",
+      "Pemberontakan rakyat Jepang",
+      "Gempa bumi besar",
+      "Pengeboman kota Hiroshima dan Nagasaki oleh Amerika Serikat",
+      "Bantuan Uni Soviet"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bom atom dijatuhkan pada 6 dan 9 Agustus 1945."
+  },
+  {
+    "id": "SMA_SE_25",
+    "pertanyaan": "Tokoh yang mengetik naskah proklamasi yang telah disalin dari draf asli Sukarno adalah...",
+    "opsi": [
+      "Mohamad Hatta",
+      "Ahmad Subardjo",
+      "Sutan Sjahrir",
+      "BM Diah",
+      "Sayuti Melik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sayuti Melik melakukan beberapa perubahan kecil dalam pengetikan agar lebih formal."
+  },
+  {
+    "id": "SMA_SE_26",
+    "pertanyaan": "Politik Etis (Politik Balas Budi) yang diusulkan oleh Van Deventer mencakup tiga hal, yaitu...",
+    "opsi": [
+      "Edukasi, Irigasi, Migrasi",
+      "Edukasi, Komunikasi, Rekreasi",
+      "Transportasi, Industri, Migrasi",
+      "Pertanian, Perdagangan, Pelayaran",
+      "Ekspor, Impor, Investasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Edukasi memberikan jalan bagi munculnya kaum terpelajar yang mempelopori kebangkitan nasional."
+  },
+  {
+    "id": "SMA_SE_27",
+    "pertanyaan": "Organisasi pergerakan nasional pertama di Indonesia yang berdiri pada 20 Mei 1908 adalah...",
+    "opsi": [
+      "Sarekat Islam",
+      "Budi Utomo",
+      "Indische Partij",
+      "Muhammadiyah",
+      "PNI"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Hari berdirinya Budi Utomo kini diperingati sebagai Hari Kebangkitan Nasional."
+  },
+  {
+    "id": "SMA_SE_28",
+    "pertanyaan": "Sumpah Pemuda yang dihasilkan pada Kongres Pemuda II (28 Oktober 1928) berisi ikrar satu nusa, satu bangsa, dan menjunjung bahasa persatuan yaitu...",
+    "opsi": [
+      "Bahasa Sansekerta",
+      "Bahasa Melayu",
+      "Bahasa Indonesia",
+      "Bahasa Jawa",
+      "Bahasa Belanda"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Momen penting penyatuan identitas nasional Indonesia."
+  },
+  {
+    "id": "SMA_SE_29",
+    "pertanyaan": "Agresi Militer Belanda I dan II terjadi karena Belanda ingin...",
+    "opsi": [
+      "Membantu Indonesia merdeka",
+      "Memberikan bantuan ekonomi",
+      "Melawan tentara Jepang",
+      "Mengambil kembali kekuasaan atas Indonesia yang telah merdeka",
+      "Mendirikan sekolah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Belanda menganggap Indonesia masih merupakan wilayah jajahannya."
+  },
+  {
+    "id": "SMA_SE_30",
+    "pertanyaan": "Perundingan yang mengakui kedaulatan Indonesia secara de facto atas Jawa, Sumatra, dan Madura adalah...",
+    "opsi": [
+      "Renville",
+      "Roem-Royen",
+      "KMB",
+      "Bongaya",
+      "Linggarjati"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Perundingan Linggarjati dilaksanakan pada November 1946."
+  },
+  {
+    "id": "SMA_SE_31",
+    "pertanyaan": "Konferensi Meja Bundar (KMB) dilaksanakan d kota...",
+    "opsi": [
+      "Den Haag",
+      "Jakarta",
+      "Yogyakarta",
+      "Amsterdam",
+      "New York"
+    ],
+    "jawaban": 0,
+    "pembahasan": "KMB menghasilkan pengakuan kedaulatan Indonesia oleh Belanda pada akhir 1949."
+  },
+  {
+    "id": "SMA_SE_32",
+    "pertanyaan": "Mata uang resmi pertama yang dikeluarkan RI untuk mengganti mata uang Jepang dan Belanda adalah...",
+    "opsi": [
+      "Rupiah",
+      "ORI (Oeang Repoeblik Indonesia)",
+      "Nica",
+      "Gulden",
+      "Dollar"
+    ],
+    "jawaban": 1,
+    "pembahasan": "ORI dikeluarkan sebagai salah satu simbol kedaulatan ekonomi negara."
+  },
+  {
+    "id": "SMA_SE_33",
+    "pertanyaan": "Pahlawan nasional yang dikenal sebagai Bapak Pendidikan adalah...",
+    "opsi": [
+      "Dewi Sartika",
+      "RA Kartini",
+      "Ki Hajar Dewantara",
+      "Dr. Sutomo",
+      "Wahid Hasyim"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Belia pendiri Taman Siswa dan mencetuskan ajaran Tut Wuri Handayani."
+  },
+  {
+    "id": "SMA_SE_34",
+    "pertanyaan": "Perlawanan rakyat Bali yang dipimpin oleh I Gusti Ketut Jelantik menggunakan taktik perang...",
+    "opsi": [
+      "Gerilya",
+      "Benteng stelsel",
+      "Devide et impera",
+      "Puputan (Perang sampai mati)",
+      "Diplomasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Puputan Jagaraga adalah salah satu yang terkenal menentang Belanda."
+  },
+  {
+    "id": "SMA_SE_35",
+    "pertanyaan": "Sistem pemerintahan awal Indonesia setelah merdeka (Maklumat No. X) berubah dari presidensial menjadi...",
+    "opsi": [
+      "Monarki",
+      "Federasi",
+      "Otoriter",
+      "Komunis",
+      "Parlementer"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ditandai dengan adanya posisi Perdana Menteri sebagai kepala pemerintahan."
+  },
+  {
+    "id": "SMA_SE_36",
+    "pertanyaan": "Pemilu pertama di Indonesia dilakukan pada tahun...",
+    "opsi": [
+      "1955",
+      "1945",
+      "1950",
+      "1966",
+      "1971"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pemilu 1955 diakui sebagai salah satu pemilu paling demokratis dalam sejarah Indonesia."
+  },
+  {
+    "id": "SMA_SE_37",
+    "pertanyaan": "Konferensi Asia Afrika (KAA) 1955 di Bandung melahirkan prinsip kerja sama internasional yang disebut...",
+    "opsi": [
+      "Piagam Jakarta",
+      "Dasasila Bandung",
+      "Deklarasi Djuanda",
+      "Perjanjian Linggarjati",
+      "Komitmen Bandung"
+    ],
+    "jawaban": 1,
+    "pembahasan": "KAA menjadi tonggak perlawanan negara-negara berkembang terhadap kolonialisme."
+  },
+  {
+    "id": "SMA_SE_38",
+    "pertanyaan": "Tokoh penjelajah samudra asal Portugis yang berhasil mencapai Tanjung Harapan di Afrika Selatan adalah...",
+    "opsi": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Bartholomeu Dias",
+      "Alfonso de Albuquerque",
+      "Ferdinand Magellan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dias membuka jalan bagi penjelajah Portugis selanjutnya untuk sampai ke India."
+  },
+  {
+    "id": "SMA_SE_39",
+    "pertanyaan": "Revolusi yang terjadi di Inggris dan mengubah tenaga manusia menjadi tenaga mesin disebut...",
+    "opsi": [
+      "Revolusi Prancis",
+      "Revolusi Amerika",
+      "Revolusi Hijau",
+      "Revolusi Industri",
+      "Revolusi Kebudayaan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Berawal dari penemuan mesin uap oleh James Watt."
+  },
+  {
+    "id": "SMA_SE_40",
+    "pertanyaan": "Peristiwa pengeboman pangkalan angkatan laut Amerika Serikat oleh Jepang yang memicu Perang Dunia II di Pasifik terjadi di...",
+    "opsi": [
+      "Midway",
+      "Guam",
+      "Iwo Jima",
+      "Okinawa",
+      "Pearl Harbor (Hawaii)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Serangan mendadak pada 7 Desember 1941. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pearl Harbor (Hawaii)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_SE_41",
+    "pertanyaan": "Sejarah memiliki manfaat edukatif, artinya...",
+    "opsi": [
+      "Memberikan pelajaran berharga dari kegagalan atau keberhasilan masa lalu",
+      "Memberikan hiburan",
+      "Membuat orang takut",
+      "Mencari harta karun",
+      "Menghias perpustakaan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "'History repeats itself' – manusia bisa belajar agar tidak mengulangi kesalahan yang sama."
+  },
+  {
+    "id": "SMA_SE_42",
+    "pertanyaan": "Salah satu ciri historiografi tradisional (penulisan sejarah masa kerajaan) adalah bersifat 'Istanasentris', artinya...",
+    "opsi": [
+      "Membahas rakyat jelata",
+      "Hanya membahas istana dan kehidupan bangsawan/raja",
+      "Berdasarkan data ilmiah",
+      "Menggunakan bahasa asing",
+      "Banyak gambarnya"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penulisan sering dibumbui unsur mitis dan legitimasi kekuasaan raja."
+  },
+  {
+    "id": "SMA_SE_43",
+    "pertanyaan": "Penulisan sejarah yang menggunakan sudut pandang bangsa Indonesia sendiri disebut historiografi...",
+    "opsi": [
+      "Kolonial",
+      "Tradisional",
+      "Nasional (Indonesiasentris)",
+      "Modern",
+      "Global"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Muncul setelah kemerdekaan sebagai bagian dari pembentukan jati diri bangsa."
+  },
+  {
+    "id": "SMA_SE_44",
+    "pertanyaan": "Zaman es atau zaman mencairnya es yang mengakibatkan terbentuknya pulau-pulau di Indonesia disebut zaman...",
+    "opsi": [
+      "Glasial",
+      "Tersier",
+      "Sekunder",
+      "Interglasial",
+      "Kambrium"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Zaman ini bergantian dengan zaman glasial (pembekuan)."
+  },
+  {
+    "id": "SMA_SE_45",
+    "pertanyaan": "Sistem kepercayaan masyarakat praaksara yang memuja roh nenek moyang disebut...",
+    "opsi": [
+      "Dinamisme",
+      "Totemisme",
+      "Politeisme",
+      "Monoteisme",
+      "Animisme"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Animisme mempercayai adanya jiwa pada benda atau makhluk mati."
+  },
+  {
+    "id": "SMA_SE_46",
+    "pertanyaan": "Sistem kepercayaan yang menganggap benda-benda tertentu memiliki kekuatan gaib disebut...",
+    "opsi": [
+      "Dinamisme",
+      "Animisme",
+      "Totemisme",
+      "Sihir",
+      "Mistik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Benda tersebut dianggap sakral (misal keris atau batu mulia)."
+  },
+  {
+    "id": "SMA_SE_47",
+    "pertanyaan": "Kitab Sutasoma yang memuat kalimat 'Bhinneka Tunggal Ika' ditulis oleh pujangga Majapahit bernama...",
+    "opsi": [
+      "Mpu Prapanca",
+      "Mpu Tantular",
+      "Mpu Sedah",
+      "Mpu Panuluh",
+      "Mpu Gandring"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kitab ini ditulis pada masa kejayaan raja Hayam Wuruk."
+  },
+  {
+    "id": "SMA_SE_48",
+    "pertanyaan": "Salah satu dampak negatif penjajahan Belanda di bidang ekonomi adalah berlakunya sistem...",
+    "opsi": [
+      "Meritokrasi",
+      "Pasar Bebas",
+      "Monopoli Perdagangan",
+      "Ekonomi Kerakyatan",
+      "Industri Kreatif"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Monopoli mematikan daya saing pedagang pribumi."
+  },
+  {
+    "id": "SMA_SE_49",
+    "pertanyaan": "Serangan Sultan Agung dari Mataram ke Batavia (1628 & 1629) mengalami kegagalan terutama karena...",
+    "opsi": [
+      "Kekurangan prajurit",
+      "Belanda menyerah",
+      "Cuaca buruk",
+      "Lumbung pangan dibakar oleh Belanda",
+      "Sultan Agung jatuh sakit"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Belanda menggunakan mata-mata untuk menghancurkan logistik Mataram."
+  },
+  {
+    "id": "SMA_SE_50",
+    "pertanyaan": "Siapa yang membacakan teks proklamasi kemerdekaan Indonesia pada 17 Agustus 1945?",
+    "opsi": [
+      "Mohamad Hatta",
+      "Sutan Sjahrir",
+      "Ahmad Subardjo",
+      "Jenderal Sudirman",
+      "Sukarno"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Dibacakan di kediaman Sukarno, Jalan Pegangsaan Timur No. 56."
+  }
+]

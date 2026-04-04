@@ -1,0 +1,708 @@
+{
+  "id": "smp-8-tik",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "Informatika",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-8-tik-01",
+      "teks": "Di dalam topologi struktur jaringan komputer, susunan yang komputer client dan servernya disambungkan semua langsung ke satu kabel panjang lurus tulang punggung (backbone) terminator disebut topologi... (Latihan #1)",
+      "opsi": {
+        "A": "Topologi Bus",
+        "B": "Topologi Star (Bintang)",
+        "C": "Topologi Ring (Cincin)",
+        "D": "Topologi Mesh (Jaring acak)",
+        "E": "Topologi Tree (Pohon)"
+      },
+      "kunci": "A",
+      "pembahasan": "Topologi bus memakai sebuah kabel panjang (coaxial) yg berderet colokan persimpangan kompputer di rentang tsb, sbg jalur komunikasi utama 1 arus (Backbone single lurus).",
+      "trik": "kabel tulang lurus 1 gang = BUS."
+    },
+    {
+      "id": "smp-8-tik-02",
+      "teks": "Jaringan lokal yang menghubungkan komputer seisi 1 gedung sekolah/laboratorium ruangan beratap sempit tidak lebih dari kilometer disebut jaringan... (Latihan #2)",
+      "opsi": {
+        "A": "MAN (Metropolitan Area Net)",
+        "B": "LAN (Local Area Net)",
+        "C": "WAN (Wide Area Net)",
+        "D": "Internet Global Maya",
+        "E": "PAN Bluetooth (Personal Area)"
+      },
+      "kunci": "B",
+      "pembahasan": "LAN atau jaringan lokal hanya mencakup radius kecil lokal intern (warnet , lab sekolah, kantor pribadi) jarak sambungan tak sampai puluhan kilo.",
+      "trik": "Gedung Tunggal/Lab kom = Local Area (LAN)."
+    },
+    {
+      "id": "smp-8-tik-03",
+      "teks": "Sekumpulan standar aturan cara mesin saling bicara saat mengirim maupun menerima paket data internet tanpa ada crash (tabrakan) dikenal sbg jembatan komunikasi berupa IP yang kepajangannya... (Latihan #3)",
+      "opsi": {
+        "A": "Internal Platform",
+        "B": "Intranet Project",
+        "C": "Internet Protocol",
+        "D": "Inernet Provider",
+        "E": "Integrated Patch"
+      },
+      "kunci": "C",
+      "pembahasan": "IP dan TCP adalah rule set aturan sandi lalu lintas jaringan sedunia (Internet protocol). Alamat unik setiap hp/pc internet disebut Alamat IP address numrik logik.",
+      "trik": "IP Address = alamat komunikasi aturan internet (Internet Protocol)."
+    },
+    {
+      "id": "smp-8-tik-04",
+      "teks": "Simbol grafis/blok warna dalam perangkat lunak pendidikan pengodingan blok Scratch jika mengandung tulisan 'if...then...else' tergolong ke dalam struktur pemrograman... (Latihan #4)",
+      "opsi": {
+        "A": "Input Output display Monitor",
+        "B": "Rangkaian Perulangan (Loops)",
+        "C": "Deklarasi Variabel Statis String",
+        "D": "Percabangan/Pemilihan Logika Syarat Kondisi (Condition/Selection)",
+        "E": "Motion blok perpindahan sumbu X dan Y"
+      },
+      "kunci": "D",
+      "pembahasan": "If = Jika. Kondisi Ini membentuk simpul percabangan pemilihan, kemana program harus melangkah sesuai suatu nilai (benar / salah).",
+      "trik": "IF THEN = jika maka (Percabangan/Kondisi)."
+    },
+    {
+      "id": "smp-8-tik-05",
+      "teks": "Perangkat router atau modem di rumah yg difasilitasi tiang antena telkom memancar sinar tak terlihat bertugas mentransfer jaringan wifi WLAN (Wireless) memiliki media tranmisi berwujud... (Latihan #5)",
+      "opsi": {
+        "A": "Kabel Fiber optik kaca selubung plastik",
+        "B": "Arus tembaga tegangan tinggi",
+        "C": "Laser cahaya inframerah dari remout",
+        "D": "Tancapan Flashdisk USB Dongle",
+        "E": "Pancaran Gelombang Radio / Elektromagnet udara (Nirkabel)"
+      },
+      "kunci": "E",
+      "pembahasan": "Wifi dan paket data seluler menggunakan ruang padat pemancar sinyal gelombang radio elektromagnetik tak pakai kabel padat keras/ nirkabel.",
+      "trik": "Wireless / Wi-fi / Gelombang = Pancaran Radio Udara tidak terlihat Kabel UTP."
+    },
+    {
+      "id": "smp-8-tik-06",
+      "teks": "Aplikasi perkantoran Spreadsheet semacam Microsoft Excel / gsheet digunakan mayoritas instansi mengelola laporan... (Latihan #6)",
+      "opsi": {
+        "A": "Membuat tabel penghitungan angka data grafik / kompilasi kas",
+        "B": "Mengetik brosur surat panjang penuh tulisan paragraf",
+        "C": "Manipulasi Foto gelap kecerahan saturasi",
+        "D": "Menampilkan slide presentasi tayangan bervisal audio depan kelas",
+        "E": "Bermain game simulasi menembak virtual reality"
+      },
+      "kunci": "A",
+      "pembahasan": "Excel diperuntukan untuk data olahan angka, kalkulasi gaji, tabel rumusan statistik SUM AVG IF beserta grafik pie chart.",
+      "trik": "Spreadsheet = Lembar kerja Tabel Hitung (Row Column Math)."
+    },
+    {
+      "id": "smp-8-tik-07",
+      "teks": "Ketika menyusun tabel penilaian ulangan sekolah dgn rumus excel, untuk mencari total kumpulan jumlah angka semua nilai anak kolom dari atas bawah dipergunakan fungsi perintah... (Latihan #7)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=SUM()",
+        "C": "=MAX()",
+        "D": "=MIN()",
+        "E": "=COUNT()"
+      },
+      "kunci": "B",
+      "pembahasan": "SUM (Summary/Summation) berfungsi nge-TOTAL keseluruhah nilai yang diblok angka numerik. AVERAGE rata rata, MAX tertinggi nilai.",
+      "trik": "Total ditambahin gumpal semua = SUM."
+    },
+    {
+      "id": "smp-8-tik-08",
+      "teks": "Bentuk representasi presentasi grafis yang mewakili visual serangkaian data rumit agar sangat gampang terbaca porsi perbandingan pergerakanya dgn mudah dinamakan... (Latihan #8)",
+      "opsi": {
+        "A": "Script file",
+        "B": "Teks Paragraf Panjang",
+        "C": "Chart (Grafik/Diagram)",
+        "D": "Hardware Portabel",
+        "E": "Enkripsi password"
+      },
+      "kunci": "C",
+      "pembahasan": "Diagram (Chart - batang/Lingkaran) menampilkan piktorial ringkas visual angka data Excel biar mudah disimpulkan pihak pembaca audiens presentasi dibanding mebaca table.",
+      "trik": "Presentasi Gambar angka  = Grafik / Chart / Diagram."
+    },
+    {
+      "id": "smp-8-tik-09",
+      "teks": "Di internet banyak domain alamat web website, kepanjangan akhiran identitas domain `.org` dirancang untuk tipe institusi... (Latihan #9)",
+      "opsi": {
+        "A": "Pendidikan kuliah/Sekolah",
+        "B": "Agensi Pemerintah negara",
+        "C": "Perusahaan komersil dagang (Commercial)",
+        "D": "Organisasi nirlaba sosial komunitas perkumpulan (Organization)",
+        "E": "Vendor jasa penyedia WiFi internet jaringan kabel"
+      },
+      "kunci": "D",
+      "pembahasan": "org (Organization), com (Commercial Profit basis), edu/ac (Acadamia Edu), gov/go (Government pemerintah).",
+      "trik": "ORG = Organization komunitas non-profit / sosial wiki forum."
+    },
+    {
+      "id": "smp-8-tik-10",
+      "teks": "Proses pencarian dan merapikan set data mentah lalu meneliti hal hal yang di anggap penting demi menyimpulkan penemuan di era big data, dlm pelajaran TIK merujuk pada tahap... (Latihan #10)",
+      "opsi": {
+        "A": "Desain Grafis Corel Draw",
+        "B": "Hacking deface keamanan Web Server bank",
+        "C": "Perakitan motherboard RAM",
+        "D": "Instal Ulang flashing OS Windows",
+        "E": "Analisis Pengolahan Data (Data Analysis)"
+      },
+      "kunci": "E",
+      "pembahasan": "Data Analis mencakup (Koleksi survey, Cleaning/sortir valid, Pemroses rumus, Analisa Statistik , lalu Visualisasi kesimpulan/report grafik).",
+      "trik": "Menggali data jadi emas info bermanfaast = Analisis data TIK (Dampak Soksial ICT)."
+    },
+    {
+      "id": "smp-8-tik-11",
+      "teks": "Di dalam topologi struktur jaringan komputer, susunan yang komputer client dan servernya disambungkan semua langsung ke satu kabel panjang lurus tulang punggung (backbone) terminator disebut topologi... (Latihan #11)",
+      "opsi": {
+        "A": "Topologi Bus",
+        "B": "Topologi Star (Bintang)",
+        "C": "Topologi Ring (Cincin)",
+        "D": "Topologi Mesh (Jaring acak)",
+        "E": "Topologi Tree (Pohon)"
+      },
+      "kunci": "A",
+      "pembahasan": "Topologi bus memakai sebuah kabel panjang (coaxial) yg berderet colokan persimpangan kompputer di rentang tsb, sbg jalur komunikasi utama 1 arus (Backbone single lurus).",
+      "trik": "kabel tulang lurus 1 gang = BUS."
+    },
+    {
+      "id": "smp-8-tik-12",
+      "teks": "Jaringan lokal yang menghubungkan komputer seisi 1 gedung sekolah/laboratorium ruangan beratap sempit tidak lebih dari kilometer disebut jaringan... (Latihan #12)",
+      "opsi": {
+        "A": "MAN (Metropolitan Area Net)",
+        "B": "LAN (Local Area Net)",
+        "C": "WAN (Wide Area Net)",
+        "D": "Internet Global Maya",
+        "E": "PAN Bluetooth (Personal Area)"
+      },
+      "kunci": "B",
+      "pembahasan": "LAN atau jaringan lokal hanya mencakup radius kecil lokal intern (warnet , lab sekolah, kantor pribadi) jarak sambungan tak sampai puluhan kilo.",
+      "trik": "Gedung Tunggal/Lab kom = Local Area (LAN)."
+    },
+    {
+      "id": "smp-8-tik-13",
+      "teks": "Sekumpulan standar aturan cara mesin saling bicara saat mengirim maupun menerima paket data internet tanpa ada crash (tabrakan) dikenal sbg jembatan komunikasi berupa IP yang kepajangannya... (Latihan #13)",
+      "opsi": {
+        "A": "Internal Platform",
+        "B": "Intranet Project",
+        "C": "Internet Protocol",
+        "D": "Inernet Provider",
+        "E": "Integrated Patch"
+      },
+      "kunci": "C",
+      "pembahasan": "IP dan TCP adalah rule set aturan sandi lalu lintas jaringan sedunia (Internet protocol). Alamat unik setiap hp/pc internet disebut Alamat IP address numrik logik.",
+      "trik": "IP Address = alamat komunikasi aturan internet (Internet Protocol)."
+    },
+    {
+      "id": "smp-8-tik-14",
+      "teks": "Simbol grafis/blok warna dalam perangkat lunak pendidikan pengodingan blok Scratch jika mengandung tulisan 'if...then...else' tergolong ke dalam struktur pemrograman... (Latihan #14)",
+      "opsi": {
+        "A": "Input Output display Monitor",
+        "B": "Rangkaian Perulangan (Loops)",
+        "C": "Deklarasi Variabel Statis String",
+        "D": "Percabangan/Pemilihan Logika Syarat Kondisi (Condition/Selection)",
+        "E": "Motion blok perpindahan sumbu X dan Y"
+      },
+      "kunci": "D",
+      "pembahasan": "If = Jika. Kondisi Ini membentuk simpul percabangan pemilihan, kemana program harus melangkah sesuai suatu nilai (benar / salah).",
+      "trik": "IF THEN = jika maka (Percabangan/Kondisi)."
+    },
+    {
+      "id": "smp-8-tik-15",
+      "teks": "Perangkat router atau modem di rumah yg difasilitasi tiang antena telkom memancar sinar tak terlihat bertugas mentransfer jaringan wifi WLAN (Wireless) memiliki media tranmisi berwujud... (Latihan #15)",
+      "opsi": {
+        "A": "Kabel Fiber optik kaca selubung plastik",
+        "B": "Arus tembaga tegangan tinggi",
+        "C": "Laser cahaya inframerah dari remout",
+        "D": "Tancapan Flashdisk USB Dongle",
+        "E": "Pancaran Gelombang Radio / Elektromagnet udara (Nirkabel)"
+      },
+      "kunci": "E",
+      "pembahasan": "Wifi dan paket data seluler menggunakan ruang padat pemancar sinyal gelombang radio elektromagnetik tak pakai kabel padat keras/ nirkabel.",
+      "trik": "Wireless / Wi-fi / Gelombang = Pancaran Radio Udara tidak terlihat Kabel UTP."
+    },
+    {
+      "id": "smp-8-tik-16",
+      "teks": "Aplikasi perkantoran Spreadsheet semacam Microsoft Excel / gsheet digunakan mayoritas instansi mengelola laporan... (Latihan #16)",
+      "opsi": {
+        "A": "Membuat tabel penghitungan angka data grafik / kompilasi kas",
+        "B": "Mengetik brosur surat panjang penuh tulisan paragraf",
+        "C": "Manipulasi Foto gelap kecerahan saturasi",
+        "D": "Menampilkan slide presentasi tayangan bervisal audio depan kelas",
+        "E": "Bermain game simulasi menembak virtual reality"
+      },
+      "kunci": "A",
+      "pembahasan": "Excel diperuntukan untuk data olahan angka, kalkulasi gaji, tabel rumusan statistik SUM AVG IF beserta grafik pie chart.",
+      "trik": "Spreadsheet = Lembar kerja Tabel Hitung (Row Column Math)."
+    },
+    {
+      "id": "smp-8-tik-17",
+      "teks": "Ketika menyusun tabel penilaian ulangan sekolah dgn rumus excel, untuk mencari total kumpulan jumlah angka semua nilai anak kolom dari atas bawah dipergunakan fungsi perintah... (Latihan #17)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=SUM()",
+        "C": "=MAX()",
+        "D": "=MIN()",
+        "E": "=COUNT()"
+      },
+      "kunci": "B",
+      "pembahasan": "SUM (Summary/Summation) berfungsi nge-TOTAL keseluruhah nilai yang diblok angka numerik. AVERAGE rata rata, MAX tertinggi nilai.",
+      "trik": "Total ditambahin gumpal semua = SUM."
+    },
+    {
+      "id": "smp-8-tik-18",
+      "teks": "Bentuk representasi presentasi grafis yang mewakili visual serangkaian data rumit agar sangat gampang terbaca porsi perbandingan pergerakanya dgn mudah dinamakan... (Latihan #18)",
+      "opsi": {
+        "A": "Script file",
+        "B": "Teks Paragraf Panjang",
+        "C": "Chart (Grafik/Diagram)",
+        "D": "Hardware Portabel",
+        "E": "Enkripsi password"
+      },
+      "kunci": "C",
+      "pembahasan": "Diagram (Chart - batang/Lingkaran) menampilkan piktorial ringkas visual angka data Excel biar mudah disimpulkan pihak pembaca audiens presentasi dibanding mebaca table.",
+      "trik": "Presentasi Gambar angka  = Grafik / Chart / Diagram."
+    },
+    {
+      "id": "smp-8-tik-19",
+      "teks": "Di internet banyak domain alamat web website, kepanjangan akhiran identitas domain `.org` dirancang untuk tipe institusi... (Latihan #19)",
+      "opsi": {
+        "A": "Pendidikan kuliah/Sekolah",
+        "B": "Agensi Pemerintah negara",
+        "C": "Perusahaan komersil dagang (Commercial)",
+        "D": "Organisasi nirlaba sosial komunitas perkumpulan (Organization)",
+        "E": "Vendor jasa penyedia WiFi internet jaringan kabel"
+      },
+      "kunci": "D",
+      "pembahasan": "org (Organization), com (Commercial Profit basis), edu/ac (Acadamia Edu), gov/go (Government pemerintah).",
+      "trik": "ORG = Organization komunitas non-profit / sosial wiki forum."
+    },
+    {
+      "id": "smp-8-tik-20",
+      "teks": "Proses pencarian dan merapikan set data mentah lalu meneliti hal hal yang di anggap penting demi menyimpulkan penemuan di era big data, dlm pelajaran TIK merujuk pada tahap... (Latihan #20)",
+      "opsi": {
+        "A": "Desain Grafis Corel Draw",
+        "B": "Hacking deface keamanan Web Server bank",
+        "C": "Perakitan motherboard RAM",
+        "D": "Instal Ulang flashing OS Windows",
+        "E": "Analisis Pengolahan Data (Data Analysis)"
+      },
+      "kunci": "E",
+      "pembahasan": "Data Analis mencakup (Koleksi survey, Cleaning/sortir valid, Pemroses rumus, Analisa Statistik , lalu Visualisasi kesimpulan/report grafik).",
+      "trik": "Menggali data jadi emas info bermanfaast = Analisis data TIK (Dampak Soksial ICT)."
+    },
+    {
+      "id": "smp-8-tik-21",
+      "teks": "Di dalam topologi struktur jaringan komputer, susunan yang komputer client dan servernya disambungkan semua langsung ke satu kabel panjang lurus tulang punggung (backbone) terminator disebut topologi... (Latihan #21)",
+      "opsi": {
+        "A": "Topologi Bus",
+        "B": "Topologi Star (Bintang)",
+        "C": "Topologi Ring (Cincin)",
+        "D": "Topologi Mesh (Jaring acak)",
+        "E": "Topologi Tree (Pohon)"
+      },
+      "kunci": "A",
+      "pembahasan": "Topologi bus memakai sebuah kabel panjang (coaxial) yg berderet colokan persimpangan kompputer di rentang tsb, sbg jalur komunikasi utama 1 arus (Backbone single lurus).",
+      "trik": "kabel tulang lurus 1 gang = BUS."
+    },
+    {
+      "id": "smp-8-tik-22",
+      "teks": "Jaringan lokal yang menghubungkan komputer seisi 1 gedung sekolah/laboratorium ruangan beratap sempit tidak lebih dari kilometer disebut jaringan... (Latihan #22)",
+      "opsi": {
+        "A": "MAN (Metropolitan Area Net)",
+        "B": "LAN (Local Area Net)",
+        "C": "WAN (Wide Area Net)",
+        "D": "Internet Global Maya",
+        "E": "PAN Bluetooth (Personal Area)"
+      },
+      "kunci": "B",
+      "pembahasan": "LAN atau jaringan lokal hanya mencakup radius kecil lokal intern (warnet , lab sekolah, kantor pribadi) jarak sambungan tak sampai puluhan kilo.",
+      "trik": "Gedung Tunggal/Lab kom = Local Area (LAN)."
+    },
+    {
+      "id": "smp-8-tik-23",
+      "teks": "Sekumpulan standar aturan cara mesin saling bicara saat mengirim maupun menerima paket data internet tanpa ada crash (tabrakan) dikenal sbg jembatan komunikasi berupa IP yang kepajangannya... (Latihan #23)",
+      "opsi": {
+        "A": "Internal Platform",
+        "B": "Intranet Project",
+        "C": "Internet Protocol",
+        "D": "Inernet Provider",
+        "E": "Integrated Patch"
+      },
+      "kunci": "C",
+      "pembahasan": "IP dan TCP adalah rule set aturan sandi lalu lintas jaringan sedunia (Internet protocol). Alamat unik setiap hp/pc internet disebut Alamat IP address numrik logik.",
+      "trik": "IP Address = alamat komunikasi aturan internet (Internet Protocol)."
+    },
+    {
+      "id": "smp-8-tik-24",
+      "teks": "Simbol grafis/blok warna dalam perangkat lunak pendidikan pengodingan blok Scratch jika mengandung tulisan 'if...then...else' tergolong ke dalam struktur pemrograman... (Latihan #24)",
+      "opsi": {
+        "A": "Input Output display Monitor",
+        "B": "Rangkaian Perulangan (Loops)",
+        "C": "Deklarasi Variabel Statis String",
+        "D": "Percabangan/Pemilihan Logika Syarat Kondisi (Condition/Selection)",
+        "E": "Motion blok perpindahan sumbu X dan Y"
+      },
+      "kunci": "D",
+      "pembahasan": "If = Jika. Kondisi Ini membentuk simpul percabangan pemilihan, kemana program harus melangkah sesuai suatu nilai (benar / salah).",
+      "trik": "IF THEN = jika maka (Percabangan/Kondisi)."
+    },
+    {
+      "id": "smp-8-tik-25",
+      "teks": "Perangkat router atau modem di rumah yg difasilitasi tiang antena telkom memancar sinar tak terlihat bertugas mentransfer jaringan wifi WLAN (Wireless) memiliki media tranmisi berwujud... (Latihan #25)",
+      "opsi": {
+        "A": "Kabel Fiber optik kaca selubung plastik",
+        "B": "Arus tembaga tegangan tinggi",
+        "C": "Laser cahaya inframerah dari remout",
+        "D": "Tancapan Flashdisk USB Dongle",
+        "E": "Pancaran Gelombang Radio / Elektromagnet udara (Nirkabel)"
+      },
+      "kunci": "E",
+      "pembahasan": "Wifi dan paket data seluler menggunakan ruang padat pemancar sinyal gelombang radio elektromagnetik tak pakai kabel padat keras/ nirkabel.",
+      "trik": "Wireless / Wi-fi / Gelombang = Pancaran Radio Udara tidak terlihat Kabel UTP."
+    },
+    {
+      "id": "smp-8-tik-26",
+      "teks": "Aplikasi perkantoran Spreadsheet semacam Microsoft Excel / gsheet digunakan mayoritas instansi mengelola laporan... (Latihan #26)",
+      "opsi": {
+        "A": "Membuat tabel penghitungan angka data grafik / kompilasi kas",
+        "B": "Mengetik brosur surat panjang penuh tulisan paragraf",
+        "C": "Manipulasi Foto gelap kecerahan saturasi",
+        "D": "Menampilkan slide presentasi tayangan bervisal audio depan kelas",
+        "E": "Bermain game simulasi menembak virtual reality"
+      },
+      "kunci": "A",
+      "pembahasan": "Excel diperuntukan untuk data olahan angka, kalkulasi gaji, tabel rumusan statistik SUM AVG IF beserta grafik pie chart.",
+      "trik": "Spreadsheet = Lembar kerja Tabel Hitung (Row Column Math)."
+    },
+    {
+      "id": "smp-8-tik-27",
+      "teks": "Ketika menyusun tabel penilaian ulangan sekolah dgn rumus excel, untuk mencari total kumpulan jumlah angka semua nilai anak kolom dari atas bawah dipergunakan fungsi perintah... (Latihan #27)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=SUM()",
+        "C": "=MAX()",
+        "D": "=MIN()",
+        "E": "=COUNT()"
+      },
+      "kunci": "B",
+      "pembahasan": "SUM (Summary/Summation) berfungsi nge-TOTAL keseluruhah nilai yang diblok angka numerik. AVERAGE rata rata, MAX tertinggi nilai.",
+      "trik": "Total ditambahin gumpal semua = SUM."
+    },
+    {
+      "id": "smp-8-tik-28",
+      "teks": "Bentuk representasi presentasi grafis yang mewakili visual serangkaian data rumit agar sangat gampang terbaca porsi perbandingan pergerakanya dgn mudah dinamakan... (Latihan #28)",
+      "opsi": {
+        "A": "Script file",
+        "B": "Teks Paragraf Panjang",
+        "C": "Chart (Grafik/Diagram)",
+        "D": "Hardware Portabel",
+        "E": "Enkripsi password"
+      },
+      "kunci": "C",
+      "pembahasan": "Diagram (Chart - batang/Lingkaran) menampilkan piktorial ringkas visual angka data Excel biar mudah disimpulkan pihak pembaca audiens presentasi dibanding mebaca table.",
+      "trik": "Presentasi Gambar angka  = Grafik / Chart / Diagram."
+    },
+    {
+      "id": "smp-8-tik-29",
+      "teks": "Di internet banyak domain alamat web website, kepanjangan akhiran identitas domain `.org` dirancang untuk tipe institusi... (Latihan #29)",
+      "opsi": {
+        "A": "Pendidikan kuliah/Sekolah",
+        "B": "Agensi Pemerintah negara",
+        "C": "Perusahaan komersil dagang (Commercial)",
+        "D": "Organisasi nirlaba sosial komunitas perkumpulan (Organization)",
+        "E": "Vendor jasa penyedia WiFi internet jaringan kabel"
+      },
+      "kunci": "D",
+      "pembahasan": "org (Organization), com (Commercial Profit basis), edu/ac (Acadamia Edu), gov/go (Government pemerintah).",
+      "trik": "ORG = Organization komunitas non-profit / sosial wiki forum."
+    },
+    {
+      "id": "smp-8-tik-30",
+      "teks": "Proses pencarian dan merapikan set data mentah lalu meneliti hal hal yang di anggap penting demi menyimpulkan penemuan di era big data, dlm pelajaran TIK merujuk pada tahap... (Latihan #30)",
+      "opsi": {
+        "A": "Desain Grafis Corel Draw",
+        "B": "Hacking deface keamanan Web Server bank",
+        "C": "Perakitan motherboard RAM",
+        "D": "Instal Ulang flashing OS Windows",
+        "E": "Analisis Pengolahan Data (Data Analysis)"
+      },
+      "kunci": "E",
+      "pembahasan": "Data Analis mencakup (Koleksi survey, Cleaning/sortir valid, Pemroses rumus, Analisa Statistik , lalu Visualisasi kesimpulan/report grafik).",
+      "trik": "Menggali data jadi emas info bermanfaast = Analisis data TIK (Dampak Soksial ICT)."
+    },
+    {
+      "id": "smp-8-tik-31",
+      "teks": "Di dalam topologi struktur jaringan komputer, susunan yang komputer client dan servernya disambungkan semua langsung ke satu kabel panjang lurus tulang punggung (backbone) terminator disebut topologi... (Latihan #31)",
+      "opsi": {
+        "A": "Topologi Bus",
+        "B": "Topologi Star (Bintang)",
+        "C": "Topologi Ring (Cincin)",
+        "D": "Topologi Mesh (Jaring acak)",
+        "E": "Topologi Tree (Pohon)"
+      },
+      "kunci": "A",
+      "pembahasan": "Topologi bus memakai sebuah kabel panjang (coaxial) yg berderet colokan persimpangan kompputer di rentang tsb, sbg jalur komunikasi utama 1 arus (Backbone single lurus).",
+      "trik": "kabel tulang lurus 1 gang = BUS."
+    },
+    {
+      "id": "smp-8-tik-32",
+      "teks": "Jaringan lokal yang menghubungkan komputer seisi 1 gedung sekolah/laboratorium ruangan beratap sempit tidak lebih dari kilometer disebut jaringan... (Latihan #32)",
+      "opsi": {
+        "A": "MAN (Metropolitan Area Net)",
+        "B": "LAN (Local Area Net)",
+        "C": "WAN (Wide Area Net)",
+        "D": "Internet Global Maya",
+        "E": "PAN Bluetooth (Personal Area)"
+      },
+      "kunci": "B",
+      "pembahasan": "LAN atau jaringan lokal hanya mencakup radius kecil lokal intern (warnet , lab sekolah, kantor pribadi) jarak sambungan tak sampai puluhan kilo.",
+      "trik": "Gedung Tunggal/Lab kom = Local Area (LAN)."
+    },
+    {
+      "id": "smp-8-tik-33",
+      "teks": "Sekumpulan standar aturan cara mesin saling bicara saat mengirim maupun menerima paket data internet tanpa ada crash (tabrakan) dikenal sbg jembatan komunikasi berupa IP yang kepajangannya... (Latihan #33)",
+      "opsi": {
+        "A": "Internal Platform",
+        "B": "Intranet Project",
+        "C": "Internet Protocol",
+        "D": "Inernet Provider",
+        "E": "Integrated Patch"
+      },
+      "kunci": "C",
+      "pembahasan": "IP dan TCP adalah rule set aturan sandi lalu lintas jaringan sedunia (Internet protocol). Alamat unik setiap hp/pc internet disebut Alamat IP address numrik logik.",
+      "trik": "IP Address = alamat komunikasi aturan internet (Internet Protocol)."
+    },
+    {
+      "id": "smp-8-tik-34",
+      "teks": "Simbol grafis/blok warna dalam perangkat lunak pendidikan pengodingan blok Scratch jika mengandung tulisan 'if...then...else' tergolong ke dalam struktur pemrograman... (Latihan #34)",
+      "opsi": {
+        "A": "Input Output display Monitor",
+        "B": "Rangkaian Perulangan (Loops)",
+        "C": "Deklarasi Variabel Statis String",
+        "D": "Percabangan/Pemilihan Logika Syarat Kondisi (Condition/Selection)",
+        "E": "Motion blok perpindahan sumbu X dan Y"
+      },
+      "kunci": "D",
+      "pembahasan": "If = Jika. Kondisi Ini membentuk simpul percabangan pemilihan, kemana program harus melangkah sesuai suatu nilai (benar / salah).",
+      "trik": "IF THEN = jika maka (Percabangan/Kondisi)."
+    },
+    {
+      "id": "smp-8-tik-35",
+      "teks": "Perangkat router atau modem di rumah yg difasilitasi tiang antena telkom memancar sinar tak terlihat bertugas mentransfer jaringan wifi WLAN (Wireless) memiliki media tranmisi berwujud... (Latihan #35)",
+      "opsi": {
+        "A": "Kabel Fiber optik kaca selubung plastik",
+        "B": "Arus tembaga tegangan tinggi",
+        "C": "Laser cahaya inframerah dari remout",
+        "D": "Tancapan Flashdisk USB Dongle",
+        "E": "Pancaran Gelombang Radio / Elektromagnet udara (Nirkabel)"
+      },
+      "kunci": "E",
+      "pembahasan": "Wifi dan paket data seluler menggunakan ruang padat pemancar sinyal gelombang radio elektromagnetik tak pakai kabel padat keras/ nirkabel.",
+      "trik": "Wireless / Wi-fi / Gelombang = Pancaran Radio Udara tidak terlihat Kabel UTP."
+    },
+    {
+      "id": "smp-8-tik-36",
+      "teks": "Aplikasi perkantoran Spreadsheet semacam Microsoft Excel / gsheet digunakan mayoritas instansi mengelola laporan... (Latihan #36)",
+      "opsi": {
+        "A": "Membuat tabel penghitungan angka data grafik / kompilasi kas",
+        "B": "Mengetik brosur surat panjang penuh tulisan paragraf",
+        "C": "Manipulasi Foto gelap kecerahan saturasi",
+        "D": "Menampilkan slide presentasi tayangan bervisal audio depan kelas",
+        "E": "Bermain game simulasi menembak virtual reality"
+      },
+      "kunci": "A",
+      "pembahasan": "Excel diperuntukan untuk data olahan angka, kalkulasi gaji, tabel rumusan statistik SUM AVG IF beserta grafik pie chart.",
+      "trik": "Spreadsheet = Lembar kerja Tabel Hitung (Row Column Math)."
+    },
+    {
+      "id": "smp-8-tik-37",
+      "teks": "Ketika menyusun tabel penilaian ulangan sekolah dgn rumus excel, untuk mencari total kumpulan jumlah angka semua nilai anak kolom dari atas bawah dipergunakan fungsi perintah... (Latihan #37)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=SUM()",
+        "C": "=MAX()",
+        "D": "=MIN()",
+        "E": "=COUNT()"
+      },
+      "kunci": "B",
+      "pembahasan": "SUM (Summary/Summation) berfungsi nge-TOTAL keseluruhah nilai yang diblok angka numerik. AVERAGE rata rata, MAX tertinggi nilai.",
+      "trik": "Total ditambahin gumpal semua = SUM."
+    },
+    {
+      "id": "smp-8-tik-38",
+      "teks": "Bentuk representasi presentasi grafis yang mewakili visual serangkaian data rumit agar sangat gampang terbaca porsi perbandingan pergerakanya dgn mudah dinamakan... (Latihan #38)",
+      "opsi": {
+        "A": "Script file",
+        "B": "Teks Paragraf Panjang",
+        "C": "Chart (Grafik/Diagram)",
+        "D": "Hardware Portabel",
+        "E": "Enkripsi password"
+      },
+      "kunci": "C",
+      "pembahasan": "Diagram (Chart - batang/Lingkaran) menampilkan piktorial ringkas visual angka data Excel biar mudah disimpulkan pihak pembaca audiens presentasi dibanding mebaca table.",
+      "trik": "Presentasi Gambar angka  = Grafik / Chart / Diagram."
+    },
+    {
+      "id": "smp-8-tik-39",
+      "teks": "Di internet banyak domain alamat web website, kepanjangan akhiran identitas domain `.org` dirancang untuk tipe institusi... (Latihan #39)",
+      "opsi": {
+        "A": "Pendidikan kuliah/Sekolah",
+        "B": "Agensi Pemerintah negara",
+        "C": "Perusahaan komersil dagang (Commercial)",
+        "D": "Organisasi nirlaba sosial komunitas perkumpulan (Organization)",
+        "E": "Vendor jasa penyedia WiFi internet jaringan kabel"
+      },
+      "kunci": "D",
+      "pembahasan": "org (Organization), com (Commercial Profit basis), edu/ac (Acadamia Edu), gov/go (Government pemerintah).",
+      "trik": "ORG = Organization komunitas non-profit / sosial wiki forum."
+    },
+    {
+      "id": "smp-8-tik-40",
+      "teks": "Proses pencarian dan merapikan set data mentah lalu meneliti hal hal yang di anggap penting demi menyimpulkan penemuan di era big data, dlm pelajaran TIK merujuk pada tahap... (Latihan #40)",
+      "opsi": {
+        "A": "Desain Grafis Corel Draw",
+        "B": "Hacking deface keamanan Web Server bank",
+        "C": "Perakitan motherboard RAM",
+        "D": "Instal Ulang flashing OS Windows",
+        "E": "Analisis Pengolahan Data (Data Analysis)"
+      },
+      "kunci": "E",
+      "pembahasan": "Data Analis mencakup (Koleksi survey, Cleaning/sortir valid, Pemroses rumus, Analisa Statistik , lalu Visualisasi kesimpulan/report grafik).",
+      "trik": "Menggali data jadi emas info bermanfaast = Analisis data TIK (Dampak Soksial ICT)."
+    },
+    {
+      "id": "smp-8-tik-41",
+      "teks": "Di dalam topologi struktur jaringan komputer, susunan yang komputer client dan servernya disambungkan semua langsung ke satu kabel panjang lurus tulang punggung (backbone) terminator disebut topologi... (Latihan #41)",
+      "opsi": {
+        "A": "Topologi Bus",
+        "B": "Topologi Star (Bintang)",
+        "C": "Topologi Ring (Cincin)",
+        "D": "Topologi Mesh (Jaring acak)",
+        "E": "Topologi Tree (Pohon)"
+      },
+      "kunci": "A",
+      "pembahasan": "Topologi bus memakai sebuah kabel panjang (coaxial) yg berderet colokan persimpangan kompputer di rentang tsb, sbg jalur komunikasi utama 1 arus (Backbone single lurus).",
+      "trik": "kabel tulang lurus 1 gang = BUS."
+    },
+    {
+      "id": "smp-8-tik-42",
+      "teks": "Jaringan lokal yang menghubungkan komputer seisi 1 gedung sekolah/laboratorium ruangan beratap sempit tidak lebih dari kilometer disebut jaringan... (Latihan #42)",
+      "opsi": {
+        "A": "MAN (Metropolitan Area Net)",
+        "B": "LAN (Local Area Net)",
+        "C": "WAN (Wide Area Net)",
+        "D": "Internet Global Maya",
+        "E": "PAN Bluetooth (Personal Area)"
+      },
+      "kunci": "B",
+      "pembahasan": "LAN atau jaringan lokal hanya mencakup radius kecil lokal intern (warnet , lab sekolah, kantor pribadi) jarak sambungan tak sampai puluhan kilo.",
+      "trik": "Gedung Tunggal/Lab kom = Local Area (LAN)."
+    },
+    {
+      "id": "smp-8-tik-43",
+      "teks": "Sekumpulan standar aturan cara mesin saling bicara saat mengirim maupun menerima paket data internet tanpa ada crash (tabrakan) dikenal sbg jembatan komunikasi berupa IP yang kepajangannya... (Latihan #43)",
+      "opsi": {
+        "A": "Internal Platform",
+        "B": "Intranet Project",
+        "C": "Internet Protocol",
+        "D": "Inernet Provider",
+        "E": "Integrated Patch"
+      },
+      "kunci": "C",
+      "pembahasan": "IP dan TCP adalah rule set aturan sandi lalu lintas jaringan sedunia (Internet protocol). Alamat unik setiap hp/pc internet disebut Alamat IP address numrik logik.",
+      "trik": "IP Address = alamat komunikasi aturan internet (Internet Protocol)."
+    },
+    {
+      "id": "smp-8-tik-44",
+      "teks": "Simbol grafis/blok warna dalam perangkat lunak pendidikan pengodingan blok Scratch jika mengandung tulisan 'if...then...else' tergolong ke dalam struktur pemrograman... (Latihan #44)",
+      "opsi": {
+        "A": "Input Output display Monitor",
+        "B": "Rangkaian Perulangan (Loops)",
+        "C": "Deklarasi Variabel Statis String",
+        "D": "Percabangan/Pemilihan Logika Syarat Kondisi (Condition/Selection)",
+        "E": "Motion blok perpindahan sumbu X dan Y"
+      },
+      "kunci": "D",
+      "pembahasan": "If = Jika. Kondisi Ini membentuk simpul percabangan pemilihan, kemana program harus melangkah sesuai suatu nilai (benar / salah).",
+      "trik": "IF THEN = jika maka (Percabangan/Kondisi)."
+    },
+    {
+      "id": "smp-8-tik-45",
+      "teks": "Perangkat router atau modem di rumah yg difasilitasi tiang antena telkom memancar sinar tak terlihat bertugas mentransfer jaringan wifi WLAN (Wireless) memiliki media tranmisi berwujud... (Latihan #45)",
+      "opsi": {
+        "A": "Kabel Fiber optik kaca selubung plastik",
+        "B": "Arus tembaga tegangan tinggi",
+        "C": "Laser cahaya inframerah dari remout",
+        "D": "Tancapan Flashdisk USB Dongle",
+        "E": "Pancaran Gelombang Radio / Elektromagnet udara (Nirkabel)"
+      },
+      "kunci": "E",
+      "pembahasan": "Wifi dan paket data seluler menggunakan ruang padat pemancar sinyal gelombang radio elektromagnetik tak pakai kabel padat keras/ nirkabel.",
+      "trik": "Wireless / Wi-fi / Gelombang = Pancaran Radio Udara tidak terlihat Kabel UTP."
+    },
+    {
+      "id": "smp-8-tik-46",
+      "teks": "Aplikasi perkantoran Spreadsheet semacam Microsoft Excel / gsheet digunakan mayoritas instansi mengelola laporan... (Latihan #46)",
+      "opsi": {
+        "A": "Membuat tabel penghitungan angka data grafik / kompilasi kas",
+        "B": "Mengetik brosur surat panjang penuh tulisan paragraf",
+        "C": "Manipulasi Foto gelap kecerahan saturasi",
+        "D": "Menampilkan slide presentasi tayangan bervisal audio depan kelas",
+        "E": "Bermain game simulasi menembak virtual reality"
+      },
+      "kunci": "A",
+      "pembahasan": "Excel diperuntukan untuk data olahan angka, kalkulasi gaji, tabel rumusan statistik SUM AVG IF beserta grafik pie chart.",
+      "trik": "Spreadsheet = Lembar kerja Tabel Hitung (Row Column Math)."
+    },
+    {
+      "id": "smp-8-tik-47",
+      "teks": "Ketika menyusun tabel penilaian ulangan sekolah dgn rumus excel, untuk mencari total kumpulan jumlah angka semua nilai anak kolom dari atas bawah dipergunakan fungsi perintah... (Latihan #47)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=SUM()",
+        "C": "=MAX()",
+        "D": "=MIN()",
+        "E": "=COUNT()"
+      },
+      "kunci": "B",
+      "pembahasan": "SUM (Summary/Summation) berfungsi nge-TOTAL keseluruhah nilai yang diblok angka numerik. AVERAGE rata rata, MAX tertinggi nilai.",
+      "trik": "Total ditambahin gumpal semua = SUM."
+    },
+    {
+      "id": "smp-8-tik-48",
+      "teks": "Bentuk representasi presentasi grafis yang mewakili visual serangkaian data rumit agar sangat gampang terbaca porsi perbandingan pergerakanya dgn mudah dinamakan... (Latihan #48)",
+      "opsi": {
+        "A": "Script file",
+        "B": "Teks Paragraf Panjang",
+        "C": "Chart (Grafik/Diagram)",
+        "D": "Hardware Portabel",
+        "E": "Enkripsi password"
+      },
+      "kunci": "C",
+      "pembahasan": "Diagram (Chart - batang/Lingkaran) menampilkan piktorial ringkas visual angka data Excel biar mudah disimpulkan pihak pembaca audiens presentasi dibanding mebaca table.",
+      "trik": "Presentasi Gambar angka  = Grafik / Chart / Diagram."
+    },
+    {
+      "id": "smp-8-tik-49",
+      "teks": "Di internet banyak domain alamat web website, kepanjangan akhiran identitas domain `.org` dirancang untuk tipe institusi... (Latihan #49)",
+      "opsi": {
+        "A": "Pendidikan kuliah/Sekolah",
+        "B": "Agensi Pemerintah negara",
+        "C": "Perusahaan komersil dagang (Commercial)",
+        "D": "Organisasi nirlaba sosial komunitas perkumpulan (Organization)",
+        "E": "Vendor jasa penyedia WiFi internet jaringan kabel"
+      },
+      "kunci": "D",
+      "pembahasan": "org (Organization), com (Commercial Profit basis), edu/ac (Acadamia Edu), gov/go (Government pemerintah).",
+      "trik": "ORG = Organization komunitas non-profit / sosial wiki forum."
+    },
+    {
+      "id": "smp-8-tik-50",
+      "teks": "Proses pencarian dan merapikan set data mentah lalu meneliti hal hal yang di anggap penting demi menyimpulkan penemuan di era big data, dlm pelajaran TIK merujuk pada tahap... (Latihan #50)",
+      "opsi": {
+        "A": "Desain Grafis Corel Draw",
+        "B": "Hacking deface keamanan Web Server bank",
+        "C": "Perakitan motherboard RAM",
+        "D": "Instal Ulang flashing OS Windows",
+        "E": "Analisis Pengolahan Data (Data Analysis)"
+      },
+      "kunci": "E",
+      "pembahasan": "Data Analis mencakup (Koleksi survey, Cleaning/sortir valid, Pemroses rumus, Analisa Statistik , lalu Visualisasi kesimpulan/report grafik).",
+      "trik": "Menggali data jadi emas info bermanfaast = Analisis data TIK (Dampak Soksial ICT)."
+    }
+  ]
+}

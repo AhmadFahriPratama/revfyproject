@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMA_GE_01",
+    "pertanyaan": "Letak suatu tempat yang dilihat dari garis lintang dan garis bujur disebut letak...",
+    "opsi": [
+      "Astronomis",
+      "Relatif",
+      "Geografis",
+      "Geologis",
+      "Morfologis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Letak astronomis bersifat mutlak dan tidak berubah."
+  },
+  {
+    "id": "SMA_GE_02",
+    "pertanyaan": "Konsep geografi yang menjelaskan fenomena perumahan elit yang dibangun di dekat pusat kota sementara pemukiman kumuh di pinggir sungai adalah konsep...",
+    "opsi": [
+      "Agloemerasi",
+      "Pola",
+      "Diferensiasi Area",
+      "Interaksi",
+      "Keterjangkauan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Konsep pola menggambarkan susunan keruangan fenomena di wajah bumi."
+  },
+  {
+    "id": "SMA_GE_03",
+    "pertanyaan": "Prinsip geografi yang memadukan persebaran, interelasi, dan deskripsi dalam satu ruang disebut prinsip...",
+    "opsi": [
+      "Distribusi",
+      "Interelasi",
+      "Korologi",
+      "Deskripsi",
+      "Ekologi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Korologi adalah prinsip geografi yang paling komprehensif (gejala ditinjau dari penyebarannya dalam satu ruang)."
+  },
+  {
+    "id": "SMA_GE_04",
+    "pertanyaan": "Alat yang merekam data objek di permukaan bumi pada pengindraan jauh disebut...",
+    "opsi": [
+      "Atmosfer",
+      "Wahana",
+      "Citra",
+      "Sensor",
+      "Digitizer"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sensor bisa berupa kamera atau radar yang diletakkan pada wahana (pesawat/satelit)."
+  },
+  {
+    "id": "SMA_GE_05",
+    "pertanyaan": "Citra hasil pengindraan jauh yang berupa foto udara diambil menggunakan wahana...",
+    "opsi": [
+      "Satelit",
+      "Kapal laut",
+      "Balon udara",
+      "Mobil",
+      "Pesawat terbang / Drone"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Foto udara memberikan detail ruang yang lebih tinggi dibanding citra satelit skala luas."
+  },
+  {
+    "id": "SMA_GE_06",
+    "pertanyaan": "Komponen SIG yang berupa perangkat keras meliputi...",
+    "opsi": [
+      "Komputer, Scanner, Digitizer",
+      "Data spasial",
+      "ArcGIS, QGIS",
+      "Manusia (Brainware)",
+      "Prosedur kerja"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Hardware mendukung pemrosesan data geografi digital."
+  },
+  {
+    "id": "SMA_GE_07",
+    "pertanyaan": "Lapisan bumi yang paling luar dan merupakan tempat tinggal manusia disebut...",
+    "opsi": [
+      "Mantel bumi",
+      "Litosfer / Kerak Bumi",
+      "Inti bumi",
+      "Astenosfer",
+      "Barisfer"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Litosfer terdiri dari batuan padat yang membentuk benua dan dasar samudra."
+  },
+  {
+    "id": "SMA_GE_08",
+    "pertanyaan": "Tenaga pembentuk permukaan bumi yang berasal dari dalam bumi disebut...",
+    "opsi": [
+      "Tenaga Eksogen",
+      "Tenaga Tata Surya",
+      "Tenaga Endogen",
+      "Tenaga Angin",
+      "Tenaga Air"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tenaga endogen bersifat membangun (tektonisme, vulkanisme, seisme)."
+  },
+  {
+    "id": "SMA_GE_09",
+    "pertanyaan": "Titik di permukaan bumi yang berada tepat di atas pusat gempa disebut...",
+    "opsi": [
+      "Hiposentrum",
+      "Seismogram",
+      "Isoseista",
+      "Episentrum",
+      "Pleistoseista"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Episentrum adalah lokasi kerusakan biasanya paling parah terlihat di permukaan."
+  },
+  {
+    "id": "SMA_GE_10",
+    "pertanyaan": "Batuan yang terbentuk dari hasil pendinginan magma disebut batuan...",
+    "opsi": [
+      "Sedimen",
+      "Metamorf",
+      "Malihan",
+      "Organik",
+      "Beku"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh batuan beku: Granit, Obsidian, Basalt."
+  },
+  {
+    "id": "SMA_GE_11",
+    "pertanyaan": "Proses pengikisan batuan atau tanah oleh air, angin, atau es disebut...",
+    "opsi": [
+      "Erosi",
+      "Pelapukan",
+      "Sedimentasi",
+      "Masswasting",
+      "Korasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Erosi memindahkan material hasil pelapukan ke tempat lain."
+  },
+  {
+    "id": "SMA_GE_12",
+    "pertanyaan": "Lapisan atmosfer yang berfungsi melindungi bumi dari radiasi sinar ultraviolet (UV) adalah...",
+    "opsi": [
+      "Troposfer",
+      "Stratosfer (Lapisan Ozon)",
+      "Mesosfer",
+      "Termosfer",
+      "Eksosfer"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Gas ozon (O3) menyerap sebagian besar UV matahari agar tidak membakar kulit makhluk hidup."
+  },
+  {
+    "id": "SMA_GE_13",
+    "pertanyaan": "Fenomena alam seperti hujan, angin, petir, dan awan terjadi pada lapisan...",
+    "opsi": [
+      "Stratosfer",
+      "Ionosfer",
+      "Troposfer",
+      "Eksosfer",
+      "Mesosfer"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Troposfer adalah lapisan terdekat dengan bumi dan mengandung uap air terbanyak."
+  },
+  {
+    "id": "SMA_GE_14",
+    "pertanyaan": "Garis yang menghubungkan tempat-tempat dengan suhu udara yang sama pada peta disebut...",
+    "opsi": [
+      "Isobar",
+      "Isohyet",
+      "Isoseista",
+      "Isoterm",
+      "Isogonal"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Isoterm berasal dari kata 'iso' (sama) dan 'term' (suhu)."
+  },
+  {
+    "id": "SMA_GE_15",
+    "pertanyaan": "Iklim yang ditandai dengan curah hujan tinggi, kelembapan tinggi, dan suhu stabil sepanjang tahun di Indonesia adalah iklim...",
+    "opsi": [
+      "Subtropis",
+      "Gurun",
+      "Dingin",
+      "Sedang",
+      "Tropis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Indonesia berada di khatulistiwa yang mendukung hutan hujan tropis."
+  },
+  {
+    "id": "SMA_GE_16",
+    "pertanyaan": "Siklus air yang melibatkan penguapan laut, pembentukan awan, hujan di atas daratan, dan air kembali ke laut melalui sungai disebut siklus...",
+    "opsi": [
+      "Sedang",
+      "Pendek",
+      "Panjang",
+      "Besar",
+      "Tahunan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Siklus sedang adalah siklus yang paling umum menjangkau wilayah daratan."
+  },
+  {
+    "id": "SMA_GE_17",
+    "pertanyaan": "Danau yang terbentuk karena runtuhnya kawah gunung api yang sudah mati disebut danau...",
+    "opsi": [
+      "Tektonik",
+      "Vulkanik",
+      "Tekto-vulkanik",
+      "Karst",
+      "Glacial"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh: Danau Kelimutu atau Danau Batur."
+  },
+  {
+    "id": "SMA_GE_18",
+    "pertanyaan": "Daerah di dasar laut yang kedalamannya kurang dari 200 meter dan kaya akan ikan serta terumbu karang disebut...",
+    "opsi": [
+      "Zona Abisal",
+      "Zona Batial",
+      "Zona Neritik",
+      "Zona Litoral",
+      "Palung Laut"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Zona neritik masih mendapatkan sinar matahari yang cukup untuk fotosintesis tumbuhan laut."
+  },
+  {
+    "id": "SMA_GE_19",
+    "pertanyaan": "Tanah yang sangat subur karena berasal dari material letusan gunung api disebut tanah...",
+    "opsi": [
+      "Aluvial",
+      "Organosol",
+      "Laterit",
+      "Vulkanik (Andosol)",
+      "Podzol"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kandungan mineralnya sangat tinggi untuk pertanian."
+  },
+  {
+    "id": "SMA_GE_20",
+    "pertanyaan": "Penyebab utama terjadinya erosi tanah di lereng gunung yang gundul adalah...",
+    "opsi": [
+      "Angin kencang",
+      "Panas matahari",
+      "Getaran truk",
+      "Populasi burung",
+      "Aliran air hujan (Run-off)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Vegetasi (pohon) sangat penting untuk mengikat butiran tanah agar tidak terbawa air."
+  },
+  {
+    "id": "SMA_GE_21",
+    "pertanyaan": "Komposisi penduduk yang digambarkan dalam bentuk piramida dengan dasar lebar (ekspansif) menunjukkan bahwa...",
+    "opsi": [
+      "Angka kelahiran tinggi",
+      "Jumlah penduduk usia tua sangat banyak",
+      "Angka kematian sangat tinggi",
+      "Jumlah penduduk laki-laki lebih banyak",
+      "Pertumbuhan penduduk nol"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Piramida Ekspansif (muda) menunjukkan populasi yang terus bertumbuh besar."
+  },
+  {
+    "id": "SMA_GE_22",
+    "pertanyaan": "Perpindahan penduduk dari desa ke kota karena tarikan ekonomi disebut...",
+    "opsi": [
+      "Transmigrasi",
+      "Urbanisasi",
+      "Emigrasi",
+      "Imigrasi",
+      "Ruralisasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Urbanisasi memicu kepadatan penduduk dan masalah sosial di perkotaan."
+  },
+  {
+    "id": "SMA_GE_23",
+    "pertanyaan": "Sumber daya alam yang tidak dapat diperbaharui (non-renewable) adalah...",
+    "opsi": [
+      "Hutan",
+      "Sinar Matahari",
+      "Minyak Bumi dan Gas Alam",
+      "Air Laut",
+      "Ikan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Fosil membutuhkan jutaan tahun untuk terbentuk kembali."
+  },
+  {
+    "id": "SMA_GE_24",
+    "pertanyaan": "Industri pariwisata masuk dalam kategori industri...",
+    "opsi": [
+      "Primer",
+      "Sekunder",
+      "Ekstraktif",
+      "Tersier (Jasa)",
+      "Fasilitatif"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tersier tidak menghasilkan barang fisik melainkan pengalaman masakan/hiburan."
+  },
+  {
+    "id": "SMA_GE_25",
+    "pertanyaan": "Prinsip pembangunan yang memenuhi kebutuhan sekarang tanpa mengorbankan hak generasi mendatang disebut...",
+    "opsi": [
+      "Eksploitasi",
+      "Modernisasi",
+      "Industrialisasi",
+      "Konsumerisme",
+      "Sustainable Development (Pembangunan Berkelanjutan)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: Penggunaan energi terbarukan dan reboisasi hutan."
+  },
+  {
+    "id": "SMA_GE_26",
+    "pertanyaan": "Skun peta 1 : 100.000 artinya...",
+    "opsi": [
+      "1 cm di peta sama dengan 1 km (100.000 cm) di lapangan",
+      "1 cm di peta sama dengan 100.000 km di lapangan",
+      "1 km di peta sama dengan 1 cm di lapangan",
+      "Peta tersebut sangat kecil",
+      "Peta tersebut hanya untuk pilot"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Skala adalah perbandingan jarak pada peta dengan jarak sebenarnya."
+  },
+  {
+    "id": "SMA_GE_27",
+    "pertanyaan": "Warna biru pada peta umum melambangkan ketampakan...",
+    "opsi": [
+      "Pegunungan",
+      "Perairan (laut, danau, sungai)",
+      "Dataran rendah",
+      "Batas wilayah",
+      "Pemukiman"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Gradasi biru tua menunjukkan laut dalam, biru muda menunjukkan laut dangkal."
+  },
+  {
+    "id": "SMA_GE_28",
+    "pertanyaan": "Peta yang menggambarkan satu tema khusus, seperti peta kepadatan penduduk, disebut peta...",
+    "opsi": [
+      "Umum",
+      "Kadaster",
+      "Tematik (Khusus)",
+      "Korografi",
+      "Dunia"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Peta tematik fokus pada satu variabel informasi geografi."
+  },
+  {
+    "id": "SMA_GE_29",
+    "pertanyaan": "Alat yang digunakan untuk mengukur kelembapan udara adalah...",
+    "opsi": [
+      "Anemometer",
+      "Barometer",
+      "Termometer",
+      "Higrometer",
+      "Ombrometer"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Higrometer mengukur kadar uap air di udara."
+  },
+  {
+    "id": "SMA_GE_30",
+    "pertanyaan": "Alat untuk mengukur kecepatan angin disebut...",
+    "opsi": [
+      "Altimeter",
+      "Seismograf",
+      "Pluviometer",
+      "Sphygnomanometer",
+      "Anemometer"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Anemometer sering digunakan di stasiun meteorologi dan bandara."
+  },
+  {
+    "id": "SMA_GE_31",
+    "pertanyaan": "Bencana alam hidrometeorologi yang sering terjadi di Indonesia saat musim hujan adalah...",
+    "opsi": [
+      "Banjir dan Tanah Longsor",
+      "Tsunami",
+      "Gempa Bumi",
+      "Erupsi Gunung Api",
+      "El Nino"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Banjir dan longsor berkaitan erat dengan intensitas hujan tinggi."
+  },
+  {
+    "id": "SMA_GE_32",
+    "pertanyaan": "Usaha untuk meminimalkan risiko jatuhnya korban jiwa saat terjadi bencana disebut...",
+    "opsi": [
+      "Evakuasi",
+      "Mitigasi",
+      "Rekonstruksi",
+      "Rehabilitasi",
+      "Eksplorasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mitigasi mencakup persiapan pembangunan tahan gempa dan edukasi masyarakat."
+  },
+  {
+    "id": "SMA_GE_33",
+    "pertanyaan": "Suhu udara yang semakin dingin saat kita naik ke puncak gunung disebabkan oleh hukum...",
+    "opsi": [
+      "Gravitasi",
+      "Tekanan Udara",
+      "Gradient Thermometris",
+      "Lapse Rate",
+      "Kedalaman"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rata-rata suhu turun 0,6 derajat Celcius setiap naik 100 meter."
+  },
+  {
+    "id": "SMA_GE_34",
+    "pertanyaan": "Hutan yang memiliki fungsi utama menjaga kelestarian keanekaragaman hayati disebut hutan...",
+    "opsi": [
+      "Produksi",
+      "Suaka Alam",
+      "Wisata",
+      "Konservasi / Lindung",
+      "Cadangan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hutan lindung dilarang keras untuk ditebang atau dieksploitasi."
+  },
+  {
+    "id": "SMA_GE_35",
+    "pertanyaan": "Wilayah Indonesia berada di antara dua samudra, yaitu...",
+    "opsi": [
+      "Hindia dan Atlantik",
+      "Pasifik dan Atlantik",
+      "Atlantik dan Arktik",
+      "Hindia dan Antartika",
+      "Hindia dan Pasifik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Posisi silang ini menguntungkan jalur perdagangan dunia."
+  },
+  {
+    "id": "SMA_GE_36",
+    "pertanyaan": "Garis khayal yang membatasi fauna tipe Asiatis dan tipe Peralihan di Indonesia adalah garis...",
+    "opsi": [
+      "Wallace",
+      "Weber",
+      "Khatulistiwa",
+      "Bujur Timur",
+      "Lintang Selatan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Garis Wallace memisahkan satwa bagian barat (Sumatra/Jawa/Kalimantan) dengan tengah."
+  },
+  {
+    "id": "SMA_GE_37",
+    "pertanyaan": "Contoh hewan tipe peralihan (endemik Indonesia tengah) adalah...",
+    "opsi": [
+      "Gajah dan Harimau",
+      "Anoa dan Komodo",
+      "Kanguru dan Kasuari",
+      "Orangutan",
+      "Badak Bercula Satu"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Anoa (Sulawesi) dan Komodo (NTT) tidak ditemukan di bagian dunia lain."
+  },
+  {
+    "id": "SMA_GE_38",
+    "pertanyaan": "Sistem pertanian lahan kering yang biasanya berpindah-pindah tempat disebut...",
+    "opsi": [
+      "Sawah Irigasi",
+      "Kebun",
+      "Ladang (Humuma)",
+      "Tambak",
+      "Green House"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Ladang berpindah jika dilakukan secara liar dapat merusak hutan."
+  },
+  {
+    "id": "SMA_GE_39",
+    "pertanyaan": "Negara maju memiliki ciri kependudukan berupa...",
+    "opsi": [
+      "Angka kelahiran tinggi",
+      "Mayoritas penduduk bekerja di sektor pertanian",
+      "Tingkat pendidikan rendah",
+      "Angka harapan hidup tinggi",
+      "Beban ketergantungan sangat tinggi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kesehatan dan gizi yang baik membuat penduduk negara maju berumur panjang."
+  },
+  {
+    "id": "SMA_GE_40",
+    "pertanyaan": "Interaksi desa-kota seringkali menimbulkan dampak negatif bagi desa berupa...",
+    "opsi": [
+      "Desa semakin maju",
+      "Banyaknya mal di desa",
+      "Udara desa semakin sejuk",
+      "Berkurangnya angka kriminalitas",
+      "Terjadinya urbanisasi berlebih (tenaga produktif desa berkurang)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pertanian di desa kekurangan tenaga kerja muda karena pindah ke kota."
+  },
+  {
+    "id": "SMA_GE_41",
+    "pertanyaan": "Pusat pertumbuhan ekonomi utama di Indonesia (Jabodetabek) menarik banyak penduduk karena faktor...",
+    "opsi": [
+      "Fasilitas lengkap dan peluang kerja",
+      "Pemandangan alam",
+      "Harga tanah murah",
+      "Udara bersih",
+      "Kepadatan penduduk rendah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sentralisasi pembangunan memicu daya tarik wilayah tertentu."
+  },
+  {
+    "id": "SMA_GE_42",
+    "pertanyaan": "Fenomena pulau panas di perkotaan yang suhunya lebih tinggi dibanding pinggiran disebut...",
+    "opsi": [
+      "El Nino",
+      "Urban Heat Island",
+      "Greenhouse Effect",
+      "Global Warming",
+      "La Nina"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penyebabnya adalah minim vegetasi, aspal/beton yang menyerap panas, dan polusi."
+  },
+  {
+    "id": "SMA_GE_43",
+    "pertanyaan": "Wilayah yang dicirikan oleh ketampakan fisik yang seragam (misal wilayah pegunungan kapur) disebut wilayah...",
+    "opsi": [
+      "Fungsional",
+      "Nodal",
+      "Formal",
+      "Persepsi",
+      "Administrasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Wilayah formal didasarkan pada keseragaman atribut (homogenitas)."
+  },
+  {
+    "id": "SMA_GE_44",
+    "pertanyaan": "Apa manfaat utama dari SIG bagi bidang militer?",
+    "opsi": [
+      "Menentukan menu makanan",
+      "Membuat baju seragam",
+      "Mencari harta karun",
+      "Strategi pemetaan wilayah pertahanan dan simulasi perang",
+      "Menghitung gaji prajurit"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Analisis medan perang sangat krusial menggunakan data geografi digital."
+  },
+  {
+    "id": "SMA_GE_45",
+    "pertanyaan": "Data SIG yang berupa titik, garis, dan poligon disebut data...",
+    "opsi": [
+      "Atribut",
+      "Raster",
+      "Nominal",
+      "Ordinal",
+      "Vektor"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Data vektor akurat untuk menentukan batas dan koordinat lokasi."
+  },
+  {
+    "id": "SMA_GE_46",
+    "pertanyaan": "Data SIG yang berupa susunan sel atau piksel disebut data...",
+    "opsi": [
+      "Raster",
+      "Vektor",
+      "Tabular",
+      "Grafik",
+      "Simbol"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh data raster adalah citra satelit atau foto udara digital."
+  },
+  {
+    "id": "SMA_GE_47",
+    "pertanyaan": "Salah satu dampak negatif dari eksploitasi hutan bakau (mangrove) adalah...",
+    "opsi": [
+      "Ikan makin banyak",
+      "Terjadinya abrasi (pengikisan pantai oleh air laut)",
+      "Udara pantai makin segar",
+      "Ombak mengecil",
+      "Suhu air laut turun"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mangrove berfungsi sebagai benteng alami pelindung pantai."
+  },
+  {
+    "id": "SMA_GE_48",
+    "pertanyaan": "Kegiatan mengolah kembali barang bekas agar berguna lagi disebut...",
+    "opsi": [
+      "Reuse",
+      "Reduce",
+      "Recycle (Daur Ulang)",
+      "Refill",
+      "Replace"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Recycle mengurangi volume sampah yang masuk ke TPA."
+  },
+  {
+    "id": "SMA_GE_49",
+    "pertanyaan": "Zonasi tata ruang yang melarang pemukiman di bantaran sungai bertujuan untuk...",
+    "opsi": [
+      "Mencegah kriminalitas",
+      "Mempersulit warga bermukim",
+      "Menarik pajak",
+      "Memperindah kota dan mencegah korban jika terjadi banjir",
+      "Membangun mal baru"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penyelamatan ruang terbuka hijau sangat penting bagi fungsi ekologis sungai."
+  },
+  {
+    "id": "SMA_GE_50",
+    "pertanyaan": "Ciri khas geografi sebagai ilmu adalah menggunakan sudut pandang...",
+    "opsi": [
+      "Sejarah",
+      "Ekonomi",
+      "Politik",
+      "Biologi",
+      "Keruangan (Spasial)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Analisis geografi selalu berakhir dengan jawaban atas pertanyaan 'Di mana?' dan 'Mengapa di sana?'."
+  }
+]

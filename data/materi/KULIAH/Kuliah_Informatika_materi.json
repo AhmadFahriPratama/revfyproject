@@ -1,0 +1,53 @@
+{
+  "judul": "Teknik Informatika / Ilmu Komputer (Lanjut)",
+  "tingkatan": "KULIAH",
+  "jurusan": "STEM / Informatika",
+  "deskripsi": "Materi tingkat universitas mengenai Struktur Data & Algoritma, Basis Data Lanjut (SQL/NoSQL), Arsitektur Komputer & OS, Jaringan Komputer Terdistribusi, serta Dasar Kecerdasan Buatan (AI).",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Struktur Data dan Analisis Algoritma",
+      "konten": "Pemahaman efisiensi algoritma (Big O Notation). Struktur data kompleks: Linked List, Tree (Binary Search Tree, AVL), Graph (BFS, DFS), serta Sorting lanjut (QuickSort, MergeSort).",
+      "tag": [
+        "kuliah informatika materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Sistem Operasi dan Arsitektur Komputer",
+      "konten": "Manajemen proses (Concurrency, Deadlock), manajemen memori (Paging, Virtual Memory), sistem file, serta abstraksi perangkat lunak ke perangkat keras (ISA).",
+      "tag": [
+        "kuliah informatika materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Basis Data Relasional dan Non-Relasional",
+      "konten": "Normalisasi (1NF-3NF, BCNF), optimasi query (Indexing, Sharding), serta pengenalan sistem NoSQL (Document, Key-Value, Graph Database) dan ACID vs BASE.",
+      "tag": [
+        "kuliah informatika materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Jaringan Komputer dan Keamanan Siber",
+      "konten": "Model OSI 7 Layer vs TCP/IP, protokol routing (BGP, OSPF), keamanan jaringan (Encryption, SSL/TLS, Firewall), serta pengenalan Cloud Computing (AWS/GCP/Azure).",
+      "tag": [
+        "kuliah informatika materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Kecerdasan Buatan dan Big Data",
+      "konten": "Pengantar Machine Learning (Supervised, Unsupervised), Jaringan Syaraf Tiruan (Neural Networks), serta konsep pemrosesan data skala besar (Hadoop, Spark).",
+      "tag": [
+        "kuliah informatika materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-informatika-materi",
+  "mapel": "Teknik Informatika / Ilmu Komputer (Lanjut)",
+  "tag": [
+    "kuliah informatika materi"
+  ]
+}

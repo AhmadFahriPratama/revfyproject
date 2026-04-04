@@ -1,0 +1,53 @@
+{
+  "judul": "Spreadsheet",
+  "tingkatan": "SMK",
+  "jurusan": "Akuntansi dan Keuangan Lembaga",
+  "deskripsi": "Materi mengenai pengolahan data menggunakan Microsoft Excel/Google Sheets, fungsi matematika, statistik, logika, finansial, dan pengolahan tabel database.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar-Dasar Spreadsheet",
+      "konten": "Pengenalan antarmuka (interface) spreadsheet, kolom (column), baris (row), dan sel (cell). Cara memasukkan data, mengatur format sel (number, accounting, date), serta penggunaan shortcut dasar untuk efisiensi kerja.",
+      "tag": [
+        "akl spreadsheet materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Fungsi Matematika dan Statistik",
+      "konten": "Penggunaan rumus dasar seperti SUM (jumlah), AVERAGE (rata-rata), MAX (tertinggi), MIN (terendah), dan COUNT (jumlah data). Penerapan operator aritmatika (+, -, *, /) dalam perhitungan keuangan sederhana.",
+      "tag": [
+        "akl spreadsheet materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Fungsi Logika dan IF",
+      "konten": "Penerapan logika dasar untuk pengambilan keputusan dalam tabel. Fungsi IF Tunggal, IF Bertingkat (Nested IF), serta fungsi pendukung seperti AND, OR, dan NOT untuk validasi data.",
+      "tag": [
+        "akl spreadsheet materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Fungsi Lookup (VLOOKUP & HLOOKUP)",
+      "konten": "Teknik mengambil data dari tabel referensi secara vertikal (VLOOKUP) dan horizontal (HLOOKUP). Penggunaan Absolute Reference ($) agar rumus tidak bergeser saat disalin (copy-paste).",
+      "tag": [
+        "akl spreadsheet materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Fungsi Finansial dan Pengolahan Grafik",
+      "konten": "Fungsi khusus akuntansi seperti PMT (cicilan), SLN (penyusutan garis lurus), dan SYD (jumlah angka tahun). Cara menyajikan data dalam bentuk grafik (chart) yang informatif untuk laporan keuangan.",
+      "tag": [
+        "akl spreadsheet materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "akl-spreadsheet-materi",
+  "mapel": "Spreadsheet",
+  "tag": [
+    "akl spreadsheet materi"
+  ]
+}

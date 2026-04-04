@@ -1,0 +1,708 @@
+{
+  "id": "sd-6-bi",
+  "tingkat": "SD Kelas 6",
+  "mapel": "Bahasa Indonesia",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "bi6-1",
+      "teks": "Kalimat ajakan dalam sebuah pidato persuasif biasanya ditandai dengan kata... (Soal Tryout #1)",
+      "opsi": {
+        "A": "Mari, ayo",
+        "B": "Tolong, maaf",
+        "C": "Berapa, siapa",
+        "D": "Karena, sebab",
+        "E": "Jangan, dilarang"
+      },
+      "kunci": "A",
+      "pembahasan": "'Mari' dan 'ayo' adalah kata khas kalimat persuasif (ajakan).",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-2",
+      "teks": "Bagian awal pada naskah pidato disebut... (Soal Tryout #2)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Pembukaan",
+        "C": "Penutup",
+        "D": "Kesimpulan",
+        "E": "Salam Penutup"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur pidato: Pembukaan, Isi, Penutup. Pembukaan berisi salam dan puji syukur.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-3",
+      "teks": "Teks yang ditulis berdasarkan fakta dari sebuah pengamatan langsung disebut teks... (Soal Tryout #3)",
+      "opsi": {
+        "A": "Cerita fiksi",
+        "B": "Pantun",
+        "C": "Laporan investigasi",
+        "D": "Surat pembaca",
+        "E": "Puisi"
+      },
+      "kunci": "C",
+      "pembahasan": "Laporan observasi/investigasi menyajikan data faktual dari pengamatan.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-4",
+      "teks": "Jika kita akan mengirimkan barang melalui kantor pos, kertas isian yang harus kita isi adalah... (Soal Tryout #4)",
+      "opsi": {
+        "A": "Kwitansi",
+        "B": "Cek",
+        "C": "Bilyet Giro",
+        "D": "Wesel / formulir pengiriman",
+        "E": "Faktur"
+      },
+      "kunci": "D",
+      "pembahasan": "Formulir yang digunakan di pos untuk barang/uang adalah wesel pos atau formulir pengiriman.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-5",
+      "teks": "Pesan moral yang ingin disampaikan pengarang dalam cerita disebut... (Soal Tryout #5)",
+      "opsi": {
+        "A": "Tema",
+        "B": "Alur",
+        "C": "Latar",
+        "D": "Tokoh",
+        "E": "Amanat"
+      },
+      "kunci": "E",
+      "pembahasan": "Amanat adalah pesan moral abadi yang disisipkan oleh penulis cerita.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-6",
+      "teks": "Kalimat ajakan dalam sebuah pidato persuasif biasanya ditandai dengan kata... (Soal Tryout #6)",
+      "opsi": {
+        "A": "Mari, ayo",
+        "B": "Tolong, maaf",
+        "C": "Berapa, siapa",
+        "D": "Karena, sebab",
+        "E": "Jangan, dilarang"
+      },
+      "kunci": "A",
+      "pembahasan": "'Mari' dan 'ayo' adalah kata khas kalimat persuasif (ajakan).",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-7",
+      "teks": "Bagian awal pada naskah pidato disebut... (Soal Tryout #7)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Pembukaan",
+        "C": "Penutup",
+        "D": "Kesimpulan",
+        "E": "Salam Penutup"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur pidato: Pembukaan, Isi, Penutup. Pembukaan berisi salam dan puji syukur.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-8",
+      "teks": "Teks yang ditulis berdasarkan fakta dari sebuah pengamatan langsung disebut teks... (Soal Tryout #8)",
+      "opsi": {
+        "A": "Cerita fiksi",
+        "B": "Pantun",
+        "C": "Laporan investigasi",
+        "D": "Surat pembaca",
+        "E": "Puisi"
+      },
+      "kunci": "C",
+      "pembahasan": "Laporan observasi/investigasi menyajikan data faktual dari pengamatan.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-9",
+      "teks": "Jika kita akan mengirimkan barang melalui kantor pos, kertas isian yang harus kita isi adalah... (Soal Tryout #9)",
+      "opsi": {
+        "A": "Kwitansi",
+        "B": "Cek",
+        "C": "Bilyet Giro",
+        "D": "Wesel / formulir pengiriman",
+        "E": "Faktur"
+      },
+      "kunci": "D",
+      "pembahasan": "Formulir yang digunakan di pos untuk barang/uang adalah wesel pos atau formulir pengiriman.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-10",
+      "teks": "Pesan moral yang ingin disampaikan pengarang dalam cerita disebut... (Soal Tryout #10)",
+      "opsi": {
+        "A": "Tema",
+        "B": "Alur",
+        "C": "Latar",
+        "D": "Tokoh",
+        "E": "Amanat"
+      },
+      "kunci": "E",
+      "pembahasan": "Amanat adalah pesan moral abadi yang disisipkan oleh penulis cerita.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-11",
+      "teks": "Kalimat ajakan dalam sebuah pidato persuasif biasanya ditandai dengan kata... (Soal Tryout #11)",
+      "opsi": {
+        "A": "Mari, ayo",
+        "B": "Tolong, maaf",
+        "C": "Berapa, siapa",
+        "D": "Karena, sebab",
+        "E": "Jangan, dilarang"
+      },
+      "kunci": "A",
+      "pembahasan": "'Mari' dan 'ayo' adalah kata khas kalimat persuasif (ajakan).",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-12",
+      "teks": "Bagian awal pada naskah pidato disebut... (Soal Tryout #12)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Pembukaan",
+        "C": "Penutup",
+        "D": "Kesimpulan",
+        "E": "Salam Penutup"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur pidato: Pembukaan, Isi, Penutup. Pembukaan berisi salam dan puji syukur.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-13",
+      "teks": "Teks yang ditulis berdasarkan fakta dari sebuah pengamatan langsung disebut teks... (Soal Tryout #13)",
+      "opsi": {
+        "A": "Cerita fiksi",
+        "B": "Pantun",
+        "C": "Laporan investigasi",
+        "D": "Surat pembaca",
+        "E": "Puisi"
+      },
+      "kunci": "C",
+      "pembahasan": "Laporan observasi/investigasi menyajikan data faktual dari pengamatan.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-14",
+      "teks": "Jika kita akan mengirimkan barang melalui kantor pos, kertas isian yang harus kita isi adalah... (Soal Tryout #14)",
+      "opsi": {
+        "A": "Kwitansi",
+        "B": "Cek",
+        "C": "Bilyet Giro",
+        "D": "Wesel / formulir pengiriman",
+        "E": "Faktur"
+      },
+      "kunci": "D",
+      "pembahasan": "Formulir yang digunakan di pos untuk barang/uang adalah wesel pos atau formulir pengiriman.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-15",
+      "teks": "Pesan moral yang ingin disampaikan pengarang dalam cerita disebut... (Soal Tryout #15)",
+      "opsi": {
+        "A": "Tema",
+        "B": "Alur",
+        "C": "Latar",
+        "D": "Tokoh",
+        "E": "Amanat"
+      },
+      "kunci": "E",
+      "pembahasan": "Amanat adalah pesan moral abadi yang disisipkan oleh penulis cerita.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-16",
+      "teks": "Kalimat ajakan dalam sebuah pidato persuasif biasanya ditandai dengan kata... (Soal Tryout #16)",
+      "opsi": {
+        "A": "Mari, ayo",
+        "B": "Tolong, maaf",
+        "C": "Berapa, siapa",
+        "D": "Karena, sebab",
+        "E": "Jangan, dilarang"
+      },
+      "kunci": "A",
+      "pembahasan": "'Mari' dan 'ayo' adalah kata khas kalimat persuasif (ajakan).",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-17",
+      "teks": "Bagian awal pada naskah pidato disebut... (Soal Tryout #17)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Pembukaan",
+        "C": "Penutup",
+        "D": "Kesimpulan",
+        "E": "Salam Penutup"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur pidato: Pembukaan, Isi, Penutup. Pembukaan berisi salam dan puji syukur.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-18",
+      "teks": "Teks yang ditulis berdasarkan fakta dari sebuah pengamatan langsung disebut teks... (Soal Tryout #18)",
+      "opsi": {
+        "A": "Cerita fiksi",
+        "B": "Pantun",
+        "C": "Laporan investigasi",
+        "D": "Surat pembaca",
+        "E": "Puisi"
+      },
+      "kunci": "C",
+      "pembahasan": "Laporan observasi/investigasi menyajikan data faktual dari pengamatan.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-19",
+      "teks": "Jika kita akan mengirimkan barang melalui kantor pos, kertas isian yang harus kita isi adalah... (Soal Tryout #19)",
+      "opsi": {
+        "A": "Kwitansi",
+        "B": "Cek",
+        "C": "Bilyet Giro",
+        "D": "Wesel / formulir pengiriman",
+        "E": "Faktur"
+      },
+      "kunci": "D",
+      "pembahasan": "Formulir yang digunakan di pos untuk barang/uang adalah wesel pos atau formulir pengiriman.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-20",
+      "teks": "Pesan moral yang ingin disampaikan pengarang dalam cerita disebut... (Soal Tryout #20)",
+      "opsi": {
+        "A": "Tema",
+        "B": "Alur",
+        "C": "Latar",
+        "D": "Tokoh",
+        "E": "Amanat"
+      },
+      "kunci": "E",
+      "pembahasan": "Amanat adalah pesan moral abadi yang disisipkan oleh penulis cerita.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-21",
+      "teks": "Kalimat ajakan dalam sebuah pidato persuasif biasanya ditandai dengan kata... (Soal Tryout #21)",
+      "opsi": {
+        "A": "Mari, ayo",
+        "B": "Tolong, maaf",
+        "C": "Berapa, siapa",
+        "D": "Karena, sebab",
+        "E": "Jangan, dilarang"
+      },
+      "kunci": "A",
+      "pembahasan": "'Mari' dan 'ayo' adalah kata khas kalimat persuasif (ajakan).",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-22",
+      "teks": "Bagian awal pada naskah pidato disebut... (Soal Tryout #22)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Pembukaan",
+        "C": "Penutup",
+        "D": "Kesimpulan",
+        "E": "Salam Penutup"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur pidato: Pembukaan, Isi, Penutup. Pembukaan berisi salam dan puji syukur.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-23",
+      "teks": "Teks yang ditulis berdasarkan fakta dari sebuah pengamatan langsung disebut teks... (Soal Tryout #23)",
+      "opsi": {
+        "A": "Cerita fiksi",
+        "B": "Pantun",
+        "C": "Laporan investigasi",
+        "D": "Surat pembaca",
+        "E": "Puisi"
+      },
+      "kunci": "C",
+      "pembahasan": "Laporan observasi/investigasi menyajikan data faktual dari pengamatan.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-24",
+      "teks": "Jika kita akan mengirimkan barang melalui kantor pos, kertas isian yang harus kita isi adalah... (Soal Tryout #24)",
+      "opsi": {
+        "A": "Kwitansi",
+        "B": "Cek",
+        "C": "Bilyet Giro",
+        "D": "Wesel / formulir pengiriman",
+        "E": "Faktur"
+      },
+      "kunci": "D",
+      "pembahasan": "Formulir yang digunakan di pos untuk barang/uang adalah wesel pos atau formulir pengiriman.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-25",
+      "teks": "Pesan moral yang ingin disampaikan pengarang dalam cerita disebut... (Soal Tryout #25)",
+      "opsi": {
+        "A": "Tema",
+        "B": "Alur",
+        "C": "Latar",
+        "D": "Tokoh",
+        "E": "Amanat"
+      },
+      "kunci": "E",
+      "pembahasan": "Amanat adalah pesan moral abadi yang disisipkan oleh penulis cerita.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-26",
+      "teks": "Kalimat ajakan dalam sebuah pidato persuasif biasanya ditandai dengan kata... (Soal Tryout #26)",
+      "opsi": {
+        "A": "Mari, ayo",
+        "B": "Tolong, maaf",
+        "C": "Berapa, siapa",
+        "D": "Karena, sebab",
+        "E": "Jangan, dilarang"
+      },
+      "kunci": "A",
+      "pembahasan": "'Mari' dan 'ayo' adalah kata khas kalimat persuasif (ajakan).",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-27",
+      "teks": "Bagian awal pada naskah pidato disebut... (Soal Tryout #27)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Pembukaan",
+        "C": "Penutup",
+        "D": "Kesimpulan",
+        "E": "Salam Penutup"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur pidato: Pembukaan, Isi, Penutup. Pembukaan berisi salam dan puji syukur.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-28",
+      "teks": "Teks yang ditulis berdasarkan fakta dari sebuah pengamatan langsung disebut teks... (Soal Tryout #28)",
+      "opsi": {
+        "A": "Cerita fiksi",
+        "B": "Pantun",
+        "C": "Laporan investigasi",
+        "D": "Surat pembaca",
+        "E": "Puisi"
+      },
+      "kunci": "C",
+      "pembahasan": "Laporan observasi/investigasi menyajikan data faktual dari pengamatan.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-29",
+      "teks": "Jika kita akan mengirimkan barang melalui kantor pos, kertas isian yang harus kita isi adalah... (Soal Tryout #29)",
+      "opsi": {
+        "A": "Kwitansi",
+        "B": "Cek",
+        "C": "Bilyet Giro",
+        "D": "Wesel / formulir pengiriman",
+        "E": "Faktur"
+      },
+      "kunci": "D",
+      "pembahasan": "Formulir yang digunakan di pos untuk barang/uang adalah wesel pos atau formulir pengiriman.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-30",
+      "teks": "Pesan moral yang ingin disampaikan pengarang dalam cerita disebut... (Soal Tryout #30)",
+      "opsi": {
+        "A": "Tema",
+        "B": "Alur",
+        "C": "Latar",
+        "D": "Tokoh",
+        "E": "Amanat"
+      },
+      "kunci": "E",
+      "pembahasan": "Amanat adalah pesan moral abadi yang disisipkan oleh penulis cerita.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-31",
+      "teks": "Kalimat ajakan dalam sebuah pidato persuasif biasanya ditandai dengan kata... (Soal Tryout #31)",
+      "opsi": {
+        "A": "Mari, ayo",
+        "B": "Tolong, maaf",
+        "C": "Berapa, siapa",
+        "D": "Karena, sebab",
+        "E": "Jangan, dilarang"
+      },
+      "kunci": "A",
+      "pembahasan": "'Mari' dan 'ayo' adalah kata khas kalimat persuasif (ajakan).",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-32",
+      "teks": "Bagian awal pada naskah pidato disebut... (Soal Tryout #32)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Pembukaan",
+        "C": "Penutup",
+        "D": "Kesimpulan",
+        "E": "Salam Penutup"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur pidato: Pembukaan, Isi, Penutup. Pembukaan berisi salam dan puji syukur.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-33",
+      "teks": "Teks yang ditulis berdasarkan fakta dari sebuah pengamatan langsung disebut teks... (Soal Tryout #33)",
+      "opsi": {
+        "A": "Cerita fiksi",
+        "B": "Pantun",
+        "C": "Laporan investigasi",
+        "D": "Surat pembaca",
+        "E": "Puisi"
+      },
+      "kunci": "C",
+      "pembahasan": "Laporan observasi/investigasi menyajikan data faktual dari pengamatan.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-34",
+      "teks": "Jika kita akan mengirimkan barang melalui kantor pos, kertas isian yang harus kita isi adalah... (Soal Tryout #34)",
+      "opsi": {
+        "A": "Kwitansi",
+        "B": "Cek",
+        "C": "Bilyet Giro",
+        "D": "Wesel / formulir pengiriman",
+        "E": "Faktur"
+      },
+      "kunci": "D",
+      "pembahasan": "Formulir yang digunakan di pos untuk barang/uang adalah wesel pos atau formulir pengiriman.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-35",
+      "teks": "Pesan moral yang ingin disampaikan pengarang dalam cerita disebut... (Soal Tryout #35)",
+      "opsi": {
+        "A": "Tema",
+        "B": "Alur",
+        "C": "Latar",
+        "D": "Tokoh",
+        "E": "Amanat"
+      },
+      "kunci": "E",
+      "pembahasan": "Amanat adalah pesan moral abadi yang disisipkan oleh penulis cerita.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-36",
+      "teks": "Kalimat ajakan dalam sebuah pidato persuasif biasanya ditandai dengan kata... (Soal Tryout #36)",
+      "opsi": {
+        "A": "Mari, ayo",
+        "B": "Tolong, maaf",
+        "C": "Berapa, siapa",
+        "D": "Karena, sebab",
+        "E": "Jangan, dilarang"
+      },
+      "kunci": "A",
+      "pembahasan": "'Mari' dan 'ayo' adalah kata khas kalimat persuasif (ajakan).",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-37",
+      "teks": "Bagian awal pada naskah pidato disebut... (Soal Tryout #37)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Pembukaan",
+        "C": "Penutup",
+        "D": "Kesimpulan",
+        "E": "Salam Penutup"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur pidato: Pembukaan, Isi, Penutup. Pembukaan berisi salam dan puji syukur.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-38",
+      "teks": "Teks yang ditulis berdasarkan fakta dari sebuah pengamatan langsung disebut teks... (Soal Tryout #38)",
+      "opsi": {
+        "A": "Cerita fiksi",
+        "B": "Pantun",
+        "C": "Laporan investigasi",
+        "D": "Surat pembaca",
+        "E": "Puisi"
+      },
+      "kunci": "C",
+      "pembahasan": "Laporan observasi/investigasi menyajikan data faktual dari pengamatan.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-39",
+      "teks": "Jika kita akan mengirimkan barang melalui kantor pos, kertas isian yang harus kita isi adalah... (Soal Tryout #39)",
+      "opsi": {
+        "A": "Kwitansi",
+        "B": "Cek",
+        "C": "Bilyet Giro",
+        "D": "Wesel / formulir pengiriman",
+        "E": "Faktur"
+      },
+      "kunci": "D",
+      "pembahasan": "Formulir yang digunakan di pos untuk barang/uang adalah wesel pos atau formulir pengiriman.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-40",
+      "teks": "Pesan moral yang ingin disampaikan pengarang dalam cerita disebut... (Soal Tryout #40)",
+      "opsi": {
+        "A": "Tema",
+        "B": "Alur",
+        "C": "Latar",
+        "D": "Tokoh",
+        "E": "Amanat"
+      },
+      "kunci": "E",
+      "pembahasan": "Amanat adalah pesan moral abadi yang disisipkan oleh penulis cerita.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-41",
+      "teks": "Kalimat ajakan dalam sebuah pidato persuasif biasanya ditandai dengan kata... (Soal Tryout #41)",
+      "opsi": {
+        "A": "Mari, ayo",
+        "B": "Tolong, maaf",
+        "C": "Berapa, siapa",
+        "D": "Karena, sebab",
+        "E": "Jangan, dilarang"
+      },
+      "kunci": "A",
+      "pembahasan": "'Mari' dan 'ayo' adalah kata khas kalimat persuasif (ajakan).",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-42",
+      "teks": "Bagian awal pada naskah pidato disebut... (Soal Tryout #42)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Pembukaan",
+        "C": "Penutup",
+        "D": "Kesimpulan",
+        "E": "Salam Penutup"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur pidato: Pembukaan, Isi, Penutup. Pembukaan berisi salam dan puji syukur.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-43",
+      "teks": "Teks yang ditulis berdasarkan fakta dari sebuah pengamatan langsung disebut teks... (Soal Tryout #43)",
+      "opsi": {
+        "A": "Cerita fiksi",
+        "B": "Pantun",
+        "C": "Laporan investigasi",
+        "D": "Surat pembaca",
+        "E": "Puisi"
+      },
+      "kunci": "C",
+      "pembahasan": "Laporan observasi/investigasi menyajikan data faktual dari pengamatan.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-44",
+      "teks": "Jika kita akan mengirimkan barang melalui kantor pos, kertas isian yang harus kita isi adalah... (Soal Tryout #44)",
+      "opsi": {
+        "A": "Kwitansi",
+        "B": "Cek",
+        "C": "Bilyet Giro",
+        "D": "Wesel / formulir pengiriman",
+        "E": "Faktur"
+      },
+      "kunci": "D",
+      "pembahasan": "Formulir yang digunakan di pos untuk barang/uang adalah wesel pos atau formulir pengiriman.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-45",
+      "teks": "Pesan moral yang ingin disampaikan pengarang dalam cerita disebut... (Soal Tryout #45)",
+      "opsi": {
+        "A": "Tema",
+        "B": "Alur",
+        "C": "Latar",
+        "D": "Tokoh",
+        "E": "Amanat"
+      },
+      "kunci": "E",
+      "pembahasan": "Amanat adalah pesan moral abadi yang disisipkan oleh penulis cerita.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-46",
+      "teks": "Kalimat ajakan dalam sebuah pidato persuasif biasanya ditandai dengan kata... (Soal Tryout #46)",
+      "opsi": {
+        "A": "Mari, ayo",
+        "B": "Tolong, maaf",
+        "C": "Berapa, siapa",
+        "D": "Karena, sebab",
+        "E": "Jangan, dilarang"
+      },
+      "kunci": "A",
+      "pembahasan": "'Mari' dan 'ayo' adalah kata khas kalimat persuasif (ajakan).",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-47",
+      "teks": "Bagian awal pada naskah pidato disebut... (Soal Tryout #47)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Pembukaan",
+        "C": "Penutup",
+        "D": "Kesimpulan",
+        "E": "Salam Penutup"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur pidato: Pembukaan, Isi, Penutup. Pembukaan berisi salam dan puji syukur.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-48",
+      "teks": "Teks yang ditulis berdasarkan fakta dari sebuah pengamatan langsung disebut teks... (Soal Tryout #48)",
+      "opsi": {
+        "A": "Cerita fiksi",
+        "B": "Pantun",
+        "C": "Laporan investigasi",
+        "D": "Surat pembaca",
+        "E": "Puisi"
+      },
+      "kunci": "C",
+      "pembahasan": "Laporan observasi/investigasi menyajikan data faktual dari pengamatan.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-49",
+      "teks": "Jika kita akan mengirimkan barang melalui kantor pos, kertas isian yang harus kita isi adalah... (Soal Tryout #49)",
+      "opsi": {
+        "A": "Kwitansi",
+        "B": "Cek",
+        "C": "Bilyet Giro",
+        "D": "Wesel / formulir pengiriman",
+        "E": "Faktur"
+      },
+      "kunci": "D",
+      "pembahasan": "Formulir yang digunakan di pos untuk barang/uang adalah wesel pos atau formulir pengiriman.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    },
+    {
+      "id": "bi6-50",
+      "teks": "Pesan moral yang ingin disampaikan pengarang dalam cerita disebut... (Soal Tryout #50)",
+      "opsi": {
+        "A": "Tema",
+        "B": "Alur",
+        "C": "Latar",
+        "D": "Tokoh",
+        "E": "Amanat"
+      },
+      "kunci": "E",
+      "pembahasan": "Amanat adalah pesan moral abadi yang disisipkan oleh penulis cerita.",
+      "trik": "Hafalkan unsur intrinsik cerita (tema, tokoh, latar, alur, amanat)."
+    }
+  ]
+}

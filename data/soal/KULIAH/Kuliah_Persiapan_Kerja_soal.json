@@ -1,0 +1,652 @@
+[
+  {
+    "id": "PR_JK_01",
+    "pertanyaan": "Apa kepanjangan ATS dalam proses rekrutmen modern pada tahap screening awal?",
+    "opsi": [
+      "Applicant Tracking System",
+      "Automatic Talent Search",
+      "Advanced Typing Standard",
+      "Application Test Service",
+      "Analytical Tracking Sheet"
+    ],
+    "jawaban": 0,
+    "pembahasan": "ATS membantu perekrut memfilter lamaran berdasarkan kata kunci dan kriteria tertentu. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_02",
+    "pertanyaan": "Bagian CV yang paling tepat untuk menuliskan pencapaian terukur adalah pada tahap screening awal?",
+    "opsi": [
+      "hobi yang tidak relevan",
+      "pengalaman kerja atau organisasi dengan data hasil",
+      "warna favorit pelamar",
+      "tinggi badan pelamar",
+      "riwayat liburan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pencapaian terukur paling kuat jika diletakkan pada pengalaman yang relevan dan didukung data. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_03",
+    "pertanyaan": "Tujuan utama portofolio saat melamar kerja kreatif adalah pada tahap screening awal?",
+    "opsi": [
+      "menambah panjang CV tanpa isi",
+      "menuliskan semua hobi pelamar",
+      "menunjukkan bukti hasil kerja dan kualitas proses",
+      "menyembunyikan pengalaman kerja",
+      "menggantikan semua dokumen identitas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Portofolio memberi bukti konkret atas kemampuan dan hasil kerja kandidat. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_04",
+    "pertanyaan": "Cara menjawab pertanyaan kelemahan diri yang paling profesional adalah pada tahap screening awal?",
+    "opsi": [
+      "menolak menjawab",
+      "menceritakan masalah pribadi panjang lebar",
+      "mengaku tidak punya kelemahan",
+      "menyebut kelemahan nyata disertai langkah perbaikan",
+      "menyalahkan mantan atasan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jawaban yang baik menunjukkan self-awareness sekaligus kemauan berkembang. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_05",
+    "pertanyaan": "Fungsi utama LinkedIn dalam pengembangan karier adalah pada tahap screening awal?",
+    "opsi": [
+      "menghapus riwayat kerja",
+      "menyimpan game online",
+      "mengganti ijazah",
+      "mencatat belanja harian",
+      "membangun profil profesional dan jaringan kerja"
+    ],
+    "jawaban": 4,
+    "pembahasan": "LinkedIn dipakai untuk menampilkan identitas profesional, pengalaman, dan membangun jejaring. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_06",
+    "pertanyaan": "Metode STAR pada wawancara perilaku digunakan untuk pada tahap screening awal?",
+    "opsi": [
+      "menyusun jawaban berdasarkan situasi, tugas, aksi, dan hasil",
+      "menghafal semua pertanyaan HRD",
+      "menghindari contoh konkret",
+      "mengganti resume saat wawancara",
+      "menjawab dengan satu kata"
+    ],
+    "jawaban": 0,
+    "pembahasan": "STAR membantu jawaban menjadi runtut dan berbasis pengalaman nyata. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_07",
+    "pertanyaan": "Saat menerima email undangan interview, langkah paling tepat adalah pada tahap screening awal?",
+    "opsi": [
+      "mengabaikan email itu",
+      "membalas dengan konfirmasi sopan dan jelas",
+      "membalas satu kata tanpa salam",
+      "menunda balasan berhari-hari tanpa alasan",
+      "mengirim file acak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Konfirmasi yang cepat dan sopan menunjukkan profesionalisme sejak awal proses. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_08",
+    "pertanyaan": "Tujuan riset perusahaan sebelum wawancara adalah pada tahap screening awal?",
+    "opsi": [
+      "menebak gaji orang lain",
+      "menghindari semua pertanyaan",
+      "memahami posisi yang dilamar dan menyiapkan jawaban relevan",
+      "mencari gosip internal",
+      "menghafal nama semua pegawai"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Riset perusahaan membantu kandidat menjawab lebih tepat dan menunjukkan minat yang serius. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_09",
+    "pertanyaan": "Kalimat achievement yang paling kuat di CV adalah pada tahap screening awal?",
+    "opsi": [
+      "saya lumayan bisa komputer",
+      "saya sering membantu teman",
+      "saya orangnya rajin dan baik",
+      "berhasil meningkatkan penjualan 18% dalam 4 bulan melalui kampanye digital",
+      "saya suka bekerja jika sempat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Achievement kuat harus spesifik, terukur, dan menunjukkan dampak. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_10",
+    "pertanyaan": "Follow up setelah interview paling baik dilakukan dengan pada tahap screening awal?",
+    "opsi": [
+      "memprotes proses seleksi di chat",
+      "menelpon berulang setiap jam",
+      "meminta jawaban saat itu juga",
+      "mengirim meme ke perekrut",
+      "ucapan terima kasih singkat dan profesional"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ucapan terima kasih yang singkat memperkuat kesan profesional tanpa menekan perekrut. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_11",
+    "pertanyaan": "Apa kepanjangan ATS dalam proses rekrutmen modern saat interview HR?",
+    "opsi": [
+      "Applicant Tracking System",
+      "Automatic Talent Search",
+      "Advanced Typing Standard",
+      "Application Test Service",
+      "Analytical Tracking Sheet"
+    ],
+    "jawaban": 0,
+    "pembahasan": "ATS membantu perekrut memfilter lamaran berdasarkan kata kunci dan kriteria tertentu. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_12",
+    "pertanyaan": "Bagian CV yang paling tepat untuk menuliskan pencapaian terukur adalah saat interview HR?",
+    "opsi": [
+      "hobi yang tidak relevan",
+      "pengalaman kerja atau organisasi dengan data hasil",
+      "warna favorit pelamar",
+      "tinggi badan pelamar",
+      "riwayat liburan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pencapaian terukur paling kuat jika diletakkan pada pengalaman yang relevan dan didukung data. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_13",
+    "pertanyaan": "Tujuan utama portofolio saat melamar kerja kreatif adalah saat interview HR?",
+    "opsi": [
+      "menambah panjang CV tanpa isi",
+      "menuliskan semua hobi pelamar",
+      "menunjukkan bukti hasil kerja dan kualitas proses",
+      "menyembunyikan pengalaman kerja",
+      "menggantikan semua dokumen identitas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Portofolio memberi bukti konkret atas kemampuan dan hasil kerja kandidat. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_14",
+    "pertanyaan": "Cara menjawab pertanyaan kelemahan diri yang paling profesional adalah saat interview HR?",
+    "opsi": [
+      "menolak menjawab",
+      "menceritakan masalah pribadi panjang lebar",
+      "mengaku tidak punya kelemahan",
+      "menyebut kelemahan nyata disertai langkah perbaikan",
+      "menyalahkan mantan atasan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jawaban yang baik menunjukkan self-awareness sekaligus kemauan berkembang. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_15",
+    "pertanyaan": "Fungsi utama LinkedIn dalam pengembangan karier adalah saat interview HR?",
+    "opsi": [
+      "menghapus riwayat kerja",
+      "menyimpan game online",
+      "mengganti ijazah",
+      "mencatat belanja harian",
+      "membangun profil profesional dan jaringan kerja"
+    ],
+    "jawaban": 4,
+    "pembahasan": "LinkedIn dipakai untuk menampilkan identitas profesional, pengalaman, dan membangun jejaring. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_16",
+    "pertanyaan": "Metode STAR pada wawancara perilaku digunakan untuk saat interview HR?",
+    "opsi": [
+      "menyusun jawaban berdasarkan situasi, tugas, aksi, dan hasil",
+      "menghafal semua pertanyaan HRD",
+      "menghindari contoh konkret",
+      "mengganti resume saat wawancara",
+      "menjawab dengan satu kata"
+    ],
+    "jawaban": 0,
+    "pembahasan": "STAR membantu jawaban menjadi runtut dan berbasis pengalaman nyata. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_17",
+    "pertanyaan": "Saat menerima email undangan interview, langkah paling tepat adalah saat interview HR?",
+    "opsi": [
+      "mengabaikan email itu",
+      "membalas dengan konfirmasi sopan dan jelas",
+      "membalas satu kata tanpa salam",
+      "menunda balasan berhari-hari tanpa alasan",
+      "mengirim file acak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Konfirmasi yang cepat dan sopan menunjukkan profesionalisme sejak awal proses. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_18",
+    "pertanyaan": "Tujuan riset perusahaan sebelum wawancara adalah saat interview HR?",
+    "opsi": [
+      "menebak gaji orang lain",
+      "menghindari semua pertanyaan",
+      "memahami posisi yang dilamar dan menyiapkan jawaban relevan",
+      "mencari gosip internal",
+      "menghafal nama semua pegawai"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Riset perusahaan membantu kandidat menjawab lebih tepat dan menunjukkan minat yang serius. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_19",
+    "pertanyaan": "Kalimat achievement yang paling kuat di CV adalah saat interview HR?",
+    "opsi": [
+      "saya lumayan bisa komputer",
+      "saya sering membantu teman",
+      "saya orangnya rajin dan baik",
+      "berhasil meningkatkan penjualan 18% dalam 4 bulan melalui kampanye digital",
+      "saya suka bekerja jika sempat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Achievement kuat harus spesifik, terukur, dan menunjukkan dampak. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_20",
+    "pertanyaan": "Follow up setelah interview paling baik dilakukan dengan saat interview HR?",
+    "opsi": [
+      "memprotes proses seleksi di chat",
+      "menelpon berulang setiap jam",
+      "meminta jawaban saat itu juga",
+      "mengirim meme ke perekrut",
+      "ucapan terima kasih singkat dan profesional"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ucapan terima kasih yang singkat memperkuat kesan profesional tanpa menekan perekrut. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_21",
+    "pertanyaan": "Apa kepanjangan ATS dalam proses rekrutmen modern dalam proses recruitment trainee?",
+    "opsi": [
+      "Applicant Tracking System",
+      "Automatic Talent Search",
+      "Advanced Typing Standard",
+      "Application Test Service",
+      "Analytical Tracking Sheet"
+    ],
+    "jawaban": 0,
+    "pembahasan": "ATS membantu perekrut memfilter lamaran berdasarkan kata kunci dan kriteria tertentu. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_22",
+    "pertanyaan": "Bagian CV yang paling tepat untuk menuliskan pencapaian terukur adalah dalam proses recruitment trainee?",
+    "opsi": [
+      "hobi yang tidak relevan",
+      "pengalaman kerja atau organisasi dengan data hasil",
+      "warna favorit pelamar",
+      "tinggi badan pelamar",
+      "riwayat liburan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pencapaian terukur paling kuat jika diletakkan pada pengalaman yang relevan dan didukung data. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_23",
+    "pertanyaan": "Tujuan utama portofolio saat melamar kerja kreatif adalah dalam proses recruitment trainee?",
+    "opsi": [
+      "menambah panjang CV tanpa isi",
+      "menuliskan semua hobi pelamar",
+      "menunjukkan bukti hasil kerja dan kualitas proses",
+      "menyembunyikan pengalaman kerja",
+      "menggantikan semua dokumen identitas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Portofolio memberi bukti konkret atas kemampuan dan hasil kerja kandidat. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_24",
+    "pertanyaan": "Cara menjawab pertanyaan kelemahan diri yang paling profesional adalah dalam proses recruitment trainee?",
+    "opsi": [
+      "menolak menjawab",
+      "menceritakan masalah pribadi panjang lebar",
+      "mengaku tidak punya kelemahan",
+      "menyebut kelemahan nyata disertai langkah perbaikan",
+      "menyalahkan mantan atasan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jawaban yang baik menunjukkan self-awareness sekaligus kemauan berkembang. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_25",
+    "pertanyaan": "Fungsi utama LinkedIn dalam pengembangan karier adalah dalam proses recruitment trainee?",
+    "opsi": [
+      "menghapus riwayat kerja",
+      "menyimpan game online",
+      "mengganti ijazah",
+      "mencatat belanja harian",
+      "membangun profil profesional dan jaringan kerja"
+    ],
+    "jawaban": 4,
+    "pembahasan": "LinkedIn dipakai untuk menampilkan identitas profesional, pengalaman, dan membangun jejaring. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_26",
+    "pertanyaan": "Metode STAR pada wawancara perilaku digunakan untuk dalam proses recruitment trainee?",
+    "opsi": [
+      "menyusun jawaban berdasarkan situasi, tugas, aksi, dan hasil",
+      "menghafal semua pertanyaan HRD",
+      "menghindari contoh konkret",
+      "mengganti resume saat wawancara",
+      "menjawab dengan satu kata"
+    ],
+    "jawaban": 0,
+    "pembahasan": "STAR membantu jawaban menjadi runtut dan berbasis pengalaman nyata. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_27",
+    "pertanyaan": "Saat menerima email undangan interview, langkah paling tepat adalah dalam proses recruitment trainee?",
+    "opsi": [
+      "mengabaikan email itu",
+      "membalas dengan konfirmasi sopan dan jelas",
+      "membalas satu kata tanpa salam",
+      "menunda balasan berhari-hari tanpa alasan",
+      "mengirim file acak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Konfirmasi yang cepat dan sopan menunjukkan profesionalisme sejak awal proses. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_28",
+    "pertanyaan": "Tujuan riset perusahaan sebelum wawancara adalah dalam proses recruitment trainee?",
+    "opsi": [
+      "menebak gaji orang lain",
+      "menghindari semua pertanyaan",
+      "memahami posisi yang dilamar dan menyiapkan jawaban relevan",
+      "mencari gosip internal",
+      "menghafal nama semua pegawai"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Riset perusahaan membantu kandidat menjawab lebih tepat dan menunjukkan minat yang serius. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_29",
+    "pertanyaan": "Kalimat achievement yang paling kuat di CV adalah dalam proses recruitment trainee?",
+    "opsi": [
+      "saya lumayan bisa komputer",
+      "saya sering membantu teman",
+      "saya orangnya rajin dan baik",
+      "berhasil meningkatkan penjualan 18% dalam 4 bulan melalui kampanye digital",
+      "saya suka bekerja jika sempat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Achievement kuat harus spesifik, terukur, dan menunjukkan dampak. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_30",
+    "pertanyaan": "Follow up setelah interview paling baik dilakukan dengan dalam proses recruitment trainee?",
+    "opsi": [
+      "memprotes proses seleksi di chat",
+      "menelpon berulang setiap jam",
+      "meminta jawaban saat itu juga",
+      "mengirim meme ke perekrut",
+      "ucapan terima kasih singkat dan profesional"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ucapan terima kasih yang singkat memperkuat kesan profesional tanpa menekan perekrut. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_31",
+    "pertanyaan": "Apa kepanjangan ATS dalam proses rekrutmen modern untuk posisi entry level?",
+    "opsi": [
+      "Applicant Tracking System",
+      "Automatic Talent Search",
+      "Advanced Typing Standard",
+      "Application Test Service",
+      "Analytical Tracking Sheet"
+    ],
+    "jawaban": 0,
+    "pembahasan": "ATS membantu perekrut memfilter lamaran berdasarkan kata kunci dan kriteria tertentu. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_32",
+    "pertanyaan": "Bagian CV yang paling tepat untuk menuliskan pencapaian terukur adalah untuk posisi entry level?",
+    "opsi": [
+      "hobi yang tidak relevan",
+      "pengalaman kerja atau organisasi dengan data hasil",
+      "warna favorit pelamar",
+      "tinggi badan pelamar",
+      "riwayat liburan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pencapaian terukur paling kuat jika diletakkan pada pengalaman yang relevan dan didukung data. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_33",
+    "pertanyaan": "Tujuan utama portofolio saat melamar kerja kreatif adalah untuk posisi entry level?",
+    "opsi": [
+      "menambah panjang CV tanpa isi",
+      "menuliskan semua hobi pelamar",
+      "menunjukkan bukti hasil kerja dan kualitas proses",
+      "menyembunyikan pengalaman kerja",
+      "menggantikan semua dokumen identitas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Portofolio memberi bukti konkret atas kemampuan dan hasil kerja kandidat. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_34",
+    "pertanyaan": "Cara menjawab pertanyaan kelemahan diri yang paling profesional adalah untuk posisi entry level?",
+    "opsi": [
+      "menolak menjawab",
+      "menceritakan masalah pribadi panjang lebar",
+      "mengaku tidak punya kelemahan",
+      "menyebut kelemahan nyata disertai langkah perbaikan",
+      "menyalahkan mantan atasan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jawaban yang baik menunjukkan self-awareness sekaligus kemauan berkembang. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_35",
+    "pertanyaan": "Fungsi utama LinkedIn dalam pengembangan karier adalah untuk posisi entry level?",
+    "opsi": [
+      "menghapus riwayat kerja",
+      "menyimpan game online",
+      "mengganti ijazah",
+      "mencatat belanja harian",
+      "membangun profil profesional dan jaringan kerja"
+    ],
+    "jawaban": 4,
+    "pembahasan": "LinkedIn dipakai untuk menampilkan identitas profesional, pengalaman, dan membangun jejaring. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_36",
+    "pertanyaan": "Metode STAR pada wawancara perilaku digunakan untuk untuk posisi entry level?",
+    "opsi": [
+      "menyusun jawaban berdasarkan situasi, tugas, aksi, dan hasil",
+      "menghafal semua pertanyaan HRD",
+      "menghindari contoh konkret",
+      "mengganti resume saat wawancara",
+      "menjawab dengan satu kata"
+    ],
+    "jawaban": 0,
+    "pembahasan": "STAR membantu jawaban menjadi runtut dan berbasis pengalaman nyata. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_37",
+    "pertanyaan": "Saat menerima email undangan interview, langkah paling tepat adalah untuk posisi entry level?",
+    "opsi": [
+      "mengabaikan email itu",
+      "membalas dengan konfirmasi sopan dan jelas",
+      "membalas satu kata tanpa salam",
+      "menunda balasan berhari-hari tanpa alasan",
+      "mengirim file acak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Konfirmasi yang cepat dan sopan menunjukkan profesionalisme sejak awal proses. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_38",
+    "pertanyaan": "Tujuan riset perusahaan sebelum wawancara adalah untuk posisi entry level?",
+    "opsi": [
+      "menebak gaji orang lain",
+      "menghindari semua pertanyaan",
+      "memahami posisi yang dilamar dan menyiapkan jawaban relevan",
+      "mencari gosip internal",
+      "menghafal nama semua pegawai"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Riset perusahaan membantu kandidat menjawab lebih tepat dan menunjukkan minat yang serius. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_39",
+    "pertanyaan": "Kalimat achievement yang paling kuat di CV adalah untuk posisi entry level?",
+    "opsi": [
+      "saya lumayan bisa komputer",
+      "saya sering membantu teman",
+      "saya orangnya rajin dan baik",
+      "berhasil meningkatkan penjualan 18% dalam 4 bulan melalui kampanye digital",
+      "saya suka bekerja jika sempat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Achievement kuat harus spesifik, terukur, dan menunjukkan dampak. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_40",
+    "pertanyaan": "Follow up setelah interview paling baik dilakukan dengan untuk posisi entry level?",
+    "opsi": [
+      "memprotes proses seleksi di chat",
+      "menelpon berulang setiap jam",
+      "meminta jawaban saat itu juga",
+      "mengirim meme ke perekrut",
+      "ucapan terima kasih singkat dan profesional"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ucapan terima kasih yang singkat memperkuat kesan profesional tanpa menekan perekrut. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_41",
+    "pertanyaan": "Apa kepanjangan ATS dalam proses rekrutmen modern pada seleksi perusahaan nasional?",
+    "opsi": [
+      "Applicant Tracking System",
+      "Automatic Talent Search",
+      "Advanced Typing Standard",
+      "Application Test Service",
+      "Analytical Tracking Sheet"
+    ],
+    "jawaban": 0,
+    "pembahasan": "ATS membantu perekrut memfilter lamaran berdasarkan kata kunci dan kriteria tertentu. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_42",
+    "pertanyaan": "Bagian CV yang paling tepat untuk menuliskan pencapaian terukur adalah pada seleksi perusahaan nasional?",
+    "opsi": [
+      "hobi yang tidak relevan",
+      "pengalaman kerja atau organisasi dengan data hasil",
+      "warna favorit pelamar",
+      "tinggi badan pelamar",
+      "riwayat liburan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pencapaian terukur paling kuat jika diletakkan pada pengalaman yang relevan dan didukung data. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_43",
+    "pertanyaan": "Tujuan utama portofolio saat melamar kerja kreatif adalah pada seleksi perusahaan nasional?",
+    "opsi": [
+      "menambah panjang CV tanpa isi",
+      "menuliskan semua hobi pelamar",
+      "menunjukkan bukti hasil kerja dan kualitas proses",
+      "menyembunyikan pengalaman kerja",
+      "menggantikan semua dokumen identitas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Portofolio memberi bukti konkret atas kemampuan dan hasil kerja kandidat. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_44",
+    "pertanyaan": "Cara menjawab pertanyaan kelemahan diri yang paling profesional adalah pada seleksi perusahaan nasional?",
+    "opsi": [
+      "menolak menjawab",
+      "menceritakan masalah pribadi panjang lebar",
+      "mengaku tidak punya kelemahan",
+      "menyebut kelemahan nyata disertai langkah perbaikan",
+      "menyalahkan mantan atasan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jawaban yang baik menunjukkan self-awareness sekaligus kemauan berkembang. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_45",
+    "pertanyaan": "Fungsi utama LinkedIn dalam pengembangan karier adalah pada seleksi perusahaan nasional?",
+    "opsi": [
+      "menghapus riwayat kerja",
+      "menyimpan game online",
+      "mengganti ijazah",
+      "mencatat belanja harian",
+      "membangun profil profesional dan jaringan kerja"
+    ],
+    "jawaban": 4,
+    "pembahasan": "LinkedIn dipakai untuk menampilkan identitas profesional, pengalaman, dan membangun jejaring. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_46",
+    "pertanyaan": "Metode STAR pada wawancara perilaku digunakan untuk pada seleksi perusahaan nasional?",
+    "opsi": [
+      "menyusun jawaban berdasarkan situasi, tugas, aksi, dan hasil",
+      "menghafal semua pertanyaan HRD",
+      "menghindari contoh konkret",
+      "mengganti resume saat wawancara",
+      "menjawab dengan satu kata"
+    ],
+    "jawaban": 0,
+    "pembahasan": "STAR membantu jawaban menjadi runtut dan berbasis pengalaman nyata. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_47",
+    "pertanyaan": "Saat menerima email undangan interview, langkah paling tepat adalah pada seleksi perusahaan nasional?",
+    "opsi": [
+      "mengabaikan email itu",
+      "membalas dengan konfirmasi sopan dan jelas",
+      "membalas satu kata tanpa salam",
+      "menunda balasan berhari-hari tanpa alasan",
+      "mengirim file acak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Konfirmasi yang cepat dan sopan menunjukkan profesionalisme sejak awal proses. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_48",
+    "pertanyaan": "Tujuan riset perusahaan sebelum wawancara adalah pada seleksi perusahaan nasional?",
+    "opsi": [
+      "menebak gaji orang lain",
+      "menghindari semua pertanyaan",
+      "memahami posisi yang dilamar dan menyiapkan jawaban relevan",
+      "mencari gosip internal",
+      "menghafal nama semua pegawai"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Riset perusahaan membantu kandidat menjawab lebih tepat dan menunjukkan minat yang serius. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_49",
+    "pertanyaan": "Kalimat achievement yang paling kuat di CV adalah pada seleksi perusahaan nasional?",
+    "opsi": [
+      "saya lumayan bisa komputer",
+      "saya sering membantu teman",
+      "saya orangnya rajin dan baik",
+      "berhasil meningkatkan penjualan 18% dalam 4 bulan melalui kampanye digital",
+      "saya suka bekerja jika sempat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Achievement kuat harus spesifik, terukur, dan menunjukkan dampak. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  },
+  {
+    "id": "PR_JK_50",
+    "pertanyaan": "Follow up setelah interview paling baik dilakukan dengan pada seleksi perusahaan nasional?",
+    "opsi": [
+      "memprotes proses seleksi di chat",
+      "menelpon berulang setiap jam",
+      "meminta jawaban saat itu juga",
+      "mengirim meme ke perekrut",
+      "ucapan terima kasih singkat dan profesional"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ucapan terima kasih yang singkat memperkuat kesan profesional tanpa menekan perekrut. Pilihan lain tidak menunjukkan praktik rekrutmen yang baik atau tidak relevan dengan konteks pertanyaan."
+  }
+]

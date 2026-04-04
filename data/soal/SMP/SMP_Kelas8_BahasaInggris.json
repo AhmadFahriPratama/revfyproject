@@ -1,0 +1,708 @@
+{
+  "id": "smp-8-bing",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "Bahasa Inggris",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-8-bing-01",
+      "teks": "Teacher: 'Everybody, may I have your attention, please?'\nStudents: '...' (Latihan #1)",
+      "opsi": {
+        "A": "Yes, Ma'am.",
+        "B": "No, thanks.",
+        "C": "Never mind.",
+        "D": "You are welcome.",
+        "E": "I am entirely disagree."
+      },
+      "kunci": "A",
+      "pembahasan": "To respond to 'asking for attention', students politely acknowledge by saying 'Yes, Ma'am' or 'Yes, Sir'.",
+      "trik": "Respond affirmatively when a teacher asks for attention."
+    },
+    {
+      "id": "smp-8-bing-02",
+      "teks": "Andi: 'I don't think I can lift this heavy box.' \nBudi: 'Don't worry, I ... help you.' (Latihan #2)",
+      "opsi": {
+        "A": "Can't",
+        "B": "Will",
+        "C": "Shouldn't",
+        "D": "Won't",
+        "E": "Mustn't"
+      },
+      "kunci": "B",
+      "pembahasan": "Budi expresses his willingness/intention to help, so 'will' is the perfect auxiliary modal to use.",
+      "trik": "Showing willingness = Will (akan)."
+    },
+    {
+      "id": "smp-8-bing-03",
+      "teks": "Siti: 'Are you sure you ... swim across this river?'\nBeni: 'Yes, I am a very good swimmer.' (Latihan #3)",
+      "opsi": {
+        "A": "Must",
+        "B": "Should",
+        "C": "Can",
+        "D": "Will not",
+        "E": "May"
+      },
+      "kunci": "C",
+      "pembahasan": "The context is about 'ability' (capability) to swim. Thus, the modal 'can' is the correct one.",
+      "trik": "Ability/skill = can."
+    },
+    {
+      "id": "smp-8-bing-04",
+      "teks": "Students ... wear uniforms to school. It is an obligation. (Latihan #4)",
+      "opsi": {
+        "A": "Might",
+        "B": "Could",
+        "C": "Should",
+        "D": "Must",
+        "E": "May not"
+      },
+      "kunci": "D",
+      "pembahasan": "'Must' indicates strong necessity or strict obligation (keharusan). Rules in school dictate students 'must' wear uniforms.",
+      "trik": "Obligation / Aturan mutlak = Must."
+    },
+    {
+      "id": "smp-8-bing-05",
+      "teks": "The sign says 'No Smoking'. It means you ... smoke here. (Latihan #5)",
+      "opsi": {
+        "A": "Should",
+        "B": "Can",
+        "C": "Might",
+        "D": "Ought to",
+        "E": "Must not"
+      },
+      "kunci": "E",
+      "pembahasan": "'No smoking' is a prohibition. The modal verb for strong prohibition is 'must not' or 'mustn't'.",
+      "trik": "Larangan (prohibition) = Must not."
+    },
+    {
+      "id": "smp-8-bing-06",
+      "teks": "If you have a toothache, you ... go to the dentist. (Latihan #6)",
+      "opsi": {
+        "A": "Should",
+        "B": "Mustn't",
+        "C": "Can't",
+        "D": "Will not",
+        "E": "Don't have to"
+      },
+      "kunci": "A",
+      "pembahasan": "'Should' is used to give advice (saran) or recommendation. Going to the dentist is highly recommended for a toothache.",
+      "trik": "Membersihkan masukan/saran = Should (sebaiknya)."
+    },
+    {
+      "id": "smp-8-bing-07",
+      "teks": "A text that tells a past experience or sequence of past events in order to entertain or inform is called... (Latihan #7)",
+      "opsi": {
+        "A": "Descriptive Text",
+        "B": "Recount Text",
+        "C": "Report Text",
+        "D": "Narrative Text",
+        "E": "Procedure Text"
+      },
+      "kunci": "B",
+      "pembahasan": "Recount text retells events or experiences in the past chronologically (e.g., 'Last holiday, I went to Bali').",
+      "trik": "Menceritakan masa lalu asli berurutan = Recount Text."
+    },
+    {
+      "id": "smp-8-bing-08",
+      "teks": "What tense is mostly used in Recount Texts? (Latihan #8)",
+      "opsi": {
+        "A": "Simple Present Tense",
+        "B": "Simple Future Tense",
+        "C": "Simple Past Tense",
+        "D": "Present Continuous Tense",
+        "E": "Present Perfect Tense"
+      },
+      "kunci": "C",
+      "pembahasan": "Because recount text tells about past events, it predominantly uses the Simple Past Tense (V2).",
+      "trik": "Past event = Past Tense."
+    },
+    {
+      "id": "smp-8-bing-09",
+      "teks": "Ari: 'Would you like to come to my dinner party tonight?' \nLia: '... I have to finish my homework.' (Latihan #9)",
+      "opsi": {
+        "A": "Yes, absolutely.",
+        "B": "I will come.",
+        "C": "Sure, no problem.",
+        "D": "I'd love to, but",
+        "E": "That's a good idea."
+      },
+      "kunci": "D",
+      "pembahasan": "Lia provides a reason for NOT going ('have to finish homework'). So she is declining the invitation politely with 'I'd love to, but'.",
+      "trik": "Menolak undangan dng sopan biasanya diawali 'I'd love to, but...'"
+    },
+    {
+      "id": "smp-8-bing-10",
+      "teks": "'We went to the beach yesterday.' The word 'went' is the past form of the verb... (Latihan #10)",
+      "opsi": {
+        "A": "Gone",
+        "B": "Going",
+        "C": "Goes",
+        "D": "Went",
+        "E": "Go"
+      },
+      "kunci": "E",
+      "pembahasan": "'Go' is verb 1 (present), 'Went' is verb 2 (past), and 'Gone' is verb 3 (past participle).",
+      "trik": "Go - Went - Gone."
+    },
+    {
+      "id": "smp-8-bing-11",
+      "teks": "Teacher: 'Everybody, may I have your attention, please?'\nStudents: '...' (Latihan #11)",
+      "opsi": {
+        "A": "Yes, Ma'am.",
+        "B": "No, thanks.",
+        "C": "Never mind.",
+        "D": "You are welcome.",
+        "E": "I am entirely disagree."
+      },
+      "kunci": "A",
+      "pembahasan": "To respond to 'asking for attention', students politely acknowledge by saying 'Yes, Ma'am' or 'Yes, Sir'.",
+      "trik": "Respond affirmatively when a teacher asks for attention."
+    },
+    {
+      "id": "smp-8-bing-12",
+      "teks": "Andi: 'I don't think I can lift this heavy box.' \nBudi: 'Don't worry, I ... help you.' (Latihan #12)",
+      "opsi": {
+        "A": "Can't",
+        "B": "Will",
+        "C": "Shouldn't",
+        "D": "Won't",
+        "E": "Mustn't"
+      },
+      "kunci": "B",
+      "pembahasan": "Budi expresses his willingness/intention to help, so 'will' is the perfect auxiliary modal to use.",
+      "trik": "Showing willingness = Will (akan)."
+    },
+    {
+      "id": "smp-8-bing-13",
+      "teks": "Siti: 'Are you sure you ... swim across this river?'\nBeni: 'Yes, I am a very good swimmer.' (Latihan #13)",
+      "opsi": {
+        "A": "Must",
+        "B": "Should",
+        "C": "Can",
+        "D": "Will not",
+        "E": "May"
+      },
+      "kunci": "C",
+      "pembahasan": "The context is about 'ability' (capability) to swim. Thus, the modal 'can' is the correct one.",
+      "trik": "Ability/skill = can."
+    },
+    {
+      "id": "smp-8-bing-14",
+      "teks": "Students ... wear uniforms to school. It is an obligation. (Latihan #14)",
+      "opsi": {
+        "A": "Might",
+        "B": "Could",
+        "C": "Should",
+        "D": "Must",
+        "E": "May not"
+      },
+      "kunci": "D",
+      "pembahasan": "'Must' indicates strong necessity or strict obligation (keharusan). Rules in school dictate students 'must' wear uniforms.",
+      "trik": "Obligation / Aturan mutlak = Must."
+    },
+    {
+      "id": "smp-8-bing-15",
+      "teks": "The sign says 'No Smoking'. It means you ... smoke here. (Latihan #15)",
+      "opsi": {
+        "A": "Should",
+        "B": "Can",
+        "C": "Might",
+        "D": "Ought to",
+        "E": "Must not"
+      },
+      "kunci": "E",
+      "pembahasan": "'No smoking' is a prohibition. The modal verb for strong prohibition is 'must not' or 'mustn't'.",
+      "trik": "Larangan (prohibition) = Must not."
+    },
+    {
+      "id": "smp-8-bing-16",
+      "teks": "If you have a toothache, you ... go to the dentist. (Latihan #16)",
+      "opsi": {
+        "A": "Should",
+        "B": "Mustn't",
+        "C": "Can't",
+        "D": "Will not",
+        "E": "Don't have to"
+      },
+      "kunci": "A",
+      "pembahasan": "'Should' is used to give advice (saran) or recommendation. Going to the dentist is highly recommended for a toothache.",
+      "trik": "Membersihkan masukan/saran = Should (sebaiknya)."
+    },
+    {
+      "id": "smp-8-bing-17",
+      "teks": "A text that tells a past experience or sequence of past events in order to entertain or inform is called... (Latihan #17)",
+      "opsi": {
+        "A": "Descriptive Text",
+        "B": "Recount Text",
+        "C": "Report Text",
+        "D": "Narrative Text",
+        "E": "Procedure Text"
+      },
+      "kunci": "B",
+      "pembahasan": "Recount text retells events or experiences in the past chronologically (e.g., 'Last holiday, I went to Bali').",
+      "trik": "Menceritakan masa lalu asli berurutan = Recount Text."
+    },
+    {
+      "id": "smp-8-bing-18",
+      "teks": "What tense is mostly used in Recount Texts? (Latihan #18)",
+      "opsi": {
+        "A": "Simple Present Tense",
+        "B": "Simple Future Tense",
+        "C": "Simple Past Tense",
+        "D": "Present Continuous Tense",
+        "E": "Present Perfect Tense"
+      },
+      "kunci": "C",
+      "pembahasan": "Because recount text tells about past events, it predominantly uses the Simple Past Tense (V2).",
+      "trik": "Past event = Past Tense."
+    },
+    {
+      "id": "smp-8-bing-19",
+      "teks": "Ari: 'Would you like to come to my dinner party tonight?' \nLia: '... I have to finish my homework.' (Latihan #19)",
+      "opsi": {
+        "A": "Yes, absolutely.",
+        "B": "I will come.",
+        "C": "Sure, no problem.",
+        "D": "I'd love to, but",
+        "E": "That's a good idea."
+      },
+      "kunci": "D",
+      "pembahasan": "Lia provides a reason for NOT going ('have to finish homework'). So she is declining the invitation politely with 'I'd love to, but'.",
+      "trik": "Menolak undangan dng sopan biasanya diawali 'I'd love to, but...'"
+    },
+    {
+      "id": "smp-8-bing-20",
+      "teks": "'We went to the beach yesterday.' The word 'went' is the past form of the verb... (Latihan #20)",
+      "opsi": {
+        "A": "Gone",
+        "B": "Going",
+        "C": "Goes",
+        "D": "Went",
+        "E": "Go"
+      },
+      "kunci": "E",
+      "pembahasan": "'Go' is verb 1 (present), 'Went' is verb 2 (past), and 'Gone' is verb 3 (past participle).",
+      "trik": "Go - Went - Gone."
+    },
+    {
+      "id": "smp-8-bing-21",
+      "teks": "Teacher: 'Everybody, may I have your attention, please?'\nStudents: '...' (Latihan #21)",
+      "opsi": {
+        "A": "Yes, Ma'am.",
+        "B": "No, thanks.",
+        "C": "Never mind.",
+        "D": "You are welcome.",
+        "E": "I am entirely disagree."
+      },
+      "kunci": "A",
+      "pembahasan": "To respond to 'asking for attention', students politely acknowledge by saying 'Yes, Ma'am' or 'Yes, Sir'.",
+      "trik": "Respond affirmatively when a teacher asks for attention."
+    },
+    {
+      "id": "smp-8-bing-22",
+      "teks": "Andi: 'I don't think I can lift this heavy box.' \nBudi: 'Don't worry, I ... help you.' (Latihan #22)",
+      "opsi": {
+        "A": "Can't",
+        "B": "Will",
+        "C": "Shouldn't",
+        "D": "Won't",
+        "E": "Mustn't"
+      },
+      "kunci": "B",
+      "pembahasan": "Budi expresses his willingness/intention to help, so 'will' is the perfect auxiliary modal to use.",
+      "trik": "Showing willingness = Will (akan)."
+    },
+    {
+      "id": "smp-8-bing-23",
+      "teks": "Siti: 'Are you sure you ... swim across this river?'\nBeni: 'Yes, I am a very good swimmer.' (Latihan #23)",
+      "opsi": {
+        "A": "Must",
+        "B": "Should",
+        "C": "Can",
+        "D": "Will not",
+        "E": "May"
+      },
+      "kunci": "C",
+      "pembahasan": "The context is about 'ability' (capability) to swim. Thus, the modal 'can' is the correct one.",
+      "trik": "Ability/skill = can."
+    },
+    {
+      "id": "smp-8-bing-24",
+      "teks": "Students ... wear uniforms to school. It is an obligation. (Latihan #24)",
+      "opsi": {
+        "A": "Might",
+        "B": "Could",
+        "C": "Should",
+        "D": "Must",
+        "E": "May not"
+      },
+      "kunci": "D",
+      "pembahasan": "'Must' indicates strong necessity or strict obligation (keharusan). Rules in school dictate students 'must' wear uniforms.",
+      "trik": "Obligation / Aturan mutlak = Must."
+    },
+    {
+      "id": "smp-8-bing-25",
+      "teks": "The sign says 'No Smoking'. It means you ... smoke here. (Latihan #25)",
+      "opsi": {
+        "A": "Should",
+        "B": "Can",
+        "C": "Might",
+        "D": "Ought to",
+        "E": "Must not"
+      },
+      "kunci": "E",
+      "pembahasan": "'No smoking' is a prohibition. The modal verb for strong prohibition is 'must not' or 'mustn't'.",
+      "trik": "Larangan (prohibition) = Must not."
+    },
+    {
+      "id": "smp-8-bing-26",
+      "teks": "If you have a toothache, you ... go to the dentist. (Latihan #26)",
+      "opsi": {
+        "A": "Should",
+        "B": "Mustn't",
+        "C": "Can't",
+        "D": "Will not",
+        "E": "Don't have to"
+      },
+      "kunci": "A",
+      "pembahasan": "'Should' is used to give advice (saran) or recommendation. Going to the dentist is highly recommended for a toothache.",
+      "trik": "Membersihkan masukan/saran = Should (sebaiknya)."
+    },
+    {
+      "id": "smp-8-bing-27",
+      "teks": "A text that tells a past experience or sequence of past events in order to entertain or inform is called... (Latihan #27)",
+      "opsi": {
+        "A": "Descriptive Text",
+        "B": "Recount Text",
+        "C": "Report Text",
+        "D": "Narrative Text",
+        "E": "Procedure Text"
+      },
+      "kunci": "B",
+      "pembahasan": "Recount text retells events or experiences in the past chronologically (e.g., 'Last holiday, I went to Bali').",
+      "trik": "Menceritakan masa lalu asli berurutan = Recount Text."
+    },
+    {
+      "id": "smp-8-bing-28",
+      "teks": "What tense is mostly used in Recount Texts? (Latihan #28)",
+      "opsi": {
+        "A": "Simple Present Tense",
+        "B": "Simple Future Tense",
+        "C": "Simple Past Tense",
+        "D": "Present Continuous Tense",
+        "E": "Present Perfect Tense"
+      },
+      "kunci": "C",
+      "pembahasan": "Because recount text tells about past events, it predominantly uses the Simple Past Tense (V2).",
+      "trik": "Past event = Past Tense."
+    },
+    {
+      "id": "smp-8-bing-29",
+      "teks": "Ari: 'Would you like to come to my dinner party tonight?' \nLia: '... I have to finish my homework.' (Latihan #29)",
+      "opsi": {
+        "A": "Yes, absolutely.",
+        "B": "I will come.",
+        "C": "Sure, no problem.",
+        "D": "I'd love to, but",
+        "E": "That's a good idea."
+      },
+      "kunci": "D",
+      "pembahasan": "Lia provides a reason for NOT going ('have to finish homework'). So she is declining the invitation politely with 'I'd love to, but'.",
+      "trik": "Menolak undangan dng sopan biasanya diawali 'I'd love to, but...'"
+    },
+    {
+      "id": "smp-8-bing-30",
+      "teks": "'We went to the beach yesterday.' The word 'went' is the past form of the verb... (Latihan #30)",
+      "opsi": {
+        "A": "Gone",
+        "B": "Going",
+        "C": "Goes",
+        "D": "Went",
+        "E": "Go"
+      },
+      "kunci": "E",
+      "pembahasan": "'Go' is verb 1 (present), 'Went' is verb 2 (past), and 'Gone' is verb 3 (past participle).",
+      "trik": "Go - Went - Gone."
+    },
+    {
+      "id": "smp-8-bing-31",
+      "teks": "Teacher: 'Everybody, may I have your attention, please?'\nStudents: '...' (Latihan #31)",
+      "opsi": {
+        "A": "Yes, Ma'am.",
+        "B": "No, thanks.",
+        "C": "Never mind.",
+        "D": "You are welcome.",
+        "E": "I am entirely disagree."
+      },
+      "kunci": "A",
+      "pembahasan": "To respond to 'asking for attention', students politely acknowledge by saying 'Yes, Ma'am' or 'Yes, Sir'.",
+      "trik": "Respond affirmatively when a teacher asks for attention."
+    },
+    {
+      "id": "smp-8-bing-32",
+      "teks": "Andi: 'I don't think I can lift this heavy box.' \nBudi: 'Don't worry, I ... help you.' (Latihan #32)",
+      "opsi": {
+        "A": "Can't",
+        "B": "Will",
+        "C": "Shouldn't",
+        "D": "Won't",
+        "E": "Mustn't"
+      },
+      "kunci": "B",
+      "pembahasan": "Budi expresses his willingness/intention to help, so 'will' is the perfect auxiliary modal to use.",
+      "trik": "Showing willingness = Will (akan)."
+    },
+    {
+      "id": "smp-8-bing-33",
+      "teks": "Siti: 'Are you sure you ... swim across this river?'\nBeni: 'Yes, I am a very good swimmer.' (Latihan #33)",
+      "opsi": {
+        "A": "Must",
+        "B": "Should",
+        "C": "Can",
+        "D": "Will not",
+        "E": "May"
+      },
+      "kunci": "C",
+      "pembahasan": "The context is about 'ability' (capability) to swim. Thus, the modal 'can' is the correct one.",
+      "trik": "Ability/skill = can."
+    },
+    {
+      "id": "smp-8-bing-34",
+      "teks": "Students ... wear uniforms to school. It is an obligation. (Latihan #34)",
+      "opsi": {
+        "A": "Might",
+        "B": "Could",
+        "C": "Should",
+        "D": "Must",
+        "E": "May not"
+      },
+      "kunci": "D",
+      "pembahasan": "'Must' indicates strong necessity or strict obligation (keharusan). Rules in school dictate students 'must' wear uniforms.",
+      "trik": "Obligation / Aturan mutlak = Must."
+    },
+    {
+      "id": "smp-8-bing-35",
+      "teks": "The sign says 'No Smoking'. It means you ... smoke here. (Latihan #35)",
+      "opsi": {
+        "A": "Should",
+        "B": "Can",
+        "C": "Might",
+        "D": "Ought to",
+        "E": "Must not"
+      },
+      "kunci": "E",
+      "pembahasan": "'No smoking' is a prohibition. The modal verb for strong prohibition is 'must not' or 'mustn't'.",
+      "trik": "Larangan (prohibition) = Must not."
+    },
+    {
+      "id": "smp-8-bing-36",
+      "teks": "If you have a toothache, you ... go to the dentist. (Latihan #36)",
+      "opsi": {
+        "A": "Should",
+        "B": "Mustn't",
+        "C": "Can't",
+        "D": "Will not",
+        "E": "Don't have to"
+      },
+      "kunci": "A",
+      "pembahasan": "'Should' is used to give advice (saran) or recommendation. Going to the dentist is highly recommended for a toothache.",
+      "trik": "Membersihkan masukan/saran = Should (sebaiknya)."
+    },
+    {
+      "id": "smp-8-bing-37",
+      "teks": "A text that tells a past experience or sequence of past events in order to entertain or inform is called... (Latihan #37)",
+      "opsi": {
+        "A": "Descriptive Text",
+        "B": "Recount Text",
+        "C": "Report Text",
+        "D": "Narrative Text",
+        "E": "Procedure Text"
+      },
+      "kunci": "B",
+      "pembahasan": "Recount text retells events or experiences in the past chronologically (e.g., 'Last holiday, I went to Bali').",
+      "trik": "Menceritakan masa lalu asli berurutan = Recount Text."
+    },
+    {
+      "id": "smp-8-bing-38",
+      "teks": "What tense is mostly used in Recount Texts? (Latihan #38)",
+      "opsi": {
+        "A": "Simple Present Tense",
+        "B": "Simple Future Tense",
+        "C": "Simple Past Tense",
+        "D": "Present Continuous Tense",
+        "E": "Present Perfect Tense"
+      },
+      "kunci": "C",
+      "pembahasan": "Because recount text tells about past events, it predominantly uses the Simple Past Tense (V2).",
+      "trik": "Past event = Past Tense."
+    },
+    {
+      "id": "smp-8-bing-39",
+      "teks": "Ari: 'Would you like to come to my dinner party tonight?' \nLia: '... I have to finish my homework.' (Latihan #39)",
+      "opsi": {
+        "A": "Yes, absolutely.",
+        "B": "I will come.",
+        "C": "Sure, no problem.",
+        "D": "I'd love to, but",
+        "E": "That's a good idea."
+      },
+      "kunci": "D",
+      "pembahasan": "Lia provides a reason for NOT going ('have to finish homework'). So she is declining the invitation politely with 'I'd love to, but'.",
+      "trik": "Menolak undangan dng sopan biasanya diawali 'I'd love to, but...'"
+    },
+    {
+      "id": "smp-8-bing-40",
+      "teks": "'We went to the beach yesterday.' The word 'went' is the past form of the verb... (Latihan #40)",
+      "opsi": {
+        "A": "Gone",
+        "B": "Going",
+        "C": "Goes",
+        "D": "Went",
+        "E": "Go"
+      },
+      "kunci": "E",
+      "pembahasan": "'Go' is verb 1 (present), 'Went' is verb 2 (past), and 'Gone' is verb 3 (past participle).",
+      "trik": "Go - Went - Gone."
+    },
+    {
+      "id": "smp-8-bing-41",
+      "teks": "Teacher: 'Everybody, may I have your attention, please?'\nStudents: '...' (Latihan #41)",
+      "opsi": {
+        "A": "Yes, Ma'am.",
+        "B": "No, thanks.",
+        "C": "Never mind.",
+        "D": "You are welcome.",
+        "E": "I am entirely disagree."
+      },
+      "kunci": "A",
+      "pembahasan": "To respond to 'asking for attention', students politely acknowledge by saying 'Yes, Ma'am' or 'Yes, Sir'.",
+      "trik": "Respond affirmatively when a teacher asks for attention."
+    },
+    {
+      "id": "smp-8-bing-42",
+      "teks": "Andi: 'I don't think I can lift this heavy box.' \nBudi: 'Don't worry, I ... help you.' (Latihan #42)",
+      "opsi": {
+        "A": "Can't",
+        "B": "Will",
+        "C": "Shouldn't",
+        "D": "Won't",
+        "E": "Mustn't"
+      },
+      "kunci": "B",
+      "pembahasan": "Budi expresses his willingness/intention to help, so 'will' is the perfect auxiliary modal to use.",
+      "trik": "Showing willingness = Will (akan)."
+    },
+    {
+      "id": "smp-8-bing-43",
+      "teks": "Siti: 'Are you sure you ... swim across this river?'\nBeni: 'Yes, I am a very good swimmer.' (Latihan #43)",
+      "opsi": {
+        "A": "Must",
+        "B": "Should",
+        "C": "Can",
+        "D": "Will not",
+        "E": "May"
+      },
+      "kunci": "C",
+      "pembahasan": "The context is about 'ability' (capability) to swim. Thus, the modal 'can' is the correct one.",
+      "trik": "Ability/skill = can."
+    },
+    {
+      "id": "smp-8-bing-44",
+      "teks": "Students ... wear uniforms to school. It is an obligation. (Latihan #44)",
+      "opsi": {
+        "A": "Might",
+        "B": "Could",
+        "C": "Should",
+        "D": "Must",
+        "E": "May not"
+      },
+      "kunci": "D",
+      "pembahasan": "'Must' indicates strong necessity or strict obligation (keharusan). Rules in school dictate students 'must' wear uniforms.",
+      "trik": "Obligation / Aturan mutlak = Must."
+    },
+    {
+      "id": "smp-8-bing-45",
+      "teks": "The sign says 'No Smoking'. It means you ... smoke here. (Latihan #45)",
+      "opsi": {
+        "A": "Should",
+        "B": "Can",
+        "C": "Might",
+        "D": "Ought to",
+        "E": "Must not"
+      },
+      "kunci": "E",
+      "pembahasan": "'No smoking' is a prohibition. The modal verb for strong prohibition is 'must not' or 'mustn't'.",
+      "trik": "Larangan (prohibition) = Must not."
+    },
+    {
+      "id": "smp-8-bing-46",
+      "teks": "If you have a toothache, you ... go to the dentist. (Latihan #46)",
+      "opsi": {
+        "A": "Should",
+        "B": "Mustn't",
+        "C": "Can't",
+        "D": "Will not",
+        "E": "Don't have to"
+      },
+      "kunci": "A",
+      "pembahasan": "'Should' is used to give advice (saran) or recommendation. Going to the dentist is highly recommended for a toothache.",
+      "trik": "Membersihkan masukan/saran = Should (sebaiknya)."
+    },
+    {
+      "id": "smp-8-bing-47",
+      "teks": "A text that tells a past experience or sequence of past events in order to entertain or inform is called... (Latihan #47)",
+      "opsi": {
+        "A": "Descriptive Text",
+        "B": "Recount Text",
+        "C": "Report Text",
+        "D": "Narrative Text",
+        "E": "Procedure Text"
+      },
+      "kunci": "B",
+      "pembahasan": "Recount text retells events or experiences in the past chronologically (e.g., 'Last holiday, I went to Bali').",
+      "trik": "Menceritakan masa lalu asli berurutan = Recount Text."
+    },
+    {
+      "id": "smp-8-bing-48",
+      "teks": "What tense is mostly used in Recount Texts? (Latihan #48)",
+      "opsi": {
+        "A": "Simple Present Tense",
+        "B": "Simple Future Tense",
+        "C": "Simple Past Tense",
+        "D": "Present Continuous Tense",
+        "E": "Present Perfect Tense"
+      },
+      "kunci": "C",
+      "pembahasan": "Because recount text tells about past events, it predominantly uses the Simple Past Tense (V2).",
+      "trik": "Past event = Past Tense."
+    },
+    {
+      "id": "smp-8-bing-49",
+      "teks": "Ari: 'Would you like to come to my dinner party tonight?' \nLia: '... I have to finish my homework.' (Latihan #49)",
+      "opsi": {
+        "A": "Yes, absolutely.",
+        "B": "I will come.",
+        "C": "Sure, no problem.",
+        "D": "I'd love to, but",
+        "E": "That's a good idea."
+      },
+      "kunci": "D",
+      "pembahasan": "Lia provides a reason for NOT going ('have to finish homework'). So she is declining the invitation politely with 'I'd love to, but'.",
+      "trik": "Menolak undangan dng sopan biasanya diawali 'I'd love to, but...'"
+    },
+    {
+      "id": "smp-8-bing-50",
+      "teks": "'We went to the beach yesterday.' The word 'went' is the past form of the verb... (Latihan #50)",
+      "opsi": {
+        "A": "Gone",
+        "B": "Going",
+        "C": "Goes",
+        "D": "Went",
+        "E": "Go"
+      },
+      "kunci": "E",
+      "pembahasan": "'Go' is verb 1 (present), 'Went' is verb 2 (past), and 'Gone' is verb 3 (past participle).",
+      "trik": "Go - Went - Gone."
+    }
+  ]
+}

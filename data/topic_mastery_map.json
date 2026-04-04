@@ -1,0 +1,115 @@
+{
+  "id": "topic-mastery-map",
+  "bundles": [
+    {
+      "topic": "CPNS TIU",
+      "level": "core",
+      "materi": [
+        "materi/CPNS/cpns_materi_lengkap.json"
+      ],
+      "soal": [
+        "soal/CPNS/cpns_tiu_latihan.json"
+      ],
+      "fr": [
+        "fr_soal/CPNS/cpns2025_rekonstruksi.json"
+      ],
+      "tryout": [
+        "tryout/CPNS/cpns_mini_drill_tiu_v01.json",
+        "tryout/CPNS/cpns_final_sprint_v01.json"
+      ]
+    },
+    {
+      "topic": "CPNS TWK",
+      "level": "core",
+      "materi": [
+        "materi/CPNS/cpns_materi_lengkap.json"
+      ],
+      "soal": [
+        "soal/CPNS/cpns_twk_latihan.json"
+      ],
+      "fr": [
+        "fr_soal/CPNS/cpns2025_rekonstruksi.json"
+      ],
+      "tryout": [
+        "tryout/CPNS/cpns_section_twk_v01.json",
+        "tryout/CPNS/cpns_final_sprint_v01.json"
+      ]
+    },
+    {
+      "topic": "UTBK Penalaran Umum",
+      "level": "core",
+      "materi": [
+        "materi/UTBK/utbk_materi_penalaran_umum.json"
+      ],
+      "soal": [
+        "soal/UTBK/utbk_latihan_Penalaran_Umum.json"
+      ],
+      "fr": [
+        "fr_soal/UTBK/utbk2024_penalaran_umum.json"
+      ],
+      "tryout": [
+        "tryout/UTBK/utbk_mini_drill_penalaran_umum_v01.json",
+        "tryout/UTBK/utbk_final_sprint_v01.json"
+      ]
+    },
+    {
+      "topic": "UTBK Literasi",
+      "level": "core",
+      "materi": [
+        "materi/UTBK/utbk_materi_literasi_bahasa_indonesia.json",
+        "materi/UTBK/utbk_materi_literasi_bahasa_inggris.json"
+      ],
+      "soal": [
+        "soal/UTBK/utbk_latihan_Literasi_dalam_Bahasa_Indonesia.json",
+        "soal/UTBK/utbk_latihan_Literasi_dalam_Bahasa_Inggris.json"
+      ],
+      "fr": [
+        "fr_soal/UTBK/utbk2025_rekonstruksi_lintas_subtes.json"
+      ],
+      "tryout": [
+        "tryout/UTBK/utbk_section_literasi_v01.json",
+        "tryout/UTBK/utbk_final_sprint_v01.json"
+      ]
+    },
+    {
+      "topic": "TKA SMP Wajib",
+      "level": "school-exit",
+      "materi": [
+        "materi/TKA_SMP/TKA_SMP_BahasaIndonesia_materi.json",
+        "materi/TKA_SMP/TKA_SMP_BahasaInggris_materi.json",
+        "materi/TKA_SMP/TKA_SMP_Matematika_materi.json",
+        "materi/TKA_SMP/TKA_SMP_Pancasila_materi.json"
+      ],
+      "soal": [
+        "soal/TKA_SMP/TKA_SMP_BahasaIndonesia_soal.json",
+        "soal/TKA_SMP/TKA_SMP_BahasaInggris_soal.json",
+        "soal/TKA_SMP/TKA_SMP_Matematika_soal.json",
+        "soal/TKA_SMP/TKA_SMP_Pancasila_soal.json"
+      ],
+      "fr": [
+        "fr_soal/TKA_SMP/tka2025_smp_wajib_rekonstruksi.json"
+      ],
+      "tryout": [
+        "tryout/TKA_SMP/tka_smp_wajib_tryout_v01.json"
+      ]
+    },
+    {
+      "topic": "TKA SMK Pilihan",
+      "level": "vocational",
+      "materi": [
+        "materi/SMK/TKA_SMK_Sejarah_materi.json"
+      ],
+      "soal": [
+        "soal/SMK/TKA_SMK_Biologi_soal.json",
+        "soal/SMK/TKA_SMK_Ekonomi_soal.json",
+        "soal/SMK/TKA_SMK_Fisika_soal.json"
+      ],
+      "fr": [
+        "fr_soal/SMK/tka2025_smk_pilihan_rekonstruksi.json"
+      ],
+      "tryout": [
+        "tryout/TKA_SMK/tka_smk_pilihan_tryout_v01.json"
+      ]
+    }
+  ]
+}

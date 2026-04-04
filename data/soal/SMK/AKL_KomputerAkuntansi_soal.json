@@ -1,0 +1,652 @@
+[
+  {
+    "id": "AKL_KA_01",
+    "pertanyaan": "Software akuntansi populer dari Australia yang sering digunakan dalam kurikulum SMK di Indonesia adalah...",
+    "opsi": [
+      "MYOB Accounting",
+      "Microsoft Word",
+      "Adobe Photoshop",
+      "Corel Draw",
+      "AutoCAD"
+    ],
+    "jawaban": 0,
+    "pembahasan": "MYOB (Mind Your Own Business) adalah paket program komputer akuntansi yang sangat user-friendly."
+  },
+  {
+    "id": "AKL_KA_02",
+    "pertanyaan": "Menu 'Create' pada tampilan awal MYOB berfungsi untuk...",
+    "opsi": [
+      "Melihat file lama",
+      "Membuat data perusahaan baru",
+      "Menambah akun bank",
+      "Menghapus program",
+      "Keluar dari aplikasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Digunakan saat pertama kali ingin memindahkan pembukuan manual ke sistem komputer."
+  },
+  {
+    "id": "AKL_KA_03",
+    "pertanyaan": "Akun 'Historical Balancing' pada MYOB harus bernilai Nol (0) di kolom saldo awal, artinya...",
+    "opsi": [
+      "Perusahaan bangkrut",
+      "Tidak ada transaksi",
+      "Input saldo awal neraca sudah seimbang (balance)",
+      "Komputer rusak",
+      "Pajak sudah dibayar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Jika tidak nol, berarti ada ketimpangan antara total Aktiva dengan Utang + Modal saat input saldo awal."
+  },
+  {
+    "id": "AKL_KA_04",
+    "pertanyaan": "Menu yang digunakan untuk memasukkan data pelanggan baru di MYOB adalah...",
+    "opsi": [
+      "Account List",
+      "Item List",
+      "Purchase",
+      "Card File -> Card List",
+      "Sales"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Card File menyimpan direktori Customer, Supplier, dan Employee."
+  },
+  {
+    "id": "AKL_KA_05",
+    "pertanyaan": "Link Account pada MYOB bertujuan agar...",
+    "opsi": [
+      "Komputer terhubung internet",
+      "Membagikan data ke sosial media",
+      "Mengambil uang di ATM",
+      "Menghapus file duplikat",
+      "Menghubungkan akun-akun secara otomatis saat terjadi transaksi (automasi jurnal)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Misal link Piutang ke Kas agar saat pelunasan piutang, kas otomatis bertambah."
+  },
+  {
+    "id": "AKL_KA_06",
+    "pertanyaan": "Modul 'Banking' digunakan untuk mencatat transaksi...",
+    "opsi": [
+      "Penerimaan dan pengeluaran kas selain penjualan/pembelian barang (seperti bayar listrik)",
+      "Jual barang dagang",
+      "Beli barang dagang",
+      "Retur barang",
+      "Penyusutan mesin"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Banking mencakup Spend Money dan Receive Money untuk operasional umum."
+  },
+  {
+    "id": "AKL_KA_07",
+    "pertanyaan": "Pencatatan saldo awal persediaan barang dagang dilakukan melalui menu...",
+    "opsi": [
+      "Sales -> Enter Sales",
+      "Inventory -> Count Inventory",
+      "Purchase -> Enter Purchase",
+      "Account -> Record Journal Entry",
+      "Banking -> Spend Money"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Count Inventory dilanjutkan Adjust Inventory untuk memasukkan kuantitas dan harga pokok per unit."
+  },
+  {
+    "id": "AKL_KA_08",
+    "pertanyaan": "Account Type untuk akun 'Piutang Dagang' di MYOB adalah...",
+    "opsi": [
+      "Bank",
+      "Accounts Payable",
+      "Accounts Receivable",
+      "Other Current Asset",
+      "Income"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Accounts Receivable khusus menangani daftar pelanggan (customer list)."
+  },
+  {
+    "id": "AKL_KA_09",
+    "pertanyaan": "Opsi 'I Buy This Item, I Sell This Item, I Inventory This Item' digunakan saat...",
+    "opsi": [
+      "Membuat data Akun",
+      "Membuat data Karyawan",
+      "Mencetak Laporan",
+      "Membuat data Barang Dagangan (Item List)",
+      "Backup Data"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Barang dagang harus dicentang ketiganya agar bisa dibeli, dijual, dan stoknya dipantau."
+  },
+  {
+    "id": "AKL_KA_10",
+    "pertanyaan": "Perintah untuk mem-backup data pada MYOB adalah...",
+    "opsi": [
+      "File -> Exit",
+      "File -> Print",
+      "Edit -> Copy",
+      "Setup -> Links",
+      "File -> Backup"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Backup sangat penting sebagai cadangan jika file asli .myo mengalami kerusakan/corrupt."
+  },
+  {
+    "id": "AKL_KA_11",
+    "pertanyaan": "Format tanggal di komputer harus sesuai dengan format di software akuntansi. Jika ingin input 25 Desember 2023, penulisannya biasanya...",
+    "opsi": [
+      "25-12-2023 atau 12/25/2023",
+      "Desember 25",
+      "2023-Des",
+      "Semua Benar",
+      "Tergantung keberuntungan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Umumnya mengikuti regional setting Windows (DD/MM/YYYY atau MM/DD/YYYY)."
+  },
+  {
+    "id": "AKL_KA_12",
+    "pertanyaan": "Menu 'Sales -> Enter Sales' digunakan untuk mencatat transaksi...",
+    "opsi": [
+      "Pembelian kredit",
+      "Penjualan barang dagang (tunai/kredit)",
+      "Pembayaran gaji",
+      "Pengeluaran kas kecil",
+      "Penerimaan dividen"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Modul sales menangani faktur penjualan dan pengiriman barang."
+  },
+  {
+    "id": "AKL_KA_13",
+    "pertanyaan": "Tombol 'Record' pada MYOB berfungsi untuk...",
+    "opsi": [
+      "Menghapus transaksi",
+      "Mencetak transaksi",
+      "Menyimpan (memproses) transaksi ke dalam jurnal dan buku besar",
+      "Membatalkan transaksi",
+      "Melihat daftar akun"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Setelah record ditekan, saldo akun terkait akan otomatis terupdate."
+  },
+  {
+    "id": "AKL_KA_14",
+    "pertanyaan": "Pesan error 'An Out of Balance amount remains...' saat mengisi saldo awal akun muncul karena...",
+    "opsi": [
+      "Keyboard rusak",
+      "Lupa mengisi nama perusahaan",
+      "Salah pilih mata uang",
+      "Jumlah Aktiva tidak sama dengan Utang + Modal",
+      "Komputer mati mendadak"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ini menandakan neraca belum seimbang (Historical Balancing tidak nol)."
+  },
+  {
+    "id": "AKL_KA_15",
+    "pertanyaan": "Akun 'Header' pada MYOB adalah akun yang...",
+    "opsi": [
+      "Bisa menerima posting transaksi",
+      "Hanya untuk piutang",
+      "Hanya untuk utang",
+      "Berwarna merah",
+      "Tidak bisa menerima posting (hanya judul/jumlah sub-total)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Header mengelompokkan beberapa akun 'Detail'."
+  },
+  {
+    "id": "AKL_KA_16",
+    "pertanyaan": "Akun 'Detail' pada MYOB adalah akun yang...",
+    "opsi": [
+      "Dapat menerima posting (tempat mencatat nilai transaksi)",
+      "Hanya sebagai judul",
+      "Tidak punya nomor",
+      "Selalu di posisi paling atas",
+      "Tidak bisa dihapus"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Transaksi riil diposting ke dalam akun detail."
+  },
+  {
+    "id": "AKL_KA_17",
+    "pertanyaan": "Pajak Pertambahan Nilai (PPN) di MYOB biasanya dibuat dengan Tax Code...",
+    "opsi": [
+      "N-T (Non-Taxable)",
+      "GST atau VAT (Value Added Tax)",
+      "PPH",
+      "FRE (Free)",
+      "TAX"
+    ],
+    "jawaban": 1,
+    "pembahasan": "GST sering digunakan karena istilah standar internasional, meski di Indonesia namanya PPN."
+  },
+  {
+    "id": "AKL_KA_18",
+    "pertanyaan": "Untuk melihat Laporan Laba Rugi di MYOB, urutannya adalah...",
+    "opsi": [
+      "Reports -> Sales -> Invoice",
+      "Reports -> Purchase -> Payable",
+      "Reports -> Index to Reports -> Accounts -> Profit & Loss",
+      "Setup -> Opening Balances",
+      "File -> Print"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Index to reports adalah pusat semua laporan (keuangan, inventory, dll)."
+  },
+  {
+    "id": "AKL_KA_19",
+    "pertanyaan": "Penerimaan piutang dari pelanggan dicatat pada menu...",
+    "opsi": [
+      "Enter Sales",
+      "Enter Purchase",
+      "Pay Bills",
+      "Receive Payments",
+      "Spend Money"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Receive Payments khusus untuk melunasi faktur (invoice) yang sudah dibuat sebelumnya."
+  },
+  {
+    "id": "AKL_KA_20",
+    "pertanyaan": "Pembayaran hutang kepada supplier dicatat pada menu...",
+    "opsi": [
+      "Enter Purchase",
+      "Spend Money",
+      "Receive Payments",
+      "Enter Sales",
+      "Pay Bills"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pay Bills menghapus kewajiban utang dagang berdasarkan nomor faktur pembelian."
+  },
+  {
+    "id": "AKL_KA_21",
+    "pertanyaan": "Modul 'Inventory' di MYOB mengelola...",
+    "opsi": [
+      "Barang dagangan, penyesuaian stok, dan harga pokok barang",
+      "Daftar Karyawan",
+      "Daftar pemegang saham",
+      "Hanya aset tetap",
+      "Hanya kas di bank"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Menjamin jumlah stok fisik sinkron dengan catatan akuntansi."
+  },
+  {
+    "id": "AKL_KA_22",
+    "pertanyaan": "Fitur 'Purge' pada akhir periode bertujuan untuk...",
+    "opsi": [
+      "Mengganti logo perusahaan",
+      "Membersihkan data transaksi lama untuk menghemat ruang file",
+      "Mencetak semua kuitansi",
+      "Menghapus virus",
+      "Membatalkan semua posting"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Purge dilakukan dengan riwayat yang sudah sangat lama dan tidak diperlukan untuk pelaporan aktif."
+  },
+  {
+    "id": "AKL_KA_23",
+    "pertanyaan": "Software akuntansi berbasis desktop asli Indonesia yang populer adalah...",
+    "opsi": [
+      "MYOB",
+      "SAP",
+      "Accurate",
+      "Oracle",
+      "Xero"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Accurate memiliki fitur yang disesuaikan dengan perpajakan Indonesia (e-faktur, dll)."
+  },
+  {
+    "id": "AKL_KA_24",
+    "pertanyaan": "Salah satu kelebihan komputer akuntansi dibandingkan manual adalah...",
+    "opsi": [
+      "Tidak butuh listrik",
+      "Harganya gratis selamanya",
+      "Tidak perlu mengerti akuntansi",
+      "Kecepatan dan ketepatan penyusunan laporan keuangan (otomatis)",
+      "Bisa jalan sendiri tanpa admin"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sekali input transaksi, neraca dan laba rugi langsung jadi saat itu juga."
+  },
+  {
+    "id": "AKL_KA_25",
+    "pertanyaan": "Setup 'Fiscal Year' pada MYOB menentukan...",
+    "opsi": [
+      "Nama pemilik",
+      "Jumlah karyawan",
+      "Warna tampilan",
+      "Jenis printer",
+      "Tahun buku berjalan (misal 2023)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kesalahan input tahun mengakibatkan transaksi tidak bisa diposting di periode yang benar."
+  },
+  {
+    "id": "AKL_KA_26",
+    "pertanyaan": "Jika perusahaan menggunakan 13 periode (Thirteen Periods), maka periode ke-13 biasanya untuk...",
+    "opsi": [
+      "Jurnal Penyesuaian akhir tahun",
+      "Bonus karyawan",
+      "Libur panjang",
+      "Bayar dividen",
+      "Stok opname barang rusak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Agar jurnal penyesuaian terpisah dari transaksi normal bulan Desember."
+  },
+  {
+    "id": "AKL_KA_27",
+    "pertanyaan": "Menu 'List -> Tax Codes' digunakan untuk...",
+    "opsi": [
+      "Membayar pajak ke kantor pajak",
+      "Mengatur jenis dan persentase tarif pajak yang berlaku di perusahaan",
+      "Menghindari pajak",
+      "Mencari NPWP karyawan",
+      "Menghapus utang pajak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Memastikan pemotongan pajak pada setiap faktur dilakukan dengan benar."
+  },
+  {
+    "id": "AKL_KA_28",
+    "pertanyaan": "Ekstensi file data MYOB versi terbaru biasanya adalah...",
+    "opsi": [
+      ".docx",
+      ".xlsx",
+      ".myo",
+      ".exe",
+      ".pdf"
+    ],
+    "jawaban": 2,
+    "pembahasan": ".myo adalah format file standar database MYOB."
+  },
+  {
+    "id": "AKL_KA_29",
+    "pertanyaan": "Dalam MYOB, apa fungsi dari 'Command Centre'?",
+    "opsi": [
+      "Tempat menyimpan dokumen fisik",
+      "Server kantor",
+      "Aplikasi chat antar keryawan",
+      "Pusat kendali (halaman utama) yang berisi seluruh modul program",
+      "Alat scan struk"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Command centre adalah 'pintu masuk' ke semua aktivitas akuntansi."
+  },
+  {
+    "id": "AKL_KA_30",
+    "pertanyaan": "Langkah mengoreksi transaksi yang salah tapi sudah direcord adalah...",
+    "opsi": [
+      "Tutup komputer",
+      "Membuat data baru dari nol",
+      "Menghapus software dan instal ulang",
+      "Lapor ke polisi",
+      "Buka Transaction Journal -> Pilih transaksi -> Edit atau Delete/Reverse"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pilihan 'Reverse' lebih disarankan untuk audit trail yang rapi."
+  },
+  {
+    "id": "AKL_KA_31",
+    "pertanyaan": "Fasilitas 'Find Transaction' digunakan untuk...",
+    "opsi": [
+      "Mencari histori transaksi berdasarkan nomor, tanggal, atau nilai tertentu",
+      "Mencari uang yang hilang",
+      "Mencari nama pelamar kerja",
+      "Mencari harga emas",
+      "Mencari lokasi bank terdekat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sangat membantu proses audit dan pengecekan ulang data."
+  },
+  {
+    "id": "AKL_KA_32",
+    "pertanyaan": "Apa arti 'Credit Limit' pada data Customer?",
+    "opsi": [
+      "Jumlah kartu kredit yang dimiliki",
+      "Batas maksimal piutang (utang pembeli) yang diizinkan perusahaan",
+      "Harga kado ulang tahun",
+      "Potongan harga tetap",
+      "Sisa saldo bank pembeli"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Berguna sebagai kontrol agar piutang pelanggan tidak membengkak di luar kendali."
+  },
+  {
+    "id": "AKL_KA_33",
+    "pertanyaan": "Jenis akun 'Equity' dalam MYOB memiliki kode awal nomor...",
+    "opsi": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "jawaban": 2,
+    "pembahasan": "1: Asset, 2: Liability, 3: Equity, 4: Income, 5: Cost of Sales, dll."
+  },
+  {
+    "id": "AKL_KA_34",
+    "pertanyaan": "Penomoran akun pada software akuntansi umumnya terdiri dari berapa digit?",
+    "opsi": [
+      "2",
+      "3",
+      "10",
+      "4 atau 5",
+      "1"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: 1-1100 (Kas) atau 1-1200 (Piutang). Penomoran ini disebut Chart of Accounts."
+  },
+  {
+    "id": "AKL_KA_35",
+    "pertanyaan": "Akun 'Prepaid Insurance' masuk dalam kategori akun nomor...",
+    "opsi": [
+      "2 (Liability)",
+      "4 (Income)",
+      "6 (Expense)",
+      "8 (Other Income)",
+      "1 (Asset)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Asuransi dibayar dimuka adalah aset lancar perusahaan."
+  },
+  {
+    "id": "AKL_KA_36",
+    "pertanyaan": "Untuk mencetak faktur penjualan yang sudah dibuat, kita masuk ke menu...",
+    "opsi": [
+      "Sales -> Print/Email Invoices",
+      "Accounts -> Company Data Auditor",
+      "Banking -> Reconcile Accounts",
+      "File -> Backup",
+      "Setup -> Preferences"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bisa dilakukan cetak masal atau satu per satu."
+  },
+  {
+    "id": "AKL_KA_37",
+    "pertanyaan": "Laporan yang menunjukkan perincian barang yang laku serta keuntungan setiap item adalah...",
+    "opsi": [
+      "Standard Balance Sheet",
+      "Item Sales Detail (Sales Report)",
+      "Aged Payables",
+      "General Ledger Detail",
+      "Trial Balance"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Membantu manajemen melihat produk 'Best Seller'."
+  },
+  {
+    "id": "AKL_KA_38",
+    "pertanyaan": "Fitur 'Preferences' digunakan untuk...",
+    "opsi": [
+      "Membatalkan semua transaksi",
+      "Membuat user baru",
+      "Mengatur setelan global (seperti lock period, warning, mata uang)",
+      "Menghapus software",
+      "Mengecilkan ukuran file"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Memungkinkan personalisasi cara kerja software sesuai kebijakan perusahaan."
+  },
+  {
+    "id": "AKL_KA_39",
+    "pertanyaan": "Akun 'Bank Statement Date' dalam fitur rekonsiliasi bank diisi dengan...",
+    "opsi": [
+      "Tanggal lahir pemilik",
+      "Tanggal lusa",
+      "Tanggal pembelian komputer",
+      "Tanggal akhir bulan pada rekening koran",
+      "Tanggal tutup toko"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Biasanya tanggal 30 atau 31 setiap bulannya."
+  },
+  {
+    "id": "AKL_KA_40",
+    "pertanyaan": "Jurnal Balik (Reversing Entry) dibuat melalui modul...",
+    "opsi": [
+      "Enter Sales",
+      "Spend Money",
+      "Inventory",
+      "Card File",
+      "General Ledger -> Record Journal Entry"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jurnal umum digunakan untuk transaksi yang tidak tertampung di modul khusus."
+  },
+  {
+    "id": "AKL_KA_41",
+    "pertanyaan": "Shortcut untuk mengecek jurnal sementara sebelum direcord di MYOB adalah...",
+    "opsi": [
+      "Ctrl + R",
+      "Ctrl + P",
+      "Ctrl + S",
+      "Ctrl + Z",
+      "Ctrl + A"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sangat penting dilakukan (Recap Transaction) agar tidak salah posting."
+  },
+  {
+    "id": "AKL_KA_42",
+    "pertanyaan": "Sapaan 'Dear' pada kartu pelanggan berguna jika perusahaan ingin...",
+    "opsi": [
+      "Menulis surat cinta",
+      "Mencetak surat tagihan/korespondensi secara masal (Mail Merge)",
+      "Menghina pembeli",
+      "Menyapa robot",
+      "Tidak ada gunanya"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Untuk profesionalisme komunikasi bisnis."
+  },
+  {
+    "id": "AKL_KA_43",
+    "pertanyaan": "Metode penyusutan aset tetap di MYOB dilakukan secara...",
+    "opsi": [
+      "Otomatis setiap detik",
+      "Hanya jika laptop mati",
+      "Manual melalui Record Journal Entry (Penyesuaian)",
+      "Hanya jika ada audit",
+      "Tidak bisa dilakukan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Software biasanya tidak otomatis menyusutkan kecuali sudah diatur jadwalnya."
+  },
+  {
+    "id": "AKL_KA_44",
+    "pertanyaan": "Istilah 'Bad Debt' dalam card file dikaitkan dengan...",
+    "opsi": [
+      "Utang lancar",
+      "Pinjaman bank",
+      "Modal kerja",
+      "Penghapusan piutang tidak tertagih",
+      "Sewa gedung"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jika pelanggan benar-benar tidak bayar. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Penghapusan piutang tidak tertagih\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "AKL_KA_45",
+    "pertanyaan": "Menu 'Audit Trail' berfungsi untuk...",
+    "opsi": [
+      "Menghapus data pencurian",
+      "Mempercepat internet",
+      "Menghitung gaji bos",
+      "Melihat daftar barang rusak",
+      "Melacak riwayat perubahan/pengeditan data oleh setiap user"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Mencegah manipulasi data oleh oknum karyawan."
+  },
+  {
+    "id": "AKL_KA_46",
+    "pertanyaan": "Akun 'Electronic Clearing Account' digunakan untuk...",
+    "opsi": [
+      "Menampung transaksi yang dibayar secara elektronik sebelum didepositkan lunas ke bank",
+      "Membayar listrik",
+      "Membayar pajak online",
+      "Membeli pulsa",
+      "Mencetak uang palsu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Akun sementara (clearing) agar saldo bank riil tetap akurat."
+  },
+  {
+    "id": "AKL_KA_47",
+    "pertanyaan": "Dalam memilih bagan akun, pilihan 'Build your own accounts list' artinya...",
+    "opsi": [
+      "Memakai contoh dari MYOB",
+      "Memasukkan daftar akun buatan sendiri (dari file lain/ketik manual)",
+      "Meminta bantuan bank",
+      "Menyalin akun perusahaan lain",
+      "Beli akun di internet"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pilihan ini paling fleksibel sesuai kebutuhan unik perusahaan."
+  },
+  {
+    "id": "AKL_KA_48",
+    "pertanyaan": "Fungsi tombol 'Combine Cards' adalah...",
+    "opsi": [
+      "Menghapus dua kartu pelanggan",
+      "Mengacak nomor kartu",
+      "Menggabungkan dua data pelanggan/pemasok yang sama (duplikat) menjadi satu",
+      "Mencetak dua kartu sekaligus",
+      "Menjual kartu kredit"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mencegah duplikasi data yang membingungkan laporan piutang."
+  },
+  {
+    "id": "AKL_KA_49",
+    "pertanyaan": "Modul yang digunakan untuk mencatat pengembalian (retur) barang pembelian adalah...",
+    "opsi": [
+      "Modul Sales",
+      "Modul Banking",
+      "Modul Inventory",
+      "Modul Purchase -> Purchase Register -> Returns && Debits",
+      "Modul Payroll"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Retur pembelian akan mengurangi saldo utang usaha (debit)."
+  },
+  {
+    "id": "AKL_KA_50",
+    "pertanyaan": "Selesai mengerjakan data MYOB, langkah yang paling aman adalah...",
+    "opsi": [
+      "Langsung tekan tombol Power CPU",
+      "Cabut kabel listrik",
+      "Tinggalkan begitu saja",
+      "Ganti password setiap menit",
+      "File -> Exit -> Backup -> Yes/Save"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Keluar dengan prosedur backup menjamin integritas data selalu terjaga."
+  }
+]

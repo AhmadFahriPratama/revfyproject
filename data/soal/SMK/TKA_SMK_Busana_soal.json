@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_BSN_01",
+    "pertanyaan": "Garis luar atau bayangan sebuah desain busana disebut...",
+    "opsi": [
+      "Siluet (Silhouette)",
+      "Tekstur",
+      "Garis hias",
+      "Proporsi",
+      "Aksen"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Siluet menentukan bentuk dasar pakaian (misal: Siluet A, H, atau S)."
+  },
+  {
+    "id": "TKA_SMK_BSN_02",
+    "pertanyaan": "Serat kain yang berasal dari ulat sutra termasuk dalam kategori serat...",
+    "opsi": [
+      "Tumbuhan",
+      "Hewan (Protein)",
+      "Sintetis",
+      "Mineral",
+      "Logam"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hewan (Protein)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_03",
+    "pertanyaan": "Alat untuk mengukur badan pelanggan secara akurat adalah...",
+    "opsi": [
+      "Penggaris kayu",
+      "Meteran Bangunan",
+      "Pita Ukur (Metril)",
+      "Jangka sorong",
+      "Tali biasa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pita ukur fleksibel mengikuti lekuk tubuh."
+  },
+  {
+    "id": "TKA_SMK_BSN_04",
+    "pertanyaan": "Langkah awal dalam pembuatan pola dasar badan wanita dimulai dengan mengukur...",
+    "opsi": [
+      "Lingkar Pinggang",
+      "Panjang Lengan",
+      "Lebar Bahu",
+      "Lingkar Badan",
+      "Tinggi Panggul"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Lingkar Badan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_05",
+    "pertanyaan": "Mesin jahit yang digunakan untuk merapikan tepi kain agar tidak tiras/berserabut disebut...",
+    "opsi": [
+      "Mesin Jahit Lurus",
+      "Mesin Lubang Kancing",
+      "Mesin Bordir",
+      "Mesin Pasang Kancing",
+      "Mesin Obras (Overlock)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Obras memotong sekaligus menjahit tepi kain."
+  },
+  {
+    "id": "TKA_SMK_BSN_06",
+    "pertanyaan": "Apa fungsi dari 'Pola' dalam pembuatan busana?",
+    "opsi": [
+      "Sebagai pedoman/cetakan untuk memotong kain agar sesuai bentuk tubuh",
+      "Hanya hiasan kertas",
+      "Agar kain jadi berat",
+      "Label harga",
+      "Penghapus noda"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sebagai pedoman/cetakan untuk memotong kain agar sesuai bentuk tubuh\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_07",
+    "pertanyaan": "Bahan kain yang memiliki tekstur mengkilap, halus, dan licin adalah...",
+    "opsi": [
+      "Denim",
+      "Satin",
+      "Kanvas",
+      "Flanel",
+      "Kain Goni"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Satin\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_08",
+    "pertanyaan": "Kegiatan menggambar desain busana pada proporsi tubuh manusia disebut...",
+    "opsi": [
+      "Fotografi",
+      "Drafting",
+      "Fashion Illustration (Sketsa Mode)",
+      "Painting",
+      "Sculpting"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Fashion Illustration (Sketsa Mode)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_09",
+    "pertanyaan": "Jarak antara garis jahitan dengan tepi potongan kain disebut...",
+    "opsi": [
+      "Kelim",
+      "Ploy",
+      "Drapery",
+      "Kampuh",
+      "Cupnat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kampuh adalah sisa ruang jahitan. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Kampuh\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_10",
+    "pertanyaan": "Serat buatan (sintetis) yang sangat tahan lama dan tidak mudah kusut adalah...",
+    "opsi": [
+      "Katun",
+      "Wol",
+      "Sutra",
+      "Rami",
+      "Poliester"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Poliester\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_11",
+    "pertanyaan": "Alat untuk memindahkan garis pola dari kertas ke kain menggunakan karbon adalah...",
+    "opsi": [
+      "Rader",
+      "Paku",
+      "Jarum Pentul",
+      "Kapur Jahit",
+      "Pidal"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rader\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_12",
+    "pertanyaan": "Istilah 'Ready to Wear' (Prêt-à-Porter) berarti...",
+    "opsi": [
+      "Busana yang dibuat khusus pesanan (Custom)",
+      "Busana siap pakai dengan ukuran standar massal",
+      "Busana bekas",
+      "Kain yang belum dijahit",
+      "Benang jahit"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Busana siap pakai dengan ukuran standar massal\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_13",
+    "pertanyaan": "Lipatan kain yang dijahit memusat untuk membentuk lekukan tubuh disebut...",
+    "opsi": [
+      "Obras",
+      "Kelim",
+      "Kupnat (Darts)",
+      "Rempel",
+      "Bisban"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kupnat (Darts)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_14",
+    "pertanyaan": "Alat pemotong kain yang tajam dan khusus agar kain tidak bergeser saat dipotong adalah...",
+    "opsi": [
+      "Gunting Kertas",
+      "Pisau Cutter",
+      "Gergaji",
+      "Gunting Kain",
+      "Gunting Kuku"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Gunting kain biasanya lebih berat dan beralis tajam rata bawah."
+  },
+  {
+    "id": "TKA_SMK_BSN_15",
+    "pertanyaan": "Warna dingin yang memberikan kesan tenang dan rileks dalam desain busana adalah...",
+    "opsi": [
+      "Merah dan Oranye",
+      "Kuning dan Cokelat",
+      "Hitam dan Putih",
+      "Ping dan Merah Muda",
+      "Biru dan Hijau"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Biru dan Hijau\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_16",
+    "pertanyaan": "Proses menghias permukaan kain dengan benang menggunakan jarum tangan atau mesin disebut...",
+    "opsi": [
+      "Membordir / Menyulam",
+      "Membatik",
+      "Menjahit lurus",
+      "Memotong",
+      "Menggambar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Membordir / Menyulam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_17",
+    "pertanyaan": "Bahan tekstil denim paling sering digunakan untuk membuat...",
+    "opsi": [
+      "Baju pesta",
+      "Celana Jeans",
+      "Pakaian dalam",
+      "Jas formal",
+      "Baju renang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Celana Jeans\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_18",
+    "pertanyaan": "Seseorang yang profesinya menciptakan ide dan rancangan busana baru disebut...",
+    "opsi": [
+      "Tailor",
+      "Merchandiser",
+      "Fashion Designer",
+      "Model",
+      "Photographer"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Fashion Designer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_19",
+    "pertanyaan": "Timbangan berat bahan kain diukur dengan istilah...",
+    "opsi": [
+      "Meteran",
+      "Liter",
+      "Volt",
+      "GSM (Gram per Square Meter)",
+      "Watt"
+    ],
+    "jawaban": 3,
+    "pembahasan": "GSM menentukan ketebalan kain. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"GSM (Gram per Square Meter)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_20",
+    "pertanyaan": "Bagian busana yang menempel pada lubang leher disebut...",
+    "opsi": [
+      "Lengan",
+      "Saku",
+      "Belahan",
+      "Kancing",
+      "Kerah (Collar)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kerah (Collar)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_21",
+    "pertanyaan": "Alat untuk menekan jahitan agar rapi dan halus adalah...",
+    "opsi": [
+      "Setrika (Iron)",
+      "Palu",
+      "Catutan",
+      "Sikat",
+      "Sabun"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Setrika (Iron)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_22",
+    "pertanyaan": "Apa itu 'Pattern Making'?",
+    "opsi": [
+      "Pemotongan kain",
+      "Proses pembuatan pola busana sesuai model",
+      "Penjahitan langsung",
+      "Penghiasan baju",
+      "Mengepak barang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Proses pembuatan pola busana sesuai model\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_23",
+    "pertanyaan": "Jarum jahit tangan nomor 9 biasanya lebih ... daripada nomor 12.",
+    "opsi": [
+      "Kecil",
+      "Tajam",
+      "Besar dan Panjang",
+      "Lentur",
+      "Mahal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Makin kecil nomor jarum tangan, makin besar ukurannya (kebalikan jarum mesin)."
+  },
+  {
+    "id": "TKA_SMK_BSN_24",
+    "pertanyaan": "Istilah 'Fitting' berarti...",
+    "opsi": [
+      "Memotong kain",
+      "Menjahit kancing",
+      "Menggambar motif",
+      "Mencoba busana pada tubuh pelanggan untuk dicek kesesuaiannya",
+      "Membayar kain"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mencoba busana pada tubuh pelanggan untuk dicek kesesuaiannya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_25",
+    "pertanyaan": "Serat Kapas (Cotton) berasal dari tumbuhan yang masuk kategori serat...",
+    "opsi": [
+      "Mineral",
+      "Kimiawi",
+      "Binatang",
+      "Ulat",
+      "Selulosa (Tumbuhan)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Selulosa (Tumbuhan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_26",
+    "pertanyaan": "Apa manfaat PKL di Butik atau Garmen bagi siswa SMK Busana?",
+    "opsi": [
+      "Mengetahui standar kecepatan dan kualitas kerja industri fashion secara nyata",
+      "Biar bisa beli baju murah",
+      "Mencari benang sisa",
+      "Hanya bermain jahit",
+      "Tidak penting"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengetahui standar kecepatan dan kualitas kerja industri fashion secara nyata\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_27",
+    "pertanyaan": "Salah satu prinsip desain 'Proporsi' merujuk pada...",
+    "opsi": [
+      "Warna yang mencolok",
+      "Perimbangan ukuran antar bagian dalam satu desain",
+      "Kerapian jahitan",
+      "Harga kain",
+      "Nama merk"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Perimbangan ukuran antar bagian dalam satu desain\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_28",
+    "pertanyaan": "Jenis kain yang elastis dan banyak digunakan untuk kaos olahraga adalah...",
+    "opsi": [
+      "Drill",
+      "Blacu",
+      "Jersey / Spandex",
+      "Kasa",
+      "Terpal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Jersey / Spandex\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_29",
+    "pertanyaan": "Arah serat kain yang sejajar dengan pinggir kain (tumpal) disebut arah...",
+    "opsi": [
+      "Pakan (Crosswise)",
+      "Serong (Bias)",
+      "Diagonal",
+      "Lusi (Lengthwise)",
+      "Lingkaran"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Arah lusi biasanya tidak melar. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Lusi (Lengthwise)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_30",
+    "pertanyaan": "Keahlian menyusun display baju di kaca depan toko disebut...",
+    "opsi": [
+      "Marketing",
+      "Accounting",
+      "Drafting",
+      "Packing",
+      "Visual Merchandising"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Visual Merchandising\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_31",
+    "pertanyaan": "Alat penarik resleting disebut...",
+    "opsi": [
+      "Slider / Kepala Zipper",
+      "Button",
+      "Stopper",
+      "Buckle",
+      "Clasp"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Slider / Kepala Zipper\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_32",
+    "pertanyaan": "Jahit tindas yang berpola kotak-kotak atau berlapis dakron disebut...",
+    "opsi": [
+      "Obras",
+      "Quilting",
+      "Som",
+      "Jelujur",
+      "Setik"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Quilting\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_33",
+    "pertanyaan": "Bahaya penggunaan jarum yang tumpul atau berkarat adalah...",
+    "opsi": [
+      "Kain jadi mengkilap",
+      "Jahitannya jadi lurus",
+      "Merusak serat kain dan bisa menyebabkan infeksi tetanus jika tertusuk",
+      "Benang jadi awet",
+      "Tidak ada bahaya"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Merusak serat kain dan bisa menyebabkan infeksi tetanus jika tertusuk\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_34",
+    "pertanyaan": "Keahlian membentuk busana langsung di atas boneka pas (Dressform) tanpa pola kertas disebut...",
+    "opsi": [
+      "Drafting",
+      "Cutting",
+      "Sketching",
+      "Draping",
+      "Sewing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Draping\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_35",
+    "pertanyaan": "Bagian bawah baju atau lengan yang dilipat ke dalam dan dijahit disebut...",
+    "opsi": [
+      "Krah",
+      "Saku",
+      "Cuff",
+      "Placket",
+      "Kelim (Hemline)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kelim (Hemline)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_36",
+    "pertanyaan": "Bahan pelapis yang disatukan dengan kain utama untuk memberikan bentuk/struktur disebut...",
+    "opsi": [
+      "Interfacing / Furing",
+      "Benang",
+      "Kancing",
+      "Renda",
+      "Payet"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Interfacing / Furing\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_37",
+    "pertanyaan": "Mesin jahit 'High Speed' digerakkan dengan motor listrik berkecepatan tinggi, tujuannya...",
+    "opsi": [
+      "Hemat Listrik",
+      "Meningkatkan produktivitas jahitan dalam industri garmen",
+      "Biar suaranya berisik",
+      "Hanya untuk kain tebal",
+      "Tidak perlu penjahit"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Meningkatkan produktivitas jahitan dalam industri garmen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_38",
+    "pertanyaan": "Alat bantu untuk meluruskan kampuh atau menyeterika bagian lengan agar tidak kusut dalah...",
+    "opsi": [
+      "Papan Setrika (Ironing Board)",
+      "Kertas roti",
+      "Tailor's Ham / Bantalan Setrika",
+      "Plastik",
+      "Kursi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tailor's Ham / Bantalan Setrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_39",
+    "pertanyaan": "Salah satu tren 'Fast Fashion' memiliki dampak negatif bagi lingkungan karena...",
+    "opsi": [
+      "Baju jadi mahal",
+      "Orang jadi rajin jahit",
+      "Warna baju makin bagus",
+      "Produksi massal yang cepat menyebabkan penumpukan limbah tekstil (polusi)",
+      "Baju jadi awet"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Produksi massal yang cepat menyebabkan penumpukan limbah tekstil (polusi)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_40",
+    "pertanyaan": "Jabatan orang yang bertugas memotong kain sesuai pola di industri garmen disebut...",
+    "opsi": [
+      "Sewing Operator",
+      "Designer",
+      "Finishing Staff",
+      "Quality Control",
+      "Cutter / Tukang Potong"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Cutter / Tukang Potong\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_41",
+    "pertanyaan": "Warna primer dalam lingkaran warna desain adalah...",
+    "opsi": [
+      "Merah, Kuning, Biru",
+      "Hijau, Ungu, Oranye",
+      "Hitam dan Putih",
+      "Cokelat dan Abu",
+      "Emas dan Perak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Merah, Kuning, Biru\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_42",
+    "pertanyaan": "Apa itu 'Costing' dalam busana?",
+    "opsi": [
+      "Mengecat kain",
+      "Perhitungan total biaya produksi untuk menentukan harga jual produk",
+      "Menjahit tepi kain",
+      "Mengurangi harga",
+      "Membuat iklan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Perhitungan total biaya produksi untuk menentukan harga jual produk\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_43",
+    "pertanyaan": "Teknik menjahit tangan untuk penyelesaian kelim yang tidak terlihat dari luar disebut...",
+    "opsi": [
+      "Jelujur",
+      "Tusuk Tikam Jejak",
+      "Tusuk Som",
+      "Tusuk Silang",
+      "Tusuk Rantai"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tusuk Som\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_44",
+    "pertanyaan": "Istilah 'Fashion Cycle' merujuk pada...",
+    "opsi": [
+      "Sepeda untuk fashion",
+      "Proses mencuci baju",
+      "Waktu menjahit",
+      "Siklus naik turunnya popularitas suatu tren mode di masyarakat",
+      "Harga baju"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Siklus naik turunnya popularitas suatu tren mode di masyarakat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_45",
+    "pertanyaan": "Mengapa penggunaan jarum pentul sangat penting saat memotong dan menjahit?",
+    "opsi": [
+      "Biar tangannya sakit",
+      "Sebagai hiasan",
+      "Biar bajunya berat",
+      "Hanya pelengkap",
+      "Menahan posisi kain agar tidak bergeser dari pola"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menahan posisi kain agar tidak bergeser dari pola\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_46",
+    "pertanyaan": "Proses pencucian kain sebelum dipotong untuk mencegah kain menciut setelah jadi pakaian disebut...",
+    "opsi": [
+      "Shrinking",
+      "Bleaching",
+      "Dyeing",
+      "Printing",
+      "Glazing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Shrinking\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_47",
+    "pertanyaan": "Alat untuk melubangi kancing secara manual di kain disebut...",
+    "opsi": [
+      "Gunting bordir",
+      "Pendedel (Seam Ripper)",
+      "Silet",
+      "Jarum bentul",
+      "Paku"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Pendedel (Seam Ripper)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_48",
+    "pertanyaan": "Apa itu 'Lookbook'?",
+    "opsi": [
+      "Kamus warna",
+      "Buku absen penjahit",
+      "Kumpulan foto koleksi busana untuk referensi gaya atau pemasaran",
+      "Buku stok kain",
+      "Buku menu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kumpulan foto koleksi busana untuk referensi gaya atau pemasaran\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_49",
+    "pertanyaan": "Ciri khas desainer profesional terhadap hak cipta adalah...",
+    "opsi": [
+      "Menjiplak karya orang lain",
+      "Hanya peduli uang",
+      "Tidak mau menggambar",
+      "Menghargai orisinalitas dan tidak melakukan plagiarisme desain",
+      "Marah-marah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menghargai orisinalitas dan tidak melakukan plagiarisme desain\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BSN_50",
+    "pertanyaan": "Mengapa industri Fashion di Indonesia berpotensi ekspor yang besar?",
+    "opsi": [
+      "Cuma trend sebentar",
+      "Agar orang jago menjahit saja",
+      "Karena kainnya murah-murah",
+      "Tidak ada alasan",
+      "Karena Indonesia kaya akan wastra nusantara (Batik, Tenun) yang unik dan diminati dunia"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Karena Indonesia kaya akan wastra nusantara (Batik, Tenun) yang unik dan diminati dunia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

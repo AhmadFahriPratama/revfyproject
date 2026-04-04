@@ -1,0 +1,53 @@
+{
+  "judul": "Otomatisasi Tata Kelola Keuangan",
+  "tingkatan": "SMK",
+  "jurusan": "Manajemen Perkantoran dan Layanan Bisnis",
+  "deskripsi": "Materi mengenai pengelolaan dana kas kecil, penyusunan laporan keuangan sederhana kantor, administrasi pajak, dan pendokumentasian bukti transaksi.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Ruang Lingkup Administrasi Keuangan",
+      "konten": "Pengertian administrasi keuangan dalam kantor, fungsi dan tujuan pengelolaan dana sekunder. Peran administrator dalam menjaga alur keluar masuknya uang untuk kelancaran operasional unit kerja.",
+      "tag": [
+        "mplb keuangan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Pengelolaan Dana Kas Kecil (Petty Cash)",
+      "konten": "Teknik pembentukan, pemakaian, dan pengisian kembali dana kas kecil. Penerapan sistem dana tetap (Imprest) dan sistem dana tidak tetap (Fluctuating) dalam administrasi perkantoran.",
+      "tag": [
+        "mplb keuangan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Pendokumentasian Bukti Kas",
+      "konten": "Macam-macam bukti transaksi (kuitansi, nota, cek, faktur). Cara memverifikasi keabsahan bukti serta teknik penyimpanan/pengarsipan bukti transaksi keuangan agar mudah ditemukan saat audit.",
+      "tag": [
+        "mplb keuangan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Laporan Keuangan Sederhana",
+      "konten": "Penyusunan laporan mutasi kas kecil, laporan realisasi anggaran kantor, hingga laporan keuangan tahunan sederhana yang mencerminkan kesehatan finansial unit atau organisasi.",
+      "tag": [
+        "mplb keuangan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Administrasi Pajak dan Perbankan",
+      "konten": "Pengenalan jenis pajak (PPh 21, PPh 23, PPN) yang sering ditemui di kantor. Prosedur dasar perbankan seperti pengisian slip setoran, penarikan cek, dan penggunaan internet banking untuk bisnis.",
+      "tag": [
+        "mplb keuangan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "mplb-keuangan-materi",
+  "mapel": "Otomatisasi Tata Kelola Keuangan",
+  "tag": [
+    "mplb keuangan materi"
+  ]
+}

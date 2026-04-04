@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TI_TKJ_01",
+    "pertanyaan": "Komponen komputer yang berfungsi sebagai otak utama untuk memproses semua data adalah...",
+    "opsi": [
+      "Processor (CPU)",
+      "Harddisk",
+      "RAM",
+      "Power Supply",
+      "VGA Card"
+    ],
+    "jawaban": 0,
+    "pembahasan": "CPU (Central Processing Unit) mengeksekusi instruksi dan mengelola kerja seluruh komponen komputer."
+  },
+  {
+    "id": "TI_TKJ_02",
+    "pertanyaan": "Memori komputer yang bersifat sementara (volatile) dan berfungsi untuk menyimpan data aplikasi yang sedang berjalan adalah...",
+    "opsi": [
+      "Harddisk",
+      "RAM",
+      "SSD",
+      "ROM",
+      "Flashdisk"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Random Access Memory (RAM) datanya akan hilang jika arus listrik terputus."
+  },
+  {
+    "id": "TI_TKJ_03",
+    "pertanyaan": "Alat yang digunakan untuk menguji kabel jaringan UTP sudah terpasang dengan benar atau belum adalah...",
+    "opsi": [
+      "Tang Crimping",
+      "Multimeter",
+      "LAN Tester",
+      "Solder",
+      "Obeng"
+    ],
+    "jawaban": 2,
+    "pembahasan": "LAN Tester mengecek urutan pin 1-8 pada konektor RJ-45."
+  },
+  {
+    "id": "TI_TKJ_04",
+    "pertanyaan": "Konektor standar yang digunakan untuk kabel jaringan UTP adalah...",
+    "opsi": [
+      "RJ-11",
+      "USB",
+      "BNC",
+      "RJ-45",
+      "VGA"
+    ],
+    "jawaban": 3,
+    "pembahasan": "RJ-45 (Registered Jack 45) memiliki 8 pin untuk transmisi data ethernet."
+  },
+  {
+    "id": "TI_TKJ_05",
+    "pertanyaan": "Topologi jaringan di mana semua komputer terhubung pada satu hub/switch pusat disebut...",
+    "opsi": [
+      "Bus",
+      "Ring (Cincin)",
+      "Mesh",
+      "Tree",
+      "Star (Bintang)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Topologi Star paling umum digunakan karena mudah dipelihara dan jika satu kabel putus, komputer lain tidak terganggu."
+  },
+  {
+    "id": "TI_TKJ_06",
+    "pertanyaan": "Urutan kabel straight-through menurut standar T568B adalah...",
+    "opsi": [
+      "Putih-Orange, Orange, Putih-Hijau, Biru, Putih-Biru, Hijau, Putih-Cokelat, Cokelat",
+      "Putih-Hijau, Hijau, Putih-Orange, Biru, Putih-Biru, Orange, Putih-Cokelat, Cokelat",
+      "Orange, Hijau, Biru, Cokelat",
+      "Semua Putih",
+      "Urutan Bebas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Standar B paling sering digunakan di Indonesia untuk koneksi PC ke Switch."
+  },
+  {
+    "id": "TI_TKJ_07",
+    "pertanyaan": "IP Address 192.168.1.1 termasuk dalam kategori kelas...",
+    "opsi": [
+      "Kelas A",
+      "Kelas C",
+      "Kelas B",
+      "Kelas D",
+      "Kelas E"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kelas C memiliki rentang 192.0.0.0 - 223.255.255.255."
+  },
+  {
+    "id": "TI_TKJ_08",
+    "pertanyaan": "Subnet mask standar untuk jaringan kelas C (/24) adalah...",
+    "opsi": [
+      "255.0.0.0",
+      "255.255.0.0",
+      "255.255.255.0",
+      "255.255.255.255",
+      "0.0.0.0"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Nilai 255.255.255.0 setara dengan prefix length /24."
+  },
+  {
+    "id": "TI_TKJ_09",
+    "pertanyaan": "Perangkat jaringan yang berfungsi untuk menghubungkan dua atau lebih jaringan yang berbeda subnet/segmen adalah...",
+    "opsi": [
+      "Hub",
+      "Switch",
+      "Repeater",
+      "Router",
+      "Bridge"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Router bekerja pada Layer 3 (Network) dan sanggup melakukan proses routing."
+  },
+  {
+    "id": "TI_TKJ_10",
+    "pertanyaan": "Apa kepanjangan dari OSI Layer?",
+    "opsi": [
+      "Open Source Internet",
+      "Origin System Indicator",
+      "Operating System Install",
+      "Online System Interface",
+      "Open System Interconnection"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kerangka kerja standar untuk memahami proses komunikasi data dalam jaringan."
+  },
+  {
+    "id": "TI_TKJ_11",
+    "pertanyaan": "Layer pertama (paling bawah) pada model OSI adalah...",
+    "opsi": [
+      "Physical",
+      "Data Link",
+      "Network",
+      "Transport",
+      "Application"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Physical layer menangani media transmisi fisik dan sinyal bit."
+  },
+  {
+    "id": "TI_TKJ_12",
+    "pertanyaan": "Layer yang bertanggung jawab atas proses perutean (routing) dan pengalamatan IP adalah...",
+    "opsi": [
+      "Physical",
+      "Network",
+      "Data Link",
+      "Transport",
+      "Session"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Network Layer (Layer 3) tempat bekerjanya Router."
+  },
+  {
+    "id": "TI_TKJ_13",
+    "pertanyaan": "Layanan yang berfungsi memberikan IP Address secara otomatis kepada klien dalam jaringan disebut...",
+    "opsi": [
+      "DNS",
+      "FTP",
+      "DHCP",
+      "HTTP",
+      "TELNET"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dynamic Host Configuration Protocol (DHCP) memudahkan administrasi jaringan."
+  },
+  {
+    "id": "TI_TKJ_14",
+    "pertanyaan": "Layanan yang berfungsi untuk menerjemahkan nama domain menjadi IP Address disebut...",
+    "opsi": [
+      "DHCP",
+      "Proxy",
+      "Firewall",
+      "DNS (Domain Name System)",
+      "Gateway"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tanpa DNS, kita harus mengetikkan IP server untuk membuka situs web."
+  },
+  {
+    "id": "TI_TKJ_15",
+    "pertanyaan": "Perintah 'Ping' pada command prompt (cmd) digunakan untuk...",
+    "opsi": [
+      "Mematikan komputer",
+      "Melihat daftar file",
+      "Menghapus virus",
+      "Mengganti password",
+      "Menguji konektivitas antara dua perangkat dalam jaringan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ping mengirimkan paket ICMP dan menunggu jawaban (Reply) dari target."
+  },
+  {
+    "id": "TI_TKJ_16",
+    "pertanyaan": "Sistem operasi yang sering digunakan untuk dijadikan server jaringan karena kestabilan dan keamanannya adalah...",
+    "opsi": [
+      "Linux (Debian/Ubuntu Server)",
+      "Windows 10 Home",
+      "Android",
+      "iOS",
+      "MS-DOS"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Linux memiliki performa server yang handal dan fleksibilitas konfigurasi tinggi."
+  },
+  {
+    "id": "TI_TKJ_17",
+    "pertanyaan": "Perangkat lunak yang berfungsi sebagai jembatan antara hardware dan pengguna disebut...",
+    "opsi": [
+      "Application",
+      "Sistem Operasi",
+      "Utility",
+      "Antivirus",
+      "Browser"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh Sistem Operasi: Windows, Linux, macOS."
+  },
+  {
+    "id": "TI_TKJ_18",
+    "pertanyaan": "Bagian dari sistem operasi yang berfungsi sebagai antarmuka antara user dengan kernel disebut...",
+    "opsi": [
+      "Hardware",
+      "RAM",
+      "Shell",
+      "CPU",
+      "BIOS"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Shell bisa berupa CLI (Terminal) atau GUI (Desktop)."
+  },
+  {
+    "id": "TI_TKJ_19",
+    "pertanyaan": "Prinsip dasar keamanan jaringan yang menjaga agar data tidak dibaca oleh pihak yang tidak berwenang disebut...",
+    "opsi": [
+      "Integrity",
+      "Availability",
+      "Authentication",
+      "Confidentiality (Kerahasiaan)",
+      "Accountability"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Biasanya dicapai dengan enkripsi data. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Confidentiality (Kerahasiaan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TI_TKJ_20",
+    "pertanyaan": "Sistem keamanan yang berfungsi mengontrol dan memfilter lalu lintas jaringan yang masuk atau keluar disebut...",
+    "opsi": [
+      "Router",
+      "Switch",
+      "Access Point",
+      "Modem",
+      "Firewall"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Firewall bertindak sebagai tembok pengaman digital."
+  },
+  {
+    "id": "TI_TKJ_21",
+    "pertanyaan": "Kabel serat optik (Fiber Optic) mengirimkan data menggunakan media...",
+    "opsi": [
+      "Cahaya",
+      "Tembaga",
+      "Udara",
+      "Air",
+      "Sinyal Radio"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Cahaya memungkinkan kecepatan transmisi data yang sangat tinggi dan jarak jauh."
+  },
+  {
+    "id": "TI_TKJ_22",
+    "pertanyaan": "Media transmisi tanpa kabel (Wireless) menggunakan gelombang...",
+    "opsi": [
+      "Suara",
+      "Elektromagnetik (Radio)",
+      "Cahaya tampak",
+      "Magnet",
+      "Listrik"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Wi-Fi umumnya menggunakan frekuensi 2.4 GHz atau 5 GHz."
+  },
+  {
+    "id": "TI_TKJ_23",
+    "pertanyaan": "Perangkat yang berfungsi untuk memancarkan sinyal Wi-Fi di area lobi atau kantor adalah...",
+    "opsi": [
+      "Switch",
+      "Hub",
+      "Access Point",
+      "Server",
+      "UPS"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Access Point menghubungkan perangkat wireless ke jaringan kabel (LAN)."
+  },
+  {
+    "id": "TI_TKJ_24",
+    "pertanyaan": "Istilah 'Bandwidth' dalam jaringan internet merujuk pada...",
+    "opsi": [
+      "Harga pulsa",
+      "Ukuran layar monitor",
+      "Berat komputer",
+      "Kapasitas atau lebar maksimal jalur data",
+      "Jumlah tombol keyboard"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Semakin besar bandwidth, semakin banyak data yang bisa dikirim dalam satu waktu."
+  },
+  {
+    "id": "TI_TKJ_25",
+    "pertanyaan": "Proses masuk ke sistem server dari jarak jauh menggunakan perintah baris (CLI) biasanya menggunakan protokol...",
+    "opsi": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "POP3",
+      "SSH (Secure Shell)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "SSH menggantikan Telnet karena memiliki enkripsi yang kuat."
+  },
+  {
+    "id": "TI_TKJ_26",
+    "pertanyaan": "Layanan yang memungkinkan pengguna untuk mengunggah dan mengunduh file ke server adalah...",
+    "opsi": [
+      "FTP (File Transfer Protocol)",
+      "HTTP",
+      "DNS",
+      "DHCP",
+      "SNMP"
+    ],
+    "jawaban": 0,
+    "pembahasan": "FTP standar untuk pemindahan file antar host di internet."
+  },
+  {
+    "id": "TI_TKJ_27",
+    "pertanyaan": "Situs web biasanya disimpan di dalam sebuah komputer server yang menjalankan layanan...",
+    "opsi": [
+      "DHCP Server",
+      "Web Server (misal: Apache/Nginx)",
+      "DNS Server",
+      "Mail Server",
+      "Proxy Server"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Web server merespons permintaan HTTP/HTTPS dari klien browser."
+  },
+  {
+    "id": "TI_TKJ_28",
+    "pertanyaan": "Hardware yang berfungsi melindungi komputer dari kerusakan akibat listrik mati mendadak dengan memberikan cadangan daya adalah...",
+    "opsi": [
+      "Stabilizer",
+      "Power Bank",
+      "UPS (Uninterruptible Power Supply)",
+      "Regulator",
+      "Aki"
+    ],
+    "jawaban": 2,
+    "pembahasan": "UPS memberikan waktu bagi user untuk melakukan shut down secara benar."
+  },
+  {
+    "id": "TI_TKJ_29",
+    "pertanyaan": "Komponen motherboard yang mengontrol komunikasi antara CPU dengan RAM dan kartu grafis (AGP/PCIe) adalah...",
+    "opsi": [
+      "Southbridge",
+      "BIOS",
+      "CMOS",
+      "Northbridge",
+      "Slot Ekspansi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Northbridge menangani tugas-tugas yang membutuhkan kecepatan tinggi."
+  },
+  {
+    "id": "TI_TKJ_30",
+    "pertanyaan": "Baterai kecil pada motherboard yang berfungsi menjaga pengaturan waktu dan BIOS agar tidak hilang saat mati lampu adalah...",
+    "opsi": [
+      "Baterai AA",
+      "Baterai Laptop",
+      "Baterai Kotak",
+      "Baterai Remot",
+      "Baterai CMOS"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Baterai kancing (lithium) yang tipe umumnya CR2032."
+  },
+  {
+    "id": "TI_TKJ_31",
+    "pertanyaan": "Apa kelebihan utama SSD dibandingkan Harddisk (HDD)?",
+    "opsi": [
+      "Kecepatan baca dan tulis data jauh lebih cepat",
+      "Harga lebih murah",
+      "Kapasitas jauh lebih besar",
+      "Lebih berat",
+      "Mudah pecah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "SSD menggunakan chip memori flash tanpa komponen mekanik yang berputar."
+  },
+  {
+    "id": "TI_TKJ_32",
+    "pertanyaan": "Masalah pada kabel jaringan di mana urutan pemasangannya tertukar-tukar disebut...",
+    "opsi": [
+      "Connection",
+      "Miswired",
+      "Short Circuit",
+      "Cross-link",
+      "Attenuation"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Miswired menyebabkan data tidak terkirim atau koneksi tidak terdeteksi."
+  },
+  {
+    "id": "TI_TKJ_33",
+    "pertanyaan": "Apa fungsi utama dari Gateway dalam jaringan?",
+    "opsi": [
+      "Membuat file",
+      "Menyimpan password",
+      "Pintu keluar masuk lalu lintas data antar jaringan yang berbeda (misal LAN ke Internet)",
+      "Mencetak gambar",
+      "Memperindah tampilan desktop"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Gateway biasanya adalah alamat IP Router yang terhubung ke ISP."
+  },
+  {
+    "id": "TI_TKJ_34",
+    "pertanyaan": "Proses pencarian dan perbaikan kesalahan konfigurasi jaringan disebut...",
+    "opsi": [
+      "Installing",
+      "Formatting",
+      "Browsing",
+      "Troubleshooting",
+      "Editing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Keahlian utama teknisi TKJ adalah memecahkan masalah sistem."
+  },
+  {
+    "id": "TI_TKJ_35",
+    "pertanyaan": "Pengalamatan IPv4 terdiri dari berapa bit?",
+    "opsi": [
+      "16 bit",
+      "64 bit",
+      "128 bit",
+      "256 bit",
+      "32 bit"
+    ],
+    "jawaban": 4,
+    "pembahasan": "IPv4 terdiri dari 4 oktet (4 x 8 bit). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"32 bit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TI_TKJ_36",
+    "pertanyaan": "Pengalamatan IPv6 dibuat untuk mengatasi kelangkaan alamat IP, yang besarnya adalah...",
+    "opsi": [
+      "128 bit",
+      "32 bit",
+      "64 bit",
+      "256 bit",
+      "1024 bit"
+    ],
+    "jawaban": 0,
+    "pembahasan": "IPv6 menggunakan notasi heksadesimal. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"128 bit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TI_TKJ_37",
+    "pertanyaan": "Teknologi jaringan nirkabel jarak pendek untuk pertukaran data antar perangkat (misal HP ke Speaker) adalah...",
+    "opsi": [
+      "Wi-Fi",
+      "Bluetooth",
+      "Inframerah",
+      "Satelit",
+      "Fiber Optic"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Bluetooth efisien untuk komunikasi Point-to-Point jarak dekat."
+  },
+  {
+    "id": "TI_TKJ_38",
+    "pertanyaan": "Dalam sistem keamanan, apa itu 'Malware'?",
+    "opsi": [
+      "Perangkat keras murah",
+      "Pakaian untuk teknisi",
+      "Perangkat lunak berbahaya atau jahat (virus, worm, trojan)",
+      "Kabel yang rusak",
+      "Monitor yang buram"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Malicious Software dirancang untuk merusak atau menyusup ke sistem."
+  },
+  {
+    "id": "TI_TKJ_39",
+    "pertanyaan": "Format partisi harddisk yang standar digunakan oleh Windows 10/11 adalah...",
+    "opsi": [
+      "FAT32",
+      "Ext4",
+      "HFS+",
+      "NTFS",
+      "APFS"
+    ],
+    "jawaban": 3,
+    "pembahasan": "NTFS mendukung fitur keamanan file dan kompresi data."
+  },
+  {
+    "id": "TI_TKJ_40",
+    "pertanyaan": "Aplikasi yang digunakan sebagai browser internet adalah...",
+    "opsi": [
+      "Microsoft Word",
+      "VLC Player",
+      "Photoshop",
+      "WinRAR",
+      "Google Chrome / Microsoft Edge"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Browser berfungsi merender kode HTML menjadi tampilan visual."
+  },
+  {
+    "id": "TI_TKJ_41",
+    "pertanyaan": "Apa itu 'Virtual LAN' (VLAN)?",
+    "opsi": [
+      "Sekelompok perangkat yang dikonfigurasi secara logika berada di satu jaringan meskipun secara fisik berbeda jalur",
+      "Kabel LAN yang sangat panjang",
+      "Koneksi internet tanpa password",
+      "Cara bermain game online",
+      "Software penambah kecepatan RAM"
+    ],
+    "jawaban": 0,
+    "pembahasan": "VLAN meningkatkan keamanan dan efisiensi manajemen trafik di switch."
+  },
+  {
+    "id": "TI_TKJ_42",
+    "pertanyaan": "Jaringan komputer yang mencakup area satu kota besar dengan kecepatan tinggi disebut...",
+    "opsi": [
+      "LAN",
+      "MAN (Metropolitan Area Network)",
+      "PAN",
+      "WAN",
+      "Internet"
+    ],
+    "jawaban": 1,
+    "pembahasan": "MAN menghubungkan beberapa LAN dalam satu area geografis kota."
+  },
+  {
+    "id": "TI_TKJ_43",
+    "pertanyaan": "Jaringan komputer yang mencakup antar negara atau benua disebut...",
+    "opsi": [
+      "LAN",
+      "MAN",
+      "WAN (Wide Area Network)",
+      "PAN",
+      "CAN"
+    ],
+    "jawaban": 2,
+    "pembahasan": "WAN menggunakan infrastruktur milik ISP dan operator telekomunikasi global."
+  },
+  {
+    "id": "TI_TKJ_44",
+    "pertanyaan": "Penerapan aturan 'Strong Password' yang baik minimal harus mengandung...",
+    "opsi": [
+      "Hanya angka",
+      "Nama panggilan saja",
+      "Tanggal lahir",
+      "Kombinasi huruf besar, kecil, angka, dan simbol (minimal 8 karakter)",
+      "Urutan angka 123456"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mencegah serangan Brute Force oleh hacker."
+  },
+  {
+    "id": "TI_TKJ_45",
+    "pertanyaan": "Software gratis yang digunakan untuk membuat bootable Sistem Operasi di Flashdisk adalah...",
+    "opsi": [
+      "PowerPoint",
+      "Excel",
+      "Photoshop",
+      "VLC",
+      "Rufus"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Rufus sangat populer untuk menyiapkan installer Windows/Linux di USB."
+  },
+  {
+    "id": "TI_TKJ_46",
+    "pertanyaan": "Apa singkatan dari URL?",
+    "opsi": [
+      "Uniform Resource Locator",
+      "Universal Road Line",
+      "Unit Radio Local",
+      "Uniform Registered Link",
+      "User Remote Level"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Alamat unik yang mengidentifikasi lokasi file di internet."
+  },
+  {
+    "id": "TI_TKJ_47",
+    "pertanyaan": "Apa fungsi utama dari Proxy Server?",
+    "opsi": [
+      "Memperberat internet",
+      "Bertindak sebagai perantara klien dengan server lain (bisa untuk cache atau blokir situs)",
+      "Mencuci komputer",
+      "Mencetak laporan",
+      "Memberi sinyal wifi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Proxy sering digunakan di perkantoran untuk monitoring internet karyawan."
+  },
+  {
+    "id": "TI_TKJ_48",
+    "pertanyaan": "Mengapa kita tidak boleh menyentuh pin processor atau RAM dengan tangan telanjang di bagian kuningannya?",
+    "opsi": [
+      "Karena bisa panas",
+      "Karena licin",
+      "Karena bisa terjadi listrik statis yang merusak komponen elektronik",
+      "Karena ada bakteri",
+      "Karena warnanya bisa luntur"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Listrik statis dari tubuh manusia (ESD) bisa membakar chip mikroskopis."
+  },
+  {
+    "id": "TI_TKJ_49",
+    "pertanyaan": "Simbol 'Gunting' pada toolbar Windows atau shortcut (Ctrl + X) digunakan untuk...",
+    "opsi": [
+      "Copy",
+      "Paste",
+      "Delete",
+      "Cut (Potong/Pindah)",
+      "Save"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Cut memindahkan file/teks sepenuhnya ke lokasi baru."
+  },
+  {
+    "id": "TI_TKJ_50",
+    "pertanyaan": "Apa peran penting etika profesi bagi seorang teknisi jaringan?",
+    "opsi": [
+      "Supaya cepat kaya",
+      "Boleh mengintip data user",
+      "Mencuri komponen bagus",
+      "Hanya mengerjakan tugas yang mudah",
+      "Menjaga privasi data pelanggan dan bertindak jujur dalam perbaikan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kepercayaan (Trust) adalah modal utama jasa teknisi IT."
+  }
+]

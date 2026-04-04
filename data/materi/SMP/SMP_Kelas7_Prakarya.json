@@ -1,0 +1,26 @@
+{
+  "id": "materi-smp-kls7-prakarya",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "Prakarya",
+  "materi": "Kerajinan Serat, Teknologi Konstruksi, Budi Daya, dan Pengolahan Pangan",
+  "deskripsi": "Mata pelajaran Prakarya Kelas 7 melatih inovasi dan kreativitas siswa dalam pengolahan bahan serat alam, pembuatan miniatur, hingga pengolahan buah segar.",
+  "konten": [
+    {
+      "bab": "1. Kerajinan Bahan Serat Alam",
+      "teks": "Mengenal sifat batang pisang, eceng gondok, daun pandan dan memanfaatkannya untuk produk kerajinan."
+    },
+    {
+      "bab": "2. Teknologi Konstruksi Miniatur",
+      "teks": "Dasar-dasar rekayasa dan teknologi konstruksi dalam pembuatan miniatur jembatan atau rumah."
+    },
+    {
+      "bab": "3. Budi Daya Tanaman Sayuran",
+      "teks": "Tahapan menanam, merawat, dan memanen tanaman sayuran hidroponik atau di lahan terbatas."
+    },
+    {
+      "bab": "4. Pengolahan Bahan Pangan Buah Segar",
+      "teks": "Mempelajari teknik dasar pengolahan makanan berupa buah segar menjadi minuman atau makanan kaya gizi."
+    }
+  ],
+  "tag": ["smp-7", "prakarya", "kerajinan", "teknologi", "budi-daya", "pangan"]
+}

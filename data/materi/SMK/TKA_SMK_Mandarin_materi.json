@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Bahasa Mandarin",
+  "tingkatan": "SMK",
+  "jurusan": "Pariwisata / Pilihan",
+  "deskripsi": "Materi persiapan TKA Bahasa Mandarin untuk siswa SMK yang berfokus pada percakapan sehari-hari, kosakata teknis pariwisata, dan tata bahasa HSK dasar.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pinyin dan Nada (Shengdiao)",
+      "konten": "Pengenalan vokal dan konsonan dalam Pinyin, 4 nada dalam Bahasa Mandarin, cara penulisan goresan dasar (Hanzi), serta salam pembuka (Greetings).",
+      "tag": [
+        "tka smk mandarin materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Keluarga dan Anggota Tubuh",
+      "konten": "Kosakata anggota keluarga (Baba, Mama, Gege), bagian tubuh manusia, angka (1-100), hari, bulan, dan penunjuk waktu (jam/menit).",
+      "tag": [
+        "tka smk mandarin materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Komunikasi di Tempat Kerja",
+      "konten": "Memperkenalkan diri secara formal, kosakata profesi, menanyakan arah, serta memesan makanan di restoran (Pariwisata).",
+      "tag": [
+        "tka smk mandarin materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Kata Kerja dan Kata Ganti",
+      "konten": "Penggunaan kata kerja 'shi' (adalah), 'you' (mempunya), kata ganti orang (wo, ni, ta), serta struktur kalimat sederhana (S+V+O).",
+      "tag": [
+        "tka smk mandarin materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Budaya dan Etiket Tiongkok",
+      "konten": "Kebiasaan masyarakat Tiongkok dalam bisnis, perayaan Imlek, pentingnya konsep 'Mianzi' (wajah/harga diri), serta etika memberikan hadiah.",
+      "tag": [
+        "tka smk mandarin materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-mandarin-materi",
+  "mapel": "TKA SMK: Bahasa Mandarin",
+  "tag": [
+    "tka smk mandarin materi"
+  ]
+}

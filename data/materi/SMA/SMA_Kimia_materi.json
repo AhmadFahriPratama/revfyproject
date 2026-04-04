@@ -1,0 +1,53 @@
+{
+  "judul": "Kimia",
+  "tingkatan": "SMA",
+  "jurusan": "MIPA",
+  "deskripsi": "Materi mengenai struktur atom, tabel periodik, ikatan kimia, stoikiometri, asam-basa, dan kimia organik.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Struktur Atom dan Sistem Periodik",
+      "konten": "Atom terdiri dari proton, neutron, dan elektron. Konfigurasi elektron (model Bohr dan Mekanika Kuantum) menentukan letak unsur dalam Tabel Periodik Unsur (Golongan dan Periode). Sifat keperiodikan meliputi jari-jari atom, energi ionisasi, afinitas elektron, dan elektronegativitas.",
+      "tag": [
+        "sma kimia materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Ikatan Kimia dan Bentuk Molekul",
+      "konten": "Unsur berikatan untuk mencapai kestabilan (kaidah oktet/duplet). Jenis ikatan meliputi Ikatan Ion (serah terima elektron), Ikatan Kovalen (pemakaian bersama), dan Ikatan Logam. Teori VSEPR dan Hibridisasi menjelaskan geometri/bentuk molekul di ruang tiga dimensi.",
+      "tag": [
+        "sma kimia materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Stoikiometri (Perhitungan Kimia)",
+      "konten": "Materi dasar perhitungan kimia: Hukum Dasar Kimia (Lavoisier, Proust, Dalton, Gay-Lussac, Avogadro). Konsep Mol, Massa Molar, Volume Molar, Konsentrasi (Molaritas), dan penentuan Rumus Empiris/Molekul serta Pereaksi Pembatas.",
+      "tag": [
+        "sma kimia materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Larutan Asam dan Basa",
+      "konten": "Teori Asam-Basa (Arrhenius, Bronsted-Lowry, Lewis). Perhitungan pH untuk asam/basa kuat dan lemah. Pembahasan mengenai Larutan Penyangga (Buffer), Hidrolisis Garam, dan Titrasi Asam-Basa.",
+      "tag": [
+        "sma kimia materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Kimia Karbon (Organik)",
+      "konten": "Kekhasan atom karbon yang dapat membentuk rantai panjang. Klasifikasi Hidrokarbon (Alkana, Alkena, Alkuna). Gugus fungsi senyawa karbon (Alkohol, Eter, Aldehid, Keton, Asam Karboksilat, Ester, Haloalkana) dan Isomerisme.",
+      "tag": [
+        "sma kimia materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "sma-kimia-materi",
+  "mapel": "Kimia",
+  "tag": [
+    "sma kimia materi"
+  ]
+}

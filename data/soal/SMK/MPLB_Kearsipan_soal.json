@@ -1,0 +1,652 @@
+[
+  {
+    "id": "MPLB_KE_01",
+    "pertanyaan": "Arsip yang digunakan secara terus menerus dalam urusan administrasi sehari-hari disebut arsip...",
+    "opsi": [
+      "Arsip Aktif",
+      "Arsip Inaktif",
+      "Arsip Statis",
+      "Arsip Vital",
+      "Arsip Sampah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Arsip aktif adalah arsip yang memiliki frekuensi penggunaan tinggi dalam proses bisnis berjalan."
+  },
+  {
+    "id": "MPLB_KE_02",
+    "pertanyaan": "Lembaga kearsipan di tingkat pusat (Indonesia) adalah...",
+    "opsi": [
+      "BPS",
+      "ANRI (Arsip Nasional Republik Indonesia)",
+      "SITTI",
+      "Perpusnas",
+      "OJK"
+    ],
+    "jawaban": 1,
+    "pembahasan": "ANRI bertanggung jawab atas pembinaan dan pengelolaan arsip nasional."
+  },
+  {
+    "id": "MPLB_KE_03",
+    "pertanyaan": "Sistem kearsipan di mana dokumen disusun berdasarkan urutan huruf Nama Orang atau Nama Badan disebut sistem...",
+    "opsi": [
+      "Sistem Subjek",
+      "Sistem Wilayah",
+      "Sistem Abjad",
+      "Sistem Nomor",
+      "Sistem Kronologis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sistem abjad adalah sistem yang paling sederhana dan mudah dipahami dalam pengorganisasian dokumen."
+  },
+  {
+    "id": "MPLB_KE_04",
+    "pertanyaan": "Penetapan kata tangkap (caption) dari suatu dokumen untuk keperluan penyimpanan disebut...",
+    "opsi": [
+      "Coding",
+      "Labeling",
+      "Sorting",
+      "Indexing (Mengindeks)",
+      "Filing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mengindeks adalah menentukan kata kunci yang akan dicari saat membutuhkan arsip tersebut."
+  },
+  {
+    "id": "MPLB_KE_05",
+    "pertanyaan": "Langkah memberikan tanda atau kode tertentu pada arsip sesuai hasil indeks disebut...",
+    "opsi": [
+      "Sorting",
+      "Placing",
+      "Inspecting",
+      "Archiving",
+      "Coding"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Coding memudahkan petugas meletakkan arsip ke tempat penyimpanan yang tepat."
+  },
+  {
+    "id": "MPLB_KE_06",
+    "pertanyaan": "Map besar dengan penjepit besi yang terbuat dari karton tebal disebut...",
+    "opsi": [
+      "Ordner",
+      "Snelhechter",
+      "Folder",
+      "Hanging Folder",
+      "Stopmap"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ordner digunakan untuk menyimpan dokumen dalam jumlah besar."
+  },
+  {
+    "id": "MPLB_KE_07",
+    "pertanyaan": "Alat penyekat atau pemisah antar kelompok arsip di dalam laci filing cabinet disebut...",
+    "opsi": [
+      "Folder",
+      "Guide",
+      "Tab",
+      "Perforator",
+      "Stapler"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Guide membantu mempercepat proses penemuan kembali arsip."
+  },
+  {
+    "id": "MPLB_KE_08",
+    "pertanyaan": "Sistem penyimpanan berdasarkan lokasi atau tempat asal dokumen disebut sistem...",
+    "opsi": [
+      "Sistem Alfabet",
+      "Sistem Nama",
+      "Sistem Geografis / Wilayah",
+      "Sistem Masalah",
+      "Sistem Dewey"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Cocok untuk organisasi yang memiliki banyak cabang di daerah berbeda."
+  },
+  {
+    "id": "MPLB_KE_09",
+    "pertanyaan": "Tanda 'X' atau kode tertentu pada dokumen yang menyatakan bahwa dokumen tersebut sudah boleh disimpan (realese mark) diletakkan saat tahap...",
+    "opsi": [
+      "Coding",
+      "Scanning",
+      "Copying",
+      "Inspecting (Pemeriksaan)",
+      "Labeling"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pemeriksaan memastikan surat tersebut memang sudah selesai diproses (misal sudah ada disposisi)."
+  },
+  {
+    "id": "MPLB_KE_10",
+    "pertanyaan": "Sistem penyimpanan arsip berdasarkan pokok masalah/perihal isi surat disebut...",
+    "opsi": [
+      "Sistem Abjad",
+      "Sistem Nomor",
+      "Sistem Tanggal",
+      "Sistem Kronologis",
+      "Sistem Subjek / Masalah"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Biasanya digunakan di instansi pemerintah dengan mengelompokkan surat berdasarkan tupoksi kerja."
+  },
+  {
+    "id": "MPLB_KE_11",
+    "pertanyaan": "Unit yang mengelola dan memelihara arsip inaktif di suatu lembaga disebut...",
+    "opsi": [
+      "Unit Kearsipan (Record Center)",
+      "Unit Pengolah",
+      "Unit Gudang",
+      "Unit Marketing",
+      "Unit Penjualan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Record Center berfungsi untuk menyimpan arsip yang frekuensi penggunaannya sudah menurun."
+  },
+  {
+    "id": "MPLB_KE_12",
+    "pertanyaan": "Salah satu kelemahan sistem abjad adalah...",
+    "opsi": [
+      "Mudah dipelajari",
+      "Bisa terjadi kesalahan penempatan jika nama mirip",
+      "Penemuan kembali cepat",
+      "Tidak butuh buku indeks",
+      "Murah biaya peralatannya"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Nama yang hampir sama sering mengecoh petugas jika tidak teliti saat indexing."
+  },
+  {
+    "id": "MPLB_KE_13",
+    "pertanyaan": "Alat bantu untuk melubangi kertas secara manual sebelum dimasukkan ke map adalah...",
+    "opsi": [
+      "Stapler",
+      "Cutter",
+      "Perforator",
+      "Gunting",
+      "Penggaris"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Perforator standar kantor biasanya melubangi dengan 2 lubang."
+  },
+  {
+    "id": "MPLB_KE_14",
+    "pertanyaan": "Arsip yang disimpan karena memiliki nilai guna sebagai sejarah atau bukti pertanggungjawaban nasional disebut...",
+    "opsi": [
+      "Arsip Aktif",
+      "Arsip Inaktif",
+      "Arsip Umum",
+      "Arsip Statis",
+      "Arsip Khusus"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Arsip statis tidak dapat dimusnahkan dan harus diserahkan ke ANRI."
+  },
+  {
+    "id": "MPLB_KE_15",
+    "pertanyaan": "Jadwal yang menentukan berapa lama arsip harus disimpan sebelum disusutkan disebut...",
+    "opsi": [
+      "Daftar Hadir",
+      "Rencana Kerja",
+      "Buku Agenda",
+      "Buku Manual",
+      "Jadwal Retensi Arsip (JRA)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "JRA berfungsi sebagai pedoman legal pemusnahan atau pemindahan arsip."
+  },
+  {
+    "id": "MPLB_KE_16",
+    "pertanyaan": "Sistem penyimpanan berdasarkan tanggal transaksi atau tanggal pembuatan surat disebut...",
+    "opsi": [
+      "Sistem Kronologis",
+      "Sistem Alfabet",
+      "Sistem Wilayah",
+      "Sistem Urutan",
+      "Sistem Masalah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Disebut juga sistem tanggal, di mana Folder diberi nama bulan dan Guide diberi nama hari."
+  },
+  {
+    "id": "MPLB_KE_17",
+    "pertanyaan": "Indeks dari nama 'PT Bank Central Asia' untuk sistem abjad adalah...",
+    "opsi": [
+      "PT Bank Central Asia",
+      "Bank Central Asia, PT",
+      "Central Asia Bank, PT",
+      "Asia, Bank Central PT",
+      "BCA, PT"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Badan hukum/perusahaan diindeks dengan memindahkan status badan hukum (PT/CV) ke belakang."
+  },
+  {
+    "id": "MPLB_KE_18",
+    "pertanyaan": "Alat bantu untuk mempercepat pencarian kode atau lokasi arsip dalam sistem nomor/subjek disebut...",
+    "opsi": [
+      "Buku Induk",
+      "Buku Index",
+      "Jawaban B dan C benar",
+      "Daftar Klasifikasi Arsip",
+      "Guide Samping"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dalam sistem kompleks, dibutuhkan daftar klasifikasi untuk mengetahui kode setiap masalah."
+  },
+  {
+    "id": "MPLB_KE_19",
+    "pertanyaan": "Kartu yang diletakkan di tempat arsip yang sedang dipinjam oleh pihak lain sebagai tanda keluar disebut...",
+    "opsi": [
+      "In Slip",
+      "Credit Card",
+      "Member Card",
+      "Out Slip / Out Guide",
+      "ID Card"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lembar keluar (Out Slip) berfungsi untuk melacak keberadaan arsip yang tidak ada di rak."
+  },
+  {
+    "id": "MPLB_KE_20",
+    "pertanyaan": "Berapa persen tingkat penemuan kembali arsip yang dianggap standar manajemen perkantoran yang baik?",
+    "opsi": [
+      "50%",
+      "75%",
+      "90%",
+      "0%",
+      "100%"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Manajemen arsip yang sempurna harus mampu menemukan dokumen apapun yang dicari (100%)."
+  },
+  {
+    "id": "MPLB_KE_21",
+    "pertanyaan": "Kerusakan arsip akibat kelembaban udara yang tinggi biasanya berupa...",
+    "opsi": [
+      "Tumbuhnya jamur (fungi)",
+      "Kertas terbakar",
+      "Warna memudar",
+      "Kertas hilang",
+      "Tinta luntur"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penyimpanan arsip harus memiliki suhu dan kelembaban yang terjaga."
+  },
+  {
+    "id": "MPLB_KE_22",
+    "pertanyaan": "Sistem penyimpanan Terminal Digit merupakan pengembangan dari sistem...",
+    "opsi": [
+      "Sistem Abjad",
+      "Sistem Nomor",
+      "Sistem Wilayah",
+      "Sistem Tanggal",
+      "Sistem Subjek"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Terminal Digit menggunakan urutan nomor akhir sebagai penentu lokasi."
+  },
+  {
+    "id": "MPLB_KE_23",
+    "pertanyaan": "Asas kearsipan di mana seluruh dokumen satu organisasi disimpan di satu tempat/unit pusat disebut...",
+    "opsi": [
+      "Asas Desentralisasi",
+      "Asas Campuran",
+      "Asas Sentralisasi",
+      "Asas Bebas",
+      "Asas Rahasia"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sentralisasi memudahkan pengawasan namun bisa menghambat kecepatan akses unit kerja."
+  },
+  {
+    "id": "MPLB_KE_24",
+    "pertanyaan": "Seorang petugas arsip harus memiliki sifat teliti, rapi, dan jujur. Jabatan ini disebut...",
+    "opsi": [
+      "Resepsionis",
+      "Direktur",
+      "Humas",
+      "Arsiparis",
+      "Kurir"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Arsiparis adalah tenaga profesional di bidang pengelolaan arsip."
+  },
+  {
+    "id": "MPLB_KE_25",
+    "pertanyaan": "Arsip yang disimpan dalam bentuk data digital di server atau cloud disebut...",
+    "opsi": [
+      "Arsip Fisik",
+      "Arsip Analog",
+      "Arsip Lisan",
+      "Bukan Arsip",
+      "Arsip Elektronik (Softcopy)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Digitalisasi arsip menghemat ruang penyimpanan fisik secara signifikan."
+  },
+  {
+    "id": "MPLB_KE_26",
+    "pertanyaan": "Dalam sistem wilayah, jika surat dari Kota Surabaya dikelompokkan ke dalam Provinsi Jawa Timur, maka Jawa Timur berfungsi sebagai...",
+    "opsi": [
+      "Dasar Wilayah Utama",
+      "Unit",
+      "Sub-Unit",
+      "Kode Nomor",
+      "Tembusan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembagian wilayah berjenjang: Negara -> Provinsi -> Kota/Kabupaten."
+  },
+  {
+    "id": "MPLB_KE_27",
+    "pertanyaan": "Lemari arsip yang memiliki laci-laci yang ditarik ke depan secara horisontal disebut...",
+    "opsi": [
+      "Lateral Filing Cabinet",
+      "Vertical Filing Cabinet",
+      "Rak Terbuka",
+      "Lemari Besi",
+      "Box File"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Filing cabinet vertikal adalah yang paling umum digunakan di kantor."
+  },
+  {
+    "id": "MPLB_KE_28",
+    "pertanyaan": "Alat bantu untuk memindahkan arsip berat antar ruangan disebut...",
+    "opsi": [
+      "Lift",
+      "Tangga",
+      "Troli (Trolley)",
+      "Meja",
+      "Kursi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Troli menjaga keamanan dokumen saat mobilisasi dalam jumlah besar."
+  },
+  {
+    "id": "MPLB_KE_29",
+    "pertanyaan": "Asas kearsipan di mana masing-masing unit kerja mengelola arsipnya sendiri disebut...",
+    "opsi": [
+      "Asas Sentralisasi",
+      "Asas Gabungan",
+      "Asas Mandiri",
+      "Asas Desentralisasi",
+      "Asas Bebas"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Desentralisasi mempercepat akses dokumen bagi unit kerja terkait."
+  },
+  {
+    "id": "MPLB_KE_30",
+    "pertanyaan": "Pemusnahan arsip yang sudah tidak bernilai guna dilakukan dengan cara, KECUALI...",
+    "opsi": [
+      "Dicacah dengan mesin penghancur kertas",
+      "Dibakar di tempat aman",
+      "Dilarutkan secara kimia",
+      "Penjualan sebagai limbah kertas dengan pengawasan",
+      "Dibuang sembarangan di tempat sampah umum"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Membuang arsip sembarangan membahayakan kerahasiaan data organisasi."
+  },
+  {
+    "id": "MPLB_KE_31",
+    "pertanyaan": "Folder yang memiliki kaitan/pengait sehingga bisa digantung di laci filing cabinet disebut...",
+    "opsi": [
+      "Hanging Folder",
+      "Stopmap",
+      "Snelhechter",
+      "Ordner",
+      "Bapax"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Memudahkan penyusunan arsip secara rapi dan berdiri tegak."
+  },
+  {
+    "id": "MPLB_KE_32",
+    "pertanyaan": "Upaya untuk mengembalikan fisik arsip yang rusak (sobek, lapuk) ke kondisi semula disebut...",
+    "opsi": [
+      "Reproduksi",
+      "Restorasi",
+      "Digitalisasi",
+      "Fotokopi",
+      "Scanning"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Restorasi arsip membutuhkan teknik khusus seperti penggunaan kertas jepang atau laminasi."
+  },
+  {
+    "id": "MPLB_KE_33",
+    "pertanyaan": "Kriteria kearsipan 'Ekonomis' berarti...",
+    "opsi": [
+      "Hanya menyimpan dokumen tentang uang",
+      "Menghemat kertas",
+      "Biaya pengelolaan harus lebih murah dari harga dokumen",
+      "Memecat banyak karyawan arsip",
+      "Menjual dokumen kuno"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Biaya operasional kearsipan (alat, ruang, gaji) harus rasional sesuai manfaatnya."
+  },
+  {
+    "id": "MPLB_KE_34",
+    "pertanyaan": "Apa yang dimaksud dengan indeks nama orang 'Siti Aminah'?",
+    "opsi": [
+      "Siti Aminah",
+      "Aminah Siti",
+      "Siti, Aminah",
+      "Aminah, Siti",
+      "Ibu Siti Aminah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sistem indeks nama Indonesia mengutamakan nama belakang/marganya."
+  },
+  {
+    "id": "MPLB_KE_35",
+    "pertanyaan": "Dalam sistem Nomor Dewey, arsip dikelompokkan berdasarkan nomor...",
+    "opsi": [
+      "A - Z",
+      "Tanggal Lahir",
+      "Gaji Pegawai",
+      "No. KTP",
+      "000 - 999"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sistem Dewey adalah skema klasifikasi desimal yang sering digunakan di perpustakaan dan kantor pemerintah."
+  },
+  {
+    "id": "MPLB_KE_36",
+    "pertanyaan": "Sekat yang diletakkan paling depan pada laci arsip sebagai penanda kelompok besar disebut...",
+    "opsi": [
+      "Guide Primer",
+      "Guide Sekunder",
+      "Guide Tersier",
+      "Pembatas Buku",
+      "Label"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Guide Primer adalah navigasi utama dalam laci filing."
+  },
+  {
+    "id": "MPLB_KE_37",
+    "pertanyaan": "Proses mengubah file fisik (kertas) menjadi file PDF menggunakan mesin scan disebut...",
+    "opsi": [
+      "Fotokopi",
+      "Digitalisasi",
+      "Laminasi",
+      "Kliping",
+      "Pengarsipan Statis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Digitalisasi mempermudah pencarian (search) dan pengiriman data jarak jauh."
+  },
+  {
+    "id": "MPLB_KE_38",
+    "pertanyaan": "Istilah 'Finding Aids' berarti...",
+    "opsi": [
+      "Alat pengamanan arsip",
+      "Buku tamu arsip",
+      "Sarana bantu penemuan kembali (seperti indeks, katalog)",
+      "Kamera pengawas gudang",
+      "Lampu ruangan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sarana bantu sangat vital untuk memastikan waktu pencarian arsip tetap singkat."
+  },
+  {
+    "id": "MPLB_KE_39",
+    "pertanyaan": "Arsip yang berisi rekaman suara saja termasuk jenis arsip...",
+    "opsi": [
+      "Visual",
+      "Audio-Visual",
+      "Kartografi",
+      "Audio",
+      "Digital"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: rekaman rapat, rekaman telepon, atau kaset."
+  },
+  {
+    "id": "MPLB_KE_40",
+    "pertanyaan": "Faktor kimia yang dapat merusak arsip adalah...",
+    "opsi": [
+      "Kecoak dan Tikus",
+      "Rayap",
+      "Sinar matahari",
+      "Gempa bumi",
+      "Kandungan asam pada kertas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Asam dapat membuat kertas menjadi getas dan hancur seiring waktu."
+  },
+  {
+    "id": "MPLB_KE_41",
+    "pertanyaan": "Tempat penyimpanan arsip berupa lemari yang raknya dapat digeser-geser secara otomatis/manual disebut...",
+    "opsi": [
+      "Mobile File / Roll o'Pact",
+      "Rotary File",
+      "Filing Cabinet Biasa",
+      "Locker",
+      "Meja Kerja"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mobile file menghemat 50% ruang gudang karena tidak butuh banyak lorong antar rak."
+  },
+  {
+    "id": "MPLB_KE_42",
+    "pertanyaan": "Untuk sistem kronologis (tanggal), jika kita punya surat tanggal 15 Januari 2023. Unit 1-nya adalah...",
+    "opsi": [
+      "15",
+      "2023",
+      "Januari",
+      "Januari 2023",
+      "Surat"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dalam kearsipan kronologis, pilar utama pengelompokan adalah Tahun."
+  },
+  {
+    "id": "MPLB_KE_43",
+    "pertanyaan": "Yang termasuk arsip rahasia (Confidential) adalah...",
+    "opsi": [
+      "Undangan Rapat",
+      "Brosur Produk",
+      "Laporan Keuangan Internal Perusahaan",
+      "Pengumuman Libur",
+      "Majalah Kantor"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hanya pihak tertentu saja yang boleh mengakses arsip tersebut."
+  },
+  {
+    "id": "MPLB_KE_44",
+    "pertanyaan": "Tahap akhir dari siklus hidup arsip (life cycle of records) adalah...",
+    "opsi": [
+      "Penciptaan",
+      "Penggunaan",
+      "Penyimpanan",
+      "Penyusutan dan Pemusnahan",
+      "Pengepakan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Setiap dokumen pada akhirnya akan dimusnahkan atau masuk kategori statis."
+  },
+  {
+    "id": "MPLB_KE_45",
+    "pertanyaan": "Kartu indeks biasanya berukuran...",
+    "opsi": [
+      "A4",
+      "F4",
+      "100 cm x 100 cm",
+      "A0",
+      "12,5 cm x 7,5 cm"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ukuran standar kartu indeks memudahkan penyimpanan di dalam laci katalog (index card box)."
+  },
+  {
+    "id": "MPLB_KE_46",
+    "pertanyaan": "Jika arsip disusun berdasarkan nomor urut 0001, 0002. Ini disebut sistem...",
+    "opsi": [
+      "Nomor Berurutan (Serial Number)",
+      "Nomor Acak",
+      "Nomor Rahasia",
+      "Nomor Telepon",
+      "Nomor Kamar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sistem serial sangat praktis untuk dokumen seperti faktur atau kuitansi."
+  },
+  {
+    "id": "MPLB_KE_47",
+    "pertanyaan": "Salah satu kelebihan digitalisasi arsip adalah...",
+    "opsi": [
+      "Membutuhkan kado mahal",
+      "Akses simultan oleh banyak orang dari tempat berbeda",
+      "Kertas menjadi lebih berat",
+      "Server tidak butuh listrik",
+      "Aman dari virus selamanya"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kolaborasi menjadi lebih mudah karena file bisa dibuka bersamaan."
+  },
+  {
+    "id": "MPLB_KE_48",
+    "pertanyaan": "Proses menaruh arsip ke dalam folder dan laci yang tepat disebut...",
+    "opsi": [
+      "Labeling",
+      "Coding",
+      "Placing (Penempatan)",
+      "Sorting",
+      "Audit"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Inilah tahap akhir di mana dokumen 'istirahat' di rumahnya."
+  },
+  {
+    "id": "MPLB_KE_49",
+    "pertanyaan": "Istilah 'Retention Period' adalah...",
+    "opsi": [
+      "Masa berlakunya paspor",
+      "Waktu istirahat petugas",
+      "Lama waktu fotokopi",
+      "Masa simpan dokumen",
+      "Waktu tempuh surat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Retention period menentukan kapan sebuah arsip harus dipindahkan/dimusnahkan."
+  },
+  {
+    "id": "MPLB_KE_50",
+    "pertanyaan": "Dokumen yang berupa peta gedung dan denah lokasi termasuk jenis arsip...",
+    "opsi": [
+      "Audio",
+      "Elektronik",
+      "Statistik",
+      "Biografi",
+      "Kartografi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Arsip kartografi menyimpan data spasial dan geografis."
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "roadmap-cpns",
+  "title": "CPNS Roadmap",
+  "category": "CPNS",
+  "badge": "Career Track",
+  "highlight": "Struktur belajar TIU, TWK, TKP, lalu simulasi CAT penuh.",
+  "stages": [
+    {
+      "step": 1,
+      "title": "Pahami pola CAT CPNS",
+      "estimatedMinutes": 120,
+      "resources": [
+        "materi/CPNS/cpns_materi_lengkap.json"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Drill TIU, TWK, TKP",
+      "estimatedMinutes": 600,
+      "resources": [
+        "soal/CPNS/cpns_tiu_latihan.json",
+        "soal/CPNS/cpns_twk_latihan.json",
+        "soal/CPNS/cpns_tkp_latihan.json"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Bandingkan pola FR",
+      "estimatedMinutes": 180,
+      "resources": [
+        "fr_soal/CPNS/cpns2023_rekonstruksi.json",
+        "fr_soal/CPNS/cpns2024_rekonstruksi.json",
+        "fr_soal/CPNS/cpns2025_rekonstruksi.json"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Simulasi penuh",
+      "estimatedMinutes": 100,
+      "resources": [
+        "tryout/CPNS/cpns_tryout_master.json"
+      ]
+    }
+  ]
+}

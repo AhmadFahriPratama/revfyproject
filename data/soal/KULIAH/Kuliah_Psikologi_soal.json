@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_PS_01",
+    "pertanyaan": "Ilmu yang mempelajari perilaku manusia dan proses mental secara ilmiah disebut...",
+    "opsi": [
+      "Psikologi",
+      "Sosiologi",
+      "Antropologi",
+      "Filsafat",
+      "Biologi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Psikologi memfokuskan diri pada individu dan cara berpikir/berperilakunya."
+  },
+  {
+    "id": "KU_PS_02",
+    "pertanyaan": "Bapak Psikoanalisis yang mengemukakan konsep pikiran bawah sadar (id, ego, superego) adalah...",
+    "opsi": [
+      "Ivan Pavlov",
+      "Sigmund Freud",
+      "Carl Rogers",
+      "Jean Piaget",
+      "Wilhelm Wundt"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Freud meyakini perilaku manusia sangat dipengaruhi oleh konflik bawah sadar."
+  },
+  {
+    "id": "KU_PS_03",
+    "pertanyaan": "Tokoh behaviorisme yang terkenal dengan eksperimen 'Operant Conditioning' menggunakan kotak (Skinner Box) adalah...",
+    "opsi": [
+      "John Watson",
+      "Albert Bandura",
+      "B.F. Skinner",
+      "Abraham Maslow",
+      "William James"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Skinner fokus pada penguatan (reinforcement) dan hukuman (punishment) dalam belajar."
+  },
+  {
+    "id": "KU_PS_04",
+    "pertanyaan": "Aliran psikologi yang menekankan pada potensi manusia untuk tumbuh, aktualisasi diri, dan kebebasan memilih adalah aliran...",
+    "opsi": [
+      "Psikoanalisis",
+      "Behaviorisme",
+      "Kognitif",
+      "Humanistik",
+      "Gestalt"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tokoh utamanya adalah Abraham Maslow (Hierarki Kebutuhan) dan Carl Rogers."
+  },
+  {
+    "id": "KU_PS_05",
+    "pertanyaan": "Kebutuhan tertinggi dalam piramida Maslow yang merujuk pada pemenuhan potensi diri sepenuhnya adalah...",
+    "opsi": [
+      "Kebutuhan Fisiologis",
+      "Kebutuhan Keamanan",
+      "Kebutuhan Sosial",
+      "Harga Diri",
+      "Aktualisasi Diri (Self-Actualization)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Aktualisasi diri dicapai jika kebutuhan dasar di bawahnya sudah terpenuhi."
+  },
+  {
+    "id": "KU_PS_06",
+    "pertanyaan": "Jean Piaget adalah tokoh psikologi yang sangat berpengaruh dalam mempelajari...",
+    "opsi": [
+      "Perkembangan Kognitif anak",
+      "Gangguan Kepribadian",
+      "Hubungan Sosial",
+      "Insting hewan",
+      "Cara kerja otot"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Piaget membagi perkembangan kognitif menjadi 4 tahap: Sensorimotor, Praoperasional, Operasional Konkret, dan Operasional Formal."
+  },
+  {
+    "id": "KU_PS_07",
+    "pertanyaan": "Tahap perkembangan kognitif di mana anak mulai bisa berpikir logis terhadap objek nyata namun belum bisa berpikir abstrak sepenuhnya adalah tahap...",
+    "opsi": [
+      "Sensorimotor",
+      "Operasional Konkret",
+      "Praoperasional",
+      "Operasional Formal",
+      "Dewasa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Terjadi pada usia sekitar 7 hingga 11 tahun."
+  },
+  {
+    "id": "KU_PS_08",
+    "pertanyaan": "Erik Erikson mengemukakan teori tentang kedelapan tahap perkembangan...",
+    "opsi": [
+      "Moral",
+      "Psikoseksual",
+      "Psikososial",
+      "Fisik",
+      "Bahasa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Setiap tahap memiliki konflik emosional yang harus diselesaikan untuk perkembangan yang sehat."
+  },
+  {
+    "id": "KU_PS_09",
+    "pertanyaan": "Konflik psikososial yang dialami individu pada masa remaja (adolescence) menurut Erikson adalah...",
+    "opsi": [
+      "Trust vs Mistrust",
+      "Autonomy vs Doubt",
+      "Intimacy vs Isolation",
+      "Identity vs Role Confusion (Identitas vs Kebingungan Peran)",
+      "Generativity vs Stagnation"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Remaja mencari jati diri dan peran mereka di masyarakat."
+  },
+  {
+    "id": "KU_PS_10",
+    "pertanyaan": "Proses masuknya rangsang (cahaya, suara) melalui alat indra disebut...",
+    "opsi": [
+      "Persepsi",
+      "Memori",
+      "Atensi",
+      "Emosi",
+      "Sensasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sensasi adalah tahap awal penerimaan informasi mentah dari lingkungan."
+  },
+  {
+    "id": "KU_PS_11",
+    "pertanyaan": "Proses otak untuk mengorganisasi dan memberikan makna terhadap informasi yang diterima indra disebut...",
+    "opsi": [
+      "Persepsi",
+      "Sensasi",
+      "Ilusi",
+      "Halusinasi",
+      "Fobia"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Persepsi bersifat subjektif dan dipengaruhi oleh pengalaman masa lalu."
+  },
+  {
+    "id": "KU_PS_12",
+    "pertanyaan": "Kemampuan individu untuk memusatkan perhatian pada rangsang tertentu dan mengabaikan rangsang lainnya disebut...",
+    "opsi": [
+      "Sensasi",
+      "Atensi (Perhatian)",
+      "Memori",
+      "Motivasi",
+      "Agresi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Atensi selektif membantu kita fokus di lingkungan yang bising."
+  },
+  {
+    "id": "KU_PS_13",
+    "pertanyaan": "Sistem penyimpanan informasi dalam otak untuk jangka waktu yang sangat singkat (beberapa detik) disebut...",
+    "opsi": [
+      "Short-term Memory (STM)",
+      "Long-term Memory (LTM)",
+      "Sensory Memory",
+      "Flashback",
+      "Amnesia"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sensory memory bertahan sekejap sebelum berpindah ke memori jangka pendek atau dilupakan."
+  },
+  {
+    "id": "KU_PS_14",
+    "pertanyaan": "Strategi pengulangan informasi agar tetap bertahan di memori jangka pendek disebut...",
+    "opsi": [
+      "Retrieval",
+      "Encoding",
+      "Storage",
+      "Rehearsal",
+      "Forgetting"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: Mengulang-ulang nomor telepon dalam hati sebelum dicatat."
+  },
+  {
+    "id": "KU_PS_15",
+    "pertanyaan": "Gangguan psikologis yang ditandai dengan perasaan sedih yang mendalam, kehilangan minat, dan gangguan tidur dalam waktu lama disebut...",
+    "opsi": [
+      "Kecemasan (Anxiety)",
+      "Bipolar",
+      "Obsesif-Kompulsif",
+      "Fobia",
+      "Depresi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Depresi klinis memerlukan bantuan profesional (psikolog/psikiater)."
+  },
+  {
+    "id": "KU_PS_16",
+    "pertanyaan": "Kecenderungan untuk melakukan tindakan berulang (seperti mencuci tangan berkali-kali) karena adanya pikiran yang mengganggu disebut...",
+    "opsi": [
+      "OCD (Obsessive-Compulsive Disorder)",
+      "Fobia Sosial",
+      "Gangguan Panik",
+      "Post-Traumatic Stress Disorder",
+      "Narsistik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Obsesi (pikiran) memicu Kompulsi (tindakan berulang)."
+  },
+  {
+    "id": "KU_PS_17",
+    "pertanyaan": "Gangguan mental berat yang ditandai dengan delusi (keyakinan salah) dan halusinasi disebut...",
+    "opsi": [
+      "Depresi ringan",
+      "Skizofrenia",
+      "Insomnia",
+      "Disleksia",
+      "Autisme"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pasien skizofrenia seringkali terputus hubungannya dengan realitas."
+  },
+  {
+    "id": "KU_PS_18",
+    "pertanyaan": "Teori kepribadian 'Big Five' meliputi lima dimensi utama, yaitu...",
+    "opsi": [
+      "IQ, EQ, SQ, AQ, CQ",
+      "Id, Ego, Superego, Libido, Thanatos",
+      "Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism (OCEAN)",
+      "Melankolis, Sanguinis, Koleris, Flegmatis, Apatis",
+      "Introvert, Extrovert saja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Singkatan OCEAN memudahkan penghafalan lima dimensi kepribadian ini."
+  },
+  {
+    "id": "KU_PS_19",
+    "pertanyaan": "Individu yang mendapatkan energinya dari interaksi sosial dan dunia luar disebut memiliki kepribadian...",
+    "opsi": [
+      "Introvert",
+      "Ambivert",
+      "Neurotik",
+      "Extrovert",
+      "Melankolis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Extrovert cenderung menyukai keramaian dan antusias berbicara dengan orang baru."
+  },
+  {
+    "id": "KU_PS_20",
+    "pertanyaan": "Individu yang mendapatkan energinya dari refleksi diri dan waktu sendirian disebut memiliki kepribadian...",
+    "opsi": [
+      "Extrovert",
+      "Agresif",
+      "Manipulatif",
+      "Narsistik",
+      "Introvert"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Introvert lebih nyaman dalam lingkungan yang tenang dan berdiskusi mendalam."
+  },
+  {
+    "id": "KU_PS_21",
+    "pertanyaan": "Alat tes psikologi yang digunakan untuk mengukur tingkat kecerdasan intelektual seseorang adalah tes...",
+    "opsi": [
+      "Tes IQ (Intelligence Quotient)",
+      "Tes EPPS",
+      "Tes Grafis",
+      "Tes Wartegg",
+      "Tes MMPI"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tes IQ mengukur logika, spasial, memori, dan verbal."
+  },
+  {
+    "id": "KU_PS_22",
+    "pertanyaan": "Metode penelitian psikologi yang mengamati perilaku subjek secara langsung di lingkungan alaminya disebut...",
+    "opsi": [
+      "Eksperimen Laboratorium",
+      "Observasi Naturalistik",
+      "Survei Online",
+      "Wawancara Klinis",
+      "Studi Kasus"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Peneliti berusaha agar keberadaannya tidak mengubah perilaku alami subjek."
+  },
+  {
+    "id": "KU_PS_23",
+    "pertanyaan": "Prinsip etika di mana identitas subjek penelitian harus dirahasiakan disebut...",
+    "opsi": [
+      "Debriefing",
+      "Informed Consent",
+      "Konfidensialitas (Kerahasiaan)",
+      "Plagiarisme",
+      "Manipulasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Penting untuk perlindungan privasi individu dalam jasa psikologi."
+  },
+  {
+    "id": "KU_PS_24",
+    "pertanyaan": "Apa itu 'Body Language' (Bahasa Tubuh) dalam komunikasi non-verbal?",
+    "opsi": [
+      "Bahasa isyarat resmi",
+      "Suara teriakan",
+      "Tulisan tangan",
+      "Pesan yang dikirimkan melalui gerak-gerik, ekspresi wajah, postur, dan kontak mata",
+      "Cara memakai baju"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lebih dari 60% komunikasi manusia dilakukan secara non-verbal."
+  },
+  {
+    "id": "KU_PS_25",
+    "pertanyaan": "Kondisi kelelahan fisik, mental, dan emosional akibat stres pekerjaan yang berkepanjangan disebut...",
+    "opsi": [
+      "Euforia",
+      "Ambisi",
+      "Motivasi",
+      "Relaksasi",
+      "Burnout"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Burnout sering dialami pekerja dengan tuntutan tinggi atau monoton."
+  },
+  {
+    "id": "KU_PS_26",
+    "pertanyaan": "Keahlian individu untuk mengenali, memahami, dan mengelola emosi diri sendiri serta orang lain disebut...",
+    "opsi": [
+      "EQ (Emotional Intelligence)",
+      "IQ",
+      "SQ",
+      "AQ",
+      "Logika"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kecerdasan emosional sangat penting untuk kepemimpinan dan hubungan sosial."
+  },
+  {
+    "id": "KU_PS_27",
+    "pertanyaan": "Fenomena di mana seseorang cenderung mengikuti pendapat atau perilaku kelompok agar diterima disebut...",
+    "opsi": [
+      "Altruisme",
+      "Konformitas",
+      "Agresi",
+      "Prasangka",
+      "Stereotipe"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Konformitas bisa bersifat positif (norma hukum) atau negatif (tekanan teman sebaya)."
+  },
+  {
+    "id": "KU_PS_28",
+    "pertanyaan": "Tindakan menolong orang lain tanpa mengharapkan imbalan apa pun disebut...",
+    "opsi": [
+      "Egoisme",
+      "Narsisme",
+      "Altruisme",
+      "Sosiopati",
+      "Kreativitas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Altruisme adalah dasar dari perilaku prososial."
+  },
+  {
+    "id": "KU_PS_29",
+    "pertanyaan": "Penilaian negatif yang belum teruji kebenarannya terhadap suatu kelompok orang berdasarkan suku, ras, atau agama disebut...",
+    "opsi": [
+      "Toleransi",
+      "Empati",
+      "Simpati",
+      "Prasangka (Prejudice)",
+      "Asimilasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Prasangka seringkali merupakan hasil dari stereotipe yang keliru."
+  },
+  {
+    "id": "KU_PS_30",
+    "pertanyaan": "Kemampuan untuk merasakan apa yang dirasakan orang lain dan melihat dari sudut pandang mereka disebut...",
+    "opsi": [
+      "Apatis",
+      "Simpati",
+      "Antipati",
+      "Iri hati",
+      "Empati"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Empati adalah fondasi dari hubungan interpersonal yang sehat."
+  },
+  {
+    "id": "KU_PS_31",
+    "pertanyaan": "Metode terapi bicara (psikoterapi) yang fokus pada mengubah pola pikir negatif yang memicu perilaku buruk disebut...",
+    "opsi": [
+      "CBT (Cognitive Behavioral Therapy)",
+      "Terapi Musik",
+      "Terapi Listrik",
+      "Hipnoterapi",
+      "Terapi Kimia"
+    ],
+    "jawaban": 0,
+    "pembahasan": "CBT terbukti sangat efektif untuk mengatasi kecemasan dan depresi."
+  },
+  {
+    "id": "KU_PS_32",
+    "pertanyaan": "Dalam psikologi, 'Self-Esteem' merujuk pada...",
+    "opsi": [
+      "Berapa banyak uang yang dimiliki",
+      "Harga diri atau penilaian seseorang terhadap nilai dirinya sendiri",
+      "Kepintaran akademik",
+      "Pakaian yang digunakan",
+      "Jumlah teman"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Self-esteem yang sehat membangun kepercayaan diri."
+  },
+  {
+    "id": "KU_PS_33",
+    "pertanyaan": "Keyakinan seseorang terhadap kemampuannya untuk berhasil melakukan suatu tugas tertentu disebut...",
+    "opsi": [
+      "Self-Effacacy",
+      "Self-Awareness",
+      "Self-Efficacy",
+      "Self-Concept",
+      "Self-Confidence"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Albert Bandura adalah tokoh yang memperkenalkan konsep Self-Efficacy."
+  },
+  {
+    "id": "KU_PS_34",
+    "pertanyaan": "Gangguan belajar di mana individu memiliki kesulitan dalam membaca, mengeja, atau mengenali kata-kata disebut...",
+    "opsi": [
+      "Dis kalkulia",
+      "Disgrafia",
+      "Autisme",
+      "Disleksia",
+      "ADHD"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Disleksia tidak ada hubungannya dengan tingkat kecerdasan rendah."
+  },
+  {
+    "id": "KU_PS_35",
+    "pertanyaan": "Gangguan perkembangan yang ditandai dengan kurangnya rentang perhatian, hiperaktivitas, dan impulsivitas disebut...",
+    "opsi": [
+      "Autisme",
+      "Retardasi Mental",
+      "Demensia",
+      "Parkinson",
+      "ADHD (Attention Deficit Hyperactivity Disorder)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Anak dengan ADHD seringkali sulit fokus dalam waktu lama."
+  },
+  {
+    "id": "KU_PS_36",
+    "pertanyaan": "Ketakutan yang berlebihan dan tidak rasional terhadap suatu benda atau situasi tertentu disebut...",
+    "opsi": [
+      "Fobia",
+      "Panik",
+      "Trauma",
+      "Misteri",
+      "Apresiasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Fobia bisa berupa takut ketinggian (akrofobia), ruang sempit (klaustrofobia), dll."
+  },
+  {
+    "id": "KU_PS_37",
+    "pertanyaan": "Fenomena di mana seseorang lupa ingatan akibat trauma fisik atau psikis disebut...",
+    "opsi": [
+      "Delusi",
+      "Amnesia",
+      "Dejavu",
+      "Fatamorgana",
+      "Ilusi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Amnesia bisa bersifat sementara atau permanen."
+  },
+  {
+    "id": "KU_PS_38",
+    "pertanyaan": "Respon tubuh dan pikiran terhadap tuntutan atau ancaman dari lingkungan disebut...",
+    "opsi": [
+      "Relaksasi",
+      "Motivasi",
+      "Stres",
+      "Ambisi",
+      "Konsentrasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Stres dalam kadar sedang (eustress) bisa memotivasi, namun stres berlebih (distress) merusak."
+  },
+  {
+    "id": "KU_PS_39",
+    "pertanyaan": "Teknik pernapasan atau meditasi yang dilakukan untuk mengurangi stres dan menenangkan pikiran disebut teknik...",
+    "opsi": [
+      "Stimulasi",
+      "Agitasi",
+      "Manipulasi",
+      "Relaksasi",
+      "Komunikasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Relaksasi menurunkan kadar hormon stres (kortisol) di tubuh."
+  },
+  {
+    "id": "KU_PS_40",
+    "pertanyaan": "Zat kimia di otak yang bertugas membawa sinyal antar saraf disebut...",
+    "opsi": [
+      "Hormon",
+      "Enzim",
+      "Vitamin",
+      "Antibodi",
+      "Neurotransmitter (seperti Dopamin, Serotonin)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kadar neurotransmitter yang tidak seimbang sering dikaitkan dengan gangguan mental."
+  },
+  {
+    "id": "KU_PS_41",
+    "pertanyaan": "Ketidakmampuan secara medis untuk memulai atau mempertahankan tidur disebut...",
+    "opsi": [
+      "Insomnia",
+      "Hipersomnia",
+      "Somnambulisme",
+      "Narcolepsi",
+      "Sleep Apnea"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Insomnia dapat memperburuk kondisi kesehatan mental lainnya."
+  },
+  {
+    "id": "KU_PS_42",
+    "pertanyaan": "Studi kasus (Case Study) dalam psikologi adalah metode penelitian yang dilakukan dengan cara...",
+    "opsi": [
+      "Memberikan angket ke 1000 orang",
+      "Mempelajari satu individu atau satu kelompok kecil secara mendalam dalam waktu lama",
+      "Eksperimen di laboratorium",
+      "Membaca buku sejarah",
+      "Menebak kepribadian lewat wajah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Memberikan gambaran detail mengenai fenomena yang unik."
+  },
+  {
+    "id": "KU_PS_43",
+    "pertanyaan": "Tes Proyektif yang menggunakan bercak tinta sebagai stimulus untuk mengetahui kepribadian subjek adalah...",
+    "opsi": [
+      "Tes IQ",
+      "Tes TOEFL",
+      "Tes Rorschach",
+      "Tes Kesehatan",
+      "Tes Mengemudi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Interpretasi seseorang terhadap bercak tinta mencerminkan dunia bawah sadarnya."
+  },
+  {
+    "id": "KU_PS_44",
+    "pertanyaan": "Dalam dunia kerja tingkat universitas, bidang psikologi yang mempelajari perilaku manusia di organisasi/pabrik disebut...",
+    "opsi": [
+      "Psikologi Klinis",
+      "Psikologi Pendidikan",
+      "Psikologi Forensik",
+      "Psikologi Industri dan Organisasi (PIO)",
+      "Psikologi Olahraga"
+    ],
+    "jawaban": 3,
+    "pembahasan": "PIO fokus pada rekrutmen, pelatihan, kepuasan kerja, dan kepemimpinan."
+  },
+  {
+    "id": "KU_PS_45",
+    "pertanyaan": "Ahli kesehatan mental yang berhak memberikan resep obat karena memiliki latar belakang pendidikan kedokteran adalah...",
+    "opsi": [
+      "Psikolog",
+      "Konselor",
+      "Guru BK",
+      "Perawat",
+      "Psikiater"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Psikiater menangani sisi biologis gangguan mental melalui obat (farmakoterapi)."
+  },
+  {
+    "id": "KU_PS_46",
+    "pertanyaan": "Praktisi yang memberikan konseling dan terapi melalui metode bicara namun tidak berhak meresepkan obat medis adalah...",
+    "opsi": [
+      "Psikolog",
+      "Apoteker",
+      "Dokter Bedah",
+      "Radiolog",
+      "Saraf"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Psikolog menangani sisi perilaku, emosi, dan kognitif pasien."
+  },
+  {
+    "id": "KU_PS_47",
+    "pertanyaan": "Perilaku merusak benda atau menyakiti orang lain secara sengaja disebut perilaku...",
+    "opsi": [
+      "Asertif",
+      "Agresi",
+      "Pasif",
+      "Protektif",
+      "Adaptif"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Agresi bisa bersifat fisik, verbal, atau relasional (gosip)."
+  },
+  {
+    "id": "KU_PS_48",
+    "pertanyaan": "Kemampuan individu untuk bangkit kembali dan tetap bertahan meskipun mengalami kegagalan atau kesulitan hidup yang berat disebut...",
+    "opsi": [
+      "Kerapuhan",
+      "Introvert",
+      "Resiliensi",
+      "Halusinasi",
+      "Obsesi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Resiliensi adalah bentuk ketangguhan mental."
+  },
+  {
+    "id": "KU_PS_49",
+    "pertanyaan": "Tindakan memperlakukan orang lain secara berbeda atau tidak adil karena prasangka kelompoknya disebut...",
+    "opsi": [
+      "Asimilasi",
+      "Sosialisasi",
+      "Akulturasi",
+      "Diskriminasi",
+      "Definisi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Diskriminasi adalah wujud nyata atau perilaku dari prasangka."
+  },
+  {
+    "id": "KU_PS_50",
+    "pertanyaan": "Tujuan mempelajari psikologi tingkat sarjana adalah...",
+    "opsi": [
+      "Membaca pikiran orang lain layaknya dukun",
+      "Untuk menghakimi orang lain",
+      "Supaya jadi sombong punyai ilmu",
+      "Menghilangkan memori buruk selamanya",
+      "Memahami perilaku manusia secara objektif dan mampu memberikan bantuan kesejahteraan mental"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Psikologi adalah ilmu pengetahuan sosial yang berlandaskan data dan metode ilmiah."
+  }
+]

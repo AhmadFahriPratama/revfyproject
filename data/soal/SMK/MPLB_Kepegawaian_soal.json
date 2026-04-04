@@ -1,0 +1,652 @@
+[
+  {
+    "id": "MPLB_KEP_01",
+    "pertanyaan": "Fungsi teknis kepegawaian yang berkaitan dengan penarikan calon pegawai disebut...",
+    "opsi": [
+      "Pengadaan (Rekrutmen)",
+      "Perencanaan",
+      "Pengembangan",
+      "Kompensasi",
+      "Pemberhentian"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pengadaan adalah proses mencari dan menarik calon pegawai yang memiliki kompetensi sesuai jabatan."
+  },
+  {
+    "id": "MPLB_KEP_02",
+    "pertanyaan": "Analisis jabatan terdiri dari dua bagian utama, yaitu...",
+    "opsi": [
+      "Gaji dan Tunjangan",
+      "Job Description dan Job Specification",
+      "Masuk dan Keluar",
+      "Izin dan Cuti",
+      "Pangkat dan Golongan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Job description berisi rincian tugas, sedangkan job specification berisi syarat kualifikasi orang yang mengisi jabatan."
+  },
+  {
+    "id": "MPLB_KEP_03",
+    "pertanyaan": "Daftar susunan nama pegawai yang ada dalam suatu organisasi disebut...",
+    "opsi": [
+      "Struktur Organisasi",
+      "Inventaris Penjualan",
+      "Bezetting (Formasi)",
+      "Daftar Hadir",
+      "Buku Besar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Bezetting menunjukkan jumlah pegawai yang ada dibanding dengan jumlah formasi yang dibutuhkan."
+  },
+  {
+    "id": "MPLB_KEP_04",
+    "pertanyaan": "Batas usia pensiun bagi Pegawai Negeri Sipil (PNS) pada tingkat jabatan fungsional ahli pertama umumnya adalah...",
+    "opsi": [
+      "50 Tahun",
+      "55 Tahun",
+      "60 Tahun",
+      "58 Tahun",
+      "70 Tahun"
+    ],
+    "jawaban": 3,
+    "pembahasan": "UU ASN menetapkan batas usia pensiun pejabat administrasi adalah 58 tahun."
+  },
+  {
+    "id": "MPLB_KEP_05",
+    "pertanyaan": "Orientasi pegawai baru bertujuan untuk...",
+    "opsi": [
+      "Memberikan gaji pertama",
+      "Melakukan pemecatan sepihak",
+      "Menghukum pegawai",
+      "Mengurangi jumlah aset",
+      "Mengenalkan budaya kerja, lingkungan, dan rekan kerja"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Orientasi membantu pegawai baru beradaptasi agar dapat segera bekerja secara efektif."
+  },
+  {
+    "id": "MPLB_KEP_06",
+    "pertanyaan": "Sumpah/Janji Pegawai merupakan bentuk komitmen pegawai terhadap...",
+    "opsi": [
+      "Negara dan Instansi",
+      "Keluarga",
+      "Teman sejawat saja",
+      "Saingan bisnis",
+      "Diri sendiri saja"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sumpah janji adalah pernyataan kesetiaan dan ketaatan dalam menjalankan tugas."
+  },
+  {
+    "id": "MPLB_KEP_07",
+    "pertanyaan": "Daftar Penilaian Pelaksanaan Pekerjaan (DP3) merupakan instrumen untuk...",
+    "opsi": [
+      "Menerima pegawai baru",
+      "Menilai kinerja pegawai dalam satu periode (tahun)",
+      "Menghitung pajak",
+      "Merekap absensi",
+      "Membayar hutang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penilaian ini menjadi dasar pertimbangan kenaikan pangkat atau promosi."
+  },
+  {
+    "id": "MPLB_KEP_08",
+    "pertanyaan": "Tunjangan yang diberikan karena adanya risiko pekerjaan yang berbahaya disebut...",
+    "opsi": [
+      "Tunjangan Hari Raya",
+      "Tunjangan Makan",
+      "Tunjangan Risiko / Bahaya",
+      "Tunjangan Keluarga",
+      "Tunjangan Jabatan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Diberikan kepada pegawai yang bekerja di lingkungan berbahaya (lab nuklir, ketinggian, dll)."
+  },
+  {
+    "id": "MPLB_KEP_09",
+    "pertanyaan": "Mutasi pegawai yang dilakukan dengan memindahkan ke jabatan yang setingkat disebut...",
+    "opsi": [
+      "Promosi",
+      "Demosi",
+      "PHK",
+      "Rotasi / Horizontal Transfer",
+      "Pensiun"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bertujuan untuk penyegaran (tour of duty) agar pegawai tidak jenuh."
+  },
+  {
+    "id": "MPLB_KEP_10",
+    "pertanyaan": "Perpindahan pegawai ke jabatan yang lebih tinggi disertai kenaikan tanggung jawab dan gaji disebut...",
+    "opsi": [
+      "Rotasi",
+      "Demosi",
+      "Resign",
+      "Mutasi",
+      "Promosi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Promosi adalah bentuk penghargaan (reward) atas prestasi kerja."
+  },
+  {
+    "id": "MPLB_KEP_11",
+    "pertanyaan": "Sanksi terberat dalam manajemen disiplin pegawai adalah...",
+    "opsi": [
+      "Pemberhentian tidak dengan hormat",
+      "Teguran lisan",
+      "Teguran tertulis",
+      "Penundaan gaji",
+      "Penurunan pangkat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Biasanya dilakukan jika pegawai terbukti melakukan pelanggaran hukum berat (korupsi/pidana)."
+  },
+  {
+    "id": "MPLB_KEP_12",
+    "pertanyaan": "Pihak yang bertanggung jawab mengasuransikan pegawainya untuk jaminan kecelakaan kerja adalah...",
+    "opsi": [
+      "Pegawai itu sendiri",
+      "Perusahaan / Pemberi Kerja",
+      "Keluarga pegawai",
+      "Masyarakat",
+      "Kepala Desa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Merupakan amanat UU melalui sistem BPJS Ketenagakerjaan."
+  },
+  {
+    "id": "MPLB_KEP_13",
+    "pertanyaan": "Apa kepanjangan dari K3?",
+    "opsi": [
+      "Keamanan, Kesehatan, Keselarasan",
+      "Ketertiban Kerja Kantor",
+      "Kesehatan dan Keselamatan Kerja",
+      "Kerapihan, Kecepatan, Ketepatan",
+      "Kebijakan Kerja Kolektif"
+    ],
+    "jawaban": 2,
+    "pembahasan": "K3 bertujuan melindungi tenaga kerja dari risiko kecelakaan dan penyakit akibat kerja."
+  },
+  {
+    "id": "MPLB_KEP_14",
+    "pertanyaan": "Berikut ini yang termasuk cuti di luar tanggungan negara bagi PNS adalah...",
+    "opsi": [
+      "Cuti Sakit",
+      "Cuti Melahirkan",
+      "Cuti Tahunan",
+      "Cuti di Luar Tanggungan Negara (CLTN)",
+      "Cuti Bersama"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Selama CLTN, pegawai tidak menerima gaji atau fasilitas lainnya."
+  },
+  {
+    "id": "MPLB_KEP_15",
+    "pertanyaan": "Buku yang berisi data riwayat setiap pegawai secara detail disebut...",
+    "opsi": [
+      "Buku Agenda",
+      "Buku Inventaris",
+      "Buku Kas",
+      "Buku Tamu",
+      "Buku Induk Pegawai"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Buku induk merupakan database fisik kepegawaian paling komprehensif."
+  },
+  {
+    "id": "MPLB_KEP_16",
+    "pertanyaan": "Sistem penggajian yang didasarkan pada lama waktu bekerja tanpa melihat prestasi disebut...",
+    "opsi": [
+      "Sistem Skala Tunggal / Senioritas",
+      "Sistem Prestasi",
+      "Sistem Bonus",
+      "Sistem Borongan",
+      "Sistem Komisi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Semakin lama bekerja, gaji semakin tinggi meskipun produktivitas mungkin menurun."
+  },
+  {
+    "id": "MPLB_KEP_17",
+    "pertanyaan": "Sistem penggajian yang didasarkan pada hasil kerja yang dicapai disebut...",
+    "opsi": [
+      "Sistem Waktu",
+      "Sistem Merit / Prestasi",
+      "Sistem Senioritas",
+      "Sistem Hibah",
+      "Sistem Kekeluargaan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Gaji diberikan secara adil berdasarkan kontribusi nyata pegawai."
+  },
+  {
+    "id": "MPLB_KEP_18",
+    "pertanyaan": "Apa itu DUPAK bagi seorang pejabat fungsional?",
+    "opsi": [
+      "Daftar Usulan Gaji",
+      "Dokumen Utang Pegawai",
+      "Daftar Usulan Penetapan Angka Kredit",
+      "Data Ucapan Kasih Sayang",
+      "Daftar Unit Pelaksana Kantor"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Digunakan untuk menghitung poin prestasi guna kenaikan pangkat pejabat fungsional (guru, dosen, perawat, dll)."
+  },
+  {
+    "id": "MPLB_KEP_19",
+    "pertanyaan": "Proses pencarian calon pegawai dari dalam perusahaan sendiri disebut...",
+    "opsi": [
+      "Rekrutmen Eksternal",
+      "Outsourcing",
+      "Headhunting",
+      "Rekrutmen Internal",
+      "Magang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Internal rekrutmen memberikan motivasi bagi karyawan lama untuk naik jabatan."
+  },
+  {
+    "id": "MPLB_KEP_20",
+    "pertanyaan": "Apa itu Outsourcing?",
+    "opsi": [
+      "Pegawai tetap perusahaan",
+      "Pemilik perusahaan",
+      "Keluarga pemilik",
+      "Pegawai magang sekolah",
+      "Penggunaan tenaga kerja dari pihak ketiga (penyedia jasa)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tenaga alih daya biasanya untuk pekerjaan pendukung (keamanan, kebersihan, dll)."
+  },
+  {
+    "id": "MPLB_KEP_21",
+    "pertanyaan": "Dalam surat lamaran kerja, Curriculum Vitae (CV) berfungsi sebagai...",
+    "opsi": [
+      "Daftar riwayat hidup dan ringkasan kualifikasi diri",
+      "Surat cinta",
+      "Bukti pembayaran",
+      "Izin orang tua",
+      "Janji setia"
+    ],
+    "jawaban": 0,
+    "pembahasan": "CV adalah dokumen marketing diri bagi pelamar kerja."
+  },
+  {
+    "id": "MPLB_KEP_22",
+    "pertanyaan": "Wawancara kerja bertujuan untuk...",
+    "opsi": [
+      "Menghina pelamar",
+      "Menilai kepribadian, cara bicara, dan kecocokan pelamar dengan budaya kerja",
+      "Memberikan gaji langsung",
+      "Menghitung jumlah bulu mata pelamar",
+      "Melihat ketahanan fisik lari maraton"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Interaksi langsung untuk memvalidasi data yang tertulis di CV."
+  },
+  {
+    "id": "MPLB_KEP_23",
+    "pertanyaan": "Salah satu syarat administrasi saat melamar kerja adalah SKCK. Apa kepanjangannya?",
+    "opsi": [
+      "Surat Keterangan Cek Kesehatan",
+      "Surat Kuasa Cek Karakter",
+      "Surat Keterangan Catatan Kepolisian",
+      "Surat Keputusan Cepat Kerja",
+      "Surat Keterampilan Cara Kerja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Membuktikan pelamar tidak sedang terlibat kasus pidana atau perilaku kriminal."
+  },
+  {
+    "id": "MPLB_KEP_24",
+    "pertanyaan": "Asas pengelolaan administrasi kepegawaian yang objektif artinya...",
+    "opsi": [
+      "Berdasarkan rasa suka/tidak suka (like and dislike)",
+      "Hanya untuk keluarga direktur",
+      "Hanya untuk yang membayar uang pelicin",
+      "Berdasarkan prestasi dan fakta tanpa memandang kedekatan personal",
+      "Sesuai ramalan bintang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Objektivitas menjamin keadilan di tempat kerja."
+  },
+  {
+    "id": "MPLB_KEP_25",
+    "pertanyaan": "Penerimaan gratifikasi (pemberian hadiah) bagi pegawai pemerintah sangat dilarang karena...",
+    "opsi": [
+      "Barang hadiah bisa rusak",
+      "Membuat tas pegawai penuh",
+      "Dilarang oleh dokter",
+      "Pajaknya mahal",
+      "Menimbulkan konflik kepentingan dan berpotensi suap/korupsi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Etika pegawai harus bersih dari pengaruh pemberian pihak luar."
+  },
+  {
+    "id": "MPLB_KEP_26",
+    "pertanyaan": "Dokumen yang dikeluarkan instansi untuk menugaskan pegawai bepergian dinas disebut...",
+    "opsi": [
+      "Surat Perintah Perjalanan Dinas (SPPD)",
+      "Paspor",
+      "STNK",
+      "Tiket Pesawat",
+      "Faktur Perjalanan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "SPPD menjadi dasar pencairan biaya perjalanan dinas."
+  },
+  {
+    "id": "MPLB_KEP_27",
+    "pertanyaan": "Pemberhentian pegawai karena alasan ekonomi perusahaan (pengurangan karyawan) disebut...",
+    "opsi": [
+      "Resign",
+      "Retrenchment / Rasionalisasi",
+      "Pensiun",
+      "Mutasi",
+      "Promosi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sering terjadi saat kondisi ekonomi sedang lesu atau krisis."
+  },
+  {
+    "id": "MPLB_KEP_28",
+    "pertanyaan": "Uang yang diberikan kepada pegawai saat pensiun sebagai jaminan hari tua disebut...",
+    "opsi": [
+      "Bonus Tahunan",
+      "Uang Makan",
+      "Uang Pensiun / Tunjangan Hari Tua (THT)",
+      "Gaji Pokok",
+      "Zakat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dikelola oleh lembaga seperti TASPEN (bagi PNS) atau BPJS TK / Dana Pensiun Swasta."
+  },
+  {
+    "id": "MPLB_KEP_29",
+    "pertanyaan": "Kartu Pegawai (Karpeg) berfungsi sebagai...",
+    "opsi": [
+      "Kartu ATM",
+      "Kartu bermain game",
+      "Tiket parkir gratis seumur hidup",
+      "Identitas resmi sebagai pegawai di suatu instansi",
+      "Kartu diskon belanja di pasar"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Membuktikan status keanggotaan dalam organisasi."
+  },
+  {
+    "id": "MPLB_KEP_30",
+    "pertanyaan": "Pelatihan pegawai (Training) penting dilakukan agar...",
+    "opsi": [
+      "Pegawai bisa tidur di kelas",
+      "Perusahaan bisa menghabiskan sisa dana",
+      "Pegawai lupa cara bekerja lama",
+      "Supaya ada alasan jalan-jalan",
+      "Meningkatkan keterampilan dan produktivitas sesuai perkembangan zaman"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Skill pegawai harus terus diperbarui agar kompetitif (up-skilling)."
+  },
+  {
+    "id": "MPLB_KEP_31",
+    "pertanyaan": "Induk organisasi bagi aparatur sipil negara di Indonesia (Korps PNS) adalah...",
+    "opsi": [
+      "KORPRI",
+      "PGRI",
+      "IDI",
+      "PWI",
+      "OSIS"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Wadah persatuan dan pengembangan profesi pegawai negeri."
+  },
+  {
+    "id": "MPLB_KEP_32",
+    "pertanyaan": "Sistem informasi digital yang mengelola data kepegawaian disebut...",
+    "opsi": [
+      "SIMBADA",
+      "SIMPEG (Sistem Informasi Manajemen Kepegawaian)",
+      "SIM-C",
+      "Excel Manual",
+      "Buku Besar"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Digitalisasi data mempercepat pelayanan (kenaikan pangkat, cuti, dll)."
+  },
+  {
+    "id": "MPLB_KEP_33",
+    "pertanyaan": "Manakah yang merupakan kewajiban pegawai?",
+    "opsi": [
+      "Menerima Gaji",
+      "Mendapat fasilitas kesehatan",
+      "Masuk kerja tepat waktu dan menjalankan tugas dengan baik",
+      "Mendapat hak cuti",
+      "Mendapat THR"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kewajiban harus didahulukan sebelum menuntut hak."
+  },
+  {
+    "id": "MPLB_KEP_34",
+    "pertanyaan": "Pemberian Surat Peringatan (SP) biasanya dilakukan secara berurutan mulai dari...",
+    "opsi": [
+      "SP 3 -> SP 1",
+      "Langsung SP 3",
+      "SP Lisan",
+      "SP 1 -> SP 2 -> SP 3",
+      "SP Rahasia"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bentuk pembinaan agar pegawai sadar dan memperbaiki kesalahannya."
+  },
+  {
+    "id": "MPLB_KEP_35",
+    "pertanyaan": "Pegawai PNS yang pindah dari satu daerah ke tingkat pusat disebut mutasi...",
+    "opsi": [
+      "Jabatan",
+      "Unit Kerja",
+      "Promosi",
+      "Demosi",
+      "Antar Instansi / Wilayah"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Memerlukan persetujuan BKN dan instansi asal/tujuan."
+  },
+  {
+    "id": "MPLB_KEP_36",
+    "pertanyaan": "Daftar hadir yang menggunakan sidik jari atau wajah disebut...",
+    "opsi": [
+      "Absen Biometrik",
+      "Absen Manual",
+      "Absen Suara",
+      "Laporan Harian",
+      "Buku Catatan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mencegah kecurangan titip absen (titip tanda tangan)."
+  },
+  {
+    "id": "MPLB_KEP_37",
+    "pertanyaan": "Besaran Gaji Pokok bagi PNS diatur berdasarkan...",
+    "opsi": [
+      "Warna baju",
+      "Pangkat, Golongan, dan Masa Kerja",
+      "Hobi",
+      "Alamat rumah",
+      "Jumlah anak saja"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Struktur gaji PNS baku secara nasional sesuai Peraturan Pemerintah."
+  },
+  {
+    "id": "MPLB_KEP_38",
+    "pertanyaan": "Tindakan indisipliner 'Mangkir' artinya...",
+    "opsi": [
+      "Makan di kantor",
+      "Bekerja lembur",
+      "Tidak masuk kerja tanpa alasan yang sah",
+      "Sakit parah",
+      "Salah ketik nama bos"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mangkir bisa berujung pada pemotongan gaji atau sanksi disiplin."
+  },
+  {
+    "id": "MPLB_KEP_39",
+    "pertanyaan": "Dalam rekrutmen, Tes Psikologi (Psikotes) digunakan untuk...",
+    "opsi": [
+      "Melihat kekuatan otot",
+      "Menghitung saldo bank pelamar",
+      "Melihat kemampuan menyanyi",
+      "Mengetahui bakat, minat, dan karakteristik psikologis pelamar",
+      "Melihat status pernikahan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sangat penting untuk posisi yang membutuhkan daya tahan mental tinggi."
+  },
+  {
+    "id": "MPLB_KEP_40",
+    "pertanyaan": "Apa itu 'Job Hunting'?",
+    "opsi": [
+      "Hobi berburu dihutan",
+      "Proses memecat karyawan",
+      "Membeli kantor baru",
+      "Memberikan gaji buta",
+      "Proses mencari pekerjaan oleh calon pelamar"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kegiatan rutin bagi mereka yang sedang mencari peluang karier baru."
+  },
+  {
+    "id": "MPLB_KEP_41",
+    "pertanyaan": "Surat yang menyatakan keaslian ijazah lamaran kerja disebut...",
+    "opsi": [
+      "Legalisir",
+      "Surat Kuasa",
+      "Faktur",
+      "Kuitansi",
+      "Surat Jalur"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Legalisir membuktikan dokumen salinan sesuai dengan aslinya."
+  },
+  {
+    "id": "MPLB_KEP_42",
+    "pertanyaan": "Berapa hari jatah cuti tahunan minimal bagi karyawan swasta sesuai UU Cipta Kerja setelah bekerja setahun?",
+    "opsi": [
+      "3 Hari Kerja",
+      "12 Hari Kerja",
+      "30 Hari Kerja",
+      "5 Hari Kerja",
+      "60 Hari Kerja"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Merupakan hak standar bagi pekerja untuk beristirahat."
+  },
+  {
+    "id": "MPLB_KEP_43",
+    "pertanyaan": "Pegawai yang membantu urusan administratif di bagian kepegawaian disebut...",
+    "opsi": [
+      "Kurir",
+      "Cleaning Service",
+      "Admin HR / Staf Kepegawaian",
+      "Satpam",
+      "Resepsionis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tugasnya meliputi update data pegawai, pengurusan cuti, dan arsip kepegawaian."
+  },
+  {
+    "id": "MPLB_KEP_44",
+    "pertanyaan": "Apa itu 'Turnover Pegawai'?",
+    "opsi": [
+      "Jumlah pegawai yang lembur",
+      "Gaji pegawai paling tinggi",
+      "Lomba olahraga antar pegawai",
+      "Tingkat keluar masuknya pegawai dalam suatu periode",
+      "Nama makanan kantin"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Turnover yang terlalu tinggi menandakan manajemen SDM yang buruk atau ketidakpuasan kerja."
+  },
+  {
+    "id": "MPLB_KEP_45",
+    "pertanyaan": "Manakah yang merupakan contoh tunjangan tidak tetap?",
+    "opsi": [
+      "Tunjangan Jabatan",
+      "Tunjangan Keluarga",
+      "Gaji Pokok",
+      "Tunjangan Anak",
+      "Uang Makan (berdasarkan kehadiran)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tunjangan tidak tetap nilainya bisa berubah tergantung absensi atau performa bulanan."
+  },
+  {
+    "id": "MPLB_KEP_46",
+    "pertanyaan": "Payroll System adalah sistem yang mengelola...",
+    "opsi": [
+      "Penggajian pegawai secara otomatis",
+      "Jadwal rapat",
+      "Persediaan barang",
+      "Pembersihan kantor",
+      "Parkir kendaraan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Menghitung gaji bruto, potongan (pajak/asuransi), hingga gaji bersih secara otomatis."
+  },
+  {
+    "id": "MPLB_KEP_47",
+    "pertanyaan": "Kenaikan pangkat yang diberikan kepada PNS setiap 4 tahun sekali disebut...",
+    "opsi": [
+      "Kenaikan Pangkat Pilihan",
+      "Kenaikan Pangkat Reguler",
+      "Kenaikan Pangkat Istimewa",
+      "Kenaikan Pangkat Penghargaan",
+      "Kenaikan Pangkat Mendadak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Diberikan jika pegawai memenuhi syarat masa kerja dan penilaian prestasi baik."
+  },
+  {
+    "id": "MPLB_KEP_48",
+    "pertanyaan": "Surat Keputusan (SK) Pengangkatan merupakan bukti...",
+    "opsi": [
+      "Peminjaman uang",
+      "Kelulusan sekolah",
+      "Resmi menjadi pegawai tetap",
+      "Izin membangun bangunan",
+      " Pembelian mobil"
+    ],
+    "jawaban": 2,
+    "pembahasan": "SK merupakan landasan hukum status kepegawaian seseorang."
+  },
+  {
+    "id": "MPLB_KEP_49",
+    "pertanyaan": "Berikut ini yang termasuk cuti alasan penting bagi PNS adalah...",
+    "opsi": [
+      "Menikah",
+      "Orang tua sakit keras/meninggal",
+      "Istri melahirkan",
+      "Semua Jawaban Benar",
+      "Lapar di jam kerja"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Cuti alasan penting memberikan kelonggaran saat ada keadaan darurat keluarga."
+  },
+  {
+    "id": "MPLB_KEP_50",
+    "pertanyaan": "Setiap pegawai harus memiliki NIP. Apa kepanjangan NIP?",
+    "opsi": [
+      "Nomor Identitas Pribadi",
+      "Nomor Izin Perusahaan",
+      "Nomor Induk Pelajar",
+      "Nomor Inti Pokok",
+      "Nomor Induk Pegawai"
+    ],
+    "jawaban": 4,
+    "pembahasan": "NIP baru bagi PNS mengandung data tanggal lahir dan tahun pengangkatan."
+  }
+]

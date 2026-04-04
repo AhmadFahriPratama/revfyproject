@@ -1,0 +1,70 @@
+{
+  "id": "TKA_SMP_BINDO",
+  "mapel": "TKA SMP Bahasa Indonesia 2025",
+  "tingkatan": "SMP",
+  "materiKategori": "wajib",
+  "tag": [
+    "tka",
+    "smp",
+    "bahasa indonesia",
+    "literasi",
+    "teks",
+    "eyd"
+  ],
+  "deskripsi": "Panduan materi Bahasa Indonesia untuk TKA SMP 2025 yang menekankan literasi membaca, analisis teks, kebahasaan, dan penulisan efektif pada level Fase D.",
+  "daftarMateri": [
+    {
+      "sub": "Bab 1: Literasi Teks Fiksi dan Nonfiksi",
+      "isi": "Peserta perlu membedakan ciri teks fiksi dan nonfiksi, mengenali ide pokok, detail penting, tokoh, alur, latar, serta pesan yang disampaikan penulis. Soal TKA sering menuntut kemampuan membaca isi teks secara utuh, bukan hanya menebak dari satu kalimat.",
+      "tag": [
+        "tka smp bahasaindonesia materi",
+        "bab-1"
+      ]
+    },
+    {
+      "sub": "Bab 2: Struktur Teks dan Gagasan Utama",
+      "isi": "Materi ini mencakup cara menentukan kalimat utama, gagasan pokok, gagasan pendukung, simpulan paragraf, dan hubungan antargagasan. Siswa perlu mampu melihat kepaduan paragraf dan memahami bagaimana informasi disusun dari umum ke khusus atau sebaliknya.",
+      "tag": [
+        "tka smp bahasaindonesia materi",
+        "bab-2"
+      ]
+    },
+    {
+      "sub": "Bab 3: Teks Deskripsi, Eksplanasi, dan Persuasi",
+      "isi": "Siswa harus memahami ciri, tujuan, dan unsur kebahasaan dari beberapa jenis teks yang umum muncul di SMP. Selain mengenali struktur, siswa juga perlu peka terhadap fungsi kata sifat, fakta, opini, kalimat ajakan, dan alasan pendukung dalam teks.",
+      "tag": [
+        "tka smp bahasaindonesia materi",
+        "bab-3"
+      ]
+    },
+    {
+      "sub": "Bab 4: Kebahasaan dan Ejaan",
+      "isi": "Bagian ini meliputi huruf kapital, tanda baca, kata baku, kalimat efektif, imbuhan, pilihan diksi, dan pembentukan kata. Pada TKA, ketelitian terhadap aturan ejaan sering menjadi pembeda antara jawaban yang tampak mirip tetapi hanya satu yang benar-benar baku.",
+      "tag": [
+        "tka smp bahasaindonesia materi",
+        "bab-4"
+      ]
+    },
+    {
+      "sub": "Bab 5: Menyusun dan Merevisi Kalimat",
+      "isi": "Siswa perlu berlatih menyusun kalimat agar logis, hemat, jelas, dan sesuai konteks. Soal revisi kalimat biasanya menguji kemampuan memperbaiki kerancuan, ketidakefektifan, dan urutan gagasan yang kurang padu dalam sebuah paragraf pendek.",
+      "tag": [
+        "tka smp bahasaindonesia materi",
+        "bab-5"
+      ]
+    },
+    {
+      "sub": "Bab 6: Strategi Mengerjakan Soal Literasi",
+      "isi": "Saat membaca soal, tandai terlebih dahulu apa yang diminta: ide pokok, simpulan, makna kata, atau kesalahan kebahasaan. Kembalilah ke bagian teks yang relevan dan hindari memilih jawaban yang terdengar bagus tetapi tidak benar-benar didukung isi bacaan.",
+      "tag": [
+        "tka smp bahasaindonesia materi",
+        "bab-6"
+      ]
+    }
+  ],
+  "ringkasan": [
+    "Fokus utama ada pada pemahaman isi teks, bukan hafalan istilah semata.",
+    "Ketepatan ejaan dan kalimat efektif harus dikuasai karena sering muncul dalam soal.",
+    "Kemampuan menarik simpulan dari teks menjadi kompetensi inti pada TKA SMP Bahasa Indonesia."
+  ]
+}

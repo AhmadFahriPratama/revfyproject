@@ -1,0 +1,658 @@
+{
+  "id": "smp-9-ppkn",
+  "tingkat": "SMP",
+  "mapel": "PPKn",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "ppkn9-1",
+      "teks": "Pada tahun 1948, terjadi pemberontakan PKI di Madiun yang bertujuan untuk...",
+      "opsi": {
+        "A": "Mengganti Pancasila dengan paham Komunis",
+        "B": "Mendirikan Negara Islam",
+        "C": "Memisahkan diri dari NKRI",
+        "D": "Menjajah kembali Indonesia"
+      },
+      "kunci": "A",
+      "pembahasan": "Pemberontakan PKI Madiun 1948 oleh Muso bertujuan mendirikan negara Soviet Indonesia yang komunis murni.",
+      "trik": "PKI = ideologi komunis."
+    },
+    {
+      "id": "ppkn9-2",
+      "teks": "Sikap positif terhadap Pancasila sebagai ideologi terbuka dapat ditunjukkan dengan...",
+      "opsi": {
+        "A": "Menolak semua hal baru dari luar negeri",
+        "B": "Menerima budaya luar yang sesuai dengan nilai ketuhanan dan kemanusiaan",
+        "C": "Menerima semua budaya asing tanpa seleksi",
+        "D": "Menutup diri dari pergaulan internasional"
+      },
+      "kunci": "B",
+      "pembahasan": "Ideologi terbuka bersifat dinamis, menerima budaya positif yang tidak bertentangan dengan nilai Pancasila.",
+      "trik": "Terbuka = menyaring dan menyesuaikan."
+    },
+    {
+      "id": "ppkn9-3",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal...",
+      "opsi": {
+        "A": "Pasal 1 ayat 1",
+        "B": "Pasal 2 ayat 1",
+        "C": "Pasal 1 ayat 2",
+        "D": "Pasal 3 ayat 1"
+      },
+      "kunci": "C",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "ppkn9-4",
+      "teks": "Sikap etnosentrisme merupakan faktor penghambat persatuan karena menganggap...",
+      "opsi": {
+        "A": "Semua kebudayaan harus dilestarikan",
+        "B": "Setiap manusia memiliki hak yang sama",
+        "C": "Politik negara mendominasi hukum",
+        "D": "Suku bangsanya sendiri lebih baik dan merendahkan suku lain"
+      },
+      "kunci": "D",
+      "pembahasan": "Etnosentrisme adalah paham radikal merasa suku kebudayaannya paling superior dan merendahkan yang lain.",
+      "trik": "Etnik = suku, sentris = berpusat."
+    },
+    {
+      "id": "ppkn9-5",
+      "teks": "Upaya bela negara bukan hanya memanggul senjata di medan perang, bagi pelajar, bela negara diwujudkan dengan...",
+      "opsi": {
+        "A": "Semangat belajar mengejar prestasi untuk mengharumkan bangsa",
+        "B": "Mengikuti wajib militer sejak SMP",
+        "C": "Ikut tawuran agar ditakuti bangsa lain",
+        "D": "Menjadi pahlawan pemberontak"
+      },
+      "kunci": "A",
+      "pembahasan": "Bela negara non-fisik (sipil) bagi pelajar dipusatkan pada pendidikan intelektual prestasi moral/akademik.",
+      "trik": "Pelajar = Belajar."
+    },
+    {
+      "id": "smp-9-ppkn-6",
+      "teks": "Sikap etnosentrisme merupakan faktor penghambat persatuan karena menganggap... (Latihan Intensif #6)",
+      "opsi": {
+        "A": "Semua kebudayaan harus dilestarikan",
+        "B": "Suku bangsanya sendiri lebih baik dan merendahkan suku lain",
+        "C": "Setiap manusia memiliki hak yang sama",
+        "D": "Politik negara mendominasi hukum"
+      },
+      "kunci": "B",
+      "pembahasan": "Etnosentrisme adalah paham radikal merasa suku kebudayaannya paling superior dan merendahkan yang lain.",
+      "trik": "Etnik = suku, sentris = berpusat."
+    },
+    {
+      "id": "smp-9-ppkn-7",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #7)",
+      "opsi": {
+        "A": "Pasal 1 ayat 1",
+        "B": "Pasal 2 ayat 1",
+        "C": "Pasal 1 ayat 2",
+        "D": "Pasal 3 ayat 1"
+      },
+      "kunci": "C",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-8",
+      "teks": "Pada tahun 1948, terjadi pemberontakan PKI di Madiun yang bertujuan untuk... (Latihan Intensif #8)",
+      "opsi": {
+        "A": "Mendirikan Negara Islam",
+        "B": "Memisahkan diri dari NKRI",
+        "C": "Menjajah kembali Indonesia",
+        "D": "Mengganti Pancasila dengan paham Komunis"
+      },
+      "kunci": "D",
+      "pembahasan": "Pemberontakan PKI Madiun 1948 oleh Muso bertujuan mendirikan negara Soviet Indonesia yang komunis murni.",
+      "trik": "PKI = ideologi komunis."
+    },
+    {
+      "id": "smp-9-ppkn-9",
+      "teks": "Sikap etnosentrisme merupakan faktor penghambat persatuan karena menganggap... (Latihan Intensif #9)",
+      "opsi": {
+        "A": "Suku bangsanya sendiri lebih baik dan merendahkan suku lain",
+        "B": "Semua kebudayaan harus dilestarikan",
+        "C": "Setiap manusia memiliki hak yang sama",
+        "D": "Politik negara mendominasi hukum"
+      },
+      "kunci": "A",
+      "pembahasan": "Etnosentrisme adalah paham radikal merasa suku kebudayaannya paling superior dan merendahkan yang lain.",
+      "trik": "Etnik = suku, sentris = berpusat."
+    },
+    {
+      "id": "smp-9-ppkn-10",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #10)",
+      "opsi": {
+        "A": "Pasal 1 ayat 1",
+        "B": "Pasal 1 ayat 2",
+        "C": "Pasal 2 ayat 1",
+        "D": "Pasal 3 ayat 1"
+      },
+      "kunci": "B",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-11",
+      "teks": "Upaya bela negara bukan hanya memanggul senjata di medan perang, bagi pelajar, bela negara diwujudkan dengan... (Latihan Intensif #11)",
+      "opsi": {
+        "A": "Mengikuti wajib militer sejak SMP",
+        "B": "Ikut tawuran agar ditakuti bangsa lain",
+        "C": "Semangat belajar mengejar prestasi untuk mengharumkan bangsa",
+        "D": "Menjadi pahlawan pemberontak"
+      },
+      "kunci": "C",
+      "pembahasan": "Bela negara non-fisik (sipil) bagi pelajar dipusatkan pada pendidikan intelektual prestasi moral/akademik.",
+      "trik": "Pelajar = Belajar."
+    },
+    {
+      "id": "smp-9-ppkn-12",
+      "teks": "Upaya bela negara bukan hanya memanggul senjata di medan perang, bagi pelajar, bela negara diwujudkan dengan... (Latihan Intensif #12)",
+      "opsi": {
+        "A": "Mengikuti wajib militer sejak SMP",
+        "B": "Ikut tawuran agar ditakuti bangsa lain",
+        "C": "Menjadi pahlawan pemberontak",
+        "D": "Semangat belajar mengejar prestasi untuk mengharumkan bangsa"
+      },
+      "kunci": "D",
+      "pembahasan": "Bela negara non-fisik (sipil) bagi pelajar dipusatkan pada pendidikan intelektual prestasi moral/akademik.",
+      "trik": "Pelajar = Belajar."
+    },
+    {
+      "id": "smp-9-ppkn-13",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #13)",
+      "opsi": {
+        "A": "Pasal 1 ayat 2",
+        "B": "Pasal 1 ayat 1",
+        "C": "Pasal 2 ayat 1",
+        "D": "Pasal 3 ayat 1"
+      },
+      "kunci": "A",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-14",
+      "teks": "Upaya bela negara bukan hanya memanggul senjata di medan perang, bagi pelajar, bela negara diwujudkan dengan... (Latihan Intensif #14)",
+      "opsi": {
+        "A": "Mengikuti wajib militer sejak SMP",
+        "B": "Semangat belajar mengejar prestasi untuk mengharumkan bangsa",
+        "C": "Ikut tawuran agar ditakuti bangsa lain",
+        "D": "Menjadi pahlawan pemberontak"
+      },
+      "kunci": "B",
+      "pembahasan": "Bela negara non-fisik (sipil) bagi pelajar dipusatkan pada pendidikan intelektual prestasi moral/akademik.",
+      "trik": "Pelajar = Belajar."
+    },
+    {
+      "id": "smp-9-ppkn-15",
+      "teks": "Upaya bela negara bukan hanya memanggul senjata di medan perang, bagi pelajar, bela negara diwujudkan dengan... (Latihan Intensif #15)",
+      "opsi": {
+        "A": "Mengikuti wajib militer sejak SMP",
+        "B": "Ikut tawuran agar ditakuti bangsa lain",
+        "C": "Semangat belajar mengejar prestasi untuk mengharumkan bangsa",
+        "D": "Menjadi pahlawan pemberontak"
+      },
+      "kunci": "C",
+      "pembahasan": "Bela negara non-fisik (sipil) bagi pelajar dipusatkan pada pendidikan intelektual prestasi moral/akademik.",
+      "trik": "Pelajar = Belajar."
+    },
+    {
+      "id": "smp-9-ppkn-16",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #16)",
+      "opsi": {
+        "A": "Pasal 1 ayat 1",
+        "B": "Pasal 2 ayat 1",
+        "C": "Pasal 3 ayat 1",
+        "D": "Pasal 1 ayat 2"
+      },
+      "kunci": "D",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-17",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #17)",
+      "opsi": {
+        "A": "Pasal 1 ayat 2",
+        "B": "Pasal 1 ayat 1",
+        "C": "Pasal 2 ayat 1",
+        "D": "Pasal 3 ayat 1"
+      },
+      "kunci": "A",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-18",
+      "teks": "Pada tahun 1948, terjadi pemberontakan PKI di Madiun yang bertujuan untuk... (Latihan Intensif #18)",
+      "opsi": {
+        "A": "Mendirikan Negara Islam",
+        "B": "Mengganti Pancasila dengan paham Komunis",
+        "C": "Memisahkan diri dari NKRI",
+        "D": "Menjajah kembali Indonesia"
+      },
+      "kunci": "B",
+      "pembahasan": "Pemberontakan PKI Madiun 1948 oleh Muso bertujuan mendirikan negara Soviet Indonesia yang komunis murni.",
+      "trik": "PKI = ideologi komunis."
+    },
+    {
+      "id": "smp-9-ppkn-19",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #19)",
+      "opsi": {
+        "A": "Pasal 1 ayat 1",
+        "B": "Pasal 2 ayat 1",
+        "C": "Pasal 1 ayat 2",
+        "D": "Pasal 3 ayat 1"
+      },
+      "kunci": "C",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-20",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #20)",
+      "opsi": {
+        "A": "Pasal 1 ayat 1",
+        "B": "Pasal 2 ayat 1",
+        "C": "Pasal 3 ayat 1",
+        "D": "Pasal 1 ayat 2"
+      },
+      "kunci": "D",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-21",
+      "teks": "Sikap etnosentrisme merupakan faktor penghambat persatuan karena menganggap... (Latihan Intensif #21)",
+      "opsi": {
+        "A": "Suku bangsanya sendiri lebih baik dan merendahkan suku lain",
+        "B": "Semua kebudayaan harus dilestarikan",
+        "C": "Setiap manusia memiliki hak yang sama",
+        "D": "Politik negara mendominasi hukum"
+      },
+      "kunci": "A",
+      "pembahasan": "Etnosentrisme adalah paham radikal merasa suku kebudayaannya paling superior dan merendahkan yang lain.",
+      "trik": "Etnik = suku, sentris = berpusat."
+    },
+    {
+      "id": "smp-9-ppkn-22",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #22)",
+      "opsi": {
+        "A": "Pasal 1 ayat 1",
+        "B": "Pasal 1 ayat 2",
+        "C": "Pasal 2 ayat 1",
+        "D": "Pasal 3 ayat 1"
+      },
+      "kunci": "B",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-23",
+      "teks": "Sikap etnosentrisme merupakan faktor penghambat persatuan karena menganggap... (Latihan Intensif #23)",
+      "opsi": {
+        "A": "Semua kebudayaan harus dilestarikan",
+        "B": "Setiap manusia memiliki hak yang sama",
+        "C": "Suku bangsanya sendiri lebih baik dan merendahkan suku lain",
+        "D": "Politik negara mendominasi hukum"
+      },
+      "kunci": "C",
+      "pembahasan": "Etnosentrisme adalah paham radikal merasa suku kebudayaannya paling superior dan merendahkan yang lain.",
+      "trik": "Etnik = suku, sentris = berpusat."
+    },
+    {
+      "id": "smp-9-ppkn-24",
+      "teks": "Upaya bela negara bukan hanya memanggul senjata di medan perang, bagi pelajar, bela negara diwujudkan dengan... (Latihan Intensif #24)",
+      "opsi": {
+        "A": "Mengikuti wajib militer sejak SMP",
+        "B": "Ikut tawuran agar ditakuti bangsa lain",
+        "C": "Menjadi pahlawan pemberontak",
+        "D": "Semangat belajar mengejar prestasi untuk mengharumkan bangsa"
+      },
+      "kunci": "D",
+      "pembahasan": "Bela negara non-fisik (sipil) bagi pelajar dipusatkan pada pendidikan intelektual prestasi moral/akademik.",
+      "trik": "Pelajar = Belajar."
+    },
+    {
+      "id": "smp-9-ppkn-25",
+      "teks": "Sikap positif terhadap Pancasila sebagai ideologi terbuka dapat ditunjukkan dengan... (Latihan Intensif #25)",
+      "opsi": {
+        "A": "Menerima budaya luar yang sesuai dengan nilai ketuhanan dan kemanusiaan",
+        "B": "Menolak semua hal baru dari luar negeri",
+        "C": "Menerima semua budaya asing tanpa seleksi",
+        "D": "Menutup diri dari pergaulan internasional"
+      },
+      "kunci": "A",
+      "pembahasan": "Ideologi terbuka bersifat dinamis, menerima budaya positif yang tidak bertentangan dengan nilai Pancasila.",
+      "trik": "Terbuka = menyaring dan menyesuaikan."
+    },
+    {
+      "id": "smp-9-ppkn-26",
+      "teks": "Pada tahun 1948, terjadi pemberontakan PKI di Madiun yang bertujuan untuk... (Latihan Intensif #26)",
+      "opsi": {
+        "A": "Mendirikan Negara Islam",
+        "B": "Mengganti Pancasila dengan paham Komunis",
+        "C": "Memisahkan diri dari NKRI",
+        "D": "Menjajah kembali Indonesia"
+      },
+      "kunci": "B",
+      "pembahasan": "Pemberontakan PKI Madiun 1948 oleh Muso bertujuan mendirikan negara Soviet Indonesia yang komunis murni.",
+      "trik": "PKI = ideologi komunis."
+    },
+    {
+      "id": "smp-9-ppkn-27",
+      "teks": "Pada tahun 1948, terjadi pemberontakan PKI di Madiun yang bertujuan untuk... (Latihan Intensif #27)",
+      "opsi": {
+        "A": "Mendirikan Negara Islam",
+        "B": "Memisahkan diri dari NKRI",
+        "C": "Mengganti Pancasila dengan paham Komunis",
+        "D": "Menjajah kembali Indonesia"
+      },
+      "kunci": "C",
+      "pembahasan": "Pemberontakan PKI Madiun 1948 oleh Muso bertujuan mendirikan negara Soviet Indonesia yang komunis murni.",
+      "trik": "PKI = ideologi komunis."
+    },
+    {
+      "id": "smp-9-ppkn-28",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #28)",
+      "opsi": {
+        "A": "Pasal 1 ayat 1",
+        "B": "Pasal 2 ayat 1",
+        "C": "Pasal 3 ayat 1",
+        "D": "Pasal 1 ayat 2"
+      },
+      "kunci": "D",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-29",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #29)",
+      "opsi": {
+        "A": "Pasal 1 ayat 2",
+        "B": "Pasal 1 ayat 1",
+        "C": "Pasal 2 ayat 1",
+        "D": "Pasal 3 ayat 1"
+      },
+      "kunci": "A",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-30",
+      "teks": "Sikap etnosentrisme merupakan faktor penghambat persatuan karena menganggap... (Latihan Intensif #30)",
+      "opsi": {
+        "A": "Semua kebudayaan harus dilestarikan",
+        "B": "Suku bangsanya sendiri lebih baik dan merendahkan suku lain",
+        "C": "Setiap manusia memiliki hak yang sama",
+        "D": "Politik negara mendominasi hukum"
+      },
+      "kunci": "B",
+      "pembahasan": "Etnosentrisme adalah paham radikal merasa suku kebudayaannya paling superior dan merendahkan yang lain.",
+      "trik": "Etnik = suku, sentris = berpusat."
+    },
+    {
+      "id": "smp-9-ppkn-31",
+      "teks": "Pada tahun 1948, terjadi pemberontakan PKI di Madiun yang bertujuan untuk... (Latihan Intensif #31)",
+      "opsi": {
+        "A": "Mendirikan Negara Islam",
+        "B": "Memisahkan diri dari NKRI",
+        "C": "Mengganti Pancasila dengan paham Komunis",
+        "D": "Menjajah kembali Indonesia"
+      },
+      "kunci": "C",
+      "pembahasan": "Pemberontakan PKI Madiun 1948 oleh Muso bertujuan mendirikan negara Soviet Indonesia yang komunis murni.",
+      "trik": "PKI = ideologi komunis."
+    },
+    {
+      "id": "smp-9-ppkn-32",
+      "teks": "Sikap positif terhadap Pancasila sebagai ideologi terbuka dapat ditunjukkan dengan... (Latihan Intensif #32)",
+      "opsi": {
+        "A": "Menolak semua hal baru dari luar negeri",
+        "B": "Menerima semua budaya asing tanpa seleksi",
+        "C": "Menutup diri dari pergaulan internasional",
+        "D": "Menerima budaya luar yang sesuai dengan nilai ketuhanan dan kemanusiaan"
+      },
+      "kunci": "D",
+      "pembahasan": "Ideologi terbuka bersifat dinamis, menerima budaya positif yang tidak bertentangan dengan nilai Pancasila.",
+      "trik": "Terbuka = menyaring dan menyesuaikan."
+    },
+    {
+      "id": "smp-9-ppkn-33",
+      "teks": "Upaya bela negara bukan hanya memanggul senjata di medan perang, bagi pelajar, bela negara diwujudkan dengan... (Latihan Intensif #33)",
+      "opsi": {
+        "A": "Semangat belajar mengejar prestasi untuk mengharumkan bangsa",
+        "B": "Mengikuti wajib militer sejak SMP",
+        "C": "Ikut tawuran agar ditakuti bangsa lain",
+        "D": "Menjadi pahlawan pemberontak"
+      },
+      "kunci": "A",
+      "pembahasan": "Bela negara non-fisik (sipil) bagi pelajar dipusatkan pada pendidikan intelektual prestasi moral/akademik.",
+      "trik": "Pelajar = Belajar."
+    },
+    {
+      "id": "smp-9-ppkn-34",
+      "teks": "Pada tahun 1948, terjadi pemberontakan PKI di Madiun yang bertujuan untuk... (Latihan Intensif #34)",
+      "opsi": {
+        "A": "Mendirikan Negara Islam",
+        "B": "Mengganti Pancasila dengan paham Komunis",
+        "C": "Memisahkan diri dari NKRI",
+        "D": "Menjajah kembali Indonesia"
+      },
+      "kunci": "B",
+      "pembahasan": "Pemberontakan PKI Madiun 1948 oleh Muso bertujuan mendirikan negara Soviet Indonesia yang komunis murni.",
+      "trik": "PKI = ideologi komunis."
+    },
+    {
+      "id": "smp-9-ppkn-35",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #35)",
+      "opsi": {
+        "A": "Pasal 1 ayat 1",
+        "B": "Pasal 2 ayat 1",
+        "C": "Pasal 1 ayat 2",
+        "D": "Pasal 3 ayat 1"
+      },
+      "kunci": "C",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-36",
+      "teks": "Sikap etnosentrisme merupakan faktor penghambat persatuan karena menganggap... (Latihan Intensif #36)",
+      "opsi": {
+        "A": "Semua kebudayaan harus dilestarikan",
+        "B": "Setiap manusia memiliki hak yang sama",
+        "C": "Politik negara mendominasi hukum",
+        "D": "Suku bangsanya sendiri lebih baik dan merendahkan suku lain"
+      },
+      "kunci": "D",
+      "pembahasan": "Etnosentrisme adalah paham radikal merasa suku kebudayaannya paling superior dan merendahkan yang lain.",
+      "trik": "Etnik = suku, sentris = berpusat."
+    },
+    {
+      "id": "smp-9-ppkn-37",
+      "teks": "Upaya bela negara bukan hanya memanggul senjata di medan perang, bagi pelajar, bela negara diwujudkan dengan... (Latihan Intensif #37)",
+      "opsi": {
+        "A": "Semangat belajar mengejar prestasi untuk mengharumkan bangsa",
+        "B": "Mengikuti wajib militer sejak SMP",
+        "C": "Ikut tawuran agar ditakuti bangsa lain",
+        "D": "Menjadi pahlawan pemberontak"
+      },
+      "kunci": "A",
+      "pembahasan": "Bela negara non-fisik (sipil) bagi pelajar dipusatkan pada pendidikan intelektual prestasi moral/akademik.",
+      "trik": "Pelajar = Belajar."
+    },
+    {
+      "id": "smp-9-ppkn-38",
+      "teks": "Pada tahun 1948, terjadi pemberontakan PKI di Madiun yang bertujuan untuk... (Latihan Intensif #38)",
+      "opsi": {
+        "A": "Mendirikan Negara Islam",
+        "B": "Mengganti Pancasila dengan paham Komunis",
+        "C": "Memisahkan diri dari NKRI",
+        "D": "Menjajah kembali Indonesia"
+      },
+      "kunci": "B",
+      "pembahasan": "Pemberontakan PKI Madiun 1948 oleh Muso bertujuan mendirikan negara Soviet Indonesia yang komunis murni.",
+      "trik": "PKI = ideologi komunis."
+    },
+    {
+      "id": "smp-9-ppkn-39",
+      "teks": "Sikap positif terhadap Pancasila sebagai ideologi terbuka dapat ditunjukkan dengan... (Latihan Intensif #39)",
+      "opsi": {
+        "A": "Menolak semua hal baru dari luar negeri",
+        "B": "Menerima semua budaya asing tanpa seleksi",
+        "C": "Menerima budaya luar yang sesuai dengan nilai ketuhanan dan kemanusiaan",
+        "D": "Menutup diri dari pergaulan internasional"
+      },
+      "kunci": "C",
+      "pembahasan": "Ideologi terbuka bersifat dinamis, menerima budaya positif yang tidak bertentangan dengan nilai Pancasila.",
+      "trik": "Terbuka = menyaring dan menyesuaikan."
+    },
+    {
+      "id": "smp-9-ppkn-40",
+      "teks": "Sikap positif terhadap Pancasila sebagai ideologi terbuka dapat ditunjukkan dengan... (Latihan Intensif #40)",
+      "opsi": {
+        "A": "Menolak semua hal baru dari luar negeri",
+        "B": "Menerima semua budaya asing tanpa seleksi",
+        "C": "Menutup diri dari pergaulan internasional",
+        "D": "Menerima budaya luar yang sesuai dengan nilai ketuhanan dan kemanusiaan"
+      },
+      "kunci": "D",
+      "pembahasan": "Ideologi terbuka bersifat dinamis, menerima budaya positif yang tidak bertentangan dengan nilai Pancasila.",
+      "trik": "Terbuka = menyaring dan menyesuaikan."
+    },
+    {
+      "id": "smp-9-ppkn-41",
+      "teks": "Upaya bela negara bukan hanya memanggul senjata di medan perang, bagi pelajar, bela negara diwujudkan dengan... (Latihan Intensif #41)",
+      "opsi": {
+        "A": "Semangat belajar mengejar prestasi untuk mengharumkan bangsa",
+        "B": "Mengikuti wajib militer sejak SMP",
+        "C": "Ikut tawuran agar ditakuti bangsa lain",
+        "D": "Menjadi pahlawan pemberontak"
+      },
+      "kunci": "A",
+      "pembahasan": "Bela negara non-fisik (sipil) bagi pelajar dipusatkan pada pendidikan intelektual prestasi moral/akademik.",
+      "trik": "Pelajar = Belajar."
+    },
+    {
+      "id": "smp-9-ppkn-42",
+      "teks": "Pada tahun 1948, terjadi pemberontakan PKI di Madiun yang bertujuan untuk... (Latihan Intensif #42)",
+      "opsi": {
+        "A": "Mendirikan Negara Islam",
+        "B": "Mengganti Pancasila dengan paham Komunis",
+        "C": "Memisahkan diri dari NKRI",
+        "D": "Menjajah kembali Indonesia"
+      },
+      "kunci": "B",
+      "pembahasan": "Pemberontakan PKI Madiun 1948 oleh Muso bertujuan mendirikan negara Soviet Indonesia yang komunis murni.",
+      "trik": "PKI = ideologi komunis."
+    },
+    {
+      "id": "smp-9-ppkn-43",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #43)",
+      "opsi": {
+        "A": "Pasal 1 ayat 1",
+        "B": "Pasal 2 ayat 1",
+        "C": "Pasal 1 ayat 2",
+        "D": "Pasal 3 ayat 1"
+      },
+      "kunci": "C",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-44",
+      "teks": "Sikap etnosentrisme merupakan faktor penghambat persatuan karena menganggap... (Latihan Intensif #44)",
+      "opsi": {
+        "A": "Semua kebudayaan harus dilestarikan",
+        "B": "Setiap manusia memiliki hak yang sama",
+        "C": "Politik negara mendominasi hukum",
+        "D": "Suku bangsanya sendiri lebih baik dan merendahkan suku lain"
+      },
+      "kunci": "D",
+      "pembahasan": "Etnosentrisme adalah paham radikal merasa suku kebudayaannya paling superior dan merendahkan yang lain.",
+      "trik": "Etnik = suku, sentris = berpusat."
+    },
+    {
+      "id": "smp-9-ppkn-45",
+      "teks": "Upaya bela negara bukan hanya memanggul senjata di medan perang, bagi pelajar, bela negara diwujudkan dengan... (Latihan Intensif #45)",
+      "opsi": {
+        "A": "Semangat belajar mengejar prestasi untuk mengharumkan bangsa",
+        "B": "Mengikuti wajib militer sejak SMP",
+        "C": "Ikut tawuran agar ditakuti bangsa lain",
+        "D": "Menjadi pahlawan pemberontak"
+      },
+      "kunci": "A",
+      "pembahasan": "Bela negara non-fisik (sipil) bagi pelajar dipusatkan pada pendidikan intelektual prestasi moral/akademik.",
+      "trik": "Pelajar = Belajar."
+    },
+    {
+      "id": "smp-9-ppkn-46",
+      "teks": "Upaya bela negara bukan hanya memanggul senjata di medan perang, bagi pelajar, bela negara diwujudkan dengan... (Latihan Intensif #46)",
+      "opsi": {
+        "A": "Mengikuti wajib militer sejak SMP",
+        "B": "Semangat belajar mengejar prestasi untuk mengharumkan bangsa",
+        "C": "Ikut tawuran agar ditakuti bangsa lain",
+        "D": "Menjadi pahlawan pemberontak"
+      },
+      "kunci": "B",
+      "pembahasan": "Bela negara non-fisik (sipil) bagi pelajar dipusatkan pada pendidikan intelektual prestasi moral/akademik.",
+      "trik": "Pelajar = Belajar."
+    },
+    {
+      "id": "smp-9-ppkn-47",
+      "teks": "Upaya bela negara bukan hanya memanggul senjata di medan perang, bagi pelajar, bela negara diwujudkan dengan... (Latihan Intensif #47)",
+      "opsi": {
+        "A": "Mengikuti wajib militer sejak SMP",
+        "B": "Ikut tawuran agar ditakuti bangsa lain",
+        "C": "Semangat belajar mengejar prestasi untuk mengharumkan bangsa",
+        "D": "Menjadi pahlawan pemberontak"
+      },
+      "kunci": "C",
+      "pembahasan": "Bela negara non-fisik (sipil) bagi pelajar dipusatkan pada pendidikan intelektual prestasi moral/akademik.",
+      "trik": "Pelajar = Belajar."
+    },
+    {
+      "id": "smp-9-ppkn-48",
+      "teks": "Kedaulatan Indonesia berada di tangan rakyat dan dilaksanakan menurut UUD. Hal ini ditegaskan dalam UUD 1945 pasal... (Latihan Intensif #48)",
+      "opsi": {
+        "A": "Pasal 1 ayat 1",
+        "B": "Pasal 2 ayat 1",
+        "C": "Pasal 3 ayat 1",
+        "D": "Pasal 1 ayat 2"
+      },
+      "kunci": "D",
+      "pembahasan": "UUD 1945 Pasal 1 ayat (2): 'Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+      "trik": "Kedaulatan Rakyat = Pasal 1 (2)."
+    },
+    {
+      "id": "smp-9-ppkn-49",
+      "teks": "Sikap positif terhadap Pancasila sebagai ideologi terbuka dapat ditunjukkan dengan... (Latihan Intensif #49)",
+      "opsi": {
+        "A": "Menerima budaya luar yang sesuai dengan nilai ketuhanan dan kemanusiaan",
+        "B": "Menolak semua hal baru dari luar negeri",
+        "C": "Menerima semua budaya asing tanpa seleksi",
+        "D": "Menutup diri dari pergaulan internasional"
+      },
+      "kunci": "A",
+      "pembahasan": "Ideologi terbuka bersifat dinamis, menerima budaya positif yang tidak bertentangan dengan nilai Pancasila.",
+      "trik": "Terbuka = menyaring dan menyesuaikan."
+    },
+    {
+      "id": "smp-9-ppkn-50",
+      "teks": "Sikap etnosentrisme merupakan faktor penghambat persatuan karena menganggap... (Latihan Intensif #50)",
+      "opsi": {
+        "A": "Semua kebudayaan harus dilestarikan",
+        "B": "Suku bangsanya sendiri lebih baik dan merendahkan suku lain",
+        "C": "Setiap manusia memiliki hak yang sama",
+        "D": "Politik negara mendominasi hukum"
+      },
+      "kunci": "B",
+      "pembahasan": "Etnosentrisme adalah paham radikal merasa suku kebudayaannya paling superior dan merendahkan yang lain.",
+      "trik": "Etnik = suku, sentris = berpusat."
+    }
+  ]
+}

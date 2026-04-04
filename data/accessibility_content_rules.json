@@ -1,0 +1,9 @@
+{
+  "id": "accessibility-content-rules",
+  "rules": [
+    "Gunakan judul yang jelas",
+    "Hindari paragraf tanpa struktur",
+    "Sediakan pembahasan yang cukup",
+    "Tambahkan metadata fokus dan durasi bila tersedia"
+  ]
+}

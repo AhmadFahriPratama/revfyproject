@@ -1,0 +1,53 @@
+{
+  "judul": "Digital Branding",
+  "tingkatan": "SMK",
+  "jurusan": "Bisnis Digital",
+  "deskripsi": "Materi mengenai pembangunan identitas merek di dunia digital, strategi konten, manajemen media sosial, dan reputasi online.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar-Dasar Digital Branding",
+      "konten": "Digital branding adalah cara sebuah brand membangun eksistensinya secara online. Berbeda dengan digital marketing yang fokus pada penjualan, branding fokus pada nilai (value) dan koneksi emosional dengan audiens melalui identitas visual dan pesan yang konsisten.",
+      "tag": [
+        "bisnisdigital digitalbranding materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Membangun Identitas Visual",
+      "konten": "Elemen visual branding meliputi Logo, Tipografi (font), Palet Warna, dan gaya desain yang unik. Identitas ini harus seragam di seluruh platform (website, media sosial, marketplace) agar brand mudah dikenali (brand recognition).",
+      "tag": [
+        "bisnisdigital digitalbranding materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Strategi Konten dan Storytelling",
+      "konten": "Menyusun pesan yang menarik melalui cerita (storytelling). Konten bukan hanya jualan, tapi memberi edukasi atau hiburan (content marketing). Mengenal pilar konten (Content Pillars) untuk menjaga keberlanjutan ide postingan di media sosial.",
+      "tag": [
+        "bisnisdigital digitalbranding materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Manajemen Media Sosial dan Influencer",
+      "konten": "Memilih platform yang tepat (Instagram, TikTok, LinkedIn) sesuai target audiens. Interaksi dengan komunitas (engagement) dan kolaborasi dengan key opinion leaders (KOL) atau influencer untuk memperluas jangkauan brand secara autentik.",
+      "tag": [
+        "bisnisdigital digitalbranding materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Manajemen Reputasi dan Krisis Online",
+      "konten": "Memantau sebutan (mentions) brand di internet. Cara menangani ulasan negatif secara profesional dan strategi menghadapi krisis komunikasi di dunia maya agar citra brand tetap terjaga dengan baik.",
+      "tag": [
+        "bisnisdigital digitalbranding materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "bisnisdigital-digitalbranding-materi",
+  "mapel": "Digital Branding",
+  "tag": [
+    "bisnisdigital digitalbranding materi"
+  ]
+}

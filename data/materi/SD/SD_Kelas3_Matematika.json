@@ -1,0 +1,26 @@
+{
+  "id": "materi-sd-kls3-mat",
+  "tingkat": "SD Kelas 3",
+  "mapel": "Matematika",
+  "materi": "Bilangan Ratusan, Perkalian Bersusun, Operasi Pecahan, dan Satuan Timbangan",
+  "deskripsi": "Materi Matematika Kelas 3 SD Kurikulum Merdeka (Fase B awal) yang berfokus pada bilangan cacah sampai 1.000, operasi hitung lebih kompleks, pecahan berpenyebut sama, dan penyelesaian masalah terkait panjang, berat, dan waktu.",
+  "konten": [
+    {
+      "bab": "1. Bilangan Ratusan sampai 1.000",
+      "teks": "Siswa menentukan letak nilai tempat ratusan, puluhan, dan satuan. Melakukan penjumlahan dan pengurangan bersusun sampai bilangan 1.000."
+    },
+    {
+      "bab": "2. Perkalian dan Pembagian",
+      "teks": "Mengenal dan berlatih perkalian bilangan 1 digit sampai 10 (hafal tabel perkalian). Mengoperasikan pembagian sebagai lawan dari perkalian."
+    },
+    {
+      "bab": "3. Mengenal Pecahan",
+      "teks": "Membaca rentang pecahan (1/2, 1/3, 1/4, 2/4, 3/4) melalui bantuan visual arsiran kotak/lingkaran dan membandingkan mana yang lebih besar atau kecil."
+    },
+    {
+      "bab": "4. Satuan Ukur Baku",
+      "teks": "Mengkonversi satuan berat (Kilogram ke Gram), mengkonversi satuan panjang (Meter ke Sentimeter), serta mengetahui lama durasi waktu kegiatan (menit dan jam)."
+    }
+  ],
+  "tag": ["sd-3", "matematika", "ratusan", "perkalian", "pecahan", "satuan-baku"]
+}

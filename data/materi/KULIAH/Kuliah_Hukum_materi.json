@@ -1,0 +1,53 @@
+{
+  "judul": "Ilmu Hukum (Dasar dan Lanjut)",
+  "tingkatan": "KULIAH",
+  "jurusan": "Soshum / Hukum",
+  "deskripsi": "Materi tingkat universitas mengenai pengantar ilmu hukum (PIH), hukum perdata, hukum pidana, hukum tata negara, serta hukum internasional dan hak asasi manusia.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Ilmu Hukum (PIH) dan PHI",
+      "konten": "Pengertian hukum, norma sosial vs norma hukum, tujuan hukum (keadilan, kepastian, kemanfaatan), sumber-sumber hukum, serta pengantar hukum Indonesia (tata hukum).",
+      "tag": [
+        "kuliah hukum materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Hukum Perdata dan Bisnis",
+      "konten": "Subjek dan objek hukum, hukum orang, hukum keluarga, hukum benda, serta hukum perikatan (perjanjian/kontrak) dan tanggung jawab perdata.",
+      "tag": [
+        "kuliah hukum materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Hukum Pidana dan Acara Pidana",
+      "konten": "Asas legalitas (Nullum delictum), unsur tindak pidana (mens rea, actus reus), jenis-jenis pidana, serta tahap penyelidikan hingga persidangan di pengadilan.",
+      "tag": [
+        "kuliah hukum materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Hukum Tata Negara dan Administrasi Negara",
+      "konten": "Konstitusi (UUD 1945), pembagian kekuasaan (Trias Politika), sistem pemerintahan, otonomi daerah, serta perlindungan masyarakat terhadap tindakan pemerintah (PTUN).",
+      "tag": [
+        "kuliah hukum materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Hukum Internasional dan HAM",
+      "konten": "Subjek hukum internasional, perjanjian internasional, sengketa antar negara, serta instrumen perlindungan Hak Asasi Manusia (HAM) nasional dan internasional.",
+      "tag": [
+        "kuliah hukum materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-hukum-materi",
+  "mapel": "Ilmu Hukum (Dasar dan Lanjut)",
+  "tag": [
+    "kuliah hukum materi"
+  ]
+}

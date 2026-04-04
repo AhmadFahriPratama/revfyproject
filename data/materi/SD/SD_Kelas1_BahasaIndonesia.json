@@ -1,0 +1,26 @@
+{
+  "id": "materi-sd-kls1-bi",
+  "tingkat": "SD Kelas 1",
+  "mapel": "Bahasa Indonesia",
+  "materi": "Membaca Awal, Menulis Sederhana, dan Kosakata",
+  "deskripsi": "Materi esensial Bahasa Indonesia Kelas 1 SD Kurikulum Merdeka (Fase A) yang berfokus pada pengenalan huruf, suku kata, membaca kata sederhana, serta menyalin tulisan dengan rapi.",
+  "konten": [
+    {
+      "bab": "1. Bunyi Huruf dan Suku Kata",
+      "teks": "Siswa belajar membedakan pelafalan huruf vokal (a, i, u, e, o) dan konsonan. Merangkai huruf menjadi suku kata (ba, bi, bu, be, bo) lalu menjadi kata bermakna (buku, bola)."
+    },
+    {
+      "bab": "2. Membaca Teks Pendek",
+      "teks": "Membaca nyaring kalimat-kalimat sederhana dengan lafal dan intonasi yang tepat (contoh: 'Ini Budi. Budi suka baca buku.')."
+    },
+    {
+      "bab": "3. Menulis Permulaan",
+      "teks": "Menyalin huruf, kata, dan kalimat pendek dengan tegak bersambung atau cetak rapi. Mulai mengenal penggunaan huruf kapital di awal kalimat."
+    },
+    {
+      "bab": "4. Bercerita dan Menyimak",
+      "teks": "Mendengarkan cerita guru atau teman, lalu menceritakan kembali pokok ceritanya (siapa tokohnya, di mana kejadiannya)."
+    }
+  ],
+  "tag": ["sd-1", "bahasa-indonesia", "literasi", "membaca", "menulis"]
+}

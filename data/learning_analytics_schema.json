@@ -1,0 +1,11 @@
+{
+  "id": "learning-analytics-schema",
+  "metrics": [
+    "accuracy",
+    "completion_rate",
+    "session_count",
+    "topic_mastery",
+    "tryout_history",
+    "time_spent"
+  ]
+}

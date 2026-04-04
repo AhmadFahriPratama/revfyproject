@@ -1,0 +1,41 @@
+{
+  "id": "release-pipeline-index",
+  "pipelines": [
+    {
+      "stage": "generate",
+      "scripts": [
+        "scripts/generate_cpns_dataset.js",
+        "scripts/generate_tka_archives_tryouts.js",
+        "scripts/generate_v2_learning_layer.js",
+        "scripts/generate_v3_assessment_layer.js"
+      ]
+    },
+    {
+      "stage": "normalize",
+      "scripts": [
+        "scripts/normalize_legacy_tryouts.js",
+        "scripts/rebalance_answer_positions.js",
+        "scripts/fix_materi_and_fr_metadata.js"
+      ]
+    },
+    {
+      "stage": "quality_fix",
+      "scripts": [
+        "scripts/fill_short_explanations.js"
+      ]
+    },
+    {
+      "stage": "index",
+      "scripts": [
+        "scripts/generate_fr_index.js",
+        "scripts/generate_global_indices.js"
+      ]
+    },
+    {
+      "stage": "validate",
+      "scripts": [
+        "scripts/validate_education_data.js"
+      ]
+    }
+  ]
+}

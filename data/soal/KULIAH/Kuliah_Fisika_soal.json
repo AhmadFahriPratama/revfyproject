@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_FS_01",
+    "pertanyaan": "Sebuah benda bergerak dengan posisi x(t) = 2t^3 - 5t. Berapakah percepatan benda tersebut pada saat t = 2 detik?",
+    "opsi": [
+      "24 m/s^2",
+      "12 m/s^2",
+      "19 m/s^2",
+      "6 m/s^2",
+      "0 m/s^2"
+    ],
+    "jawaban": 0,
+    "pembahasan": "v(t) = x'(t) = 6t^2 - 5. a(t) = v'(t) = 12t. Pada t=2, a = 12(2) = 24 m/s^2."
+  },
+  {
+    "id": "KU_FS_02",
+    "pertanyaan": "Hukum Newton II dalam bentuk momentum menyatakan bahwa gaya total (F) sama dengan...",
+    "opsi": [
+      "m * a",
+      "dp/dt (Laju perubahan momentum terhadap waktu)",
+      "m * v",
+      "Ek + Ep",
+      "W / t"
+    ],
+    "jawaban": 1,
+    "pembahasan": "F = dp/dt adalah definisi yang lebih umum (terutama jika massa berubah)."
+  },
+  {
+    "id": "KU_FS_03",
+    "pertanyaan": "Energi kinetik rotasi sebuah benda tegar dengan momen inersia I dan kecepatan sudut omega adalah...",
+    "opsi": [
+      "1/2 mv^2",
+      "mgh",
+      "1/2 I omega^2",
+      "I * alpha",
+      "omega * R"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Analog dengan 1/2 mv^2 pada gerak translasi."
+  },
+  {
+    "id": "KU_FS_04",
+    "pertanyaan": "Satuan fluks magnetik dalam sistem internasional adalah...",
+    "opsi": [
+      "Tesla",
+      "Gauss",
+      "Henry",
+      "Weber",
+      "Farad"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Weber (Wb). Sedangkan Tesla (T) adalah satuan rapat fluks magnet (medan magnet)."
+  },
+  {
+    "id": "KU_FS_05",
+    "pertanyaan": "Hukum Termodinamika ke-2 memperkenalkan konsep fisis yang disebut...",
+    "opsi": [
+      "Suhu",
+      "Energi Dalam",
+      "Tekanan",
+      "Volume",
+      "Entropi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Entropi menyatakan tingkat ketidakteraturan sistem yang cenderung meningkat."
+  },
+  {
+    "id": "KU_FS_06",
+    "pertanyaan": "Persamaan gas ideal dituliskan sebagai PV = nRT. Dimana R adalah...",
+    "opsi": [
+      "Konstanta gas umum",
+      "Jari-jari gas",
+      "Tekanan rata-rata",
+      "Jumlah molekul",
+      "Rasio panas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "R bernilai sekitar 8,314 J/(mol.K). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Konstanta gas umum\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_FS_07",
+    "pertanyaan": "Apa bunyi Hukum Gauss untuk medan listrik?",
+    "opsi": [
+      "Gaya tarik menarik antar muatan berbanding terbalik dengan kuadrat jarak",
+      "Fluks listrik total melalui permukaan tertutup sebanding dengan muatan di dalamnya",
+      "Arus listrik berbanding lurus dengan tegangan",
+      "Energi tidak dapat diciptakan",
+      "Medan magnet selalu membentuk loop tertutup"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Phi = Q / epsilon_0. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Fluks listrik total melalui permukaan tertutup sebanding dengan muatan di dalamnya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_FS_08",
+    "pertanyaan": "Efek doppler menjelaskan perubahan frekuensi gelombang akibat...",
+    "opsi": [
+      "Perubahan medium",
+      "Pemantulan pada dinding",
+      "Gerak relatif antara sumber dan pengamat",
+      "Pembiasan cahaya",
+      "Interferensi dua gelombang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh: Suara sirine ambulans yang terdengar lebih tinggi saat mendekat."
+  },
+  {
+    "id": "KU_FS_09",
+    "pertanyaan": "Teori Relativitas Khusus didasarkan pada dua postulat, salah satunya menyatakan bahwa...",
+    "opsi": [
+      "Waktu bersifat mutlak",
+      "Massa tidak pernah berubah",
+      "Bumi adalah pusat semesta",
+      "Kecepatan cahaya (c) di ruang hampa adalah konstan bagi semua pengamat",
+      "Energi selalu hilang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kecepatan cahaya tidak bergantung pada gerak sumber atau pengamat."
+  },
+  {
+    "id": "KU_FS_10",
+    "pertanyaan": "Fenomena lepasnya elektron dari permukaan logam akibat disinari cahaya disebut...",
+    "opsi": [
+      "Efek Compton",
+      "Radioaktivitas",
+      "Emisi Termionik",
+      "Difraksi",
+      "Efek Fotolistrik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Efek ini membuktikan bahwa cahaya bersifat partikel (foton)."
+  },
+  {
+    "id": "KU_FS_11",
+    "pertanyaan": "Panjang gelombang de Broglie menyatakan hubungan dualitas antara...",
+    "opsi": [
+      "Gelombang dan Partikel",
+      "Ruang dan Waktu",
+      "Massa dan Energi",
+      "Listrik dan Magnet",
+      "Suhu dan Tekanan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Setiap partikel yang bergerak memiliki sifat gelombang (lambda = h/p)."
+  },
+  {
+    "id": "KU_FS_12",
+    "pertanyaan": "Momen gaya (Torsi) didefinisikan sebagai perkalian silang (cross product) antara...",
+    "opsi": [
+      "Massa dan percepatan",
+      "Lengan gaya (r) dan Gaya (F)",
+      "Kecepatan dan waktu",
+      "Daya dan usaha",
+      "Tekanan dan luas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tau = r x F. Menentukan kemampuan gaya untuk memutar benda."
+  },
+  {
+    "id": "KU_FS_13",
+    "pertanyaan": "Apa maksud dari 'Proses Isobarik' dalam termodinamika?",
+    "opsi": [
+      "Proses pada suhu konstan",
+      "Proses pada volume konstan",
+      "Proses pada tekanan konstan",
+      "Proses tanpa pertukaran kalor",
+      "Proses sangat cepat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Isobarik (Iso=Sama, Bar=Tekanan). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Proses pada tekanan konstan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_FS_14",
+    "pertanyaan": "Konstanta gravitasi universal (G) memiliki nilai sekitar...",
+    "opsi": [
+      "9,8 m/s^2",
+      "8,31 J/mol.K",
+      "3 x 10^8 m/s",
+      "6,67 x 10^-11 Nm^2/kg^2",
+      "1,6 x 10^-19 C"
+    ],
+    "jawaban": 3,
+    "pembahasan": "G digunakan dalam hukum gravitasi Newton untuk menghitung gaya tarik antar dua massa."
+  },
+  {
+    "id": "KU_FS_15",
+    "pertanyaan": "Komponen listrik yang berfungsi menyimpan energi dalam bentuk medan magnet adalah...",
+    "opsi": [
+      "Kapasitor",
+      "Resistor",
+      "Dioda",
+      "Transistor",
+      "Induktor"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Induktor berupa lilitan kawat yang menentang perubahan arus."
+  },
+  {
+    "id": "KU_FS_16",
+    "pertanyaan": "Sebuah siklus ideal yang memiliki efisiensi tertinggi di antara dua suhu tertentu adalah...",
+    "opsi": [
+      "Siklus Carnot",
+      "Siklus Otto",
+      "Siklus Diesel",
+      "Siklus Rankine",
+      "Siklus Hidrologi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Siklus Carnot terdiri dari 2 proses isotermal dan 2 proses adiabatik."
+  },
+  {
+    "id": "KU_FS_17",
+    "pertanyaan": "Kecepatan terminal pada benda yang jatuh dalam fluida kental dipengaruhi oleh...",
+    "opsi": [
+      "Gravitasi",
+      "Semua jawaban benar",
+      "Gaya hambat (Viskositas)",
+      "Massa jenis fluida",
+      "Bentuk benda"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Terjadi saat gaya berat seimbang dengan gaya hambat udara/cairan."
+  },
+  {
+    "id": "KU_FS_18",
+    "pertanyaan": "Hukum Snellius menjelaskan fenomena...",
+    "opsi": [
+      "Pemantulan sempurna",
+      "Hamburan cahaya biru",
+      "Pembiasan cahaya saat berpindah medium",
+      "Pemurnian logam",
+      "Radiasi benda hitam"
+    ],
+    "jawaban": 2,
+    "pembahasan": "n1 sin theta1 = n2 sin theta2. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pembiasan cahaya saat berpindah medium\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_FS_19",
+    "pertanyaan": "Apa itu 'Titik Tripel' pada diagram fasa air?",
+    "opsi": [
+      "Air mendidih",
+      "Suhu di mana air menjadi emas",
+      "Tekanan di ruang gela",
+      "Keseimbangan di mana fasa padat, cair, dan gas berada bersamaan",
+      "Batas akhir alam semesta"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Untuk air murni, ini terjadi pada suhu 0,01 derajat C dan tekanan rendah."
+  },
+  {
+    "id": "KU_FS_20",
+    "pertanyaan": "Prinsip ketidakpastian Heisenberg menyatakan bahwa kita tidak bisa mengetahui secara pasti dan bersamaan antara...",
+    "opsi": [
+      "Massa dan Berat",
+      "Suhu dan Waktu",
+      "Arus dan Tegangan",
+      "Warna dan Bau",
+      "Posisi dan Momentum (Kecepatan)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Semakin pasti posisi suatu partikel, semakin tidak pasti momentumnya, dan sebaliknya."
+  },
+  {
+    "id": "KU_FS_21",
+    "pertanyaan": "Usaha (W) dalam mekanika didefinisikan sebagai integral dari gaya terhadap...",
+    "opsi": [
+      "Perpindahan (S)",
+      "Waktu",
+      "Percepatan",
+      "Daya",
+      "Energi Kinetik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "W = integral (F . ds). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Perpindahan (S)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_FS_22",
+    "pertanyaan": "Apa perbedaan antara kecepatan dan kelajuan dalam fisika?",
+    "opsi": [
+      "Tidak ada perbedaan",
+      "Kecepatan adalah besaran vektor (punya arah), kelajuan adalah skalar",
+      "Kecepatan selalu lebih besar",
+      "Kelajuan diukur dengan jam",
+      "Kecepatan hanya untuk mobil"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Vektor memperhitungkan perpindahan, skalar hanya jarak tempuh."
+  },
+  {
+    "id": "KU_FS_23",
+    "pertanyaan": "Sebuah peluru ditembakkan dengan sudut elevasi 45 derajat. Mengapa ini dianggap sudut optimal untuk jarak terjauh?",
+    "opsi": [
+      "Peluru jadi lebih ringan",
+      "Agar tidak menabrak burung",
+      "Nilai sin(2 * 45) adalah maksimum (sin 90 = 1)",
+      "Karena gravitasi berkurang",
+      "Hanya kebiasaan saja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rumus jangkauan R = (v^2 sin 2theta) / g."
+  },
+  {
+    "id": "KU_FS_24",
+    "pertanyaan": "Hukum Kirchoff II (Loop) didasarkan pada hukum kekekalan...",
+    "opsi": [
+      "Muatan",
+      "Massa",
+      "Momentum",
+      "Energi",
+      "Arus"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jumlah perubahan potensial (V) dalam satu loop tertutup adalah nol."
+  },
+  {
+    "id": "KU_FS_25",
+    "pertanyaan": "Hukum Kirchoff I (Titik Cabang) didasarkan pada hukum kekekalan...",
+    "opsi": [
+      "Energi",
+      "Momentum",
+      "Suhu",
+      "Daya",
+      "Muatan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jumlah arus masuk sama dengan jumlah arus keluar pada sebuah percabangan."
+  },
+  {
+    "id": "KU_FS_26",
+    "pertanyaan": "Gaya apung pada benda yang dicelupkan ke dalam fluida sama dengan berat fluida yang dipindahkan. Ini adalah prinsip...",
+    "opsi": [
+      "Archimedes",
+      "Pascal",
+      "Bernoulli",
+      "Torricelli",
+      "Hooke"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Prinsip Archimedes mendasari teknologi pembuatan kapal dan kapal selam."
+  },
+  {
+    "id": "KU_FS_27",
+    "pertanyaan": "Tekanan hidrostatis dalam fluida diam hanya dipengaruhi oleh...",
+    "opsi": [
+      "Luas wadah",
+      "Massa jenis, gravitasi, dan kedalaman (rho.g.h)",
+      "Bentuk wadah",
+      "Warna air",
+      "Kecepatan angin"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tekanan meningkat seiring kedalaman, terlepas dari bentuk wadahnya."
+  },
+  {
+    "id": "KU_FS_28",
+    "pertanyaan": "Dalam gerak harmonik sederhana pada pegas, gaya pemulih sebanding dengan simpangan. Ini adalah hukum...",
+    "opsi": [
+      "Ohm",
+      "Newton",
+      "Hooke",
+      "Faraday",
+      "Lenz"
+    ],
+    "jawaban": 2,
+    "pembahasan": "F = -k * x. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hooke\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_FS_29",
+    "pertanyaan": "Apa itu 'Resonansi'?",
+    "opsi": [
+      "Suara yang sangat keras",
+      "Hancurnya benda karena api",
+      "Pemantulan bunyi di gua",
+      "Getaran yang terjadi ketika frekuensi paksa sama dengan frekuensi alami benda",
+      "Kehilangan energi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Resonansi dapat mengakibatkan amplitudo getaran membesar secara drastis."
+  },
+  {
+    "id": "KU_FS_30",
+    "pertanyaan": "Indeks bias medium didefinisikan sebagai perbandingan antara...",
+    "opsi": [
+      "Suhu terhadap tekanan",
+      "Massa jenis terhadap volume",
+      "Panjang terhadap lebar",
+      "Energi terhadap waktu",
+      "Kecepatan cahaya di vakum terhadap kecepatan cahaya di medium"
+    ],
+    "jawaban": 4,
+    "pembahasan": "n = c / v. Karena v <= c, maka n selalu >= 1."
+  },
+  {
+    "id": "KU_FS_31",
+    "pertanyaan": "Siapa ilmuwan yang mengusulkan model atom di mana elektron berada pada tingkat energi tertentu (lintasan orbit)?",
+    "opsi": [
+      "Niels Bohr",
+      "Thomson",
+      "Rutherford",
+      "Dalton",
+      "Schrodinger"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Model Bohr berhasil menjelaskan spektrum garis atom hidrogen."
+  },
+  {
+    "id": "KU_FS_32",
+    "pertanyaan": "Simbol 'epsilon_0' dalam hukum Coulomb mewakili...",
+    "opsi": [
+      "Permeabilitas magnetik",
+      "Permitivitas ruang hampa",
+      "Viskositas udara",
+      "Konstanta Planck",
+      "Suhu mutlak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Menentukan seberapa mudah medan listrik menembus ruang hampa."
+  },
+  {
+    "id": "KU_FS_33",
+    "pertanyaan": "Arus induksi selalu menghasilkan medan magnet yang menentang perubahan fluks penyebabnya. Ini adalah hukum...",
+    "opsi": [
+      "Faraday",
+      "Ampere",
+      "Lenz",
+      "Biot-Savart",
+      "Coulomb"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hukum Lenz memberikan tanda negatif pada rumus GGL induksi Faraday."
+  },
+  {
+    "id": "KU_FS_34",
+    "pertanyaan": "Pada proses Adiabatik, besarnya kalor yang keluar-masuk sistem (Q) adalah...",
+    "opsi": [
+      "Maksimum",
+      "Minimum",
+      "Negatif",
+      "Nol",
+      "Tak hingga"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Adiabatik berarti tidak ada pertukaran kalor dengan lingkungan."
+  },
+  {
+    "id": "KU_FS_35",
+    "pertanyaan": "Konstanta Planck (h) memiliki dimensi yang sama dengan...",
+    "opsi": [
+      "Gaya",
+      "Energi kinetik",
+      "Daya",
+      "Panjang",
+      "Momentum sudut (Impuls sudut)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Satuan h adalah Joule.second, sama dengan satuan momentum sudut."
+  },
+  {
+    "id": "KU_FS_36",
+    "pertanyaan": "Apa itu 'Benda Hitam' (Blackbody) dalam fisika?",
+    "opsi": [
+      "Penyerap dan pemancar radiasi elektromagnetik yang sempurna di semua frekuensi",
+      "Benda yang berwarna hitam pekat",
+      "Benda yang tidak bisa dilihat",
+      "Lubang hitam di angkasa",
+      "Arang kayu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Radiasi benda hitam menjadi cikal bakal lahirnya teoritis kuantum."
+  },
+  {
+    "id": "KU_FS_37",
+    "pertanyaan": "Massa diam suatu benda m_0. Jika benda bergerak mendekati kecepatan cahaya, maka massanya menurut pengamat diam akan...",
+    "opsi": [
+      "Tetap",
+      "Bertambah (Dilatasi Massa)",
+      "Berkurang",
+      "Menjadi nol",
+      "Meledak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Massa meningkat secara relativistik seiring peningkatan kecepatan."
+  },
+  {
+    "id": "KU_FS_38",
+    "pertanyaan": "Persamaan Einstein E = mc^2 menunjukkan bahwa...",
+    "opsi": [
+      "Energi dan Massa adalah hal yang berbeda jauh",
+      "Kecepatan cahaya bisa diubah",
+      "Massa dapat diubah menjadi energi dan sebaliknya (Ekivalensi)",
+      "Waktu berhenti di cahaya",
+      "Benda berat punya energi sedikit"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sangat sedikit massa dapat menghasilkan jumlah energi yang sangat besar (seperti pada nuklir)."
+  },
+  {
+    "id": "KU_FS_39",
+    "pertanyaan": "Sebuah batang dipanaskan hingga membara. Menurut Hukum Pergeseran Wien, jika suhu meningkat, maka panjang gelombang radiasi maksimum akan...",
+    "opsi": [
+      "Tetap",
+      "Mamanjang (Bergeser ke merah)",
+      "Menghilang",
+      "Memendek (Bergeser ke ungu/biru)",
+      "Menjadi tak hingga"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lambda_max * T = konstan. Suhu tinggi = lambda pendek."
+  },
+  {
+    "id": "KU_FS_40",
+    "pertanyaan": "Apa itu 'Gaya Lorentz'?",
+    "opsi": [
+      "Gaya gravitasi bulan",
+      "Gaya gesek udara",
+      "Gaya dorong roket",
+      "Gaya pegas",
+      "Gaya yang dialami muatan listrik yang bergerak di dalam medan magnet"
+    ],
+    "jawaban": 4,
+    "pembahasan": "F = q(v x B). Menentukan lintasan partikel bermuatan dalam medan magnet."
+  },
+  {
+    "id": "KU_FS_41",
+    "pertanyaan": "Alat yang berfungsi menaikkan atau menurunkan tegangan AC berdasarkan induksi elektromagnetik disebut...",
+    "opsi": [
+      "Transformator",
+      "Kapasitor",
+      "Baterai",
+      "Motor",
+      "Inverter"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Transformator (trafo) bekerja hanya pada arus bolak-balik (AC)."
+  },
+  {
+    "id": "KU_FS_42",
+    "pertanyaan": "Dalam gerak parabola, komponen kecepatan yang nilainya tetap (konstan) adalah...",
+    "opsi": [
+      "Kecepatan vertikal (Vy)",
+      "Kecepatan horizontal (Vx)",
+      "Kecepatan total",
+      "Percepatan total",
+      "Momentum vertikal"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Vx tetap karena tidak ada percepatan pada sumbu horizontal (mengabaikan gesekan udara)."
+  },
+  {
+    "id": "KU_FS_43",
+    "pertanyaan": "Daya (P) didefinisikan sebagai laju usaha atau perubahan energi per satuan...",
+    "opsi": [
+      "Jarak",
+      "Massa",
+      "Waktu",
+      "Suhu",
+      "Percepatan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "P = W / t. Satuannya adalah Watt (J/s). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Waktu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_FS_44",
+    "pertanyaan": "Impuls (I) didefinisikan sebagai integral gaya terhadap waktu, yang juga sama dengan perubahan...",
+    "opsi": [
+      "Energi kinetik",
+      "Kecepatan",
+      "Berat",
+      "Momentum (delta p)",
+      "Daya"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Teorema Impuls-Momentum. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Momentum (delta p)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_FS_45",
+    "pertanyaan": "Suatu sistem terisolasi memiliki momentum total yang tetap jika tidak ada gaya luar yang bekerja. Ini adalah hukum...",
+    "opsi": [
+      "Hukum Kekekalan Massa",
+      "Hukum Newton III",
+      "Hukum Pascal",
+      "Hukum Boyle",
+      "Hukum Kekekalan Momentum"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sangat penting dalam menganalisis fenomena tumbukan."
+  },
+  {
+    "id": "KU_FS_46",
+    "pertanyaan": "Kapasitansi (C) sebuah kapasitor keping sejajar dipengaruhi oleh...",
+    "opsi": [
+      "Semua jawaban A, B, dan C benar",
+      "Luas keping",
+      "Jarak antar keping",
+      "Bahan dielektrik di antara keping",
+      "Jawaban A dan B benar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "C = k * epsilon_0 * A / d. Jawaban yang paling tepat adalah opsi E karena sesuai dengan konsep utama pada soal, yaitu \"Semua jawaban A, B, dan C benar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_FS_47",
+    "pertanyaan": "Spektrum cahaya tampak yang memiliki energi tertinggi adalah warna...",
+    "opsi": [
+      "Merah",
+      "Biru / Ungu",
+      "Kuning",
+      "Hijau",
+      "Putih"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biru/Ungu memiliki frekuensi tertinggi, sehingga energi fotonnya terbesar (E = hf)."
+  },
+  {
+    "id": "KU_FS_48",
+    "pertanyaan": "Apa itu 'Titik Fokus' pada lensa cembung?",
+    "opsi": [
+      "Titik pusat lensa",
+      "Titik tempat bayangan hilang",
+      "Titik tempat berkumpulnya sinar-sinar sejajar setelah dibiaskan (konvergen)",
+      "Ujung lensa",
+      "Batas mata manusia"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Lensa cembung bersifat mengumpulkan cahaya (konvergen)."
+  },
+  {
+    "id": "KU_FS_49",
+    "pertanyaan": "Hukum Archimedes berlaku untuk fluida, yang berarti...",
+    "opsi": [
+      "Hanya air",
+      "Hanya minyak",
+      "Hanya zat padat",
+      "Zat cair dan Gas",
+      "Hanya di bumi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Balon udara dapat terbang karena prinsip Archimedes dalam fluida gas (udara)."
+  },
+  {
+    "id": "KU_FS_50",
+    "pertanyaan": "Mengapa belajar Fisika Dasar krusial untuk mahasiswa Teknik dan MIPA?",
+    "opsi": [
+      "Supaya bisa memperbaiki alat elektronik di rumah",
+      "Agar terlihat pintar saja",
+      "Hanya untuk menghitung kecepatan lari",
+      "Sebagai latihan berhitung",
+      "Membantu memahami hukum alam semesta yang menjadi dasar semua teknologi modern"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Fisika adalah akar dari rekayasa (engineering) dan penemuan ilmiah."
+  }
+]

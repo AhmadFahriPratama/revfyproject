@@ -1,0 +1,607 @@
+{
+  "id": "latihan-tk-fondasi-01",
+  "tipe": "TK",
+  "mapel": "Fase Fondasi",
+  "soal": [
+    {
+      "id": "tk-01",
+      "teks": "Apa yang harus kita ucapkan setelah dibantu orang lain?",
+      "opsi": {
+        "A": "Terima kasih",
+        "B": "Maaf",
+        "C": "Tolong"
+      },
+      "kunci": "A",
+      "pembahasan": "Mengucapkan terima kasih adalah bentuk rasa syukur dan sopan santun karena orang lain telah membantu kita.",
+      "trik": "Ditolong = Terima kasih. Bersalah = Maaf. Minta bantuan = Tolong."
+    },
+    {
+      "id": "tk-02",
+      "teks": "Sebelum makan, hal yang paling penting untuk dilakukan adalah...",
+      "opsi": {
+        "A": "Bermain tanah",
+        "B": "Mencuci tangan",
+        "C": "Tidur siang"
+      },
+      "kunci": "B",
+      "pembahasan": "Mencuci tangan sebelum makan membunuh kuman penyakit agar perut tidak sakit.",
+      "trik": "Tangan kotor = Kuman masuk perut."
+    },
+    {
+      "id": "tk-03",
+      "teks": "Manakah benda yang merupakan ciptaan Tuhan?",
+      "opsi": {
+        "A": "Mobil",
+        "B": "Boneka",
+        "C": "Pohon"
+      },
+      "kunci": "C",
+      "pembahasan": "Pohon adalah makhluk hidup ciptaan Tuhan. Mobil dan boneka dibuat oleh manusia.",
+      "trik": "Benda hidup (hewan, tumbuhan, manusia) diciptakan Tuhan."
+    },
+    {
+      "id": "tk-04",
+      "teks": "Ibu membelikan mainan es krim warna merah, kuning, dan hijau. Berapa jumlah es krim yang dibeli?",
+      "opsi": {
+        "A": "3",
+        "B": "2",
+        "C": "4"
+      },
+      "kunci": "A",
+      "pembahasan": "Satu merah, satu kuning, satu hijau. 1 + 1 + 1 = 3 es krim.",
+      "trik": "Hitung jumlah warnanya pakai jari."
+    },
+    {
+      "id": "tk-05",
+      "teks": "Benda mana yang bentuknya seperti lingkaran?",
+      "opsi": {
+        "A": "Buku tulis",
+        "B": "Roda sepeda",
+        "C": "Atap rumah"
+      },
+      "kunci": "B",
+      "pembahasan": "Roda sepeda berbentuk bulat dan bisa menggelinding (lingkaran). Buku itu kotak, atap rumah biasanya segitiga.",
+      "trik": "Lingkaran = Bulat sempurna tanpa sudut."
+    },
+    {
+      "id": "tk-06",
+      "teks": "Hewan apa yang bunyinya 'Mbek.... mbek...'?",
+      "opsi": {
+        "A": "Ayam",
+        "B": "Sapi",
+        "C": "Kambing"
+      },
+      "kunci": "C",
+      "pembahasan": "Kambing berbunyi mbek. Ayam berbunyi kukuruyuk, sapi berbunyi mooo.",
+      "trik": "Ingat huruf awalan M-B-E-K."
+    },
+    {
+      "id": "tk-07",
+      "teks": "Huruf apa yang ada di awal kata 'B U K U'?",
+      "opsi": {
+        "A": "B",
+        "B": "A",
+        "C": "U"
+      },
+      "kunci": "A",
+      "pembahasan": "Kata B-U-K-U diawali dengan huruf B lalu U lalu K lalu U.",
+      "trik": "Huruf awal = huruf yang letaknya paling depan / kiri."
+    },
+    {
+      "id": "tk-08",
+      "teks": "Apa yang harus kita lakukan jika kita berbuat salah kepada teman?",
+      "opsi": {
+        "A": "Lari",
+        "B": "Minta maaf",
+        "C": "Menangis"
+      },
+      "kunci": "B",
+      "pembahasan": "Minta maaf menunjukkan anak yang baik dan berani mengakui kesalahan.",
+      "trik": "Salah = Maaf."
+    },
+    {
+      "id": "tk-09",
+      "teks": "Manakah makanan yang baik untuk kesehatan tubuh kita?",
+      "opsi": {
+        "A": "Permen kapas",
+        "B": "Keripik pedas",
+        "C": "Sayur bayam"
+      },
+      "kunci": "C",
+      "pembahasan": "Sayur bayam mengandung vitamin yang membuat tubuh sehat dan kuat.",
+      "trik": "Maknan sehat = sayur, buah, susu."
+    },
+    {
+      "id": "tk-10",
+      "teks": "Di langit pada siang hari yang cerah, kita bisa melihat...",
+      "opsi": {
+        "A": "Matahari",
+        "B": "Bintang",
+        "C": "Bulan sabit"
+      },
+      "kunci": "A",
+      "pembahasan": "Matahari bersinar di siang hari dan memberikan panas serta cahaya.",
+      "trik": "Siang = Terang = Matahari."
+    },
+    {
+      "id": "tk-11",
+      "teks": "Hewan yang bergerak dengan cara melompat adalah...",
+      "opsi": {
+        "A": "Ular",
+        "B": "Kelinci",
+        "C": "Ikan"
+      },
+      "kunci": "B",
+      "pembahasan": "Kelinci bergerak dengan melompat. Ular melata, ikan berenang.",
+      "trik": "Kelinci = Wortel = Melompat."
+    },
+    {
+      "id": "tk-12",
+      "teks": "Mana benda yang digunakan untuk menggosok gigi?",
+      "opsi": {
+        "A": "Sampo",
+        "B": "Sabun",
+        "C": "Sikat gigi"
+      },
+      "kunci": "C",
+      "pembahasan": "Sikat gigi dan pasta gigi digunakan untuk membersihkan gigi dari sisa makanan.",
+      "trik": "Ada kata 'gigi' di pertanyaan dan jawaban."
+    },
+    {
+      "id": "tk-13",
+      "teks": "Ada 2 burung di dahan pohon. Datang 1 burung lagi ikut bertengger. Ada berapa burung sekarang?",
+      "opsi": {
+        "A": "3",
+        "B": "2",
+        "C": "4"
+      },
+      "kunci": "A",
+      "pembahasan": "2 ditambah 1 sama dengan 3. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Angkat 2 jari, tambah 1 jari lagi."
+    },
+    {
+      "id": "tk-14",
+      "teks": "Apa warna daun pohon manga di depan sekolah?",
+      "opsi": {
+        "A": "Merah",
+        "B": "Hijau",
+        "C": "Biru"
+      },
+      "kunci": "B",
+      "pembahasan": "Sebagian besar daun sehat di pohon berwaran hijau.",
+      "trik": "Daun = Hijau."
+    },
+    {
+      "id": "tk-15",
+      "teks": "Kegiatan yang melatih jari-jari tangan adalah...",
+      "opsi": {
+        "A": "Berlari memutar",
+        "B": "Melompat tali",
+        "C": "Bermain balok kayu"
+      },
+      "kunci": "C",
+      "pembahasan": "Menyusun balok melatih otot jari tangan (motorik halus). Lari dan lompat melatih kaki (motorik kasar).",
+      "trik": "Jari untuk memegang benda kecil seperti balok/pensil."
+    },
+    {
+      "id": "tk-16",
+      "teks": "Bima punya 4 bola. Dia membagikan 1 bola ke Andi. Sisa bola Bima adalah...",
+      "opsi": {
+        "A": "3",
+        "B": "5",
+        "C": "4"
+      },
+      "kunci": "A",
+      "pembahasan": "Membagikan berarti dikurangi. 4 - 1 = 3.",
+      "trik": "Angkat 4 jari, lipat 1 jari."
+    },
+    {
+      "id": "tk-17",
+      "teks": "Alat indra untuk mencium bau masakan ibu adalah...",
+      "opsi": {
+        "A": "Mata",
+        "B": "Hidung",
+        "C": "Telinga"
+      },
+      "kunci": "B",
+      "pembahasan": "Hidung berfungsi untuk penciuman bau harum dan busuk.",
+      "trik": "Hidung = Cium bau. Mata = Lihat. Telinga = Dengar."
+    },
+    {
+      "id": "tk-18",
+      "teks": "Saat membuang ingus atau batuk, kita harus...",
+      "opsi": {
+        "A": "Berteriak nyaring",
+        "B": "Menyembur ke teman",
+        "C": "Menutup mulut dan hidung"
+      },
+      "kunci": "C",
+      "pembahasan": "Menutup mulut dengan lengan/tisu agar kuman tidak menyebar ke orang lain.",
+      "trik": "Tutupi batuk agar kuman tidak terbang."
+    },
+    {
+      "id": "tk-19",
+      "teks": "Benda apakah yang melindungi kepala saat hujan supaya tidak basah?",
+      "opsi": {
+        "A": "Payung / Jas Hujan",
+        "B": "Sepatu",
+        "C": "Kacamata"
+      },
+      "kunci": "A",
+      "pembahasan": "Payung dan jas hujan anti air dan melindungi kepala/badan dari tetesan hujan.",
+      "trik": "Hujan = Air = Payung."
+    },
+    {
+      "id": "tk-20",
+      "teks": "Bentuk potongan pizza adalah...",
+      "opsi": {
+        "A": "Kotak (Persegi)",
+        "B": "Segitiga",
+        "C": "Lingkaran penuh"
+      },
+      "kunci": "B",
+      "pembahasan": "Satu potongan pizza biasanya dipotong menyerupai bentuk segitiga (punya 3 sudut).",
+      "trik": "Ujung pizza meruncing = Segitiga."
+    },
+    {
+      "id": "tk-21",
+      "teks": "Kata 'M - E - J - A' dibaca...",
+      "opsi": {
+        "A": "Mejo",
+        "B": "Maju",
+        "C": "Meja"
+      },
+      "kunci": "C",
+      "pembahasan": "M-e = me, j-a = ja. Dibaca: meja. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Meja\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Huruf vokal A membunyikan suku kata 'Ja'."
+    },
+    {
+      "id": "tk-22",
+      "teks": "Untuk menempel sebuah kertas prakarya, kita membutuhkan...",
+      "opsi": {
+        "A": "Lem",
+        "B": "Gunting",
+        "C": "Pewarna"
+      },
+      "kunci": "A",
+      "pembahasan": "Lem digunakan untuk merekatkan benda / menempel. Gunting untuk memotong.",
+      "trik": "Menempel = merekat = Lem."
+    },
+    {
+      "id": "tk-23",
+      "teks": "Ikan bernapas dan berenang di dalam...",
+      "opsi": {
+        "A": "Tanah",
+        "B": "Air",
+        "C": "Udara"
+      },
+      "kunci": "B",
+      "pembahasan": "Ikan memiliki insang untuk bernapas hidup di air.",
+      "trik": "Ikan di darat akan melompat-lompat mencari air."
+    },
+    {
+      "id": "tk-24",
+      "teks": "Suara klakson mobil saat melaju berbunyi...",
+      "opsi": {
+        "A": "Guk guk!",
+        "B": "Tik tok tik tok!",
+        "C": "Tin! Tin!"
+      },
+      "kunci": "C",
+      "pembahasan": "Klakson kendaraan roda empat biasanya berbunyi nyaring seperti 'Tin-tin'.",
+      "trik": "Jam = Tik tok, Anjing = Guk, Mobil = Tin tin."
+    },
+    {
+      "id": "tk-25",
+      "teks": "Di tempat penyeberangan jalan ada garis putih, namanya apa?",
+      "opsi": {
+        "A": "Zebra cross",
+        "B": "Garis putus",
+        "C": "Tembok bata"
+      },
+      "kunci": "A",
+      "pembahasan": "Zebra cross adalah tempat aman pejalan kaki menyeberang hitam putih seperti zebra.",
+      "trik": "Bentuknya belang putih hitam = Hewan Zebra."
+    },
+    {
+      "id": "tk-26",
+      "teks": "Setiap hari kita disapa ibu guru di sekolah. Kita dipanggil murid. Ibu guru adalah...",
+      "opsi": {
+        "A": "Saudari kita",
+        "B": "Pendidik kita di sekolah",
+        "C": "Polisi lalu lintas"
+      },
+      "kunci": "B",
+      "pembahasan": "Guru adalah orang yang membimbing, mendidik, dan mengajar murid-murid di sekolah.",
+      "trik": "Guru mengajar di Sekolah."
+    },
+    {
+      "id": "tk-27",
+      "teks": "Kalau melihat sampah kertas di lantai kelas, sebaiknya kita...",
+      "opsi": {
+        "A": "Tendang saja",
+        "B": "Biarkan bersih sendiri",
+        "C": "Pungut dan buang di bak sampah"
+      },
+      "kunci": "C",
+      "pembahasan": "Merapikan dan membersihkan lantai adalah sikap mencintai lingkungan.",
+      "trik": "Ada sampah = Masukkan bak sampah."
+    },
+    {
+      "id": "tk-28",
+      "teks": "Hewan unggas yang bertelur dan sering dijadikan lauk sarapan...",
+      "opsi": {
+        "A": "Ayam",
+        "B": "Sapi",
+        "C": "Kuda"
+      },
+      "kunci": "A",
+      "pembahasan": "Ayam betina mengerami telur yang bergizi dikonsumsi (telur ayam). Sapi menghasilkan susu sapi.",
+      "trik": "Telur mata sapi = dari ayam."
+    },
+    {
+      "id": "tk-29",
+      "teks": "Apel yang manis rasanya..., jika mentah rasanya...",
+      "opsi": {
+        "A": "Asin dan Pedas",
+        "B": "Manis dan Asam",
+        "C": "Pahit dan Enak"
+      },
+      "kunci": "B",
+      "pembahasan": "Buah apel yang matang rasanya manis, kalau apelnya masih mentah warnanya asir/asam.",
+      "trik": "Buah = Manis/Asam."
+    },
+    {
+      "id": "tk-30",
+      "teks": "5 - 2 = ...",
+      "opsi": {
+        "A": "2",
+        "B": "4",
+        "C": "3"
+      },
+      "kunci": "C",
+      "pembahasan": "Angkat lima jari. Turunkan dua jari. Sisa jari yang berdiri adalah 3.",
+      "trik": "Hitung mundur: 4... 3."
+    },
+    {
+      "id": "tk-31",
+      "teks": "Alat transportasi yang terbang di atas awan adalah...",
+      "opsi": {
+        "A": "Pesawat",
+        "B": "Kereta Api",
+        "C": "Kapal Laut"
+      },
+      "kunci": "A",
+      "pembahasan": "Pesawat udara memiliki sayap dan terbang tinggi. Kereta di rel. Kapal di air.",
+      "trik": "Terbang = Punya sayap layaknya burung (pesawat)."
+    },
+    {
+      "id": "tk-32",
+      "teks": "Waktu untuk tidur merebahkan badan malam hari karena gelap dinamakan...",
+      "opsi": {
+        "A": "Pagi",
+        "B": "Malam",
+        "C": "Siang"
+      },
+      "kunci": "B",
+      "pembahasan": "Malam hari ditandai bulan keluar dan cahaya matahari tenggelam sehingga waktunya istirahat.",
+      "trik": "Gelap + Tidur pulas = Malam."
+    },
+    {
+      "id": "tk-33",
+      "teks": "Siapa yang mengecat dinding menggunakan pewarna basah dengan memakai kuas besar atau kecil?",
+      "opsi": {
+        "A": "Polisi",
+        "B": "Dokter gigi",
+        "C": "Pelukis / Tukang cat"
+      },
+      "kunci": "C",
+      "pembahasan": "Alat pelukis adalah kuas dan kanvas/dinding. Polisi membawa peluit, dokter gigi pakai jas putih bersihkan gigi.",
+      "trik": "Kuas + cat = melukis / pelukis."
+    },
+    {
+      "id": "tk-34",
+      "teks": "Tali sepatu Toni lepas. Supaya Toni tidak jatuh, ia akan...",
+      "opsi": {
+        "A": "Mengikat kembali tali sepatunya",
+        "B": "Membiarkan saja",
+        "C": "Memotong talinya"
+      },
+      "kunci": "A",
+      "pembahasan": "Motorik halus diajarkan PAUD yaitu memakai tali sepatu dengan cara mengikat agar tidak tersandung.",
+      "trik": "Lepas = harus diikat lagi."
+    },
+    {
+      "id": "tk-35",
+      "teks": "Hewan manakah yang memiliki hidung super panjang?",
+      "opsi": {
+        "A": "Jerapah",
+        "B": "Gajah",
+        "C": "Buaya"
+      },
+      "kunci": "B",
+      "pembahasan": "Gajah punya belalai (hidung panjang). Jerapah punya leher yang panjang.",
+      "trik": "Belalai hanya dimiliki Gajah."
+    },
+    {
+      "id": "tk-36",
+      "teks": "Orang tua yang melahirkan anak dipanggil...",
+      "opsi": {
+        "A": "Ayah",
+        "B": "Paman",
+        "C": "Ibu"
+      },
+      "kunci": "C",
+      "pembahasan": "Ibu yang mengandung serta melahirkan, ayah turut menjaga keluarga.",
+      "trik": "Melahirkan hanya Ibu betina/perempuan."
+    },
+    {
+      "id": "tk-37",
+      "teks": "Bunga mekar memiliki bau yang...",
+      "opsi": {
+        "A": "Harum / Wangi",
+        "B": "Busuk",
+        "C": "Pedas"
+      },
+      "kunci": "A",
+      "pembahasan": "Secara normal, kelopak bunga segar menebarkan aroma wangi mengundang lebah.",
+      "trik": "Bunga selalu diidentikkan dengan parfum yang wangi."
+    },
+    {
+      "id": "tk-38",
+      "teks": "Manakah yang merupakan hewan peliharaan jinak?",
+      "opsi": {
+        "A": "Singa",
+        "B": "Kucing",
+        "C": "Harimau"
+      },
+      "kunci": "B",
+      "pembahasan": "Kucing mungil dan jinak dirawat manusia. Singa dan harimau adalah hewan liar karnivora di hutan/savana.",
+      "trik": "Peliharaan = di dalam rumah."
+    },
+    {
+      "id": "tk-39",
+      "teks": "Air akan berubah menjadi es batu manakala disimpan di tempat yang...",
+      "opsi": {
+        "A": "Sangat panas",
+        "B": "Di saku celana",
+        "C": "Sangat dingin (Kulkas freezer)"
+      },
+      "kunci": "C",
+      "pembahasan": "Perubahan bentuk (Sains/STEAM Dasar): air cair dibekukan dengan suhu sangat rendah / dingin membeku jadi es keras.",
+      "trik": "Es krim mencair jika panas, padat jika beku/dingin."
+    },
+    {
+      "id": "tk-40",
+      "teks": "Dina menggabungkan warna kuning dengan merah apa reaksi campuran warna jadinya... (Secara sains / mewarnai visual)?",
+      "opsi": {
+        "A": "Oranye (Jingga)",
+        "B": "Coklat tua",
+        "C": "Ungu gelap"
+      },
+      "kunci": "A",
+      "pembahasan": "Seni mewarnai: merah dipadu kuning membentuk Oranye (kecerahan api).",
+      "trik": "Bila tak ingat, pikir buah Jeruk/Oranye!"
+    },
+    {
+      "id": "tk-41",
+      "teks": "Apa yang kita pakai saat matahari sedang panas-panasnya (supaya pandangan teduh dan gaya)?",
+      "opsi": {
+        "A": "Jas hujan",
+        "B": "Topi dan kacamata hitam",
+        "C": "Sepatu karet badut"
+      },
+      "kunci": "B",
+      "pembahasan": "Topi menahan silau muka dan panasnya kepala, kacamata hitam lindungi mata (kemandirian pakai pelindung).",
+      "trik": "Panas mentari = bertopi teduh!"
+    },
+    {
+      "id": "tk-42",
+      "teks": "Tirukan: A - I - U - ...  Apakah kelanjutannya?",
+      "opsi": {
+        "A": "P - Q",
+        "B": "5 - 6",
+        "C": "E - O"
+      },
+      "kunci": "C",
+      "pembahasan": "A-I-U-E-O adalah rangkaian vokal bunyi Indonesia yang dihapal TK.",
+      "trik": "A-I-U ...E...O !"
+    },
+    {
+      "id": "tk-43",
+      "teks": "Kita memiliki jari sebanyak sepuluh... Berada dimanakah jari kita?",
+      "opsi": {
+        "A": "Di tangan dan kaki",
+        "B": "Di rambut pipi",
+        "C": "Di dalam telinga"
+      },
+      "kunci": "A",
+      "pembahasan": "Mengenal tubuh kita (Jati diri). Tangan punya 10 jari, kaki punya 10 jari.",
+      "trik": "Lihat benda ajaib panjang yang kita andalkan meraba!"
+    },
+    {
+      "id": "tk-44",
+      "teks": "Orang yang menyetir mesin kereta api berjalur disebut?",
+      "opsi": {
+        "A": "Pilot",
+        "B": "Masinis",
+        "C": "Nahkoda"
+      },
+      "kunci": "B",
+      "pembahasan": "Sopir pesawat udara = Pilot, Kapal air = Nahkoda, Kereta Rel = Masinis.",
+      "trik": "Mesin-is = memandu kereta besi besar bermesin kereta api."
+    },
+    {
+      "id": "tk-45",
+      "teks": "Sinta memiliki sepasang mata. Jumlah matanya = ...?",
+      "opsi": {
+        "A": "1",
+        "B": "3",
+        "C": "2"
+      },
+      "kunci": "C",
+      "pembahasan": "Semua bayi manusia diciptakan Tuhan dengan dua bola mata menatap lurus ke depan.",
+      "trik": "Kata 'sepasang' selalu bermakna 2 buah selaras/sama."
+    },
+    {
+      "id": "tk-46",
+      "teks": "Lagu kebangkitan pagi apa yang paling dikenal di TK? 'Bebek ... ... , Burung kutilang...'",
+      "opsi": {
+        "A": "Burung Kakaktua, Pelangi, Bintang Kecil",
+        "B": "Adsa saja, tidak ada nyanyian.",
+        "C": "Lagu dangdut populer."
+      },
+      "kunci": "A",
+      "pembahasan": "Kesenian (Sains-Seni-Sastra): pelestarian nyanyian anak seperti Pelangi, Balonku, bintang kecil membangun jiwa imajinatif ramah.",
+      "trik": "Lagu penuh bintang alam yang damai."
+    },
+    {
+      "id": "tk-47",
+      "teks": "Bendera negara Republik Indonesia di sekolah dipasang dengan posisi warna yang benar yatu?",
+      "opsi": {
+        "A": "Hitam Abu",
+        "B": "Merah Putih",
+        "C": "Hijau Ungu"
+      },
+      "kunci": "B",
+      "pembahasan": "Merah putih adalah simbol jati diri rasa Bhineka nasional wajib dikenal anak Tk/Fase pondasi (hormat).",
+      "trik": "Merah darah Putih tulang tubuh."
+    },
+    {
+      "id": "tk-48",
+      "teks": "Tempat kita meminta maaf setiap kepada Tuhan berdoa di mana-mana diiringi di ruangan bernamakan apa (sesuai agama Islam)?",
+      "opsi": {
+        "A": "Di pasar jualan ramai sayur saja",
+        "B": "Di dapur belakang saja persembunyian",
+        "C": "Masjid dan Mushola (Agama islam), Gereja (Kristen/Katolik), Pura (Hindu), Vihara (Buddha), Klenteng (Khonghucu)"
+      },
+      "kunci": "C",
+      "pembahasan": "Tempat peribadahan merupakan tempat menyucikan jati diri moral (Kepercayaan Agama Nilai budi).",
+      "trik": "Rumah tempat kerohanian beratap suci."
+    },
+    {
+      "id": "tk-49",
+      "teks": "Di peternakan kakek, anak sapi suka memakan...",
+      "opsi": {
+        "A": "Rerumputan hijau",
+        "B": "Batu cadas gunung",
+        "C": "Potongan paku"
+      },
+      "kunci": "A",
+      "pembahasan": "Sains Hewan: Hewan jenis memamah biak / sapi-biri suka rumput subur.",
+      "trik": "Warna padang hijau adalah makan santapan mereka."
+    },
+    {
+      "id": "tk-50",
+      "teks": "Benda apakah berwarna putih empuk dipakai bantal buat istirahat kepala dikasur dan ada dilangit terbang ditiup angin laut?",
+      "opsi": {
+        "A": "Es keping balok atap.",
+        "B": "Awan bergerombol",
+        "C": "Pasir cokelat pesisir"
+      },
+      "kunci": "B",
+      "pembahasan": "Awan putih menyerupai kapas halus tempat langit STEAM alam (science nature identifikasi).",
+      "trik": "Halus-putih-di langit = awan."
+    }
+  ]
+}

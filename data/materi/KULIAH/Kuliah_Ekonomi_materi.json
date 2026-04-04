@@ -1,0 +1,53 @@
+{
+  "judul": "Ekonomi dan Manajemen (Dasar dan Lanjut)",
+  "tingkatan": "KULIAH",
+  "jurusasn": "Soshum / Ekonomi",
+  "deskripsi": "Materi tingkat universitas mengenai makroekonomi, mikroekonomi, manajemen operasional, manajemen pemasaran, akuntansi biaya, serta ekonomi moneter.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Mikroekonomi dan Makroekonomi",
+      "konten": "Teori permintaan dan penawaran lanjut, elastisitas, teori perilaku konsumen dan produsen. PDB/PDRB, inflasi, pengangguran, serta pertumbuhan ekonomi nasional.",
+      "tag": [
+        "kuliah ekonomi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Manajemen Pemasaran dan Strategi Bisnis",
+      "konten": "Marketing Mix (4P/7P), perilaku konsumen digital, riset pasar, segmentasi-targeting-positioning (STP), serta analisis SWOT dan Porter’s Five Forces.",
+      "tag": [
+        "kuliah ekonomi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Manajemen Keuangan dan Akuntansi",
+      "konten": "Laporan keuangan (Neraca, L/R, Arus Kas), analisis rasio keuangan, manajemen modal kerja, investasi (NPV, IRR), serta dasar-dasar perpajakan perusahaan.",
+      "tag": [
+        "kuliah ekonomi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Manajemen Sumber Daya Manusia (MSDM)",
+      "konten": "Rekrutmen dan seleksi, pelatihan dan pengembangan, evaluasi kinerja, manajemen kompensasi, serta hukum tenaga kerja dan hubungan industrial.",
+      "tag": [
+        "kuliah ekonomi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Ekonomi Moneter dan Ekonomi Digital",
+      "konten": "Peran bank sentral (BI), kebijakan moneter vs fiskal, instrumen pasar modal (Saham/Obligasi), serta tren ekonomi digital dan E-commerce.",
+      "tag": [
+        "kuliah ekonomi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-ekonomi-materi",
+  "mapel": "Ekonomi dan Manajemen (Dasar dan Lanjut)",
+  "tag": [
+    "kuliah ekonomi materi"
+  ]
+}

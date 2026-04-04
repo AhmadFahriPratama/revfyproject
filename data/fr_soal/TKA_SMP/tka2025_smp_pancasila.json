@@ -1,0 +1,54 @@
+{
+  "id": "FR_SMP_PANCASILA_2025",
+  "mapel": "FR TKA SMP Pendidikan Pancasila",
+  "tingkat": "SMP",
+  "soal": [
+    {
+      "id": "FR_SMP_PP_01",
+      "pertanyaan": "FR 2025: Pada ujian TKA SMP 2025, muncul kasus tentang 'Cara menyikapi perbedaan pendapat saat musyawarah di kelas'. Manakah tindakan yang paling sesuai dengan sila ke-4?",
+      "opsi": [
+        "Menghargai pendapat orang lain meskipun berbeda",
+        "Meninggalkan ruangan jika pendapat tidak diterima",
+        "Memaksa orang lain mengikuti pendapat kita",
+        "Diam saja dan tidak peduli",
+        "Melaporkan teman ke guru"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Sila ke-4 mengedepankan musyawarah dan menghargai keberagaman pendapat.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    },
+    {
+      "id": "FR_SMP_PP_02",
+      "pertanyaan": "FR 2025: Soal tentang amandemen UUD 1945. Peserta ditanya alasan mengapa Pembukaan UUD 1945 tidak boleh diubah. Alasan utamanya adalah...",
+      "opsi": [
+        "Karena terlalu panjang",
+        "Karena mengandung dasar negara dan cita-cita proklamasi",
+        "Karena sulit diubah",
+        "Karena sudah disahkan oleh PBB",
+        "Karena tidak ada yang berani"
+      ],
+      "jawaban": "B",
+      "pembahasan": "Mengubah pembukaan UUD 1945 sama dengan membubarkan NKRI karena di dalamnya terdapat Pancasila.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    },
+    {
+      "id": "FR_SMP_PP_03",
+      "pertanyaan": "FR 2025: Muncul soal studi kasus tentang 'Bullying di sekolah'. Tindakan bullying melanggar sila ke-...",
+      "opsi": [
+        "1",
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "jawaban": "C",
+      "pembahasan": "Sila ke-2 (Kemanusiaan yang adil dan beradab) sangat relevan dengan sikap menghargai sesama manusia.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    }
+  ],
+  "tahun": 2025,
+  "deskripsi": "Arsip rekonstruksi berdasarkan pola soal pada file tka2025_smp_pancasila.json."
+}

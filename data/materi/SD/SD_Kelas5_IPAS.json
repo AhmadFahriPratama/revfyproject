@@ -1,0 +1,30 @@
+{
+  "id": "materi-sd-kls5-ipas",
+  "tingkat": "SD Kelas 5",
+  "mapel": "IPAS",
+  "materi": "Sistem Organ Manusia, Ekosistem, Magnet, dan Sejarah Kemerdekaan RI",
+  "deskripsi": "Materi IPAS Kelas 5 mencakup sistem pencernaan dan pernapasan manusia/hewan, interaksi makhluk hidup dalam ekosistem, sifat magnet dan listrik statis, serta sejarah perjuangan kemerdekaan Indonesia.",
+  "konten": [
+    {
+      "bab": "1. Organ Pencernaan dan Pernapasan",
+      "teks": "Mengenal sistem pencernaan manusia (mulut, kerongkongan, lambung, usus halus, usus besar) dan fungsinya. Memahami sistem pernapasan manusia (hidung, tenggorokan, paru-paru) dan hewan."
+    },
+    {
+      "bab": "2. Ekosistem dan Jaring-jaring Makanan",
+      "teks": "Memahami konsep ekosistem, komponen biotik dan abiotik. Menganalisis rantai makanan, jaring-jaring makanan, serta keseimbangan ekosistem dan faktor yang mempengaruhinya."
+    },
+    {
+      "bab": "3. Sifat Gaya Magnet dan Listrik Sederhana",
+      "teks": "Mempelajari sifat-sifat magnet (memiliki dua kutub, tarik-menarik/tolak-menolak). Mengenal rangkaian listrik sederhana (seri dan paralel) dan komponen-komponennya."
+    },
+    {
+      "bab": "4. Siklus Air dan Pelestarian Bumi",
+      "teks": "Memahami tahapan siklus hidrologi (evaporasi, kondensasi, presipitasi, infiltrasi). Menganalisis dampak kegiatan manusia terhadap siklus air dan pentingnya melestarikan kelestarian bumi."
+    },
+    {
+      "bab": "5. Sejarah Perjuangan Kemerdekaan RI",
+      "teks": "Mempelajari masa penjajahan bangsa Eropa dan Jepang di Indonesia. Mengenang peristiwa-peristiwa penting menjelang Proklamasi Kemerdekaan, tokoh proklamator, dan makna kemerdekaan."
+    }
+  ],
+  "tag": ["sd-5", "ipas", "organ-manusia", "ekosistem", "magnet-listrik", "sejarah"]
+}

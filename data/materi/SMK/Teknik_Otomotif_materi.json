@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Teknik Otomotif",
+  "tingkatan": "SMK",
+  "jurusan": "Teknik / Otomotif",
+  "deskripsi": "Materi mengenai prinsip kerja mesin 2 tak dan 4 tak, sistem pemindah tenaga, kelistrikan otomotif, sistem rem dan kemudi, serta perawatan kendaraan ringan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar Mesin (Engine)",
+      "konten": "Prinsip kerja mesin pembakaran dalam (Internal Combustion Engine), perbedaan siklus kerja mesin 4 tak (4 stroke) dan 2 tak (2 stroke). Pengenalan komponen utama: Piston, Ring Piston, Blok Silinder, Poros Engkol.",
+      "tag": [
+        "teknik otomotif materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Sistem Bahan Baku dan Pembakaran",
+      "konten": "Cara kerja karburator vs sistem Injeksi (EFI). Pengenalan jenis bahan bakar, sistem udara masuk, saringan udara, serta prinsip pengapian menggunakan busi.",
+      "tag": [
+        "teknik otomotif materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Sistem Pemindah Tenaga (Drivetrain)",
+      "konten": "Fungsi Kopling (Clutch), Transmisi manual dan otomatis (CVT), Poros Propeller, Gardan (Differential), serta As Roda. Cara kerja perpindahan gigi untuk mengubah torsi dan kecepatan.",
+      "tag": [
+        "teknik otomotif materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Sistem Kelistrikan Otomotif",
+      "konten": "Dasar arus listrik pada kendaraan (DC 12V), penggunaan Baterai (Aki), Sistem Starter (menyalakan mesin), Sistem Pengisian (Alternator), serta sistem pencahayaan dan instrumen panel.",
+      "tag": [
+        "teknik otomotif materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Sistem Sasis, Suspensi, dan Rem",
+      "konten": "Pengenalan kerangka kendaraan (chassis), jenis-jenis suspensi (MacPherson, Double Wishbone), sistem kemudi (Steering), serta kerja sistem rem hidrolik (Disc Brake dan Drum Brake).",
+      "tag": [
+        "teknik otomotif materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "teknik-otomotif-materi",
+  "mapel": "Dasar-Dasar Teknik Otomotif",
+  "tag": [
+    "teknik otomotif materi"
+  ]
+}

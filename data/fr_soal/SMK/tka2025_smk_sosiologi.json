@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_SO_01",
+    "pertanyaan": "FR Dunia Kerja: Munculnya sistem kerja 'WFH' atau 'Work From Home' akibat pandemi merupakan perubahan sosial yang bersifat...",
+    "opsi": [
+      "Revolusi / Cepat",
+      "Evolusi",
+      "Direncanakan (Planned Change)",
+      "Kecil",
+      "Regress (Mundur)"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Pandemi memicu perubahan cara kerja global secara drastis dalam waktu singkat.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_SO_02",
+    "pertanyaan": "FR Sosial: Banyaknya bermunculan 'Influencer' di media sosial memengaruhi gaya hidup remaja. Faktor pendorong interaksi ini adalah...",
+    "opsi": [
+      "Simpati",
+      "Identifikasi dan Sugesti",
+      "Empati",
+      "Imitasi",
+      "Akomodasi"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Remaja cenderung identifikasi dengan idola dan tersugesti pesan-pesannya.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_SO_03",
+    "pertanyaan": "FR Budaya: Festival adat yang mulai dikomersialkan untuk pariwisata berisiko mengalami...",
+    "opsi": [
+      "Kemajuan budaya",
+      "Pelestarian mutlak",
+      "Komodifikasi budaya",
+      "Asimilasi total",
+      "Globalisasi"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Nilai sakral berubah menjadi nilai ekonomi.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_SO_04",
+    "pertanyaan": "FR Konflik: Perselisihan antara teknisi dan manajemen mengenai jam lembur diselesaikan lewat bantuan Dinas Tenaga Kerja. Ini contoh...",
+    "opsi": [
+      "Mediasi",
+      "Arbitrasi",
+      "Stalemate",
+      "Konsiliasi",
+      "Ajudikasi"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Konsiliasi melibatkan lembaga resmi untuk mempertemukan pihak yang bertikai.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_SO_05",
+    "pertanyaan": "FR Digital: Perbedaan akses internet antara masyarakat kota dan desa yang mencolok disebut dengan istilah...",
+    "opsi": [
+      "Digital Marketing",
+      "Digital Native",
+      "Digital Nomad",
+      "Digital Citizenship",
+      "Digital Divide (Kesenjangan Digital)"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

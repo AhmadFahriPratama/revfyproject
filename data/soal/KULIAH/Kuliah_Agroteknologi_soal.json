@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_AT_01",
+    "pertanyaan": "Tanaman yang melakukan fiksasi Karbon Dioksida pada malam hari dan melakukan siklus Calvin pada siang hari untuk menghemat air disebut tanaman...",
+    "opsi": [
+      "CAM",
+      "C3",
+      "C4",
+      "Leguminosa",
+      "Parasit"
+    ],
+    "jawaban": 0,
+    "pembahasan": "CAM (Crassulacean Acid Metabolism) adalah adaptasi tanaman di lingkungan kering (seperti kaktus)."
+  },
+  {
+    "id": "KU_AT_02",
+    "pertanyaan": "Hormon tumbuhan yang berperan dominan dalam proses pemanjangan sel di ujung pucuk (dominansi apikal) adalah...",
+    "opsi": [
+      "Etilen",
+      "Auksin",
+      "Asam Absisat",
+      "Sitokinin",
+      "Giberelin"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Auksin diproduksi di meristem apikal dan bergerak ke arah basal."
+  },
+  {
+    "id": "KU_AT_03",
+    "pertanyaan": "Manakah indikator kimia tanah yang menunjukkan kemampuan tanah untuk menahan dan menukarkan unsur hara bagi tanaman?",
+    "opsi": [
+      "Tekstur Tanah",
+      "Kerapatan Isi (Bulk Density)",
+      "Kapasitas Tukar Kation (KTK)",
+      "Porositas",
+      "Suhu tanah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "KTK tinggi biasanya dimiliki oleh tanah yang kaya lempung dan bahan organik."
+  },
+  {
+    "id": "KU_AT_04",
+    "pertanyaan": "Dalam hukum Mendel, persilangan monohibrid dominan-resesif penuh pada generasi F2 menghasilkan rasio fenotipe...",
+    "opsi": [
+      "1 : 1",
+      "1 : 2 : 1",
+      "9 : 3 : 3 : 1",
+      "3 : 1",
+      "100% dominan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Rasio fenotipe 3 (dominan) : 1 (resesif)."
+  },
+  {
+    "id": "KU_AT_05",
+    "pertanyaan": "Metode pengendalian hama yang lebih mengedepankan musuh alami dan meminimalkan pestisida kimia disebut...",
+    "opsi": [
+      "Eradikasi",
+      "Fumigasi",
+      "Eksterminasi",
+      "Inokulasi",
+      "Pengendalian Hama Terpadu (PHT)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "PHT bertujuan menjaga keseimbangan ekosistem dan menekan populasi hama di bawah ambang ekonomi."
+  },
+  {
+    "id": "KU_AT_06",
+    "pertanyaan": "Apa yang dimaksud dengan 'Eutrofikasi' pada perairan di sekitar lahan pertanian?",
+    "opsi": [
+      "Ledakan populasi alga akibat kelebihan nutrisi pupuk (N dan P) yang terbawa aliran air",
+      "Kekeringan air",
+      "Air menjadi bening",
+      "Ikan tumbuh sangat cepat",
+      "Suhu air menurun drastis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Eutrofikasi dapat menyebabkan berkurangnya oksigen terlarut (hipoksia) dan mematikan biota air."
+  },
+  {
+    "id": "KU_AT_07",
+    "pertanyaan": "Teknik perbanyakan tanaman secara vegetatif di laboratorium menggunakan jaringan sel tertentu dalam kondisi steril disebut...",
+    "opsi": [
+      "Okulasi",
+      "Kultur Jaringan (Tissue Culture)",
+      "Stek Batang",
+      "Cangkok",
+      "Penyambungan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kultur jaringan memungkinkan produksi bibit unggul dalam jumlah besar dan bebas penyakit."
+  },
+  {
+    "id": "KU_AT_08",
+    "pertanyaan": "Unsur hara makro primer yang paling dibutuhkan tanaman untuk pertumbuhan daun dan batang adalah...",
+    "opsi": [
+      "Fosfor (P)",
+      "Kalium (K)",
+      "Nitrogen (N)",
+      "Kalsium (Ca)",
+      "Besi (Fe)"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Nitrogen adalah komponen utama protein dan klorofil."
+  },
+  {
+    "id": "KU_AT_09",
+    "pertanyaan": "Fosfor (P) pada tanaman berperan penting dalam proses...",
+    "opsi": [
+      "Pembentukan klorofil",
+      "Membuka dan menutup stomata",
+      "Mengusir serangga",
+      "Transfer energi (ATP), pembentukan akar, dan pembungaan",
+      "Memberikan warna merah pada buah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "P sangat penting pada fase awal pertumbuhan dan fase generatif."
+  },
+  {
+    "id": "KU_AT_10",
+    "pertanyaan": "Organel sel tumbuhan yang menjadi tempat terjadinya proses fotosintesis adalah...",
+    "opsi": [
+      "Mitokondria",
+      "Ribosom",
+      "Vakuola",
+      "Nukleus",
+      "Kloroplas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kloroplas mengandung pigmen klorofil yang menangkap energi cahaya."
+  },
+  {
+    "id": "KU_AT_11",
+    "pertanyaan": "Proses penguapan air dari jaringan tumbuhan ke atmosfer melalui stomata disebut...",
+    "opsi": [
+      "Transpirasi",
+      "Evaporasi",
+      "Kondensasi",
+      "Gutasi",
+      "Infiltrasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Transpirasi membantu transportasi air dan mineral dari akar ke daun."
+  },
+  {
+    "id": "KU_AT_12",
+    "pertanyaan": "Mekanisme pengangkutan hasil fotosintesis (fotosintat) dari daun ke seluruh bagian tanaman dilakukan melalui jaringan...",
+    "opsi": [
+      "Xilem",
+      "Floem",
+      "Epidermis",
+      "Parenkim",
+      "Korteks"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Floem mengangkut gula dan nutrisi organik (Source to Sink)."
+  },
+  {
+    "id": "KU_AT_13",
+    "pertanyaan": "Mekanisme pengangkutan air dan garam mineral dari akar menuju daun dilakukan melalui jaringan...",
+    "opsi": [
+      "Floem",
+      "Kambium",
+      "Xilem",
+      "Endodermis",
+      "Stomata"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Xilem mengandalkan tekanan akar, gaya kapiler, dan daya isap daun."
+  },
+  {
+    "id": "KU_AT_14",
+    "pertanyaan": "Hormon tumbuhan yang sering disebut sebagai 'Hormon Stress' karena memicu penutupan stomata saat kekeringan adalah...",
+    "opsi": [
+      "Auksin",
+      "Etilen",
+      "Giberelin",
+      "Asam Absisat (ABA)",
+      "Sitokinin"
+    ],
+    "jawaban": 3,
+    "pembahasan": "ABA berfungsi untuk menghentikan pertumbuhan dan menjaga keseimbangan air saat lingkungan ekstrem."
+  },
+  {
+    "id": "KU_AT_15",
+    "pertanyaan": "Apa keunggulan penggunaan varietas Hibrida dalam pertanian?",
+    "opsi": [
+      "Bisa ditanam tanpa air",
+      "Bijinya bisa ditanam terus menerus berkali-kali",
+      "Lebih murah harga benihnya",
+      "Tidak butuh pupuk",
+      "Memiliki sifat heterosis (Vigoritas lebih tinggi, daya hasil lebih besar)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Hibrida menggabungkan keunggulan dari dua tetua yang berbeda."
+  },
+  {
+    "id": "KU_AT_16",
+    "pertanyaan": "Organisme yang membawa (menularkan) patogen dari satu tanaman ke tanaman lain disebut...",
+    "opsi": [
+      "Vektor",
+      "Inang",
+      "Parasit",
+      "Simbion",
+      "Predator"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: Kutu kebul bertindak sebagai vektor virus Gemini pada tanaman cabai."
+  },
+  {
+    "id": "KU_AT_17",
+    "pertanyaan": "Penerapan teknologi Drone dalam pertanian presisi umumnya digunakan untuk...",
+    "opsi": [
+      "Hanya hiasan lahan",
+      "Pemetaan lahan, monitoring kesehatan tanaman via indeks vegetasi (NDVI), dan penyemprotan presisi",
+      "Mengusir burung secara manual",
+      "Menghibur petani",
+      "Menggantikan traktor sepenuhnya"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Drone efisien untuk mengumpulkan data spasial pertanian secara cepat."
+  },
+  {
+    "id": "KU_AT_18",
+    "pertanyaan": "Bahan organik yang sudah mengalami pelapukan lanjut dan bersifat koloid, meningkatkan kesuburan tanah, disebut...",
+    "opsi": [
+      "Pasir",
+      "Tanah Liat",
+      "Humus",
+      "Kapur",
+      "Batu bara"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Humus memiliki kemampuan menahan air dan hara yang sangat tinggi."
+  },
+  {
+    "id": "KU_AT_19",
+    "pertanyaan": "Apa penyebab utama penyakit 'Layuh Fusarium' pada tanaman hortikultura?",
+    "opsi": [
+      "Cacing nematoda",
+      "Bakteri udara",
+      "Kurang air",
+      "Jamur (Fungi) patogen tanah",
+      "Terlalu banyak cahaya"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Fusarium oxysporum menyebabkan penyumbatan pada jaringan xilem sehingga tanaman layu mendadak."
+  },
+  {
+    "id": "KU_AT_20",
+    "pertanyaan": "Kegiatan mengumpulkan dan menyimpan berbagai jenis benih atau bibit tanaman asli/liar untuk mencegah kepunahan disebut penyimpanan...",
+    "opsi": [
+      "Stok gudang",
+      "Bahan mentah",
+      "Arsip",
+      "Dokumentasi",
+      "Plasma Nutfah (Germplasm)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Plasma nutfah adalah sumber daya genetik yang sangat berharga untuk pemuliaan di masa depan."
+  },
+  {
+    "id": "KU_AT_21",
+    "pertanyaan": "Dalam sistem klasifikasi tanah, lapisan tanah yang paling atas dan kaya bahan organik disebut...",
+    "opsi": [
+      "Horizon A (Top Soil)",
+      "Horizon B (Sub Soil)",
+      "Horizon C",
+      "Lithosfer",
+      "Inti Bumi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Top soil adalah lapisan paling krusial bagi budidaya pertanian."
+  },
+  {
+    "id": "KU_AT_22",
+    "pertanyaan": "Fotosintesis pada tanaman C4 terjadi di dua jenis sel, yaitu...",
+    "opsi": [
+      "Epidermis dan Stomata",
+      "Mesofil dan Berkas Pengangkut (Bundle Sheath)",
+      "Akar dan Batang",
+      "Bunga dan Buah",
+      "Xilem dan Floem"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pemisahan ruang ini membuat C4 lebih efisien pada suhu tinggi dan intensitas cahaya kuat."
+  },
+  {
+    "id": "KU_AT_23",
+    "pertanyaan": "Komponen biotik tanah yang berperan dalam fiksasi nitrogen secara simbiotik dengan tanaman legum adalah bakteri...",
+    "opsi": [
+      "E. coli",
+      "Salmonella",
+      "Rhizobium",
+      "Lactobacillus",
+      "Bacillus anthracis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rhizobium membentuk bintil akar pada tanaman kacang-kacangan."
+  },
+  {
+    "id": "KU_AT_24",
+    "pertanyaan": "Pupuk yang mengandung unsur Nitrogen (N), Fosfor (P), dan Kalium (K) sekaligus dalam satu butiran disebut pupuk...",
+    "opsi": [
+      "Tunggal",
+      "Organik",
+      "Hayati",
+      "Majemuk (NPK)",
+      "Cair"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pupuk majemuk lebih praktis dalam aplikasi di lapangan."
+  },
+  {
+    "id": "KU_AT_25",
+    "pertanyaan": "Hormon yang berperan dalam pematangan buah (Fruit Ripening) dan pengguguran daun adalah...",
+    "opsi": [
+      "Auksin",
+      "Sitokinin",
+      "Giberelin",
+      "Asam Traumalin",
+      "Etilen (Gas Etilen)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Etilen adalah hormon berbentuk gas yang mempercepat proses kemanisan dan pelunakan buah."
+  },
+  {
+    "id": "KU_AT_26",
+    "pertanyaan": "Pertanian yang menerapkan manajemen input (pupuk/air) sesuai dengan kebutuhan spesifik di setiap titik lahan disebut...",
+    "opsi": [
+      "Pertanian Presisi (Precision Agriculture)",
+      "Pertanian Tradisional",
+      "Pertanian Berpindah",
+      "Pertanian Lahan Basah",
+      "Pertanian Perkebunan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Memanfaatkan GPS dan sensor untuk meminimalkan pemborosan sumber daya."
+  },
+  {
+    "id": "KU_AT_27",
+    "pertanyaan": "Salah satu dampak negatif penggunaan pestisida kimia yang berlebihan adalah...",
+    "opsi": [
+      "Tanaman tumbuh lebih subur",
+      "Resistensi hama (hama jadi kebal) dan pencemaran lingkungan",
+      "Harga hasil panen jadi murah",
+      "Kandungan vitamin meningkat",
+      "Petani jadi kaya mendadak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Resistensi memaksa dosis yang lebih tinggi dan merusak rantai makanan ekosistem."
+  },
+  {
+    "id": "KU_AT_28",
+    "pertanyaan": "Apa itu 'Ambang Ekonomi' dalam PHT?",
+    "opsi": [
+      "Batas maksimal harga pupuk",
+      "Gaji petani",
+      "Kepadatan populasi hama yang mengharuskan dilakukannya tindakan pengendalian kimia demi mencegah kerugian finansial",
+      "Jumlah modal awal",
+      "Luas lahan minimal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pengendalian kimia hanya dilakukan jika jumlah hama sudah mengancam keuntungan petani."
+  },
+  {
+    "id": "KU_AT_29",
+    "pertanyaan": "Fungsi utama stomata pada daun adalah...",
+    "opsi": [
+      "Menyerap air",
+      "Penyangga batang",
+      "Menarik serangga penyerbuk",
+      "Tempat pertukaran gas (CO2 dan O2) dan transpirasi",
+      "Menghasilkan energi surya"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mulut daun (stomata) membuka dan menutup sesuai kondisi cahaya dan air."
+  },
+  {
+    "id": "KU_AT_30",
+    "pertanyaan": "Apa tujuan utama dari pengolahan tanah (Luku/Garu) sebelum menanam?",
+    "opsi": [
+      "Hanya mengikuti tradisi",
+      "Membuat tanah jadi keras",
+      "Mencari harta karun",
+      "Memperindah pemandangan",
+      "Memperbaiki aerasi tanah, drainase, dan menciptakan kondisi gulma mati agar akar tanaman mudah tumbuh"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tanah yang gembur mengandung banyak oksigen bagi respirasi akar."
+  },
+  {
+    "id": "KU_AT_31",
+    "pertanyaan": "Persilangan antara dua individu yang berbeda dalam dua sifat beda (misal: bentuk biji dan warna biji) disebut persilangan...",
+    "opsi": [
+      "Dihibrid",
+      "Monohibrid",
+      "Trihibrid",
+      "Polihibrid",
+      "F1"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Persilangan dihibrid menghasilkan rasio fenotipe F2 9:3:3:1."
+  },
+  {
+    "id": "KU_AT_32",
+    "pertanyaan": "Unsur hara yang berperan dalam mengatur pembukaan dan penutupan stomata serta ketahanan terhadap kekeringan adalah...",
+    "opsi": [
+      "Nitrogen",
+      "Kalium (K)",
+      "Belerang (S)",
+      "Magnesium (Mg)",
+      "Klorin"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kalium menjaga turgor sel penjaga stomata."
+  },
+  {
+    "id": "KU_AT_33",
+    "pertanyaan": "Gejala kekurangan (defisiensi) Nitrogen pada tanaman biasanya ditandai dengan...",
+    "opsi": [
+      "Warna daun menjadi hijau sangat gelap",
+      "Daun menjadi berminyak",
+      "Daun bagian bawah menjadi kuning (Klorosis) karena N dipindahkan ke daun muda",
+      "Tanaman meledak",
+      "Buah menjadi asam"
+    ],
+    "jawaban": 2,
+    "pembahasan": "N bersifat mobile, sehingga gejala awal muncul pada daun tua."
+  },
+  {
+    "id": "KU_AT_34",
+    "pertanyaan": "Defisiensi Magnesium (Mg) menyebabkan klorosis antar tulang daun (interveinal chlorosis) karena Mg adalah inti dari molekul...",
+    "opsi": [
+      "Glukosa",
+      "Hemoglobin",
+      "Selulosa",
+      "Klorofil",
+      "Lignin"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tanpa Mg, tanaman tidak bisa membentuk klorofil dengan sempurna."
+  },
+  {
+    "id": "KU_AT_35",
+    "pertanyaan": "Limbah cair pertanian yang masuk ke air dan merusak kualitas air akibat sisa bahan kimia disebut pencemaran...",
+    "opsi": [
+      "Udara",
+      "Suara",
+      "Cahaya",
+      "Plastik",
+      "Agrokimia"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Termasuk residu pestisida dan kelebihan nitrat/fosfat pupuk."
+  },
+  {
+    "id": "KU_AT_36",
+    "pertanyaan": "Bakteri Bacillus thuringiensis (Bt) banyak digunakan dalam bioteknologi pertanian karena menghasilkan kristal protein yang bersifat...",
+    "opsi": [
+      "Insektisida hayati (racun untuk serangga tertentu)",
+      "Pupuk hayati",
+      "Antibiotik untuk manusia",
+      "Pewarna buah",
+      "Pengawet makanan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Gen Bt disisipkan ke tanaman (seperti jagung Bt) agar tanaman tahan serangan ulat."
+  },
+  {
+    "id": "KU_AT_37",
+    "pertanyaan": "Jenis tanah vulkanik yang sangat subur dan banyak terdapat di daerah sekitar gunung berapi di Indonesia adalah...",
+    "opsi": [
+      "Podsolik",
+      "Andosol",
+      "Laterit",
+      "Grumosol",
+      "Gambut"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tanah Andosol kaya akan mineral vulkanik yang baik untuk pertanian hortikultura."
+  },
+  {
+    "id": "KU_AT_38",
+    "pertanyaan": "Apa kelemahan utama sistem pertanian monokultur (hanya satu jenis tanaman di lahan luas)?",
+    "opsi": [
+      "Susah dipanen",
+      "Terlihat tidak indah",
+      "Risiko ledakan hama dan penyakit sangat tinggi (karena makanan tersedia melimpah dan seragam)",
+      "Butuh banyak bibit",
+      "Lahan jadi cepat banjir"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Monokultur rentan terhadap gagal panen total jika diserang satu jenis hama."
+  },
+  {
+    "id": "KU_AT_39",
+    "pertanyaan": "Upaya menanam berbagai jenis tanaman dalam satu lahan secara bergantian atau bersamaan disebut...",
+    "opsi": [
+      "Monokultur",
+      "Deforestasi",
+      "Irigasi",
+      "Polikultur (Intercropping / Tumpang Sari)",
+      "Hortikultura"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Polikultur lebih stabil secara ekologi dan membagi risiko ekonomi petani."
+  },
+  {
+    "id": "KU_AT_40",
+    "pertanyaan": "Apa peran Lebah (Apis sp.) dalam sektor pertanian?",
+    "opsi": [
+      "Sebagai hama daun",
+      "Menghasilkan madu yang tidak penting",
+      "Merusak bunga",
+      "Mencuri nektar",
+      "Sebagai agen penyerbukan (Polinator) utama yang meningkatkan keberhasilan pembuahan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Keberadaan lebah sangat vital bagi produksi buah dan biji-bijian."
+  },
+  {
+    "id": "KU_AT_41",
+    "pertanyaan": "Hormon yang memacu pembentukan bunga dan buah serta pemecahan dormansi benih adalah...",
+    "opsi": [
+      "Giberelin",
+      "Etilen",
+      "Auksin",
+      "Sitokinin",
+      "Inhibitor"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Giberelin dapat memicu perkecambahan biji tanpa harus menunggu waktu lama."
+  },
+  {
+    "id": "KU_AT_42",
+    "pertanyaan": "Respirasi seluler pada tumbuhan bertujuan untuk...",
+    "opsi": [
+      "Membuat makanan",
+      "Menghasilkan energi (ATP) dari pembongkaran glukosa",
+      "Menyerap air",
+      "Menarik serangga",
+      "Memberi warna bunga"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Berlangsung di mitokondria baik siang maupun malam."
+  },
+  {
+    "id": "KU_AT_43",
+    "pertanyaan": "Tanaman yang tumbuh kerdil, daun kecil-kecil dan kaku, serta pinggiran daun tampak terbakar biasanya kekurangan unsur...",
+    "opsi": [
+      "Calsium",
+      "Belerang",
+      "Kalium (K)",
+      "Tembaga",
+      "Air"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kalium berperan dalam transport karbohidrat dan osmoregulasi sel."
+  },
+  {
+    "id": "KU_AT_44",
+    "pertanyaan": "Tanah yang sangat masam (pH rendah) dapat diperbaiki dengan pemberian...",
+    "opsi": [
+      "Pupuk Urea",
+      "Pasir Malaka",
+      "Air laut",
+      "Kapur Pertanian (Dolomit)",
+      "Belerang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kalsium dan Magnesium pada kapur menurunkan tingkat keasaman (menaikkan pH) tanah."
+  },
+  {
+    "id": "KU_AT_45",
+    "pertanyaan": "Apa kelebihan pertanian vertikal (Vertical Farming) di daerah perkotaan?",
+    "opsi": [
+      "Tidak butuh listrik",
+      "Bisa pakai tanah apa saja",
+      "Tidak butuh tenaga kerja",
+      "Menghasilkan lebih sedikit polusi",
+      "Efisiensi penggunaan lahan sempit dan mendekatkan produksi ke konsumen di kota (Urban Farming)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Mengurangi biaya logistik dan emisi pengangkutan barang pertanian."
+  },
+  {
+    "id": "KU_AT_46",
+    "pertanyaan": "Dalam genetika, individu yang memiliki dua alel yang sama (misal RR atau rr) disebut...",
+    "opsi": [
+      "Homozigot",
+      "Heterozigot",
+      "Dominan",
+      "Resesif",
+      "Mutan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Homozigot dominan (RR) atau homozigot resesif (rr)."
+  },
+  {
+    "id": "KU_AT_47",
+    "pertanyaan": "Istilah bioteknologi berupa menyisipkan gen dari spesies lain ke dalam genom tanaman disebut...",
+    "opsi": [
+      "Mutasi",
+      "Transgenik (Rekayasa Genetika)",
+      "Hibridisasi",
+      "Kloning",
+      "Fermentasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tanaman transgenik didesain untuk memiliki sifat tertentu yang tidak ada di spesies aslinya."
+  },
+  {
+    "id": "KU_AT_48",
+    "pertanyaan": "Alat pengukur curah hujan yang biasa digunakan di stasiun klimatologi pertanian adalah...",
+    "opsi": [
+      "Anemometer",
+      "Psikrometer",
+      "Ombrometer",
+      "Barometer",
+      "Lux meter"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Membantu petani menentukan waktu tanam yang tepat (Pranata Mangsa modern)."
+  },
+  {
+    "id": "KU_AT_49",
+    "pertanyaan": "Profesi bagi sarjana lulusan Agroteknologi adalah...",
+    "opsi": [
+      "Buruh Tani",
+      "Tukang sayur",
+      "Sopir traktor",
+      "Agronom / Peneliti Pertanian / Konsultan Pertanian",
+      "Pemilik kebun binatang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lulusan dibekali ilmu manajerial dan teknis agronomi yang mendalam."
+  },
+  {
+    "id": "KU_AT_50",
+    "pertanyaan": "Mengapa penguasaan materi Agroteknologi di RevStudy penting bagi masa depan pangan dunia?",
+    "opsi": [
+      "Cuma supaya dapet nilai IPK tinggi",
+      "Biar bisa beli lahan luas",
+      "Hanya menghabiskan paket data",
+      "Suapa tidak perlu ke pasar",
+      "Untuk menciptakan inovasi pertanian yang lebih produktif, efisien, dan ramah lingkungan demi mencukupi populasi manusia yang terus meningkat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pertanian adalah sektor vital kedaulatan sebuah bangsa."
+  }
+]

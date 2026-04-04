@@ -1,0 +1,787 @@
+{
+  "id": "tka_smp_wajib_tryout-v01",
+  "judul": "Try Out TKA SMP Wajib V01",
+  "durasiMenit": 60,
+  "soal": [
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-01",
+      "pertanyaan": "[Bahasa Indonesia] Ide pokok paragraf adalah...",
+      "opsi": {
+        "A": "Inti dari sebuah paragraf",
+        "B": "Kalimat terakhir",
+        "C": "Semua kalimat",
+        "D": "Contoh-contoh",
+        "E": "Hanya judul"
+      },
+      "jawaban": "A",
+      "pembahasan": "Ide pokok adalah gagasan utama yang menjadi inti pembicaraan dalam satu paragraf."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-02",
+      "pertanyaan": "[Bahasa Indonesia] Manakah kalimat yang menggunakan kata baku?",
+      "opsi": {
+        "A": "Apotik itu tutup",
+        "B": "Ibu membeli obat di apotek",
+        "C": "Nasehat ayah sangat berguna",
+        "D": "Ia sedang praktek",
+        "E": "Jadwal bis terlambat"
+      },
+      "jawaban": "B",
+      "pembahasan": "Apotek adalah bentuk baku, sedangkan apotik tidak baku."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-03",
+      "pertanyaan": "[Bahasa Indonesia] Penggunaan tanda koma yang benar terdapat pada...",
+      "opsi": {
+        "A": "Ibu membeli bayam kangkung, dan wortel.",
+        "B": "Ibu membeli bayam, kangkung dan wortel.",
+        "C": "Ibu membeli bayam, kangkung, dan wortel.",
+        "D": "Ibu membeli, bayam, kangkung, dan wortel.",
+        "E": "Ibu membeli bayam kangkung dan wortel,"
+      },
+      "jawaban": "C",
+      "pembahasan": "Tanda koma digunakan di antara unsur-unsur dalam pemerincian."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-04",
+      "pertanyaan": "[Bahasa Indonesia] Apa antonim dari kata 'Prolog'?",
+      "opsi": {
+        "A": "Dialog",
+        "B": "Monolog",
+        "C": "Katalog",
+        "D": "Epilog",
+        "E": "Analogi"
+      },
+      "jawaban": "D",
+      "pembahasan": "Prolog adalah pembukaan, Epilog adalah penutup."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-05",
+      "pertanyaan": "[Bahasa Indonesia] Teks yang berisi langkah-langkah kerja disebut teks...",
+      "opsi": {
+        "A": "Narasi",
+        "B": "Deskripsi",
+        "C": "Eksposisi",
+        "D": "Laporan",
+        "E": "Prosedur"
+      },
+      "jawaban": "E",
+      "pembahasan": "Teks prosedur menjelaskan cara atau langkah-langkah melakukan sesuatu."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-06",
+      "pertanyaan": "[Bahasa Indonesia] Kalimat yang mengandung opini adalah...",
+      "opsi": {
+        "A": "Kopi ini rasanya sangat enak",
+        "B": "Jakarta adalah ibu kota Indonesia",
+        "C": "Gajah adalah hewan mamalia",
+        "D": "Matahari terbit dari timur",
+        "E": "Air mendidih pada suhu 100 derajat"
+      },
+      "jawaban": "A",
+      "pembahasan": "Opini bersifat subjektif dan relatif. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kopi ini rasanya sangat enak\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-07",
+      "pertanyaan": "[Bahasa Indonesia] Majas personifikasi terdapat pada kalimat...",
+      "opsi": {
+        "A": "Wajahnya cantik seperti rembulan",
+        "B": "Angin berbisik di telingaku",
+        "C": "Ia bekerja keras banting tulang",
+        "D": "Suaranya menggelegar membelah angkasa",
+        "E": "Sampah menumpuk di pinggir jalan"
+      },
+      "jawaban": "B",
+      "pembahasan": "Memberikan sifat manusia pada benda mati."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-08",
+      "pertanyaan": "[Bahasa Indonesia] Pernyataan yang merupakan fakta adalah...",
+      "opsi": {
+        "A": "Bunga mawar adalah bunga tercantik",
+        "B": "Belajar matematika sangat menyenangkan",
+        "C": "Gunung Merapi meletus pada tahun 2010",
+        "D": "Masakan ibu adalah yang terbaik",
+        "E": "Hari ini cuacanya sangat panas"
+      },
+      "jawaban": "C",
+      "pembahasan": "Dapat dibuktikan secara objektif. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Gunung Merapi meletus pada tahun 2010\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-09",
+      "pertanyaan": "[Bahasa Indonesia] Kata serapan dari bahasa Inggris yang benar adalah...",
+      "opsi": {
+        "A": "Aktifitas",
+        "B": "Bis",
+        "C": "Kwitansi",
+        "D": "Kualitas",
+        "E": "Sistim"
+      },
+      "jawaban": "D",
+      "pembahasan": "Quality -> Kualitas. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kualitas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-10",
+      "pertanyaan": "[Bahasa Indonesia] Urutan struktur teks deskripsi yang benar adalah...",
+      "opsi": {
+        "A": "Tesis - Argumentasi - Rekomendasi",
+        "B": "Orientasi - Komplikasi - Resolusi",
+        "C": "Pernyataan Umum - Deskripsi Bagian",
+        "D": "Tujuan - Langkah-langkah - Penutup",
+        "E": "Identifikasi - Deskripsi Bagian - Penutup"
+      },
+      "jawaban": "E",
+      "pembahasan": "Identifikasi -> Deskripsi -> Penutup. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Identifikasi - Deskripsi Bagian - Penutup\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-11",
+      "pertanyaan": "[Bahasa Indonesia] Sinonim dari kata 'Edukasi' adalah...",
+      "opsi": {
+        "A": "Pendidikan",
+        "B": "Hiburan",
+        "C": "Informasi",
+        "D": "Kesehatan",
+        "E": "Ekonomi"
+      },
+      "jawaban": "A",
+      "pembahasan": "Edukasi = Pendidikan. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pendidikan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-12",
+      "pertanyaan": "[Bahasa Indonesia] Kalimat mana yang menggunakan huruf kapital secara tepat?",
+      "opsi": {
+        "A": "sultan hasanuddin berasal dari makassar",
+        "B": "Sultan Hasanuddin berasal dari Makassar",
+        "C": "Sultan Hasanuddin berasal dari makassar",
+        "D": "sultan Hasanuddin berasal dari Makassar",
+        "E": "Sultan hasanuddin Berasal Dari Makassar"
+      },
+      "jawaban": "B",
+      "pembahasan": "Nama orang/tempat kapital. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Sultan Hasanuddin berasal dari Makassar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-13",
+      "pertanyaan": "[Bahasa Indonesia] Tokoh utama dalam sebuah cerita disebut...",
+      "opsi": {
+        "A": "Antagonis",
+        "B": "Tritagonis",
+        "C": "Protagonis",
+        "D": "Figuran",
+        "E": "Narator"
+      },
+      "jawaban": "C",
+      "pembahasan": "Protagonis = Utama. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Protagonis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-14",
+      "pertanyaan": "[Bahasa Indonesia] Latar tempat dalam kutipan 'Di bawah pohon rindang itu ia menunggu' adalah...",
+      "opsi": {
+        "A": "Rindang",
+        "B": "Pohon",
+        "C": "Tunggu",
+        "D": "Di bawah pohon",
+        "E": "Ia"
+      },
+      "jawaban": "D",
+      "pembahasan": "Menunjukkan lokasi. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Di bawah pohon\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-bi-15",
+      "pertanyaan": "[Bahasa Indonesia] Tanda titik dua (:) digunakan untuk...",
+      "opsi": {
+        "A": "Mengakhiri kalimat",
+        "B": "Menghubungkan dua klausa",
+        "C": "Menyisipkan keterangan tambahan",
+        "D": "Memisahkan anak kalimat",
+        "E": "Pemerincian atau daftar"
+      },
+      "jawaban": "E",
+      "pembahasan": "Digunakan untuk rincian. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Pemerincian atau daftar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-01",
+      "pertanyaan": "[Bahasa Inggris] I ... a student at SMP 1.",
+      "opsi": {
+        "A": "Am",
+        "B": "Is",
+        "C": "Are",
+        "D": "Was",
+        "E": "Were"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Am\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-02",
+      "pertanyaan": "[Bahasa Inggris] My sister ... to school every morning.",
+      "opsi": {
+        "A": "Go",
+        "B": "Goes",
+        "C": "Going",
+        "D": "Gone",
+        "E": "Went"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Goes\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-03",
+      "pertanyaan": "[Bahasa Inggris] Last holiday, we ... to Bali.",
+      "opsi": {
+        "A": "Visit",
+        "B": "Visits",
+        "C": "Visited",
+        "D": "Visiting",
+        "E": "Will visit"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Visited\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-04",
+      "pertanyaan": "[Bahasa Inggris] A person who treats sick people is a...",
+      "opsi": {
+        "A": "Teacher",
+        "B": "Pilot",
+        "C": "Farmer",
+        "D": "Doctor",
+        "E": "Chef"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Doctor\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-05",
+      "pertanyaan": "[Bahasa Inggris] Elephant is ... than a cat.",
+      "opsi": {
+        "A": "Big",
+        "B": "Biggest",
+        "C": "Small",
+        "D": "Smaller",
+        "E": "Bigger"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bigger\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-06",
+      "pertanyaan": "[Bahasa Inggris] What is the synonym of 'Happy'?",
+      "opsi": {
+        "A": "Glad",
+        "B": "Sad",
+        "C": "Angry",
+        "D": "Bored",
+        "E": "Tired"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Glad\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-07",
+      "pertanyaan": "[Bahasa Inggris] A: Can you help me? B: ... I'm busy.",
+      "opsi": {
+        "A": "Yes, sure",
+        "B": "No, I can't",
+        "C": "Of course",
+        "D": "Yes, I can",
+        "E": "No problem"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"No, I can't\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-08",
+      "pertanyaan": "[Bahasa Inggris] He ... football now.",
+      "opsi": {
+        "A": "Play",
+        "B": "Plays",
+        "C": "Is playing",
+        "D": "Played",
+        "E": "Will play"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Is playing\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-09",
+      "pertanyaan": "[Bahasa Inggris] Where ... you live?",
+      "opsi": {
+        "A": "Does",
+        "B": "Are",
+        "C": "Is",
+        "D": "Do",
+        "E": "Am"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Do\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-10",
+      "pertanyaan": "[Bahasa Inggris] The antonym of 'Difficult' is...",
+      "opsi": {
+        "A": "Hard",
+        "B": "Fast",
+        "C": "Slow",
+        "D": "High",
+        "E": "Easy"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Easy\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-11",
+      "pertanyaan": "[Bahasa Inggris] Waitress: 'May I ... your order, please?'",
+      "opsi": {
+        "A": "Take",
+        "B": "Give",
+        "C": "Make",
+        "D": "Eat",
+        "E": "Bring"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Take\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-12",
+      "pertanyaan": "[Bahasa Inggris] I have ... apple in my bag.",
+      "opsi": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "Some",
+        "E": "Many"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"An\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-13",
+      "pertanyaan": "[Bahasa Inggris] The boy is ... than the girl.",
+      "opsi": {
+        "A": "Tall",
+        "B": "Tallest",
+        "C": "Taller",
+        "D": "Short",
+        "E": "Shorter"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Taller\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-14",
+      "pertanyaan": "[Bahasa Inggris] Recount text usually uses ... tense.",
+      "opsi": {
+        "A": "Simple Present",
+        "B": "Future",
+        "C": "Present Perfect",
+        "D": "Simple Past",
+        "E": "Continuous"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Simple Past\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-en-15",
+      "pertanyaan": "[Bahasa Inggris] Which one is a vegetable?",
+      "opsi": {
+        "A": "Apple",
+        "B": "Orange",
+        "C": "Bread",
+        "D": "Chicken",
+        "E": "Carrot"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Carrot\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-01",
+      "pertanyaan": "[Matematika] Hasil dari -12 + 7 - (-5) adalah...",
+      "opsi": {
+        "A": "0",
+        "B": "10",
+        "C": "12",
+        "D": "-10",
+        "E": "-5"
+      },
+      "jawaban": "A",
+      "pembahasan": "-12 + 7 + 5 = 0. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"0\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-02",
+      "pertanyaan": "[Matematika] Hasil dari 3/4 + 1/2 adalah...",
+      "opsi": {
+        "A": "1/2",
+        "B": "5/4",
+        "C": "3/8",
+        "D": "1",
+        "E": "1/4"
+      },
+      "jawaban": "B",
+      "pembahasan": "3/4 + 2/4 = 5/4. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"5/4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-03",
+      "pertanyaan": "[Matematika] Jika x + 5 = 12, maka nilai x adalah...",
+      "opsi": {
+        "A": "17",
+        "B": "5",
+        "C": "7",
+        "D": "12",
+        "E": "60"
+      },
+      "jawaban": "C",
+      "pembahasan": "x = 12 - 5 = 7. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"7\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-04",
+      "pertanyaan": "[Matematika] Bentuk sederhana dari 3a + 5b - a + 2b adalah...",
+      "opsi": {
+        "A": "4a + 7b",
+        "B": "2a + 3b",
+        "C": "4a + 3b",
+        "D": "2a + 7b",
+        "E": "a + b"
+      },
+      "jawaban": "D",
+      "pembahasan": "(3-1)a + (5+2)b = 2a + 7b. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2a + 7b\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-05",
+      "pertanyaan": "[Matematika] Hasil kali (x + 2)(x + 3) adalah...",
+      "opsi": {
+        "A": "x^2 + 5",
+        "B": "x^2 + 6",
+        "C": "x^2 + 2x + 6",
+        "D": "x^2 + 3x + 5",
+        "E": "x^2 + 5x + 6"
+      },
+      "jawaban": "E",
+      "pembahasan": "x^2 + 3x + 2x + 6 = x^2 + 5x + 6. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"x^2 + 5x + 6\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-06",
+      "pertanyaan": "[Matematika] KPK dari 12 dan 15 adalah...",
+      "opsi": {
+        "A": "60",
+        "B": "3",
+        "C": "30",
+        "D": "90",
+        "E": "120"
+      },
+      "jawaban": "A",
+      "pembahasan": "12=2^2x3, 15=3x5. KPK=2^2x3x5=60. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"60\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-07",
+      "pertanyaan": "[Matematika] FPB dari 18 dan 24 adalah...",
+      "opsi": {
+        "A": "2",
+        "B": "6",
+        "C": "3",
+        "D": "12",
+        "E": "72"
+      },
+      "jawaban": "B",
+      "pembahasan": "18=2x3^2, 24=2^3x3. FPB=2x3=6. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"6\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-08",
+      "pertanyaan": "[Matematika] Nilai dari 2^3 + 3^2 adalah...",
+      "opsi": {
+        "A": "5",
+        "B": "13",
+        "C": "17",
+        "D": "25",
+        "E": "31"
+      },
+      "jawaban": "C",
+      "pembahasan": "8 + 9 = 17. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"17\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-09",
+      "pertanyaan": "[Matematika] Besar sudut pelurus dari 60 derajat adalah...",
+      "opsi": {
+        "A": "30",
+        "B": "90",
+        "C": "100",
+        "D": "120",
+        "E": "180"
+      },
+      "jawaban": "D",
+      "pembahasan": "180 - 60 = 120. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"120\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-10",
+      "pertanyaan": "[Matematika] Luas persegi dengan sisi 5 cm adalah...",
+      "opsi": {
+        "A": "10",
+        "B": "20",
+        "C": "50",
+        "D": "100",
+        "E": "25"
+      },
+      "jawaban": "E",
+      "pembahasan": "5 x 5 = 25. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"25\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-11",
+      "pertanyaan": "[Matematika] Keliling lingkaran dengan jari-jari 7 cm adalah... (pi=22/7)",
+      "opsi": {
+        "A": "44",
+        "B": "22",
+        "C": "88",
+        "D": "154",
+        "E": "308"
+      },
+      "jawaban": "A",
+      "pembahasan": "2 x 22/7 x 7 = 44. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"44\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-12",
+      "pertanyaan": "[Matematika] Jika 3 lusin buku seharga 108.000, harga 1 buku adalah...",
+      "opsi": {
+        "A": "3.600",
+        "B": "3.000",
+        "C": "4.000",
+        "D": "4.500",
+        "E": "9.000"
+      },
+      "jawaban": "B",
+      "pembahasan": "108.000 / 36 = 3.000. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"3.000\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-13",
+      "pertanyaan": "[Matematika] Himpunan semesta yang mungkin untuk {2, 4, 6, 8} adalah...",
+      "opsi": {
+        "A": "Bilangan ganjil",
+        "B": "Bilangan prima",
+        "C": "Bilangan genap",
+        "D": "Bilangan negatif",
+        "E": "Bilangan kuadrat"
+      },
+      "jawaban": "C",
+      "pembahasan": "Berisi bilangan genap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Bilangan genap\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-14",
+      "pertanyaan": "[Matematika] Bentuk pecahan biasa dari 0,75 adalah...",
+      "opsi": {
+        "A": "1/2",
+        "B": "1/4",
+        "C": "2/3",
+        "D": "3/4",
+        "E": "4/5"
+      },
+      "jawaban": "D",
+      "pembahasan": "75/100 = 3/4. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"3/4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-mt-15",
+      "pertanyaan": "[Matematika] Himpunan A={1, 2, 3}, B={3, 4, 5}. A irisan B adalah...",
+      "opsi": {
+        "A": "{1, 2, 3, 4, 5}",
+        "B": "{1, 2, 4, 5}",
+        "C": "{ }",
+        "D": "{3, 4}",
+        "E": "{3}"
+      },
+      "jawaban": "E",
+      "pembahasan": "Anggota yang sama adalah 3. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"{3}\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-01",
+      "pertanyaan": "[Pendidikan Pancasila] Sila pertama Pancasila dilambangkan dengan...",
+      "opsi": {
+        "A": "Bintang",
+        "B": "Rantai",
+        "C": "Pohon Beringin",
+        "D": "Kepala Banteng",
+        "E": "Padi dan Kapas"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Bintang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-02",
+      "pertanyaan": "[Pendidikan Pancasila] Ketua BPUPKI adalah...",
+      "opsi": {
+        "A": "Ir. Soekarno",
+        "B": "Dr. Radjiman Wedyodiningrat",
+        "C": "Drs. Moh. Hatta",
+        "D": "Mr. Soepomo",
+        "E": "Achmad Subardjo"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Dr. Radjiman Wedyodiningrat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-03",
+      "pertanyaan": "[Pendidikan Pancasila] Pancasila sebagai pandangan hidup bangsa disebut juga...",
+      "opsi": {
+        "A": "Dasar negara",
+        "B": "Sumber segala sumber hukum",
+        "C": "Way of life",
+        "D": "Landasan idiil",
+        "E": "Konstitusi"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Way of life\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-04",
+      "pertanyaan": "[Pendidikan Pancasila] Sidang pertama BPUPKI membahas tentang...",
+      "opsi": {
+        "A": "UUD",
+        "B": "Bentuk pemerintahan",
+        "C": "Bendera negara",
+        "D": "Dasar negara",
+        "E": "Lagu kebangsaan"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Dasar negara\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-05",
+      "pertanyaan": "[Pendidikan Pancasila] Rumusan Pancasila yang sah terdapat dalam...",
+      "opsi": {
+        "A": "Piagam Jakarta",
+        "B": "Pidato Soekarno",
+        "C": "Naskah Proklamasi",
+        "D": "Kitab Sutasoma",
+        "E": "Pembukaan UUD 1945"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pembukaan UUD 1945\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-06",
+      "pertanyaan": "[Pendidikan Pancasila] Lembaga yang berwenang mengubah UUD adalah...",
+      "opsi": {
+        "A": "MPR",
+        "B": "DPR",
+        "C": "DPD",
+        "D": "Presiden",
+        "E": "MK"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"MPR\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-07",
+      "pertanyaan": "[Pendidikan Pancasila] Hak DPR untuk meminta keterangan kepada pemerintah disebut...",
+      "opsi": {
+        "A": "Hak Angket",
+        "B": "Hak Interpelasi",
+        "C": "Hak Menyatakan Pendapat",
+        "D": "Hak Imunitas",
+        "E": "Hak Budget"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hak Interpelasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-08",
+      "pertanyaan": "[Pendidikan Pancasila] Warga negara yang baik adalah yang ... hukum.",
+      "opsi": {
+        "A": "Menghindari",
+        "B": "Melanggar",
+        "C": "Mematuhi",
+        "D": "Mengabaikan",
+        "E": "Menantang"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Mematuhi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-09",
+      "pertanyaan": "[Pendidikan Pancasila] Gotong royong merupakan cerminan sila ke-...",
+      "opsi": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "3",
+        "E": "5"
+      },
+      "jawaban": "D",
+      "pembahasan": "Persatuan Indonesia. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-10",
+      "pertanyaan": "[Pendidikan Pancasila] Kedaulatan berada di tangan rakyat dan dilaksanakan menurut UUD merupakan bunyi pasal ... ayat 2.",
+      "opsi": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "E": "1"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-11",
+      "pertanyaan": "[Pendidikan Pancasila] Alat pemersatu bangsa Indonesia adalah...",
+      "opsi": {
+        "A": "Bahasa Indonesia",
+        "B": "Lagu Barat",
+        "C": "Mata uang Dollar",
+        "D": "Film asing",
+        "E": "Hobi masing-masing"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bahasa Indonesia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-12",
+      "pertanyaan": "[Pendidikan Pancasila] Lembaga Yudikatif di Indonesia adalah...",
+      "opsi": {
+        "A": "Presiden",
+        "B": "MK dan MA",
+        "C": "DPR",
+        "D": "MPR",
+        "E": "DPD"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"MK dan MA\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-13",
+      "pertanyaan": "[Pendidikan Pancasila] Setiap orang bebas memilih agama. Ini adalah contoh hak...",
+      "opsi": {
+        "A": "Ekonomi",
+        "B": "Politik",
+        "C": "Asasi Manusia",
+        "D": "Sosial",
+        "E": "Hukum"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Asasi Manusia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-14",
+      "pertanyaan": "[Pendidikan Pancasila] Negara Indonesia adalah negara hukum. Bunyi pasal...",
+      "opsi": {
+        "A": "1 ayat 1",
+        "B": "1 ayat 2",
+        "C": "2 ayat 1",
+        "D": "1 ayat 3",
+        "E": "3 ayat 1"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1 ayat 3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smp_wajib_tryout-v01-pp-15",
+      "pertanyaan": "[Pendidikan Pancasila] Kepanjangan dari NKRI adalah...",
+      "opsi": {
+        "A": "Negara Kedamaian Rakyat Indonesia",
+        "B": "Negara Kebangsaan Republik Indonesia",
+        "C": "Negara Kerakyatan Republik Indonesia",
+        "D": "Negara Keadilan Rakyat Indonesia",
+        "E": "Negara Kesatuan Republik Indonesia"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Negara Kesatuan Republik Indonesia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    }
+  ]
+}

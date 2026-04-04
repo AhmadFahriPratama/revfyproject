@@ -1,0 +1,1372 @@
+{
+  "id": "to-nas-v22",
+  "judul": "Try Out Nasional UTBK SNBT V22",
+  "durasiMenit": 195,
+  "soal": [
+    {
+      "id": "n22-pu-01",
+      "pertanyaan": "[Penalaran Umum] Dalam diskusi tentang keamanan data, analis kebijakan menyatakan bahwa kebijakan A harus diterapkan karena dua data pendukung menunjukkan tren yang sama. Evaluasi yang paling tepat terhadap kualitas simpulan tersebut adalah?",
+      "opsi": {
+        "A": "Kesimpulan penulis sah jika hanya didasarkan pada premis yang eksplisit di dalam argumen.",
+        "B": "Argumen dianggap kuat bila memuat istilah teknis sebanyak mungkin.",
+        "C": "Penulis boleh menambahkan asumsi baru asalkan tampak masuk akal.",
+        "D": "Kesimpulan cukup dianggap benar jika tidak ada sanggahan langsung.",
+        "E": "Kesimpulan penulis pasti benar selama sesuai dengan opini mayoritas."
+      },
+      "jawaban": "A",
+      "pembahasan": "Pada penalaran umum, kekuatan simpulan ditentukan oleh apakah simpulan ditopang premis yang tersedia. Opsi benar menekankan bahwa simpulan sah hanya jika berasal dari premis eksplisit, bukan dari asumsi tambahan atau popularitas pendapat."
+    },
+    {
+      "id": "n22-pu-02",
+      "pertanyaan": "[Penalaran Umum] Semua petugas yang mengikuti kegiatan wajib membawa laporan. Sebagian peserta kegiatan ternyata membawa laporan berlabel khusus. Simpulan yang pasti benar adalah?",
+      "opsi": {
+        "A": "Tidak dapat disimpulkan hubungan antara laporan dan petugas yang mengikuti kegiatan.",
+        "B": "Sebagian laporan dimiliki oleh petugas yang mengikuti kegiatan.",
+        "C": "Tidak ada petugas yang mengikuti kegiatan memiliki laporan.",
+        "D": "Semua laporan dimiliki oleh petugas yang mengikuti kegiatan.",
+        "E": "Semua petugas yang mengikuti kegiatan memiliki laporan."
+      },
+      "jawaban": "B",
+      "pembahasan": "Karena semua petugas yang mengikuti kegiatan wajib membawa laporan, maka ketika diketahui sebagian peserta kegiatan membawa laporan berlabel khusus, paling aman disimpulkan bahwa sebagian laporan itu terkait peserta kegiatan. Opsi lain terlalu kuat atau bertentangan dengan premis."
+    },
+    {
+      "id": "n22-pu-03",
+      "pertanyaan": "[Penalaran Umum] Damar, Eka, Citra, Bima harus presentasi satu per satu. Damar tampil sebelum Eka. Citra tampil setelah Bima. Eka tidak berdampingan dengan Bima. Urutan yang mungkin adalah?",
+      "opsi": {
+        "A": "Eka - Bima - Citra - Damar",
+        "B": "Bima - Eka - Citra - Damar",
+        "C": "Bima - Citra - Damar - Eka",
+        "D": "Citra - Bima - Damar - Eka",
+        "E": "Citra - Bima - Eka - Damar"
+      },
+      "jawaban": "C",
+      "pembahasan": "Periksa tiap opsi terhadap tiga syarat: posisi Damar sebelum Eka, posisi Citra sesudah Bima, dan Eka tidak berdampingan dengan Bima. Hanya urutan Bima - Citra - Damar - Eka yang memenuhi semuanya."
+    },
+    {
+      "id": "n22-pu-04",
+      "pertanyaan": "[Penalaran Umum] Sebuah program usaha mikro mencatat capaian awal 145 satuan. Setelah intervensi pertama naik 32 satuan, tetapi pada evaluasi lanjutan turun 5 satuan. Kelompok pembanding berakhir pada 133 satuan. Simpulan yang paling tepat adalah?",
+      "opsi": {
+        "A": "Tidak ada perubahan pada topik usaha mikro karena kenaikan dan penurunan saling meniadakan.",
+        "B": "Program pada topik usaha mikro mengalami penurunan bersih sebesar 5 satuan.",
+        "C": "Program pada topik usaha mikro hanya meningkat jika dibandingkan dengan kelompok B.",
+        "D": "Program pada topik usaha mikro tetap menunjukkan peningkatan bersih sebesar 27 satuan.",
+        "E": "Kelompok B pasti lebih efektif daripada program pada topik usaha mikro."
+      },
+      "jawaban": "D",
+      "pembahasan": "Capaian akhir program adalah 145 + 32 - 5 = 172. Jadi ada peningkatan bersih 27 satuan. Data kelompok pembanding tidak mengubah fakta peningkatan bersih program utama."
+    },
+    {
+      "id": "n22-pu-05",
+      "pertanyaan": "[Penalaran Umum] Dalam diskusi tentang disiplin berlalu lintas, editor laporan menyatakan bahwa kebijakan A harus diterapkan karena tiga indikator memperlihatkan kenaikan bertahap. Evaluasi yang paling tepat terhadap kualitas simpulan tersebut adalah?",
+      "opsi": {
+        "A": "Argumen dianggap kuat bila memuat istilah teknis sebanyak mungkin.",
+        "B": "Penulis boleh menambahkan asumsi baru asalkan tampak masuk akal.",
+        "C": "Kesimpulan penulis pasti benar selama sesuai dengan opini mayoritas.",
+        "D": "Kesimpulan cukup dianggap benar jika tidak ada sanggahan langsung.",
+        "E": "Kesimpulan penulis sah jika hanya didasarkan pada premis yang eksplisit di dalam argumen."
+      },
+      "jawaban": "E",
+      "pembahasan": "Pada penalaran umum, kekuatan simpulan ditentukan oleh apakah simpulan ditopang premis yang tersedia. Opsi benar menekankan bahwa simpulan sah hanya jika berasal dari premis eksplisit, bukan dari asumsi tambahan atau popularitas pendapat."
+    },
+    {
+      "id": "n22-pu-06",
+      "pertanyaan": "[Penalaran Umum] Semua warga yang mengikuti program wajib membawa arsip. Sebagian peserta program ternyata membawa arsip berlabel khusus. Simpulan yang pasti benar adalah?",
+      "opsi": {
+        "A": "Sebagian arsip dimiliki oleh warga yang mengikuti program.",
+        "B": "Tidak ada warga yang mengikuti program memiliki arsip.",
+        "C": "Semua warga yang mengikuti program memiliki arsip.",
+        "D": "Tidak dapat disimpulkan hubungan antara arsip dan warga yang mengikuti program.",
+        "E": "Semua arsip dimiliki oleh warga yang mengikuti program."
+      },
+      "jawaban": "A",
+      "pembahasan": "Karena semua warga yang mengikuti program wajib membawa arsip, maka ketika diketahui sebagian peserta program membawa arsip berlabel khusus, paling aman disimpulkan bahwa sebagian arsip itu terkait peserta program. Opsi lain terlalu kuat atau bertentangan dengan premis."
+    },
+    {
+      "id": "n22-pu-07",
+      "pertanyaan": "[Penalaran Umum] Alya, Citra, Damar, Eka harus presentasi satu per satu. Alya tampil sebelum Citra. Damar tampil setelah Eka. Citra tidak berdampingan dengan Eka. Urutan yang mungkin adalah?",
+      "opsi": {
+        "A": "Eka - Citra - Damar - Alya",
+        "B": "Eka - Alya - Citra - Damar",
+        "C": "Damar - Alya - Citra - Eka",
+        "D": "Damar - Citra - Alya - Eka",
+        "E": "Damar - Alya - Eka - Citra"
+      },
+      "jawaban": "B",
+      "pembahasan": "Periksa tiap opsi terhadap tiga syarat: posisi Alya sebelum Citra, posisi Damar sesudah Eka, dan Citra tidak berdampingan dengan Eka. Hanya urutan Eka - Alya - Citra - Damar yang memenuhi semuanya."
+    },
+    {
+      "id": "n22-pu-08",
+      "pertanyaan": "[Penalaran Umum] Sebuah program kualitas udara mencatat capaian awal 200 satuan. Setelah intervensi pertama naik 42 satuan, tetapi pada evaluasi lanjutan turun 21 satuan. Kelompok pembanding berakhir pada 207 satuan. Simpulan yang paling tepat adalah?",
+      "opsi": {
+        "A": "Tidak ada perubahan pada topik kualitas udara karena kenaikan dan penurunan saling meniadakan.",
+        "B": "Program pada topik kualitas udara hanya meningkat jika dibandingkan dengan kelompok B.",
+        "C": "Program pada topik kualitas udara tetap menunjukkan peningkatan bersih sebesar 21 satuan.",
+        "D": "Kelompok B pasti lebih efektif daripada program pada topik kualitas udara.",
+        "E": "Program pada topik kualitas udara mengalami penurunan bersih sebesar 21 satuan."
+      },
+      "jawaban": "C",
+      "pembahasan": "Capaian akhir program adalah 200 + 42 - 21 = 221. Jadi ada peningkatan bersih 21 satuan. Data kelompok pembanding tidak mengubah fakta peningkatan bersih program utama."
+    },
+    {
+      "id": "n22-pu-09",
+      "pertanyaan": "[Penalaran Umum] Dalam diskusi tentang ketahanan pangan, seorang penulis menyatakan bahwa kebijakan A harus diterapkan karena hasil survei dan observasi lapangan saling menguatkan. Evaluasi yang paling tepat terhadap kualitas simpulan tersebut adalah?",
+      "opsi": {
+        "A": "Kesimpulan cukup dianggap benar jika tidak ada sanggahan langsung.",
+        "B": "Kesimpulan penulis pasti benar selama sesuai dengan opini mayoritas.",
+        "C": "Penulis boleh menambahkan asumsi baru asalkan tampak masuk akal.",
+        "D": "Kesimpulan penulis sah jika hanya didasarkan pada premis yang eksplisit di dalam argumen.",
+        "E": "Argumen dianggap kuat bila memuat istilah teknis sebanyak mungkin."
+      },
+      "jawaban": "D",
+      "pembahasan": "Pada penalaran umum, kekuatan simpulan ditentukan oleh apakah simpulan ditopang premis yang tersedia. Opsi benar menekankan bahwa simpulan sah hanya jika berasal dari premis eksplisit, bukan dari asumsi tambahan atau popularitas pendapat."
+    },
+    {
+      "id": "n22-pu-10",
+      "pertanyaan": "[Penalaran Umum] Semua pengunjung yang mengikuti seminar wajib membawa catatan. Sebagian peserta seminar ternyata membawa catatan berlabel khusus. Simpulan yang pasti benar adalah?",
+      "opsi": {
+        "A": "Semua catatan dimiliki oleh pengunjung yang mengikuti seminar.",
+        "B": "Tidak ada pengunjung yang mengikuti seminar memiliki catatan.",
+        "C": "Semua pengunjung yang mengikuti seminar memiliki catatan.",
+        "D": "Tidak dapat disimpulkan hubungan antara catatan dan pengunjung yang mengikuti seminar.",
+        "E": "Sebagian catatan dimiliki oleh pengunjung yang mengikuti seminar."
+      },
+      "jawaban": "E",
+      "pembahasan": "Karena semua pengunjung yang mengikuti seminar wajib membawa catatan, maka ketika diketahui sebagian peserta seminar membawa catatan berlabel khusus, paling aman disimpulkan bahwa sebagian catatan itu terkait peserta seminar. Opsi lain terlalu kuat atau bertentangan dengan premis."
+    },
+    {
+      "id": "n22-pu-11",
+      "pertanyaan": "[Penalaran Umum] Citra, Bima, Farhan, Damar harus presentasi satu per satu. Citra tampil sebelum Bima. Farhan tampil setelah Damar. Bima tidak berdampingan dengan Damar. Urutan yang mungkin adalah?",
+      "opsi": {
+        "A": "Damar - Farhan - Citra - Bima",
+        "B": "Citra - Damar - Bima - Farhan",
+        "C": "Bima - Farhan - Citra - Damar",
+        "D": "Farhan - Damar - Citra - Bima",
+        "E": "Damar - Bima - Farhan - Citra"
+      },
+      "jawaban": "A",
+      "pembahasan": "Periksa tiap opsi terhadap tiga syarat: posisi Citra sebelum Bima, posisi Farhan sesudah Damar, dan Bima tidak berdampingan dengan Damar. Hanya urutan Damar - Farhan - Citra - Bima yang memenuhi semuanya."
+    },
+    {
+      "id": "n22-pu-12",
+      "pertanyaan": "[Penalaran Umum] Sebuah program kesehatan sekolah mencatat capaian awal 160 satuan. Setelah intervensi pertama naik 32 satuan, tetapi pada evaluasi lanjutan turun 11 satuan. Kelompok pembanding berakhir pada 178 satuan. Simpulan yang paling tepat adalah?",
+      "opsi": {
+        "A": "Program pada topik kesehatan sekolah mengalami penurunan bersih sebesar 11 satuan.",
+        "B": "Program pada topik kesehatan sekolah tetap menunjukkan peningkatan bersih sebesar 21 satuan.",
+        "C": "Kelompok B pasti lebih efektif daripada program pada topik kesehatan sekolah.",
+        "D": "Tidak ada perubahan pada topik kesehatan sekolah karena kenaikan dan penurunan saling meniadakan.",
+        "E": "Program pada topik kesehatan sekolah hanya meningkat jika dibandingkan dengan kelompok B."
+      },
+      "jawaban": "B",
+      "pembahasan": "Capaian akhir program adalah 160 + 32 - 11 = 181. Jadi ada peningkatan bersih 21 satuan. Data kelompok pembanding tidak mengubah fakta peningkatan bersih program utama."
+    },
+    {
+      "id": "n22-pu-13",
+      "pertanyaan": "[Penalaran Umum] Dalam diskusi tentang literasi digital, koordinator program menyatakan bahwa kebijakan A harus diterapkan karena laporan bulanan menunjukkan pola yang konsisten. Evaluasi yang paling tepat terhadap kualitas simpulan tersebut adalah?",
+      "opsi": {
+        "A": "Argumen dianggap kuat bila memuat istilah teknis sebanyak mungkin.",
+        "B": "Kesimpulan penulis pasti benar selama sesuai dengan opini mayoritas.",
+        "C": "Kesimpulan penulis sah jika hanya didasarkan pada premis yang eksplisit di dalam argumen.",
+        "D": "Kesimpulan cukup dianggap benar jika tidak ada sanggahan langsung.",
+        "E": "Penulis boleh menambahkan asumsi baru asalkan tampak masuk akal."
+      },
+      "jawaban": "C",
+      "pembahasan": "Pada penalaran umum, kekuatan simpulan ditentukan oleh apakah simpulan ditopang premis yang tersedia. Opsi benar menekankan bahwa simpulan sah hanya jika berasal dari premis eksplisit, bukan dari asumsi tambahan atau popularitas pendapat."
+    },
+    {
+      "id": "n22-pu-14",
+      "pertanyaan": "[Penalaran Umum] Semua guru yang mengikuti pelatihan wajib membawa modul. Sebagian peserta pelatihan ternyata membawa modul berlabel khusus. Simpulan yang pasti benar adalah?",
+      "opsi": {
+        "A": "Tidak ada guru yang mengikuti pelatihan memiliki modul.",
+        "B": "Tidak dapat disimpulkan hubungan antara modul dan guru yang mengikuti pelatihan.",
+        "C": "Semua modul dimiliki oleh guru yang mengikuti pelatihan.",
+        "D": "Sebagian modul dimiliki oleh guru yang mengikuti pelatihan.",
+        "E": "Semua guru yang mengikuti pelatihan memiliki modul."
+      },
+      "jawaban": "D",
+      "pembahasan": "Karena semua guru yang mengikuti pelatihan wajib membawa modul, maka ketika diketahui sebagian peserta pelatihan membawa modul berlabel khusus, paling aman disimpulkan bahwa sebagian modul itu terkait peserta pelatihan. Opsi lain terlalu kuat atau bertentangan dengan premis."
+    },
+    {
+      "id": "n22-pu-15",
+      "pertanyaan": "[Penalaran Umum] Bima, Alya, Citra, Damar harus presentasi satu per satu. Bima tampil sebelum Alya. Citra tampil setelah Damar. Alya tidak berdampingan dengan Damar. Urutan yang mungkin adalah?",
+      "opsi": {
+        "A": "Bima - Citra - Damar - Alya",
+        "B": "Alya - Damar - Citra - Bima",
+        "C": "Bima - Alya - Damar - Citra",
+        "D": "Alya - Citra - Bima - Damar",
+        "E": "Damar - Bima - Citra - Alya"
+      },
+      "jawaban": "E",
+      "pembahasan": "Periksa tiap opsi terhadap tiga syarat: posisi Bima sebelum Alya, posisi Citra sesudah Damar, dan Alya tidak berdampingan dengan Damar. Hanya urutan Damar - Bima - Citra - Alya yang memenuhi semuanya."
+    },
+    {
+      "id": "n22-pbm-01",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Cermati paragraf berikut. Sekolah mengembangkan jadwal piket bertema keamanan data selama satu semester. Tim pelaksana tidak hanya menambah kegiatan, tetapi juga mengevaluasi kegiatan lama yang kurang efektif. Hasil evaluasi menunjukkan bahwa program yang sederhana namun konsisten justru lebih mudah diikuti siswa. Paragraf ini digunakan pada program semester ini. Simpulan paragraf tersebut adalah?",
+      "opsi": {
+        "A": "Konsistensi pelaksanaan lebih penting daripada menambah banyak kegiatan baru.",
+        "B": "Sekolah tidak perlu mengevaluasi kegiatan jika jumlah program sudah banyak.",
+        "C": "Semua kegiatan lama harus dihentikan agar program baru berhasil.",
+        "D": "Keberhasilan program sepenuhnya ditentukan oleh jumlah anggaran.",
+        "E": "Siswa hanya tertarik pada kegiatan yang rumit dan bervariasi."
+      },
+      "jawaban": "A",
+      "pembahasan": "Paragraf menegaskan bahwa program yang sederhana tetapi konsisten lebih efektif. Karena itu, simpulan yang tepat menyoroti pentingnya konsistensi, bukan banyaknya kegiatan."
+    },
+    {
+      "id": "n22-pbm-02",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Manakah perbaikan kalimat yang paling efektif untuk menyampaikan gagasan tentang kelas pendampingan terkait disiplin berlalu lintas dalam laporan mingguan?",
+      "opsi": {
+        "A": "kelas pendampingan tentang disiplin berlalu lintas dirancang dengan indikator terukur, karena supaya tujuan dan indikatornya jelas.",
+        "B": "kelas pendampingan tentang disiplin berlalu lintas perlu dirancang dengan indikator terukur agar tujuan, sasaran, dan indikator keberhasilannya jelas.",
+        "C": "kelas pendampingan tentang disiplin berlalu lintas perlu dirancang dengan indikator terukur agar tujuan yang jelas, sasaran, dan keberhasilan indikator.",
+        "D": "kelas pendampingan tentang disiplin berlalu lintas perlu dirancang agar tujuan, sasaran, indikator keberhasilannya jelas dengan indikator terukur.",
+        "E": "kelas pendampingan tentang disiplin berlalu lintas perlu dirancang bertahap agar jelas tujuan sasaran dan indikator keberhasilannya adalah."
+      },
+      "jawaban": "B",
+      "pembahasan": "Kalimat benar harus hemat, logis, dan gramatikal. Opsi benar menjaga subjek-predikat tetap jelas serta menyusun rincian tujuan, sasaran, dan indikator secara paralel."
+    },
+    {
+      "id": "n22-pbm-03",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Susunlah kalimat berikut agar menjadi paragraf yang padu pada agenda pembelajaran. (1) kelas pendampingan tentang disiplin berlalu lintas diusulkan pada awal semester. (2) Guru meminta data kebutuhan siswa sebelum kelas pendampingan dijalankan. (3) Data tersebut dipakai untuk menentukan prioritas kegiatan. (4) Setelah prioritas ditetapkan, sekolah dirancang jadwal pelaksanaan dengan indikator terukur.",
+      "opsi": {
+        "A": "1-3-2-4",
+        "B": "1-2-3-4",
+        "C": "2-1-3-4",
+        "D": "2-3-1-4",
+        "E": "3-2-1-4"
+      },
+      "jawaban": "C",
+      "pembahasan": "Kalimat (2) paling tepat menjadi pembuka karena memperkenalkan kebutuhan data. Kalimat (1) menjelaskan konteks usulan program, lalu (3) menjelaskan fungsi data, dan (4) menjadi akibat logis setelah prioritas ditentukan."
+    },
+    {
+      "id": "n22-pbm-04",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Kata baku yang tepat untuk mengisi bagian rumpang pada kalimat berikut adalah: \"Petugas menyusun [rumpang] laporan agar data mudah ditelusuri kembali.\" Kalimat ini dipakai dalam proposal resmi untuk kelas pendampingan bertema disiplin berlalu lintas.",
+      "opsi": {
+        "A": "pengarsipan",
+        "B": "mengarsip",
+        "C": "diarsipkan",
+        "D": "arsip",
+        "E": "arsipal"
+      },
+      "jawaban": "D",
+      "pembahasan": "Kata yang dibutuhkan harus sesuai kelas kata dan konteks kalimat. Opsi benar adalah \"arsip\" karena paling tepat secara makna dan bentuk baku."
+    },
+    {
+      "id": "n22-pbm-05",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Analisis paragraf berikut dengan saksama. Sekolah mengembangkan kelas pendampingan bertema disiplin berlalu lintas selama satu semester. Tim pelaksana tidak hanya menambah kegiatan, tetapi juga mengevaluasi kegiatan lama yang kurang efektif. Hasil evaluasi menunjukkan bahwa program yang sederhana namun konsisten justru lebih mudah diikuti siswa. Paragraf ini digunakan di lingkungan sekolah. Simpulan paragraf tersebut adalah?",
+      "opsi": {
+        "A": "Sekolah tidak perlu mengevaluasi kegiatan jika jumlah program sudah banyak.",
+        "B": "Keberhasilan program sepenuhnya ditentukan oleh jumlah anggaran.",
+        "C": "Semua kegiatan lama harus dihentikan agar program baru berhasil.",
+        "D": "Siswa hanya tertarik pada kegiatan yang rumit dan bervariasi.",
+        "E": "Konsistensi pelaksanaan lebih penting daripada menambah banyak kegiatan baru."
+      },
+      "jawaban": "E",
+      "pembahasan": "Paragraf menegaskan bahwa program yang sederhana tetapi konsisten lebih efektif. Karena itu, simpulan yang tepat menyoroti pentingnya konsistensi, bukan banyaknya kegiatan."
+    },
+    {
+      "id": "n22-pbm-06",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Manakah perbaikan kalimat yang paling efektif untuk menyampaikan gagasan tentang agenda kelas terkait ketahanan pangan untuk kegiatan kelas?",
+      "opsi": {
+        "A": "agenda kelas tentang ketahanan pangan perlu disusun secara bertahap agar tujuan, sasaran, dan indikator keberhasilannya jelas.",
+        "B": "agenda kelas tentang ketahanan pangan perlu disusun agar tujuan, sasaran, indikator keberhasilannya jelas secara bertahap.",
+        "C": "agenda kelas tentang ketahanan pangan perlu disusun secara bertahap agar tujuan yang jelas, sasaran, dan keberhasilan indikator.",
+        "D": "agenda kelas tentang ketahanan pangan disusun secara bertahap, karena supaya tujuan dan indikatornya jelas.",
+        "E": "agenda kelas tentang ketahanan pangan perlu disusun bertahap agar jelas tujuan sasaran dan indikator keberhasilannya adalah."
+      },
+      "jawaban": "A",
+      "pembahasan": "Kalimat benar harus hemat, logis, dan gramatikal. Opsi benar menjaga subjek-predikat tetap jelas serta menyusun rincian tujuan, sasaran, dan indikator secara paralel."
+    },
+    {
+      "id": "n22-pbm-07",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Susunlah kalimat berikut agar menjadi paragraf yang padu untuk kegiatan kelas. (1) agenda kelas tentang ketahanan pangan diusulkan pada awal semester. (2) Guru meminta data kebutuhan siswa sebelum agenda kelas dijalankan. (3) Data tersebut dipakai untuk menentukan prioritas kegiatan. (4) Setelah prioritas ditetapkan, sekolah disusun jadwal pelaksanaan secara bertahap.",
+      "opsi": {
+        "A": "2-3-1-4",
+        "B": "2-1-3-4",
+        "C": "1-3-2-4",
+        "D": "3-2-1-4",
+        "E": "1-2-3-4"
+      },
+      "jawaban": "B",
+      "pembahasan": "Kalimat (2) paling tepat menjadi pembuka karena memperkenalkan kebutuhan data. Kalimat (1) menjelaskan konteks usulan program, lalu (3) menjelaskan fungsi data, dan (4) menjadi akibat logis setelah prioritas ditentukan."
+    },
+    {
+      "id": "n22-pbm-08",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Kata baku yang tepat untuk mengisi bagian rumpang pada kalimat berikut adalah: \"Peningkatan [rumpang] siswa menjadi tujuan utama program.\" Kalimat ini dipakai untuk kegiatan kelas untuk agenda kelas bertema ketahanan pangan.",
+      "opsi": {
+        "A": "partisipatif",
+        "B": "mempartisipasi",
+        "C": "partisipasi",
+        "D": "berpartisipasi",
+        "E": "partisipan"
+      },
+      "jawaban": "C",
+      "pembahasan": "Kata yang dibutuhkan harus sesuai kelas kata dan konteks kalimat. Opsi benar adalah \"partisipasi\" karena paling tepat secara makna dan bentuk baku."
+    },
+    {
+      "id": "n22-pbm-09",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Bacalah paragraf berikut. Sekolah mengembangkan agenda kelas bertema ketahanan pangan selama satu semester. Tim pelaksana tidak hanya menambah kegiatan, tetapi juga mengevaluasi kegiatan lama yang kurang efektif. Hasil evaluasi menunjukkan bahwa program yang sederhana namun konsisten justru lebih mudah diikuti siswa. Paragraf ini digunakan untuk kegiatan kelas. Simpulan paragraf tersebut adalah?",
+      "opsi": {
+        "A": "Semua kegiatan lama harus dihentikan agar program baru berhasil.",
+        "B": "Siswa hanya tertarik pada kegiatan yang rumit dan bervariasi.",
+        "C": "Keberhasilan program sepenuhnya ditentukan oleh jumlah anggaran.",
+        "D": "Konsistensi pelaksanaan lebih penting daripada menambah banyak kegiatan baru.",
+        "E": "Sekolah tidak perlu mengevaluasi kegiatan jika jumlah program sudah banyak."
+      },
+      "jawaban": "D",
+      "pembahasan": "Paragraf menegaskan bahwa program yang sederhana tetapi konsisten lebih efektif. Karena itu, simpulan yang tepat menyoroti pentingnya konsistensi, bukan banyaknya kegiatan."
+    },
+    {
+      "id": "n22-pbm-10",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Manakah perbaikan kalimat yang paling efektif untuk menyampaikan gagasan tentang proposal kegiatan terkait literasi digital pada program semester ini?",
+      "opsi": {
+        "A": "proposal kegiatan tentang literasi digital dikembangkan berdasarkan data kebutuhan, karena supaya tujuan dan indikatornya jelas.",
+        "B": "proposal kegiatan tentang literasi digital perlu dikembangkan agar tujuan, sasaran, indikator keberhasilannya jelas berdasarkan data kebutuhan.",
+        "C": "proposal kegiatan tentang literasi digital perlu dikembangkan berdasarkan data kebutuhan agar tujuan yang jelas, sasaran, dan keberhasilan indikator.",
+        "D": "proposal kegiatan tentang literasi digital perlu dikembangkan bertahap agar jelas tujuan sasaran dan indikator keberhasilannya adalah.",
+        "E": "proposal kegiatan tentang literasi digital perlu dikembangkan berdasarkan data kebutuhan agar tujuan, sasaran, dan indikator keberhasilannya jelas."
+      },
+      "jawaban": "E",
+      "pembahasan": "Kalimat benar harus hemat, logis, dan gramatikal. Opsi benar menjaga subjek-predikat tetap jelas serta menyusun rincian tujuan, sasaran, dan indikator secara paralel."
+    },
+    {
+      "id": "n22-pbm-11",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Susunlah kalimat berikut agar menjadi paragraf yang padu dalam proposal resmi. (1) proposal kegiatan tentang literasi digital diusulkan pada awal semester. (2) Guru meminta data kebutuhan siswa sebelum proposal kegiatan dijalankan. (3) Data tersebut dipakai untuk menentukan prioritas kegiatan. (4) Setelah prioritas ditetapkan, sekolah dikembangkan jadwal pelaksanaan berdasarkan data kebutuhan.",
+      "opsi": {
+        "A": "2-1-3-4",
+        "B": "1-2-3-4",
+        "C": "3-2-1-4",
+        "D": "2-3-1-4",
+        "E": "1-3-2-4"
+      },
+      "jawaban": "A",
+      "pembahasan": "Kalimat (2) paling tepat menjadi pembuka karena memperkenalkan kebutuhan data. Kalimat (1) menjelaskan konteks usulan program, lalu (3) menjelaskan fungsi data, dan (4) menjadi akibat logis setelah prioritas ditentukan."
+    },
+    {
+      "id": "n22-pbm-12",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Kata baku yang tepat untuk mengisi bagian rumpang pada kalimat berikut adalah: \"Sekolah membutuhkan [rumpang] data sebelum menyusun kebijakan baru.\" Kalimat ini dipakai pada agenda pembelajaran untuk proposal kegiatan bertema literasi digital.",
+      "opsi": {
+        "A": "penganalisa",
+        "B": "analisis",
+        "C": "analitis",
+        "D": "menganalisis",
+        "E": "teranalisis"
+      },
+      "jawaban": "B",
+      "pembahasan": "Kata yang dibutuhkan harus sesuai kelas kata dan konteks kalimat. Opsi benar adalah \"analisis\" karena paling tepat secara makna dan bentuk baku."
+    },
+    {
+      "id": "n22-pbm-13",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Perhatikan paragraf berikut. Sekolah mengembangkan proposal kegiatan bertema literasi digital selama satu semester. Tim pelaksana tidak hanya menambah kegiatan, tetapi juga mengevaluasi kegiatan lama yang kurang efektif. Hasil evaluasi menunjukkan bahwa program yang sederhana namun konsisten justru lebih mudah diikuti siswa. Paragraf ini digunakan untuk kebutuhan siswa. Simpulan paragraf tersebut adalah?",
+      "opsi": {
+        "A": "Sekolah tidak perlu mengevaluasi kegiatan jika jumlah program sudah banyak.",
+        "B": "Semua kegiatan lama harus dihentikan agar program baru berhasil.",
+        "C": "Konsistensi pelaksanaan lebih penting daripada menambah banyak kegiatan baru.",
+        "D": "Siswa hanya tertarik pada kegiatan yang rumit dan bervariasi.",
+        "E": "Keberhasilan program sepenuhnya ditentukan oleh jumlah anggaran."
+      },
+      "jawaban": "C",
+      "pembahasan": "Paragraf menegaskan bahwa program yang sederhana tetapi konsisten lebih efektif. Karena itu, simpulan yang tepat menyoroti pentingnya konsistensi, bukan banyaknya kegiatan."
+    },
+    {
+      "id": "n22-pbm-14",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Manakah perbaikan kalimat yang paling efektif untuk menyampaikan gagasan tentang layanan perpustakaan terkait pengelolaan sampah untuk rapat evaluasi?",
+      "opsi": {
+        "A": "layanan perpustakaan tentang pengelolaan sampah perlu dipersiapkan agar tujuan, sasaran, indikator keberhasilannya jelas secara terbuka.",
+        "B": "layanan perpustakaan tentang pengelolaan sampah dipersiapkan secara terbuka, karena supaya tujuan dan indikatornya jelas.",
+        "C": "layanan perpustakaan tentang pengelolaan sampah perlu dipersiapkan bertahap agar jelas tujuan sasaran dan indikator keberhasilannya adalah.",
+        "D": "layanan perpustakaan tentang pengelolaan sampah perlu dipersiapkan secara terbuka agar tujuan, sasaran, dan indikator keberhasilannya jelas.",
+        "E": "layanan perpustakaan tentang pengelolaan sampah perlu dipersiapkan secara terbuka agar tujuan yang jelas, sasaran, dan keberhasilan indikator."
+      },
+      "jawaban": "D",
+      "pembahasan": "Kalimat benar harus hemat, logis, dan gramatikal. Opsi benar menjaga subjek-predikat tetap jelas serta menyusun rincian tujuan, sasaran, dan indikator secara paralel."
+    },
+    {
+      "id": "n22-pbm-15",
+      "pertanyaan": "[Pemahaman Bacaan dan Menulis] Susunlah kalimat berikut agar menjadi paragraf yang padu dalam laporan mingguan. (1) layanan perpustakaan tentang pengelolaan sampah diusulkan pada awal semester. (2) Guru meminta data kebutuhan siswa sebelum layanan perpustakaan dijalankan. (3) Data tersebut dipakai untuk menentukan prioritas kegiatan. (4) Setelah prioritas ditetapkan, sekolah dipersiapkan jadwal pelaksanaan secara terbuka.",
+      "opsi": {
+        "A": "3-2-1-4",
+        "B": "2-3-1-4",
+        "C": "1-2-3-4",
+        "D": "1-3-2-4",
+        "E": "2-1-3-4"
+      },
+      "jawaban": "E",
+      "pembahasan": "Kalimat (2) paling tepat menjadi pembuka karena memperkenalkan kebutuhan data. Kalimat (1) menjelaskan konteks usulan program, lalu (3) menjelaskan fungsi data, dan (4) menjadi akibat logis setelah prioritas ditentukan."
+    },
+    {
+      "id": "n22-ppu-01",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Tinjau hubungan makna kedua pernyataan berikut. pada laporan triwulan. (1) Semua berkas pengajuan harus ditandatangani sebelum dikirim ke panitia setiap hari kerja. (2) Berkas pengajuan beasiswa harus ditandatangani oleh wali kelas sebelum dikirim ke panitia setiap hari kerja. Hubungan kedua pernyataan tersebut adalah?",
+      "opsi": {
+        "A": "Pernyataan kedua mengkhususkan bagian dari pernyataan pertama dan menambahkan rincian baru.",
+        "B": "Kedua pernyataan memiliki arti yang sama persis.",
+        "C": "Pernyataan kedua membatalkan aturan pada pernyataan pertama.",
+        "D": "Pernyataan kedua lebih umum daripada pernyataan pertama.",
+        "E": "Kedua pernyataan tidak memiliki hubungan makna yang jelas."
+      },
+      "jawaban": "A",
+      "pembahasan": "Pernyataan kedua tetap sejalan dengan pernyataan pertama, tetapi hanya berlaku untuk berkas pengajuan beasiswa. Selain itu, pernyataan kedua memberi rincian tambahan berupa oleh wali kelas."
+    },
+    {
+      "id": "n22-ppu-02",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Analisis makna kata pada kalimat berikut. Dalam kalimat \"Ia memberi jawaban spontan tanpa menunggu arahan dari orang lain. pada tahap akhir penilaian saat audit internal dalam rapat koordinasi.\", makna ungkapan \"spontan\" yang paling dekat adalah?",
+      "opsi": {
+        "A": "terpaksa",
+        "B": "muncul secara segera",
+        "C": "sangat tertutup",
+        "D": "sangat lambat",
+        "E": "direncanakan lama"
+      },
+      "jawaban": "B",
+      "pembahasan": "Ungkapan \"spontan\" harus dipahami dari konteks kalimat. Opsi benar adalah \"muncul secara segera\" karena paling mendekati makna yang dimaksud, sedangkan pilihan lain tidak sesuai dengan nuansa konteksnya."
+    },
+    {
+      "id": "n22-ppu-03",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Cari pasangan kata yang menunjukkan relasi sama seperti hubungan kata wartawan : berita setara dengan hubungan kata peneliti : kata manakah yang paling tepat?",
+      "opsi": {
+        "A": "ruangan",
+        "B": "penumpang",
+        "C": "temuan",
+        "D": "catatan",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "wartawan berhubungan langsung dengan berita sebagai objek kerja utama. Secara setara, peneliti berhubungan langsung dengan temuan."
+    },
+    {
+      "id": "n22-ppu-04",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Jika dilihat sebagai satu kategori yang dapat diwakili oleh satu istilah umum pada latihan kategori pada verifikasi dokumen, istilah yang paling tepat untuk mencakup kata-kata drama, novel, cerpen, puisi adalah?",
+      "opsi": {
+        "A": "surat dinas",
+        "B": "teks ilmiah",
+        "C": "jenis olahraga",
+        "D": "karya sastra",
+        "E": "alat seni"
+      },
+      "jawaban": "D",
+      "pembahasan": "Semua unsur pada daftar termasuk ke dalam kategori \"karya sastra\". Pilihan lain tidak cukup luas atau justru berada pada kategori yang berbeda."
+    },
+    {
+      "id": "n22-ppu-05",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Analisis relasi umum-khusus pada dua pernyataan berikut. dalam telaah editorial. (1) Semua alat laboratorium harus dicek kelayakannya sebelum praktikum dimulai pada awal semester. (2) Alat laboratorium kimia harus dicek kelayakannya oleh petugas laboran sebelum praktikum dimulai pada awal semester. Hubungan kedua pernyataan tersebut adalah?",
+      "opsi": {
+        "A": "Kedua pernyataan memiliki arti yang sama persis.",
+        "B": "Kedua pernyataan tidak memiliki hubungan makna yang jelas.",
+        "C": "Pernyataan kedua membatalkan aturan pada pernyataan pertama.",
+        "D": "Pernyataan kedua lebih umum daripada pernyataan pertama.",
+        "E": "Pernyataan kedua mengkhususkan bagian dari pernyataan pertama dan menambahkan rincian baru."
+      },
+      "jawaban": "E",
+      "pembahasan": "Pernyataan kedua tetap sejalan dengan pernyataan pertama, tetapi hanya berlaku untuk alat laboratorium kimia. Selain itu, pernyataan kedua memberi rincian tambahan berupa oleh petugas laboran."
+    },
+    {
+      "id": "n22-ppu-06",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Bacalah kalimat berikut dengan saksama. Dalam kalimat \"Program itu efektif karena mampu mencapai target dengan sumber daya terbatas. secara menyeluruh dalam rapat evaluasi pada laporan triwulan.\", makna ungkapan \"efektif\" yang paling dekat adalah?",
+      "opsi": {
+        "A": "berhasil guna",
+        "B": "tidak terarah",
+        "C": "boros",
+        "D": "lambat",
+        "E": "tidak mungkin"
+      },
+      "jawaban": "A",
+      "pembahasan": "Ungkapan \"efektif\" harus dipahami dari konteks kalimat. Opsi benar adalah \"berhasil guna\" karena paling mendekati makna yang dimaksud, sedangkan pilihan lain tidak sesuai dengan nuansa konteksnya."
+    },
+    {
+      "id": "n22-ppu-07",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Hubungan kata berikut paling sepadan dengan hubungan kata apoteker : resep setara dengan hubungan kata kurir : kata manakah yang paling tepat?",
+      "opsi": {
+        "A": "penumpang",
+        "B": "paket",
+        "C": "ruangan",
+        "D": "agenda",
+        "E": "catatan"
+      },
+      "jawaban": "B",
+      "pembahasan": "apoteker berhubungan langsung dengan resep sebagai objek kerja utama. Secara setara, kurir berhubungan langsung dengan paket."
+    },
+    {
+      "id": "n22-ppu-08",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Pada daftar unsur berikut yang sering muncul dalam bacaan umum pada latihan kategori pada laporan triwulan, istilah yang paling tepat untuk mencakup kata-kata segitiga, lingkaran, persegi, trapesium adalah?",
+      "opsi": {
+        "A": "bangun ruang",
+        "B": "simbol",
+        "C": "bangun datar",
+        "D": "operasi hitung",
+        "E": "alat ukur"
+      },
+      "jawaban": "C",
+      "pembahasan": "Semua unsur pada daftar termasuk ke dalam kategori \"bangun datar\". Pilihan lain tidak cukup luas atau justru berada pada kategori yang berbeda."
+    },
+    {
+      "id": "n22-ppu-09",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Nilailah keterkaitan isi antara dua pernyataan berikut. pada laporan triwulan. (1) Semua arsip digital harus diamankan sebelum dibagikan pada akhir bulan. (2) Arsip digital sensitif harus diamankan dengan akses terbatas sebelum dibagikan pada akhir bulan. Hubungan kedua pernyataan tersebut adalah?",
+      "opsi": {
+        "A": "Kedua pernyataan memiliki arti yang sama persis.",
+        "B": "Pernyataan kedua lebih umum daripada pernyataan pertama.",
+        "C": "Kedua pernyataan tidak memiliki hubungan makna yang jelas.",
+        "D": "Pernyataan kedua mengkhususkan bagian dari pernyataan pertama dan menambahkan rincian baru.",
+        "E": "Pernyataan kedua membatalkan aturan pada pernyataan pertama."
+      },
+      "jawaban": "D",
+      "pembahasan": "Pernyataan kedua tetap sejalan dengan pernyataan pertama, tetapi hanya berlaku untuk arsip digital sensitif. Selain itu, pernyataan kedua memberi rincian tambahan berupa dengan akses terbatas."
+    },
+    {
+      "id": "n22-ppu-10",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Cermati kalimat berikut. Dalam kalimat \"Panitia bersikap netral agar penilaian tetap adil bagi semua peserta. pada tahap akhir penilaian dalam memo resmi dalam sidang akhir.\", makna ungkapan \"netral\" yang paling dekat adalah?",
+      "opsi": {
+        "A": "sangat tegas",
+        "B": "memihak satu pihak",
+        "C": "sangat ragu",
+        "D": "terlalu lunak",
+        "E": "tidak memihak"
+      },
+      "jawaban": "E",
+      "pembahasan": "Ungkapan \"netral\" harus dipahami dari konteks kalimat. Opsi benar adalah \"tidak memihak\" karena paling mendekati makna yang dimaksud, sedangkan pilihan lain tidak sesuai dengan nuansa konteksnya."
+    },
+    {
+      "id": "n22-ppu-11",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Padanan relasi kata yang tepat adalah hubungan kata juru masak : menu setara dengan hubungan kata arsitek : kata manakah yang paling tepat?",
+      "opsi": {
+        "A": "denah",
+        "B": "agenda",
+        "C": "penumpang",
+        "D": "catatan",
+        "E": "ruangan"
+      },
+      "jawaban": "A",
+      "pembahasan": "juru masak berhubungan langsung dengan menu sebagai objek kerja utama. Secara setara, arsitek berhubungan langsung dengan denah."
+    },
+    {
+      "id": "n22-ppu-12",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Dalam daftar berikut yang berada dalam satu rumpun makna pada latihan kategori pada pembahasan tim kecil, istilah yang paling tepat untuk mencakup kata-kata gunting, kertas, penghapus, lem adalah?",
+      "opsi": {
+        "A": "alat musik",
+        "B": "perlengkapan belajar",
+        "C": "bumbu dapur",
+        "D": "alat berat",
+        "E": "bahan bakar"
+      },
+      "jawaban": "B",
+      "pembahasan": "Semua unsur pada daftar termasuk ke dalam kategori \"perlengkapan belajar\". Pilihan lain tidak cukup luas atau justru berada pada kategori yang berbeda."
+    },
+    {
+      "id": "n22-ppu-13",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Tinjau hubungan makna kedua pernyataan berikut. dalam telaah editorial. (1) Semua dokumen perjalanan harus diperiksa keabsahannya sebelum keberangkatan dalam tahap verifikasi. (2) Paspor dinas harus diperiksa keabsahannya oleh petugas imigrasi sebelum keberangkatan dalam tahap verifikasi. Hubungan kedua pernyataan tersebut adalah?",
+      "opsi": {
+        "A": "Kedua pernyataan memiliki arti yang sama persis.",
+        "B": "Kedua pernyataan tidak memiliki hubungan makna yang jelas.",
+        "C": "Pernyataan kedua mengkhususkan bagian dari pernyataan pertama dan menambahkan rincian baru.",
+        "D": "Pernyataan kedua membatalkan aturan pada pernyataan pertama.",
+        "E": "Pernyataan kedua lebih umum daripada pernyataan pertama."
+      },
+      "jawaban": "C",
+      "pembahasan": "Pernyataan kedua tetap sejalan dengan pernyataan pertama, tetapi hanya berlaku untuk paspor dinas. Selain itu, pernyataan kedua memberi rincian tambahan berupa oleh petugas imigrasi."
+    },
+    {
+      "id": "n22-ppu-14",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Analisis makna kata pada kalimat berikut. Dalam kalimat \"Ia dikenal tekun menyelesaikan latihan meskipun hasil awalnya belum baik. secara menyeluruh dalam forum warga pada penyusunan rekomendasi.\", makna ungkapan \"tekun\" yang paling dekat adalah?",
+      "opsi": {
+        "A": "suka menunda",
+        "B": "acuh",
+        "C": "cepat bosan",
+        "D": "rajin dan terus berusaha",
+        "E": "ragu-ragu"
+      },
+      "jawaban": "D",
+      "pembahasan": "Ungkapan \"tekun\" harus dipahami dari konteks kalimat. Opsi benar adalah \"rajin dan terus berusaha\" karena paling mendekati makna yang dimaksud, sedangkan pilihan lain tidak sesuai dengan nuansa konteksnya."
+    },
+    {
+      "id": "n22-ppu-15",
+      "pertanyaan": "[Pengetahuan dan Pemahaman Umum] Analogi kata berikut dapat dilengkapi dengan hubungan kata analis : laporan setara dengan hubungan kata editor : kata manakah yang paling tepat?",
+      "opsi": {
+        "A": "agenda",
+        "B": "penumpang",
+        "C": "catatan",
+        "D": "ruangan",
+        "E": "naskah"
+      },
+      "jawaban": "E",
+      "pembahasan": "analis berhubungan langsung dengan laporan sebagai objek kerja utama. Secara setara, editor berhubungan langsung dengan naskah."
+    },
+    {
+      "id": "n22-pk-01",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Sebuah toko buku menjual 210 paket latihan pada bulan pertama. Pada bulan berikutnya penjualan naik 21%. Banyak paket yang terjual pada bulan berikutnya adalah?",
+      "opsi": {
+        "A": "254",
+        "B": "166",
+        "C": "44",
+        "D": "231",
+        "E": "268"
+      },
+      "jawaban": "A",
+      "pembahasan": "Kenaikan 21% berarti jumlah baru = 210 x (100 + 21)/100 = 254."
+    },
+    {
+      "id": "n22-pk-02",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Jumlah peserta laki-laki dan perempuan pada sebuah kelas berbanding 5:5. Jika jumlah seluruh peserta 90, banyak peserta laki-laki adalah?",
+      "opsi": {
+        "A": "46",
+        "B": "45",
+        "C": "47",
+        "D": "54",
+        "E": "9"
+      },
+      "jawaban": "B",
+      "pembahasan": "Total bagian = 5 + 5 = 10. Setiap bagian bernilai 90/10 = 9. Maka peserta laki-laki = 5 x 9 = 45."
+    },
+    {
+      "id": "n22-pk-03",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Nilai kuis Rina pada tiga pertemuan berturut-turut adalah 8, 10, dan 3. Rata-rata nilainya adalah?",
+      "opsi": {
+        "A": "5.5",
+        "B": "10",
+        "C": "7",
+        "D": "9",
+        "E": "21"
+      },
+      "jawaban": "C",
+      "pembahasan": "Rata-rata = (8 + 10 + 3) / 3 = 21 / 3 = 7."
+    },
+    {
+      "id": "n22-pk-04",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Sebuah kotak berisi 10 bola merah, 6 bola biru, dan 2 bola hijau. Jika diambil satu bola secara acak, peluang terambil bola merah adalah?",
+      "opsi": {
+        "A": "6/18",
+        "B": "16/18",
+        "C": "10/16",
+        "D": "10/18",
+        "E": "2/18"
+      },
+      "jawaban": "D",
+      "pembahasan": "Peluang = banyak kejadian yang diinginkan / banyak seluruh kejadian = 10/18."
+    },
+    {
+      "id": "n22-pk-05",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Jika x = 5 dan y = 7, maka nilai x^2 - y^2 adalah?",
+      "opsi": {
+        "A": "-2",
+        "B": "-23",
+        "C": "74",
+        "D": "-12",
+        "E": "-24"
+      },
+      "jawaban": "E",
+      "pembahasan": "Gunakan selisih kuadrat: x^2 - y^2 = (x + y)(x - y) = (5 + 7)(5 - 7) = 12 x -2 = -24."
+    },
+    {
+      "id": "n22-pk-06",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Sebuah toko buku menjual 336 paket latihan pada bulan pertama. Pada bulan berikutnya penjualan naik 21%. Banyak paket yang terjual pada bulan berikutnya adalah?",
+      "opsi": {
+        "A": "407",
+        "B": "357",
+        "C": "71",
+        "D": "413",
+        "E": "265"
+      },
+      "jawaban": "A",
+      "pembahasan": "Kenaikan 21% berarti jumlah baru = 336 x (100 + 21)/100 = 407."
+    },
+    {
+      "id": "n22-pk-07",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Jumlah peserta laki-laki dan perempuan pada sebuah kelas berbanding 2:7. Jika jumlah seluruh peserta 144, banyak peserta laki-laki adalah?",
+      "opsi": {
+        "A": "48",
+        "B": "32",
+        "C": "16",
+        "D": "112",
+        "E": "33"
+      },
+      "jawaban": "B",
+      "pembahasan": "Total bagian = 2 + 7 = 9. Setiap bagian bernilai 144/9 = 16. Maka peserta laki-laki = 2 x 16 = 32."
+    },
+    {
+      "id": "n22-pk-08",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Nilai kuis Rina pada tiga pertemuan berturut-turut adalah 16, 9, dan 4. Rata-rata nilainya adalah?",
+      "opsi": {
+        "A": "10",
+        "B": "12.5",
+        "C": "9.67",
+        "D": "16",
+        "E": "29"
+      },
+      "jawaban": "C",
+      "pembahasan": "Rata-rata = (16 + 9 + 4) / 3 = 29 / 3 = 9.67."
+    },
+    {
+      "id": "n22-pk-09",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Sebuah kotak berisi 7 bola merah, 3 bola biru, dan 7 bola hijau. Jika diambil satu bola secara acak, peluang terambil bola merah adalah?",
+      "opsi": {
+        "A": "10/17",
+        "B": "3/17",
+        "C": "7/10",
+        "D": "7/17",
+        "E": "Alternatif 1"
+      },
+      "jawaban": "D",
+      "pembahasan": "Peluang = banyak kejadian yang diinginkan / banyak seluruh kejadian = 7/17."
+    },
+    {
+      "id": "n22-pk-10",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Jika x = 6 dan y = 2, maka nilai x^2 - y^2 adalah?",
+      "opsi": {
+        "A": "4",
+        "B": "40",
+        "C": "33",
+        "D": "34",
+        "E": "32"
+      },
+      "jawaban": "E",
+      "pembahasan": "Gunakan selisih kuadrat: x^2 - y^2 = (x + y)(x - y) = (6 + 2)(6 - 2) = 8 x 4 = 32."
+    },
+    {
+      "id": "n22-pk-11",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Sebuah toko buku menjual 128 paket latihan pada bulan pertama. Pada bulan berikutnya penjualan naik 25%. Banyak paket yang terjual pada bulan berikutnya adalah?",
+      "opsi": {
+        "A": "160",
+        "B": "32",
+        "C": "177",
+        "D": "96",
+        "E": "153"
+      },
+      "jawaban": "A",
+      "pembahasan": "Kenaikan 25% berarti jumlah baru = 128 x (100 + 25)/100 = 160."
+    },
+    {
+      "id": "n22-pk-12",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Jumlah peserta laki-laki dan perempuan pada sebuah kelas berbanding 2:3. Jika jumlah seluruh peserta 175, banyak peserta laki-laki adalah?",
+      "opsi": {
+        "A": "105",
+        "B": "70",
+        "C": "35",
+        "D": "72",
+        "E": "71"
+      },
+      "jawaban": "B",
+      "pembahasan": "Total bagian = 2 + 3 = 5. Setiap bagian bernilai 175/5 = 35. Maka peserta laki-laki = 2 x 35 = 70."
+    },
+    {
+      "id": "n22-pk-13",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Nilai kuis Rina pada tiga pertemuan berturut-turut adalah 18, 11, dan 9. Rata-rata nilainya adalah?",
+      "opsi": {
+        "A": "38",
+        "B": "18",
+        "C": "12.67",
+        "D": "14.5",
+        "E": "13.5"
+      },
+      "jawaban": "C",
+      "pembahasan": "Rata-rata = (18 + 11 + 9) / 3 = 38 / 3 = 12.67."
+    },
+    {
+      "id": "n22-pk-14",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Sebuah kotak berisi 6 bola merah, 7 bola biru, dan 5 bola hijau. Jika diambil satu bola secara acak, peluang terambil bola merah adalah?",
+      "opsi": {
+        "A": "13/18",
+        "B": "7/18",
+        "C": "5/18",
+        "D": "6/18",
+        "E": "6/13"
+      },
+      "jawaban": "D",
+      "pembahasan": "Peluang = banyak kejadian yang diinginkan / banyak seluruh kejadian = 6/18."
+    },
+    {
+      "id": "n22-pk-15",
+      "pertanyaan": "[Pengetahuan Kuantitatif] Jika x = 11 dan y = 7, maka nilai x^2 - y^2 adalah?",
+      "opsi": {
+        "A": "73",
+        "B": "4",
+        "C": "90",
+        "D": "170",
+        "E": "72"
+      },
+      "jawaban": "E",
+      "pembahasan": "Gunakan selisih kuadrat: x^2 - y^2 = (x + y)(x - y) = (11 + 7)(11 - 7) = 18 x 4 = 72."
+    },
+    {
+      "id": "n22-lbi-01",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Puskesmas kecamatan memperluas program gizi seimbang dengan pendampingan rutin selama delapan bulan. Program itu tidak hanya berfokus pada kualitas evaluasi, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Sebelum evaluasi diperbaiki, banyak kegiatan belum memiliki indikator yang jelas. Pada akhir periode, kehadiran rutin naik 41 persen dan capaian utama dinilai dari kejelasan dampak yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari kejelasan dampak yang semakin stabil.",
+        "B": "Pelaksana program menolak semua bentuk pengukuran dampak.",
+        "C": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "D": "Evaluasi tidak diperlukan selama kualitas evaluasi sudah tercatat.",
+        "E": "Keberhasilan program tidak berkaitan dengan kejelasan dampak."
+      },
+      "jawaban": "A",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks."
+    },
+    {
+      "id": "n22-lbi-02",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Puskesmas kecamatan memperluas program gizi seimbang dengan pendampingan rutin selama delapan bulan. Program itu tidak hanya berfokus pada kualitas evaluasi, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Sebelum evaluasi diperbaiki, banyak kegiatan belum memiliki indikator yang jelas. Pada akhir periode, kehadiran rutin naik 41 persen dan capaian utama dinilai dari kejelasan dampak yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi menyebabkan kejelasan dampak pasti memburuk.",
+        "B": "Evaluasi yang baik membantu penilai melihat dampak program gizi seimbang secara lebih akurat.",
+        "C": "Evaluasi hanya berguna jika kualitas evaluasi menurun tajam.",
+        "D": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan.",
+        "E": "Evaluasi tidak berkaitan dengan pengukuran dampak program."
+      },
+      "jawaban": "B",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai."
+    },
+    {
+      "id": "n22-lbi-03",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Puskesmas kecamatan memperluas program gizi seimbang dengan pendampingan rutin selama delapan bulan. Program itu tidak hanya berfokus pada kualitas evaluasi, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Sebelum evaluasi diperbaiki, banyak kegiatan belum memiliki indikator yang jelas. Pada akhir periode, kehadiran rutin naik 41 persen dan capaian utama dinilai dari kejelasan dampak yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "disembunyikan dari publik",
+        "B": "dijalankan dengan terburu-buru",
+        "C": "dapat dinilai dengan jelas",
+        "D": "dipaksakan tanpa persiapan",
+        "E": "dilaksanakan secara terpisah"
+      },
+      "jawaban": "C",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian."
+    },
+    {
+      "id": "n22-lbi-04",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Dinas perpustakaan menata ulang program budaya membaca melalui evaluasi terbuka selama satu semester. Program itu tidak hanya berfokus pada ketepatan layanan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada periode pertama, partisipasi masih naik turun karena komunikasi belum merata. Pada akhir periode, keterlibatan relawan bertambah 25 orang dan capaian utama dinilai dari stabilitas keterlibatan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Pelaksana program menolak semua bentuk pengukuran dampak.",
+        "B": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "C": "Keberhasilan program tidak berkaitan dengan stabilitas keterlibatan.",
+        "D": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari stabilitas keterlibatan yang semakin stabil.",
+        "E": "Evaluasi tidak diperlukan selama ketepatan layanan sudah tercatat."
+      },
+      "jawaban": "D",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks."
+    },
+    {
+      "id": "n22-lbi-05",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Dinas perpustakaan menata ulang program budaya membaca melalui evaluasi terbuka selama satu semester. Program itu tidak hanya berfokus pada ketepatan layanan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada periode pertama, partisipasi masih naik turun karena komunikasi belum merata. Pada akhir periode, keterlibatan relawan bertambah 25 orang dan capaian utama dinilai dari stabilitas keterlibatan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi menyebabkan stabilitas keterlibatan pasti memburuk.",
+        "B": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan.",
+        "C": "Evaluasi hanya berguna jika ketepatan layanan menurun tajam.",
+        "D": "Evaluasi tidak berkaitan dengan pengukuran dampak program.",
+        "E": "Evaluasi yang baik membantu penilai melihat dampak program budaya membaca secara lebih akurat."
+      },
+      "jawaban": "E",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai."
+    },
+    {
+      "id": "n22-lbi-06",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Dinas perpustakaan menata ulang program budaya membaca melalui evaluasi terbuka selama satu semester. Program itu tidak hanya berfokus pada ketepatan layanan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada periode pertama, partisipasi masih naik turun karena komunikasi belum merata. Pada akhir periode, keterlibatan relawan bertambah 25 orang dan capaian utama dinilai dari stabilitas keterlibatan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "dapat dinilai dengan jelas",
+        "B": "dipaksakan tanpa persiapan",
+        "C": "disembunyikan dari publik",
+        "D": "dilaksanakan secara terpisah",
+        "E": "dijalankan dengan terburu-buru"
+      },
+      "jawaban": "A",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian."
+    },
+    {
+      "id": "n22-lbi-07",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Sekolah negeri meluncurkan program transportasi publik dengan sistem umpan balik singkat selama enam bulan. Program itu tidak hanya berfokus pada kebiasaan membaca, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Awalnya, pelaksana lebih fokus pada jumlah kegiatan daripada mutu pelaksanaan. Pada akhir periode, tingkat penyelesaian program naik 11 persen dan capaian utama dinilai dari mutu pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Evaluasi tidak diperlukan selama kebiasaan membaca sudah tercatat.",
+        "B": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari mutu pelaksanaan yang semakin stabil.",
+        "C": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "D": "Keberhasilan program tidak berkaitan dengan mutu pelaksanaan.",
+        "E": "Pelaksana program menolak semua bentuk pengukuran dampak."
+      },
+      "jawaban": "B",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks."
+    },
+    {
+      "id": "n22-lbi-08",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Sekolah negeri meluncurkan program transportasi publik dengan sistem umpan balik singkat selama enam bulan. Program itu tidak hanya berfokus pada kebiasaan membaca, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Awalnya, pelaksana lebih fokus pada jumlah kegiatan daripada mutu pelaksanaan. Pada akhir periode, tingkat penyelesaian program naik 11 persen dan capaian utama dinilai dari mutu pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi hanya berguna jika kebiasaan membaca menurun tajam.",
+        "B": "Evaluasi tidak berkaitan dengan pengukuran dampak program.",
+        "C": "Evaluasi yang baik membantu penilai melihat dampak program transportasi publik secara lebih akurat.",
+        "D": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan.",
+        "E": "Evaluasi menyebabkan mutu pelaksanaan pasti memburuk."
+      },
+      "jawaban": "C",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai."
+    },
+    {
+      "id": "n22-lbi-09",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Sekolah negeri meluncurkan program transportasi publik dengan sistem umpan balik singkat selama enam bulan. Program itu tidak hanya berfokus pada kebiasaan membaca, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Awalnya, pelaksana lebih fokus pada jumlah kegiatan daripada mutu pelaksanaan. Pada akhir periode, tingkat penyelesaian program naik 11 persen dan capaian utama dinilai dari mutu pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "dilaksanakan secara terpisah",
+        "B": "dipaksakan tanpa persiapan",
+        "C": "disembunyikan dari publik",
+        "D": "dapat dinilai dengan jelas",
+        "E": "dijalankan dengan terburu-buru"
+      },
+      "jawaban": "D",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian."
+    },
+    {
+      "id": "n22-lbi-10",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Pemerintah kota menjalankan program energi terbarukan melalui lokakarya mingguan selama empat bulan. Program itu tidak hanya berfokus pada partisipasi warga, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada awalnya, sebagian peserta menganggap prosedur baru terlalu rumit. Pada akhir periode, jumlah peserta naik 44 persen dan capaian utama dinilai dari kualitas partisipasi yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Keberhasilan program tidak berkaitan dengan kualitas partisipasi.",
+        "B": "Evaluasi tidak diperlukan selama partisipasi warga sudah tercatat.",
+        "C": "Pelaksana program menolak semua bentuk pengukuran dampak.",
+        "D": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "E": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari kualitas partisipasi yang semakin stabil."
+      },
+      "jawaban": "E",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks."
+    },
+    {
+      "id": "n22-lbi-11",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Pemerintah kota menjalankan program energi terbarukan melalui lokakarya mingguan selama empat bulan. Program itu tidak hanya berfokus pada partisipasi warga, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada awalnya, sebagian peserta menganggap prosedur baru terlalu rumit. Pada akhir periode, jumlah peserta naik 44 persen dan capaian utama dinilai dari kualitas partisipasi yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi yang baik membantu penilai melihat dampak program energi terbarukan secara lebih akurat.",
+        "B": "Evaluasi hanya berguna jika partisipasi warga menurun tajam.",
+        "C": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan.",
+        "D": "Evaluasi tidak berkaitan dengan pengukuran dampak program.",
+        "E": "Evaluasi menyebabkan kualitas partisipasi pasti memburuk."
+      },
+      "jawaban": "A",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai."
+    },
+    {
+      "id": "n22-lbi-12",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Pemerintah kota menjalankan program energi terbarukan melalui lokakarya mingguan selama empat bulan. Program itu tidak hanya berfokus pada partisipasi warga, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada awalnya, sebagian peserta menganggap prosedur baru terlalu rumit. Pada akhir periode, jumlah peserta naik 44 persen dan capaian utama dinilai dari kualitas partisipasi yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "dilaksanakan secara terpisah",
+        "B": "dapat dinilai dengan jelas",
+        "C": "dijalankan dengan terburu-buru",
+        "D": "dipaksakan tanpa persiapan",
+        "E": "disembunyikan dari publik"
+      },
+      "jawaban": "B",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian."
+    },
+    {
+      "id": "n22-lbi-13",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Pemerintah kabupaten mengembangkan program pariwisata daerah dengan pelatihan bertahap selama lima bulan. Program itu tidak hanya berfokus pada keterlibatan relawan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Di minggu-minggu pertama, tim pelaksana sempat menghadapi jadwal yang tidak konsisten. Pada akhir periode, waktu layanan turun 11 menit dan capaian utama dinilai dari konsistensi kehadiran yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Keberhasilan program tidak berkaitan dengan konsistensi kehadiran.",
+        "B": "Evaluasi tidak diperlukan selama keterlibatan relawan sudah tercatat.",
+        "C": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari konsistensi kehadiran yang semakin stabil.",
+        "D": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "E": "Pelaksana program menolak semua bentuk pengukuran dampak."
+      },
+      "jawaban": "C",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks."
+    },
+    {
+      "id": "n22-lbi-14",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Pemerintah kabupaten mengembangkan program pariwisata daerah dengan pelatihan bertahap selama lima bulan. Program itu tidak hanya berfokus pada keterlibatan relawan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Di minggu-minggu pertama, tim pelaksana sempat menghadapi jadwal yang tidak konsisten. Pada akhir periode, waktu layanan turun 11 menit dan capaian utama dinilai dari konsistensi kehadiran yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi tidak berkaitan dengan pengukuran dampak program.",
+        "B": "Evaluasi menyebabkan konsistensi kehadiran pasti memburuk.",
+        "C": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan.",
+        "D": "Evaluasi yang baik membantu penilai melihat dampak program pariwisata daerah secara lebih akurat.",
+        "E": "Evaluasi hanya berguna jika keterlibatan relawan menurun tajam."
+      },
+      "jawaban": "D",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai."
+    },
+    {
+      "id": "n22-lbi-15",
+      "pertanyaan": "[Literasi dalam Bahasa Indonesia] Pemerintah kabupaten mengembangkan program pariwisata daerah dengan pelatihan bertahap selama lima bulan. Program itu tidak hanya berfokus pada keterlibatan relawan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Di minggu-minggu pertama, tim pelaksana sempat menghadapi jadwal yang tidak konsisten. Pada akhir periode, waktu layanan turun 11 menit dan capaian utama dinilai dari konsistensi kehadiran yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "dipaksakan tanpa persiapan",
+        "B": "dilaksanakan secara terpisah",
+        "C": "dijalankan dengan terburu-buru",
+        "D": "disembunyikan dari publik",
+        "E": "dapat dinilai dengan jelas"
+      },
+      "jawaban": "E",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian."
+    },
+    {
+      "id": "n22-lbe-01",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A district office revised a public transport program for eight months with regular mentoring. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve community engagement. Before the evaluation system was improved, many activities lacked clear indicators. By the end of the period, attendance consistency rose by 33 percent, service clarity became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "The program improved community engagement by using clear targets and consistent routines.",
+        "B": "Participants found the program harder to follow over time.",
+        "C": "The program failed because it offered too few activities.",
+        "D": "The institution removed all feedback sessions from the program.",
+        "E": "Improvement only happened after a budget increase."
+      },
+      "jawaban": "A",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message."
+    },
+    {
+      "id": "n22-lbe-02",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A district office revised a public transport program for eight months with regular mentoring. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve community engagement. Before the evaluation system was improved, many activities lacked clear indicators. By the end of the period, attendance consistency rose by 33 percent, service clarity became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because the program removed all targets and deadlines.",
+        "B": "Because the routines were simpler and easier for participants to follow.",
+        "C": "Because students were forced to join every activity.",
+        "D": "Because the school stopped measuring participation.",
+        "E": "Because teachers reduced all academic work."
+      },
+      "jawaban": "B",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable."
+    },
+    {
+      "id": "n22-lbe-03",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A district office revised a public transport program for eight months with regular mentoring. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve community engagement. Before the evaluation system was improved, many activities lacked clear indicators. By the end of the period, attendance consistency rose by 33 percent, service clarity became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "sudden",
+        "B": "fragile",
+        "C": "steady",
+        "D": "optional",
+        "E": "unclear"
+      },
+      "jawaban": "C",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning."
+    },
+    {
+      "id": "n22-lbe-04",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A local clinic introduced a renewable energy program through one semester through open evaluation. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve service accuracy. In the first phase, participation changed sharply because communication was uneven. By the end of the period, volunteer involvement increased by 8 people, implementation quality became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "Participants found the program harder to follow over time.",
+        "B": "The institution removed all feedback sessions from the program.",
+        "C": "The program failed because it offered too few activities.",
+        "D": "The program improved service accuracy by using clear targets and consistent routines.",
+        "E": "Improvement only happened after a budget increase."
+      },
+      "jawaban": "D",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message."
+    },
+    {
+      "id": "n22-lbe-05",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A local clinic introduced a renewable energy program through one semester through open evaluation. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve service accuracy. In the first phase, participation changed sharply because communication was uneven. By the end of the period, volunteer involvement increased by 8 people, implementation quality became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because the school stopped measuring participation.",
+        "B": "Because teachers reduced all academic work.",
+        "C": "Because students were forced to join every activity.",
+        "D": "Because the program removed all targets and deadlines.",
+        "E": "Because the routines were simpler and easier for participants to follow."
+      },
+      "jawaban": "E",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable."
+    },
+    {
+      "id": "n22-lbe-06",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A local clinic introduced a renewable energy program through one semester through open evaluation. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve service accuracy. In the first phase, participation changed sharply because communication was uneven. By the end of the period, volunteer involvement increased by 8 people, implementation quality became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "steady",
+        "B": "sudden",
+        "C": "fragile",
+        "D": "unclear",
+        "E": "optional"
+      },
+      "jawaban": "A",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning."
+    },
+    {
+      "id": "n22-lbe-07",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A city library improved a small business growth program for six months with short feedback cycles. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve reading habits. Initially, the team focused more on the number of activities than on their quality. By the end of the period, completion rates improved by 15 percent, engagement depth became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "Participants found the program harder to follow over time.",
+        "B": "The program improved reading habits by using clear targets and consistent routines.",
+        "C": "The institution removed all feedback sessions from the program.",
+        "D": "The program failed because it offered too few activities.",
+        "E": "Improvement only happened after a budget increase."
+      },
+      "jawaban": "B",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message."
+    },
+    {
+      "id": "n22-lbe-08",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A city library improved a small business growth program for six months with short feedback cycles. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve reading habits. Initially, the team focused more on the number of activities than on their quality. By the end of the period, completion rates improved by 15 percent, engagement depth became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because teachers reduced all academic work.",
+        "B": "Because the program removed all targets and deadlines.",
+        "C": "Because the routines were simpler and easier for participants to follow.",
+        "D": "Because students were forced to join every activity.",
+        "E": "Because the school stopped measuring participation."
+      },
+      "jawaban": "C",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable."
+    },
+    {
+      "id": "n22-lbe-09",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A city library improved a small business growth program for six months with short feedback cycles. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve reading habits. Initially, the team focused more on the number of activities than on their quality. By the end of the period, completion rates improved by 15 percent, engagement depth became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "sudden",
+        "B": "optional",
+        "C": "fragile",
+        "D": "steady",
+        "E": "unclear"
+      },
+      "jawaban": "D",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning."
+    },
+    {
+      "id": "n22-lbe-10",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A public school launched a nutrition awareness program for four months through weekly workshops. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve student participation. At first, many participants thought the new procedure was too complicated. By the end of the period, participant numbers rose by 36 percent, participation quality became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "Improvement only happened after a budget increase.",
+        "B": "Participants found the program harder to follow over time.",
+        "C": "The program failed because it offered too few activities.",
+        "D": "The institution removed all feedback sessions from the program.",
+        "E": "The program improved student participation by using clear targets and consistent routines."
+      },
+      "jawaban": "E",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message."
+    },
+    {
+      "id": "n22-lbe-11",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A public school launched a nutrition awareness program for four months through weekly workshops. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve student participation. At first, many participants thought the new procedure was too complicated. By the end of the period, participant numbers rose by 36 percent, participation quality became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because the routines were simpler and easier for participants to follow.",
+        "B": "Because teachers reduced all academic work.",
+        "C": "Because the school stopped measuring participation.",
+        "D": "Because students were forced to join every activity.",
+        "E": "Because the program removed all targets and deadlines."
+      },
+      "jawaban": "A",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable."
+    },
+    {
+      "id": "n22-lbe-12",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A public school launched a nutrition awareness program for four months through weekly workshops. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve student participation. At first, many participants thought the new procedure was too complicated. By the end of the period, participant numbers rose by 36 percent, participation quality became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "unclear",
+        "B": "steady",
+        "C": "fragile",
+        "D": "optional",
+        "E": "sudden"
+      },
+      "jawaban": "B",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning."
+    },
+    {
+      "id": "n22-lbe-13",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A village learning center expanded a traffic discipline program for five months with staged training. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve program follow-up. During the early weeks, the team struggled with an inconsistent schedule. By the end of the period, service time dropped by 17 minutes, attendance stability became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "The program failed because it offered too few activities.",
+        "B": "Participants found the program harder to follow over time.",
+        "C": "The program improved program follow-up by using clear targets and consistent routines.",
+        "D": "The institution removed all feedback sessions from the program.",
+        "E": "Improvement only happened after a budget increase."
+      },
+      "jawaban": "C",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message."
+    },
+    {
+      "id": "n22-lbe-14",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A village learning center expanded a traffic discipline program for five months with staged training. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve program follow-up. During the early weeks, the team struggled with an inconsistent schedule. By the end of the period, service time dropped by 17 minutes, attendance stability became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because students were forced to join every activity.",
+        "B": "Because teachers reduced all academic work.",
+        "C": "Because the school stopped measuring participation.",
+        "D": "Because the routines were simpler and easier for participants to follow.",
+        "E": "Because the program removed all targets and deadlines."
+      },
+      "jawaban": "D",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable."
+    },
+    {
+      "id": "n22-lbe-15",
+      "pertanyaan": "[Literasi dalam Bahasa Inggris] A village learning center expanded a traffic discipline program for five months with staged training. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve program follow-up. During the early weeks, the team struggled with an inconsistent schedule. By the end of the period, service time dropped by 17 minutes, attendance stability became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "fragile",
+        "B": "optional",
+        "C": "unclear",
+        "D": "sudden",
+        "E": "steady"
+      },
+      "jawaban": "E",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning."
+    },
+    {
+      "id": "n22-pm-01",
+      "pertanyaan": "[Penalaran Matematika] Sebuah pola bilangan mengikuti aturan U_n = 2n + 3. Nilai U_66 adalah?",
+      "opsi": {
+        "A": "135",
+        "B": "133",
+        "C": "198",
+        "D": "137",
+        "E": "69"
+      },
+      "jawaban": "A",
+      "pembahasan": "Substitusikan n = 66 ke rumus U_n = 2n + 3 sehingga diperoleh 2(66) + 3 = 135."
+    },
+    {
+      "id": "n22-pm-02",
+      "pertanyaan": "[Penalaran Matematika] Sebuah taman berbentuk persegi memiliki panjang sisi 69 meter. Luas taman tersebut adalah?",
+      "opsi": {
+        "A": "2380.5",
+        "B": "4761",
+        "C": "276",
+        "D": "4830",
+        "E": "138"
+      },
+      "jawaban": "B",
+      "pembahasan": "Luas persegi = sisi x sisi = 69 x 69 = 4761 meter persegi."
+    },
+    {
+      "id": "n22-pm-03",
+      "pertanyaan": "[Penalaran Matematika] Garis melalui titik (24, 11) dan (26, 31). Gradien garis tersebut adalah?",
+      "opsi": {
+        "A": "0.1",
+        "B": "0.77",
+        "C": "10",
+        "D": "11",
+        "E": "9"
+      },
+      "jawaban": "C",
+      "pembahasan": "Gradien m = (y2 - y1)/(x2 - x1) = (31 - 11)/(26 - 24) = 20/2 = 10."
+    },
+    {
+      "id": "n22-pm-04",
+      "pertanyaan": "[Penalaran Matematika] Tarif parkir kendaraan operasional di rumah sakit dinyatakan dengan model y = 5x, dengan x menyatakan jumlah jam. Jika kendaraan parkir selama 26 jam, nilai y adalah?",
+      "opsi": {
+        "A": "21",
+        "B": "156",
+        "C": "125",
+        "D": "130",
+        "E": "31"
+      },
+      "jawaban": "D",
+      "pembahasan": "Masukkan x = 26 ke model y = 5x, sehingga y = 5 x 26 = 130."
+    },
+    {
+      "id": "n22-pm-05",
+      "pertanyaan": "[Penalaran Matematika] Data hasil pengukuran adalah 13, 39, 75, 91. Jangkauan data tersebut adalah?",
+      "opsi": {
+        "A": "54.5",
+        "B": "13",
+        "C": "91",
+        "D": "52",
+        "E": "78"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jangkauan = nilai terbesar - nilai terkecil = 91 - 13 = 78."
+    },
+    {
+      "id": "n22-pm-06",
+      "pertanyaan": "[Penalaran Matematika] Sebuah pola bilangan mengikuti aturan U_n = 2n + 3. Nilai U_67 adalah?",
+      "opsi": {
+        "A": "137",
+        "B": "201",
+        "C": "139",
+        "D": "70",
+        "E": "135"
+      },
+      "jawaban": "A",
+      "pembahasan": "Substitusikan n = 67 ke rumus U_n = 2n + 3 sehingga diperoleh 2(67) + 3 = 137."
+    },
+    {
+      "id": "n22-pm-07",
+      "pertanyaan": "[Penalaran Matematika] Sebuah taman berbentuk persegi memiliki panjang sisi 70 meter. Luas taman tersebut adalah?",
+      "opsi": {
+        "A": "2450",
+        "B": "4900",
+        "C": "4970",
+        "D": "280",
+        "E": "140"
+      },
+      "jawaban": "B",
+      "pembahasan": "Luas persegi = sisi x sisi = 70 x 70 = 4900 meter persegi."
+    },
+    {
+      "id": "n22-pm-08",
+      "pertanyaan": "[Penalaran Matematika] Garis melalui titik (25, 14) dan (32, 91). Gradien garis tersebut adalah?",
+      "opsi": {
+        "A": "0.09",
+        "B": "2.41",
+        "C": "11",
+        "D": "10",
+        "E": "12"
+      },
+      "jawaban": "C",
+      "pembahasan": "Gradien m = (y2 - y1)/(x2 - x1) = (91 - 14)/(32 - 25) = 77/7 = 11."
+    },
+    {
+      "id": "n22-pm-09",
+      "pertanyaan": "[Penalaran Matematika] Tarif parkir kendaraan operasional di gedung pertemuan dinyatakan dengan model y = 6x, dengan x menyatakan jumlah jam. Jika kendaraan parkir selama 33 jam, nilai y adalah?",
+      "opsi": {
+        "A": "39",
+        "B": "27",
+        "C": "231",
+        "D": "198",
+        "E": "192"
+      },
+      "jawaban": "D",
+      "pembahasan": "Masukkan x = 33 ke model y = 6x, sehingga y = 6 x 33 = 198."
+    },
+    {
+      "id": "n22-pm-10",
+      "pertanyaan": "[Penalaran Matematika] Data hasil pengukuran adalah 14, 42, 40, 98. Jangkauan data tersebut adalah?",
+      "opsi": {
+        "A": "48.5",
+        "B": "14",
+        "C": "56",
+        "D": "98",
+        "E": "84"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jangkauan = nilai terbesar - nilai terkecil = 98 - 14 = 84."
+    },
+    {
+      "id": "n22-pm-11",
+      "pertanyaan": "[Penalaran Matematika] Sebuah pola bilangan mengikuti aturan U_n = 2n + 3. Nilai U_68 adalah?",
+      "opsi": {
+        "A": "139",
+        "B": "141",
+        "C": "204",
+        "D": "137",
+        "E": "71"
+      },
+      "jawaban": "A",
+      "pembahasan": "Substitusikan n = 68 ke rumus U_n = 2n + 3 sehingga diperoleh 2(68) + 3 = 139."
+    },
+    {
+      "id": "n22-pm-12",
+      "pertanyaan": "[Penalaran Matematika] Sebuah taman berbentuk persegi memiliki panjang sisi 71 meter. Luas taman tersebut adalah?",
+      "opsi": {
+        "A": "284",
+        "B": "5041",
+        "C": "5112",
+        "D": "142",
+        "E": "2520.5"
+      },
+      "jawaban": "B",
+      "pembahasan": "Luas persegi = sisi x sisi = 71 x 71 = 5041 meter persegi."
+    },
+    {
+      "id": "n22-pm-13",
+      "pertanyaan": "[Penalaran Matematika] Garis melalui titik (26, 17) dan (31, 77). Gradien garis tersebut adalah?",
+      "opsi": {
+        "A": "11",
+        "B": "0.08",
+        "C": "12",
+        "D": "13",
+        "E": "1.94"
+      },
+      "jawaban": "C",
+      "pembahasan": "Gradien m = (y2 - y1)/(x2 - x1) = (77 - 17)/(31 - 26) = 60/5 = 12."
+    },
+    {
+      "id": "n22-pm-14",
+      "pertanyaan": "[Penalaran Matematika] Tarif parkir kendaraan operasional di terminal dinyatakan dengan model y = 7x, dengan x menyatakan jumlah jam. Jika kendaraan parkir selama 40 jam, nilai y adalah?",
+      "opsi": {
+        "A": "273",
+        "B": "320",
+        "C": "47",
+        "D": "280",
+        "E": "33"
+      },
+      "jawaban": "D",
+      "pembahasan": "Masukkan x = 40 ke model y = 7x, sehingga y = 7 x 40 = 280."
+    },
+    {
+      "id": "n22-pm-15",
+      "pertanyaan": "[Penalaran Matematika] Data hasil pengukuran adalah 15, 45, 45, 60. Jangkauan data tersebut adalah?",
+      "opsi": {
+        "A": "60",
+        "B": "41.25",
+        "C": "15",
+        "D": "46",
+        "E": "45"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jangkauan = nilai terbesar - nilai terkecil = 60 - 15 = 45."
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "id": "smp-7-mat",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "Matematika",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-7-mat-1",
+      "teks": "Hasil dari -15 + 26 adalah... (Latihan #1)",
+      "opsi": {
+        "A": "11",
+        "B": "-11",
+        "C": "-41",
+        "D": "41",
+        "E": "13"
+      },
+      "kunci": "A",
+      "pembahasan": "Penjumlahan bilangan bulat berbeda tanda: kurangi angka besar dengan kecil, tanda mengikuti angka besar. 26 - 15 = 11.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil."
+    },
+    {
+      "id": "smp-7-mat-2",
+      "teks": "Suhu di dalam kulkas mula-mula adalah -5°C. Pada pukul 08.00, karena listrik padam, suhunya naik 2°C setiap 30 menit. Berapakah suhu di kulkas tersebut pada pukul 09.30? (Latihan #2)",
+      "opsi": {
+        "A": "0°C",
+        "B": "1°C",
+        "C": "-1°C",
+        "D": "2°C",
+        "E": "3°C"
+      },
+      "kunci": "B",
+      "pembahasan": "Dari jam 08.00 ke 09.30 adalah 90 menit. Kenaikan suhu terjadi sebanyak 90 / 30 = 3 kali. Kenaikan total = 3 × 2°C = 6°C. Suhu akhir = -5 + 6 = 1°C.",
+      "trik": "Cari selang waktu, bagi dengan waktu naik, kalikan besar naik, jumlah dengan awal."
+    },
+    {
+      "id": "smp-7-mat-3",
+      "teks": "Bentuk sederhana dari 3(2x - 5) - (4x + 2) adalah... (Latihan #3)",
+      "opsi": {
+        "A": "2x - 13",
+        "B": "10x - 17",
+        "C": "2x - 17",
+        "D": "10x - 13",
+        "E": "2x + 17"
+      },
+      "kunci": "C",
+      "pembahasan": "Sebarkan dulu: (6x - 15) - 4x - 2 = (6x - 4x) + (-15 - 2) = 2x - 17.",
+      "trik": "Sebarkan tanda kurung dan perhatikan tanda minus di depan kurung."
+    },
+    {
+      "id": "smp-7-mat-4",
+      "teks": "Penyelesaian dari persamaan linear 3x + 6 = 5x - 8 adalah... (Latihan #4)",
+      "opsi": {
+        "A": "x = 6",
+        "B": "x = 2",
+        "C": "x = 4",
+        "D": "x = 7",
+        "E": "x = 10"
+      },
+      "kunci": "D",
+      "pembahasan": "Kumpulkan x: 3x - 5x = -8 - 6 -> -2x = -14 -> x = 7.",
+      "trik": "Pindahkan x yang kecil ke x yang besar untuk menghindari pembagian negatif."
+    },
+    {
+      "id": "smp-7-mat-5",
+      "teks": "Diketahui himpunan S = {bilangan cacah kurang dari 10}. A = {bilangan prima pada S}. Himpunan komplemen dari A (A') adalah... (Latihan #5)",
+      "opsi": {
+        "A": "{1, 4, 6, 8, 9}",
+        "B": "{0, 2, 4, 6, 8}",
+        "C": "{0, 1, 2, 4, 6, 8, 9}",
+        "D": "{4, 6, 8, 9}",
+        "E": "{0, 1, 4, 6, 8, 9}"
+      },
+      "kunci": "E",
+      "pembahasan": "S = {0,1,2,3,4,5,6,7,8,9}. A = {2,3,5,7}. Komplemen A atau himpunan S yang bukan A adalah {0,1,4,6,8,9}.",
+      "trik": "Komplemen = yang ADA di Semesta tapi BUKAN di himpunan tersebut."
+    },
+    {
+      "id": "smp-7-mat-6",
+      "teks": "Dalam suatu kelas terdapat 40 siswa. 25 siswa gemar matematika, 20 siswa gemar IPA, dan 10 siswa gemar keduanya. Banyak siswa yang tidak gemar keduanya adalah... (Latihan #6)",
+      "opsi": {
+        "A": "5",
+        "B": "8",
+        "C": "10",
+        "D": "15",
+        "E": "12"
+      },
+      "kunci": "A",
+      "pembahasan": "Rumus himpunan: n(S) = n(M) + n(IPA) - n(Irisan) + n(TidakGemar)\n40 = 25 + 20 - 10 + X\n40 = 35 + X -> X = 5.",
+      "trik": "Total = Jumlah suka A + Jumlah suka B - Suka Keduanya + Tidak Suka."
+    },
+    {
+      "id": "smp-7-mat-7",
+      "teks": "Perbandingan umur Kakak dan Adik adalah 5 : 3. Jika selisih umur mereka adalah 6 tahun, maka umur Kakak adalah... (Latihan #7)",
+      "opsi": {
+        "A": "18 tahun",
+        "B": "15 tahun",
+        "C": "10 tahun",
+        "D": "12 tahun",
+        "E": "20 tahun"
+      },
+      "kunci": "B",
+      "pembahasan": "Umur Kakak = (Rasio Kakak / Selisih Rasio) x Selisih Nyata\nUmur Kakak = [5 / (5-3] x 6 = (5/2) x 6 = 15 tahun.",
+      "trik": "Kalau diketahui SELISIH, penyebut perbandingannya adalah SELISIH rasionya."
+    },
+    {
+      "id": "smp-7-mat-8",
+      "teks": "Ayah menabung di bank sebesar Rp2.000.000 dengan bunga tunggal 12% per tahun. Berapa tabungan Ayah setelah 9 bulan? (Latihan #8)",
+      "opsi": {
+        "A": "Rp2.240.000",
+        "B": "Rp2.360.000",
+        "C": "Rp2.180.000",
+        "D": "Rp2.090.000",
+        "E": "Rp2.120.000"
+      },
+      "kunci": "C",
+      "pembahasan": "Bunga 9 bulan = (9/12) x 12% x Rp2.000.000 = Rp180.000. Total tabungan = Modal + Bunga = Rp2.180.000.",
+      "trik": "Hitung bunganya secara proporsional. (Bulan/12) x Persen x Modal."
+    },
+    {
+      "id": "smp-7-mat-9",
+      "teks": "Pak Rendi membeli sepeda bekas dengan harga Rp400.000. Kemudian sepeda tersebut diperbaiki menghabiskan biaya Rp100.000. Jika ia menjual sepeda itu seharga Rp600.000, persentase keuntungannya adalah... (Latihan #9)",
+      "opsi": {
+        "A": "25%",
+        "B": "30%",
+        "C": "50%",
+        "D": "20%",
+        "E": "15%"
+      },
+      "kunci": "D",
+      "pembahasan": "Modal = 400.000 + 100.000 = 500.000. Untung = 600.000 - 500.000 = 100.000. Persen Untung = (100.000 / 500.000) x 100% = 20%.",
+      "trik": "Modal = Harga beli + Biaya. Persen Untung = Untung/Modal x 100%."
+    },
+    {
+      "id": "smp-7-mat-10",
+      "teks": "Bila sudut A dan sudut B saling berpelurus (suplemen) dan perbandingan ukurannya 2 : 7. Besar sudut B adalah... (Latihan #10)",
+      "opsi": {
+        "A": "40°",
+        "B": "120°",
+        "C": "150°",
+        "D": "70°",
+        "E": "140°"
+      },
+      "kunci": "E",
+      "pembahasan": "Sudut saling berpelurus dijumlah = 180°. Sudut B = (7 / (2+7)) x 180° = (7/9) x 180° = 140°.",
+      "trik": "Berpelurus (garis lurus) = 180°. Berpenyiku (siku-siku) = 90°."
+    },
+    {
+      "id": "smp-7-mat-11",
+      "teks": "Hasil dari -15 + 26 adalah... (Latihan #11)",
+      "opsi": {
+        "A": "11",
+        "B": "-11",
+        "C": "-41",
+        "D": "41",
+        "E": "13"
+      },
+      "kunci": "A",
+      "pembahasan": "Penjumlahan bilangan bulat berbeda tanda: kurangi angka besar dengan kecil, tanda mengikuti angka besar. 26 - 15 = 11.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil."
+    },
+    {
+      "id": "smp-7-mat-12",
+      "teks": "Suhu di dalam kulkas mula-mula adalah -5°C. Pada pukul 08.00, karena listrik padam, suhunya naik 2°C setiap 30 menit. Berapakah suhu di kulkas tersebut pada pukul 09.30? (Latihan #12)",
+      "opsi": {
+        "A": "0°C",
+        "B": "1°C",
+        "C": "-1°C",
+        "D": "2°C",
+        "E": "3°C"
+      },
+      "kunci": "B",
+      "pembahasan": "Dari jam 08.00 ke 09.30 adalah 90 menit. Kenaikan suhu terjadi sebanyak 90 / 30 = 3 kali. Kenaikan total = 3 × 2°C = 6°C. Suhu akhir = -5 + 6 = 1°C.",
+      "trik": "Cari selang waktu, bagi dengan waktu naik, kalikan besar naik, jumlah dengan awal."
+    },
+    {
+      "id": "smp-7-mat-13",
+      "teks": "Bentuk sederhana dari 3(2x - 5) - (4x + 2) adalah... (Latihan #13)",
+      "opsi": {
+        "A": "2x - 13",
+        "B": "10x - 17",
+        "C": "2x - 17",
+        "D": "10x - 13",
+        "E": "2x + 17"
+      },
+      "kunci": "C",
+      "pembahasan": "Sebarkan dulu: (6x - 15) - 4x - 2 = (6x - 4x) + (-15 - 2) = 2x - 17.",
+      "trik": "Sebarkan tanda kurung dan perhatikan tanda minus di depan kurung."
+    },
+    {
+      "id": "smp-7-mat-14",
+      "teks": "Penyelesaian dari persamaan linear 3x + 6 = 5x - 8 adalah... (Latihan #14)",
+      "opsi": {
+        "A": "x = 6",
+        "B": "x = 2",
+        "C": "x = 4",
+        "D": "x = 7",
+        "E": "x = 10"
+      },
+      "kunci": "D",
+      "pembahasan": "Kumpulkan x: 3x - 5x = -8 - 6 -> -2x = -14 -> x = 7.",
+      "trik": "Pindahkan x yang kecil ke x yang besar untuk menghindari pembagian negatif."
+    },
+    {
+      "id": "smp-7-mat-15",
+      "teks": "Diketahui himpunan S = {bilangan cacah kurang dari 10}. A = {bilangan prima pada S}. Himpunan komplemen dari A (A') adalah... (Latihan #15)",
+      "opsi": {
+        "A": "{1, 4, 6, 8, 9}",
+        "B": "{0, 2, 4, 6, 8}",
+        "C": "{0, 1, 2, 4, 6, 8, 9}",
+        "D": "{4, 6, 8, 9}",
+        "E": "{0, 1, 4, 6, 8, 9}"
+      },
+      "kunci": "E",
+      "pembahasan": "S = {0,1,2,3,4,5,6,7,8,9}. A = {2,3,5,7}. Komplemen A atau himpunan S yang bukan A adalah {0,1,4,6,8,9}.",
+      "trik": "Komplemen = yang ADA di Semesta tapi BUKAN di himpunan tersebut."
+    },
+    {
+      "id": "smp-7-mat-16",
+      "teks": "Dalam suatu kelas terdapat 40 siswa. 25 siswa gemar matematika, 20 siswa gemar IPA, dan 10 siswa gemar keduanya. Banyak siswa yang tidak gemar keduanya adalah... (Latihan #16)",
+      "opsi": {
+        "A": "5",
+        "B": "8",
+        "C": "10",
+        "D": "15",
+        "E": "12"
+      },
+      "kunci": "A",
+      "pembahasan": "Rumus himpunan: n(S) = n(M) + n(IPA) - n(Irisan) + n(TidakGemar)\n40 = 25 + 20 - 10 + X\n40 = 35 + X -> X = 5.",
+      "trik": "Total = Jumlah suka A + Jumlah suka B - Suka Keduanya + Tidak Suka."
+    },
+    {
+      "id": "smp-7-mat-17",
+      "teks": "Perbandingan umur Kakak dan Adik adalah 5 : 3. Jika selisih umur mereka adalah 6 tahun, maka umur Kakak adalah... (Latihan #17)",
+      "opsi": {
+        "A": "18 tahun",
+        "B": "15 tahun",
+        "C": "10 tahun",
+        "D": "12 tahun",
+        "E": "20 tahun"
+      },
+      "kunci": "B",
+      "pembahasan": "Umur Kakak = (Rasio Kakak / Selisih Rasio) x Selisih Nyata\nUmur Kakak = [5 / (5-3] x 6 = (5/2) x 6 = 15 tahun.",
+      "trik": "Kalau diketahui SELISIH, penyebut perbandingannya adalah SELISIH rasionya."
+    },
+    {
+      "id": "smp-7-mat-18",
+      "teks": "Ayah menabung di bank sebesar Rp2.000.000 dengan bunga tunggal 12% per tahun. Berapa tabungan Ayah setelah 9 bulan? (Latihan #18)",
+      "opsi": {
+        "A": "Rp2.240.000",
+        "B": "Rp2.360.000",
+        "C": "Rp2.180.000",
+        "D": "Rp2.090.000",
+        "E": "Rp2.120.000"
+      },
+      "kunci": "C",
+      "pembahasan": "Bunga 9 bulan = (9/12) x 12% x Rp2.000.000 = Rp180.000. Total tabungan = Modal + Bunga = Rp2.180.000.",
+      "trik": "Hitung bunganya secara proporsional. (Bulan/12) x Persen x Modal."
+    },
+    {
+      "id": "smp-7-mat-19",
+      "teks": "Pak Rendi membeli sepeda bekas dengan harga Rp400.000. Kemudian sepeda tersebut diperbaiki menghabiskan biaya Rp100.000. Jika ia menjual sepeda itu seharga Rp600.000, persentase keuntungannya adalah... (Latihan #19)",
+      "opsi": {
+        "A": "25%",
+        "B": "30%",
+        "C": "50%",
+        "D": "20%",
+        "E": "15%"
+      },
+      "kunci": "D",
+      "pembahasan": "Modal = 400.000 + 100.000 = 500.000. Untung = 600.000 - 500.000 = 100.000. Persen Untung = (100.000 / 500.000) x 100% = 20%.",
+      "trik": "Modal = Harga beli + Biaya. Persen Untung = Untung/Modal x 100%."
+    },
+    {
+      "id": "smp-7-mat-20",
+      "teks": "Bila sudut A dan sudut B saling berpelurus (suplemen) dan perbandingan ukurannya 2 : 7. Besar sudut B adalah... (Latihan #20)",
+      "opsi": {
+        "A": "40°",
+        "B": "120°",
+        "C": "150°",
+        "D": "70°",
+        "E": "140°"
+      },
+      "kunci": "E",
+      "pembahasan": "Sudut saling berpelurus dijumlah = 180°. Sudut B = (7 / (2+7)) x 180° = (7/9) x 180° = 140°.",
+      "trik": "Berpelurus (garis lurus) = 180°. Berpenyiku (siku-siku) = 90°."
+    },
+    {
+      "id": "smp-7-mat-21",
+      "teks": "Hasil dari -15 + 26 adalah... (Latihan #21)",
+      "opsi": {
+        "A": "11",
+        "B": "-11",
+        "C": "-41",
+        "D": "41",
+        "E": "13"
+      },
+      "kunci": "A",
+      "pembahasan": "Penjumlahan bilangan bulat berbeda tanda: kurangi angka besar dengan kecil, tanda mengikuti angka besar. 26 - 15 = 11.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil."
+    },
+    {
+      "id": "smp-7-mat-22",
+      "teks": "Suhu di dalam kulkas mula-mula adalah -5°C. Pada pukul 08.00, karena listrik padam, suhunya naik 2°C setiap 30 menit. Berapakah suhu di kulkas tersebut pada pukul 09.30? (Latihan #22)",
+      "opsi": {
+        "A": "0°C",
+        "B": "1°C",
+        "C": "-1°C",
+        "D": "2°C",
+        "E": "3°C"
+      },
+      "kunci": "B",
+      "pembahasan": "Dari jam 08.00 ke 09.30 adalah 90 menit. Kenaikan suhu terjadi sebanyak 90 / 30 = 3 kali. Kenaikan total = 3 × 2°C = 6°C. Suhu akhir = -5 + 6 = 1°C.",
+      "trik": "Cari selang waktu, bagi dengan waktu naik, kalikan besar naik, jumlah dengan awal."
+    },
+    {
+      "id": "smp-7-mat-23",
+      "teks": "Bentuk sederhana dari 3(2x - 5) - (4x + 2) adalah... (Latihan #23)",
+      "opsi": {
+        "A": "2x - 13",
+        "B": "10x - 17",
+        "C": "2x - 17",
+        "D": "10x - 13",
+        "E": "2x + 17"
+      },
+      "kunci": "C",
+      "pembahasan": "Sebarkan dulu: (6x - 15) - 4x - 2 = (6x - 4x) + (-15 - 2) = 2x - 17.",
+      "trik": "Sebarkan tanda kurung dan perhatikan tanda minus di depan kurung."
+    },
+    {
+      "id": "smp-7-mat-24",
+      "teks": "Penyelesaian dari persamaan linear 3x + 6 = 5x - 8 adalah... (Latihan #24)",
+      "opsi": {
+        "A": "x = 6",
+        "B": "x = 2",
+        "C": "x = 4",
+        "D": "x = 7",
+        "E": "x = 10"
+      },
+      "kunci": "D",
+      "pembahasan": "Kumpulkan x: 3x - 5x = -8 - 6 -> -2x = -14 -> x = 7.",
+      "trik": "Pindahkan x yang kecil ke x yang besar untuk menghindari pembagian negatif."
+    },
+    {
+      "id": "smp-7-mat-25",
+      "teks": "Diketahui himpunan S = {bilangan cacah kurang dari 10}. A = {bilangan prima pada S}. Himpunan komplemen dari A (A') adalah... (Latihan #25)",
+      "opsi": {
+        "A": "{1, 4, 6, 8, 9}",
+        "B": "{0, 2, 4, 6, 8}",
+        "C": "{0, 1, 2, 4, 6, 8, 9}",
+        "D": "{4, 6, 8, 9}",
+        "E": "{0, 1, 4, 6, 8, 9}"
+      },
+      "kunci": "E",
+      "pembahasan": "S = {0,1,2,3,4,5,6,7,8,9}. A = {2,3,5,7}. Komplemen A atau himpunan S yang bukan A adalah {0,1,4,6,8,9}.",
+      "trik": "Komplemen = yang ADA di Semesta tapi BUKAN di himpunan tersebut."
+    },
+    {
+      "id": "smp-7-mat-26",
+      "teks": "Dalam suatu kelas terdapat 40 siswa. 25 siswa gemar matematika, 20 siswa gemar IPA, dan 10 siswa gemar keduanya. Banyak siswa yang tidak gemar keduanya adalah... (Latihan #26)",
+      "opsi": {
+        "A": "5",
+        "B": "8",
+        "C": "10",
+        "D": "15",
+        "E": "12"
+      },
+      "kunci": "A",
+      "pembahasan": "Rumus himpunan: n(S) = n(M) + n(IPA) - n(Irisan) + n(TidakGemar)\n40 = 25 + 20 - 10 + X\n40 = 35 + X -> X = 5.",
+      "trik": "Total = Jumlah suka A + Jumlah suka B - Suka Keduanya + Tidak Suka."
+    },
+    {
+      "id": "smp-7-mat-27",
+      "teks": "Perbandingan umur Kakak dan Adik adalah 5 : 3. Jika selisih umur mereka adalah 6 tahun, maka umur Kakak adalah... (Latihan #27)",
+      "opsi": {
+        "A": "18 tahun",
+        "B": "15 tahun",
+        "C": "10 tahun",
+        "D": "12 tahun",
+        "E": "20 tahun"
+      },
+      "kunci": "B",
+      "pembahasan": "Umur Kakak = (Rasio Kakak / Selisih Rasio) x Selisih Nyata\nUmur Kakak = [5 / (5-3] x 6 = (5/2) x 6 = 15 tahun.",
+      "trik": "Kalau diketahui SELISIH, penyebut perbandingannya adalah SELISIH rasionya."
+    },
+    {
+      "id": "smp-7-mat-28",
+      "teks": "Ayah menabung di bank sebesar Rp2.000.000 dengan bunga tunggal 12% per tahun. Berapa tabungan Ayah setelah 9 bulan? (Latihan #28)",
+      "opsi": {
+        "A": "Rp2.240.000",
+        "B": "Rp2.360.000",
+        "C": "Rp2.180.000",
+        "D": "Rp2.090.000",
+        "E": "Rp2.120.000"
+      },
+      "kunci": "C",
+      "pembahasan": "Bunga 9 bulan = (9/12) x 12% x Rp2.000.000 = Rp180.000. Total tabungan = Modal + Bunga = Rp2.180.000.",
+      "trik": "Hitung bunganya secara proporsional. (Bulan/12) x Persen x Modal."
+    },
+    {
+      "id": "smp-7-mat-29",
+      "teks": "Pak Rendi membeli sepeda bekas dengan harga Rp400.000. Kemudian sepeda tersebut diperbaiki menghabiskan biaya Rp100.000. Jika ia menjual sepeda itu seharga Rp600.000, persentase keuntungannya adalah... (Latihan #29)",
+      "opsi": {
+        "A": "25%",
+        "B": "30%",
+        "C": "50%",
+        "D": "20%",
+        "E": "15%"
+      },
+      "kunci": "D",
+      "pembahasan": "Modal = 400.000 + 100.000 = 500.000. Untung = 600.000 - 500.000 = 100.000. Persen Untung = (100.000 / 500.000) x 100% = 20%.",
+      "trik": "Modal = Harga beli + Biaya. Persen Untung = Untung/Modal x 100%."
+    },
+    {
+      "id": "smp-7-mat-30",
+      "teks": "Bila sudut A dan sudut B saling berpelurus (suplemen) dan perbandingan ukurannya 2 : 7. Besar sudut B adalah... (Latihan #30)",
+      "opsi": {
+        "A": "40°",
+        "B": "120°",
+        "C": "150°",
+        "D": "70°",
+        "E": "140°"
+      },
+      "kunci": "E",
+      "pembahasan": "Sudut saling berpelurus dijumlah = 180°. Sudut B = (7 / (2+7)) x 180° = (7/9) x 180° = 140°.",
+      "trik": "Berpelurus (garis lurus) = 180°. Berpenyiku (siku-siku) = 90°."
+    },
+    {
+      "id": "smp-7-mat-31",
+      "teks": "Hasil dari -15 + 26 adalah... (Latihan #31)",
+      "opsi": {
+        "A": "11",
+        "B": "-11",
+        "C": "-41",
+        "D": "41",
+        "E": "13"
+      },
+      "kunci": "A",
+      "pembahasan": "Penjumlahan bilangan bulat berbeda tanda: kurangi angka besar dengan kecil, tanda mengikuti angka besar. 26 - 15 = 11.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil."
+    },
+    {
+      "id": "smp-7-mat-32",
+      "teks": "Suhu di dalam kulkas mula-mula adalah -5°C. Pada pukul 08.00, karena listrik padam, suhunya naik 2°C setiap 30 menit. Berapakah suhu di kulkas tersebut pada pukul 09.30? (Latihan #32)",
+      "opsi": {
+        "A": "0°C",
+        "B": "1°C",
+        "C": "-1°C",
+        "D": "2°C",
+        "E": "3°C"
+      },
+      "kunci": "B",
+      "pembahasan": "Dari jam 08.00 ke 09.30 adalah 90 menit. Kenaikan suhu terjadi sebanyak 90 / 30 = 3 kali. Kenaikan total = 3 × 2°C = 6°C. Suhu akhir = -5 + 6 = 1°C.",
+      "trik": "Cari selang waktu, bagi dengan waktu naik, kalikan besar naik, jumlah dengan awal."
+    },
+    {
+      "id": "smp-7-mat-33",
+      "teks": "Bentuk sederhana dari 3(2x - 5) - (4x + 2) adalah... (Latihan #33)",
+      "opsi": {
+        "A": "2x - 13",
+        "B": "10x - 17",
+        "C": "2x - 17",
+        "D": "10x - 13",
+        "E": "2x + 17"
+      },
+      "kunci": "C",
+      "pembahasan": "Sebarkan dulu: (6x - 15) - 4x - 2 = (6x - 4x) + (-15 - 2) = 2x - 17.",
+      "trik": "Sebarkan tanda kurung dan perhatikan tanda minus di depan kurung."
+    },
+    {
+      "id": "smp-7-mat-34",
+      "teks": "Penyelesaian dari persamaan linear 3x + 6 = 5x - 8 adalah... (Latihan #34)",
+      "opsi": {
+        "A": "x = 6",
+        "B": "x = 2",
+        "C": "x = 4",
+        "D": "x = 7",
+        "E": "x = 10"
+      },
+      "kunci": "D",
+      "pembahasan": "Kumpulkan x: 3x - 5x = -8 - 6 -> -2x = -14 -> x = 7.",
+      "trik": "Pindahkan x yang kecil ke x yang besar untuk menghindari pembagian negatif."
+    },
+    {
+      "id": "smp-7-mat-35",
+      "teks": "Diketahui himpunan S = {bilangan cacah kurang dari 10}. A = {bilangan prima pada S}. Himpunan komplemen dari A (A') adalah... (Latihan #35)",
+      "opsi": {
+        "A": "{1, 4, 6, 8, 9}",
+        "B": "{0, 2, 4, 6, 8}",
+        "C": "{0, 1, 2, 4, 6, 8, 9}",
+        "D": "{4, 6, 8, 9}",
+        "E": "{0, 1, 4, 6, 8, 9}"
+      },
+      "kunci": "E",
+      "pembahasan": "S = {0,1,2,3,4,5,6,7,8,9}. A = {2,3,5,7}. Komplemen A atau himpunan S yang bukan A adalah {0,1,4,6,8,9}.",
+      "trik": "Komplemen = yang ADA di Semesta tapi BUKAN di himpunan tersebut."
+    },
+    {
+      "id": "smp-7-mat-36",
+      "teks": "Dalam suatu kelas terdapat 40 siswa. 25 siswa gemar matematika, 20 siswa gemar IPA, dan 10 siswa gemar keduanya. Banyak siswa yang tidak gemar keduanya adalah... (Latihan #36)",
+      "opsi": {
+        "A": "5",
+        "B": "8",
+        "C": "10",
+        "D": "15",
+        "E": "12"
+      },
+      "kunci": "A",
+      "pembahasan": "Rumus himpunan: n(S) = n(M) + n(IPA) - n(Irisan) + n(TidakGemar)\n40 = 25 + 20 - 10 + X\n40 = 35 + X -> X = 5.",
+      "trik": "Total = Jumlah suka A + Jumlah suka B - Suka Keduanya + Tidak Suka."
+    },
+    {
+      "id": "smp-7-mat-37",
+      "teks": "Perbandingan umur Kakak dan Adik adalah 5 : 3. Jika selisih umur mereka adalah 6 tahun, maka umur Kakak adalah... (Latihan #37)",
+      "opsi": {
+        "A": "18 tahun",
+        "B": "15 tahun",
+        "C": "10 tahun",
+        "D": "12 tahun",
+        "E": "20 tahun"
+      },
+      "kunci": "B",
+      "pembahasan": "Umur Kakak = (Rasio Kakak / Selisih Rasio) x Selisih Nyata\nUmur Kakak = [5 / (5-3] x 6 = (5/2) x 6 = 15 tahun.",
+      "trik": "Kalau diketahui SELISIH, penyebut perbandingannya adalah SELISIH rasionya."
+    },
+    {
+      "id": "smp-7-mat-38",
+      "teks": "Ayah menabung di bank sebesar Rp2.000.000 dengan bunga tunggal 12% per tahun. Berapa tabungan Ayah setelah 9 bulan? (Latihan #38)",
+      "opsi": {
+        "A": "Rp2.240.000",
+        "B": "Rp2.360.000",
+        "C": "Rp2.180.000",
+        "D": "Rp2.090.000",
+        "E": "Rp2.120.000"
+      },
+      "kunci": "C",
+      "pembahasan": "Bunga 9 bulan = (9/12) x 12% x Rp2.000.000 = Rp180.000. Total tabungan = Modal + Bunga = Rp2.180.000.",
+      "trik": "Hitung bunganya secara proporsional. (Bulan/12) x Persen x Modal."
+    },
+    {
+      "id": "smp-7-mat-39",
+      "teks": "Pak Rendi membeli sepeda bekas dengan harga Rp400.000. Kemudian sepeda tersebut diperbaiki menghabiskan biaya Rp100.000. Jika ia menjual sepeda itu seharga Rp600.000, persentase keuntungannya adalah... (Latihan #39)",
+      "opsi": {
+        "A": "25%",
+        "B": "30%",
+        "C": "50%",
+        "D": "20%",
+        "E": "15%"
+      },
+      "kunci": "D",
+      "pembahasan": "Modal = 400.000 + 100.000 = 500.000. Untung = 600.000 - 500.000 = 100.000. Persen Untung = (100.000 / 500.000) x 100% = 20%.",
+      "trik": "Modal = Harga beli + Biaya. Persen Untung = Untung/Modal x 100%."
+    },
+    {
+      "id": "smp-7-mat-40",
+      "teks": "Bila sudut A dan sudut B saling berpelurus (suplemen) dan perbandingan ukurannya 2 : 7. Besar sudut B adalah... (Latihan #40)",
+      "opsi": {
+        "A": "40°",
+        "B": "120°",
+        "C": "150°",
+        "D": "70°",
+        "E": "140°"
+      },
+      "kunci": "E",
+      "pembahasan": "Sudut saling berpelurus dijumlah = 180°. Sudut B = (7 / (2+7)) x 180° = (7/9) x 180° = 140°.",
+      "trik": "Berpelurus (garis lurus) = 180°. Berpenyiku (siku-siku) = 90°."
+    },
+    {
+      "id": "smp-7-mat-41",
+      "teks": "Hasil dari -15 + 26 adalah... (Latihan #41)",
+      "opsi": {
+        "A": "11",
+        "B": "-11",
+        "C": "-41",
+        "D": "41",
+        "E": "13"
+      },
+      "kunci": "A",
+      "pembahasan": "Penjumlahan bilangan bulat berbeda tanda: kurangi angka besar dengan kecil, tanda mengikuti angka besar. 26 - 15 = 11.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil."
+    },
+    {
+      "id": "smp-7-mat-42",
+      "teks": "Suhu di dalam kulkas mula-mula adalah -5°C. Pada pukul 08.00, karena listrik padam, suhunya naik 2°C setiap 30 menit. Berapakah suhu di kulkas tersebut pada pukul 09.30? (Latihan #42)",
+      "opsi": {
+        "A": "0°C",
+        "B": "1°C",
+        "C": "-1°C",
+        "D": "2°C",
+        "E": "3°C"
+      },
+      "kunci": "B",
+      "pembahasan": "Dari jam 08.00 ke 09.30 adalah 90 menit. Kenaikan suhu terjadi sebanyak 90 / 30 = 3 kali. Kenaikan total = 3 × 2°C = 6°C. Suhu akhir = -5 + 6 = 1°C.",
+      "trik": "Cari selang waktu, bagi dengan waktu naik, kalikan besar naik, jumlah dengan awal."
+    },
+    {
+      "id": "smp-7-mat-43",
+      "teks": "Bentuk sederhana dari 3(2x - 5) - (4x + 2) adalah... (Latihan #43)",
+      "opsi": {
+        "A": "2x - 13",
+        "B": "10x - 17",
+        "C": "2x - 17",
+        "D": "10x - 13",
+        "E": "2x + 17"
+      },
+      "kunci": "C",
+      "pembahasan": "Sebarkan dulu: (6x - 15) - 4x - 2 = (6x - 4x) + (-15 - 2) = 2x - 17.",
+      "trik": "Sebarkan tanda kurung dan perhatikan tanda minus di depan kurung."
+    },
+    {
+      "id": "smp-7-mat-44",
+      "teks": "Penyelesaian dari persamaan linear 3x + 6 = 5x - 8 adalah... (Latihan #44)",
+      "opsi": {
+        "A": "x = 6",
+        "B": "x = 2",
+        "C": "x = 4",
+        "D": "x = 7",
+        "E": "x = 10"
+      },
+      "kunci": "D",
+      "pembahasan": "Kumpulkan x: 3x - 5x = -8 - 6 -> -2x = -14 -> x = 7.",
+      "trik": "Pindahkan x yang kecil ke x yang besar untuk menghindari pembagian negatif."
+    },
+    {
+      "id": "smp-7-mat-45",
+      "teks": "Diketahui himpunan S = {bilangan cacah kurang dari 10}. A = {bilangan prima pada S}. Himpunan komplemen dari A (A') adalah... (Latihan #45)",
+      "opsi": {
+        "A": "{1, 4, 6, 8, 9}",
+        "B": "{0, 2, 4, 6, 8}",
+        "C": "{0, 1, 2, 4, 6, 8, 9}",
+        "D": "{4, 6, 8, 9}",
+        "E": "{0, 1, 4, 6, 8, 9}"
+      },
+      "kunci": "E",
+      "pembahasan": "S = {0,1,2,3,4,5,6,7,8,9}. A = {2,3,5,7}. Komplemen A atau himpunan S yang bukan A adalah {0,1,4,6,8,9}.",
+      "trik": "Komplemen = yang ADA di Semesta tapi BUKAN di himpunan tersebut."
+    },
+    {
+      "id": "smp-7-mat-46",
+      "teks": "Dalam suatu kelas terdapat 40 siswa. 25 siswa gemar matematika, 20 siswa gemar IPA, dan 10 siswa gemar keduanya. Banyak siswa yang tidak gemar keduanya adalah... (Latihan #46)",
+      "opsi": {
+        "A": "5",
+        "B": "8",
+        "C": "10",
+        "D": "15",
+        "E": "12"
+      },
+      "kunci": "A",
+      "pembahasan": "Rumus himpunan: n(S) = n(M) + n(IPA) - n(Irisan) + n(TidakGemar)\n40 = 25 + 20 - 10 + X\n40 = 35 + X -> X = 5.",
+      "trik": "Total = Jumlah suka A + Jumlah suka B - Suka Keduanya + Tidak Suka."
+    },
+    {
+      "id": "smp-7-mat-47",
+      "teks": "Perbandingan umur Kakak dan Adik adalah 5 : 3. Jika selisih umur mereka adalah 6 tahun, maka umur Kakak adalah... (Latihan #47)",
+      "opsi": {
+        "A": "18 tahun",
+        "B": "15 tahun",
+        "C": "10 tahun",
+        "D": "12 tahun",
+        "E": "20 tahun"
+      },
+      "kunci": "B",
+      "pembahasan": "Umur Kakak = (Rasio Kakak / Selisih Rasio) x Selisih Nyata\nUmur Kakak = [5 / (5-3] x 6 = (5/2) x 6 = 15 tahun.",
+      "trik": "Kalau diketahui SELISIH, penyebut perbandingannya adalah SELISIH rasionya."
+    },
+    {
+      "id": "smp-7-mat-48",
+      "teks": "Ayah menabung di bank sebesar Rp2.000.000 dengan bunga tunggal 12% per tahun. Berapa tabungan Ayah setelah 9 bulan? (Latihan #48)",
+      "opsi": {
+        "A": "Rp2.240.000",
+        "B": "Rp2.360.000",
+        "C": "Rp2.180.000",
+        "D": "Rp2.090.000",
+        "E": "Rp2.120.000"
+      },
+      "kunci": "C",
+      "pembahasan": "Bunga 9 bulan = (9/12) x 12% x Rp2.000.000 = Rp180.000. Total tabungan = Modal + Bunga = Rp2.180.000.",
+      "trik": "Hitung bunganya secara proporsional. (Bulan/12) x Persen x Modal."
+    },
+    {
+      "id": "smp-7-mat-49",
+      "teks": "Pak Rendi membeli sepeda bekas dengan harga Rp400.000. Kemudian sepeda tersebut diperbaiki menghabiskan biaya Rp100.000. Jika ia menjual sepeda itu seharga Rp600.000, persentase keuntungannya adalah... (Latihan #49)",
+      "opsi": {
+        "A": "25%",
+        "B": "30%",
+        "C": "50%",
+        "D": "20%",
+        "E": "15%"
+      },
+      "kunci": "D",
+      "pembahasan": "Modal = 400.000 + 100.000 = 500.000. Untung = 600.000 - 500.000 = 100.000. Persen Untung = (100.000 / 500.000) x 100% = 20%.",
+      "trik": "Modal = Harga beli + Biaya. Persen Untung = Untung/Modal x 100%."
+    },
+    {
+      "id": "smp-7-mat-50",
+      "teks": "Bila sudut A dan sudut B saling berpelurus (suplemen) dan perbandingan ukurannya 2 : 7. Besar sudut B adalah... (Latihan #50)",
+      "opsi": {
+        "A": "40°",
+        "B": "120°",
+        "C": "150°",
+        "D": "70°",
+        "E": "140°"
+      },
+      "kunci": "E",
+      "pembahasan": "Sudut saling berpelurus dijumlah = 180°. Sudut B = (7 / (2+7)) x 180° = (7/9) x 180° = 140°.",
+      "trik": "Berpelurus (garis lurus) = 180°. Berpenyiku (siku-siku) = 90°."
+    }
+  ]
+}

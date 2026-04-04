@@ -1,0 +1,38 @@
+{
+  "id": "materi-smp-kls8-mat",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "Matematika",
+  "materi": "Pola Bilangan, Koordinat, Relasi & Fungsi, Persamaan Garis, SPLDV, Teorema Pythagoras",
+  "deskripsi": "Materi Matematika Kelas 8 menjembatani konsep aljabar dan geometri lanjutan: sistem koordinat, garis lurus, persamaan dua variabel, hingga pembuktian Pythagoras dan bangun ruang datar.",
+  "konten": [
+    {
+      "bab": "1. Menentukan Persamaan dari Suatu Barisan Bilangan",
+      "teks": "Mengidentifikasi pola bilangan (ganjil, genap, segitiga, persegi, Fibonacci) serta deret aritmetika/geometri sederhana."
+    },
+    {
+      "bab": "2. Koordinat Kartesius",
+      "teks": "Menentukan posisi titik (x, y), garis sejajar/tegak lurus terhadap sumbu-x dan sumbu-y, serta posisi relatif terhadap titik asal/tertentu."
+    },
+    {
+      "bab": "3. Relasi dan Fungsi",
+      "teks": "Membedakan relasi dan fungsi (pemetaan). Menyatakan fungsi dengan diagram panah, himpunan pasangan berurutan, dan rumus/grafik."
+    },
+    {
+      "bab": "4. Persamaan Garis Lurus",
+      "teks": "Menghitung gradien (kemiringan), membuat persamaan garis yang melalui satu/dua titik, dan posisi garis (sejajar/tegak lurus)."
+    },
+    {
+      "bab": "5. Sistem Persamaan Linear Dua Variabel (SPLDV)",
+      "teks": "Menyelesaikan SPLDV menggunakan metode grafik, substitusi, eliminasi, dan campuran pada soal cerita sehari-hari."
+    },
+    {
+      "bab": "6. Teorema Pythagoras",
+      "teks": "Membuktikan dan menggunakan Teorema Pythagoras ($c^2 = a^2 + b^2$) untuk menghitung panjang sisi segitiga siku-siku dan penerapannya."
+    },
+    {
+      "bab": "7. Lingkaran & Bangun Ruang Sisi Datar",
+      "teks": "Unsur sudut pusat/keliling lingkaran, garis singgung. Serta luas permukaan dan volume kubus, balok, prisma, limas."
+    }
+  ],
+  "tag": ["smp-8", "matematika", "pola-bilangan", "koordinat", "fungsi", "spldv", "pythagoras"]
+}

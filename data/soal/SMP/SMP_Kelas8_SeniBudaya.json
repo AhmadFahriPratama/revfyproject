@@ -1,0 +1,708 @@
+{
+  "id": "smp-8-seni",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "Seni Budaya",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-8-seni-01",
+      "teks": "Objek gambar yang dijadikan pedoman atau contoh untuk ditiru dalam sebuah kegiatan menggambar disebut... (Latihan #1)",
+      "opsi": {
+        "A": "Model",
+        "B": "Sketsa",
+        "C": "Siluet",
+        "D": "Kanvas",
+        "E": "Proporsi"
+      },
+      "kunci": "A",
+      "pembahasan": "Menggambar model berarti kita mengamati dan memindahkan bentuk benda/objek ril yang ada di depan mata ke dalam bidang gambar sesetia mungkin.",
+      "trik": "Contoh benda nyata di depan mata = Model."
+    },
+    {
+      "id": "smp-8-seni-02",
+      "teks": "Kesebandingan, perbandingan ideal, dan keseimbangan ukuran antara bagian-bagian benda yang menjadi objek gambar disebut... (Latihan #2)",
+      "opsi": {
+        "A": "Komposisi",
+        "B": "Proporsi",
+        "C": "Perspektif",
+        "D": "Gelap-Terang",
+        "E": "Toleransi"
+      },
+      "kunci": "B",
+      "pembahasan": "Proporsi artinya perbandingan ukuran matematis/visual benda, misalnya ukuran kepala yang proporsional dengan badannya.",
+      "trik": "Perbandingan ideal = Proporsi."
+    },
+    {
+      "id": "smp-8-seni-03",
+      "teks": "Karya seni rupa dua dimensi berupa perpaduan tulisan dan gambar dengan tujuan memberikan informasi atau mengajak khalayak ramai disebut... (Latihan #3)",
+      "opsi": {
+        "A": "Brosur",
+        "B": "Spanduk",
+        "C": "Poster",
+        "D": "Komik",
+        "E": "lukisan abstrak"
+      },
+      "kunci": "C",
+      "pembahasan": "Poster ciri khasnya terpasang di tempat umum, ringkas dari sisi tulisan/kalimat persuasif, dan mencolok warnanya.",
+      "trik": "Seni rupa ajakan dinding publik = Poster."
+    },
+    {
+      "id": "smp-8-seni-04",
+      "teks": "Gambar ilustrasi yang menampilkan serangkaian cerita bermakna secara berurutan dan terdapat panel panel pergerakan disebut... (Latihan #4)",
+      "opsi": {
+        "A": "Karikatur",
+        "B": "Kartun",
+        "C": "Vignette",
+        "D": "Komik",
+        "E": "Pantomim"
+      },
+      "kunci": "D",
+      "pembahasan": "Komik mengandalkan gambar berurutan (sekuensial) yang menyatu membentuk susunan cerita lengkap dng dialog.",
+      "trik": "Cerita bergambar urut = Komik."
+    },
+    {
+      "id": "smp-8-seni-05",
+      "teks": "Alat musik yang sumber bunyinya berasal dari selaput membran atau kulit yang ditepuk/dipukul disebut instrumen... (Latihan #5)",
+      "opsi": {
+        "A": "Kordofon",
+        "B": "Idiofon",
+        "C": "Aerofon",
+        "D": "Elektrofon",
+        "E": "Membranofon"
+      },
+      "kunci": "E",
+      "pembahasan": "Membranofon adalah kategori alat musik dari kulit hewan/sintetis. Contohnya gendang, tifa, rebana.",
+      "trik": "Membran = Selaput tipis / Kulit."
+    },
+    {
+      "id": "smp-8-seni-06",
+      "teks": "Bermain alat musik secara bersama-sama dalam satu kelompok/rombongan dng alat musik yang beragam disebut ansambel... (Latihan #6)",
+      "opsi": {
+        "A": "Campuran",
+        "B": "Sejenis",
+        "C": "Tunggal",
+        "D": "Klasik",
+        "E": "Keroncong"
+      },
+      "kunci": "A",
+      "pembahasan": "Ansambel artinya rombongan main bersama. Campuran berarti terdiri dari banyak jenis instrumen (ada gitar, piano, drum sekaligus).",
+      "trik": "Beragam alat beda bentuk = Ansambel campuran."
+    },
+    {
+      "id": "smp-8-seni-07",
+      "teks": "Lagu tradisional khas dari Jawa Barat yang memuat pesan moral mengenai kebersamaan, yang sering diyayikan dng ritme riang adalah... (Latihan #7)",
+      "opsi": {
+        "A": "Apuse",
+        "B": "Manuk Dadali",
+        "C": "Soleram",
+        "D": "Gundul Pacul",
+        "E": "Bungong Jeumpa"
+      },
+      "kunci": "B",
+      "pembahasan": "Manuk Dadali (Burung Garuda) adalah perlambang nasionalisme/kebersamaan yang dibawakan dalam bahasa Sunda gubahan Sambas.",
+      "trik": "Jawa barat/Sunda = Manuk Dadali atau Bubuy Bulan."
+    },
+    {
+      "id": "smp-8-seni-08",
+      "teks": "Bentuk tarian yang diperagakan oleh lebih dari dua orang penari dengan mengandalkan kekompakan dan harmoni lapangan dinamakan tari... (Latihan #8)",
+      "opsi": {
+        "A": "Tunggal",
+        "B": "Berpasangan",
+        "C": "Kelompok",
+        "D": "Massal",
+        "E": "Kontemporer"
+      },
+      "kunci": "C",
+      "pembahasan": "Tari kelompok mensyaratkan 3-10 orang, menuntut sinkronisasi ritme yang tertata rapi tidak seperti tari masal yang bebas gerak.",
+      "trik": "Lebih 2 dikit dan butuh kompak = Tari kelompok."
+    },
+    {
+      "id": "smp-8-seni-09",
+      "teks": "Pola denah yang dilewati penari saat melakukan pergerakan pindah titik atau melangkah bergeser di atas panggung disebut... (Latihan #9)",
+      "opsi": {
+        "A": "Properti",
+        "B": "Iringan tari",
+        "C": "Aksen lincah",
+        "D": "Pola Lantai",
+        "E": "Garis putaran"
+      },
+      "kunci": "D",
+      "pembahasan": "Pola lantai (Floor pattern) adalah garis arah hadap yang dibuat kelompok penari dlm beralih posisi, bisa garis lurus, zig zag, melingkar.",
+      "trik": "Jejak perpindahan tarian = Pola Lantai."
+    },
+    {
+      "id": "smp-8-seni-10",
+      "teks": "Sebuah pertunjukan lakon teater yang seluruh ceritanya cuma diekspresikan lewat bahasa gerak tubuh dan mimik wajah putih tanpa memakai suara dan kata-kata dikenal dengan seni... (Latihan #10)",
+      "opsi": {
+        "A": "Dramatisasi",
+        "B": "Improvisiasi",
+        "C": "Teater wayang",
+        "D": "Ketoprak",
+        "E": "Pantomim"
+      },
+      "kunci": "E",
+      "pembahasan": "Pantomim adalah seni pertunjukan non verbal dng ciri khas wajah dirias putih tebal dlam menyampaikan komedi/kisah senyap.",
+      "trik": "Akting Bisu dan muka putih = Pantomim."
+    },
+    {
+      "id": "smp-8-seni-11",
+      "teks": "Objek gambar yang dijadikan pedoman atau contoh untuk ditiru dalam sebuah kegiatan menggambar disebut... (Latihan #11)",
+      "opsi": {
+        "A": "Model",
+        "B": "Sketsa",
+        "C": "Siluet",
+        "D": "Kanvas",
+        "E": "Proporsi"
+      },
+      "kunci": "A",
+      "pembahasan": "Menggambar model berarti kita mengamati dan memindahkan bentuk benda/objek ril yang ada di depan mata ke dalam bidang gambar sesetia mungkin.",
+      "trik": "Contoh benda nyata di depan mata = Model."
+    },
+    {
+      "id": "smp-8-seni-12",
+      "teks": "Kesebandingan, perbandingan ideal, dan keseimbangan ukuran antara bagian-bagian benda yang menjadi objek gambar disebut... (Latihan #12)",
+      "opsi": {
+        "A": "Komposisi",
+        "B": "Proporsi",
+        "C": "Perspektif",
+        "D": "Gelap-Terang",
+        "E": "Toleransi"
+      },
+      "kunci": "B",
+      "pembahasan": "Proporsi artinya perbandingan ukuran matematis/visual benda, misalnya ukuran kepala yang proporsional dengan badannya.",
+      "trik": "Perbandingan ideal = Proporsi."
+    },
+    {
+      "id": "smp-8-seni-13",
+      "teks": "Karya seni rupa dua dimensi berupa perpaduan tulisan dan gambar dengan tujuan memberikan informasi atau mengajak khalayak ramai disebut... (Latihan #13)",
+      "opsi": {
+        "A": "Brosur",
+        "B": "Spanduk",
+        "C": "Poster",
+        "D": "Komik",
+        "E": "lukisan abstrak"
+      },
+      "kunci": "C",
+      "pembahasan": "Poster ciri khasnya terpasang di tempat umum, ringkas dari sisi tulisan/kalimat persuasif, dan mencolok warnanya.",
+      "trik": "Seni rupa ajakan dinding publik = Poster."
+    },
+    {
+      "id": "smp-8-seni-14",
+      "teks": "Gambar ilustrasi yang menampilkan serangkaian cerita bermakna secara berurutan dan terdapat panel panel pergerakan disebut... (Latihan #14)",
+      "opsi": {
+        "A": "Karikatur",
+        "B": "Kartun",
+        "C": "Vignette",
+        "D": "Komik",
+        "E": "Pantomim"
+      },
+      "kunci": "D",
+      "pembahasan": "Komik mengandalkan gambar berurutan (sekuensial) yang menyatu membentuk susunan cerita lengkap dng dialog.",
+      "trik": "Cerita bergambar urut = Komik."
+    },
+    {
+      "id": "smp-8-seni-15",
+      "teks": "Alat musik yang sumber bunyinya berasal dari selaput membran atau kulit yang ditepuk/dipukul disebut instrumen... (Latihan #15)",
+      "opsi": {
+        "A": "Kordofon",
+        "B": "Idiofon",
+        "C": "Aerofon",
+        "D": "Elektrofon",
+        "E": "Membranofon"
+      },
+      "kunci": "E",
+      "pembahasan": "Membranofon adalah kategori alat musik dari kulit hewan/sintetis. Contohnya gendang, tifa, rebana.",
+      "trik": "Membran = Selaput tipis / Kulit."
+    },
+    {
+      "id": "smp-8-seni-16",
+      "teks": "Bermain alat musik secara bersama-sama dalam satu kelompok/rombongan dng alat musik yang beragam disebut ansambel... (Latihan #16)",
+      "opsi": {
+        "A": "Campuran",
+        "B": "Sejenis",
+        "C": "Tunggal",
+        "D": "Klasik",
+        "E": "Keroncong"
+      },
+      "kunci": "A",
+      "pembahasan": "Ansambel artinya rombongan main bersama. Campuran berarti terdiri dari banyak jenis instrumen (ada gitar, piano, drum sekaligus).",
+      "trik": "Beragam alat beda bentuk = Ansambel campuran."
+    },
+    {
+      "id": "smp-8-seni-17",
+      "teks": "Lagu tradisional khas dari Jawa Barat yang memuat pesan moral mengenai kebersamaan, yang sering diyayikan dng ritme riang adalah... (Latihan #17)",
+      "opsi": {
+        "A": "Apuse",
+        "B": "Manuk Dadali",
+        "C": "Soleram",
+        "D": "Gundul Pacul",
+        "E": "Bungong Jeumpa"
+      },
+      "kunci": "B",
+      "pembahasan": "Manuk Dadali (Burung Garuda) adalah perlambang nasionalisme/kebersamaan yang dibawakan dalam bahasa Sunda gubahan Sambas.",
+      "trik": "Jawa barat/Sunda = Manuk Dadali atau Bubuy Bulan."
+    },
+    {
+      "id": "smp-8-seni-18",
+      "teks": "Bentuk tarian yang diperagakan oleh lebih dari dua orang penari dengan mengandalkan kekompakan dan harmoni lapangan dinamakan tari... (Latihan #18)",
+      "opsi": {
+        "A": "Tunggal",
+        "B": "Berpasangan",
+        "C": "Kelompok",
+        "D": "Massal",
+        "E": "Kontemporer"
+      },
+      "kunci": "C",
+      "pembahasan": "Tari kelompok mensyaratkan 3-10 orang, menuntut sinkronisasi ritme yang tertata rapi tidak seperti tari masal yang bebas gerak.",
+      "trik": "Lebih 2 dikit dan butuh kompak = Tari kelompok."
+    },
+    {
+      "id": "smp-8-seni-19",
+      "teks": "Pola denah yang dilewati penari saat melakukan pergerakan pindah titik atau melangkah bergeser di atas panggung disebut... (Latihan #19)",
+      "opsi": {
+        "A": "Properti",
+        "B": "Iringan tari",
+        "C": "Aksen lincah",
+        "D": "Pola Lantai",
+        "E": "Garis putaran"
+      },
+      "kunci": "D",
+      "pembahasan": "Pola lantai (Floor pattern) adalah garis arah hadap yang dibuat kelompok penari dlm beralih posisi, bisa garis lurus, zig zag, melingkar.",
+      "trik": "Jejak perpindahan tarian = Pola Lantai."
+    },
+    {
+      "id": "smp-8-seni-20",
+      "teks": "Sebuah pertunjukan lakon teater yang seluruh ceritanya cuma diekspresikan lewat bahasa gerak tubuh dan mimik wajah putih tanpa memakai suara dan kata-kata dikenal dengan seni... (Latihan #20)",
+      "opsi": {
+        "A": "Dramatisasi",
+        "B": "Improvisiasi",
+        "C": "Teater wayang",
+        "D": "Ketoprak",
+        "E": "Pantomim"
+      },
+      "kunci": "E",
+      "pembahasan": "Pantomim adalah seni pertunjukan non verbal dng ciri khas wajah dirias putih tebal dlam menyampaikan komedi/kisah senyap.",
+      "trik": "Akting Bisu dan muka putih = Pantomim."
+    },
+    {
+      "id": "smp-8-seni-21",
+      "teks": "Objek gambar yang dijadikan pedoman atau contoh untuk ditiru dalam sebuah kegiatan menggambar disebut... (Latihan #21)",
+      "opsi": {
+        "A": "Model",
+        "B": "Sketsa",
+        "C": "Siluet",
+        "D": "Kanvas",
+        "E": "Proporsi"
+      },
+      "kunci": "A",
+      "pembahasan": "Menggambar model berarti kita mengamati dan memindahkan bentuk benda/objek ril yang ada di depan mata ke dalam bidang gambar sesetia mungkin.",
+      "trik": "Contoh benda nyata di depan mata = Model."
+    },
+    {
+      "id": "smp-8-seni-22",
+      "teks": "Kesebandingan, perbandingan ideal, dan keseimbangan ukuran antara bagian-bagian benda yang menjadi objek gambar disebut... (Latihan #22)",
+      "opsi": {
+        "A": "Komposisi",
+        "B": "Proporsi",
+        "C": "Perspektif",
+        "D": "Gelap-Terang",
+        "E": "Toleransi"
+      },
+      "kunci": "B",
+      "pembahasan": "Proporsi artinya perbandingan ukuran matematis/visual benda, misalnya ukuran kepala yang proporsional dengan badannya.",
+      "trik": "Perbandingan ideal = Proporsi."
+    },
+    {
+      "id": "smp-8-seni-23",
+      "teks": "Karya seni rupa dua dimensi berupa perpaduan tulisan dan gambar dengan tujuan memberikan informasi atau mengajak khalayak ramai disebut... (Latihan #23)",
+      "opsi": {
+        "A": "Brosur",
+        "B": "Spanduk",
+        "C": "Poster",
+        "D": "Komik",
+        "E": "lukisan abstrak"
+      },
+      "kunci": "C",
+      "pembahasan": "Poster ciri khasnya terpasang di tempat umum, ringkas dari sisi tulisan/kalimat persuasif, dan mencolok warnanya.",
+      "trik": "Seni rupa ajakan dinding publik = Poster."
+    },
+    {
+      "id": "smp-8-seni-24",
+      "teks": "Gambar ilustrasi yang menampilkan serangkaian cerita bermakna secara berurutan dan terdapat panel panel pergerakan disebut... (Latihan #24)",
+      "opsi": {
+        "A": "Karikatur",
+        "B": "Kartun",
+        "C": "Vignette",
+        "D": "Komik",
+        "E": "Pantomim"
+      },
+      "kunci": "D",
+      "pembahasan": "Komik mengandalkan gambar berurutan (sekuensial) yang menyatu membentuk susunan cerita lengkap dng dialog.",
+      "trik": "Cerita bergambar urut = Komik."
+    },
+    {
+      "id": "smp-8-seni-25",
+      "teks": "Alat musik yang sumber bunyinya berasal dari selaput membran atau kulit yang ditepuk/dipukul disebut instrumen... (Latihan #25)",
+      "opsi": {
+        "A": "Kordofon",
+        "B": "Idiofon",
+        "C": "Aerofon",
+        "D": "Elektrofon",
+        "E": "Membranofon"
+      },
+      "kunci": "E",
+      "pembahasan": "Membranofon adalah kategori alat musik dari kulit hewan/sintetis. Contohnya gendang, tifa, rebana.",
+      "trik": "Membran = Selaput tipis / Kulit."
+    },
+    {
+      "id": "smp-8-seni-26",
+      "teks": "Bermain alat musik secara bersama-sama dalam satu kelompok/rombongan dng alat musik yang beragam disebut ansambel... (Latihan #26)",
+      "opsi": {
+        "A": "Campuran",
+        "B": "Sejenis",
+        "C": "Tunggal",
+        "D": "Klasik",
+        "E": "Keroncong"
+      },
+      "kunci": "A",
+      "pembahasan": "Ansambel artinya rombongan main bersama. Campuran berarti terdiri dari banyak jenis instrumen (ada gitar, piano, drum sekaligus).",
+      "trik": "Beragam alat beda bentuk = Ansambel campuran."
+    },
+    {
+      "id": "smp-8-seni-27",
+      "teks": "Lagu tradisional khas dari Jawa Barat yang memuat pesan moral mengenai kebersamaan, yang sering diyayikan dng ritme riang adalah... (Latihan #27)",
+      "opsi": {
+        "A": "Apuse",
+        "B": "Manuk Dadali",
+        "C": "Soleram",
+        "D": "Gundul Pacul",
+        "E": "Bungong Jeumpa"
+      },
+      "kunci": "B",
+      "pembahasan": "Manuk Dadali (Burung Garuda) adalah perlambang nasionalisme/kebersamaan yang dibawakan dalam bahasa Sunda gubahan Sambas.",
+      "trik": "Jawa barat/Sunda = Manuk Dadali atau Bubuy Bulan."
+    },
+    {
+      "id": "smp-8-seni-28",
+      "teks": "Bentuk tarian yang diperagakan oleh lebih dari dua orang penari dengan mengandalkan kekompakan dan harmoni lapangan dinamakan tari... (Latihan #28)",
+      "opsi": {
+        "A": "Tunggal",
+        "B": "Berpasangan",
+        "C": "Kelompok",
+        "D": "Massal",
+        "E": "Kontemporer"
+      },
+      "kunci": "C",
+      "pembahasan": "Tari kelompok mensyaratkan 3-10 orang, menuntut sinkronisasi ritme yang tertata rapi tidak seperti tari masal yang bebas gerak.",
+      "trik": "Lebih 2 dikit dan butuh kompak = Tari kelompok."
+    },
+    {
+      "id": "smp-8-seni-29",
+      "teks": "Pola denah yang dilewati penari saat melakukan pergerakan pindah titik atau melangkah bergeser di atas panggung disebut... (Latihan #29)",
+      "opsi": {
+        "A": "Properti",
+        "B": "Iringan tari",
+        "C": "Aksen lincah",
+        "D": "Pola Lantai",
+        "E": "Garis putaran"
+      },
+      "kunci": "D",
+      "pembahasan": "Pola lantai (Floor pattern) adalah garis arah hadap yang dibuat kelompok penari dlm beralih posisi, bisa garis lurus, zig zag, melingkar.",
+      "trik": "Jejak perpindahan tarian = Pola Lantai."
+    },
+    {
+      "id": "smp-8-seni-30",
+      "teks": "Sebuah pertunjukan lakon teater yang seluruh ceritanya cuma diekspresikan lewat bahasa gerak tubuh dan mimik wajah putih tanpa memakai suara dan kata-kata dikenal dengan seni... (Latihan #30)",
+      "opsi": {
+        "A": "Dramatisasi",
+        "B": "Improvisiasi",
+        "C": "Teater wayang",
+        "D": "Ketoprak",
+        "E": "Pantomim"
+      },
+      "kunci": "E",
+      "pembahasan": "Pantomim adalah seni pertunjukan non verbal dng ciri khas wajah dirias putih tebal dlam menyampaikan komedi/kisah senyap.",
+      "trik": "Akting Bisu dan muka putih = Pantomim."
+    },
+    {
+      "id": "smp-8-seni-31",
+      "teks": "Objek gambar yang dijadikan pedoman atau contoh untuk ditiru dalam sebuah kegiatan menggambar disebut... (Latihan #31)",
+      "opsi": {
+        "A": "Model",
+        "B": "Sketsa",
+        "C": "Siluet",
+        "D": "Kanvas",
+        "E": "Proporsi"
+      },
+      "kunci": "A",
+      "pembahasan": "Menggambar model berarti kita mengamati dan memindahkan bentuk benda/objek ril yang ada di depan mata ke dalam bidang gambar sesetia mungkin.",
+      "trik": "Contoh benda nyata di depan mata = Model."
+    },
+    {
+      "id": "smp-8-seni-32",
+      "teks": "Kesebandingan, perbandingan ideal, dan keseimbangan ukuran antara bagian-bagian benda yang menjadi objek gambar disebut... (Latihan #32)",
+      "opsi": {
+        "A": "Komposisi",
+        "B": "Proporsi",
+        "C": "Perspektif",
+        "D": "Gelap-Terang",
+        "E": "Toleransi"
+      },
+      "kunci": "B",
+      "pembahasan": "Proporsi artinya perbandingan ukuran matematis/visual benda, misalnya ukuran kepala yang proporsional dengan badannya.",
+      "trik": "Perbandingan ideal = Proporsi."
+    },
+    {
+      "id": "smp-8-seni-33",
+      "teks": "Karya seni rupa dua dimensi berupa perpaduan tulisan dan gambar dengan tujuan memberikan informasi atau mengajak khalayak ramai disebut... (Latihan #33)",
+      "opsi": {
+        "A": "Brosur",
+        "B": "Spanduk",
+        "C": "Poster",
+        "D": "Komik",
+        "E": "lukisan abstrak"
+      },
+      "kunci": "C",
+      "pembahasan": "Poster ciri khasnya terpasang di tempat umum, ringkas dari sisi tulisan/kalimat persuasif, dan mencolok warnanya.",
+      "trik": "Seni rupa ajakan dinding publik = Poster."
+    },
+    {
+      "id": "smp-8-seni-34",
+      "teks": "Gambar ilustrasi yang menampilkan serangkaian cerita bermakna secara berurutan dan terdapat panel panel pergerakan disebut... (Latihan #34)",
+      "opsi": {
+        "A": "Karikatur",
+        "B": "Kartun",
+        "C": "Vignette",
+        "D": "Komik",
+        "E": "Pantomim"
+      },
+      "kunci": "D",
+      "pembahasan": "Komik mengandalkan gambar berurutan (sekuensial) yang menyatu membentuk susunan cerita lengkap dng dialog.",
+      "trik": "Cerita bergambar urut = Komik."
+    },
+    {
+      "id": "smp-8-seni-35",
+      "teks": "Alat musik yang sumber bunyinya berasal dari selaput membran atau kulit yang ditepuk/dipukul disebut instrumen... (Latihan #35)",
+      "opsi": {
+        "A": "Kordofon",
+        "B": "Idiofon",
+        "C": "Aerofon",
+        "D": "Elektrofon",
+        "E": "Membranofon"
+      },
+      "kunci": "E",
+      "pembahasan": "Membranofon adalah kategori alat musik dari kulit hewan/sintetis. Contohnya gendang, tifa, rebana.",
+      "trik": "Membran = Selaput tipis / Kulit."
+    },
+    {
+      "id": "smp-8-seni-36",
+      "teks": "Bermain alat musik secara bersama-sama dalam satu kelompok/rombongan dng alat musik yang beragam disebut ansambel... (Latihan #36)",
+      "opsi": {
+        "A": "Campuran",
+        "B": "Sejenis",
+        "C": "Tunggal",
+        "D": "Klasik",
+        "E": "Keroncong"
+      },
+      "kunci": "A",
+      "pembahasan": "Ansambel artinya rombongan main bersama. Campuran berarti terdiri dari banyak jenis instrumen (ada gitar, piano, drum sekaligus).",
+      "trik": "Beragam alat beda bentuk = Ansambel campuran."
+    },
+    {
+      "id": "smp-8-seni-37",
+      "teks": "Lagu tradisional khas dari Jawa Barat yang memuat pesan moral mengenai kebersamaan, yang sering diyayikan dng ritme riang adalah... (Latihan #37)",
+      "opsi": {
+        "A": "Apuse",
+        "B": "Manuk Dadali",
+        "C": "Soleram",
+        "D": "Gundul Pacul",
+        "E": "Bungong Jeumpa"
+      },
+      "kunci": "B",
+      "pembahasan": "Manuk Dadali (Burung Garuda) adalah perlambang nasionalisme/kebersamaan yang dibawakan dalam bahasa Sunda gubahan Sambas.",
+      "trik": "Jawa barat/Sunda = Manuk Dadali atau Bubuy Bulan."
+    },
+    {
+      "id": "smp-8-seni-38",
+      "teks": "Bentuk tarian yang diperagakan oleh lebih dari dua orang penari dengan mengandalkan kekompakan dan harmoni lapangan dinamakan tari... (Latihan #38)",
+      "opsi": {
+        "A": "Tunggal",
+        "B": "Berpasangan",
+        "C": "Kelompok",
+        "D": "Massal",
+        "E": "Kontemporer"
+      },
+      "kunci": "C",
+      "pembahasan": "Tari kelompok mensyaratkan 3-10 orang, menuntut sinkronisasi ritme yang tertata rapi tidak seperti tari masal yang bebas gerak.",
+      "trik": "Lebih 2 dikit dan butuh kompak = Tari kelompok."
+    },
+    {
+      "id": "smp-8-seni-39",
+      "teks": "Pola denah yang dilewati penari saat melakukan pergerakan pindah titik atau melangkah bergeser di atas panggung disebut... (Latihan #39)",
+      "opsi": {
+        "A": "Properti",
+        "B": "Iringan tari",
+        "C": "Aksen lincah",
+        "D": "Pola Lantai",
+        "E": "Garis putaran"
+      },
+      "kunci": "D",
+      "pembahasan": "Pola lantai (Floor pattern) adalah garis arah hadap yang dibuat kelompok penari dlm beralih posisi, bisa garis lurus, zig zag, melingkar.",
+      "trik": "Jejak perpindahan tarian = Pola Lantai."
+    },
+    {
+      "id": "smp-8-seni-40",
+      "teks": "Sebuah pertunjukan lakon teater yang seluruh ceritanya cuma diekspresikan lewat bahasa gerak tubuh dan mimik wajah putih tanpa memakai suara dan kata-kata dikenal dengan seni... (Latihan #40)",
+      "opsi": {
+        "A": "Dramatisasi",
+        "B": "Improvisiasi",
+        "C": "Teater wayang",
+        "D": "Ketoprak",
+        "E": "Pantomim"
+      },
+      "kunci": "E",
+      "pembahasan": "Pantomim adalah seni pertunjukan non verbal dng ciri khas wajah dirias putih tebal dlam menyampaikan komedi/kisah senyap.",
+      "trik": "Akting Bisu dan muka putih = Pantomim."
+    },
+    {
+      "id": "smp-8-seni-41",
+      "teks": "Objek gambar yang dijadikan pedoman atau contoh untuk ditiru dalam sebuah kegiatan menggambar disebut... (Latihan #41)",
+      "opsi": {
+        "A": "Model",
+        "B": "Sketsa",
+        "C": "Siluet",
+        "D": "Kanvas",
+        "E": "Proporsi"
+      },
+      "kunci": "A",
+      "pembahasan": "Menggambar model berarti kita mengamati dan memindahkan bentuk benda/objek ril yang ada di depan mata ke dalam bidang gambar sesetia mungkin.",
+      "trik": "Contoh benda nyata di depan mata = Model."
+    },
+    {
+      "id": "smp-8-seni-42",
+      "teks": "Kesebandingan, perbandingan ideal, dan keseimbangan ukuran antara bagian-bagian benda yang menjadi objek gambar disebut... (Latihan #42)",
+      "opsi": {
+        "A": "Komposisi",
+        "B": "Proporsi",
+        "C": "Perspektif",
+        "D": "Gelap-Terang",
+        "E": "Toleransi"
+      },
+      "kunci": "B",
+      "pembahasan": "Proporsi artinya perbandingan ukuran matematis/visual benda, misalnya ukuran kepala yang proporsional dengan badannya.",
+      "trik": "Perbandingan ideal = Proporsi."
+    },
+    {
+      "id": "smp-8-seni-43",
+      "teks": "Karya seni rupa dua dimensi berupa perpaduan tulisan dan gambar dengan tujuan memberikan informasi atau mengajak khalayak ramai disebut... (Latihan #43)",
+      "opsi": {
+        "A": "Brosur",
+        "B": "Spanduk",
+        "C": "Poster",
+        "D": "Komik",
+        "E": "lukisan abstrak"
+      },
+      "kunci": "C",
+      "pembahasan": "Poster ciri khasnya terpasang di tempat umum, ringkas dari sisi tulisan/kalimat persuasif, dan mencolok warnanya.",
+      "trik": "Seni rupa ajakan dinding publik = Poster."
+    },
+    {
+      "id": "smp-8-seni-44",
+      "teks": "Gambar ilustrasi yang menampilkan serangkaian cerita bermakna secara berurutan dan terdapat panel panel pergerakan disebut... (Latihan #44)",
+      "opsi": {
+        "A": "Karikatur",
+        "B": "Kartun",
+        "C": "Vignette",
+        "D": "Komik",
+        "E": "Pantomim"
+      },
+      "kunci": "D",
+      "pembahasan": "Komik mengandalkan gambar berurutan (sekuensial) yang menyatu membentuk susunan cerita lengkap dng dialog.",
+      "trik": "Cerita bergambar urut = Komik."
+    },
+    {
+      "id": "smp-8-seni-45",
+      "teks": "Alat musik yang sumber bunyinya berasal dari selaput membran atau kulit yang ditepuk/dipukul disebut instrumen... (Latihan #45)",
+      "opsi": {
+        "A": "Kordofon",
+        "B": "Idiofon",
+        "C": "Aerofon",
+        "D": "Elektrofon",
+        "E": "Membranofon"
+      },
+      "kunci": "E",
+      "pembahasan": "Membranofon adalah kategori alat musik dari kulit hewan/sintetis. Contohnya gendang, tifa, rebana.",
+      "trik": "Membran = Selaput tipis / Kulit."
+    },
+    {
+      "id": "smp-8-seni-46",
+      "teks": "Bermain alat musik secara bersama-sama dalam satu kelompok/rombongan dng alat musik yang beragam disebut ansambel... (Latihan #46)",
+      "opsi": {
+        "A": "Campuran",
+        "B": "Sejenis",
+        "C": "Tunggal",
+        "D": "Klasik",
+        "E": "Keroncong"
+      },
+      "kunci": "A",
+      "pembahasan": "Ansambel artinya rombongan main bersama. Campuran berarti terdiri dari banyak jenis instrumen (ada gitar, piano, drum sekaligus).",
+      "trik": "Beragam alat beda bentuk = Ansambel campuran."
+    },
+    {
+      "id": "smp-8-seni-47",
+      "teks": "Lagu tradisional khas dari Jawa Barat yang memuat pesan moral mengenai kebersamaan, yang sering diyayikan dng ritme riang adalah... (Latihan #47)",
+      "opsi": {
+        "A": "Apuse",
+        "B": "Manuk Dadali",
+        "C": "Soleram",
+        "D": "Gundul Pacul",
+        "E": "Bungong Jeumpa"
+      },
+      "kunci": "B",
+      "pembahasan": "Manuk Dadali (Burung Garuda) adalah perlambang nasionalisme/kebersamaan yang dibawakan dalam bahasa Sunda gubahan Sambas.",
+      "trik": "Jawa barat/Sunda = Manuk Dadali atau Bubuy Bulan."
+    },
+    {
+      "id": "smp-8-seni-48",
+      "teks": "Bentuk tarian yang diperagakan oleh lebih dari dua orang penari dengan mengandalkan kekompakan dan harmoni lapangan dinamakan tari... (Latihan #48)",
+      "opsi": {
+        "A": "Tunggal",
+        "B": "Berpasangan",
+        "C": "Kelompok",
+        "D": "Massal",
+        "E": "Kontemporer"
+      },
+      "kunci": "C",
+      "pembahasan": "Tari kelompok mensyaratkan 3-10 orang, menuntut sinkronisasi ritme yang tertata rapi tidak seperti tari masal yang bebas gerak.",
+      "trik": "Lebih 2 dikit dan butuh kompak = Tari kelompok."
+    },
+    {
+      "id": "smp-8-seni-49",
+      "teks": "Pola denah yang dilewati penari saat melakukan pergerakan pindah titik atau melangkah bergeser di atas panggung disebut... (Latihan #49)",
+      "opsi": {
+        "A": "Properti",
+        "B": "Iringan tari",
+        "C": "Aksen lincah",
+        "D": "Pola Lantai",
+        "E": "Garis putaran"
+      },
+      "kunci": "D",
+      "pembahasan": "Pola lantai (Floor pattern) adalah garis arah hadap yang dibuat kelompok penari dlm beralih posisi, bisa garis lurus, zig zag, melingkar.",
+      "trik": "Jejak perpindahan tarian = Pola Lantai."
+    },
+    {
+      "id": "smp-8-seni-50",
+      "teks": "Sebuah pertunjukan lakon teater yang seluruh ceritanya cuma diekspresikan lewat bahasa gerak tubuh dan mimik wajah putih tanpa memakai suara dan kata-kata dikenal dengan seni... (Latihan #50)",
+      "opsi": {
+        "A": "Dramatisasi",
+        "B": "Improvisiasi",
+        "C": "Teater wayang",
+        "D": "Ketoprak",
+        "E": "Pantomim"
+      },
+      "kunci": "E",
+      "pembahasan": "Pantomim adalah seni pertunjukan non verbal dng ciri khas wajah dirias putih tebal dlam menyampaikan komedi/kisah senyap.",
+      "trik": "Akting Bisu dan muka putih = Pantomim."
+    }
+  ]
+}

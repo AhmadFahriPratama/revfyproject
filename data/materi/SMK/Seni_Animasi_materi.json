@@ -1,0 +1,53 @@
+{
+  "judul": "Seni Animasi (2D dan 3D)",
+  "tingkatan": "SMK",
+  "jurusan": "Seni dan Ekonomi Kreatif / Animasi",
+  "deskripsi": "Materi kejuruan SMK mengenai proses produksi animasi, teknik menggambar digital, pemodelan 3D, serta prinsip dasar animasi.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar Seni dan Prinsip Animasi",
+      "konten": "Pengenalan 12 Prinsip Animasi (Squash & Stretch, Anticipation, Staging, dll), anatomi dasar karakter, serta teori warna dalam desain visual.",
+      "tag": [
+        "seni animasi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Produksi Animasi 2D",
+      "konten": "Teknik Frame-by-frame, Tweening, pembuatan Background (Matte Painting), serta penggunaan software animasi 2D (Adobe Animate/Toon Boom).",
+      "tag": [
+        "seni animasi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Produksi Animasi 3D",
+      "konten": "Tahapan 3D Pipeline: Modeling (Low/High Poly), Texturing (UV Mapping), Rigging (Sistem Tulang), Animation, dan Rendering (Blender/Maya).",
+      "tag": [
+        "seni animasi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Storyboard dan Layout",
+      "konten": "Penulisan naskah (Scripting), pembuatan Storyboard, kamera angle (Cinematography), serta pengaturan layout adegan sebelum produksi.",
+      "tag": [
+        "seni animasi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Post-Production dan Compositing",
+      "konten": "Editing video hasil render, pemberian efek visual (VFX), Sound Design, serta proses ekspor video ke berbagai format publikasi.",
+      "tag": [
+        "seni animasi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "seni-animasi-materi",
+  "mapel": "Seni Animasi (2D dan 3D)",
+  "tag": [
+    "seni animasi materi"
+  ]
+}

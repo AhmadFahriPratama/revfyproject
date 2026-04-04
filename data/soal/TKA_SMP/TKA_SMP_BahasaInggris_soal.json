@@ -1,0 +1,657 @@
+{
+  "id": "TKA_SMP_INGGRIS_SOAL",
+  "mapel": "TKA SMP Bahasa Inggris",
+  "tingkat": "SMP",
+  "soal": [
+    {
+      "id": "SMP_EN_01",
+      "pertanyaan": "I ... a student at SMP 1.",
+      "opsi": [
+        "Am",
+        "Is",
+        "Are",
+        "Was",
+        "Were"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Am\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_02",
+      "pertanyaan": "My sister ... to school every morning.",
+      "opsi": [
+        "Go",
+        "Goes",
+        "Going",
+        "Gone",
+        "Went"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Goes\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_03",
+      "pertanyaan": "Last holiday, we ... to Bali.",
+      "opsi": [
+        "Visit",
+        "Visits",
+        "Visited",
+        "Visiting",
+        "Will visit"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Visited\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_04",
+      "pertanyaan": "A person who treats sick people is a...",
+      "opsi": [
+        "Teacher",
+        "Pilot",
+        "Farmer",
+        "Doctor",
+        "Chef"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Doctor\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_05",
+      "pertanyaan": "Elephant is ... than a cat.",
+      "opsi": [
+        "Big",
+        "Biggest",
+        "Small",
+        "Smaller",
+        "Bigger"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bigger\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_06",
+      "pertanyaan": "What is the synonym of 'Happy'?",
+      "opsi": [
+        "Glad",
+        "Sad",
+        "Angry",
+        "Bored",
+        "Tired"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Glad\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_07",
+      "pertanyaan": "A: Can you help me? B: ... I'm busy.",
+      "opsi": [
+        "Yes, sure",
+        "No, I can't",
+        "Of course",
+        "Yes, I can",
+        "No problem"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"No, I can't\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_08",
+      "pertanyaan": "He ... football now.",
+      "opsi": [
+        "Play",
+        "Plays",
+        "Is playing",
+        "Played",
+        "Will play"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Is playing\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_09",
+      "pertanyaan": "Where ... you live?",
+      "opsi": [
+        "Does",
+        "Are",
+        "Is",
+        "Do",
+        "Am"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Do\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_10",
+      "pertanyaan": "The antonym of 'Difficult' is...",
+      "opsi": [
+        "Hard",
+        "Fast",
+        "Slow",
+        "High",
+        "Easy"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Easy\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_11",
+      "pertanyaan": "Waitress: 'May I ... your order, please?'",
+      "opsi": [
+        "Take",
+        "Give",
+        "Make",
+        "Eat",
+        "Bring"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Take\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_12",
+      "pertanyaan": "I have ... apple in my bag.",
+      "opsi": [
+        "A",
+        "An",
+        "The",
+        "Some",
+        "Many"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"An\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_13",
+      "pertanyaan": "The boy is ... than the girl.",
+      "opsi": [
+        "Tall",
+        "Tallest",
+        "Taller",
+        "Short",
+        "Shorter"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Taller\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_14",
+      "pertanyaan": "Recount text usually uses ... tense.",
+      "opsi": [
+        "Simple Present",
+        "Future",
+        "Present Perfect",
+        "Simple Past",
+        "Continuous"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Simple Past\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_15",
+      "pertanyaan": "Which one is a vegetable?",
+      "opsi": [
+        "Apple",
+        "Orange",
+        "Bread",
+        "Chicken",
+        "Carrot"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Carrot\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_16",
+      "pertanyaan": "The sun ... in the east.",
+      "opsi": [
+        "Rises",
+        "Set",
+        "Sets",
+        "Rise",
+        "Rising"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Rises\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_17",
+      "pertanyaan": "Whose bag is this? It is ... (mine).",
+      "opsi": [
+        "Me",
+        "Mine",
+        "My",
+        "I",
+        "Myself"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Mine\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_18",
+      "pertanyaan": "They ... swimming in the pool.",
+      "opsi": [
+        "Is",
+        "Am",
+        "Are",
+        "Be",
+        "Been"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Are\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_19",
+      "pertanyaan": "How ... sugar do you want?",
+      "opsi": [
+        "Many",
+        "Few",
+        "Little",
+        "Much",
+        "Long"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Much\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_20",
+      "pertanyaan": "There are seven ... in a week.",
+      "opsi": [
+        "Months",
+        "Years",
+        "Hours",
+        "Minutes",
+        "Days"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Days\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_21",
+      "pertanyaan": "A: ... do you arrive? B: At 7 o'clock.",
+      "opsi": [
+        "When",
+        "What",
+        "Where",
+        "Who",
+        "How"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"When\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_22",
+      "pertanyaan": "The cat is sleeping ... the table.",
+      "opsi": [
+        "At",
+        "Under",
+        "To",
+        "In",
+        "With"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Under\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_23",
+      "pertanyaan": "She ... a new car last month.",
+      "opsi": [
+        "Buy",
+        "Buys",
+        "Bought",
+        "Buying",
+        "Will buy"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Bought\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_24",
+      "pertanyaan": "This is a ... (beautiful) flower.",
+      "opsi": [
+        "Ugly",
+        "Bad",
+        "Angry",
+        "Beautiful",
+        "Happy"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Beautiful\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_25",
+      "pertanyaan": "Procedure text: 'First, ... the water.'",
+      "opsi": [
+        "Eat",
+        "Sleep",
+        "Walk",
+        "Run",
+        "Boil"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Boil\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_26",
+      "pertanyaan": "We should ... our hands before eating.",
+      "opsi": [
+        "Wash",
+        "Dirty",
+        "Touch",
+        "Wave",
+        "Clap"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Wash\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_27",
+      "pertanyaan": "Birds can ... in the sky.",
+      "opsi": [
+        "Swim",
+        "Fly",
+        "Walk",
+        "Run",
+        "Jump"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Fly\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_28",
+      "pertanyaan": "A: 'Glad to meet you.' B: '...'",
+      "opsi": [
+        "I'm fine",
+        "See you",
+        "Glad to meet you, too",
+        "Goodbye",
+        "Thank you"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Glad to meet you, too\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_29",
+      "pertanyaan": "The plural of 'Child' is...",
+      "opsi": [
+        "Childs",
+        "Childes",
+        "Childen",
+        "Children",
+        "Child"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Children\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_30",
+      "pertanyaan": "He is ... (smart) student in the class.",
+      "opsi": [
+        "Smarter",
+        "Smart",
+        "The smart",
+        "More smart",
+        "The smartest"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"The smartest\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_31",
+      "pertanyaan": "A library is a place where we can ... books.",
+      "opsi": [
+        "Read/Borrow",
+        "Buy",
+        "Sell",
+        "Cook",
+        "Swim"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Read/Borrow\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_32",
+      "pertanyaan": "What ... she doing right now?",
+      "opsi": [
+        "Am",
+        "Is",
+        "Are",
+        "Do",
+        "Does"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Is\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_33",
+      "pertanyaan": "It is ... o'clock. (7:00)",
+      "opsi": [
+        "Eight",
+        "Nine",
+        "Seven",
+        "Ten",
+        "Six"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Seven\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_34",
+      "pertanyaan": "I don't like ... (coffee).",
+      "opsi": [
+        "Salty",
+        "Sweet",
+        "Sour",
+        "Bitter",
+        "Spicy"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bitter\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_35",
+      "pertanyaan": "Will you ... to my party?",
+      "opsi": [
+        "Comes",
+        "Came",
+        "Coming",
+        "To come",
+        "Come"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Come\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_36",
+      "pertanyaan": "The teacher ... us a lot of English today.",
+      "opsi": [
+        "Teaches",
+        "Teach",
+        "Taught",
+        "Teaching",
+        "Is teach"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Teaches\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_37",
+      "pertanyaan": "A cow has four ...",
+      "opsi": [
+        "Hands",
+        "Legs",
+        "Wings",
+        "Fins",
+        "Horns"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Legs\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_38",
+      "pertanyaan": "Look at the ... clouds. It's going to rain.",
+      "opsi": [
+        "White",
+        "Blue",
+        "Dark/Grey",
+        "Red",
+        "Yellow"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Dark/Grey\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_39",
+      "pertanyaan": "Can you ... the guitar?",
+      "opsi": [
+        "Sing",
+        "Read",
+        "Write",
+        "Play",
+        "Drive"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Play\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_40",
+      "pertanyaan": "Our national flag is red and ...",
+      "opsi": [
+        "Blue",
+        "Yellow",
+        "Green",
+        "Black",
+        "White"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"White\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_41",
+      "pertanyaan": "He ... not like spicy food.",
+      "opsi": [
+        "Does",
+        "Do",
+        "Is",
+        "Am",
+        "Are"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Does\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_42",
+      "pertanyaan": "I go to school ... bus.",
+      "opsi": [
+        "On",
+        "By",
+        "In",
+        "With",
+        "At"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"By\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_43",
+      "pertanyaan": "We have breakfast in the ...",
+      "opsi": [
+        "Afternoon",
+        "Evening",
+        "Morning",
+        "Night",
+        "Midnight"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Morning\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_44",
+      "pertanyaan": "A lion is a ... animal.",
+      "opsi": [
+        "Pet",
+        "Small",
+        "Weak",
+        "Wild",
+        "Tame"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Wild\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_45",
+      "pertanyaan": "She was born ... October.",
+      "opsi": [
+        "On",
+        "At",
+        "By",
+        "To",
+        "In"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"In\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_46",
+      "pertanyaan": "The opposite of 'North' is...",
+      "opsi": [
+        "South",
+        "East",
+        "West",
+        "Central",
+        "Down"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"South\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_47",
+      "pertanyaan": "Would you like ... coffee?",
+      "opsi": [
+        "A",
+        "Some",
+        "An",
+        "Many",
+        "The"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Some\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_48",
+      "pertanyaan": "My father is a ... He flies airplanes.",
+      "opsi": [
+        "Driver",
+        "Sailor",
+        "Pilot",
+        "Mechanic",
+        "Doctor"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Pilot\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_49",
+      "pertanyaan": "We must ... the rules.",
+      "opsi": [
+        "Break",
+        "Forget",
+        "Hide",
+        "Follow/Obey",
+        "Run"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Follow/Obey\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_EN_50",
+      "pertanyaan": "A: 'Thank you.' B: '...'",
+      "opsi": [
+        "No",
+        "Never mind",
+        "Please",
+        "Goodbye",
+        "You're welcome"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"You're welcome\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    }
+  ]
+}

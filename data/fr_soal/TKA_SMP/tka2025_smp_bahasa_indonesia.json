@@ -1,0 +1,39 @@
+{
+  "id": "FR_SMP_BINDO_2025",
+  "mapel": "FR TKA SMP Bahasa Indonesia",
+  "tingkat": "SMP",
+  "soal": [
+    {
+      "id": "FR_SMP_BI_01",
+      "pertanyaan": "FIELD REPORT: Pada ujian TKA SMP 2025, muncul soal tentang analisis teks berita terkait bencana alam. Siswa diminta menentukan 'Pernyataan yang TIDAK sesuai dengan isi teks'. Strategi terbaik adalah...",
+      "opsi": [
+        "Mencari kata kunci pada pilihan jawaban di dalam teks (Scanning)",
+        "Membaca seluruh teks berulang kali",
+        "Menebak jawaban paling panjang",
+        "Hanya membaca judul",
+        "Mengabaikan angka-angka"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Berdasarkan laporan peserta, soal jenis ini sangat sering muncul. Scanning kata kunci dari opsi ke teks adalah cara tercepat dan terakurat.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    },
+    {
+      "id": "FR_SMP_BI_02",
+      "pertanyaan": "FR 2025: Diberikan sebuah kutipan cerpen tentang persahabatan. Pertanyaan menanyakan 'Nilai moral yang terkandung'. Jika kutipan menunjukkan tokoh memaafkan kesalahan temannya, maka nilai moralnya adalah...",
+      "opsi": [
+        "Kejujuran",
+        "Pemaaf",
+        "Tanggung jawab",
+        "Ketekunan",
+        "Keberanian"
+      ],
+      "jawaban": "B",
+      "pembahasan": "Soal karakter/moral dalam teks fiksi adalah tren FR tahun 2024-2025.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    }
+  ],
+  "tahun": 2025,
+  "deskripsi": "Arsip rekonstruksi berdasarkan pola soal pada file tka2025_smp_bahasa_indonesia.json."
+}

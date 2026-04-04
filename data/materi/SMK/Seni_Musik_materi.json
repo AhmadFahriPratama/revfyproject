@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Seni Musik",
+  "tingkatan": "SMK",
+  "jurusan": "Seni / Musik",
+  "deskripsi": "Materi mengenai teori musik dasar (notasi, irama, melodi), pengenalan alat musik, teknik vokal, sejarah musik, serta produksi musik digital.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Teori Musik Dasar",
+      "konten": "Pengenalan notasi angka dan notasi balok. Pemahaman tentang garis paranada, kunci (G, F, C), nilai ketukan, birama, serta tanda dinamik (forte, piano).",
+      "tag": [
+        "seni musik materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Irama dan Melodi",
+      "konten": "Tangga nada (diatonis mayor/minor, pentatonis), interval nada, akor dasar (triad), serta pola irama dalam berbagai genre musik.",
+      "tag": [
+        "seni musik materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Teknik Vokal dan Pernapasan",
+      "konten": "Teknik pernapasan diafragma, artikulasi, resonansi, serta sikap tubuh saat bernyanyi. Pengenalan jenis suara manusia (Sopran, Alto, Tenor, Bass).",
+      "tag": [
+        "seni musik materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Pengenalan Instrumen Musik",
+      "konten": "Klasifikasi alat musik (Idiofon, Membranofon, Kordofon, Aerofon, Elektrofon). Teknik dasar memainkan alat musik ritmis dan melodis.",
+      "tag": [
+        "seni musik materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Sejarah Musik dan Industri Kreatif",
+      "konten": "Perkembangan musik tradisional Nusantara hingga musik populer modern. Pengenalan profesi di industri musik (komposer, arranger, sound engineer).",
+      "tag": [
+        "seni musik materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "seni-musik-materi",
+  "mapel": "Dasar-Dasar Seni Musik",
+  "tag": [
+    "seni musik materi"
+  ]
+}

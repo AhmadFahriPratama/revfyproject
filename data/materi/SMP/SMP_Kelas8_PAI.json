@@ -1,0 +1,34 @@
+{
+  "id": "materi-smp-kls8-pai",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "Pendidikan Agama Islam",
+  "materi": "Meyakini Kitab Allah, Salat Sunah, Puasa, Zakat, dan Sejarah Dinasti Umayyah/Abbasiyah",
+  "deskripsi": "Materi PAI Kelas 8 meliputi akidah mengenai Kitab-Kitab Allah SWT, rukun Islam (puasa dan zakat), serta perkembangan sejarah peradaban Islam klasik.",
+  "konten": [
+    {
+      "bab": "1. Meyakini Kitab-Kitab Allah SWT, Mencintai Al-Qur'an",
+      "teks": "Memahami iman kepada Kitab-kitab suci (Zabur, Taurat, Injil, Al-Qur'an) dan membiasakan diri tadarus Al-Qur'an."
+    },
+    {
+      "bab": "2. Menghindari Minuman Keras, Judi, dan Pertengkaran",
+      "teks": "Larangan khamr (miras), maysir (judi), serta pentingnya menjaga kerukunan menghindarkan diri dari sifat tawuran/pertengkaran."
+    },
+    {
+      "bab": "3. Lebih Mulia dengan Jujur dan Adil",
+      "teks": "Pembiasaan sifat Shiddiq (jujur) dan bersikap adil terhadap sesama dalam kehidupan di sekolah/rumah."
+    },
+    {
+      "bab": "4. Salat Sunah Berjamaah dan Munfarid",
+      "teks": "Ketentuan dan hikmah salat sunah rawatib, dhuha, tahajud, tarawih, witir, serta salat Idain."
+    },
+    {
+      "bab": "5. Manisnya Iman dengan Berpuasa dan Kewajiban Zakat",
+      "teks": "Ketentuan puasa wajib (Ramadan, nazar, kafarat) dan sunah. Perbedaan Zakat Fitrah dan Zakat Mal beserta golongan penerimanya (Mustahik)."
+    },
+    {
+      "bab": "6. Peradaban Emas Dinasti Bani Umayyah & Abbasiyah",
+      "teks": "Sejarah pertumbuhan ilmu pengetahuan Islam (kedokteran, filsafat, matematika) pada masa Umayyah dan Abbasiyah."
+    }
+  ],
+  "tag": ["smp-8", "pai", "iman", "puasa", "zakat", "sejarah-islam", "salat-sunah"]
+}

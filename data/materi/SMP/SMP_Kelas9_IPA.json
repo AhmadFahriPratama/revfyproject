@@ -1,0 +1,34 @@
+{
+  "id": "materi-smp-kls9-ipa",
+  "tingkat": "SMP Kelas 9",
+  "mapel": "IPA",
+  "materi": "Sistem Reproduksi Manusia, Pewarisan Sifat, Listrik & Kemagnetan, Bioteknologi",
+  "deskripsi": "IPA Kelas 9 merupakan peralihan saintifik berat mencakup pengenalan genetika, reproduksi tubuh, serta konsep fluida statis dan fisika elektromagnetik dasar.",
+  "konten": [
+    {
+      "bab": "1. Sistem Reproduksi pada Manusia",
+      "teks": "Pembelahan sel (mitosis dan meiosis), struktur dan fungsi organ reproduksi pria dan wanita, siklus menstruasi, fertilisasi, serta penyakit menular seksual."
+    },
+    {
+      "bab": "2. Sistem Perkembangbiakan Tumbuhan dan Hewan",
+      "teks": "Perkembangbiakan vegetatif dan generatif pada tumbuhan (Angiospermae/Gymnospermae), serta cara hewan membiak (vivipar, ovipar) dan hidroponik teknologi."
+    },
+    {
+      "bab": "3. Pewarisan Sifat pada Makhluk Hidup",
+      "teks": "Konsep kromosom dan gen DNA, Hukum Mendel (persilangan monohibrid, dihibrid), dan penerapan pewarisan sifat pemuliaan bibit unggul hewab/tanaman."
+    },
+    {
+      "bab": "4. Listrik Statis dan Dinamis dalam Kehidupan",
+      "teks": "Konsep muatan listrik, Hukum Coulomb, arus listrik, Hukum Ohm, daya listrik, dan penerapan rangkaian seri/paralel tagihan meteran listrik di rumah."
+    },
+    {
+      "bab": "5. Kemagnetan dan Pemanfaatannya",
+      "teks": "Sifat kompas arah gaya magnet, Teori Medeon, Induksi Elektromagnetik (generator, dinamo, trafo), dan peran kemagnetan pada migrasi burung."
+    },
+    {
+      "bab": "6. Bioteknologi",
+      "teks": "Bioteknologi konvensional (fermentasi tape, tempe, keju) vs Bioteknologi modern (rekayasa genetika, kultur jaringan, kloning) dng pro kontranya."
+    }
+  ],
+  "tag": ["smp-9", "ipa", "reproduksi", "genetika", "listrik", "magnet", "bioteknologi"]
+}

@@ -1,0 +1,708 @@
+{
+  "id": "smp-7-tik",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "Informatika",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-7-tik-01",
+      "teks": "Proses pemecahan masalah (Problem Solving) dengan cara merincinya menjadi masalah kecil-kecil yang mudah dikerjakan dalam Berpikir Komputasional disebut... (Latihan #1)",
+      "opsi": {
+        "A": "Dekomposisi",
+        "B": "Abstraksi",
+        "C": "Pengenalan Pola",
+        "D": "Algoritma",
+        "E": "Evaluasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Dekomposisi adalah teknik memecah (decompose) sesuatu yang sistemik, besar, menjadi komponen lebih kecil yang gampang dipahami.",
+      "trik": "Pecah jadi kecil = Dekomposisi."
+    },
+    {
+      "id": "smp-7-tik-02",
+      "teks": "Mengurutkan langkah-langkah secara logis seperti resep membuat mie rebus, dalam elemen berpikir komputasional termasuk... (Latihan #2)",
+      "opsi": {
+        "A": "Dekomposisi",
+        "B": "Perancangan Algoritma",
+        "C": "Generalisasi",
+        "D": "Pengenalan Pola",
+        "E": "Abstraksi"
+      },
+      "kunci": "B",
+      "pembahasan": "Algoritma (Algorithm) adalah instruksi berurutan yg jelas tahapan-tahapannya untuk menuntaskan suatu task/masalah.",
+      "trik": "Langkah berurutan / Resep = Algoritma."
+    },
+    {
+      "id": "smp-7-tik-03",
+      "teks": "Perangkat keras (Hardware) di bawah ini yang berfungsi sebagai unit pemroses utama untuk memikirkan perintah aplikasi adalah... (Latihan #3)",
+      "opsi": {
+        "A": "RAM",
+        "B": "Monitor",
+        "C": "CPU (Central Processing Unit)",
+        "D": "Harddisk",
+        "E": "Keyboard"
+      },
+      "kunci": "C",
+      "pembahasan": "CPU disebut jg mikroprosesor adalah Otak dari sebuah Sistem Komunikasi digital.",
+      "trik": "Otak Pemroses = CPU."
+    },
+    {
+      "id": "smp-7-tik-04",
+      "teks": "Berdasarkan fungsinya, Keyboard, Mouse, dan Scanner merupakan contoh komponen... (Latihan #4)",
+      "opsi": {
+        "A": "Output Device (Alat keluaran)",
+        "B": "Storage Device (Penyimpanan)",
+        "C": "Processing Device",
+        "D": "Input Device (Alat masukan)",
+        "E": "Software Application"
+      },
+      "kunci": "D",
+      "pembahasan": "Ketiganya bertugas memberikan inputan (ketik, klik kursor, memindai data fisik jadi digital) ke sistem komp.",
+      "trik": "Masukkan Perintah = Input."
+    },
+    {
+      "id": "smp-7-tik-05",
+      "teks": "Contoh perangkat lunak sistem operasi (Operating System/OS) komputer desktop adalah... (Latihan #5)",
+      "opsi": {
+        "A": "Microsoft Word",
+        "B": "Google Chrome",
+        "C": "Adobe Photoshop",
+        "D": "Capcut Editor",
+        "E": "Windows 10"
+      },
+      "kunci": "E",
+      "pembahasan": "Sistem Operasi adalah software platform landasan perangkat bisa nyala (Linux, MacOS, Windows 10/11). Sisanya itu *Aplikasi* tambahan.",
+      "trik": "OS = Windows, Linux, Mac."
+    },
+    {
+      "id": "smp-7-tik-06",
+      "teks": "Folder dalam manajemen file komputer sangat diperlukan untuk kegunaan... (Latihan #6)",
+      "opsi": {
+        "A": "Mengelompokkan dan mengorganisir (merapikan) penyimpanan berbagai jenis file",
+        "B": "Memutar musik mp3 tanpa aplikasi",
+        "C": "Merombak hardware jadi cepat",
+        "D": "Menghidupkan listrik CPU",
+        "E": "Menambah kapasitas ukuran hard-drive"
+      },
+      "kunci": "A",
+      "pembahasan": "Folder/Directory di analogikan seperti lemari berkas untuk grouping dokumen yg sejenis agar mudah di searching.",
+      "trik": "Folder = Tempat menyimpan merapikan map virtual."
+    },
+    {
+      "id": "smp-7-tik-07",
+      "teks": "Penulisan jenis tipe Ekstensi File/Format yang tepat untuk menunjukkan dokumen aplikasi microsoft excel adalah... (Latihan #7)",
+      "opsi": {
+        "A": ".docx",
+        "B": ".xlsx atau .xls",
+        "C": ".mp4",
+        "D": ".pptx",
+        "E": ".png"
+      },
+      "kunci": "B",
+      "pembahasan": "File Excel ber ekstensi .xlsx (pengolah angka tabel). Word itu .doc, Powerpoint itu .ppt, dan Foto png.",
+      "trik": "Excel -> XLSX."
+    },
+    {
+      "id": "smp-7-tik-08",
+      "teks": "Di era digital seringkali terdapat persebaran informasi Bohong tanpa sumber bukti yang valid dalam grup media chat. Ini di istilahkan tindakan... (Latihan #8)",
+      "opsi": {
+        "A": "Phishing",
+        "B": "Cyber Bullying",
+        "C": "Hoax (Hoaks)",
+        "D": "Hacking program",
+        "E": "Spam email"
+      },
+      "kunci": "C",
+      "pembahasan": "Hoax adalah rekayasa penyebaran informasi palsu/bohong yg di desain seolah olah benar.",
+      "trik": "Info palsu/berita palsu = Hoax."
+    },
+    {
+      "id": "smp-7-tik-09",
+      "teks": "Kumpulan jejak / rekaman tindakan yg di tinggalkan pengunjung saat berselancar pada browser (spt login history, like sosial media, lokasi post) yang sulit dihapus di jaringan permanen merupakan arti... (Latihan #9)",
+      "opsi": {
+        "A": "Cloud Computing",
+        "B": "Router Switch",
+        "C": "Sistem Caching RAM",
+        "D": "Jejak Digital (Digital Footprint)",
+        "E": "Private Network / VPN"
+      },
+      "kunci": "D",
+      "pembahasan": "Seluruh klik foto memori upload dll itu adalah jejak digital. Hal ini jd bukti perilaku manusia digital dan dpt merugikan jika ada info privacy ter leak.",
+      "trik": "Jejak Digital susah dikubur."
+    },
+    {
+      "id": "smp-7-tik-10",
+      "teks": "Aplikasi perkantoran pengolah presentasi (spt Google Slides atau MS Powerpoint) terbaik memakan fitur utama yg disebut... (Latihan #10)",
+      "opsi": {
+        "A": "Sheet & Formula Matematika",
+        "B": "Paginasi Tabel Row",
+        "C": "Video Editing Timeline Keyframe",
+        "D": "Akses Internet Browser Tabs",
+        "E": "Slide/Lembar presentasi bervisualkan objek Transisi"
+      },
+      "kunci": "E",
+      "pembahasan": "Media presentasi di tuangkan pada media laman slide dng kemampuan custom animasi transisi agar audiens fokus ke titik yg penting saat memaparkan materi.",
+      "trik": "Aplikasi presentasi = Slide Show."
+    },
+    {
+      "id": "smp-7-tik-11",
+      "teks": "Proses pemecahan masalah (Problem Solving) dengan cara merincinya menjadi masalah kecil-kecil yang mudah dikerjakan dalam Berpikir Komputasional disebut... (Latihan #11)",
+      "opsi": {
+        "A": "Dekomposisi",
+        "B": "Abstraksi",
+        "C": "Pengenalan Pola",
+        "D": "Algoritma",
+        "E": "Evaluasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Dekomposisi adalah teknik memecah (decompose) sesuatu yang sistemik, besar, menjadi komponen lebih kecil yang gampang dipahami.",
+      "trik": "Pecah jadi kecil = Dekomposisi."
+    },
+    {
+      "id": "smp-7-tik-12",
+      "teks": "Mengurutkan langkah-langkah secara logis seperti resep membuat mie rebus, dalam elemen berpikir komputasional termasuk... (Latihan #12)",
+      "opsi": {
+        "A": "Dekomposisi",
+        "B": "Perancangan Algoritma",
+        "C": "Generalisasi",
+        "D": "Pengenalan Pola",
+        "E": "Abstraksi"
+      },
+      "kunci": "B",
+      "pembahasan": "Algoritma (Algorithm) adalah instruksi berurutan yg jelas tahapan-tahapannya untuk menuntaskan suatu task/masalah.",
+      "trik": "Langkah berurutan / Resep = Algoritma."
+    },
+    {
+      "id": "smp-7-tik-13",
+      "teks": "Perangkat keras (Hardware) di bawah ini yang berfungsi sebagai unit pemroses utama untuk memikirkan perintah aplikasi adalah... (Latihan #13)",
+      "opsi": {
+        "A": "RAM",
+        "B": "Monitor",
+        "C": "CPU (Central Processing Unit)",
+        "D": "Harddisk",
+        "E": "Keyboard"
+      },
+      "kunci": "C",
+      "pembahasan": "CPU disebut jg mikroprosesor adalah Otak dari sebuah Sistem Komunikasi digital.",
+      "trik": "Otak Pemroses = CPU."
+    },
+    {
+      "id": "smp-7-tik-14",
+      "teks": "Berdasarkan fungsinya, Keyboard, Mouse, dan Scanner merupakan contoh komponen... (Latihan #14)",
+      "opsi": {
+        "A": "Output Device (Alat keluaran)",
+        "B": "Storage Device (Penyimpanan)",
+        "C": "Processing Device",
+        "D": "Input Device (Alat masukan)",
+        "E": "Software Application"
+      },
+      "kunci": "D",
+      "pembahasan": "Ketiganya bertugas memberikan inputan (ketik, klik kursor, memindai data fisik jadi digital) ke sistem komp.",
+      "trik": "Masukkan Perintah = Input."
+    },
+    {
+      "id": "smp-7-tik-15",
+      "teks": "Contoh perangkat lunak sistem operasi (Operating System/OS) komputer desktop adalah... (Latihan #15)",
+      "opsi": {
+        "A": "Microsoft Word",
+        "B": "Google Chrome",
+        "C": "Adobe Photoshop",
+        "D": "Capcut Editor",
+        "E": "Windows 10"
+      },
+      "kunci": "E",
+      "pembahasan": "Sistem Operasi adalah software platform landasan perangkat bisa nyala (Linux, MacOS, Windows 10/11). Sisanya itu *Aplikasi* tambahan.",
+      "trik": "OS = Windows, Linux, Mac."
+    },
+    {
+      "id": "smp-7-tik-16",
+      "teks": "Folder dalam manajemen file komputer sangat diperlukan untuk kegunaan... (Latihan #16)",
+      "opsi": {
+        "A": "Mengelompokkan dan mengorganisir (merapikan) penyimpanan berbagai jenis file",
+        "B": "Memutar musik mp3 tanpa aplikasi",
+        "C": "Merombak hardware jadi cepat",
+        "D": "Menghidupkan listrik CPU",
+        "E": "Menambah kapasitas ukuran hard-drive"
+      },
+      "kunci": "A",
+      "pembahasan": "Folder/Directory di analogikan seperti lemari berkas untuk grouping dokumen yg sejenis agar mudah di searching.",
+      "trik": "Folder = Tempat menyimpan merapikan map virtual."
+    },
+    {
+      "id": "smp-7-tik-17",
+      "teks": "Penulisan jenis tipe Ekstensi File/Format yang tepat untuk menunjukkan dokumen aplikasi microsoft excel adalah... (Latihan #17)",
+      "opsi": {
+        "A": ".docx",
+        "B": ".xlsx atau .xls",
+        "C": ".mp4",
+        "D": ".pptx",
+        "E": ".png"
+      },
+      "kunci": "B",
+      "pembahasan": "File Excel ber ekstensi .xlsx (pengolah angka tabel). Word itu .doc, Powerpoint itu .ppt, dan Foto png.",
+      "trik": "Excel -> XLSX."
+    },
+    {
+      "id": "smp-7-tik-18",
+      "teks": "Di era digital seringkali terdapat persebaran informasi Bohong tanpa sumber bukti yang valid dalam grup media chat. Ini di istilahkan tindakan... (Latihan #18)",
+      "opsi": {
+        "A": "Phishing",
+        "B": "Cyber Bullying",
+        "C": "Hoax (Hoaks)",
+        "D": "Hacking program",
+        "E": "Spam email"
+      },
+      "kunci": "C",
+      "pembahasan": "Hoax adalah rekayasa penyebaran informasi palsu/bohong yg di desain seolah olah benar.",
+      "trik": "Info palsu/berita palsu = Hoax."
+    },
+    {
+      "id": "smp-7-tik-19",
+      "teks": "Kumpulan jejak / rekaman tindakan yg di tinggalkan pengunjung saat berselancar pada browser (spt login history, like sosial media, lokasi post) yang sulit dihapus di jaringan permanen merupakan arti... (Latihan #19)",
+      "opsi": {
+        "A": "Cloud Computing",
+        "B": "Router Switch",
+        "C": "Sistem Caching RAM",
+        "D": "Jejak Digital (Digital Footprint)",
+        "E": "Private Network / VPN"
+      },
+      "kunci": "D",
+      "pembahasan": "Seluruh klik foto memori upload dll itu adalah jejak digital. Hal ini jd bukti perilaku manusia digital dan dpt merugikan jika ada info privacy ter leak.",
+      "trik": "Jejak Digital susah dikubur."
+    },
+    {
+      "id": "smp-7-tik-20",
+      "teks": "Aplikasi perkantoran pengolah presentasi (spt Google Slides atau MS Powerpoint) terbaik memakan fitur utama yg disebut... (Latihan #20)",
+      "opsi": {
+        "A": "Sheet & Formula Matematika",
+        "B": "Paginasi Tabel Row",
+        "C": "Video Editing Timeline Keyframe",
+        "D": "Akses Internet Browser Tabs",
+        "E": "Slide/Lembar presentasi bervisualkan objek Transisi"
+      },
+      "kunci": "E",
+      "pembahasan": "Media presentasi di tuangkan pada media laman slide dng kemampuan custom animasi transisi agar audiens fokus ke titik yg penting saat memaparkan materi.",
+      "trik": "Aplikasi presentasi = Slide Show."
+    },
+    {
+      "id": "smp-7-tik-21",
+      "teks": "Proses pemecahan masalah (Problem Solving) dengan cara merincinya menjadi masalah kecil-kecil yang mudah dikerjakan dalam Berpikir Komputasional disebut... (Latihan #21)",
+      "opsi": {
+        "A": "Dekomposisi",
+        "B": "Abstraksi",
+        "C": "Pengenalan Pola",
+        "D": "Algoritma",
+        "E": "Evaluasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Dekomposisi adalah teknik memecah (decompose) sesuatu yang sistemik, besar, menjadi komponen lebih kecil yang gampang dipahami.",
+      "trik": "Pecah jadi kecil = Dekomposisi."
+    },
+    {
+      "id": "smp-7-tik-22",
+      "teks": "Mengurutkan langkah-langkah secara logis seperti resep membuat mie rebus, dalam elemen berpikir komputasional termasuk... (Latihan #22)",
+      "opsi": {
+        "A": "Dekomposisi",
+        "B": "Perancangan Algoritma",
+        "C": "Generalisasi",
+        "D": "Pengenalan Pola",
+        "E": "Abstraksi"
+      },
+      "kunci": "B",
+      "pembahasan": "Algoritma (Algorithm) adalah instruksi berurutan yg jelas tahapan-tahapannya untuk menuntaskan suatu task/masalah.",
+      "trik": "Langkah berurutan / Resep = Algoritma."
+    },
+    {
+      "id": "smp-7-tik-23",
+      "teks": "Perangkat keras (Hardware) di bawah ini yang berfungsi sebagai unit pemroses utama untuk memikirkan perintah aplikasi adalah... (Latihan #23)",
+      "opsi": {
+        "A": "RAM",
+        "B": "Monitor",
+        "C": "CPU (Central Processing Unit)",
+        "D": "Harddisk",
+        "E": "Keyboard"
+      },
+      "kunci": "C",
+      "pembahasan": "CPU disebut jg mikroprosesor adalah Otak dari sebuah Sistem Komunikasi digital.",
+      "trik": "Otak Pemroses = CPU."
+    },
+    {
+      "id": "smp-7-tik-24",
+      "teks": "Berdasarkan fungsinya, Keyboard, Mouse, dan Scanner merupakan contoh komponen... (Latihan #24)",
+      "opsi": {
+        "A": "Output Device (Alat keluaran)",
+        "B": "Storage Device (Penyimpanan)",
+        "C": "Processing Device",
+        "D": "Input Device (Alat masukan)",
+        "E": "Software Application"
+      },
+      "kunci": "D",
+      "pembahasan": "Ketiganya bertugas memberikan inputan (ketik, klik kursor, memindai data fisik jadi digital) ke sistem komp.",
+      "trik": "Masukkan Perintah = Input."
+    },
+    {
+      "id": "smp-7-tik-25",
+      "teks": "Contoh perangkat lunak sistem operasi (Operating System/OS) komputer desktop adalah... (Latihan #25)",
+      "opsi": {
+        "A": "Microsoft Word",
+        "B": "Google Chrome",
+        "C": "Adobe Photoshop",
+        "D": "Capcut Editor",
+        "E": "Windows 10"
+      },
+      "kunci": "E",
+      "pembahasan": "Sistem Operasi adalah software platform landasan perangkat bisa nyala (Linux, MacOS, Windows 10/11). Sisanya itu *Aplikasi* tambahan.",
+      "trik": "OS = Windows, Linux, Mac."
+    },
+    {
+      "id": "smp-7-tik-26",
+      "teks": "Folder dalam manajemen file komputer sangat diperlukan untuk kegunaan... (Latihan #26)",
+      "opsi": {
+        "A": "Mengelompokkan dan mengorganisir (merapikan) penyimpanan berbagai jenis file",
+        "B": "Memutar musik mp3 tanpa aplikasi",
+        "C": "Merombak hardware jadi cepat",
+        "D": "Menghidupkan listrik CPU",
+        "E": "Menambah kapasitas ukuran hard-drive"
+      },
+      "kunci": "A",
+      "pembahasan": "Folder/Directory di analogikan seperti lemari berkas untuk grouping dokumen yg sejenis agar mudah di searching.",
+      "trik": "Folder = Tempat menyimpan merapikan map virtual."
+    },
+    {
+      "id": "smp-7-tik-27",
+      "teks": "Penulisan jenis tipe Ekstensi File/Format yang tepat untuk menunjukkan dokumen aplikasi microsoft excel adalah... (Latihan #27)",
+      "opsi": {
+        "A": ".docx",
+        "B": ".xlsx atau .xls",
+        "C": ".mp4",
+        "D": ".pptx",
+        "E": ".png"
+      },
+      "kunci": "B",
+      "pembahasan": "File Excel ber ekstensi .xlsx (pengolah angka tabel). Word itu .doc, Powerpoint itu .ppt, dan Foto png.",
+      "trik": "Excel -> XLSX."
+    },
+    {
+      "id": "smp-7-tik-28",
+      "teks": "Di era digital seringkali terdapat persebaran informasi Bohong tanpa sumber bukti yang valid dalam grup media chat. Ini di istilahkan tindakan... (Latihan #28)",
+      "opsi": {
+        "A": "Phishing",
+        "B": "Cyber Bullying",
+        "C": "Hoax (Hoaks)",
+        "D": "Hacking program",
+        "E": "Spam email"
+      },
+      "kunci": "C",
+      "pembahasan": "Hoax adalah rekayasa penyebaran informasi palsu/bohong yg di desain seolah olah benar.",
+      "trik": "Info palsu/berita palsu = Hoax."
+    },
+    {
+      "id": "smp-7-tik-29",
+      "teks": "Kumpulan jejak / rekaman tindakan yg di tinggalkan pengunjung saat berselancar pada browser (spt login history, like sosial media, lokasi post) yang sulit dihapus di jaringan permanen merupakan arti... (Latihan #29)",
+      "opsi": {
+        "A": "Cloud Computing",
+        "B": "Router Switch",
+        "C": "Sistem Caching RAM",
+        "D": "Jejak Digital (Digital Footprint)",
+        "E": "Private Network / VPN"
+      },
+      "kunci": "D",
+      "pembahasan": "Seluruh klik foto memori upload dll itu adalah jejak digital. Hal ini jd bukti perilaku manusia digital dan dpt merugikan jika ada info privacy ter leak.",
+      "trik": "Jejak Digital susah dikubur."
+    },
+    {
+      "id": "smp-7-tik-30",
+      "teks": "Aplikasi perkantoran pengolah presentasi (spt Google Slides atau MS Powerpoint) terbaik memakan fitur utama yg disebut... (Latihan #30)",
+      "opsi": {
+        "A": "Sheet & Formula Matematika",
+        "B": "Paginasi Tabel Row",
+        "C": "Video Editing Timeline Keyframe",
+        "D": "Akses Internet Browser Tabs",
+        "E": "Slide/Lembar presentasi bervisualkan objek Transisi"
+      },
+      "kunci": "E",
+      "pembahasan": "Media presentasi di tuangkan pada media laman slide dng kemampuan custom animasi transisi agar audiens fokus ke titik yg penting saat memaparkan materi.",
+      "trik": "Aplikasi presentasi = Slide Show."
+    },
+    {
+      "id": "smp-7-tik-31",
+      "teks": "Proses pemecahan masalah (Problem Solving) dengan cara merincinya menjadi masalah kecil-kecil yang mudah dikerjakan dalam Berpikir Komputasional disebut... (Latihan #31)",
+      "opsi": {
+        "A": "Dekomposisi",
+        "B": "Abstraksi",
+        "C": "Pengenalan Pola",
+        "D": "Algoritma",
+        "E": "Evaluasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Dekomposisi adalah teknik memecah (decompose) sesuatu yang sistemik, besar, menjadi komponen lebih kecil yang gampang dipahami.",
+      "trik": "Pecah jadi kecil = Dekomposisi."
+    },
+    {
+      "id": "smp-7-tik-32",
+      "teks": "Mengurutkan langkah-langkah secara logis seperti resep membuat mie rebus, dalam elemen berpikir komputasional termasuk... (Latihan #32)",
+      "opsi": {
+        "A": "Dekomposisi",
+        "B": "Perancangan Algoritma",
+        "C": "Generalisasi",
+        "D": "Pengenalan Pola",
+        "E": "Abstraksi"
+      },
+      "kunci": "B",
+      "pembahasan": "Algoritma (Algorithm) adalah instruksi berurutan yg jelas tahapan-tahapannya untuk menuntaskan suatu task/masalah.",
+      "trik": "Langkah berurutan / Resep = Algoritma."
+    },
+    {
+      "id": "smp-7-tik-33",
+      "teks": "Perangkat keras (Hardware) di bawah ini yang berfungsi sebagai unit pemroses utama untuk memikirkan perintah aplikasi adalah... (Latihan #33)",
+      "opsi": {
+        "A": "RAM",
+        "B": "Monitor",
+        "C": "CPU (Central Processing Unit)",
+        "D": "Harddisk",
+        "E": "Keyboard"
+      },
+      "kunci": "C",
+      "pembahasan": "CPU disebut jg mikroprosesor adalah Otak dari sebuah Sistem Komunikasi digital.",
+      "trik": "Otak Pemroses = CPU."
+    },
+    {
+      "id": "smp-7-tik-34",
+      "teks": "Berdasarkan fungsinya, Keyboard, Mouse, dan Scanner merupakan contoh komponen... (Latihan #34)",
+      "opsi": {
+        "A": "Output Device (Alat keluaran)",
+        "B": "Storage Device (Penyimpanan)",
+        "C": "Processing Device",
+        "D": "Input Device (Alat masukan)",
+        "E": "Software Application"
+      },
+      "kunci": "D",
+      "pembahasan": "Ketiganya bertugas memberikan inputan (ketik, klik kursor, memindai data fisik jadi digital) ke sistem komp.",
+      "trik": "Masukkan Perintah = Input."
+    },
+    {
+      "id": "smp-7-tik-35",
+      "teks": "Contoh perangkat lunak sistem operasi (Operating System/OS) komputer desktop adalah... (Latihan #35)",
+      "opsi": {
+        "A": "Microsoft Word",
+        "B": "Google Chrome",
+        "C": "Adobe Photoshop",
+        "D": "Capcut Editor",
+        "E": "Windows 10"
+      },
+      "kunci": "E",
+      "pembahasan": "Sistem Operasi adalah software platform landasan perangkat bisa nyala (Linux, MacOS, Windows 10/11). Sisanya itu *Aplikasi* tambahan.",
+      "trik": "OS = Windows, Linux, Mac."
+    },
+    {
+      "id": "smp-7-tik-36",
+      "teks": "Folder dalam manajemen file komputer sangat diperlukan untuk kegunaan... (Latihan #36)",
+      "opsi": {
+        "A": "Mengelompokkan dan mengorganisir (merapikan) penyimpanan berbagai jenis file",
+        "B": "Memutar musik mp3 tanpa aplikasi",
+        "C": "Merombak hardware jadi cepat",
+        "D": "Menghidupkan listrik CPU",
+        "E": "Menambah kapasitas ukuran hard-drive"
+      },
+      "kunci": "A",
+      "pembahasan": "Folder/Directory di analogikan seperti lemari berkas untuk grouping dokumen yg sejenis agar mudah di searching.",
+      "trik": "Folder = Tempat menyimpan merapikan map virtual."
+    },
+    {
+      "id": "smp-7-tik-37",
+      "teks": "Penulisan jenis tipe Ekstensi File/Format yang tepat untuk menunjukkan dokumen aplikasi microsoft excel adalah... (Latihan #37)",
+      "opsi": {
+        "A": ".docx",
+        "B": ".xlsx atau .xls",
+        "C": ".mp4",
+        "D": ".pptx",
+        "E": ".png"
+      },
+      "kunci": "B",
+      "pembahasan": "File Excel ber ekstensi .xlsx (pengolah angka tabel). Word itu .doc, Powerpoint itu .ppt, dan Foto png.",
+      "trik": "Excel -> XLSX."
+    },
+    {
+      "id": "smp-7-tik-38",
+      "teks": "Di era digital seringkali terdapat persebaran informasi Bohong tanpa sumber bukti yang valid dalam grup media chat. Ini di istilahkan tindakan... (Latihan #38)",
+      "opsi": {
+        "A": "Phishing",
+        "B": "Cyber Bullying",
+        "C": "Hoax (Hoaks)",
+        "D": "Hacking program",
+        "E": "Spam email"
+      },
+      "kunci": "C",
+      "pembahasan": "Hoax adalah rekayasa penyebaran informasi palsu/bohong yg di desain seolah olah benar.",
+      "trik": "Info palsu/berita palsu = Hoax."
+    },
+    {
+      "id": "smp-7-tik-39",
+      "teks": "Kumpulan jejak / rekaman tindakan yg di tinggalkan pengunjung saat berselancar pada browser (spt login history, like sosial media, lokasi post) yang sulit dihapus di jaringan permanen merupakan arti... (Latihan #39)",
+      "opsi": {
+        "A": "Cloud Computing",
+        "B": "Router Switch",
+        "C": "Sistem Caching RAM",
+        "D": "Jejak Digital (Digital Footprint)",
+        "E": "Private Network / VPN"
+      },
+      "kunci": "D",
+      "pembahasan": "Seluruh klik foto memori upload dll itu adalah jejak digital. Hal ini jd bukti perilaku manusia digital dan dpt merugikan jika ada info privacy ter leak.",
+      "trik": "Jejak Digital susah dikubur."
+    },
+    {
+      "id": "smp-7-tik-40",
+      "teks": "Aplikasi perkantoran pengolah presentasi (spt Google Slides atau MS Powerpoint) terbaik memakan fitur utama yg disebut... (Latihan #40)",
+      "opsi": {
+        "A": "Sheet & Formula Matematika",
+        "B": "Paginasi Tabel Row",
+        "C": "Video Editing Timeline Keyframe",
+        "D": "Akses Internet Browser Tabs",
+        "E": "Slide/Lembar presentasi bervisualkan objek Transisi"
+      },
+      "kunci": "E",
+      "pembahasan": "Media presentasi di tuangkan pada media laman slide dng kemampuan custom animasi transisi agar audiens fokus ke titik yg penting saat memaparkan materi.",
+      "trik": "Aplikasi presentasi = Slide Show."
+    },
+    {
+      "id": "smp-7-tik-41",
+      "teks": "Proses pemecahan masalah (Problem Solving) dengan cara merincinya menjadi masalah kecil-kecil yang mudah dikerjakan dalam Berpikir Komputasional disebut... (Latihan #41)",
+      "opsi": {
+        "A": "Dekomposisi",
+        "B": "Abstraksi",
+        "C": "Pengenalan Pola",
+        "D": "Algoritma",
+        "E": "Evaluasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Dekomposisi adalah teknik memecah (decompose) sesuatu yang sistemik, besar, menjadi komponen lebih kecil yang gampang dipahami.",
+      "trik": "Pecah jadi kecil = Dekomposisi."
+    },
+    {
+      "id": "smp-7-tik-42",
+      "teks": "Mengurutkan langkah-langkah secara logis seperti resep membuat mie rebus, dalam elemen berpikir komputasional termasuk... (Latihan #42)",
+      "opsi": {
+        "A": "Dekomposisi",
+        "B": "Perancangan Algoritma",
+        "C": "Generalisasi",
+        "D": "Pengenalan Pola",
+        "E": "Abstraksi"
+      },
+      "kunci": "B",
+      "pembahasan": "Algoritma (Algorithm) adalah instruksi berurutan yg jelas tahapan-tahapannya untuk menuntaskan suatu task/masalah.",
+      "trik": "Langkah berurutan / Resep = Algoritma."
+    },
+    {
+      "id": "smp-7-tik-43",
+      "teks": "Perangkat keras (Hardware) di bawah ini yang berfungsi sebagai unit pemroses utama untuk memikirkan perintah aplikasi adalah... (Latihan #43)",
+      "opsi": {
+        "A": "RAM",
+        "B": "Monitor",
+        "C": "CPU (Central Processing Unit)",
+        "D": "Harddisk",
+        "E": "Keyboard"
+      },
+      "kunci": "C",
+      "pembahasan": "CPU disebut jg mikroprosesor adalah Otak dari sebuah Sistem Komunikasi digital.",
+      "trik": "Otak Pemroses = CPU."
+    },
+    {
+      "id": "smp-7-tik-44",
+      "teks": "Berdasarkan fungsinya, Keyboard, Mouse, dan Scanner merupakan contoh komponen... (Latihan #44)",
+      "opsi": {
+        "A": "Output Device (Alat keluaran)",
+        "B": "Storage Device (Penyimpanan)",
+        "C": "Processing Device",
+        "D": "Input Device (Alat masukan)",
+        "E": "Software Application"
+      },
+      "kunci": "D",
+      "pembahasan": "Ketiganya bertugas memberikan inputan (ketik, klik kursor, memindai data fisik jadi digital) ke sistem komp.",
+      "trik": "Masukkan Perintah = Input."
+    },
+    {
+      "id": "smp-7-tik-45",
+      "teks": "Contoh perangkat lunak sistem operasi (Operating System/OS) komputer desktop adalah... (Latihan #45)",
+      "opsi": {
+        "A": "Microsoft Word",
+        "B": "Google Chrome",
+        "C": "Adobe Photoshop",
+        "D": "Capcut Editor",
+        "E": "Windows 10"
+      },
+      "kunci": "E",
+      "pembahasan": "Sistem Operasi adalah software platform landasan perangkat bisa nyala (Linux, MacOS, Windows 10/11). Sisanya itu *Aplikasi* tambahan.",
+      "trik": "OS = Windows, Linux, Mac."
+    },
+    {
+      "id": "smp-7-tik-46",
+      "teks": "Folder dalam manajemen file komputer sangat diperlukan untuk kegunaan... (Latihan #46)",
+      "opsi": {
+        "A": "Mengelompokkan dan mengorganisir (merapikan) penyimpanan berbagai jenis file",
+        "B": "Memutar musik mp3 tanpa aplikasi",
+        "C": "Merombak hardware jadi cepat",
+        "D": "Menghidupkan listrik CPU",
+        "E": "Menambah kapasitas ukuran hard-drive"
+      },
+      "kunci": "A",
+      "pembahasan": "Folder/Directory di analogikan seperti lemari berkas untuk grouping dokumen yg sejenis agar mudah di searching.",
+      "trik": "Folder = Tempat menyimpan merapikan map virtual."
+    },
+    {
+      "id": "smp-7-tik-47",
+      "teks": "Penulisan jenis tipe Ekstensi File/Format yang tepat untuk menunjukkan dokumen aplikasi microsoft excel adalah... (Latihan #47)",
+      "opsi": {
+        "A": ".docx",
+        "B": ".xlsx atau .xls",
+        "C": ".mp4",
+        "D": ".pptx",
+        "E": ".png"
+      },
+      "kunci": "B",
+      "pembahasan": "File Excel ber ekstensi .xlsx (pengolah angka tabel). Word itu .doc, Powerpoint itu .ppt, dan Foto png.",
+      "trik": "Excel -> XLSX."
+    },
+    {
+      "id": "smp-7-tik-48",
+      "teks": "Di era digital seringkali terdapat persebaran informasi Bohong tanpa sumber bukti yang valid dalam grup media chat. Ini di istilahkan tindakan... (Latihan #48)",
+      "opsi": {
+        "A": "Phishing",
+        "B": "Cyber Bullying",
+        "C": "Hoax (Hoaks)",
+        "D": "Hacking program",
+        "E": "Spam email"
+      },
+      "kunci": "C",
+      "pembahasan": "Hoax adalah rekayasa penyebaran informasi palsu/bohong yg di desain seolah olah benar.",
+      "trik": "Info palsu/berita palsu = Hoax."
+    },
+    {
+      "id": "smp-7-tik-49",
+      "teks": "Kumpulan jejak / rekaman tindakan yg di tinggalkan pengunjung saat berselancar pada browser (spt login history, like sosial media, lokasi post) yang sulit dihapus di jaringan permanen merupakan arti... (Latihan #49)",
+      "opsi": {
+        "A": "Cloud Computing",
+        "B": "Router Switch",
+        "C": "Sistem Caching RAM",
+        "D": "Jejak Digital (Digital Footprint)",
+        "E": "Private Network / VPN"
+      },
+      "kunci": "D",
+      "pembahasan": "Seluruh klik foto memori upload dll itu adalah jejak digital. Hal ini jd bukti perilaku manusia digital dan dpt merugikan jika ada info privacy ter leak.",
+      "trik": "Jejak Digital susah dikubur."
+    },
+    {
+      "id": "smp-7-tik-50",
+      "teks": "Aplikasi perkantoran pengolah presentasi (spt Google Slides atau MS Powerpoint) terbaik memakan fitur utama yg disebut... (Latihan #50)",
+      "opsi": {
+        "A": "Sheet & Formula Matematika",
+        "B": "Paginasi Tabel Row",
+        "C": "Video Editing Timeline Keyframe",
+        "D": "Akses Internet Browser Tabs",
+        "E": "Slide/Lembar presentasi bervisualkan objek Transisi"
+      },
+      "kunci": "E",
+      "pembahasan": "Media presentasi di tuangkan pada media laman slide dng kemampuan custom animasi transisi agar audiens fokus ke titik yg penting saat memaparkan materi.",
+      "trik": "Aplikasi presentasi = Slide Show."
+    }
+  ]
+}

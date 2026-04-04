@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_PP_01",
+    "pertanyaan": "FIELD REPORT 2025 (Wawasan Kebangsaan): Dalam konteks dunia kerja SMK, seorang profesional yang menghargai keberagaman budaya dan tidak mendiskriminasi rekan kerja merupakan implementasi nyata dari sila ke-...",
+    "opsi": [
+      "3 (Persatuan / Bhinneka Tunggal Ika)",
+      "1 (Ketuhanan)",
+      "2 (Kemanusiaan)",
+      "4 (Kerakyatan)",
+      "5 (Keadilan)"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Berdasarkan laporan peserta 2025, soal TWK sering dikaitkan dengan etika profesi. Menghargai perbedaan suku/ras adalah inti dari Persatuan (Sila ke-3).",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_PP_02",
+    "pertanyaan": "FIELD REPORT 2025 (Tata Negara): Muncul soal tentang kedaulatan negara. Sebuah wilayah dapat diakui sebagai negara merdeka secara 'De Jure' apabila memenuhi syarat...",
+    "opsi": [
+      "Memiliki angkatan perang yang kuat",
+      "Mendapat pengakuan resmi dari negara lain secara hukum internasional",
+      "Memiliki bendera dan lagu kebangsaan saja",
+      "Telah memproklamasikan kemerdekaan unilateral",
+      "Punya cadangan emas di bank pusat"
+    ],
+    "jawaban": "B",
+    "pembahasan": "De Jure adalah pengakuan hukum. FR 2025 menekankan pada pengakuan internasional sebagai syarat esensial negara merdeka.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_PP_03",
+    "pertanyaan": "FIELD REPORT 2025 (Isu Digital): Upaya individu atau kelompok profesional TI dalam membela kedaulatan siber (Cyber Power) Indonesia dari serangan luar merupakan bentuk konkret dari...",
+    "opsi": [
+      "Bela Negara Militer Fisik",
+      "Tindakan spionase internasional",
+      "Bela Negara Non-Militer melalui Profesi",
+      "Pelanggaran UU ITE",
+      "Kerjasama bilateral resmi"
+    ],
+    "jawaban": "C",
+    "pembahasan": "FR 2025 mengangkat isu digital. Membela negara melalui keahlian (Cyber, Medis, Ekonomi) dikategorikan Bela Negara Non-Militer.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_PP_04",
+    "pertanyaan": "FIELD REPORT 2025 (Konstitusi): Jika Presiden dan Wakil Presiden mangkat, berhenti, atau diberhentikan secara bersamaan, pelaksana tugas kepresidenan dilakukan secara kolektif oleh Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan (Triumvirat). Hal ini diatur dalam...",
+    "opsi": [
+      "UUD 1945 Pasal 1",
+      "Tap MPR No. I/2003",
+      "UU No. 12 Tahun 2011",
+      "UUD 1945 Pasal 8",
+      "Instruksi Presiden"
+    ],
+    "jawaban": "D",
+    "pembahasan": "FR 2025 menanyakan landasan konstitusional yang presisi. Pasal 8 UUD 1945 mengatur mekanisme suksesi kepemimpinan nasional.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_PP_05",
+    "pertanyaan": "FIELD REPORT 2025 (Sosial Ekonomi): Tindakan seorang pengusaha muda yang taat membayar pajak dan mengalokasikan CSR untuk pendidikan anak jalanan merupakan bentuk pengamalan Pancasila, khususnya sila ke-...",
+    "opsi": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5 (Keadilan Sosial)"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Kontribusi ekonomi untuk kesejahteraan umum adalah manifestasi dari Sila ke-5.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

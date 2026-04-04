@@ -1,0 +1,586 @@
+{
+  "id": "fr-tka-2023-smk-pilihan",
+  "tahun": 2023,
+  "tingkat": "SMK",
+  "materiKategori": "pilihan",
+  "mapel": "TKA SMK pilihan",
+  "deskripsi": "Rekonstruksi FR TKA SMK 2023 kategori pilihan.",
+  "soal": [
+    {
+      "id": "fr23-smk-pilihan-bio-01",
+      "mapel": "Biologi",
+      "teks": "Unit terkecil dari makhluk hidup yang dapat melaksanakan aktivitas kehidupan disebut...",
+      "opsi": {
+        "A": "Sel",
+        "B": "Atom",
+        "C": "Molekul",
+        "D": "Jaringan",
+        "E": "Organ"
+      },
+      "kunci": "A",
+      "pembahasan": "Sel adalah satuan fungsional dan struktural terkecil makhluk hidup.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Biologi",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smk-pilihan-bio-02",
+      "mapel": "Biologi",
+      "teks": "Organel sel yang berfungsi sebagai tempat respirasi sel dan penghasil energi (ATP) adalah...",
+      "opsi": {
+        "A": "Nukleus",
+        "B": "Mitokondria",
+        "C": "Ribosom",
+        "D": "Badan Golgi",
+        "E": "Lisosom"
+      },
+      "kunci": "B",
+      "pembahasan": "Mitokondria sering dijuluki 'Powerhouse of the Cell'.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Biologi",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smk-pilihan-bio-03",
+      "mapel": "Biologi",
+      "teks": "Proses perpindahan zat dari konsentrasi tinggi ke rendah secara spontan disebut...",
+      "opsi": {
+        "A": "Osmosis",
+        "B": "Transpor aktif",
+        "C": "Difusi",
+        "D": "Endositosis",
+        "E": "Eksositosis"
+      },
+      "kunci": "C",
+      "pembahasan": "Difusi tidak memerlukan energi (transpor pasif).",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Biologi",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smk-pilihan-fis-01",
+      "mapel": "Fisika",
+      "teks": "Satuan SI untuk kuat arus listrik adalah...",
+      "opsi": {
+        "A": "Ampere",
+        "B": "Volt",
+        "C": "Ohm",
+        "D": "Watt",
+        "E": "Coulomb"
+      },
+      "kunci": "A",
+      "pembahasan": "Ampere adalah satuan standar untuk arus listrik.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Fisika",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smk-pilihan-fis-02",
+      "mapel": "Fisika",
+      "teks": "Sebuah mobil bergerak dari kecepatan 10 m/s menjadi 20 m/s dalam waktu 5 detik. Percepatan mobil tersebut adalah...",
+      "opsi": {
+        "A": "5 m/s^2",
+        "B": "2 m/s^2",
+        "C": "10 m/s^2",
+        "D": "4 m/s^2",
+        "E": "1 m/s^2"
+      },
+      "kunci": "B",
+      "pembahasan": "a = (v2 - v1) / t = (20 - 10) / 5 = 2 m/s^2.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Fisika",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smk-pilihan-fis-03",
+      "mapel": "Fisika",
+      "teks": "Besar gaya yang bekerja pada benda bermassa 2 kg yang mengalami percepatan 3 m/s^2 adalah...",
+      "opsi": {
+        "A": "1 N",
+        "B": "5 N",
+        "C": "6 N",
+        "D": "1.5 N",
+        "E": "0.6 N"
+      },
+      "kunci": "C",
+      "pembahasan": "F = m * a = 2 * 3 = 6 N. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"6 N\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Fisika",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smk-pilihan-kim-01",
+      "mapel": "Kimia",
+      "teks": "Nomor atom suatu unsur menunjukkan jumlah...",
+      "opsi": {
+        "A": "Proton dalam inti atom",
+        "B": "Neutron dalam inti atom",
+        "C": "Proton dan neutron",
+        "D": "Elektron valensi",
+        "E": "Massa atom"
+      },
+      "kunci": "A",
+      "pembahasan": "Nomor atom Z = jumlah proton (identitas unsur).",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Kimia",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smk-pilihan-kim-02",
+      "mapel": "Kimia",
+      "teks": "Ikatan yang terbentuk akibat serah terima elektron antara unsur logam dan non-logam disebut...",
+      "opsi": {
+        "A": "Ikatan Kovalen",
+        "B": "Ikatan Ion",
+        "C": "Ikatan Logam",
+        "D": "Ikatan Hidrogen",
+        "E": "Gaya Van der Waals"
+      },
+      "kunci": "B",
+      "pembahasan": "Ikatan ion melibatkan gaya elektrostatik antar kation dan anion.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Kimia",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smk-pilihan-kim-03",
+      "mapel": "Kimia",
+      "teks": "Massa molar (Mr) dari air (H2O) adalah... (Ar H=1, O=16)",
+      "opsi": {
+        "A": "17",
+        "B": "20",
+        "C": "18",
+        "D": "33",
+        "E": "16"
+      },
+      "kunci": "C",
+      "pembahasan": "(2 * 1) + 16 = 18 g/mol. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"18\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Kimia",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smk-pilihan-eko-01",
+      "mapel": "Ekonomi",
+      "teks": "Masalah pokok ekonomi klasik meliputi...",
+      "opsi": {
+        "A": "Produksi, Distribusi, Konsumsi",
+        "B": "What, How, for Whom",
+        "C": "Inflasi, Pengangguran, Kemiskinan",
+        "D": "Ekspor, Impor, Investasi",
+        "E": "Harga, Barang, Jasa"
+      },
+      "kunci": "A",
+      "pembahasan": "Ekonomi klasik fokus pada aliran barang dari produsen ke konsumen.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Ekonomi",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smk-pilihan-eko-02",
+      "mapel": "Ekonomi",
+      "teks": "Keinginan manusia yang tidak terbatas sementara alat pemuas kebutuhan terbatas disebut...",
+      "opsi": {
+        "A": "Kepuasan",
+        "B": "Kelangkaan (Scarcity)",
+        "C": "Kemakmuran",
+        "D": "Keuntungan",
+        "E": "Kesuksesan"
+      },
+      "kunci": "B",
+      "pembahasan": "Kelangkaan adalah inti dari masalah ekonomi.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Ekonomi",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smk-pilihan-eko-03",
+      "mapel": "Ekonomi",
+      "teks": "Jika harga barang naik, maka jumlah barang yang ditawarkan akan naik. Ini adalah bunyi hukum...",
+      "opsi": {
+        "A": "Permintaan",
+        "B": "Gossen I",
+        "C": "Penawaran",
+        "D": "Gossen II",
+        "E": "Pasar"
+      },
+      "kunci": "C",
+      "pembahasan": "Hukum penawaran berbanding lurus dengan harga (ceteris paribus).",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Ekonomi",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smk-pilihan-geo-01",
+      "mapel": "Geografi",
+      "teks": "Konsep geografi yang menjelaskan jarak antara dua tempat yang dinyatakan dengan satuan waktu atau biaya disebut...",
+      "opsi": {
+        "A": "Konsep Jarak Relatif",
+        "B": "Konsep Lokasi",
+        "C": "Konsep Keterjangkauan",
+        "D": "Konsep Jarak Absolut",
+        "E": "Konsep Aglomerasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Jarak relatif diukur berdasarkan kemudahan akses, bukan hanya kilometer.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Geografi",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smk-pilihan-geo-02",
+      "mapel": "Geografi",
+      "teks": "Garis khayal yang membagi bumi menjadi bagian Utara dan Selatan adalah...",
+      "opsi": {
+        "A": "Garis Bujur (Meridian)",
+        "B": "Garis Lintang (Khatulistiwa / Ekuator)",
+        "C": "Garis Wallace",
+        "D": "Garis Weber",
+        "E": "Garis Pantai"
+      },
+      "kunci": "B",
+      "pembahasan": "Ekuator berada pada 0 derajat lintang. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Garis Lintang (Khatulistiwa / Ekuator)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Geografi",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smk-pilihan-geo-03",
+      "mapel": "Geografi",
+      "teks": "Alat yang merekam data permukaan bumi tanpa kontak langsung disebut...",
+      "opsi": {
+        "A": "Teleskop",
+        "B": "Termometer",
+        "C": "Sensor (dalam Penginderaan Jauh)",
+        "D": "Barometer",
+        "E": "Kompas"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sensor (dalam Penginderaan Jauh)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Geografi",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smk-pilihan-sej-01",
+      "mapel": "Sejarah",
+      "teks": "Zaman di mana manusia belum mengenal tulisan disebut zaman...",
+      "opsi": {
+        "A": "Pra-aksara (Nirleka)",
+        "B": "Sejarah",
+        "C": "Batu Madya",
+        "D": "Perunggu",
+        "E": "Logam"
+      },
+      "kunci": "A",
+      "pembahasan": "Zaman pra-aksara berakhir saat manusia mulai menggunakan aksara/tulisan.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Sejarah",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smk-pilihan-sej-02",
+      "mapel": "Sejarah",
+      "teks": "Peninggalan zaman Neolitikum yang berupa bangunan dari batu besar, seperti menhir dan dolmen, disebut...",
+      "opsi": {
+        "A": "Situs",
+        "B": "Megalitikum",
+        "C": "Artefak",
+        "D": "Fosil",
+        "E": "Relik"
+      },
+      "kunci": "B",
+      "pembahasan": "Megalitikum artinya batu besar. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Megalitikum\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Sejarah",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smk-pilihan-sej-03",
+      "mapel": "Sejarah",
+      "teks": "Kerajaan Hindu tertua di Indonesia yang terletak di Kalimantan Timur adalah...",
+      "opsi": {
+        "A": "Tarumanegara",
+        "B": "Sriwijaya",
+        "C": "Kutai",
+        "D": "Majapahit",
+        "E": "Pajajaran"
+      },
+      "kunci": "C",
+      "pembahasan": "Ditemukan 7 buah Yupa di area tersebut sebagai bukti.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Sejarah",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smk-pilihan-sos-01",
+      "mapel": "Sosiologi",
+      "teks": "Objek studi sosiologi adalah...",
+      "opsi": {
+        "A": "Masyarakat dan interaksi di dalamnya",
+        "B": "Individu manusia saja",
+        "C": "Benda-benda purbakala",
+        "D": "Sistem pemerintahan negara",
+        "E": "Gejala alam"
+      },
+      "kunci": "A",
+      "pembahasan": "Sosiologi mempelajari hubungan antarmanusia dan hasil dari hubungan tersebut.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Sosiologi",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smk-pilihan-sos-02",
+      "mapel": "Sosiologi",
+      "teks": "Syarat terjadinya interaksi sosial menurut Soerjono Soekanto adalah...",
+      "opsi": {
+        "A": "Tatapan mata dan senyuman",
+        "B": "Kontak sosial dan komunikasi",
+        "C": "Uang dan jabatan",
+        "D": "Tempat dan waktu",
+        "E": "Persamaan hobi"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kontak sosial dan komunikasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Sosiologi",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smk-pilihan-sos-03",
+      "mapel": "Sosiologi",
+      "teks": "Faktor pendorong interaksi di mana seseorang ingin menjadi sama persis dengan orang lain disebut...",
+      "opsi": {
+        "A": "Imitasi",
+        "B": "Sugesti",
+        "C": "Identifikasi",
+        "D": "Simpati",
+        "E": "Empati"
+      },
+      "kunci": "C",
+      "pembahasan": "Identifikasi lebih mendalam daripada imitasi.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Sosiologi",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smk-pilihan-akd-01",
+      "mapel": "Akuntansi Dasar",
+      "teks": "Akuntansi sering disebut 'The Language of Business' karena...",
+      "opsi": {
+        "A": "Mengomunikasikan informasi keuangan suatu unit usaha kepada penggunanya",
+        "B": "Menggunakan bahasa Inggris",
+        "C": "Hanya dipahami oleh pengusaha",
+        "D": "Sulit dipelajari",
+        "E": "Banyak hitungannya"
+      },
+      "kunci": "A",
+      "pembahasan": "Akuntansi adalah alat komunikasi hasil aktivitas ekonomi.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Akuntansi Dasar",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smk-pilihan-akd-02",
+      "mapel": "Akuntansi Dasar",
+      "teks": "Pihak eksternal yang memerlukan informasi akuntansi untuk memutuskan pemberian pinjaman adalah...",
+      "opsi": {
+        "A": "Manajer",
+        "B": "Kreditur (Bank)",
+        "C": "Karyawan",
+        "D": "Pemilik perusahaan",
+        "E": "Pemerintah (Pajak)"
+      },
+      "kunci": "B",
+      "pembahasan": "Kreditur perlu melihat kemampuan bayar perusahaan.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Akuntansi Dasar",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smk-pilihan-akd-03",
+      "mapel": "Akuntansi Dasar",
+      "teks": "Rumus Persamaan Dasar Akuntansi yang benar adalah...",
+      "opsi": {
+        "A": "Aset = Liabilitas - Ekuitas",
+        "B": "Liabilitas = Aset + Ekuitas",
+        "C": "Aset = Liabilitas + Ekuitas",
+        "D": "Ekuitas = Aset + Liabilitas",
+        "E": "Modal = Beban - Pendapatan"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Aset = Liabilitas + Ekuitas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Akuntansi Dasar",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smk-pilihan-mp-01",
+      "mapel": "Manajemen Perkantoran",
+      "teks": "Kegiatan mencatat, menyatukan, mengolah, menggandakan, mengirim, dan menyimpan informasi disebut...",
+      "opsi": {
+        "A": "Administrasi Perkantoran",
+        "B": "Produksi",
+        "C": "Pemasaran",
+        "D": "Distribusi",
+        "E": "Konsumsi"
+      },
+      "kunci": "A",
+      "pembahasan": "Administrasi adalah inti dari kegiatan operasional kantor.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Manajemen Perkantoran",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smk-pilihan-mp-02",
+      "mapel": "Manajemen Perkantoran",
+      "teks": "Pihak yang memberikan instruksi dan mengarahkan jalannya kegiatan kantor disebut...",
+      "opsi": {
+        "A": "Staf",
+        "B": "Manajer / Pimpinan",
+        "C": "Pelanggan",
+        "D": "Kurir",
+        "E": "Satpam"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Manajer / Pimpinan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Manajemen Perkantoran",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smk-pilihan-mp-03",
+      "mapel": "Manajemen Perkantoran",
+      "teks": "Bagian surat yang berisi alamat tujuan surat disebut...",
+      "opsi": {
+        "A": "Kepala Surat (Kop)",
+        "B": "Nomor Surat",
+        "C": "Alamat Dalam",
+        "D": "Salam Pembuka",
+        "E": "Isi Surat"
+      },
+      "kunci": "C",
+      "pembahasan": "Alat dalam berada di bawah nomor/tanggal surat.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Manajemen Perkantoran",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smk-pilihan-log-01",
+      "mapel": "Logistik",
+      "teks": "Proses merencanakan, melaksanakan, dan mengendalikan aliran barang dari titik asal ke titik konsumsi disebut...",
+      "opsi": {
+        "A": "Logistik",
+        "B": "Produksi",
+        "C": "Pemasaran",
+        "D": "Keuangan",
+        "E": "Humas"
+      },
+      "kunci": "A",
+      "pembahasan": "Logistik fokus pada efisiensi perpindahan dan penyimpanan barang.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Logistik",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smk-pilihan-log-02",
+      "mapel": "Logistik",
+      "teks": "Supply Chain Management (SCM) mencakup koordinasi aliran berikut, kecuali...",
+      "opsi": {
+        "A": "Aliran Barang",
+        "B": "Aliran Udara",
+        "C": "Aliran Informasi",
+        "D": "Aliran Uang (Dana)",
+        "E": "Aliran Dokumen"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Aliran Udara\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Logistik",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smk-pilihan-log-03",
+      "mapel": "Logistik",
+      "teks": "Metode pengeluaran barang di mana barang yang pertama kali masuk harus pertama kali keluar disebut...",
+      "opsi": {
+        "A": "LIFO",
+        "B": "FEFO",
+        "C": "FIFO (First In First Out)",
+        "D": "Average",
+        "E": "Random"
+      },
+      "kunci": "C",
+      "pembahasan": "Cocok untuk barang umum non-expired agar stok lama tidak menumpuk.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Logistik",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smk-pilihan-kul-01",
+      "mapel": "Kuliner",
+      "teks": "Teknik memotong sayuran berbentuk batang korek api (ukuran 3cm x 1mm x 1mm) disebut...",
+      "opsi": {
+        "A": "Julienne",
+        "B": "Dice",
+        "C": "Chopping",
+        "D": "Chiffonade",
+        "E": "Mincing"
+      },
+      "kunci": "A",
+      "pembahasan": "Julienne sering digunakan untuk wortel pada selada atau isi lumpia.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Kuliner",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smk-pilihan-kul-02",
+      "mapel": "Kuliner",
+      "teks": "Metode memasak dengan sedikit lemak/minyak dalam wajan datar dengan api sedang disebut...",
+      "opsi": {
+        "A": "Deep Frying",
+        "B": "Sautéing (Menumis)",
+        "C": "Boiling",
+        "D": "Poaching",
+        "E": "Steaming"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sautéing (Menumis)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Kuliner",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smk-pilihan-kul-03",
+      "mapel": "Kuliner",
+      "teks": "Suhu penyimpanan ideal untuk daging segar di dalam chiller adalah...",
+      "opsi": {
+        "A": "-18 s.d -20 derajat Celcius",
+        "B": "10 s.d 15 derajat Celcius",
+        "C": "1 s.d 4 derajat Celcius",
+        "D": "25 s.d 30 derajat Celcius",
+        "E": "100 derajat Celcius"
+      },
+      "kunci": "C",
+      "pembahasan": "Suhu -18 ke bawah adalah untuk freezer (pembekuan).",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Kuliner",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smk-pilihan-hot-01",
+      "mapel": "Perhotelan",
+      "teks": "Pihak yang bertugas menyambut tamu di lobi dan membawakan barang bawaan tamu ke kamar disebut...",
+      "opsi": {
+        "A": "Bellboy / Porter / Concierge",
+        "B": "Receptionist",
+        "C": "Room Boy",
+        "D": "Waiter",
+        "E": "Manager"
+      },
+      "kunci": "A",
+      "pembahasan": "Bellboy adalah garda terdepan layanan barang tamu.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Perhotelan",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smk-pilihan-hot-02",
+      "mapel": "Perhotelan",
+      "teks": "Lantai atau area umum di hotel seperti lobi dan lorong dibersihkan oleh bagian...",
+      "opsi": {
+        "A": "Room Attendant",
+        "B": "Public Area Attendant",
+        "C": "Laundry Staf",
+        "D": "Front Desk Agent",
+        "E": "Chef"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Public Area Attendant\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Perhotelan",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smk-pilihan-hot-03",
+      "mapel": "Perhotelan",
+      "teks": "Istilah 'Make Up Room' dalam perhotelan berarti...",
+      "opsi": {
+        "A": "Menghias kamar untuk pengantin",
+        "B": "Mengecat tembok kamar",
+        "C": "Membersihkan dan menata kembali kamar tamu",
+        "D": "Memperbaiki AC kamar",
+        "E": "Memberi kompensasi kamar"
+      },
+      "kunci": "C",
+      "pembahasan": "Kegiatan rutin housekeeping. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Membersihkan dan menata kembali kamar tamu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Perhotelan",
+      "hari_ujian": 4
+    }
+  ]
+}

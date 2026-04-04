@@ -1,0 +1,652 @@
+[
+  {
+    "id": "BD_EC_01",
+    "pertanyaan": "Model bisnis e-commerce di mana perorangan menjual barang ke perorangan lainnya (seperti di OLX) disebut...",
+    "opsi": [
+      "C2C (Consumer to Consumer)",
+      "B2B",
+      "B2C",
+      "C2B",
+      "B2G"
+    ],
+    "jawaban": 0,
+    "pembahasan": "C2C memfasilitasi transaksi antar individu melalui platform perantara."
+  },
+  {
+    "id": "BD_EC_02",
+    "pertanyaan": "Apa keunggulan utama website toko online mandiri dibandingkan hanya berjualan di marketplace?",
+    "opsi": [
+      "Lebih murah biayanya",
+      "Memiliki kontrol penuh atas data pelanggan dan branding",
+      "Tidak perlu promosi",
+      "Barang otomatis laku",
+      "Gampang dibuat dalam 1 menit"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Website mandiri membangun aset digital jangka panjang tanpa ketergantungan pada aturan pihak ketiga."
+  },
+  {
+    "id": "BD_EC_03",
+    "pertanyaan": "Metode pembayaran di mana pembeli membayar saat paket sampai di rumah disebut...",
+    "opsi": [
+      "Virtual Account",
+      "E-Wallet",
+      "COD (Cash on Delivery)",
+      "Credit Card",
+      "Paylater"
+    ],
+    "jawaban": 2,
+    "pembahasan": "COD sangat populer bagi konsumen yang belum memiliki akses perbankan digital."
+  },
+  {
+    "id": "BD_EC_04",
+    "pertanyaan": "Payment Gateway berfungsi sebagai...",
+    "opsi": [
+      "Gudang penyimpanan barang",
+      "Kurir pengantar barang",
+      "Alat pengedit foto produk",
+      "Perantara transaksi pembayaran antara penjual, pembeli, dan bank",
+      "Penyedia jaringan internet"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh payment gateway di Indonesia adalah Midtrans atau Xendit."
+  },
+  {
+    "id": "BD_EC_05",
+    "pertanyaan": "Dropshipping adalah model bisnis e-commerce di mana penjual...",
+    "opsi": [
+      "Menimbun banyak barang di gudang",
+      "Memproduksi barang sendiri",
+      "Hanya menjual barang bekas",
+      "Membuka toko fisik di pasar",
+      "Menjual barang tanpa stok (dikirim langsung oleh supplier ke pembeli)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Dropshipper hanya bertugas sebagai pemasar tanpa risiko stok barang."
+  },
+  {
+    "id": "BD_EC_06",
+    "pertanyaan": "Fulfillment dalam e-commerce mencakup kegiatan...",
+    "opsi": [
+      "Seluruh proses mulai dari menerima order, packing, hingga pengiriman",
+      "Hanya memotret produk",
+      "Menghitung pajak tahunan",
+      "Menutup toko sementara",
+      "Melakukan wawancara kerja"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Fulfillment yang cepat meningkatkan rating toko di mata pembeli."
+  },
+  {
+    "id": "BD_EC_07",
+    "pertanyaan": "Istilah 'Check Out' berarti...",
+    "opsi": [
+      "Melihat-lihat barang",
+      "Proses akhir pembelian (memilih alamat dan metode pembayaran)",
+      "Memasukkan barang ke keranjang",
+      "Menghapus aplikasi",
+      "Memberikan bintang 5"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Checkout adalah momen krusial di mana konversi penjualan terjadi."
+  },
+  {
+    "id": "BD_EC_08",
+    "pertanyaan": "Apa itu 'Resi pengiriman'?",
+    "opsi": [
+      "Bukti pembayaran tagihan listrik",
+      "Kode diskon belanja",
+      "Nomor unik bukti pengiriman untuk melacak keberadaan paket",
+      "Nama kurir yang mengantar",
+      "Alamat kantor pusat toko"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Nomor resi (Waybill) memungkinkan pembeli memantau status 'On Process' atau 'Delivered'."
+  },
+  {
+    "id": "BD_EC_09",
+    "pertanyaan": "M-Commerce (Mobile Commerce) adalah e-commerce yang dilakukan melalui...",
+    "opsi": [
+      "Radio",
+      "Televisi",
+      "Surat kabar",
+      "Perangkat mobile (Smartphone/Tablet)",
+      "Komputer Desktop kantor"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Saat ini mayoritas transaksi e-commerce berasal dari aplikasi mobile."
+  },
+  {
+    "id": "BD_EC_10",
+    "pertanyaan": "Fitur 'Flash Sale' bertujuan untuk...",
+    "opsi": [
+      "Menaikkan harga barang pelan-pelan",
+      "Menghabiskan baterai handphone",
+      "Memperlama proses pengiriman",
+      "Menghapus data pembeli",
+      "Menciptakan urgensi agar konsumen segera membeli dalam waktu singkat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Flash sale biasanya menawarkan diskon besar namun stok sangat terbatas."
+  },
+  {
+    "id": "BD_EC_11",
+    "pertanyaan": "Apa risiko utama dari berjualan sistem dropship?",
+    "opsi": [
+      "Sulit mengontrol kualitas barang dan ketersediaan stok di supplier",
+      "Barang rusak di gudang sendiri",
+      "Harus membayar gaji karyawan gudang",
+      "Tidak perlu internet",
+      "Modal harus ratusan juta"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penjual tidak melihat fisik barang, sehingga komplain pembeli sulit ditangani jika supplier tidak kooperatif."
+  },
+  {
+    "id": "BD_EC_12",
+    "pertanyaan": "Social Commerce adalah e-commerce yang memanfaatkan...",
+    "opsi": [
+      "Dinas sosial",
+      "Media sosial (Instagram, TikTok, Facebook)",
+      "Arisan warga",
+      "Korwil desa",
+      "Sekolah umum"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Proses pencarian hingga pembelian terjadi di dalam ekosistem media sosial."
+  },
+  {
+    "id": "BD_EC_13",
+    "pertanyaan": "Sertifikat SSL (Secure Sockets Layer) pada website e-commerce berfungsi untuk...",
+    "opsi": [
+      "Mempercepat loading gambar",
+      "Menghasilkan uang otomatis",
+      "Mengenkripsi data (aman) antara browser dan server",
+      "Memasang iklan gratis",
+      "Menghitung jumlah pengunjung"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Website dengan SSL ditandai dengan ikon gembok dan alamat https://."
+  },
+  {
+    "id": "BD_EC_14",
+    "pertanyaan": "Omnichannel dalam e-commerce berarti...",
+    "opsi": [
+      "Hanya jualan di satu toko saja",
+      "Menjual barang ke luar negeri",
+      "Menghapus semua admin chat",
+      "Integrasi berbagai saluran (online & offline) untuk pengalaman belanja yang sama",
+      "Memakai banyak kurir berbeda"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Konsumen bisa beli online lewat web tapi ambil barang di toko fisik (Click & Collect)."
+  },
+  {
+    "id": "BD_EC_15",
+    "pertanyaan": "Target pasar e-commerce yang berfokus pada instansi pemerintah disebut...",
+    "opsi": [
+      "B2C",
+      "B2B",
+      "C2C",
+      "G2G",
+      "B2G (Business to Government)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: pengadaan barang lewat e-katalog LKPP."
+  },
+  {
+    "id": "BD_EC_16",
+    "pertanyaan": "Rating dan Review dari pembeli sangat penting karena...",
+    "opsi": [
+      "Meningkatkan kepercayaan dan reputasi toko (Social Proof)",
+      "Hanya hiasan profil",
+      "Menambah beban server",
+      "Meringankan biaya admin",
+      "Mempercepat packing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembeli baru cenderung melihat pengalaman pembeli sebelumnya sebelum bertransaksi."
+  },
+  {
+    "id": "BD_EC_17",
+    "pertanyaan": "Biaya yang harus dibayar kepada marketplace setiap kali ada barang laku disebut...",
+    "opsi": [
+      "Biaya Listrik",
+      "Biaya Admin / Komisi Penjualan",
+      "Biaya Produksi",
+      "Biaya Transportasi",
+      "Uang Keamanan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Potongan ini merupakan sumber pendapatan utama platform marketplace."
+  },
+  {
+    "id": "BD_EC_18",
+    "pertanyaan": "Reverse Logistics adalah proses...",
+    "opsi": [
+      "Pengiriman barang dari produsen ke konsumen",
+      "Membatalkan pesanan sebelum dibayar",
+      "Proses pengembalian barang (retur) dari konsumen kembali ke penjual",
+      "Mencetak label pengiriman",
+      "Membayar gaji kurir"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Manajemen retur yang baik penting untuk menjaga kepuasan pelanggan jika barang salah/rusak."
+  },
+  {
+    "id": "BD_EC_19",
+    "pertanyaan": "Istilah 'Conversion Rate' dalam e-commerce adalah...",
+    "opsi": [
+      "Kecepatan internet",
+      "Jumlah followers media sosial",
+      "Harga tukar mata uang asing",
+      "Persentase pengunjung yang akhirnya benar-benar membeli produk",
+      "Berat rata-rata paket"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jika 100 orang datang dan 5 orang beli, maka Conversion Rate = 5%."
+  },
+  {
+    "id": "BD_EC_20",
+    "pertanyaan": "Marketplace Global yang paling terkenal berbasis di Amerika Serikat adalah...",
+    "opsi": [
+      "Alibaba",
+      "Rakuten",
+      "Shopee",
+      "Tokopedia",
+      "Amazon"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Amazon merupakan pelopor model bisnis e-commerce modern di dunia."
+  },
+  {
+    "id": "BD_EC_21",
+    "pertanyaan": "Fitur 'Chat' pada aplikasi e-commerce digunakan untuk...",
+    "opsi": [
+      "Konsultasi produk dan konfirmasi stok ke penjual",
+      "Menonton video lucu",
+      "Mendengarkan musik",
+      "Mencari teman baru",
+      "Main game bersama"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Respon chat yang ramah dan cepat berujung pada meningkatnya closing penjualan."
+  },
+  {
+    "id": "BD_EC_22",
+    "pertanyaan": "E-wallet adalah singkatan dari...",
+    "opsi": [
+      "Easy Wall",
+      "Electronic Wallet (Dompet Elektronik)",
+      "Extra Weight",
+      "Emergency Way",
+      "Entry Well"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Berfungsi menyimpan saldo uang digital untuk transaksi praktis."
+  },
+  {
+    "id": "BD_EC_23",
+    "pertanyaan": "Contoh promosi yang paling disukai pembeli e-commerce di Indonesia adalah...",
+    "opsi": [
+      "Bayar tepat waktu",
+      "Update status",
+      "Gratis Ongkir (Bebas Biaya Kirim)",
+      "Desain logo bagus",
+      "Alamat toko dekat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Ongkos kirim seringkali menjadi hambatan psikologis konsumen untuk bertransaksi online."
+  },
+  {
+    "id": "BD_EC_24",
+    "pertanyaan": "Inventory Management bertujuan agar...",
+    "opsi": [
+      "Gudang selalu kosong",
+      "Harga barang naik terus",
+      "Karyawan berhenti bekerja",
+      "Stok barang selalu terkontrol (tidak kurang dan tidak menumpuk berlebih)",
+      "Foto produk terlihat cantik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mencegah kerugian akibat barang rusak (expired) atau kehilangan peluang jual karena stok habis (out of stock)."
+  },
+  {
+    "id": "BD_EC_25",
+    "pertanyaan": "Apa kelemahan utama e-commerce bagi konsumen?",
+    "opsi": [
+      "Harga lebih murah",
+      "Bisa belanja sambil rebahan",
+      "Banyak pilihan metode bayar",
+      "Pilihan barang sangat banyak",
+      "Tidak bisa melihat dan mencoba fisik barang secara langsung sebelum beli"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Oleh karena itu, deskripsi produk dan foto asli (real pict) sangat diperlukan."
+  },
+  {
+    "id": "BD_EC_26",
+    "pertanyaan": "Affiliate Marketing adalah...",
+    "opsi": [
+      "Mendapatkan komisi dengan membagikan link produk ke orang lain",
+      "Membayar orang untuk memproduksi barang",
+      "Membeli saham perusahaan e-commerce",
+      "Menutup akses internet",
+      "Membayar denda pajak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sering disebut 'spill produk' di media sosial."
+  },
+  {
+    "id": "BD_EC_27",
+    "pertanyaan": "Search Engine Optimization (SEO) dalam e-commerce berguna agar...",
+    "opsi": [
+      "Foto produk jadi lebih terang",
+      "Halaman produk muncul di hasil pencarian teratas Google",
+      "Biaya kirim jadi gratis",
+      "Admin tidak perlu membalas chat",
+      "Harga barang diturunkan otomatis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Traffic organik (gratis) dari mesin pencari sangat menguntungkan bisnis jangka panjang."
+  },
+  {
+    "id": "BD_EC_28",
+    "pertanyaan": "User Experience (UX) yang baik pada aplikasi belanja ditandai dengan...",
+    "opsi": [
+      "Warna-warni yang menyilaukan mata",
+      "Banyaknya pop-up iklan yang menutupi layar",
+      "Navigasi mudah, loading cepat, dan proses bayar tidak ribet",
+      "Harus login berkali-kali",
+      "Suara musik otomatis yang kencang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kemudahan penggunaan membuat konsumen betah berbelanja berulang kali."
+  },
+  {
+    "id": "BD_EC_29",
+    "pertanyaan": "Cross-selling adalah teknik pemasaran di mana penjual...",
+    "opsi": [
+      "Menjual barang ke musuh",
+      "Menolak pembeli",
+      "Menaikkan harga barang utama",
+      "Menawarkan produk pelengkap (misal beli HP ditawarkan case/pelindung layar)",
+      "Hanya menjual satu jenis barang saja"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tujuannya adalah meningkatkan nilai rata-rata pesanan (Average Order Value)."
+  },
+  {
+    "id": "BD_EC_30",
+    "pertanyaan": "Up-selling adalah teknik di mana penjual...",
+    "opsi": [
+      "Menjual barang bekas",
+      "Memberikan harga paling murah",
+      "Menghapus label harga",
+      "Membatalkan transaksi",
+      "Mendorong pembeli untuk membeli produk versi lebih mahal/premium dari yang dipilih"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: menawarkan paket 'Ultimate' saat pembeli ingin paket 'Basic'."
+  },
+  {
+    "id": "BD_EC_31",
+    "pertanyaan": "Marketplace domestik asal Indonesia yang identik dengan warna hijau adalah...",
+    "opsi": [
+      "Tokopedia",
+      "Bukalapak",
+      "Lazada",
+      "Blibli",
+      "Shopee"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tokopedia adalah salah satu unicorn (sekarang bagian dari GoTo) terbesar di Indonesia."
+  },
+  {
+    "id": "BD_EC_32",
+    "pertanyaan": "Data analitik dalam e-commerce memungkinkan penjual mengetahui...",
+    "opsi": [
+      "Alamat rumah tetangga pembeli",
+      "Produk mana yang paling sering dilihat dan jam berapa pembeli paling aktif",
+      "Password akun bank pembeli",
+      "Saldo ATM pembeli secara detail",
+      "Isi chat pribadi pembeli dengan orang lain"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Data ini digunakan untuk menentukan waktu promo yang paling tepat."
+  },
+  {
+    "id": "BD_EC_33",
+    "pertanyaan": "Penyedia jasa pengiriman barang disebut...",
+    "opsi": [
+      "Manufacturer",
+      "Customer",
+      "Logistics Provider / 3PL (Third Party Logistics)",
+      "Banker",
+      "Programmer"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh 3PL: JNE, J&T, Sicepat, POS Indonesia."
+  },
+  {
+    "id": "BD_EC_34",
+    "pertanyaan": "Keamanan Siber (Cybersecurity) penting dalam e-commerce karena...",
+    "opsi": [
+      "Hanya mengikuti tren",
+      "Agar kuota internet tidak cepat habis",
+      "Memperindah tampilan web",
+      "Melindungi data sensitif konsumen dan rahasia bisnis dari serangan hacker",
+      "Menghapus komplain sampah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kebocoran data bisa menghancurkan reputasi bisnis seketika."
+  },
+  {
+    "id": "BD_EC_35",
+    "pertanyaan": "Customer Loyalty Program contohnya adalah...",
+    "opsi": [
+      "Menaikkan harga untuk pembeli lama",
+      "Mempersulit pengembalian barang",
+      "Menghapus akun yang tidak belanja sebulan",
+      "Memaksa pembeli memberi bintang 5",
+      "Pengumpulan poin setiap belanja yang bisa ditukar hadiah"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Program loyalitas membuat biaya akuisisi pelanggan lebih murah dibanding mencari pelanggan baru terus-menerus."
+  },
+  {
+    "id": "BD_EC_36",
+    "pertanyaan": "Sistem Dropshipping sangat cocok bagi pemula karena...",
+    "opsi": [
+      "Tidak butuh modal stok (Zero Inventory)",
+      "Barang pasti laku keras",
+      "Tidak perlu promosi",
+      "Harganya paling mahal",
+      "Bisa dilakukan di luar angkasa"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Meminimalisir risiko kerugian modal akibat barang tidak laku."
+  },
+  {
+    "id": "BD_EC_37",
+    "pertanyaan": "Kualitas foto produk e-commerce sebaiknya...",
+    "opsi": [
+      "Gelap dan miring",
+      "Jelas, pencahayaan baik, dan menampilkan sudut pandang yang lengkap",
+      "Mengambil gambar milik orang lain secara ilegal",
+      "Diberi watermark sangat besar menutupi barang",
+      "Warna diedit sangat berbeda dengan aslinya"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Foto produk adalah pengganti 'melihat langsung' bagi pembeli online."
+  },
+  {
+    "id": "BD_EC_38",
+    "pertanyaan": "Apa itu 'Abandoned Cart'?",
+    "opsi": [
+      "Keranjang belanja yang sudah dibayar",
+      "Gudang yang terbakar",
+      "Barang yang dimasukkan ke keranjang tapi tidak lanjut ke pembayaran",
+      "Truk pengantar yang Mogok",
+      "Dompet yang hilang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Penjual biasanya mengirimkan 'reminder' agar pembeli segera menyelesaikan pesanan tersebut."
+  },
+  {
+    "id": "BD_EC_39",
+    "pertanyaan": "Strategi penentuan harga yang berubah-ubah secara real-time (seperti harga tiket pesawat/hotel) disebut...",
+    "opsi": [
+      "Harga Pas",
+      "Flat Price",
+      "Obral",
+      "Dynamic Pricing",
+      "Barter"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Dipengaruhi oleh permintaan (demand) dan ketersediaan (supply) saat itu juga."
+  },
+  {
+    "id": "BD_EC_40",
+    "pertanyaan": "Salah satu kelebihan belanja di marketplace luar negeri adalah...",
+    "opsi": [
+      "Barang sampai dalam 1 jam",
+      "Bebas pajak selamanya",
+      "Bisa bayar pakai daun",
+      "Gratis tanpa syarat",
+      "Mendapatkan produk yang tidak tersedia di dalam negeri"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Memungkinkan akses ke brand internasional secara langsung."
+  },
+  {
+    "id": "BD_EC_41",
+    "pertanyaan": "Keuntungan jualan di marketplace bagi penjual baru adalah...",
+    "opsi": [
+      "Sudah ada traffic (pengunjung) yang disediakan oleh platform",
+      "Tidak ada kompetitor sama sekali",
+      "Tidak perlu bayar admin",
+      "Semua barang pasti laku tanpa promosi",
+      " Marketplace akan membayarkan modal usaha kita"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Toko kecil bisa nebeng popularitas platform besar."
+  },
+  {
+    "id": "BD_EC_42",
+    "pertanyaan": "Marketplace yang berfokus pada barang-barang kerajinan tangan (handmade) unik di dunia adalah...",
+    "opsi": [
+      "Amazon",
+      "Etsy",
+      "eBay",
+      "Lazada",
+      "Shopee"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Etsy menjadi pasar spesifik (niche market) bagi para seniman dan pengrajin."
+  },
+  {
+    "id": "BD_EC_43",
+    "pertanyaan": "Digital Branding dalam e-commerce bertujuan untuk...",
+    "opsi": [
+      "Menghapus jejak kompetitor",
+      "Menaikkan pajak negara",
+      "Membangun karakteristik dan nilai eksklusif suatu merek di dunia digital",
+      "Memperlambat pengiriman",
+      "Membayar gaji kurir"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Branding kuat membuat konsumen bersedia membayar lebih mahal (premium price)."
+  },
+  {
+    "id": "BD_EC_44",
+    "pertanyaan": "Pesan yang muncul di layar HP untuk menawarkan promo belanja disebut...",
+    "opsi": [
+      "Sinyal Radio",
+      "Surat Tertutup",
+      "Panggilan Tak Terjawab",
+      "Push Notification",
+      "Update BIOS"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Push notification sangat efektif untuk mengingatkan pengguna akan adanya event promosi."
+  },
+  {
+    "id": "BD_EC_45",
+    "pertanyaan": "Model pengiriman 'Next Day Delivery' menjanjikan...",
+    "opsi": [
+      "Barang sampai di hari yang sama",
+      "Barang sampai setelah sebulan",
+      "Barang hilang di jalan",
+      "Barang tidak pernah sampai",
+      "Barang sampai keesokan harinya"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Layanan kilat meningkatkan daya saing toko online."
+  },
+  {
+    "id": "BD_EC_46",
+    "pertanyaan": "Apa fungsi 'Wishlist' di marketplace?",
+    "opsi": [
+      "Menandai barang yang diinginkan untuk dibeli di masa depan",
+      "Menghapus barang dari daftar belas",
+      "Membongkar rahasia harga penjual",
+      "Berbagi lokasi rumah",
+      "Menghitung saldo bank"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Widget ini mempermudah pembeli memantau perubahan harga barang incaran."
+  },
+  {
+    "id": "BD_EC_47",
+    "pertanyaan": "Packaging (Pengemasan) yang rapi dan aman penting agar...",
+    "opsi": [
+      "Supaya kurir merasa berat",
+      "Melindungi isi paket dari kerusakan selama pengiriman",
+      "Hanya memboroskan lakban",
+      "Membuat label tidak terbaca",
+      "Menambah biaya produksi tanpa fungsi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Packaging adalah kesan fisik pertama pembeli saat menerima order."
+  },
+  {
+    "id": "BD_EC_48",
+    "pertanyaan": "Membangun kepercayaan pelanggan dapat dilakukan dengan memberikan...",
+    "opsi": [
+      "Alamat palsu",
+      "Barang yang berbeda dengan foto",
+      "Garansi produk (Return/Refund Policy)",
+      "Chat otomatis yang tidak nyambung",
+      "Harga yang berubah-ubah setelah bayar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Jaminan uang kembali membuat pembeli merasa aman bertransaksi."
+  },
+  {
+    "id": "BD_EC_49",
+    "pertanyaan": "Fitur 'Search' pada platform e-commerce membantu pembeli untuk...",
+    "opsi": [
+      "Menghapus data akun",
+      "Menghubungi polisi",
+      "Main petak umpet digital",
+      "Menemukan produk berdasarkan kata kunci spesifik",
+      "Mencari diskon yang tersembunyi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Optimasi kata kunci produk (Keyword) sangat membantu agar barang mudah ditemukan."
+  },
+  {
+    "id": "BD_EC_50",
+    "pertanyaan": "Layanan 'Pay Later' pada e-commerce adalah model...",
+    "opsi": [
+      "Tabungan berjangka",
+      "Infaq untuk fakir miskin",
+      "Asuransi jiwa",
+      "Investasi saham",
+      "Belanja sekarang bayar nanti (cicilan tanpa kartu kredit)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Paylater memudahkan konsumen membeli barang mendesak meskipun belum memiliki dana cair."
+  }
+]

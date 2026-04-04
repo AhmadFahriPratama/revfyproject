@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Bahasa Korea",
+  "tingkatan": "SMK",
+  "jurusan": "Pariwisata / Pilihan",
+  "deskripsi": "Materi persiapan TKA Bahasa Korea untuk siswa SMK yang berfokus pada huruf Hangeul, tata bahasa dasar (TOPIK I), dan percakapan untuk industri kreatif/pariwisata.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Huruf Hangeul (Vokal dan Konsonan)",
+      "konten": "Mengenal 10 vokal dasar, 11 vokal rangkap, 14 konsonan dasar, 5 konsonan rangkap, serta aturan 'Batchim' (konsonan akhir).",
+      "tag": [
+        "tka smk korea materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Salam (Insa) dan Tata Krama",
+      "konten": "Salam sehari-hari (Annyeong haseyo, Kamsahamnida), tingkatan bahasa (Banmal vs Jondaetmal), perkenalan diri (Jagi Soge), serta angka (Sino-Korea & Korea Asli).",
+      "tag": [
+        "tka smk korea materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Partikel dan Kalimat Dasar",
+      "konten": "Penggunaan partikel subjek (~i/ga), partikel topik (~un/nun), partikel objek (~ul/rul), serta akhiran kalimat formal (~imnida, ~imnikka) dan informal sopan (~ayo/oyo).",
+      "tag": [
+        "tka smk korea materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Kata Kerja dan Kata Sifat",
+      "konten": "Perubahan bentuk kata kerja (Mashida, Mogda), penunjuk tempat (~e, ~eso), penunjuk arah, serta kosakata belanja dan makanan (Pariwisata).",
+      "tag": [
+        "tka smk korea materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Industri Kreatif dan Kehidupan di Korea",
+      "konten": "Kosakata seputar media/IT, etika makan di Korea, sistem transportasi umum, serta peluang kerja bagi lulusan SMK di Korea Selatan (Program G to G).",
+      "tag": [
+        "tka smk korea materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-korea-materi",
+  "mapel": "TKA SMK: Bahasa Korea",
+  "tag": [
+    "tka smk korea materi"
+  ]
+}

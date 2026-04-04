@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMA_INF_01",
+    "pertanyaan": "Metode memecah masalah besar menjadi bagian-bagian kecil yang lebih mudah dikelola disebut...",
+    "opsi": [
+      "Dekomposisi",
+      "Abstraksi",
+      "Pengenalan Pola",
+      "Algoritma",
+      "Koding"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Dekomposisi adalah teknik dasar computational thinking agar masalah kompleks bisa diselesaikan per bagian."
+  },
+  {
+    "id": "SMA_INF_02",
+    "pertanyaan": "Otak dari sebuah komputer yang berfungsi mengeksekusi instruksi adalah...",
+    "opsi": [
+      "RAM",
+      "CPU (Processor)",
+      "Harddisk",
+      "Motherboard",
+      "Power Supply"
+    ],
+    "jawaban": 1,
+    "pembahasan": "CPU melakukan pemrosesan data dan logika dasar dalam sistem komputer."
+  },
+  {
+    "id": "SMA_INF_03",
+    "pertanyaan": "Jenis memori komputer yang bersifat volatile (data hilang saat listrik mati) adalah...",
+    "opsi": [
+      "SSD",
+      "Flashdisk",
+      "RAM",
+      "ROM",
+      "Harddisk"
+    ],
+    "jawaban": 2,
+    "pembahasan": "RAM menyimpan data sementara untuk aplikasi yang sedang berjalan."
+  },
+  {
+    "id": "SMA_INF_04",
+    "pertanyaan": "Protokol standar yang digunakan untuk berkomunikasi di jaringan internet adalah...",
+    "opsi": [
+      "HTML",
+      "JPEG",
+      "MP3",
+      "TCP/IP",
+      "WiFi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "TCP/IP adalah sekumpulan protokol yang mengatur pengiriman data antar paket di internet."
+  },
+  {
+    "id": "SMA_INF_05",
+    "pertanyaan": "Penyimpanan data yang bisa diakses dari mana saja melalui internet disebut...",
+    "opsi": [
+      "Local Drive",
+      "External Disk",
+      "Floppy Disk",
+      "BIOS",
+      "Cloud Storage"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh cloud storage: Google Drive, Dropbox, iCloud."
+  },
+  {
+    "id": "SMA_INF_06",
+    "pertanyaan": "Visualisasi data dalam bentuk grafik bertujuan untuk...",
+    "opsi": [
+      "Memudahkan pola data dipahami oleh manusia",
+      "Menambah ukuran file",
+      "Memperindah tampilan saja",
+      "Menyembunyikan data asli",
+      "Memperlambat loading komputer"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Grafik membantu otak manusia melihat tren dan anomali dengan lebih cepat daripada tabel angka."
+  },
+  {
+    "id": "SMA_INF_07",
+    "pertanyaan": "Urutan langkah-langkah logis untuk menyelesaikan masalah disebut...",
+    "opsi": [
+      "Flowchart",
+      "Algoritma",
+      "Variabel",
+      "Syntax",
+      "Database"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Algoritma harus jelas, berurutan, dan memiliki akhir (finite)."
+  },
+  {
+    "id": "SMA_INF_08",
+    "pertanyaan": "Simbol belah ketupat pada flowchart digunakan untuk merepresentasikan...",
+    "opsi": [
+      "Awal/Akhir (Start/Stop)",
+      "Proses",
+      "Keputusan (Decision/Percabangan)",
+      "Input/Output",
+      "Penghubung"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Keputusan biasanya memiliki dua hasil: Ya atau Tidak."
+  },
+  {
+    "id": "SMA_INF_09",
+    "pertanyaan": "Tipe data yang digunakan untuk menyimpan nilai benar (true) atau salah (false) adalah...",
+    "opsi": [
+      "Integer",
+      "String",
+      "Float",
+      "Boolean",
+      "Char"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Boolean sangat berguna untuk kondisi logika if-else."
+  },
+  {
+    "id": "SMA_INF_10",
+    "pertanyaan": "Pencurian data pribadi di internet yang dilakukan dengan menyamar sebagai pihak tepercaya disebut...",
+    "opsi": [
+      "Browsing",
+      "Chatting",
+      "Streaming",
+      "Downloading",
+      "Phishing"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Phishing sering dilakukan melalui email atau link palsu yang mirip aslinya."
+  },
+  {
+    "id": "SMA_INF_11",
+    "pertanyaan": "Keunggulan utama penggunaan fiber optik dibandingkan tembaga dalam jaringan adalah...",
+    "opsi": [
+      "Kecepatan transfer data jauh lebih tinggi dan tahan gangguan elektrik",
+      "Harga lebih murah",
+      "Lebih mudah dipasang",
+      "Dapat ditekuk tajam",
+      "Tidak perlu arus listrik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Serat optik menggunakan cahaya untuk mengirimkan data."
+  },
+  {
+    "id": "SMA_INF_12",
+    "pertanyaan": "Sistem bilangan yang menjadi dasar kerja sirkuit digital komputer adalah...",
+    "opsi": [
+      "Desimal (basis 10)",
+      "Biner (basis 2)",
+      "Oktal (basis 8)",
+      "Heksadesimal (basis 16)",
+      "Alfabet"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biner hanya mengenal dua keadaan: 0 (Mati) dan 1 (Nyala)."
+  },
+  {
+    "id": "SMA_INF_13",
+    "pertanyaan": "Jika nilai 10 (desimal) dikonversi ke biner, hasilnya adalah...",
+    "opsi": [
+      "1100",
+      "1111",
+      "1010",
+      "1001",
+      "0101"
+    ],
+    "jawaban": 2,
+    "pembahasan": "10 / 2 = 5 sisa 0; 5 / 2 = 2 sisa 1; 2 / 2 = 1 sisa 0; 1 / 2 = 0 sisa 1. Baca terbalik: 1010."
+  },
+  {
+    "id": "SMA_INF_14",
+    "pertanyaan": "Software yang mengelola sumber daya hardware dan menjadi platform untuk aplikasi lain disebut...",
+    "opsi": [
+      "Web Browser",
+      "Media Player",
+      "Antivirus",
+      "Operating System (Sistem Operasi)",
+      "Games"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh sistem operasi: Windows, Linux, macOS, Android."
+  },
+  {
+    "id": "SMA_INF_15",
+    "pertanyaan": "Perintah untuk menampilkan teks ke layar dalam bahasa Python adalah...",
+    "opsi": [
+      "echo",
+      "system.out.println",
+      "cout",
+      "show",
+      "print()"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: print('Hello World'). Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"print()\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_INF_16",
+    "pertanyaan": "AI (Artificial Intelligence) dalam kategori 'Machine Learning' belajar dari...",
+    "opsi": [
+      "Data (Dataset)",
+      "Mimpi",
+      "Insting",
+      "Keberuntungan",
+      "Buku Manual"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kualitas AI sangat bergantung pada jumlah dan kualitas data pelatihannya."
+  },
+  {
+    "id": "SMA_INF_17",
+    "pertanyaan": "Format file gambar yang mempertahankan transparansi latar belakang adalah...",
+    "opsi": [
+      "JPG",
+      "PNG",
+      "BMP",
+      "TIFF",
+      "GIF"
+    ],
+    "jawaban": 1,
+    "pembahasan": "PNG sering digunakan untuk logo agar bisa dipasang di berbagai latar belakang."
+  },
+  {
+    "id": "SMA_INF_18",
+    "pertanyaan": "Topologi jaringan di mana semua komputer terhubung ke satu pusat (hub/switch) disebut...",
+    "opsi": [
+      "Bus",
+      "Ring",
+      "Star (Bintang)",
+      "Mesh",
+      "Tree"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Topologi Star paling umum karena jika satu kabel putus, komputer lain tidak terganggu."
+  },
+  {
+    "id": "SMA_INF_19",
+    "pertanyaan": "Istilah 'Badwidth' dalam internet merujuk pada...",
+    "opsi": [
+      "Lebar kabel",
+      "Warna sinyal WiFi",
+      "Berat file komputer",
+      "Kapasitas atau kecepatan transfer data maksimal dalam waktu tertentu",
+      "Jumlah tombol keyboard"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Semakin besar bandwidth, semakin banyak data yang bisa lewat per detik."
+  },
+  {
+    "id": "SMA_INF_20",
+    "pertanyaan": "Apa kepanjangan dari URL?",
+    "opsi": [
+      "Universal Remote Link",
+      "United Radio Line",
+      "User Registry List",
+      "Unique Router Label",
+      "Uniform Resource Locator"
+    ],
+    "jawaban": 4,
+    "pembahasan": "URL adalah alamat unik untuk mengakses sumber daya di web."
+  },
+  {
+    "id": "SMA_INF_21",
+    "pertanyaan": "Mengambil inti masalah dan membuang detail yang tidak penting disebut...",
+    "opsi": [
+      "Abstraksi",
+      "Asosiasi",
+      "Manipulasi",
+      "Dokumentasi",
+      "Visualisasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Abstraksi menyederhanakan masalah agar fokus pada solusi utama."
+  },
+  {
+    "id": "SMA_INF_22",
+    "pertanyaan": "Struktur kontrol yang digunakan untuk menjalankan perintah secara berulang selama kondisi terpenuhi disebut...",
+    "opsi": [
+      "Branching (Percabangan)",
+      "Looping (Perulangan)",
+      "Method",
+      "Class",
+      "Array"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh looping: for, while. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Looping (Perulangan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_INF_23",
+    "pertanyaan": "Dalam analisis data, 'Cleaning' artinya...",
+    "opsi": [
+      "Menyiram komputer dengan air",
+      "Menjual data ke pihak lain",
+      "Menghapus data yang salah atau tidak konsisten",
+      "Mengganti harddisk",
+      "Mengunci file"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Data yang kotor akan menghasilkan analisis yang menyesatkan."
+  },
+  {
+    "id": "SMA_INF_24",
+    "pertanyaan": "Apa kepanjangan dari HTTP?",
+    "opsi": [
+      "High Text Transfer Protocol",
+      "Home Tool Technical Page",
+      "Hardware Transfer Timing Program",
+      "Hypertext Transfer Protocol",
+      "Helper Team Tech Pro"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Protokol utama perpindahan data di World Wide Web."
+  },
+  {
+    "id": "SMA_INF_25",
+    "pertanyaan": "Software yang kode sumbernya (source code) bebas dilihat dan dimodifikasi oleh siapa saja disebut...",
+    "opsi": [
+      "Freeware",
+      "Shareware",
+      "Proprietary",
+      "Malware",
+      "Open Source"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh open source: Linux, Android, WordPress."
+  },
+  {
+    "id": "SMA_INF_26",
+    "pertanyaan": "Untuk mencari data tertentu di internet, kita menggunakan...",
+    "opsi": [
+      "Search Engine",
+      "Browser",
+      "Compiler",
+      "Router",
+      "Server"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Search engine (seperti Google/Bing) melakukan indeksasi triliunan halaman web."
+  },
+  {
+    "id": "SMA_INF_27",
+    "pertanyaan": "Alamat IP (Internet Protocol) versi 4 terdiri dari berapa segmen angka?",
+    "opsi": [
+      "2",
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh IPv4: 192.168.1.1 (4 segmen dipisahkan titik)."
+  },
+  {
+    "id": "SMA_INF_28",
+    "pertanyaan": "Teknologi yang memungkinkan benda mati terhubung ke internet untuk bertukar data disebut...",
+    "opsi": [
+      "Virtual Reality",
+      "Augmented Reality",
+      "Internet of Things (IoT)",
+      "Blockchain",
+      "Cloud Computing"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh IoT: lampu rumah yang bisa dikendalikan lewat HP dari jauh."
+  },
+  {
+    "id": "SMA_INF_29",
+    "pertanyaan": "Bahasa pemrograman yang paling sering digunakan untuk pengolahan data dan AI saat ini adalah...",
+    "opsi": [
+      "Java",
+      "PHP",
+      "Pascal",
+      "Python",
+      "Basic"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Python kaya akan library matematika dan statistika seperti NumPy dan Pandas."
+  },
+  {
+    "id": "SMA_INF_30",
+    "pertanyaan": "Cyberbullying adalah perilaku negatif di dunia maya yang berupa...",
+    "opsi": [
+      "Membagikan info bermanfaat",
+      "Berjualan pulsa",
+      "Bermain game bersama",
+      "Membuat konten edukasi",
+      "Menghina atau mengintimidasi orang lain secara online"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Cyberbullying bisa berdampak serius pada kesehatan mental korban."
+  },
+  {
+    "id": "SMA_INF_31",
+    "pertanyaan": "Komponen yang menghubungkan komputer ke jaringan melalui kabel LAN disebut...",
+    "opsi": [
+      "NIC (Network Interface Card)",
+      "VGA Card",
+      "Sound Card",
+      "Webcam",
+      "Monitor"
+    ],
+    "jawaban": 0,
+    "pembahasan": "NIC memiliki port RJ-45 untuk memasukkan kabel LAN."
+  },
+  {
+    "id": "SMA_INF_32",
+    "pertanyaan": "Apa fungsi utama dari Firewall?",
+    "opsi": [
+      "Mendinginkan komputer",
+      "Melindungi jaringan dari akses yang tidak sah",
+      "Memperberat koneksi",
+      "Menyimpan password",
+      "Menghapus virus secara otomatis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Firewall menyaring trafik data yang masuk dan keluar berdasarkan aturan keamanan."
+  },
+  {
+    "id": "SMA_INF_33",
+    "pertanyaan": "Database yang datanya disusun dalam bentuk tabel yang saling berhubungan disebut...",
+    "opsi": [
+      "Flat Database",
+      "NoSQL",
+      "Relational Database (RDBMS)",
+      "Cloud DB",
+      "CSV"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh RDBMS: MySQL, PostgreSQL, Oracle."
+  },
+  {
+    "id": "SMA_INF_34",
+    "pertanyaan": "Software jahat yang mengunci data user dan meminta tebusan uang disebut...",
+    "opsi": [
+      "Spyware",
+      "Adware",
+      "Trojan",
+      "Ransomware",
+      "Worm"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ransomware seringkali sulit ditangani tanpa backup data yang rutin."
+  },
+  {
+    "id": "SMA_INF_35",
+    "pertanyaan": "Satuan kecepatan prosesor adalah...",
+    "opsi": [
+      "Byte",
+      "Pixel",
+      "Watt",
+      "Volt",
+      "Hertz (Hz)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Processor modern biasanya berkecepatan Gigahertz (GHz)."
+  },
+  {
+    "id": "SMA_INF_36",
+    "pertanyaan": "Singkatan dari WiFi adalah...",
+    "opsi": [
+      "Wireless Fidelity",
+      "Wide Fiber",
+      "Winter Find",
+      "Wave Filter",
+      "Wired Find"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Teknologi jaringan tanpa kabel menggunakan gelombang radio."
+  },
+  {
+    "id": "SMA_INF_37",
+    "pertanyaan": "Istilah 'Debugger' dalam pemrograman digunakan untuk...",
+    "opsi": [
+      "Membuat virus",
+      "Mencari dan memperbaiki kesalahan (bug) dalam kode",
+      "Menghapus software",
+      "Membeli laptop",
+      "Mendesain logo"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Proses debugging sangat krusial agar program berjalan sesuai harapan."
+  },
+  {
+    "id": "SMA_INF_38",
+    "pertanyaan": "Tempat menyimpan sekumpulan file web agar bisa diakses orang lain di internet disebut...",
+    "opsi": [
+      "Browsing",
+      "Domain",
+      "Hosting",
+      "Email",
+      "Download"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hosting pada dasarnya adalah menyewa ruang di komputer server yang selalu nyala."
+  },
+  {
+    "id": "SMA_INF_39",
+    "pertanyaan": "Bahasa yang dimengerti oleh browser untuk menyusun struktur halaman web adalah...",
+    "opsi": [
+      "C++",
+      "Python",
+      "Assembly",
+      "HTML (HyperText Markup Language)",
+      "SQL"
+    ],
+    "jawaban": 3,
+    "pembahasan": "HTML bukan bahasa pemrograman, melainkan bahasa markup."
+  },
+  {
+    "id": "SMA_INF_40",
+    "pertanyaan": "Untuk mempercantik tampilan elemen pada halaman HTML, kita menggunakan...",
+    "opsi": [
+      "JavaScript",
+      "PHP",
+      "Java",
+      "C#",
+      "CSS (Cascading Style Sheets)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "CSS mengatur warna, font, layout, dan animasi."
+  },
+  {
+    "id": "SMA_INF_41",
+    "pertanyaan": "Apa kelemahan utama penggunaan teknologi Bluetooth?",
+    "opsi": [
+      "Jarak jangkauannya sangat terbatas (hanya beberapa meter)",
+      "Kabelnya berantakan",
+      "Tidak bisa kirim suara",
+      "Hanya ada di HP mahal",
+      "Merusak baterai"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bluetooth didesain untuk Personal Area Network (PAN) jarak dekat."
+  },
+  {
+    "id": "SMA_INF_42",
+    "pertanyaan": "Media penyimpanan permanen yang tidak memiliki bagian bergerak (lebih cepat dari HDD) adalah...",
+    "opsi": [
+      "Magnetic Tape",
+      "SSD (Solid State Drive)",
+      "Floppy Disk",
+      "CD-ROM",
+      "Piringan Hitam"
+    ],
+    "jawaban": 1,
+    "pembahasan": "SSD menggunakan memori flash untuk kecepatan akses data instan."
+  },
+  {
+    "id": "SMA_INF_43",
+    "pertanyaan": "UU yang mengatur tentang aktivitas di dunia digital di Indonesia adalah...",
+    "opsi": [
+      "UU Sisdiknas",
+      "UU Agraria",
+      "UU ITE",
+      "UU Ketenagakerjaan",
+      "UU Kesehatan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Undang-Undang Informasi dan Transaksi Elektronik."
+  },
+  {
+    "id": "SMA_INF_44",
+    "pertanyaan": "Etika di internet sering disebut dengan istilah...",
+    "opsi": [
+      "Netizen",
+      "Network",
+      "Netflix",
+      "Netiquette",
+      "Netbook"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Singkatan dari Network Etiquette. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Netiquette\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_INF_45",
+    "pertanyaan": "Layanan internet yang bertugas mengubah nama domain (misal google.com) menjadi alamat IP adalah...",
+    "opsi": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "TCP",
+      "DNS (Domain Name System)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tanpa DNS, kita harus menghafal angka-angka IP untuk buka website."
+  },
+  {
+    "id": "SMA_INF_46",
+    "pertanyaan": "Dalam excel/spreadsheet, rumus SUM digunakan untuk...",
+    "opsi": [
+      "Menjumlahkan sekumpulan angka",
+      "Mengurangi",
+      "Mengalikan",
+      "Mencari rata-rata",
+      "Mencari nilai tertinggi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "SUM adalah fungsi dasar statistika. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Menjumlahkan sekumpulan angka\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_INF_47",
+    "pertanyaan": "Perangkat yang mengubah sinyal digital komputer menjadi sinyal analog untuk dikirim lewat kabel telepon/kabel TV adalah...",
+    "opsi": [
+      "Monitor",
+      "Modem",
+      "Printer",
+      "Scanner",
+      "Speaker"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Modem kepanjangan dari Modulator-Demodulator."
+  },
+  {
+    "id": "SMA_INF_48",
+    "pertanyaan": "Ciri khas kecerdasan buatan 'Generative AI' (seperti ChatGPT) adalah...",
+    "opsi": [
+      "Hanya bisa menghitung",
+      "Bekerja seperti mesin ketik",
+      "Mampu menciptakan konten baru (teks, gambar, dll) berdasarkan perintah",
+      "Tidak perlu internet",
+      "Hanya menghapus file"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Generative AI menggunakan model bahasa besar (LLM)."
+  },
+  {
+    "id": "SMA_INF_49",
+    "pertanyaan": "Apa kepanjangan dari RAM?",
+    "opsi": [
+      "Read Access Memory",
+      "Run Accurate Module",
+      "Real Audio Media",
+      "Random Access Memory",
+      "Rapid Action Memory"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Random berarti data bisa diakses di alamat mana saja tanpa harus berurutan."
+  },
+  {
+    "id": "SMA_INF_50",
+    "pertanyaan": "Teknologi yang menggabungkan dunia nyata dengan elemen digital secara real-time (contoh: game Pokemon Go) disebut...",
+    "opsi": [
+      "Virtual Reality (VR)",
+      "Fake Reality",
+      "Total Reality",
+      "Mirror Reality",
+      "Augmented Reality (AR)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "AR 'menempelkan' objek digital di atas pandangan dunia fisik."
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "export-profile-index",
+  "profiles": [
+    "frontend_light",
+    "frontend_full",
+    "analytics_ready",
+    "integration_ready"
+  ]
+}

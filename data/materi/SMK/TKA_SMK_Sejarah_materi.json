@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Sejarah",
+  "tingkatan": "SMK",
+  "jurusan": "Pilihan / Soshum",
+  "description": "Materi persiapan TKA Sejarah untuk siswa SMK yang berfokus pada sejarah Indonesia dari masa pra-aksara, kerajaan Hindu-Buddha, Islam, hingga masa kemerdekaan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Indonesia di Masa Pra-Aksara",
+      "konten": "Asal-usul nenek moyang bangsa Indonesia, kebudayaan batu (Palaeolitikum, Mesolitikum, Neolitikum), kebudayaan perunggu (Dong Son), serta pola hunian awal.",
+      "tag": [
+        "tka smk sejarah materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Kerajaan Hindu-Buddha dan Islam",
+      "konten": "Masuknya pengaruh India dan Timur Tengah, kerajaan maritim (Sriwijaya, Majapahit), kerajaan Islam (Samudera Pasai, Mataram Islam), serta peninggalan budayanya.",
+      "tag": [
+        "tka smk sejarah materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Kolonialisme dan Kebangkitan Nasional",
+      "konten": "Penjajahan bangsa Eropa (VOC, Hindia Belanda), kebijakan Tanam Paksa, politik Etis, serta lahirnya organisasi pergerakan nasional (Budi Utomo, Sarekat Islam).",
+      "tag": [
+        "tka smk sejarah materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Masa Pendudukan Jepang dan Proklamasi",
+      "konten": "Dampak pendudukan Jepang, pembentukan BPUPKI dan PPKI, detik-detik Proklamasi 17 Agustus 1945, serta makna Proklamasi bagi bangsa Indonesia.",
+      "tag": [
+        "tka smk sejarah materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Indonesia Pasca Kemerdekaan",
+      "konten": "Masa Revolusi Fisik, Demokrasi Liberal, Demokrasi Terpimpin, Orde Baru, hingga Masa Reformasi 1998 dan tantangan di abad ke-21.",
+      "tag": [
+        "tka smk sejarah materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-sejarah-materi",
+  "mapel": "TKA SMK: Sejarah",
+  "tag": [
+    "tka smk sejarah materi"
+  ]
+}

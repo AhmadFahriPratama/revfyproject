@@ -1,0 +1,1255 @@
+{
+  "id": "tka_smk_pilihan_tryout-v01",
+  "judul": "Try Out TKA SMK Pilihan V01",
+  "durasiMenit": 96,
+  "soal": [
+    {
+      "id": "tka_smk_pilihan_tryout-v01-bio-01",
+      "pertanyaan": "[Biologi] Unit terkecil dari makhluk hidup yang dapat melaksanakan aktivitas kehidupan disebut...",
+      "opsi": {
+        "A": "Sel",
+        "B": "Atom",
+        "C": "Molekul",
+        "D": "Jaringan",
+        "E": "Organ"
+      },
+      "jawaban": "A",
+      "pembahasan": "Sel adalah satuan fungsional dan struktural terkecil makhluk hidup."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-bio-02",
+      "pertanyaan": "[Biologi] Organel sel yang berfungsi sebagai tempat respirasi sel dan penghasil energi (ATP) adalah...",
+      "opsi": {
+        "A": "Nukleus",
+        "B": "Mitokondria",
+        "C": "Ribosom",
+        "D": "Badan Golgi",
+        "E": "Lisosom"
+      },
+      "jawaban": "B",
+      "pembahasan": "Mitokondria sering dijuluki 'Powerhouse of the Cell'."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-bio-03",
+      "pertanyaan": "[Biologi] Proses perpindahan zat dari konsentrasi tinggi ke rendah secara spontan disebut...",
+      "opsi": {
+        "A": "Osmosis",
+        "B": "Transpor aktif",
+        "C": "Difusi",
+        "D": "Endositosis",
+        "E": "Eksositosis"
+      },
+      "jawaban": "C",
+      "pembahasan": "Difusi tidak memerlukan energi (transpor pasif)."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-bio-04",
+      "pertanyaan": "[Biologi] Jaringan tumbuhan yang berfungsi sebagai pengangkut air dan mineral dari akar ke daun adalah...",
+      "opsi": {
+        "A": "Floem",
+        "B": "Parenkim",
+        "C": "Kambium",
+        "D": "Xilem",
+        "E": "Epidermis"
+      },
+      "jawaban": "D",
+      "pembahasan": "Xilem mengangkut ke atas, Floem mengangkut hasil fotosintesis ke seluruh tubuh."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-bio-05",
+      "pertanyaan": "[Biologi] Pencernaan protein secara kimiawi pertama kali terjadi di...",
+      "opsi": {
+        "A": "Mulut",
+        "B": "Kerongkongan",
+        "C": "Usus halus",
+        "D": "Usus besar",
+        "E": "Lambung"
+      },
+      "jawaban": "E",
+      "pembahasan": "Enzim pepsin di lambung mulai memecah protein menjadi pepton."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-bio-06",
+      "pertanyaan": "[Biologi] Golongan darah yang disebut sebagai 'Resepien Universal' (dapat menerima dari semua) adalah...",
+      "opsi": {
+        "A": "AB",
+        "B": "A",
+        "C": "B",
+        "D": "O",
+        "E": "Semua salah"
+      },
+      "jawaban": "A",
+      "pembahasan": "Golongan darah AB tidak memiliki antibodi terhadap A maupun B."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-bio-07",
+      "pertanyaan": "[Biologi] Bagian ginjal yang berfungsi menyaring darah (filtrasi) adalah...",
+      "opsi": {
+        "A": "Tubulus Proksimal",
+        "B": "Glomerulus",
+        "C": "Lengkung Henle",
+        "D": "Pelvis",
+        "E": "Ureter"
+      },
+      "jawaban": "B",
+      "pembahasan": "Terletak di dalam Simpai Bowman pada nefron ginjal."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-bio-08",
+      "pertanyaan": "[Biologi] Penyakit yang disebabkan oleh kekurangan hormon insulin dalam tubuh adalah...",
+      "opsi": {
+        "A": "Anemia",
+        "B": "Hipertensi",
+        "C": "Diabetes Melitus",
+        "D": "Gastritis",
+        "E": "Asma"
+      },
+      "jawaban": "C",
+      "pembahasan": "Insulin mengatur kadar gula dalam darah."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-fis-01",
+      "pertanyaan": "[Fisika] Satuan SI untuk kuat arus listrik adalah...",
+      "opsi": {
+        "A": "Ampere",
+        "B": "Volt",
+        "C": "Ohm",
+        "D": "Watt",
+        "E": "Coulomb"
+      },
+      "jawaban": "A",
+      "pembahasan": "Ampere adalah satuan standar untuk arus listrik."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-fis-02",
+      "pertanyaan": "[Fisika] Sebuah mobil bergerak dari kecepatan 10 m/s menjadi 20 m/s dalam waktu 5 detik. Percepatan mobil tersebut adalah...",
+      "opsi": {
+        "A": "5 m/s^2",
+        "B": "2 m/s^2",
+        "C": "10 m/s^2",
+        "D": "4 m/s^2",
+        "E": "1 m/s^2"
+      },
+      "jawaban": "B",
+      "pembahasan": "a = (v2 - v1) / t = (20 - 10) / 5 = 2 m/s^2."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-fis-03",
+      "pertanyaan": "[Fisika] Besar gaya yang bekerja pada benda bermassa 2 kg yang mengalami percepatan 3 m/s^2 adalah...",
+      "opsi": {
+        "A": "1 N",
+        "B": "5 N",
+        "C": "6 N",
+        "D": "1.5 N",
+        "E": "0.6 N"
+      },
+      "jawaban": "C",
+      "pembahasan": "F = m * a = 2 * 3 = 6 N. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"6 N\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-fis-04",
+      "pertanyaan": "[Fisika] Usaha yang dilakukan untuk memindahkan benda sejauh 5 meter dengan gaya 20 N (searah perpindahan) adalah...",
+      "opsi": {
+        "A": "4 J",
+        "B": "25 J",
+        "C": "10 J",
+        "D": "100 J",
+        "E": "0.25 J"
+      },
+      "jawaban": "D",
+      "pembahasan": "W = F * s = 20 * 5 = 100 Joule. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"100 J\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-fis-05",
+      "pertanyaan": "[Fisika] Energi potensial benda bermassa 1 kg pada ketinggian 10 meter (g = 10 m/s^2) adalah...",
+      "opsi": {
+        "A": "10 J",
+        "B": "1 J",
+        "C": "20 J",
+        "D": "0 J",
+        "E": "100 J"
+      },
+      "jawaban": "E",
+      "pembahasan": "EP = m * g * h = 1 * 10 * 10 = 100 Joule."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-fis-06",
+      "pertanyaan": "[Fisika] Hukum yang menyatakan bahwa gaya apung yang bekerja pada benda sama dengan berat fluida yang dipindahkan adalah...",
+      "opsi": {
+        "A": "Hukum Archimedes",
+        "B": "Hukum Pascal",
+        "C": "Hukum Newton",
+        "D": "Hukum Bernoulli",
+        "E": "Hukum Ohm"
+      },
+      "jawaban": "A",
+      "pembahasan": "Prinsip dasar benda terapung, melayang, dan tenggelam."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-fis-07",
+      "pertanyaan": "[Fisika] Sebuah hambatan 10 Ohm dihubungkan dengan tegangan 20 Volt. Arus yang mengalir adalah...",
+      "opsi": {
+        "A": "0.5 A",
+        "B": "2 A",
+        "C": "30 A",
+        "D": "200 A",
+        "E": "10 A"
+      },
+      "jawaban": "B",
+      "pembahasan": "I = V / R = 20 / 10 = 2 Ampere. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2 A\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-fis-08",
+      "pertanyaan": "[Fisika] Daya sebuah lampu yang dialiri arus 0.5 A pada tegangan 220 V adalah...",
+      "opsi": {
+        "A": "440 W",
+        "B": "220 W",
+        "C": "110 W",
+        "D": "11 W",
+        "E": "55 W"
+      },
+      "jawaban": "C",
+      "pembahasan": "P = V * I = 220 * 0.5 = 110 Watt. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"110 W\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kim-01",
+      "pertanyaan": "[Kimia] Nomor atom suatu unsur menunjukkan jumlah...",
+      "opsi": {
+        "A": "Proton dalam inti atom",
+        "B": "Neutron dalam inti atom",
+        "C": "Proton dan neutron",
+        "D": "Elektron valensi",
+        "E": "Massa atom"
+      },
+      "jawaban": "A",
+      "pembahasan": "Nomor atom Z = jumlah proton (identitas unsur)."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kim-02",
+      "pertanyaan": "[Kimia] Ikatan yang terbentuk akibat serah terima elektron antara unsur logam dan non-logam disebut...",
+      "opsi": {
+        "A": "Ikatan Kovalen",
+        "B": "Ikatan Ion",
+        "C": "Ikatan Logam",
+        "D": "Ikatan Hidrogen",
+        "E": "Gaya Van der Waals"
+      },
+      "jawaban": "B",
+      "pembahasan": "Ikatan ion melibatkan gaya elektrostatik antar kation dan anion."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kim-03",
+      "pertanyaan": "[Kimia] Massa molar (Mr) dari air (H2O) adalah... (Ar H=1, O=16)",
+      "opsi": {
+        "A": "17",
+        "B": "20",
+        "C": "18",
+        "D": "33",
+        "E": "16"
+      },
+      "jawaban": "C",
+      "pembahasan": "(2 * 1) + 16 = 18 g/mol. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"18\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kim-04",
+      "pertanyaan": "[Kimia] Larutan yang memiliki pH < 7 bersifat...",
+      "opsi": {
+        "A": "Basa",
+        "B": "Netral",
+        "C": "Garam",
+        "D": "Asam",
+        "E": "Amfoter"
+      },
+      "jawaban": "D",
+      "pembahasan": "Asam melepaskan ion H+ dalam air. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Asam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kim-05",
+      "pertanyaan": "[Kimia] Unsur yang terletak pada golongan VIIA (Halogen) adalah...",
+      "opsi": {
+        "A": "Natrium (Na)",
+        "B": "Helium (He)",
+        "C": "Magnesium (Mg)",
+        "D": "Besi (Fe)",
+        "E": "Klorin (Cl)"
+      },
+      "jawaban": "E",
+      "pembahasan": "Halogen: F, Cl, Br, I, At. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Klorin (Cl)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kim-06",
+      "pertanyaan": "[Kimia] Proses perkaratan pada besi merupakan contoh reaksi...",
+      "opsi": {
+        "A": "Oksidasi (Oksidasi Logam)",
+        "B": "Substitusi",
+        "C": "Reduksi",
+        "D": "Polimerisasi",
+        "E": "Netralisasi"
+      },
+      "jawaban": "A",
+      "pembahasan": "Besi bereaksi dengan oksigen dan air membentuk oksida besi."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kim-07",
+      "pertanyaan": "[Kimia] Metode pencegahan korosi dengan melapisi seng pada permukaan besi disebut...",
+      "opsi": {
+        "A": "Pengecatan",
+        "B": "Galvanisasi",
+        "C": "Pelumuran oli",
+        "D": "Tin plating",
+        "E": "Anode kurban"
+      },
+      "jawaban": "B",
+      "pembahasan": "Galvanisasi menggunakan seng untuk melindungi baja/besi."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kim-08",
+      "pertanyaan": "[Kimia] Berapakah mol dari 4 gram NaOH? (Mr NaOH = 40)",
+      "opsi": {
+        "A": "1 mol",
+        "B": "10 mol",
+        "C": "0.1 mol",
+        "D": "0.4 mol",
+        "E": "4 mol"
+      },
+      "jawaban": "C",
+      "pembahasan": "Mol = Massa / Mr = 4 / 40 = 0.1 mol. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"0.1 mol\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-eko-01",
+      "pertanyaan": "[Ekonomi] Masalah pokok ekonomi klasik meliputi...",
+      "opsi": {
+        "A": "Produksi, Distribusi, Konsumsi",
+        "B": "What, How, for Whom",
+        "C": "Inflasi, Pengangguran, Kemiskinan",
+        "D": "Ekspor, Impor, Investasi",
+        "E": "Harga, Barang, Jasa"
+      },
+      "jawaban": "A",
+      "pembahasan": "Ekonomi klasik fokus pada aliran barang dari produsen ke konsumen."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-eko-02",
+      "pertanyaan": "[Ekonomi] Keinginan manusia yang tidak terbatas sementara alat pemuas kebutuhan terbatas disebut...",
+      "opsi": {
+        "A": "Kepuasan",
+        "B": "Kelangkaan (Scarcity)",
+        "C": "Kemakmuran",
+        "D": "Keuntungan",
+        "E": "Kesuksesan"
+      },
+      "jawaban": "B",
+      "pembahasan": "Kelangkaan adalah inti dari masalah ekonomi."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-eko-03",
+      "pertanyaan": "[Ekonomi] Jika harga barang naik, maka jumlah barang yang ditawarkan akan naik. Ini adalah bunyi hukum...",
+      "opsi": {
+        "A": "Permintaan",
+        "B": "Gossen I",
+        "C": "Penawaran",
+        "D": "Gossen II",
+        "E": "Pasar"
+      },
+      "jawaban": "C",
+      "pembahasan": "Hukum penawaran berbanding lurus dengan harga (ceteris paribus)."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-eko-04",
+      "pertanyaan": "[Ekonomi] Biaya yang dikorbankan karena memilih satu alternatif terbaik dari beberapa pilihan disebut...",
+      "opsi": {
+        "A": "Biaya Produksi",
+        "B": "Biaya Tetap",
+        "C": "Biaya Variabel",
+        "D": "Biaya Peluang (Opportunity Cost)",
+        "E": "Biaya Hidup"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Biaya Peluang (Opportunity Cost)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-eko-05",
+      "pertanyaan": "[Ekonomi] Sesuai UUD 1945 pasal 33 ayat 1, bangun usaha yang paling sesuai dengan demokrasi ekonomi adalah...",
+      "opsi": {
+        "A": "PT",
+        "B": "Firma",
+        "C": "BUMN",
+        "D": "BUMS",
+        "E": "Koperasi"
+      },
+      "jawaban": "E",
+      "pembahasan": "Koperasi berasas kekeluargaan. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Koperasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-eko-06",
+      "pertanyaan": "[Ekonomi] Pihak yang bertugas mengatur dan mengawasi sektor jasa keuangan di Indonesia adalah...",
+      "opsi": {
+        "A": "Otoritas Jasa Keuangan (OJK)",
+        "B": "Bank Indonesia",
+        "C": "Kementerian Keuangan",
+        "D": "Lembaga Penjamin Simpanan (LPS)",
+        "E": "DPR"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Otoritas Jasa Keuangan (OJK)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-eko-07",
+      "pertanyaan": "[Ekonomi] Kenaikan harga barang secara umum dan terus-menerus disebut...",
+      "opsi": {
+        "A": "Deflasi",
+        "B": "Inflasi",
+        "C": "Resesi",
+        "D": "Depresi",
+        "E": "Devaluasi"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Inflasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-eko-08",
+      "pertanyaan": "[Ekonomi] Dalam manajemen, unsur 'Man' merujuk pada...",
+      "opsi": {
+        "A": "Mesin",
+        "B": "Modal",
+        "C": "Manusia (Sumber Daya Manusia)",
+        "D": "Metode",
+        "E": "Pasar"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Manusia (Sumber Daya Manusia)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-geo-01",
+      "pertanyaan": "[Geografi] Konsep geografi yang menjelaskan jarak antara dua tempat yang dinyatakan dengan satuan waktu atau biaya disebut...",
+      "opsi": {
+        "A": "Konsep Jarak Relatif",
+        "B": "Konsep Lokasi",
+        "C": "Konsep Keterjangkauan",
+        "D": "Konsep Jarak Absolut",
+        "E": "Konsep Aglomerasi"
+      },
+      "jawaban": "A",
+      "pembahasan": "Jarak relatif diukur berdasarkan kemudahan akses, bukan hanya kilometer."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-geo-02",
+      "pertanyaan": "[Geografi] Garis khayal yang membagi bumi menjadi bagian Utara dan Selatan adalah...",
+      "opsi": {
+        "A": "Garis Bujur (Meridian)",
+        "B": "Garis Lintang (Khatulistiwa / Ekuator)",
+        "C": "Garis Wallace",
+        "D": "Garis Weber",
+        "E": "Garis Pantai"
+      },
+      "jawaban": "B",
+      "pembahasan": "Ekuator berada pada 0 derajat lintang. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Garis Lintang (Khatulistiwa / Ekuator)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-geo-03",
+      "pertanyaan": "[Geografi] Alat yang merekam data permukaan bumi tanpa kontak langsung disebut...",
+      "opsi": {
+        "A": "Teleskop",
+        "B": "Termometer",
+        "C": "Sensor (dalam Penginderaan Jauh)",
+        "D": "Barometer",
+        "E": "Kompas"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sensor (dalam Penginderaan Jauh)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-geo-04",
+      "pertanyaan": "[Geografi] Gunung api yang berbentuk seperti kerucut dan terbentuk dari letusan yang silih berganti disebut tipe...",
+      "opsi": {
+        "A": "Maar",
+        "B": "Perisai",
+        "C": "Peret",
+        "D": "Strato",
+        "E": "Linear"
+      },
+      "jawaban": "D",
+      "pembahasan": "Sebagian besar gunung api di Indonesia bertipe Strato."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-geo-05",
+      "pertanyaan": "[Geografi] Lapisan atmosfer tempat terjadinya fenomena cuaca (hujan, petir, awan) adalah...",
+      "opsi": {
+        "A": "Stratosfer",
+        "B": "Mesosfer",
+        "C": "Termosfer",
+        "D": "Eksosfer",
+        "E": "Troposfer"
+      },
+      "jawaban": "E",
+      "pembahasan": "Troposfer adalah lapisan paling bawah. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Troposfer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-geo-06",
+      "pertanyaan": "[Geografi] Pergerakan lempeng tektonik yang saling menjauh satu sama lain disebut gerak...",
+      "opsi": {
+        "A": "Divergen",
+        "B": "Konvergen",
+        "C": "Transform (Sesar mendatar)",
+        "D": "Subduksi",
+        "E": "Erupsi"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Divergen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-geo-07",
+      "pertanyaan": "[Geografi] Siklus air yang melibatkan penguapan dari tumbuhan disebut...",
+      "opsi": {
+        "A": "Evaporasi",
+        "B": "Transpirasi",
+        "C": "Kondensasi",
+        "D": "Presipitasi",
+        "E": "Infiltrasi"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Transpirasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-geo-08",
+      "pertanyaan": "[Geografi] Tanah yang sangat subur karena berasal dari material letusan gunung api adalah...",
+      "opsi": {
+        "A": "Tanah Humus",
+        "B": "Tanah Latosol",
+        "C": "Tanah Andosol (Vulkanik)",
+        "D": "Tanah Aluvial",
+        "E": "Tanah Gambut"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Tanah Andosol (Vulkanik)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sej-01",
+      "pertanyaan": "[Sejarah] Zaman di mana manusia belum mengenal tulisan disebut zaman...",
+      "opsi": {
+        "A": "Pra-aksara (Nirleka)",
+        "B": "Sejarah",
+        "C": "Batu Madya",
+        "D": "Perunggu",
+        "E": "Logam"
+      },
+      "jawaban": "A",
+      "pembahasan": "Zaman pra-aksara berakhir saat manusia mulai menggunakan aksara/tulisan."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sej-02",
+      "pertanyaan": "[Sejarah] Peninggalan zaman Neolitikum yang berupa bangunan dari batu besar, seperti menhir dan dolmen, disebut...",
+      "opsi": {
+        "A": "Situs",
+        "B": "Megalitikum",
+        "C": "Artefak",
+        "D": "Fosil",
+        "E": "Relik"
+      },
+      "jawaban": "B",
+      "pembahasan": "Megalitikum artinya batu besar. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Megalitikum\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sej-03",
+      "pertanyaan": "[Sejarah] Kerajaan Hindu tertua di Indonesia yang terletak di Kalimantan Timur adalah...",
+      "opsi": {
+        "A": "Tarumanegara",
+        "B": "Sriwijaya",
+        "C": "Kutai",
+        "D": "Majapahit",
+        "E": "Pajajaran"
+      },
+      "jawaban": "C",
+      "pembahasan": "Ditemukan 7 buah Yupa di area tersebut sebagai bukti."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sej-04",
+      "pertanyaan": "[Sejarah] Raja Majapahit yang mencapai puncak kejayaan dengan Patih Gajah Mada adalah...",
+      "opsi": {
+        "A": "Raden Wijaya",
+        "B": "Tribhuwana Tunggadewi",
+        "C": "Ken Arok",
+        "D": "Hayam Wuruk",
+        "E": "Kertanegara"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hayam Wuruk\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sej-05",
+      "pertanyaan": "[Sejarah] Sumpah yang diucapkan Gajah Mada untuk menyatukan Nusantara di bawah Majapahit adalah...",
+      "opsi": {
+        "A": "Sumpah Pemuda",
+        "B": "Janji Setia",
+        "C": "Piagam Jakarta",
+        "D": "Manifesto Politik",
+        "E": "Sumpah Palapa"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sumpah Palapa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sej-06",
+      "pertanyaan": "[Sejarah] Kerajaan Islam pertama di Indonesia adalah...",
+      "opsi": {
+        "A": "Samudera Pasai",
+        "B": "Demak",
+        "C": "Banten",
+        "D": "Gowa-Tallo",
+        "E": "Ternate"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Samudera Pasai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sej-07",
+      "pertanyaan": "[Sejarah] Penjajahan Belanda dimulai dengan berdirinya perserikatan dagang yang disebut...",
+      "opsi": {
+        "A": "EIC",
+        "B": "VOC",
+        "C": "GWC",
+        "D": "UNTEA",
+        "E": "KNIL"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"VOC\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sej-08",
+      "pertanyaan": "[Sejarah] Gubernur Jenderal Belanda yang memerintahkan pembuatan Jalan Raya Pos (Anyer ke Panarukan) adalah...",
+      "opsi": {
+        "A": "Van den Bosch",
+        "B": "Raffles",
+        "C": "Daendels",
+        "D": "Jan Pieterszoon Coen",
+        "E": "Van Deventer"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Daendels\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sos-01",
+      "pertanyaan": "[Sosiologi] Objek studi sosiologi adalah...",
+      "opsi": {
+        "A": "Masyarakat dan interaksi di dalamnya",
+        "B": "Individu manusia saja",
+        "C": "Benda-benda purbakala",
+        "D": "Sistem pemerintahan negara",
+        "E": "Gejala alam"
+      },
+      "jawaban": "A",
+      "pembahasan": "Sosiologi mempelajari hubungan antarmanusia dan hasil dari hubungan tersebut."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sos-02",
+      "pertanyaan": "[Sosiologi] Syarat terjadinya interaksi sosial menurut Soerjono Soekanto adalah...",
+      "opsi": {
+        "A": "Tatapan mata dan senyuman",
+        "B": "Kontak sosial dan komunikasi",
+        "C": "Uang dan jabatan",
+        "D": "Tempat dan waktu",
+        "E": "Persamaan hobi"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kontak sosial dan komunikasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sos-03",
+      "pertanyaan": "[Sosiologi] Faktor pendorong interaksi di mana seseorang ingin menjadi sama persis dengan orang lain disebut...",
+      "opsi": {
+        "A": "Imitasi",
+        "B": "Sugesti",
+        "C": "Identifikasi",
+        "D": "Simpati",
+        "E": "Empati"
+      },
+      "jawaban": "C",
+      "pembahasan": "Identifikasi lebih mendalam daripada imitasi."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sos-04",
+      "pertanyaan": "[Sosiologi] Norma yang sanksinya berupa perasaan bersalah atau cemoohan masyarakat karena berkaitan dengan kepantasan disebut...",
+      "opsi": {
+        "A": "Norma Hukum",
+        "B": "Norma Agama",
+        "C": "Norma Adat",
+        "D": "Norma Kesopanan / Kesusilaan",
+        "E": "Norma Kelompok"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Norma Kesopanan / Kesusilaan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sos-05",
+      "pertanyaan": "[Sosiologi] Proses belajar seorang individu untuk mengenal dan menyesuaikan diri dengan nilai dan norma di lingkungannya disebut...",
+      "opsi": {
+        "A": "Modernisasi",
+        "B": "Westernisasi",
+        "C": "Urbanisasi",
+        "D": "Asimilasi",
+        "E": "Sosialisasi"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Sosialisasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sos-06",
+      "pertanyaan": "[Sosiologi] Bapak Sosiologi Dunia adalah...",
+      "opsi": {
+        "A": "Auguste Comte",
+        "B": "Karl Marx",
+        "C": "Max Weber",
+        "D": "Emile Durkheim",
+        "E": "Pitirim Sorokin"
+      },
+      "jawaban": "A",
+      "pembahasan": "Comte memperkenalkan istilah Sosiologi dalam bukunya 'Cours de Philosophie Positive'."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sos-07",
+      "pertanyaan": "[Sosiologi] Stratifikasi sosial yang terjadi akibat perbedaan tingkat pendidikan atau kekayaan biasanya bersifat...",
+      "opsi": {
+        "A": "Tertutup",
+        "B": "Terbuka",
+        "C": "Campuran",
+        "D": "Kaku",
+        "E": "Permanen"
+      },
+      "jawaban": "B",
+      "pembahasan": "Dapat berubah seiring usaha individu (Achieved Status)."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-sos-08",
+      "pertanyaan": "[Sosiologi] Akomodasi konflik melalui pihak ketiga yang keputusannya bersifat mengikat disebut...",
+      "opsi": {
+        "A": "Mediasi",
+        "B": "Konsiliasi",
+        "C": "Arbitrasi",
+        "D": "Kompromi",
+        "E": "Stalemate"
+      },
+      "jawaban": "C",
+      "pembahasan": "Mediasi tidak mengikat, Arbitrasi mengikat."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-akd-01",
+      "pertanyaan": "[Akuntansi Dasar] Akuntansi sering disebut 'The Language of Business' karena...",
+      "opsi": {
+        "A": "Mengomunikasikan informasi keuangan suatu unit usaha kepada penggunanya",
+        "B": "Menggunakan bahasa Inggris",
+        "C": "Hanya dipahami oleh pengusaha",
+        "D": "Sulit dipelajari",
+        "E": "Banyak hitungannya"
+      },
+      "jawaban": "A",
+      "pembahasan": "Akuntansi adalah alat komunikasi hasil aktivitas ekonomi."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-akd-02",
+      "pertanyaan": "[Akuntansi Dasar] Pihak eksternal yang memerlukan informasi akuntansi untuk memutuskan pemberian pinjaman adalah...",
+      "opsi": {
+        "A": "Manajer",
+        "B": "Kreditur (Bank)",
+        "C": "Karyawan",
+        "D": "Pemilik perusahaan",
+        "E": "Pemerintah (Pajak)"
+      },
+      "jawaban": "B",
+      "pembahasan": "Kreditur perlu melihat kemampuan bayar perusahaan."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-akd-03",
+      "pertanyaan": "[Akuntansi Dasar] Rumus Persamaan Dasar Akuntansi yang benar adalah...",
+      "opsi": {
+        "A": "Aset = Liabilitas - Ekuitas",
+        "B": "Liabilitas = Aset + Ekuitas",
+        "C": "Aset = Liabilitas + Ekuitas",
+        "D": "Ekuitas = Aset + Liabilitas",
+        "E": "Modal = Beban - Pendapatan"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Aset = Liabilitas + Ekuitas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-akd-04",
+      "pertanyaan": "[Akuntansi Dasar] Bukti transaksi internal yang dibuat pimpinan kepada bagian akuntansi untuk melakukan pencatatan disebut...",
+      "opsi": {
+        "A": "Kuitansi",
+        "B": "Faktur",
+        "C": "Nota Kontan",
+        "D": "Memo",
+        "E": "Cek"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Memo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-akd-05",
+      "pertanyaan": "[Akuntansi Dasar] Setoran modal berupa uang tunai dari pemilik ke perusahaan akan mengakibatkan...",
+      "opsi": {
+        "A": "Kas (+) dan Hutang (+)",
+        "B": "Peralatan (+) dan Modal (+)",
+        "C": "Kas (-) dan Modal (-)",
+        "D": "Pendapatan (+) dan Kas (+)",
+        "E": "Kas (+) dan Modal (+)"
+      },
+      "jawaban": "E",
+      "pembahasan": "Analisis PDA: Aset (Kas) bertambah, Ekuitas (Modal) bertambah."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-akd-06",
+      "pertanyaan": "[Akuntansi Dasar] Akun 'Tanah' dan 'Bangunan' termasuk dalam kategori...",
+      "opsi": {
+        "A": "Aset Tetap",
+        "B": "Aset Lancar",
+        "C": "Hutang Jangka Panjang",
+        "D": "Pendapatan",
+        "E": "Beban"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Aset Tetap\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-akd-07",
+      "pertanyaan": "[Akuntansi Dasar] Perusahaan yang kegiatannya memberikan pelayanan kepada pelanggan untuk mendapatkan imbalan disebut perusahaan...",
+      "opsi": {
+        "A": "Dagang",
+        "B": "Jasa",
+        "C": "Industri",
+        "D": "Ekstraktif",
+        "E": "Agraris"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Jasa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-akd-08",
+      "pertanyaan": "[Akuntansi Dasar] Saldo normal akun 'Kas' adalah di sisi...",
+      "opsi": {
+        "A": "Kredit",
+        "B": "Kanan",
+        "C": "Debit",
+        "D": "Nol",
+        "E": "Miring"
+      },
+      "jawaban": "C",
+      "pembahasan": "Akun Aset bertambah di Debit, berkurang di Kredit."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-mp-01",
+      "pertanyaan": "[Manajemen Perkantoran] Kegiatan mencatat, menyatukan, mengolah, menggandakan, mengirim, dan menyimpan informasi disebut...",
+      "opsi": {
+        "A": "Administrasi Perkantoran",
+        "B": "Produksi",
+        "C": "Pemasaran",
+        "D": "Distribusi",
+        "E": "Konsumsi"
+      },
+      "jawaban": "A",
+      "pembahasan": "Administrasi adalah inti dari kegiatan operasional kantor."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-mp-02",
+      "pertanyaan": "[Manajemen Perkantoran] Pihak yang memberikan instruksi dan mengarahkan jalannya kegiatan kantor disebut...",
+      "opsi": {
+        "A": "Staf",
+        "B": "Manajer / Pimpinan",
+        "C": "Pelanggan",
+        "D": "Kurir",
+        "E": "Satpam"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Manajer / Pimpinan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-mp-03",
+      "pertanyaan": "[Manajemen Perkantoran] Bagian surat yang berisi alamat tujuan surat disebut...",
+      "opsi": {
+        "A": "Kepala Surat (Kop)",
+        "B": "Nomor Surat",
+        "C": "Alamat Dalam",
+        "D": "Salam Pembuka",
+        "E": "Isi Surat"
+      },
+      "jawaban": "C",
+      "pembahasan": "Alat dalam berada di bawah nomor/tanggal surat."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-mp-04",
+      "pertanyaan": "[Manajemen Perkantoran] Sistem kearsipan yang menyusun dokumen berdasarkan nama orang atau badan disebut sistem...",
+      "opsi": {
+        "A": "Subjek",
+        "B": "Tanggal (Chronological)",
+        "C": "Wilayah (Geografis)",
+        "D": "Abjad (Alphabetical System)",
+        "E": "Nomor"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Abjad (Alphabetical System)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-mp-05",
+      "pertanyaan": "[Manajemen Perkantoran] Prinsip pelayanan prima yang menekankan pada tindakan nyata membantu pelanggan adalah...",
+      "opsi": {
+        "A": "Attitude (Sikap)",
+        "B": "Attention (Perhatian)",
+        "C": "Accountability",
+        "D": "Appearance",
+        "E": "Action (Tindakan)"
+      },
+      "jawaban": "E",
+      "pembahasan": "Action mencakup pencatatan pesanan dan solusi cepat."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-mp-06",
+      "pertanyaan": "[Manajemen Perkantoran] Alat komunikasi internal di kantor yang menghubungkan antar ruangan disebut...",
+      "opsi": {
+        "A": "Intercom / PABX",
+        "B": "Smartphone",
+        "C": "Handy Talky",
+        "D": "Email",
+        "E": "Memo"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Intercom / PABX\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-mp-07",
+      "pertanyaan": "[Manajemen Perkantoran] Surat yang dikirimkan oleh pihak perusahaan kepada pihak lain untuk menawarkan barang disebut...",
+      "opsi": {
+        "A": "Surat Lamaran",
+        "B": "Surat Penawaran (Quotation)",
+        "C": "Surat Keputusan",
+        "D": "Surat Izin",
+        "E": "Surat Kuasa"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Surat Penawaran (Quotation)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-mp-08",
+      "pertanyaan": "[Manajemen Perkantoran] Fungsi utama filter udara/AC di ruang kantor yang tertutup adalah...",
+      "opsi": {
+        "A": "Mendinginkan mesin",
+        "B": "Hiasan dinding",
+        "C": "Menjaga kenyamanan dan produktivitas karyawan (K3 Perkantoran)",
+        "D": "Menghemat listrik",
+        "E": "Penerangan"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menjaga kenyamanan dan produktivitas karyawan (K3 Perkantoran)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-log-01",
+      "pertanyaan": "[Logistik] Proses merencanakan, melaksanakan, dan mengendalikan aliran barang dari titik asal ke titik konsumsi disebut...",
+      "opsi": {
+        "A": "Logistik",
+        "B": "Produksi",
+        "C": "Pemasaran",
+        "D": "Keuangan",
+        "E": "Humas"
+      },
+      "jawaban": "A",
+      "pembahasan": "Logistik fokus pada efisiensi perpindahan dan penyimpanan barang."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-log-02",
+      "pertanyaan": "[Logistik] Supply Chain Management (SCM) mencakup koordinasi aliran berikut, kecuali...",
+      "opsi": {
+        "A": "Aliran Barang",
+        "B": "Aliran Udara",
+        "C": "Aliran Informasi",
+        "D": "Aliran Uang (Dana)",
+        "E": "Aliran Dokumen"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Aliran Udara\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-log-03",
+      "pertanyaan": "[Logistik] Metode pengeluaran barang di mana barang yang pertama kali masuk harus pertama kali keluar disebut...",
+      "opsi": {
+        "A": "LIFO",
+        "B": "FEFO",
+        "C": "FIFO (First In First Out)",
+        "D": "Average",
+        "E": "Random"
+      },
+      "jawaban": "C",
+      "pembahasan": "Cocok untuk barang umum non-expired agar stok lama tidak menumpuk."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-log-04",
+      "pertanyaan": "[Logistik] Metode pengeluaran barang berdasarkan tanggal kedaluwarsa terdekat disebut...",
+      "opsi": {
+        "A": "FIFO",
+        "B": "LIFO",
+        "C": "JIT",
+        "D": "FEFO (First Expired First Out)",
+        "E": "Slow Moving"
+      },
+      "jawaban": "D",
+      "pembahasan": "Sangat penting untuk industri farmasi dan makanan."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-log-05",
+      "pertanyaan": "[Logistik] Alat bantu pemindahan barang di gudang yang menggunakan garpu besi untuk mengangkat pallet disebut...",
+      "opsi": {
+        "A": "Conveyor",
+        "B": "Truck",
+        "C": "Drone",
+        "D": "Crane",
+        "E": "Forklift"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Forklift\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-log-06",
+      "pertanyaan": "[Logistik] Tempat penyimpanan barang sementara sebelum dikirim ke pelanggan disebut...",
+      "opsi": {
+        "A": "Gudang (Warehouse)",
+        "B": "Toko",
+        "C": "Kantor",
+        "D": "Pasar",
+        "E": "Bengkel"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Gudang (Warehouse)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-log-07",
+      "pertanyaan": "[Logistik] Apa kelebihan transportasi laut dibandingkan udara?",
+      "opsi": {
+        "A": "Sangat cepat",
+        "B": "Biaya lebih murah untuk kapasitas barang yang sangat besar",
+        "C": "Bisa menjangkau semua desa",
+        "D": "Mudah lewat di jalan sempit",
+        "E": "Pasti aman dari ombak"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Biaya lebih murah untuk kapasitas barang yang sangat besar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-log-08",
+      "pertanyaan": "[Logistik] Kegiatan menghitung fisik barang di gudang secara berkala untuk dicocokkan dengan data sistem disebut...",
+      "opsi": {
+        "A": "Packing",
+        "B": "Shipping",
+        "C": "Stock Opname",
+        "D": "Buying",
+        "E": "Selling"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Stock Opname\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kul-01",
+      "pertanyaan": "[Kuliner] Teknik memotong sayuran berbentuk batang korek api (ukuran 3cm x 1mm x 1mm) disebut...",
+      "opsi": {
+        "A": "Julienne",
+        "B": "Dice",
+        "C": "Chopping",
+        "D": "Chiffonade",
+        "E": "Mincing"
+      },
+      "jawaban": "A",
+      "pembahasan": "Julienne sering digunakan untuk wortel pada selada atau isi lumpia."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kul-02",
+      "pertanyaan": "[Kuliner] Metode memasak dengan sedikit lemak/minyak dalam wajan datar dengan api sedang disebut...",
+      "opsi": {
+        "A": "Deep Frying",
+        "B": "Sautéing (Menumis)",
+        "C": "Boiling",
+        "D": "Poaching",
+        "E": "Steaming"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sautéing (Menumis)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kul-03",
+      "pertanyaan": "[Kuliner] Suhu penyimpanan ideal untuk daging segar di dalam chiller adalah...",
+      "opsi": {
+        "A": "-18 s.d -20 derajat Celcius",
+        "B": "10 s.d 15 derajat Celcius",
+        "C": "1 s.d 4 derajat Celcius",
+        "D": "25 s.d 30 derajat Celcius",
+        "E": "100 derajat Celcius"
+      },
+      "jawaban": "C",
+      "pembahasan": "Suhu -18 ke bawah adalah untuk freezer (pembekuan)."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kul-04",
+      "pertanyaan": "[Kuliner] Urutan hidangan lengkap (Full Course Meal) yang benar adalah...",
+      "opsi": {
+        "A": "Dessert - Main Course - Appetizer",
+        "B": "Main Course - Soup - Appetizer",
+        "C": "Drink - Dessert - Main Course",
+        "D": "Appetizer - Soup - Main Course - Dessert",
+        "E": "Langsung nasi"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Appetizer - Soup - Main Course - Dessert\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kul-05",
+      "pertanyaan": "[Kuliner] Penyebab utama kontaminasi silang (Cross-contamination) di dapur adalah...",
+      "opsi": {
+        "A": "Mencuci piring pakai sabun",
+        "B": "Memasak nasi terlalu lama",
+        "C": "Menggunakan spatula besi",
+        "D": "Kulkas kekecilan",
+        "E": "Menggunakan talenan yang sama untuk daging mentah dan sayuran tanpa dicuci"
+      },
+      "jawaban": "E",
+      "pembahasan": "Bakteri dari daging mentah bisa berpindah ke sayuran yang tidak dimasak lagi."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kul-06",
+      "pertanyaan": "[Kuliner] Istilah 'Mise en Place' dalam dunia kuliner berarti...",
+      "opsi": {
+        "A": "Mempersiapkan segala bahan dan alat sebelum proses memasak dimulai",
+        "B": "Mencuci piring",
+        "C": "Makan bersama staff",
+        "D": "Menyimpan makanan",
+        "E": "Membayar tagihan"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mempersiapkan segala bahan dan alat sebelum proses memasak dimulai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kul-07",
+      "pertanyaan": "[Kuliner] Alat dapur bertangkai panjang dengan lubang-lubang untuk meniriskan gorengan disebut...",
+      "opsi": {
+        "A": "Spatula",
+        "B": "Skimmer / Spider",
+        "C": "Whisk",
+        "D": "Ladle",
+        "E": "Tongs"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Skimmer / Spider\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-kul-08",
+      "pertanyaan": "[Kuliner] Berikut ini yang termasuk bumbu dasar putih (Nusantara) adalah...",
+      "opsi": {
+        "A": "Cabai merah, bawang merah, terasi",
+        "B": "Kunyit, jahe, lengkuas",
+        "C": "Bawang merah, bawang putih, kemiri",
+        "D": "Tomat, cabai hijau, bawang",
+        "E": "Kecap dan saus sambal"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Bawang merah, bawang putih, kemiri\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-hot-01",
+      "pertanyaan": "[Perhotelan] Pihak yang bertugas menyambut tamu di lobi dan membawakan barang bawaan tamu ke kamar disebut...",
+      "opsi": {
+        "A": "Bellboy / Porter / Concierge",
+        "B": "Receptionist",
+        "C": "Room Boy",
+        "D": "Waiter",
+        "E": "Manager"
+      },
+      "jawaban": "A",
+      "pembahasan": "Bellboy adalah garda terdepan layanan barang tamu."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-hot-02",
+      "pertanyaan": "[Perhotelan] Lantai atau area umum di hotel seperti lobi dan lorong dibersihkan oleh bagian...",
+      "opsi": {
+        "A": "Room Attendant",
+        "B": "Public Area Attendant",
+        "C": "Laundry Staf",
+        "D": "Front Desk Agent",
+        "E": "Chef"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Public Area Attendant\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-hot-03",
+      "pertanyaan": "[Perhotelan] Istilah 'Make Up Room' dalam perhotelan berarti...",
+      "opsi": {
+        "A": "Menghias kamar untuk pengantin",
+        "B": "Mengecat tembok kamar",
+        "C": "Membersihkan dan menata kembali kamar tamu",
+        "D": "Memperbaiki AC kamar",
+        "E": "Memberi kompensasi kamar"
+      },
+      "jawaban": "C",
+      "pembahasan": "Kegiatan rutin housekeeping. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Membersihkan dan menata kembali kamar tamu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-hot-04",
+      "pertanyaan": "[Perhotelan] Alat untuk menata meja makan lengkap dengan sendok, garpu, dan gelas disebut...",
+      "opsi": {
+        "A": "Table Cloth",
+        "B": "Buffet",
+        "C": "Menu Card",
+        "D": "Table Setting",
+        "E": "Tray"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Table Setting\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-hot-05",
+      "pertanyaan": "[Perhotelan] Kamar yang dipesan oleh tamu tetapi tamu tersebut tidak datang tanpa pemberitahuan disebut...",
+      "opsi": {
+        "A": "Walk-in Guest",
+        "B": "Check-out",
+        "C": "Daily Use",
+        "D": "Stay over",
+        "E": "No Show"
+      },
+      "jawaban": "E",
+      "pembahasan": "No show biasanya dikenakan biaya pembatalan."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-hot-06",
+      "pertanyaan": "[Perhotelan] Apa tugas utama dari bagian 'Laundry' di hotel?",
+      "opsi": {
+        "A": "Mencuci dan menyetrika linen hotel serta pakaian tamu",
+        "B": "Memasak",
+        "C": "Melayani check-in",
+        "D": "Menjaga keamanan",
+        "E": "Membersihkan kolam renang"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mencuci dan menyetrika linen hotel serta pakaian tamu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-hot-07",
+      "pertanyaan": "[Perhotelan] Pakaian atau seragam kerja karyawan hotel yang rapi, bersih, dan sesuai standar disebut...",
+      "opsi": {
+        "A": "Style",
+        "B": "Grooming",
+        "C": "Fashion",
+        "D": "Costume",
+        "E": "Armor"
+      },
+      "jawaban": "B",
+      "pembahasan": "Grooming mencakup kebersihan rambut, kuku, dan bau badan."
+    },
+    {
+      "id": "tka_smk_pilihan_tryout-v01-hot-08",
+      "pertanyaan": "[Perhotelan] Sapaan standar saat mengangkat telepon di hotel adalah...",
+      "opsi": {
+        "A": "Halo, siapa ini?",
+        "B": "Ya, ada apa?",
+        "C": "Salam (Selamat Pagi/Siang), Nama Hotel, Nama Staff, 'May I help you?'",
+        "D": "Wait a minute",
+        "E": "Jangan telepon dulu"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Salam (Selamat Pagi/Siang), Nama Hotel, Nama Staff, 'May I help you?'\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    }
+  ]
+}

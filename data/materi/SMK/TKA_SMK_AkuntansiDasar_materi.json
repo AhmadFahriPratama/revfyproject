@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Akuntansi Dasar",
+  "tingkatan": "SMK",
+  "jurusan": "Akuntansi / Keuangan / Pilihan",
+  "deskripsi": "Materi persiapan TKA Akuntansi Dasar untuk siswa SMK yang berfokus pada persamaan dasar akuntansi, siklus akuntansi perusahaan jasa, dan dokumen transaksi keuangan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Konsep Dasar dan Etika Profesi Akuntansi",
+      "konten": "Pengertian akuntansi (The Language of Business), pihak pengguna informasi akuntansi (internal & eksternal), serta etika profesi teknisi akuntansi (integritas, objektivitas).",
+      "tag": [
+        "tka smk akuntansidasar materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Persamaan Dasar Akuntansi (PDA)",
+      "konten": "Unsur-unsur PDA (Aset, Liabilitas, Ekuitas), rumus PDA (A = L + E), serta analisis pengaruh transaksi keuangan terhadap PDA.",
+      "tag": [
+        "tka smk akuntansidasar materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Kode Akun dan Bukti Transaksi",
+      "konten": "Pengelompokan akun (Harta, Hutang, Modal, Pendapatan, Beban), sistem pemberian nomor akun, serta macam-macam bukti transaksi (Kuitansi, Faktur, Nota Kontan, Memo).",
+      "tag": [
+        "tka smk akuntansidasar materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Jurnal Umum dan Buku Besar",
+      "konten": "Aturan Debit dan Kredit, proses penjurnalan transaksi perusahaan jasa, serta teknis posting (pemindahbukuan) ke Buku Besar (T-Account).",
+      "tag": [
+        "tka smk akuntansidasar materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Neraca Saldo dan Laporan Keuangan Awal",
+      "konten": "Penyusunan Neraca Saldo (Trial Balance), pengenalan Laporan Laba Rugi, Laporan Perubahan Ekuitas, serta Neraca untuk perusahaan jasa sederhana.",
+      "tag": [
+        "tka smk akuntansidasar materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-akuntansidasar-materi",
+  "mapel": "TKA SMK: Akuntansi Dasar",
+  "tag": [
+    "tka smk akuntansidasar materi"
+  ]
+}

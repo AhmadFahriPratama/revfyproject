@@ -1,0 +1,53 @@
+{
+  "judul": "Hubungan Internasional (Dasar dan Global)",
+  "tingkatan": "KULIAH",
+  "jurusan": "Soshum / HI",
+  "deskripsi": "Materi tingkat universitas mengenai teori hubungan internasional (Realisme, Liberalisme, Konstruktivisme), ekonomi politik internasional, diplomasi, serta isu-isu keamanan global.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Teori Hubungan Internasional",
+      "konten": "Aktor-aktor internasional (Negara dan Non-negara). Perspektif utama: Realisme (anarki, power), Liberalisme (kerjasama, institusi), Konstruktivisme (identitas, norma), serta Marxisme (kelas, eksploitasi).",
+      "tag": [
+        "kuliah hi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Diplomasi dan Negosiasi Internasional",
+      "konten": "Sejarah diplomasi, fungsi kedutaan dan konsulat, jenis-jenis diplomasi (bilateral, multilateral, track-two), serta teknik negosiasi dan penyelesaian sengketa internasional.",
+      "tag": [
+        "kuliah hi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Ekonomi Politik Internasional (EPI)",
+      "konten": "Hubungan antara politik dan ekonomi dunia. Globalisasi, perdagangan internasional (WTO), sistem moneter internasional (IMF/World Bank), serta isu pembangunan dan kemiskinan global.",
+      "tag": [
+        "kuliah hi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Keamanan Internasional dan Konflik",
+      "konten": "Konsep keamanan tradisional (perang, aliansi) vs keamanan insani (human security). Terorisme lintas batas, proliferasi nuklir, serta peran PBB dalam penjagaan perdamaian.",
+      "tag": [
+        "kuliah hi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Organisasi Internasional dan Hukum Global",
+      "konten": "Struktur dan fungsi PBB (UN), organisasi regional (ASEAN, EU), serta dasar-dasar hukum internasional dan perlindungan lingkungan global (isu perubahan iklim).",
+      "tag": [
+        "kuliah hi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-hi-materi",
+  "mapel": "Hubungan Internasional (Dasar dan Global)",
+  "tag": [
+    "kuliah hi materi"
+  ]
+}

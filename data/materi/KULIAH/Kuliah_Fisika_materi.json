@@ -1,0 +1,53 @@
+{
+  "judul": "Fisika Dasar Universitas",
+  "tingkatan": "KULIAH",
+  "jurusan": "MIPA / Teknik / Pertanian",
+  "deskripsi": "Materi dasar fisika tingkat universitas yang mencakup mekanika klasik, termodinamika, elektrodinamika, serta fisika modern.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Mekanika Klasik (Newtonian)",
+      "konten": "Hukum gerak Newton dalam bentuk diferensial, kinematika partikel, dinamika rotasi, momentum sudut, serta hukum kekekalan energi mekanik.",
+      "tag": [
+        "kuliah fisika materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Termodinamika dan Statika Fluida",
+      "konten": "Hukum Termodinamika (0, 1, 2, 3), siklus Carnot, entropi, persamaan gas ideal, serta prinsip Bernoulli dalam mekanika fluida.",
+      "tag": [
+        "kuliah fisika materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Medan Listrik dan Magnet (Elektromagnetik)",
+      "konten": "Hukum Coulomb, hukum Gauss, potensial listrik, kapasitansi, hukum Ampere, hukum Faraday, serta persamaan Maxwell dasar.",
+      "tag": [
+        "kuliah fisika materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Gelombang dan Optik Fisis",
+      "konten": "Persamaan gelombang, interferensi, difraksi, polarisasi cahaya, serta prinsip kerja lensa dan cermin pada instrumen optik tingkat lanjut.",
+      "tag": [
+        "kuliah fisika materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pengantar Fisika Modern",
+      "konten": "Teori Relativitas Khusus Einstein, efek fotolistrik, dualitas gelombang-partikel (de Broglie), serta dasar-dasar mekanika kuantum (Persamaan Schrodinger).",
+      "tag": [
+        "kuliah fisika materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-fisika-materi",
+  "mapel": "Fisika Dasar Universitas",
+  "tag": [
+    "kuliah fisika materi"
+  ]
+}

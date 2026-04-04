@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_SB_01",
+    "pertanyaan": "FR Desain: Manakah yang termasuk warna komplementer (berlawanan) dari warna Merah?",
+    "opsi": [
+      "Hijau",
+      "Kuning",
+      "Biru",
+      "Hitam",
+      "Putih"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Merah berlawanan dengan Hijau dalam lingkaran warna.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_SB_02",
+    "pertanyaan": "FR Musik: Alat musik petik legendaris dari Kalimantan yang terbuat dari kayu disebut...",
+    "opsi": [
+      "Gitar",
+      "Sape / Sampe",
+      "Rebab",
+      "Mandolin",
+      "Ukulele"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_SB_03",
+    "pertanyaan": "FR UNESCO: Batik Indonesia telah diakui oleh UNESCO sebagai Warisan Budaya Tak Benda pada tanggal...",
+    "opsi": [
+      "17 Agustus",
+      "10 November",
+      "2 Oktober (Hari Batik)",
+      "21 April",
+      "1 Juni"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_SB_04",
+    "pertanyaan": "FR Tari: Penari yang menggerakkan mata dengan sangat lihai (Sebled/Seledet) merupakan ciri khas tari dari daerah...",
+    "opsi": [
+      "Jawa Tengah",
+      "Sumatera",
+      "Kalimantan",
+      "Bali",
+      "Sulawesi"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_SB_05",
+    "pertanyaan": "FR Pameran: Label yang berisi judul karya, nama seniman, media, dan tahun pembuatan yang ditempel di dekat karya seni disebut...",
+    "opsi": [
+      "Poster",
+      "Katalog",
+      "Brosur",
+      "Daftar hadir",
+      "Etiket (Caption)"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

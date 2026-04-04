@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMK_PK_01",
+    "pertanyaan": "Ikan air tawar yang memiliki ciri khas sungut (kumis) dan tidak memiliki sisik adalah...",
+    "opsi": [
+      "Ikan Lele",
+      "Ikan Mas",
+      "Ikan Nila",
+      "Ikan Gurame",
+      "Ikan Mujair"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ikan Lele (Clarias sp.) termasuk jenis ikan Catfish yang populer dibudidayakan karena daya tahannya."
+  },
+  {
+    "id": "SMK_PK_02",
+    "pertanyaan": "Parameter air yang mengukur jumlah oksigen terlarut di dalam air disebut...",
+    "opsi": [
+      "pH",
+      "DO (Dissolved Oxygen)",
+      "Salinitas",
+      "Suhu",
+      "Kekeruhan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "DO sangat krusial bagi pernapasan ikan. Nilai DO ideal biasanya > 5 mg/L."
+  },
+  {
+    "id": "SMK_PK_03",
+    "pertanyaan": "Wadah budidaya ikan yang diletakkan mengapung di sungai, danau, atau laut disebut...",
+    "opsi": [
+      "Kolam Beton",
+      "Tambak",
+      "Keramba Jaring Apung (KJA)",
+      "Akuarium",
+      "Bak Fiber"
+    ],
+    "jawaban": 2,
+    "pembahasan": "KJA memanfaatkan aliran air alami untuk sirkulasi oksigen dan pembuangan limbah."
+  },
+  {
+    "id": "SMK_PK_04",
+    "pertanyaan": "Pakan alami berupa udang renik yang sering diberikan untuk larva ikan adalah...",
+    "opsi": [
+      "Pelet",
+      "Kangkung",
+      "Azolla",
+      "Artemia",
+      "Maggot"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Artemia memiliki nutrisi tinggi yang sesuai dengan bukaan mulut larva ikan."
+  },
+  {
+    "id": "SMK_PK_05",
+    "pertanyaan": "Proses pelepasan telur oleh induk betina dan sperma oleh induk jantan disebut...",
+    "opsi": [
+      "Pendederan",
+      "Aklimatisasi",
+      "Grading",
+      "Fekunditas",
+      "Pemijahan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pemijahan dapat dilakukan secara alami maupun buatan (dengan suntikan hormon)."
+  },
+  {
+    "id": "SMK_PK_06",
+    "pertanyaan": "Zat kimia yang bersifat racun bagi ikan dan berasal dari penumpukan sisa pakan serta kotoran di dasar kolam adalah...",
+    "opsi": [
+      "Amonia (NH3)",
+      "Oksigen",
+      "Glukosa",
+      "Kalsium",
+      "Nitrogen bebas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Amonia yang tinggi dapat menyebabkan kematian massal ikan karena keracunan."
+  },
+  {
+    "id": "SMK_PK_07",
+    "pertanyaan": "Alat yang digunakan untuk mengukur tingkat keasaman atau kebasaan air adalah...",
+    "opsi": [
+      "Termometer",
+      "pH Meter",
+      "Secchi Disk",
+      "Refraktometer",
+      "Anemometer"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Rentang pH ideal untuk budidaya ikan biasanya antara 6,5 hingga 8,5."
+  },
+  {
+    "id": "SMK_PK_08",
+    "pertanyaan": "Ikan yang dapat hidup di air payau (campuran air tawar dan air laut) adalah...",
+    "opsi": [
+      "Ikan Discus",
+      "Ikan Koi",
+      "Ikan Bandeng",
+      "Ikan Arwana",
+      "Ikan Louhan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Bandeng adalah komoditas utama budidaya di tambak pesisir."
+  },
+  {
+    "id": "SMK_PK_09",
+    "pertanyaan": "Proses penyesuaian suhu dan kondisi air bagi benih ikan sebelum ditebar ke kolam baru disebut...",
+    "opsi": [
+      "Karantina",
+      "Domestikasi",
+      "Sterilisasi",
+      "Aklimatisasi",
+      "Isolasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Aklimatisasi mencegah ikan stres atau mati akibat perubahan suhu mendadak (thermal shock)."
+  },
+  {
+    "id": "SMK_PK_10",
+    "pertanyaan": "Alat berbentuk piringan berwarna hitam-putih untuk mengukur kecerahan/keruh air kolam adalah...",
+    "opsi": [
+      "Petridish",
+      "DO Meter",
+      "Multimeter",
+      "Hand Tally Counter",
+      "Secchi Disk"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Secchi disk membantu menentukan kepadatan plankton di dalam kolam."
+  },
+  {
+    "id": "SMK_PK_11",
+    "pertanyaan": "Penyakit 'White Spot' pada ikan hias dan konsumsi disebabkan oleh...",
+    "opsi": [
+      "Parasit Ichthyophthirius multifiliis",
+      "Kekurangan Vitamin",
+      "Air terlalu bersih",
+      "Ikan kelelahan",
+      "Lampu terlalu terang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "White spot ditandai dengan bintik putih pada kulit dan sirip ikan."
+  },
+  {
+    "id": "SMK_PK_12",
+    "pertanyaan": "Kegiatan memisahkan ikan berdasarkan ukuran tubuhnya agar tidak terjadi persaingan pakan disebut...",
+    "opsi": [
+      "Packing",
+      "Grading (Sortir)",
+      "Harvesting",
+      "Feeding",
+      "Cleaning"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Grading menjamin keseragaman ukuran ikan saat panen tiba."
+  },
+  {
+    "id": "SMK_PK_13",
+    "pertanyaan": "Hama pemangsa yang sering menyerang bibit ikan di kolam terbuka adalah...",
+    "opsi": [
+      "Plankton",
+      "Cacing tanah",
+      "Burung dan Ular",
+      "Lumut",
+      "Ganggang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pemasangan jaring (waring) di atas kolam membantu mencegah serangan burung pemangsa."
+  },
+  {
+    "id": "SMK_PK_14",
+    "pertanyaan": "Berapa protein kasar minimal yang biasanya dibutuhkan oleh ikan karnivora?",
+    "opsi": [
+      "5-10%",
+      "15-20%",
+      "60-80%",
+      "30-45%",
+      "100%"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ikan karnivora membutuhkan protein lebih tinggi untuk pertumbuhan optimal."
+  },
+  {
+    "id": "SMK_PK_15",
+    "pertanyaan": "Jenis pakan buatan yang dapat mengapung di permukaan air disebut pelet...",
+    "opsi": [
+      "Tenggelam",
+      "Cair",
+      "Serbuk",
+      "Pasta",
+      "Terapung"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pelet terapung memudahkan pengamatan nafsu makan ikan."
+  },
+  {
+    "id": "SMK_PK_16",
+    "pertanyaan": "Penambahan oksigen ke dalam air menggunakan alat kincir atau aerator disebut proses...",
+    "opsi": [
+      "Aerasi",
+      "Filterisasi",
+      "Sedimentasi",
+      "Evaporasi",
+      "Distilasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Aerasi memecah tegangan permukaan air agar oksigen dari udara mudah larut."
+  },
+  {
+    "id": "SMK_PK_17",
+    "pertanyaan": "Ikan yang memiliki kemampuan mengambil oksigen langsung dari udara karena memiliki alat bantu pernapasan (labirin) adalah...",
+    "opsi": [
+      "Ikan Mas",
+      "Ikan Gurame",
+      "Ikan Bandeng",
+      "Ikan Tuna",
+      "Ikan Kembung"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Gurame, Lele, dan Gabus bisa bertahan hidup di air dengan oksigen rendah."
+  },
+  {
+    "id": "SMK_PK_18",
+    "pertanyaan": "Penerapan sistem budidaya yang mengintegrasikan tanaman (sayuran) dan ikan dalam satu sistem sirkulasi air disebut...",
+    "opsi": [
+      "Hidroponik",
+      "Aeroponik",
+      "Akuaponik",
+      "Terrarium",
+      "Vivarium"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kotoran ikan diubah menjadi nutrisi bagi tanaman, dan tanaman membantu menyaring air bagi ikan."
+  },
+  {
+    "id": "SMK_PK_19",
+    "pertanyaan": "Komoditas perikanan laut yang bernilai ekspor tinggi dan sering dibudidayakan dalam mutiara adalah...",
+    "opsi": [
+      "Rumput laut",
+      "Teripang",
+      "Kerapu",
+      "Kerang Mutiara",
+      "Lobster"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Budidaya kerang mutiara membutuhkan waktu tahunan untuk menghasilkan butiran mutiara berkualitas."
+  },
+  {
+    "id": "SMK_PK_20",
+    "pertanyaan": "Jumlah telur yang dihasilkan oleh seekor induk betina dalam satu kali pemijahan disebut...",
+    "opsi": [
+      "Fertilitas",
+      "Hatchability",
+      "Mortalitas",
+      "Densitas",
+      "Fekunditas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Fekunditas dipengaruhi oleh berat badan dan kondisi kesehatan induk."
+  },
+  {
+    "id": "SMK_PK_21",
+    "pertanyaan": "Apa kelebihan budidaya sistem Bioflok?",
+    "opsi": [
+      "Hemat air dan pakan karena limbah diolah menjadi flok protein oleh bakteri",
+      "Membutuhkan banyak lahan",
+      "Kolamnya harus sangat dalam",
+      "Ikannya tidak perlu diberi makan",
+      "Airnya harus diganti setiap hari"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bioflok merupakan sistem intensif yang ramah lingkungan dan hemat biaya."
+  },
+  {
+    "id": "SMK_PK_22",
+    "pertanyaan": "Persentase telur yang berhasil menetas menjadi larva disebut...",
+    "opsi": [
+      "Survival Rate (SR)",
+      "Hatching Rate (HR)",
+      "Growth Rate (GR)",
+      "Feed Conversion Ratio (FCR)",
+      "Specific Growth Rate (SGR)"
+    ],
+    "jawaban": 1,
+    "pembahasan": "HR tinggi menandakan kualitas sperma dan telur serta kondisi lingkungan penetasan yang baik."
+  },
+  {
+    "id": "SMK_PK_23",
+    "pertanyaan": "Perbandingan antara jumlah pakan yang diberikan dengan berat daging ikan yang dihasilkan disebut...",
+    "opsi": [
+      "ADG (Average Daily Gain)",
+      "Biomassa",
+      "FCR (Feed Conversion Ratio)",
+      "Tonase",
+      "Kapasitas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Semakin rendah nilai FCR, menunjukkan pakan semakin efisien (misal FCR 1,2 berarti 1,2 kg pakan jadi 1 kg daging)."
+  },
+  {
+    "id": "SMK_PK_24",
+    "pertanyaan": "Hormon yang sering disuntikkan ke induk ikan untuk mempercepat proses pemijahan buatan adalah...",
+    "opsi": [
+      "Insulin",
+      "Adrenalin",
+      "Pestisida",
+      "Ovaprim",
+      "Antibiotik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ovaprim mengandung analog hormon GnRH yang memicu ovulasi."
+  },
+  {
+    "id": "SMK_PK_25",
+    "pertanyaan": "Bahan organik yang digunakan untuk menumbuhkan plankton di kolam tanah sesaat sebelum tebar benih adalah...",
+    "opsi": [
+      "Garam",
+      "Kapur",
+      "Pasir",
+      "Cat",
+      "Pupuk Kandang / Kompos"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pemupukan menyediakan unsur hara bagi pertumbuhan pakan alami ikan."
+  },
+  {
+    "id": "SMK_PK_26",
+    "pertanyaan": "Kegiatan penangkapan ikan di perairan umum (sungai/danau) tanpa dibudidayakan disebut perikanan...",
+    "opsi": [
+      "Tangkap (Capture Fisheries)",
+      "Budidaya",
+      "Pasar",
+      "Eksport",
+      "Komersial"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Indonesia memiliki potensi perikanan tangkap yang sangat besar baik di darat maupun laut."
+  },
+  {
+    "id": "SMK_PK_27",
+    "pertanyaan": "Alat tangkap ikan yang dilarang pemerintah karena merusak terumbu karang dan mematikan semua ukuran ikan adalah...",
+    "opsi": [
+      "Pancing (Line)",
+      "Pukat Harimau (Trawl) dan Bom Ikan",
+      "Jaring Insang (Gillnet)",
+      "Bubu",
+      "Serok"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penggunaan alat tangkap tidak ramah lingkungan dapat menghancurkan ekosistem laut."
+  },
+  {
+    "id": "SMK_PK_28",
+    "pertanyaan": "Berapa salinitas (kadar garam) rata-rata air laut?",
+    "opsi": [
+      "0-5 ppt",
+      "10-15 ppt",
+      "30-35 ppt",
+      "50-60 ppt",
+      "100 ppt"
+    ],
+    "jawaban": 2,
+    "pembahasan": "ppt (parts per thousand) adalah satuan kadar garam dalam air."
+  },
+  {
+    "id": "SMK_PK_29",
+    "pertanyaan": "Udang yang menjadi primadona budidaya laut dan payau di Indonesia adalah...",
+    "opsi": [
+      "Udang Rebon",
+      "Udang Galah",
+      "Udang Ronggeng",
+      "Udang Vaname",
+      "Udang Hias"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Udang Vaname digemari karena pertumbuhannya cepat dan tahan penyakit."
+  },
+  {
+    "id": "SMK_PK_30",
+    "pertanyaan": "Upaya untuk mematikan semua mikroorganisme patogen di kolam sebelum digunakan disebut...",
+    "opsi": [
+      "Pemanenan",
+      "Oksigenasi",
+      "Resirkulasi",
+      "Filtrasi",
+      "Sterilisasi / Disinfeksi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sterilisasi bisa menggunakan kaporit atau sinar UV pada sistem air."
+  },
+  {
+    "id": "SMK_PK_31",
+    "pertanyaan": "Ikan herbivora mengonsumsi makanan utama berupa...",
+    "opsi": [
+      "Tumbuhan atau Alga",
+      "Ikan kecil",
+      "Daging",
+      "Serangga",
+      "Cacing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh ikan herbivora adalah ikan Koan (Grass Carp) dan Nila."
+  },
+  {
+    "id": "SMK_PK_32",
+    "pertanyaan": "Warna air kolam yang subur dan baik untuk ikan biasanya berwarna...",
+    "opsi": [
+      "Bening kristal",
+      "Hijau kecokelatan (karena plankton)",
+      "Merah darah",
+      "Hitam pekat",
+      "Putih susu"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Warna hijau menandakan populasi fitoplankton yang cukup sebagai produsen oksigen dan pakan."
+  },
+  {
+    "id": "SMK_PK_33",
+    "pertanyaan": "Bagian tubuh ikan yang berfungsi sebagai alat bantu keseimbangan dan alat gerak adalah...",
+    "opsi": [
+      "Insang",
+      "Mata",
+      "Sirip",
+      "Garis Rusuk (Lateral Line)",
+      "Operkulum"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Ikan memiliki sirip punggung, dada, perut, dubur, dan ekor."
+  },
+  {
+    "id": "SMK_PK_34",
+    "pertanyaan": "Apa fungsi 'Garis Rusuk' (Lateral Line) pada tubuh ikan?",
+    "opsi": [
+      "Untuk hiasan",
+      "Alat pernapasan",
+      "Tempat menyimpan cadangan makanan",
+      "Mendeteksi perubahan tekanan air dan getaran (Indera keenam)",
+      "Menghasilkan lendir"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Garis rusuk membantu ikan tetap waspada walau dalam air keruh atau gelap."
+  },
+  {
+    "id": "SMK_PK_35",
+    "pertanyaan": "Pakan buatan yang sudah basi atau berjamur sangat berbahaya karena mengandung...",
+    "opsi": [
+      "Protein tinggi",
+      "Vitamin C",
+      "Oksigen",
+      "Garam",
+      "Aflatoksin (Racun jamur)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Aflatoksin dapat menyebabkan kanker hati dan kematian pada ikan."
+  },
+  {
+    "id": "SMK_PK_36",
+    "pertanyaan": "Kegiatan mengeringkan kolam tanah di bawah sinar matahari bertujuan untuk...",
+    "opsi": [
+      "Membunuh bibit penyakit dan menguapkan gas beracun di dasar tanah",
+      "Biar kolam cepat pecah",
+      "Mencari ikan yang tertinggal",
+      "Membuat tanah jadi keras",
+      "Hobi semata"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pengeringan merupakan tahap kunci dalam penyiapan kolam tradisional."
+  },
+  {
+    "id": "SMK_PK_37",
+    "pertanyaan": "Ikan hias yang memiliki nilai estetika tinggi dan sering dijadikan simbol keberuntungan adalah...",
+    "opsi": [
+      "Ikan Lele",
+      "Ikan Koi",
+      "Ikan Kembung",
+      "Ikan Teri",
+      "Ikan Sepat"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Koi (Cyprinus carpio) memiliki variasi warna yang sangat beragam dan bernilai mahal."
+  },
+  {
+    "id": "SMK_PK_38",
+    "pertanyaan": "Teknik budidaya dengan mengganti air secara terus menerus (aliran deras) disebut...",
+    "opsi": [
+      "Stagnant system",
+      "Static system",
+      "Running water system",
+      "Off-shore system",
+      "Indoor system"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Cocok untuk budidaya ikan yang butuh oksigen tinggi seperti ikan Mas dan Nila di daerah pegunungan."
+  },
+  {
+    "id": "SMK_PK_39",
+    "pertanyaan": "Aliran air yang masuk kembali ke kolam setelah melalui proses penyaringan disebut sistem...",
+    "opsi": [
+      "Drainase",
+      "Irigasi",
+      "Outlet",
+      "Resirkulasi (RAS)",
+      "Inlet"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Recirculating Aquaculture System (RAS) sangat hemat air dan dapat dilakukan di lahan sempit."
+  },
+  {
+    "id": "SMK_PK_40",
+    "pertanyaan": "Apa singkatan dari CBIB dalam standar budidaya perikanan?",
+    "opsi": [
+      "Ciri Benih Ikan Berkualitas",
+      "Cara Berwisata Ikan Bahari",
+      "Cek Bank Ikan Bersama",
+      "Campuran Bahan Ikan Buatan",
+      "Cara Budidaya Ikan yang Baik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "CBIB adalah sertifikasi standar mutu dan keamanan pangan bagi pembudidaya ikan."
+  },
+  {
+    "id": "SMK_PK_41",
+    "pertanyaan": "Organ tubuh ikan yang berfungsi menyerap oksigen dari dalam air adalah...",
+    "opsi": [
+      "Insang",
+      "Paru-paru",
+      "Jantung",
+      "Hati",
+      "Lambung"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Insang memiliki banyak pembuluh darah (kapiler) untuk pertukaran gas."
+  },
+  {
+    "id": "SMK_PK_42",
+    "pertanyaan": "Manakah yang merupakan zat kapur yang digunakan untuk menetralkan pH tanah kolam?",
+    "opsi": [
+      "Pupuk Urea",
+      "Dolomit",
+      "Semen",
+      "Tanah liat",
+      "Arang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kapur pertanian (Dolomit) meningkatkan pH tanah yang terlalu asam."
+  },
+  {
+    "id": "SMK_PK_43",
+    "pertanyaan": "Penyakit yang disebabkan oleh bakteri Aeromonas ditandai dengan...",
+    "opsi": [
+      "Ikan jadi lebih lincah",
+      "Ikan berubah warna jadi emas",
+      "Luka-luka kemerahan (borok) pada tubuh ikan dan sirip geris",
+      "Ikan berhenti makan selamanya",
+      "Muncul sayap pada ikan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Infeksi bakteri ini seringkali berakibat fatal jika tidak segera diobati."
+  },
+  {
+    "id": "SMK_PK_44",
+    "pertanyaan": "Peralatan keselamatan utama bagi nelayan yang sedang melaut adalah...",
+    "opsi": [
+      "Radio",
+      "Topi",
+      "Kail",
+      "Life Jacket (Jaket Pelampung)",
+      "Jaring"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Keselamatan kerja (K3) di laut wajib mengutamakan pelampung."
+  },
+  {
+    "id": "SMK_PK_45",
+    "pertanyaan": "Ikan yang biasa dimanfaatkan sebagai pembersih lumut di akuarium (ikan sapu-sapu) adalah jenis...",
+    "opsi": [
+      "Karnivora",
+      "Bivora",
+      "Insektivora",
+      "Saprofit",
+      "Bentivora / Algivora"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ikan ini memakan detritus dan alga di dasar atau dinding wadah."
+  },
+  {
+    "id": "SMK_PK_46",
+    "pertanyaan": "Apa kelemahan utama kolam terpal dibandingkan kolam beton?",
+    "opsi": [
+      "Mudah bocor atau robek jika terkena benda tajam",
+      "Lebih mahal",
+      "Susah dipasang",
+      "Ikan tidak mau hidup",
+      "Air menguap lebih cepat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Terpal lebih praktis dan murah, namun memiliki masa pakai yang lebih pendek."
+  },
+  {
+    "id": "SMK_PK_47",
+    "pertanyaan": "Kegiatan panen ikan sebaiknya dilakukan pada waktu...",
+    "opsi": [
+      "Siang hari saat panas terik",
+      "Pagi hari atau sore hari saat suhu air rendah",
+      "Tengah malam",
+      "Saat hujan lebat",
+      "Kapan saja tidak masalah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Suhu rendah meminimalkan stres dan mortalitas (kematian) ikan saat ditangkap."
+  },
+  {
+    "id": "SMK_PK_48",
+    "pertanyaan": "Bagian sirip ikan yang berfungsi sebagai 'kemudi' untuk berbelok adalah...",
+    "opsi": [
+      "Sirip Punggung (Dorsal)",
+      "Sirip Dada (Pectoral)",
+      "Sirip Ekor (Caudal)",
+      "Sirip Perut (Ventral)",
+      "Sirip Dubur (Anal)"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sirip ekor memberikan daya dorong utama dan kendali arah."
+  },
+  {
+    "id": "SMK_PK_49",
+    "pertanyaan": "Gelar bagi teknisi perikanan lulusan SMK adalah...",
+    "opsi": [
+      "Ahli Perikanan",
+      "Nahkoda Agung",
+      "Manager Akuarium",
+      "Teknisi Budidaya / Penangkapan Ikan",
+      "Penyelam"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lulusan SMK dibekali keterampilan teknis untuk bekerja mandiri atau di perusahaan perikanan."
+  },
+  {
+    "id": "SMK_PK_50",
+    "pertanyaan": "Mengapa latihan soal Perikanan di RevStudy penting bagi kamu?",
+    "opsi": [
+      "Cuma buat iseng",
+      "Supaya jago memancing ikan",
+      "Hanya untuk dapet hadiah",
+      "Biar bisa beli pulsa",
+      "Mengasah pemahaman materi kejuruan agar siap menghadapi ujian sekolah dan dunia industri"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Penguasaan teori yang matang mempermudah praktek lapangan di industri perikanan."
+  }
+]

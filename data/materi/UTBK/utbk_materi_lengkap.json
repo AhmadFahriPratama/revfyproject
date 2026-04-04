@@ -1,0 +1,310 @@
+{
+  "id": "mat-utbk",
+  "judul": "Materi UTBK SNBT Lengkap",
+  "tag": [
+    "utbk",
+    "snbt",
+    "materi utbk",
+    "tps",
+    "literasi",
+    "penalaran",
+    "kuantitatif"
+  ],
+  "daftarMateri": [
+    {
+      "id": "mat-pu",
+      "subtesCode": "pu",
+      "judul": "Materi Inti Penalaran Umum",
+      "deskripsi": "Panduan belajar Penalaran Umum yang menekankan validitas argumen, inferensi, dan evaluasi simpulan. Materi ini dirancang untuk membangun kebiasaan membaca premis dengan teliti sebelum memilih jawaban.",
+      "kategori": "UTBK SNBT",
+      "tingkat": "SMA/SMK/Sederajat",
+      "tag": [
+        "utbk",
+        "penalaran umum",
+        "inferensi",
+        "argumen",
+        "simpulan",
+        "tps"
+      ],
+      "konten": [
+        {
+          "bab": "1. Hakikat Penalaran Umum",
+          "teks": "Penalaran Umum menguji kemampuan memahami premis, memeriksa hubungan logis, lalu menarik simpulan yang paling sah. Fokus utama subtes ini bukan hafalan istilah, melainkan ketelitian membaca batas informasi yang benar-benar tersedia di soal."
+        },
+        {
+          "bab": "2. Membedakan Fakta, Asumsi, dan Simpulan",
+          "teks": "Fakta adalah informasi yang tertulis langsung dalam stimulus, sedangkan asumsi adalah hal yang sering ikut dibawa peserta tanpa disadari. Latihan paling penting adalah menandai mana data yang eksplisit dan mana dugaan tambahan agar simpulan tidak melampaui premis."
+        },
+        {
+          "bab": "3. Tipe Soal Yang Sering Muncul",
+          "teks": "Bentuk soal yang umum meliputi inferensi, penguatan argumen, pelemahan argumen, hubungan sebab-akibat, dan urutan logis. Masing-masing tipe menuntut strategi yang sedikit berbeda, tetapi semuanya tetap bergantung pada konsistensi terhadap premis awal."
+        },
+        {
+          "bab": "4. Strategi Mengerjakan Cepat",
+          "teks": "Mulailah dengan meringkas isi stimulus menjadi dua atau tiga informasi inti, lalu cocokan setiap opsi dengan informasi itu. Jika sebuah opsi terdengar masuk akal tetapi menambahkan informasi baru, opsi tersebut biasanya harus dieliminasi."
+        },
+        {
+          "bab": "5. Jebakan Distraktor",
+          "teks": "Distraktor Penalaran Umum sering berbentuk pernyataan yang terlalu mutlak, membalik relasi, atau memperluas kesimpulan melebihi data. Peserta sering terjebak karena membaca cepat dan merasa opsi itu benar secara umum, padahal tidak dijamin oleh stimulus."
+        },
+        {
+          "bab": "6. Pola Latihan Efektif",
+          "teks": "Latihan terbaik dilakukan dengan membahas alasan mengapa empat opsi lain salah, bukan hanya mencari satu opsi yang benar. Dengan cara itu, kemampuan menahan asumsi dan membaca struktur argumen akan berkembang jauh lebih cepat."
+        }
+      ]
+    },
+    {
+      "id": "mat-pbm",
+      "subtesCode": "pbm",
+      "judul": "Materi Inti Pemahaman Bacaan dan Menulis",
+      "deskripsi": "Materi ini membahas cara memahami struktur paragraf, ide pokok, koherensi kalimat, dan revisi kalimat efektif. Fokus utamanya adalah kualitas nalar bahasa, bukan sekadar menghafal istilah kebahasaan.",
+      "kategori": "UTBK SNBT",
+      "tingkat": "SMA/SMK/Sederajat",
+      "tag": [
+        "utbk",
+        "pemahaman bacaan",
+        "menulis",
+        "kalimat efektif",
+        "paragraf",
+        "tps"
+      ],
+      "konten": [
+        {
+          "bab": "1. Membaca Struktur Teks",
+          "teks": "Dalam subtes ini, peserta perlu mengenali fungsi tiap kalimat dalam paragraf, misalnya sebagai gagasan utama, penjelas, contoh, atau penegas. Kemampuan melihat struktur jauh lebih penting daripada membaca kata demi kata secara terpisah."
+        },
+        {
+          "bab": "2. Menentukan Ide Pokok dan Simpulan",
+          "teks": "Ide pokok biasanya menjadi pusat penjelasan semua kalimat lain, sedangkan simpulan merupakan hasil pengolahan isi paragraf secara utuh. Keduanya saling berkaitan, tetapi tidak selalu berbentuk kalimat yang sama persis dengan isi teks."
+        },
+        {
+          "bab": "3. Kalimat Efektif dan Diksi",
+          "teks": "Kalimat efektif harus hemat, logis, padu, dan tidak menimbulkan ambiguitas. Pada bagian ini peserta perlu peka terhadap pemborosan kata, ketidaksejajaran bentuk, pilihan kata yang tidak tepat, dan hubungan antargagasan yang kabur."
+        },
+        {
+          "bab": "4. Menyusun Paragraf Padu",
+          "teks": "Soal penyusunan paragraf menuntut kemampuan melihat urutan logis antarkalimat, misalnya dari sebab ke akibat atau dari pernyataan umum ke rincian. Penanda hubungan seperti kata rujukan, konjungsi, dan kesinambungan topik sangat membantu menentukan posisi kalimat."
+        },
+        {
+          "bab": "5. Revisi dan Penyuntingan",
+          "teks": "Soal revisi tidak hanya menanyakan benar-salah tata bahasa, tetapi juga apakah kalimat hasil perbaikan menjadi lebih jelas dan lebih sesuai konteks. Pilihan terbaik adalah yang memperbaiki kesalahan tanpa mengubah maksud pokok penulis."
+        },
+        {
+          "bab": "6. Strategi Belajar",
+          "teks": "Biasakan membaca artikel pendek lalu merangkum ide utama setiap paragraf dalam satu kalimat. Latihan ini melatih ketepatan memahami isi sekaligus membantu saat harus menilai kepaduan dan efektivitas tulisan."
+        }
+      ]
+    },
+    {
+      "id": "mat-ppu",
+      "subtesCode": "ppu",
+      "judul": "Materi Inti Pengetahuan dan Pemahaman Umum",
+      "deskripsi": "Materi ini memfokuskan latihan pada hubungan makna kata, klasifikasi konsep, analogi, dan penalaran verbal umum. Tujuannya adalah memperkuat pemahaman bahasa dan konsep, bukan menghafal trivia acak.",
+      "kategori": "UTBK SNBT",
+      "tingkat": "SMA/SMK/Sederajat",
+      "tag": [
+        "utbk",
+        "pengetahuan dan pemahaman umum",
+        "analogi",
+        "verbal",
+        "makna kata",
+        "tps"
+      ],
+      "konten": [
+        {
+          "bab": "1. Makna Kata Dalam Konteks",
+          "teks": "Banyak soal meminta peserta menentukan makna kata yang paling dekat berdasarkan kalimat, bukan berdasarkan kamus semata. Karena itu, konteks penggunaan kata harus dibaca dulu sebelum menilai pilihan sinonim atau antonim."
+        },
+        {
+          "bab": "2. Relasi Kata dan Analogi",
+          "teks": "Analogi menguji apakah peserta mampu melihat pola hubungan antara pasangan kata, seperti alat dengan fungsi, profesi dengan objek kerja, atau bagian dengan keseluruhan. Kunci mengerjakannya adalah mencari jenis hubungan terlebih dahulu sebelum melihat opsi."
+        },
+        {
+          "bab": "3. Klasifikasi dan Generalisasi",
+          "teks": "Soal klasifikasi menuntut peserta menentukan konsep yang mencakup beberapa unsur sekaligus, sedangkan generalisasi meminta peserta menarik cakupan yang tepat dari data yang tersedia. Kesalahan umum terjadi ketika peserta memilih konsep yang terlalu sempit atau terlalu luas."
+        },
+        {
+          "bab": "4. Hubungan Dua Pernyataan",
+          "teks": "Peserta perlu membedakan apakah dua pernyataan saling menguatkan, saling membatasi, bertentangan, atau tidak berhubungan langsung. Kemampuan ini membantu memahami struktur nalar verbal secara lebih presisi dan mengurangi jawaban berdasarkan intuisi semata."
+        },
+        {
+          "bab": "5. Distraktor Yang Sering Menjebak",
+          "teks": "Distraktor pada subtes ini sering tampak benar karena mirip bunyi atau dekat makna, tetapi tidak tepat dalam relasi yang diminta. Karena itu, jangan berhenti pada kemiripan permukaan; pastikan hubungan logis antarunsurnya benar-benar sepadan."
+        },
+        {
+          "bab": "6. Pola Latihan Efektif",
+          "teks": "Saat berlatih, tuliskan alasan singkat mengapa jawaban benar dan mengapa empat opsi lain salah. Cara ini memperkuat sensitivitas terhadap nuansa makna dan membuat ketelitian verbal berkembang lebih stabil."
+        }
+      ]
+    },
+    {
+      "id": "mat-pk",
+      "subtesCode": "pk",
+      "judul": "Materi Inti Pengetahuan Kuantitatif",
+      "deskripsi": "Materi ini menekankan pemahaman konsep kuantitatif dasar yang sering dipakai dalam konteks UTBK, seperti persentase, rasio, peluang, rata-rata, dan aljabar sederhana. Tujuannya adalah membangun ketepatan model hitung sekaligus efisiensi waktu pengerjaan.",
+      "kategori": "UTBK SNBT",
+      "tingkat": "SMA/SMK/Sederajat",
+      "tag": [
+        "utbk",
+        "pengetahuan kuantitatif",
+        "persentase",
+        "rasio",
+        "peluang",
+        "tps"
+      ],
+      "konten": [
+        {
+          "bab": "1. Persentase dan Perubahan Nilai",
+          "teks": "Persentase sering muncul dalam bentuk kenaikan, penurunan, diskon, atau pertumbuhan. Kesalahan paling umum adalah menjumlahkan angka persentase secara langsung tanpa mengubahnya dulu ke bentuk nilai yang benar."
+        },
+        {
+          "bab": "2. Rasio dan Proporsi",
+          "teks": "Rasio membandingkan dua besaran, sedangkan proporsi membantu mencari nilai yang belum diketahui dari perbandingan itu. Peserta perlu terbiasa memecah total menjadi sejumlah bagian agar soal cerita dapat diterjemahkan dengan cepat."
+        },
+        {
+          "bab": "3. Rata-Rata dan Interpretasi Data",
+          "teks": "Rata-rata adalah jumlah seluruh data dibagi banyak data, tetapi dalam UTBK peserta juga harus peka terhadap perubahan rata-rata saat data baru ditambahkan atau dihapus. Pemahaman konsep lebih penting daripada hafalan rumus tunggal."
+        },
+        {
+          "bab": "4. Peluang Dasar",
+          "teks": "Peluang dasar dihitung dari perbandingan kejadian yang diinginkan terhadap seluruh kejadian yang mungkin. Banyak peserta salah karena tidak memeriksa apakah semua kemungkinan memiliki peluang yang sama atau tidak."
+        },
+        {
+          "bab": "5. Aljabar Ringan Yang Sering Dipakai",
+          "teks": "Soal kuantitatif sering memakai bentuk aljabar sederhana seperti selisih kuadrat, persamaan linear, atau substitusi nilai. Keterampilan mengubah kalimat ke model matematika biasanya lebih menentukan daripada kerumitan perhitungannya."
+        },
+        {
+          "bab": "6. Strategi Hemat Waktu",
+          "teks": "Tandai informasi inti, tentukan apa yang ditanya, lalu pilih cara hitung paling pendek yang tetap sahih. Jika ada opsi yang jelas melanggar logika besar hasil perhitungan, lakukan eliminasi lebih dulu sebelum menghitung sampai akhir."
+        }
+      ]
+    },
+    {
+      "id": "mat-lbi",
+      "subtesCode": "lbi",
+      "judul": "Materi Inti Literasi Dalam Bahasa Indonesia",
+      "deskripsi": "Materi ini membantu peserta memahami teks panjang, menangkap informasi implisit, menilai argumen penulis, dan menarik simpulan secara akurat. Subtes ini menuntut stamina membaca sekaligus ketelitian terhadap detail penting di dalam bacaan.",
+      "kategori": "UTBK SNBT",
+      "tingkat": "SMA/SMK/Sederajat",
+      "tag": [
+        "utbk",
+        "literasi bahasa indonesia",
+        "bacaan panjang",
+        "inferensi",
+        "argumen",
+        "literasi"
+      ],
+      "konten": [
+        {
+          "bab": "1. Membaca Untuk Memahami Gagasan",
+          "teks": "Dalam literasi, membaca tidak cukup berhenti pada mengenali isi kalimat demi kalimat. Peserta harus melihat hubungan antarparagraf agar mampu memahami tujuan umum, sudut pandang penulis, dan alur pengembangan gagasan."
+        },
+        {
+          "bab": "2. Informasi Eksplisit dan Implisit",
+          "teks": "Informasi eksplisit tertulis langsung di teks, sedangkan informasi implisit harus disimpulkan dari petunjuk yang tersebar. Banyak soal menjebak peserta yang terlalu cepat memilih jawaban padahal teks hanya mendukung kesimpulan yang lebih terbatas."
+        },
+        {
+          "bab": "3. Menilai Argumen Dalam Bacaan",
+          "teks": "Peserta perlu membedakan antara data, pendapat, contoh, dan simpulan penulis. Dengan membedakan fungsi tiap bagian, peserta akan lebih mudah menilai apakah argumen penulis kuat, cukup, atau justru melompat dari bukti yang tersedia."
+        },
+        {
+          "bab": "4. Sikap dan Tujuan Penulis",
+          "teks": "Sikap penulis dapat terlihat dari pilihan kata, penekanan informasi, dan cara menyajikan data. Tujuan penulis pun tidak selalu menyuruh atau melarang secara langsung, tetapi bisa berupa menginformasikan, mengkritik, membandingkan, atau meyakinkan pembaca."
+        },
+        {
+          "bab": "5. Mengelola Bacaan Panjang",
+          "teks": "Saat teks panjang, buat catatan singkat berupa kata kunci untuk tiap paragraf agar orientasi isi tetap terjaga. Teknik ini membantu saat harus kembali mencari dasar jawaban tanpa membaca ulang seluruh teks dari awal."
+        },
+        {
+          "bab": "6. Pola Latihan Yang Disarankan",
+          "teks": "Biasakan mengerjakan satu bacaan penuh lalu menjelaskan kembali isi utamanya dengan bahasa sendiri. Jika dapat merangkum secara tepat, biasanya kemampuan menjawab soal inferensi dan gagasan utama juga meningkat."
+        }
+      ]
+    },
+    {
+      "id": "mat-lbe",
+      "subtesCode": "lbe",
+      "judul": "Materi Inti Literasi Dalam Bahasa Inggris",
+      "deskripsi": "Materi ini membahas cara memahami teks bahasa Inggris pada level akademik menengah, termasuk main idea, detail penting, inference, dan vocabulary in context. Fokus utama tetap pada pemahaman bacaan, bukan menghafal daftar kata secara terpisah.",
+      "kategori": "UTBK SNBT",
+      "tingkat": "SMA/SMK/Sederajat",
+      "tag": [
+        "utbk",
+        "literasi bahasa inggris",
+        "reading comprehension",
+        "inference",
+        "vocabulary in context",
+        "literasi"
+      ],
+      "konten": [
+        {
+          "bab": "1. Reading For Meaning",
+          "teks": "Saat membaca teks bahasa Inggris, prioritaskan pemahaman makna per paragraf lebih dulu sebelum memikirkan terjemahan setiap kata. Cara ini membantu menjaga kecepatan baca dan mencegah peserta terjebak pada satu kosakata yang sebenarnya tidak terlalu menentukan."
+        },
+        {
+          "bab": "2. Main Idea dan Supporting Details",
+          "teks": "Main idea adalah pesan utama paragraf atau teks, sedangkan supporting details menjelaskan, membuktikan, atau memberi contoh. Banyak soal menuntut peserta membedakan mana ide sentral dan mana detail pendukung yang hanya memperkuatnya."
+        },
+        {
+          "bab": "3. Inference dan Author's Purpose",
+          "teks": "Inference berarti menarik kesimpulan yang didukung teks meskipun tidak diucapkan secara langsung. Author's purpose menanyakan tujuan penulis menulis teks, misalnya untuk inform, persuade, compare, atau explain."
+        },
+        {
+          "bab": "4. Vocabulary In Context",
+          "teks": "Arti kata dalam bacaan harus ditentukan dari konteks kalimat dan paragraf, bukan hanya dari arti kamus yang paling umum. Sering kali sebuah kata memiliki makna khusus sesuai topik yang sedang dibahas."
+        },
+        {
+          "bab": "5. Teknik Menghadapi Teks Inggris",
+          "teks": "Bacalah pertanyaan dengan cepat untuk mengetahui informasi apa yang perlu dicari, lalu telusuri bagian teks yang paling relevan. Teknik scanning dan careful rereading pada bagian penting akan jauh lebih efisien daripada menerjemahkan seluruh teks secara penuh."
+        },
+        {
+          "bab": "6. Pola Latihan Yang Efektif",
+          "teks": "Gunakan artikel pendek berbahasa Inggris dan latih diri menuliskan satu kalimat ringkasan untuk setiap paragraf. Kebiasaan ini memperkuat kemampuan menangkap ide utama, hubungan antarbagian, dan makna kata dalam konteks."
+        }
+      ]
+    },
+    {
+      "id": "mat-pm",
+      "subtesCode": "pm",
+      "judul": "Materi Inti Penalaran Matematika",
+      "deskripsi": "Materi ini menekankan pemodelan, pola, fungsi, geometri dasar, dan analisis data yang sering muncul pada Penalaran Matematika. Tujuan utamanya adalah melatih peserta menerjemahkan situasi ke bentuk matematis lalu menafsirkan hasilnya dengan tepat.",
+      "kategori": "UTBK SNBT",
+      "tingkat": "SMA/SMK/Sederajat",
+      "tag": [
+        "utbk",
+        "penalaran matematika",
+        "fungsi",
+        "pola",
+        "geometri",
+        "analisis data"
+      ],
+      "konten": [
+        {
+          "bab": "1. Membangun Model Matematis",
+          "teks": "Penalaran Matematika tidak hanya menanyakan hasil hitung, tetapi juga apakah peserta mampu membuat model yang sesuai dari informasi soal. Langkah pertama selalu berupa mengenali besaran, relasi, dan tujuan perhitungan sebelum memanipulasi angka."
+        },
+        {
+          "bab": "2. Pola dan Barisan Sederhana",
+          "teks": "Soal pola menguji kemampuan melihat keteraturan dari perubahan nilai, bentuk, atau relasi antarunsur. Peserta harus peka apakah pola bersifat linear, bertahap, berulang, atau membutuhkan pengamatan dua langkah sekaligus."
+        },
+        {
+          "bab": "3. Fungsi, Gradien, dan Perubahan",
+          "teks": "Konsep fungsi dan gradien membantu memahami hubungan dua variabel dan laju perubahan. Di UTBK, peserta sering diminta menafsirkan makna gradien atau menggunakan model linear sederhana dalam konteks nyata."
+        },
+        {
+          "bab": "4. Geometri Dasar dan Pengukuran",
+          "teks": "Geometri yang muncul biasanya tidak terlalu rumit, tetapi menuntut ketelitian pada definisi, satuan, dan hubungan antarukuran. Kesalahan kecil pada membaca bentuk atau satuan sering membuat hasil akhir meleset jauh."
+        },
+        {
+          "bab": "5. Data dan Penafsiran Hasil",
+          "teks": "Analisis data menuntut peserta membaca nilai terbesar, terkecil, jangkauan, atau kecenderungan perubahan dari data yang tersedia. Yang diuji bukan sekadar perhitungan, tetapi juga kemampuan menafsirkan arti hasil itu dalam konteks soal."
+        },
+        {
+          "bab": "6. Strategi Latihan",
+          "teks": "Saat berlatih, tulis langkah model terlebih dahulu sebelum menghitung agar kesalahan logika dapat terlihat sejak awal. Dengan pola ini, peserta akan lebih siap menghadapi soal yang tampak baru tetapi sebenarnya memakai konsep dasar yang sama."
+        }
+      ]
+    }
+  ],
+  "mapel": "Materi UTBK SNBT Lengkap"
+}

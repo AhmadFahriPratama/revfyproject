@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls7-pai",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "Pendidikan Agama Islam",
+  "materi": "Al-Qur'an Hadis, Aqidah, Akhlak, Fikih, Sejarah Kebudayaan Islam",
+  "deskripsi": "Materi PAI Kelas 7 mempelajari dasar-dasar akidah Islam, tata cara bersuci (thaharah), salat berjamaah, dan sejarah Nabi Muhammad SAW periode Makkah.",
+  "konten": [
+    {
+      "bab": "1. Lebih Dekat dengan Allah SWT",
+      "teks": "Memahami makna Asmaul Husna (Al-'Alim, Al-Khabir, As-Sami', Al-Bashir) dan penerapannya dalam kehidupan."
+    },
+    {
+      "bab": "2. Indahnya Kebersamaan dengan Salat Berjamaah",
+      "teks": "Tata cara salat berjamaah, ketentuan imam dan makmum (masbuk), serta hikmah salat berjamaah."
+    },
+    {
+      "bab": "3. Semua Bersih, Hidup Jadi Nyaman",
+      "teks": "Memahami ketentuan dan tata cara bersuci (Thaharah) dari hadas kecil dan hadas besar."
+    },
+    {
+      "bab": "4. Empati, Menghormati, dan Menghargai",
+      "teks": "Pembiasaan sifat empati terhadap sesama, menghormati orang tua dan guru, serta dalil Naqlinya."
+    },
+    {
+      "bab": "5. Sejarah Perjuangan Nabi Muhammad SAW",
+      "teks": "Mempelajari sejarah dan strategi dakwah Rasulullah SAW pada periode Makkah, termasuk tantangan yang dihadapi umat Islam awal serta hikmah keteguhan beliau dalam menyampaikan ajaran Islam."
+    }
+  ],
+  "tag": ["smp-7", "pai", "aqidah", "fikih", "sejarah-islam", "akhlak"]
+}

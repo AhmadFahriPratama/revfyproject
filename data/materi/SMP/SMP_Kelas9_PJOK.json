@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls9-pjok",
+  "tingkat": "SMP Kelas 9",
+  "mapel": "PJOK",
+  "materi": "Aturan Game Bola Besar, Bela Diri Pencak Silat, P3K Cederah & Obat, Renang Gaya Bebas",
+  "deskripsi": "Materi PJOK 9 adalah evaluasi menyeluruh variasi gerak berirama permaianan bola resmi, teknik tarung laga bela diri nusantara, serta tata cara penyelamatan P3K di alam.",
+  "konten": [
+    {
+      "bab": "1. Taktik Permainan Bola Besar & Kecil",
+      "teks": "Menganalisa Pola Penyerangan (Offensive) dan Pola Pertahanan (Defensive Zone/Man-to-man mark) dlm Sepakbola/Basket/Voli. Aturan pertandingan Softball / Bulutangkis wasit jaring."
+    },
+    {
+      "bab": "2. Pencak Silat Laga dan Seni",
+      "teks": "Memahami dan mpraktik gerak tangkisan silang/atas, pukulan lurus, tendangan T sabit, serta hindaran elakan untuk bertahan di tarung laga dng nilai poin."
+    },
+    {
+      "bab": "3. Kebugaran Jasmani Intensitas Tinggi",
+      "teks": "Latihan pembentukan otot core perut situp/push up/back up dengan sistem sirkuit berseri (Circuit Training) & interval training menajamkan kardio."
+    },
+    {
+      "bab": "4. Renang Gaya Bebas (Crawl)",
+      "teks": "Teknik Streamline luncuran, koordinasi putar tarikan nafas kesamping nafas (Breathing), kibasan paha menggunting terus menerus tanpa henti efisien laju maju tercepat."
+    },
+    {
+      "bab": "5. P3K (Pertolongan Pertama Pada Kecelakaan)",
+      "teks": "Tujuan dan jenis Pertolongan Pertama lapangan drurat (Balut rawat Patah Tulang keseleo keracunan henti nafas). Serta dampak negatif dari Obat Kimia/NAPZA minuman terlarang pd psikis fisik remaja."
+    }
+  ],
+  "tag": ["smp-9", "pjok", "taktik-bola", "pencak-silat", "p3k", "renang", "kebugaran"]
+}

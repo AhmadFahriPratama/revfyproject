@@ -1,0 +1,53 @@
+{
+  "judul": "Informatika",
+  "tingkatan": "SMA",
+  "jurusan": "MIPA",
+  "deskripsi": "Materi mengenai berpikir komputasional, sistem komputer, jaringan, analisis data, algoritma, dan dampak sosial informatika.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Berpikir Komputasional (Computational Thinking)",
+      "konten": "Penyelesaian masalah menggunakan teknik dekomposisi, pengenalan pola, abstraksi, dan algoritma. Fokus pada pola berpikir logis untuk memecahkan masalah kompleks secara efisien baik dengan komputer maupun manual.",
+      "tag": [
+        "sma informatika materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Sistem Komputer dan Jaringan",
+      "konten": "Perangkat keras (hardware), perangkat lunak (software), dan sistem operasi. Cara kerja jaringan komputer, internet, protokol komunikasi (TCP/IP), serta keamanan data dan enkripsi di dunia maya.",
+      "tag": [
+        "sma informatika materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Analisis Data dan Big Data",
+      "konten": "Pengolahan data menggunakan perkakas (spreadsheet atau Python). Siklus analisis data mulai dari pengumpulan, pembersihan, pengolahan, hingga visualisasi untuk pengambilan keputusan yang berbasis data.",
+      "tag": [
+        "sma informatika materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Algoritma dan Pemrograman",
+      "konten": "Struktur dasar pemrograman: variabel, tipe data, kontrol alur (if-else), perulangan (loop), dan fungsi. Pengenalan bahasa populer (Python/C++) untuk mengimplementasikan solusi dari masalah komputasional.",
+      "tag": [
+        "sma informatika materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Dampak Sosial dan Masa Depan TIK",
+      "konten": "Aspek ekonomi, hukum, dan sosial dari informatika. Etika digital, privasi, keamanan siber (cybersecurity), serta tren teknologi masa depan seperti Artificial Intelligence (AI) dan Internet of Things (IoT).",
+      "tag": [
+        "sma informatika materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "sma-informatika-materi",
+  "mapel": "Informatika",
+  "tag": [
+    "sma informatika materi"
+  ]
+}

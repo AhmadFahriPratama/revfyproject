@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls9-bi",
+  "tingkat": "SMP Kelas 9",
+  "mapel": "Bahasa Indonesia",
+  "materi": "Laporan Percobaan, Pidato Persuasif, Cerpen Lanjutan, Teks Tanggapan, dan Diskusi",
+  "deskripsi": "Bahasa Indonesia Kelas 9 difokuskan pada karya ilmiah sederhana, berbicara di depan umum secara persuasif, beradu gagasan (diskusi), dan analisis cerita pendek yang lebih kompleks.",
+  "konten": [
+    {
+      "bab": "1. Melaporkan Percobaan",
+      "teks": "Memahami struktur teks laporan percobaan (tujuan, alat, bahan, langkah, hasil, simpulan), unsur kebahasaan, serta mempraktikkan penulisan eksperimen ilmiah sederhana."
+    },
+    {
+      "bab": "2. Menyampaikan Pidato Persuasif",
+      "teks": "Mengidentifikasi gagasan, pikiran, pandangan, arahan atau pesan dalam pidato persuasif (lingkungan, kondisi sosial). Merancang dan berpidato di depan kelas dng intonasi tepat."
+    },
+    {
+      "bab": "3. Menyusun Cerita Pendek (Eksplorasi)",
+      "teks": "Menelaah nilai-nilai kehidupan (moral, sosial, agama) dalam cerpen. Memahami sudut pandang pengarang, alur regresif/progresif, serta menulis cerpen inspiratif."
+    },
+    {
+      "bab": "4. Memberi Tanggapan dengan Santun",
+      "teks": "Menelaah teks tanggapan (pujian atau kritik) atas suatu fenomena karya seni, buku, atau kebijakan dng kalimat argumen yg efektif santun."
+    },
+    {
+      "bab": "5. Menyajikan Teks Diskusi",
+      "teks": "Memahami teks diskusi yang menyajikan pro dan kontra. Menelaah isu, argumen mendukung, argumen menentang, dan simpulan jalan tengah penyelesaian masalah."
+    }
+  ],
+  "tag": ["smp-9", "bahasa-indonesia", "pidato", "cerpen", "diskusi", "laporan"]
+}

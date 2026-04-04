@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_EN_01",
+    "pertanyaan": "FR Recruitment: In an interview, when asked 'Tell me about yourself', you should focus on...",
+    "opsi": [
+      "Your professional background and relevant skills",
+      "Your family history",
+      "Your hobbies and pets",
+      "Your political views",
+      "Your favorite food"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Keep it professional and job-related. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Your professional background and relevant skills\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_EN_02",
+    "pertanyaan": "FR Technical: What does the 'Warning' sign usually indicate in a manual?",
+    "opsi": [
+      "Nothing important",
+      "Potential hazard that could result in serious injury",
+      "Price of the product",
+      "Manufacturer's address",
+      "Warranty period"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_EN_03",
+    "pertanyaan": "FR Business Email: 'I am writing to ... about the late delivery.' What is the best word to fill the gap?",
+    "opsi": [
+      "praise",
+      "thank",
+      "complain",
+      "ignore",
+      "buy"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Late delivery usually triggers a complaint.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_EN_04",
+    "pertanyaan": "FR Global Work: 'Please mute your microphone.' You usually hear this in...",
+    "opsi": [
+      "A football match",
+      "A library",
+      "A hospital",
+      "A virtual meeting (Zoom/Teams)",
+      "A restaurant"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_EN_05",
+    "pertanyaan": "FR Vocabulary: What is the meaning of 'Out of Order'?",
+    "opsi": [
+      "No more food",
+      "The shop is closed",
+      "Wait outside",
+      "Good quality",
+      "The machine is not working"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Out of order = broken/broken down. Jawaban yang paling tepat adalah opsi E karena sesuai dengan konsep utama pada soal, yaitu \"The machine is not working\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

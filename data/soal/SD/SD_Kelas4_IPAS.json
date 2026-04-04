@@ -1,0 +1,708 @@
+{
+  "id": "sd-4-ipas",
+  "tingkat": "SD Kelas 4",
+  "mapel": "IPAS",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "ipas4-1",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dari dalam tanah adalah... (Soal Review #1)",
+      "opsi": {
+        "A": "Akar",
+        "B": "Batang",
+        "C": "Daun",
+        "D": "Bunga",
+        "E": "Buah"
+      },
+      "kunci": "A",
+      "pembahasan": "Akar bertugas menyerap air dan mineral dari tanah.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-2",
+      "teks": "Proses pembuatan makanan pada tumbuhan dengan bantuan cahaya matahari disebut... (Soal Review #2)",
+      "opsi": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Evaporasi",
+        "D": "Kondensasi",
+        "E": "Metamorfosis"
+      },
+      "kunci": "B",
+      "pembahasan": "Fotosintesis terjadi di daun mengubah air dan CO2 menjadi glukosa dibantu cahaya.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-3",
+      "teks": "Gaya yang terjadi akibat gesekan dua permukaan benda disebut gaya... (Soal Review #3)",
+      "opsi": {
+        "A": "Otot",
+        "B": "Gravitasi",
+        "C": "Gesek",
+        "D": "Magnet",
+        "E": "Pegas"
+      },
+      "kunci": "C",
+      "pembahasan": "Gaya gesek berlawanan arah dengan gerak benda.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-4",
+      "teks": "Perubahan wujud dari padat menjadi cair disebut... (Soal Review #4)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Mencair",
+        "E": "Menyublim"
+      },
+      "kunci": "D",
+      "pembahasan": "Mencair (melebur) membutuhkan kalor/panas, contohnya es batu yang dibiarkan.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-5",
+      "teks": "Pakaian adat kebaya banyak berasal dari daerah... (Soal Review #5)",
+      "opsi": {
+        "A": "Papua",
+        "B": "Sumatra Barat",
+        "C": "Kalimantan",
+        "D": "Sulawesi",
+        "E": "Jawa"
+      },
+      "kunci": "E",
+      "pembahasan": "Kebaya identik dengan budaya Jawa. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jawa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-6",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dari dalam tanah adalah... (Soal Review #6)",
+      "opsi": {
+        "A": "Akar",
+        "B": "Batang",
+        "C": "Daun",
+        "D": "Bunga",
+        "E": "Buah"
+      },
+      "kunci": "A",
+      "pembahasan": "Akar bertugas menyerap air dan mineral dari tanah.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-7",
+      "teks": "Proses pembuatan makanan pada tumbuhan dengan bantuan cahaya matahari disebut... (Soal Review #7)",
+      "opsi": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Evaporasi",
+        "D": "Kondensasi",
+        "E": "Metamorfosis"
+      },
+      "kunci": "B",
+      "pembahasan": "Fotosintesis terjadi di daun mengubah air dan CO2 menjadi glukosa dibantu cahaya.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-8",
+      "teks": "Gaya yang terjadi akibat gesekan dua permukaan benda disebut gaya... (Soal Review #8)",
+      "opsi": {
+        "A": "Otot",
+        "B": "Gravitasi",
+        "C": "Gesek",
+        "D": "Magnet",
+        "E": "Pegas"
+      },
+      "kunci": "C",
+      "pembahasan": "Gaya gesek berlawanan arah dengan gerak benda.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-9",
+      "teks": "Perubahan wujud dari padat menjadi cair disebut... (Soal Review #9)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Mencair",
+        "E": "Menyublim"
+      },
+      "kunci": "D",
+      "pembahasan": "Mencair (melebur) membutuhkan kalor/panas, contohnya es batu yang dibiarkan.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-10",
+      "teks": "Pakaian adat kebaya banyak berasal dari daerah... (Soal Review #10)",
+      "opsi": {
+        "A": "Papua",
+        "B": "Sumatra Barat",
+        "C": "Kalimantan",
+        "D": "Sulawesi",
+        "E": "Jawa"
+      },
+      "kunci": "E",
+      "pembahasan": "Kebaya identik dengan budaya Jawa. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jawa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-11",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dari dalam tanah adalah... (Soal Review #11)",
+      "opsi": {
+        "A": "Akar",
+        "B": "Batang",
+        "C": "Daun",
+        "D": "Bunga",
+        "E": "Buah"
+      },
+      "kunci": "A",
+      "pembahasan": "Akar bertugas menyerap air dan mineral dari tanah.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-12",
+      "teks": "Proses pembuatan makanan pada tumbuhan dengan bantuan cahaya matahari disebut... (Soal Review #12)",
+      "opsi": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Evaporasi",
+        "D": "Kondensasi",
+        "E": "Metamorfosis"
+      },
+      "kunci": "B",
+      "pembahasan": "Fotosintesis terjadi di daun mengubah air dan CO2 menjadi glukosa dibantu cahaya.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-13",
+      "teks": "Gaya yang terjadi akibat gesekan dua permukaan benda disebut gaya... (Soal Review #13)",
+      "opsi": {
+        "A": "Otot",
+        "B": "Gravitasi",
+        "C": "Gesek",
+        "D": "Magnet",
+        "E": "Pegas"
+      },
+      "kunci": "C",
+      "pembahasan": "Gaya gesek berlawanan arah dengan gerak benda.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-14",
+      "teks": "Perubahan wujud dari padat menjadi cair disebut... (Soal Review #14)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Mencair",
+        "E": "Menyublim"
+      },
+      "kunci": "D",
+      "pembahasan": "Mencair (melebur) membutuhkan kalor/panas, contohnya es batu yang dibiarkan.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-15",
+      "teks": "Pakaian adat kebaya banyak berasal dari daerah... (Soal Review #15)",
+      "opsi": {
+        "A": "Papua",
+        "B": "Sumatra Barat",
+        "C": "Kalimantan",
+        "D": "Sulawesi",
+        "E": "Jawa"
+      },
+      "kunci": "E",
+      "pembahasan": "Kebaya identik dengan budaya Jawa. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jawa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-16",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dari dalam tanah adalah... (Soal Review #16)",
+      "opsi": {
+        "A": "Akar",
+        "B": "Batang",
+        "C": "Daun",
+        "D": "Bunga",
+        "E": "Buah"
+      },
+      "kunci": "A",
+      "pembahasan": "Akar bertugas menyerap air dan mineral dari tanah.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-17",
+      "teks": "Proses pembuatan makanan pada tumbuhan dengan bantuan cahaya matahari disebut... (Soal Review #17)",
+      "opsi": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Evaporasi",
+        "D": "Kondensasi",
+        "E": "Metamorfosis"
+      },
+      "kunci": "B",
+      "pembahasan": "Fotosintesis terjadi di daun mengubah air dan CO2 menjadi glukosa dibantu cahaya.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-18",
+      "teks": "Gaya yang terjadi akibat gesekan dua permukaan benda disebut gaya... (Soal Review #18)",
+      "opsi": {
+        "A": "Otot",
+        "B": "Gravitasi",
+        "C": "Gesek",
+        "D": "Magnet",
+        "E": "Pegas"
+      },
+      "kunci": "C",
+      "pembahasan": "Gaya gesek berlawanan arah dengan gerak benda.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-19",
+      "teks": "Perubahan wujud dari padat menjadi cair disebut... (Soal Review #19)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Mencair",
+        "E": "Menyublim"
+      },
+      "kunci": "D",
+      "pembahasan": "Mencair (melebur) membutuhkan kalor/panas, contohnya es batu yang dibiarkan.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-20",
+      "teks": "Pakaian adat kebaya banyak berasal dari daerah... (Soal Review #20)",
+      "opsi": {
+        "A": "Papua",
+        "B": "Sumatra Barat",
+        "C": "Kalimantan",
+        "D": "Sulawesi",
+        "E": "Jawa"
+      },
+      "kunci": "E",
+      "pembahasan": "Kebaya identik dengan budaya Jawa. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jawa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-21",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dari dalam tanah adalah... (Soal Review #21)",
+      "opsi": {
+        "A": "Akar",
+        "B": "Batang",
+        "C": "Daun",
+        "D": "Bunga",
+        "E": "Buah"
+      },
+      "kunci": "A",
+      "pembahasan": "Akar bertugas menyerap air dan mineral dari tanah.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-22",
+      "teks": "Proses pembuatan makanan pada tumbuhan dengan bantuan cahaya matahari disebut... (Soal Review #22)",
+      "opsi": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Evaporasi",
+        "D": "Kondensasi",
+        "E": "Metamorfosis"
+      },
+      "kunci": "B",
+      "pembahasan": "Fotosintesis terjadi di daun mengubah air dan CO2 menjadi glukosa dibantu cahaya.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-23",
+      "teks": "Gaya yang terjadi akibat gesekan dua permukaan benda disebut gaya... (Soal Review #23)",
+      "opsi": {
+        "A": "Otot",
+        "B": "Gravitasi",
+        "C": "Gesek",
+        "D": "Magnet",
+        "E": "Pegas"
+      },
+      "kunci": "C",
+      "pembahasan": "Gaya gesek berlawanan arah dengan gerak benda.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-24",
+      "teks": "Perubahan wujud dari padat menjadi cair disebut... (Soal Review #24)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Mencair",
+        "E": "Menyublim"
+      },
+      "kunci": "D",
+      "pembahasan": "Mencair (melebur) membutuhkan kalor/panas, contohnya es batu yang dibiarkan.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-25",
+      "teks": "Pakaian adat kebaya banyak berasal dari daerah... (Soal Review #25)",
+      "opsi": {
+        "A": "Papua",
+        "B": "Sumatra Barat",
+        "C": "Kalimantan",
+        "D": "Sulawesi",
+        "E": "Jawa"
+      },
+      "kunci": "E",
+      "pembahasan": "Kebaya identik dengan budaya Jawa. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jawa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-26",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dari dalam tanah adalah... (Soal Review #26)",
+      "opsi": {
+        "A": "Akar",
+        "B": "Batang",
+        "C": "Daun",
+        "D": "Bunga",
+        "E": "Buah"
+      },
+      "kunci": "A",
+      "pembahasan": "Akar bertugas menyerap air dan mineral dari tanah.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-27",
+      "teks": "Proses pembuatan makanan pada tumbuhan dengan bantuan cahaya matahari disebut... (Soal Review #27)",
+      "opsi": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Evaporasi",
+        "D": "Kondensasi",
+        "E": "Metamorfosis"
+      },
+      "kunci": "B",
+      "pembahasan": "Fotosintesis terjadi di daun mengubah air dan CO2 menjadi glukosa dibantu cahaya.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-28",
+      "teks": "Gaya yang terjadi akibat gesekan dua permukaan benda disebut gaya... (Soal Review #28)",
+      "opsi": {
+        "A": "Otot",
+        "B": "Gravitasi",
+        "C": "Gesek",
+        "D": "Magnet",
+        "E": "Pegas"
+      },
+      "kunci": "C",
+      "pembahasan": "Gaya gesek berlawanan arah dengan gerak benda.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-29",
+      "teks": "Perubahan wujud dari padat menjadi cair disebut... (Soal Review #29)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Mencair",
+        "E": "Menyublim"
+      },
+      "kunci": "D",
+      "pembahasan": "Mencair (melebur) membutuhkan kalor/panas, contohnya es batu yang dibiarkan.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-30",
+      "teks": "Pakaian adat kebaya banyak berasal dari daerah... (Soal Review #30)",
+      "opsi": {
+        "A": "Papua",
+        "B": "Sumatra Barat",
+        "C": "Kalimantan",
+        "D": "Sulawesi",
+        "E": "Jawa"
+      },
+      "kunci": "E",
+      "pembahasan": "Kebaya identik dengan budaya Jawa. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jawa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-31",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dari dalam tanah adalah... (Soal Review #31)",
+      "opsi": {
+        "A": "Akar",
+        "B": "Batang",
+        "C": "Daun",
+        "D": "Bunga",
+        "E": "Buah"
+      },
+      "kunci": "A",
+      "pembahasan": "Akar bertugas menyerap air dan mineral dari tanah.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-32",
+      "teks": "Proses pembuatan makanan pada tumbuhan dengan bantuan cahaya matahari disebut... (Soal Review #32)",
+      "opsi": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Evaporasi",
+        "D": "Kondensasi",
+        "E": "Metamorfosis"
+      },
+      "kunci": "B",
+      "pembahasan": "Fotosintesis terjadi di daun mengubah air dan CO2 menjadi glukosa dibantu cahaya.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-33",
+      "teks": "Gaya yang terjadi akibat gesekan dua permukaan benda disebut gaya... (Soal Review #33)",
+      "opsi": {
+        "A": "Otot",
+        "B": "Gravitasi",
+        "C": "Gesek",
+        "D": "Magnet",
+        "E": "Pegas"
+      },
+      "kunci": "C",
+      "pembahasan": "Gaya gesek berlawanan arah dengan gerak benda.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-34",
+      "teks": "Perubahan wujud dari padat menjadi cair disebut... (Soal Review #34)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Mencair",
+        "E": "Menyublim"
+      },
+      "kunci": "D",
+      "pembahasan": "Mencair (melebur) membutuhkan kalor/panas, contohnya es batu yang dibiarkan.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-35",
+      "teks": "Pakaian adat kebaya banyak berasal dari daerah... (Soal Review #35)",
+      "opsi": {
+        "A": "Papua",
+        "B": "Sumatra Barat",
+        "C": "Kalimantan",
+        "D": "Sulawesi",
+        "E": "Jawa"
+      },
+      "kunci": "E",
+      "pembahasan": "Kebaya identik dengan budaya Jawa. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jawa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-36",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dari dalam tanah adalah... (Soal Review #36)",
+      "opsi": {
+        "A": "Akar",
+        "B": "Batang",
+        "C": "Daun",
+        "D": "Bunga",
+        "E": "Buah"
+      },
+      "kunci": "A",
+      "pembahasan": "Akar bertugas menyerap air dan mineral dari tanah.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-37",
+      "teks": "Proses pembuatan makanan pada tumbuhan dengan bantuan cahaya matahari disebut... (Soal Review #37)",
+      "opsi": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Evaporasi",
+        "D": "Kondensasi",
+        "E": "Metamorfosis"
+      },
+      "kunci": "B",
+      "pembahasan": "Fotosintesis terjadi di daun mengubah air dan CO2 menjadi glukosa dibantu cahaya.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-38",
+      "teks": "Gaya yang terjadi akibat gesekan dua permukaan benda disebut gaya... (Soal Review #38)",
+      "opsi": {
+        "A": "Otot",
+        "B": "Gravitasi",
+        "C": "Gesek",
+        "D": "Magnet",
+        "E": "Pegas"
+      },
+      "kunci": "C",
+      "pembahasan": "Gaya gesek berlawanan arah dengan gerak benda.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-39",
+      "teks": "Perubahan wujud dari padat menjadi cair disebut... (Soal Review #39)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Mencair",
+        "E": "Menyublim"
+      },
+      "kunci": "D",
+      "pembahasan": "Mencair (melebur) membutuhkan kalor/panas, contohnya es batu yang dibiarkan.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-40",
+      "teks": "Pakaian adat kebaya banyak berasal dari daerah... (Soal Review #40)",
+      "opsi": {
+        "A": "Papua",
+        "B": "Sumatra Barat",
+        "C": "Kalimantan",
+        "D": "Sulawesi",
+        "E": "Jawa"
+      },
+      "kunci": "E",
+      "pembahasan": "Kebaya identik dengan budaya Jawa. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jawa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-41",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dari dalam tanah adalah... (Soal Review #41)",
+      "opsi": {
+        "A": "Akar",
+        "B": "Batang",
+        "C": "Daun",
+        "D": "Bunga",
+        "E": "Buah"
+      },
+      "kunci": "A",
+      "pembahasan": "Akar bertugas menyerap air dan mineral dari tanah.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-42",
+      "teks": "Proses pembuatan makanan pada tumbuhan dengan bantuan cahaya matahari disebut... (Soal Review #42)",
+      "opsi": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Evaporasi",
+        "D": "Kondensasi",
+        "E": "Metamorfosis"
+      },
+      "kunci": "B",
+      "pembahasan": "Fotosintesis terjadi di daun mengubah air dan CO2 menjadi glukosa dibantu cahaya.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-43",
+      "teks": "Gaya yang terjadi akibat gesekan dua permukaan benda disebut gaya... (Soal Review #43)",
+      "opsi": {
+        "A": "Otot",
+        "B": "Gravitasi",
+        "C": "Gesek",
+        "D": "Magnet",
+        "E": "Pegas"
+      },
+      "kunci": "C",
+      "pembahasan": "Gaya gesek berlawanan arah dengan gerak benda.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-44",
+      "teks": "Perubahan wujud dari padat menjadi cair disebut... (Soal Review #44)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Mencair",
+        "E": "Menyublim"
+      },
+      "kunci": "D",
+      "pembahasan": "Mencair (melebur) membutuhkan kalor/panas, contohnya es batu yang dibiarkan.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-45",
+      "teks": "Pakaian adat kebaya banyak berasal dari daerah... (Soal Review #45)",
+      "opsi": {
+        "A": "Papua",
+        "B": "Sumatra Barat",
+        "C": "Kalimantan",
+        "D": "Sulawesi",
+        "E": "Jawa"
+      },
+      "kunci": "E",
+      "pembahasan": "Kebaya identik dengan budaya Jawa. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jawa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-46",
+      "teks": "Bagian tumbuhan yang berfungsi menyerap air dari dalam tanah adalah... (Soal Review #46)",
+      "opsi": {
+        "A": "Akar",
+        "B": "Batang",
+        "C": "Daun",
+        "D": "Bunga",
+        "E": "Buah"
+      },
+      "kunci": "A",
+      "pembahasan": "Akar bertugas menyerap air dan mineral dari tanah.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-47",
+      "teks": "Proses pembuatan makanan pada tumbuhan dengan bantuan cahaya matahari disebut... (Soal Review #47)",
+      "opsi": {
+        "A": "Respirasi",
+        "B": "Fotosintesis",
+        "C": "Evaporasi",
+        "D": "Kondensasi",
+        "E": "Metamorfosis"
+      },
+      "kunci": "B",
+      "pembahasan": "Fotosintesis terjadi di daun mengubah air dan CO2 menjadi glukosa dibantu cahaya.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-48",
+      "teks": "Gaya yang terjadi akibat gesekan dua permukaan benda disebut gaya... (Soal Review #48)",
+      "opsi": {
+        "A": "Otot",
+        "B": "Gravitasi",
+        "C": "Gesek",
+        "D": "Magnet",
+        "E": "Pegas"
+      },
+      "kunci": "C",
+      "pembahasan": "Gaya gesek berlawanan arah dengan gerak benda.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-49",
+      "teks": "Perubahan wujud dari padat menjadi cair disebut... (Soal Review #49)",
+      "opsi": {
+        "A": "Membeku",
+        "B": "Menguap",
+        "C": "Mengembun",
+        "D": "Mencair",
+        "E": "Menyublim"
+      },
+      "kunci": "D",
+      "pembahasan": "Mencair (melebur) membutuhkan kalor/panas, contohnya es batu yang dibiarkan.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    },
+    {
+      "id": "ipas4-50",
+      "teks": "Pakaian adat kebaya banyak berasal dari daerah... (Soal Review #50)",
+      "opsi": {
+        "A": "Papua",
+        "B": "Sumatra Barat",
+        "C": "Kalimantan",
+        "D": "Sulawesi",
+        "E": "Jawa"
+      },
+      "kunci": "E",
+      "pembahasan": "Kebaya identik dengan budaya Jawa. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jawa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hafalkan konsep-konsep dasar IPA dan Sosial secara terpadu (IPAS)."
+    }
+  ]
+}

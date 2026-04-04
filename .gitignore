@@ -1,0 +1,17 @@
+.next/
+node_modules/
+out/
+dist/
+coverage/
+*.log
+next-env.d.ts
+
+# Environment variables
+.env
+.env.*
+.env.local
+
+# Deployment keys and archives
+deployment.zip
+temp_deploy_key
+temp_deploy_key.pub

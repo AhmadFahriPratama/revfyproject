@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_MT_01",
+    "pertanyaan": "Berapakah nilai limit dari (x^2 - 4) / (x - 2) saat x mendekati 2?",
+    "opsi": [
+      "4",
+      "0",
+      "2",
+      "Tak hingga",
+      "Tidak terdefinisi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Faktorkan as (x-2)(x+2)/(x-2) = x+2. Masukkan x=2, hasil 2+2 = 4."
+  },
+  {
+    "id": "KU_MT_02",
+    "pertanyaan": "Turunan pertama (dy/dx) dari fungsi y = sin(x^2) adalah...",
+    "opsi": [
+      "cos(x^2)",
+      "2x cos(x^2)",
+      "-2x cos(x^2)",
+      "x^2 cos(x)",
+      "sin(2x)"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Gunakan Aturan Rantai: Turunan sin adalah cos, turunan x^2 adalah 2x. Hasil 2x cos(x^2)."
+  },
+  {
+    "id": "KU_MT_03",
+    "pertanyaan": "Integral dari f(x) = e^(2x) terhadap x adalah...",
+    "opsi": [
+      "e^(2x) + C",
+      "2e^(2x) + C",
+      "1/2 e^(2x) + C",
+      "e^x + C",
+      "2x e + C"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Integral e^(ax) dx = (1/a) e^(ax) + C. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/2 e^(2x) + C\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_MT_04",
+    "pertanyaan": "Manakah yang merupakan syarat fungsi f(x) kontinu di titik x = a?",
+    "opsi": [
+      "f(a) terdefinisi",
+      "Limit f(x) x mendekati a ada",
+      "Limit f(x) x mendekati a sama dengan f(a)",
+      "Semua jawaban A, B, dan C benar",
+      "Jawaban A dan B saja"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Fungsi kontinu memerlukan nilai fungsi ada, limit ada, dan keduanya sama."
+  },
+  {
+    "id": "KU_MT_05",
+    "pertanyaan": "Jika matriks A = [[1, 2], [3, 4]], berapakah nilai determinan matriks A?",
+    "opsi": [
+      "10",
+      "2",
+      "14",
+      "0",
+      "-2"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Det(A) = (1*4) - (2*3) = 4 - 6 = -2. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"-2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_MT_06",
+    "pertanyaan": "Aturan L'Hopital digunakan untuk menyelesaikan limit yang memiliki bentuk tak tentu, yaitu...",
+    "opsi": [
+      "0/0 atau tak hingga / tak hingga",
+      "1/0",
+      "0 * tak hingga",
+      "1^tak hingga",
+      "Semua bentuk di atas benar setelah dimanipulasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "L'Hopital bekerja dengan menurunkan pembilang dan penyebut secara terpisah."
+  },
+  {
+    "id": "KU_MT_07",
+    "pertanyaan": "Volume benda putar yang terbentuk jika daerah y = x diputar mengelilingi sumbu-x dari x=0 ke x=1 adalah...",
+    "opsi": [
+      "pi/2",
+      "pi/3",
+      "pi",
+      "2pi",
+      "1/3"
+    ],
+    "jawaban": 1,
+    "pembahasan": "V = integral (pi * y^2) dx = integral (pi * x^2) dx = [1/3 pi x^3] dari 0 ke 1 = pi/3."
+  },
+  {
+    "id": "KU_MT_08",
+    "pertanyaan": "Vektor u = [1, 2] dan v = [3, -1]. Berapakah hasil perkalian titik (dot product) u . v?",
+    "opsi": [
+      "5",
+      "-1",
+      "1",
+      "7",
+      "0"
+    ],
+    "jawaban": 2,
+    "pembahasan": "u.v = (1*3) + (2*-1) = 3 - 2 = 1. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_MT_09",
+    "pertanyaan": "Deret tak hingga 1 + 1/2 + 1/4 + 1/8 + ... konvergen ke nilai...",
+    "opsi": [
+      "1",
+      "1,5",
+      "Tak hingga",
+      "2",
+      "0"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Deret geometri a=1, r=1/2. Jumlah = a / (1-r) = 1 / (1 - 0,5) = 2."
+  },
+  {
+    "id": "KU_MT_10",
+    "pertanyaan": "Titik stasioner dari fungsi f(x) = x^2 - 4x + 5 adalah pada x = ...",
+    "opsi": [
+      "1",
+      "3",
+      "4",
+      "0",
+      "2"
+    ],
+    "jawaban": 4,
+    "pembahasan": "f'(x) = 2x - 4. Set f'(x) = 0, maka 2x = 4, x = 2."
+  },
+  {
+    "id": "KU_MT_11",
+    "pertanyaan": "Turunan dari fungsi f(x) = ln(x) adalah...",
+    "opsi": [
+      "1/x",
+      "e^x",
+      "x",
+      "log(x)",
+      "1"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Turunan logaritma natural ln(x) adalah 1/x untuk x > 0."
+  },
+  {
+    "id": "KU_MT_12",
+    "pertanyaan": "Persamaan garis singgung kurva y = x^2 di titik (1, 1) adalah...",
+    "opsi": [
+      "y = x",
+      "y = 2x - 1",
+      "y = 2x + 1",
+      "y = x + 1",
+      "y = -x + 2"
+    ],
+    "jawaban": 1,
+    "pembahasan": "m = y' = 2x. Di x=1, m = 2. Persamaan: y - 1 = 2(x - 1) => y = 2x - 1."
+  },
+  {
+    "id": "KU_MT_13",
+    "pertanyaan": "Matriks yang semua elemen diagonal utamanya adalah 1 dan elemen lainnya adalah 0 disebut...",
+    "opsi": [
+      "Matriks Nol",
+      "Matriks Skalar",
+      "Matriks Satuan (Identitas)",
+      "Matriks Transpose",
+      "Matriks Segitiga"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Matriks identitas (I) bertindak sebagai angka 1 dalam perkalian matriks."
+  },
+  {
+    "id": "KU_MT_14",
+    "pertanyaan": "Integral dari cos(x) dx adalah...",
+    "opsi": [
+      "-sin(x) + C",
+      "tan(x) + C",
+      "cos(x) + C",
+      "sin(x) + C",
+      "1"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Turunan sin adalah cos, maka integral cos adalah sin."
+  },
+  {
+    "id": "KU_MT_15",
+    "pertanyaan": "Nilai dari 1! + 2! + 3! adalah...",
+    "opsi": [
+      "6",
+      "12",
+      "15",
+      "3",
+      "9"
+    ],
+    "jawaban": 4,
+    "pembahasan": "1 + 2 + 6 = 9. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"9\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_MT_16",
+    "pertanyaan": "Sebuah matriks dikatakan tidak memiliki invers (singular) jika...",
+    "opsi": [
+      "Determinannya sama dengan nol",
+      "Determinannya positif",
+      "Determinannya negatif",
+      "Matriksnya persegi",
+      "Matriksnya besar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Invers matriks A = (1/det A) * Adjoint A. Jika det=0, maka invers tidak terdefinisi."
+  },
+  {
+    "id": "KU_MT_17",
+    "pertanyaan": "Fungsi f(x) = x^3 selalu naik pada interval...",
+    "opsi": [
+      "x > 0",
+      "Seluruh bilangan riil",
+      "x < 0",
+      "Hanya pada x=0",
+      "Tidak pernah naik"
+    ],
+    "jawaban": 1,
+    "pembahasan": "f'(x) = 3x^2, yang selalu >= 0 untuk semua x riil."
+  },
+  {
+    "id": "KU_MT_18",
+    "pertanyaan": "Integral batas 0 ke 2 dari fungis f(x) = 3x^2 dx adalah...",
+    "opsi": [
+      "4",
+      "6",
+      "8",
+      "12",
+      "2"
+    ],
+    "jawaban": 2,
+    "pembahasan": "[x^3] dari 0 ke 2 = 2^3 - 0 = 8. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_MT_19",
+    "pertanyaan": "Pada aljabar linier, OBE (Operasi Baris Elementer) meliputi hal berikut, KECUALI...",
+    "opsi": [
+      "Menukar dua baris",
+      "Mengalikan baris dengan konstanta tak nol",
+      "Menjumlahkan kelipatan satu baris ke baris lain",
+      "Mengalikan dua baris satu sama lain",
+      "Membagi baris dengan angka 2"
+    ],
+    "jawaban": 3,
+    "pembahasan": "OBE tidak memperbolehkan perkalian antar baris."
+  },
+  {
+    "id": "KU_MT_20",
+    "pertanyaan": "Limit x mendekati tak hingga dari (2x^2 + 1) / (x^2 - x) adalah...",
+    "opsi": [
+      "0",
+      "1",
+      "Tak hingga",
+      "-2",
+      "2"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bagi pembilang dan penyebut dengan pangkat tertinggi (x^2). Hasilnya 2/1 = 2."
+  },
+  {
+    "id": "KU_MT_21",
+    "pertanyaan": "Apa turunan kedua dari f(x) = x^4?",
+    "opsi": [
+      "12x^2",
+      "4x^3",
+      "24x",
+      "24",
+      "x^2"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Turunan pertama 4x^3, turunan kedua 12x^2."
+  },
+  {
+    "id": "KU_MT_22",
+    "pertanyaan": "Deret Maclaurin adalah deret Taylor yang berpusat di titik x = ...",
+    "opsi": [
+      "1",
+      "0",
+      "e",
+      "pi",
+      "Tak hingga"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Deret Maclaurin adalah kasus khusus deret Taylor dengan pusat a = 0."
+  },
+  {
+    "id": "KU_MT_23",
+    "pertanyaan": "Integral dari 1/x dx adalah...",
+    "opsi": [
+      "x + C",
+      "-1/x^2 + C",
+      "ln|x| + C",
+      "e^x + C",
+      "0"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Ini adalah bentuk integral logaritmik standar."
+  },
+  {
+    "id": "KU_MT_24",
+    "pertanyaan": "Sistem Persamaan Linier (SPL) yang tidak memiliki solusi disebut...",
+    "opsi": [
+      "Konsisten",
+      "Homogen",
+      "Trivial",
+      "Inkonsisten",
+      "Normal"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Inkonsisten terjadi jika ada kontradiksi dalam persamaan (misal 0 = 5)."
+  },
+  {
+    "id": "KU_MT_25",
+    "pertanyaan": "Apabila u . v = 0, maka dua vektor u dan v bersifat...",
+    "opsi": [
+      "Sejajar",
+      "Berlawanan arah",
+      "Sama panjang",
+      "Saling meniadakan",
+      "Tegak lurus (Orthogonal)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Dot product nol menandakan sudut antara vektor adalah 90 derajat."
+  },
+  {
+    "id": "KU_MT_26",
+    "pertanyaan": "Integral Parsial didasarkan pada rumus turunan dari...",
+    "opsi": [
+      "Perkalian dua fungsi (uv)",
+      "Penjumlahan",
+      "Pembagian fungsi",
+      "Fungsi komposisi",
+      "Fungsi logaritma"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Integral u dv = uv - integral v du. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Perkalian dua fungsi (uv)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_MT_27",
+    "pertanyaan": "Nilai dari e^0 adalah...",
+    "opsi": [
+      "0",
+      "1",
+      "e",
+      "Tak hingga",
+      "Tidak ada"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Setiap bilangan (kecuali nol) pangkat nol adalah satu."
+  },
+  {
+    "id": "KU_MT_28",
+    "pertanyaan": "Pada matriks persegi, jumlah elemen-elemen pada diagonal utama disebut...",
+    "opsi": [
+      "Determinan",
+      "Rank",
+      "Trace",
+      "Norm",
+      "Skalar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Trace(A) = a11 + a22 + ... + ann. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Trace\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_MT_29",
+    "pertanyaan": "Turunan dari f(x) = tan(x) adalah...",
+    "opsi": [
+      "sin^2(x)",
+      "-sec^2(x)",
+      "cot(x)",
+      "sec^2(x)",
+      "1"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Turunan tangen adalah secant kuadrat. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"sec^2(x)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_MT_30",
+    "pertanyaan": "Integral batas -a ke a dari fungsi ganjil f(x) dx adalah...",
+    "opsi": [
+      "2 * integral 0 ke a",
+      "a^2",
+      "1",
+      "Tak terhingga",
+      "0"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Untuk fungsi ganjil (misal sin(x) atau x^3), luas di kiri sumbu-y meniadakan luas di kanan."
+  },
+  {
+    "id": "KU_MT_31",
+    "pertanyaan": "Metode Eliminasi Gauss-Jordan menghasilkan matriks dalam bentuk...",
+    "opsi": [
+      "Eselon Baris Terreduksi",
+      "Eselon Baris",
+      "Matriks Segitiga Atas",
+      "Matriks Diagonal saja",
+      "Matriks Identitas (jika punya invers)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Eselon baris terreduksi memudahkan pembacaan langsung nilai variabel."
+  },
+  {
+    "id": "KU_MT_32",
+    "pertanyaan": "Turunan dari konstanta C adalah...",
+    "opsi": [
+      "C",
+      "0",
+      "1",
+      "x",
+      "-C"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Konstanta tidak berubah, sehingga laju perubahannya nol."
+  },
+  {
+    "id": "KU_MT_33",
+    "pertanyaan": "Luas di bawah kurva y = x^2 dari x=0 hingga x=3 adalah...",
+    "opsi": [
+      "3 unit",
+      "6 unit",
+      "9 unit",
+      "27 unit",
+      "1 unit"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Integral [1/3 x^3] dari 0 ke 3 = 1/3 * 27 = 9."
+  },
+  {
+    "id": "KU_MT_34",
+    "pertanyaan": "Dalam kalkulus, dy/dx merepresentasikan...",
+    "opsi": [
+      "Jumlah total",
+      "Volume benda",
+      "Perkaliian variabel",
+      "Laju perubahan sesaat (Kemiringan garis singgung)",
+      "Akar kuadrat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ini adalah konsep dasar diferensial. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Laju perubahan sesaat (Kemiringan garis singgung)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_MT_35",
+    "pertanyaan": "Deret ganti tanda (Alternating Series) konvergen jika...",
+    "opsi": [
+      "Suku-sukunya bertambah besar",
+      "Semua sukunya positif",
+      "Semua sukunya negatif",
+      "Deretnya merupakan deret harmonik",
+      "Limit suku ke-n adalah nol dan suku-sukunya monoton turun"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sesuai dengan Uji Deret Ganti Tanda (Leibniz Test)."
+  },
+  {
+    "id": "KU_MT_36",
+    "pertanyaan": "Nilai dari (i^2) dalam sistem bilangan kompleks adalah...",
+    "opsi": [
+      "-1",
+      "1",
+      "0",
+      "i",
+      "Tidak ada"
+    ],
+    "jawaban": 0,
+    "pembahasan": "i (imajiner) didefinisikan sebagai akar dari -1."
+  },
+  {
+    "id": "KU_MT_37",
+    "pertanyaan": "Transpos dari matriks baris [1, 2, 3] adalah...",
+    "opsi": [
+      "Baris [1, 2, 3]",
+      "Kolom [1, 2, 3]",
+      "Matriks nol",
+      "Skalar 6",
+      "Determinannya"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Transpose menukar baris menjadi kolom atau sebaliknya."
+  },
+  {
+    "id": "KU_MT_38",
+    "pertanyaan": "Integral dari f(x) + g(x) adalah...",
+    "opsi": [
+      "Integral f(x) * integral g(x)",
+      "f(x) * g(x)",
+      "Integral f(x) + integral g(x)",
+      "Bukan salah satu di atas",
+      "Hanya valid jika f(x) konstan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Integral bersifat linier terhadap penjumlahan dan pengurangan."
+  },
+  {
+    "id": "KU_MT_39",
+    "pertanyaan": "Limit sin(x) / x saat x mendekati 0 adalah...",
+    "opsi": [
+      "0",
+      "Tak hingga",
+      "Tidak ada",
+      "1",
+      "pi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ini adalah limit trigonometri dasar yang sangat penting."
+  },
+  {
+    "id": "KU_MT_40",
+    "pertanyaan": "Apa itu 'Hessian Matrix' dalam kalkulus peubah banyak?",
+    "opsi": [
+      "Matriks turunan pertama",
+      "Matriks identitas",
+      "Matriks segitiga",
+      "Matriks nol",
+      "Matriks turunan parsial kedua"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Hessian digunakan untuk menentukan jenis titik kritis (maksimum/minimum) fungsi multivariat."
+  },
+  {
+    "id": "KU_MT_41",
+    "pertanyaan": "Berapakah turunan dari f(x) = cos(x)?",
+    "opsi": [
+      "-sin(x)",
+      "sin(x)",
+      "tan(x)",
+      "sec(x)",
+      "-cos(x)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Turunan cosinus adalah minus sinus. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"-sin(x)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_MT_42",
+    "pertanyaan": "Rank sebuah matriks menyatakan...",
+    "opsi": [
+      "Jumlah elemen matriks",
+      "Jumlah baris yang bebas linier (tidak bisa dinyatakan dari baris lain)",
+      "Warna matriks",
+      "Nilai terbesar di matriks",
+      "Ukuran baris kali kolom"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Rank menunjukkan dimensi ruang kolom atau ruang baris."
+  },
+  {
+    "id": "KU_MT_43",
+    "pertanyaan": "Apabila fungsi f(x) memiliki turunan kedua f''(a) < 0 di titik kritis x=a, maka titik tersebut adalah...",
+    "opsi": [
+      "Minimum lokal",
+      "Titik belok",
+      "Maksimum lokal",
+      "Titik asal",
+      "Titik terputus"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Cekung ke bawah menandakan titik puncak (maksimum)."
+  },
+  {
+    "id": "KU_MT_44",
+    "pertanyaan": "Integral dari sec^2(x) dx adalah...",
+    "opsi": [
+      "sec(x) + C",
+      "cos(x) + C",
+      "sin(x) + C",
+      "tan(x) + C",
+      "x + C"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kebalikan dari turunan tangen. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"tan(x) + C\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_MT_45",
+    "pertanyaan": "Deret P, Sigma 1/n^p, konvergen jika...",
+    "opsi": [
+      "p <= 1",
+      "p = 0",
+      "p negatif",
+      "Selalu konvergen",
+      "p > 1"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Deret harmonik (p=1) divergen, namun jika p > 1 ia konvergen."
+  },
+  {
+    "id": "KU_MT_46",
+    "pertanyaan": "Turunan dari fungsi f(x) = x^x adalah...",
+    "opsi": [
+      "x^x (ln x + 1)",
+      "x * x^(x-1)",
+      "x^x ln x",
+      "e^x",
+      "x^2"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Gunakan logaritmik diferensial: y = x^x => ln y = x ln x. Turunkan kedua ruas."
+  },
+  {
+    "id": "KU_MT_47",
+    "pertanyaan": "Determinan matriks I (Identitas) ukuran n x n adalah...",
+    "opsi": [
+      "0",
+      "1",
+      "n",
+      "Tak hingga",
+      "-1"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Hasil kali diagonal utama identitas (1*1*...) adalah 1."
+  },
+  {
+    "id": "KU_MT_48",
+    "pertanyaan": "Apa itu 'Gradient' (Grad) dalam kalkulus vektor?",
+    "opsi": [
+      "Nilai rata-rata fungsi",
+      "Integral garis",
+      "Vektor turunan parsial pertama dari fungsi skalar",
+      "Determinan vektor",
+      "Volume benda"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Gradien menunjukkan arah kenaikan tercepat dari suatu fungsi skalar."
+  },
+  {
+    "id": "KU_MT_49",
+    "pertanyaan": "Uji integral digunakan untuk menentukan konvergensi...",
+    "opsi": [
+      "Barisan",
+      "Matriks",
+      "Limit",
+      "Deret tak hingga",
+      "Turunan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jika integral tak wajar konvergen, maka deret terkait juga konvergen."
+  },
+  {
+    "id": "KU_MT_50",
+    "pertanyaan": "Mengapa penguasaan Matematika Dasar penting bagi mahasiswa Universitas?",
+    "opsi": [
+      "Hanya sebagai syarat lulus",
+      "Supaya jago menghitung uang belanja",
+      "Biar bisa sombong",
+      "Hanya untuk mengisi waktu luang",
+      "Sebagai bahasa universal dan alat analisis logika dalam memecahkan masalah kompleks di semua disiplin sains dan teknologi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Matematika adalah fondasi utama berpikir kritis dan sistematis."
+  }
+]

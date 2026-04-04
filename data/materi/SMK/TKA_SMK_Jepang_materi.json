@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Bahasa Jepang",
+  "tingkatan": "SMK",
+  "jurusan": "Pariwisata / Teknik / Pilihan",
+  "deskripsi": "Materi persiapan TKA Bahasa Jepang untuk siswa SMK yang berfokus pada huruf dasar (Hiragana, Katakana), tata bahasa dasar (JLPT N5), dan percakapan di lingkungan kerja/industri (Kaigo/Ginou Jisshuu).",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Huruf Hiragana dan Katakana",
+      "konten": "Mengenal 46 huruf dasar Hiragana dan Katakana, bunyi panjang (Chooun), bunyi rangkap (Sokuon), serta aturan penulisan kata pinjaman asing (Katakana).",
+      "tag": [
+        "tka smk jepang materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Salam (Aisatsu) dan Perkenalan Diri",
+      "konten": "Salam sehari-hari (Ohayou, Konnichiwa, Konbanwa), perkenalan diri (Jiko Shoukai), menyebutkan asal sekolah (SMK), serta angka (1-1.000.000).",
+      "tag": [
+        "tka smk jepang materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Kata Ganti, Partikel, dan Kalimat Dasar",
+      "konten": "Penggunaan partikel 'wa', 'no', 'mo', 'ni', 'e', 'de', serta struktur kalimat positif, negatif, dan tanya (~desu, ~dewa arimasen, ~desu ka).",
+      "tag": [
+        "tka smk jepang materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Kata Kerja dan Kehidupan Sehari-hari",
+      "konten": "Golongan kata kerja (G1, G2, G3), bentuk Masu, penunjuk waktu (Jam, Hari, Bulan), serta kosakata kegiatan di bengkel atau hotel (Pariwisata/Teknik).",
+      "tag": [
+        "tka smk jepang materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Budaya Kerja Jepang (Kaizen & 5S)",
+      "konten": "Konsep 5S (Seiri, Seiton, Seiso, Seiketsu, Shitsuke), etiket membungkuk (Ojigi), serta pentingnya kedisiplinan waktu (Punctuality) di perusahaan Jepang.",
+      "tag": [
+        "tka smk jepang materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-jepang-materi",
+  "mapel": "TKA SMK: Bahasa Jepang",
+  "tag": [
+    "tka smk jepang materi"
+  ]
+}

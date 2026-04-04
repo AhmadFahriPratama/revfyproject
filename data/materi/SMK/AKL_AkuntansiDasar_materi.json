@@ -1,0 +1,53 @@
+{
+  "judul": "Akuntansi Dasar",
+  "tingkatan": "SMK",
+  "jurusan": "Akuntansi dan Keuangan Lembaga",
+  "deskripsi": "Materi komprehensif mengenai konsep dasar akuntansi, persamaan dasar, dan siklus akuntansi untuk perusahaan jasa.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengertian dan Tujuan Akuntansi",
+      "konten": "Akuntansi adalah proses mengidentifikasi, mengukur, dan melaporkan informasi ekonomi untuk memungkinkan adanya penilaian dan keputusan yang jelas serta tegas bagi mereka yang menggunakan informasi tersebut. Tujuan utamanya adalah menyediakan informasi keuangan suatu badan usaha kepada pihak berkepentingan (stakeholders).",
+      "tag": [
+        "akl akuntansidasar materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Persamaan Dasar Akuntansi",
+      "konten": "Rumus utama akuntansi adalah Aset = Liabilitas + Ekuitas. Aset adalah kekayaan perusahaan, Liabilitas adalah hutang kepada pihak luar, dan Ekuitas adalah modal pemilik. Setiap transaksi akan selalu menjaga keseimbangan rumus ini.",
+      "tag": [
+        "akl akuntansidasar materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Akun dan Kode Etik Profesi",
+      "konten": "Akun diklasifikasikan menjadi akun riil (Aset, Kewajiban, Modal) dan akun nominal (Pendapatan, Beban). Etika profesi akuntan meliputi integritas, objektivitas, kompetensi, kerahasiaan, dan perilaku profesional.",
+      "tag": [
+        "akl akuntansidasar materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Jurnal Umum dan Buku Besar",
+      "konten": "Jurnal umum adalah catatan kronologis transaksi. Posting adalah proses memindahkan data dari jurnal ke buku besar untuk mengelompokkan transaksi berdasarkan akunnya.",
+      "tag": [
+        "akl akuntansidasar materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Laporan Keuangan Dasar",
+      "konten": "Laporan keuangan utama terdiri dari Laporan Laba Rugi (pendapatan - beban), Laporan Perubahan Ekuitas, dan Neraca (posisi aset, hutang, modal).",
+      "tag": [
+        "akl akuntansidasar materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "akl-akuntansidasar-materi",
+  "mapel": "Akuntansi Dasar",
+  "tag": [
+    "akl akuntansidasar materi"
+  ]
+}

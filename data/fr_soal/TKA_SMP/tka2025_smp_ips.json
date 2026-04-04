@@ -1,0 +1,54 @@
+{
+  "id": "FR_SMP_IPS_2025",
+  "mapel": "FR TKA SMP IPS",
+  "tingkat": "SMP",
+  "soal": [
+    {
+      "id": "FR_SMP_IPS_01",
+      "pertanyaan": "FR 2025: Muncul soal tentang analisis letak geografis Indonesia. Pertanyaan menanyakan keuntungan Indonesia berada di posisi silang dunia bagi sektor ekonomi. Jawaban yang paling tepat menurut testimoni peserta adalah...",
+      "opsi": [
+        "Menjadi jalur perdagangan internasional yang ramai",
+        "Menjadi pusat gempa bumi",
+        "Memiliki banyak gunung api",
+        "Punya dua musim",
+        "Memiliki wilayah yang luas"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Letak di antara dua benua dan dua samudra menjadikan Indonesia poros maritim dunia.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    },
+    {
+      "id": "FR_SMP_IPS_02",
+      "pertanyaan": "FR 2025: Soal sejarah tentang peninggalan masa Islam. Peserta melaporkan soal gambar menara masjid yang mirip mercusuar (Masjid Kudus). Menara tersebut menunjukkan akulturasi dengan budaya...",
+      "opsi": [
+        "Eropa",
+        "Hindu",
+        "Cina",
+        "Arab",
+        "Mesir"
+      ],
+      "jawaban": "B",
+      "pembahasan": "Menara Masjid Kudus adalah contoh nyata akulturasi arsitektur Islam dan Hindu.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    },
+    {
+      "id": "FR_SMP_IPS_03",
+      "pertanyaan": "FR 2025: Soal ekonomi tentang permintaan dan penawaran. Apa yang terjadi jika harga barang naik namun daya beli tetap?",
+      "opsi": [
+        "Permintaan naik",
+        "Penawaran turun",
+        "Permintaan turun",
+        "Barang langka",
+        "Tidak ada perubahan"
+      ],
+      "jawaban": "C",
+      "pembahasan": "Sesuai hukum permintaan, jika harga naik, jumlah barang yang diminta akan turun.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    }
+  ],
+  "tahun": 2025,
+  "deskripsi": "Arsip rekonstruksi berdasarkan pola soal pada file tka2025_smp_ips.json."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "batch-registry",
+  "batches": [
+    {
+      "batch": "v1-foundation",
+      "scope": "cleanup and core generation",
+      "status": "completed"
+    },
+    {
+      "batch": "v2-learning-layer",
+      "scope": "governance, roadmap, graph, topics",
+      "status": "completed"
+    },
+    {
+      "batch": "v3-assessment-layer",
+      "scope": "question index, FR archive, tryout matrix, mastery map",
+      "status": "completed"
+    },
+    {
+      "batch": "v4-personalization-layer",
+      "scope": "learner profile, recommendation, adaptive routes",
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "recommendation-index",
+  "rules": [
+    {
+      "target": "UTBK",
+      "condition": "new_user",
+      "recommend": [
+        "roadmap/utbk_roadmap.json",
+        "materi/UTBK/utbk_materi_lengkap.json"
+      ],
+      "reason": "Mulai dari fondasi subtes sebelum masuk ke drill besar."
+    },
+    {
+      "target": "CPNS",
+      "condition": "weak_tiu",
+      "recommend": [
+        "soal/CPNS/cpns_tiu_latihan.json",
+        "tryout/CPNS/cpns_mini_drill_tiu_v01.json"
+      ],
+      "reason": "Latihan terarah dan mini drill membantu memperkuat area TIU yang lemah."
+    },
+    {
+      "target": "CPNS",
+      "condition": "stable_twk",
+      "recommend": [
+        "tryout/CPNS/cpns_section_twk_v01.json",
+        "tryout/CPNS/cpns_final_sprint_v01.json"
+      ],
+      "reason": "Setelah TWK stabil, pengguna diarahkan ke simulasi yang lebih menantang."
+    },
+    {
+      "target": "TKA_SMP",
+      "condition": "weak_wajib",
+      "recommend": [
+        "roadmap/tka_smp_roadmap.json",
+        "tryout/TKA_SMP/tka_smp_wajib_tryout_v01.json"
+      ],
+      "reason": "Penguatan mapel wajib menjadi prioritas sebelum masuk tryout campuran."
+    },
+    {
+      "target": "TKA_SMK",
+      "condition": "need_pilihan_focus",
+      "recommend": [
+        "roadmap/tka_smk_roadmap.json",
+        "tryout/TKA_SMK/tka_smk_pilihan_tryout_v01.json"
+      ],
+      "reason": "Jalur fokus mapel pilihan membantu belajar lebih sesuai kebutuhan bidang."
+    }
+  ]
+}

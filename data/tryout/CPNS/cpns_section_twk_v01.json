@@ -1,0 +1,529 @@
+{
+  "id": "cpns-section-twk-v01",
+  "judul": "CPNS Section Test TWK V01",
+  "mode": "section_test",
+  "focus": "TWK",
+  "durasiMenit": 35,
+  "soal": [
+    {
+      "id": "cpns-sec-twk-01",
+      "pertanyaan": "Bentuk negara Indonesia adalah dalam konteks konstitusi pada paket 06?",
+      "opsi": {
+        "A": "Negara Kesatuan",
+        "B": "Federasi",
+        "C": "Konfederasi",
+        "D": "Monarki",
+        "E": "Protektorat"
+      },
+      "jawaban": "A",
+      "pembahasan": "Indonesia adalah Negara Kesatuan Republik Indonesia."
+    },
+    {
+      "id": "cpns-sec-twk-02",
+      "pertanyaan": "Hak DPR untuk meminta keterangan kepada pemerintah disebut pada evaluasi wawasan kebangsaan pada paket 07?",
+      "opsi": {
+        "A": "Hak Budget",
+        "B": "Hak Interpelasi",
+        "C": "Hak Imunitas",
+        "D": "Hak Grasi",
+        "E": "Hak Angket"
+      },
+      "jawaban": "B",
+      "pembahasan": "Hak interpelasi adalah hak DPR untuk meminta keterangan kepada pemerintah."
+    },
+    {
+      "id": "cpns-sec-twk-03",
+      "pertanyaan": "Nilai yang menjiwai sila kedua Pancasila adalah dalam latihan dasar ASN pada paket 08?",
+      "opsi": {
+        "A": "Kepatuhan tanpa kritik",
+        "B": "Kepentingan kelompok",
+        "C": "Kemanusiaan yang adil dan beradab",
+        "D": "Kekuasaan mutlak",
+        "E": "Persaingan bebas"
+      },
+      "jawaban": "C",
+      "pembahasan": "Sila kedua menekankan penghormatan terhadap martabat manusia dan perlakuan yang adil."
+    },
+    {
+      "id": "cpns-sec-twk-04",
+      "pertanyaan": "Lembaga yang berwenang menguji undang-undang terhadap UUD 1945 adalah pada sesi pendalaman materi pada paket 09?",
+      "opsi": {
+        "A": "MPR",
+        "B": "Mahkamah Agung",
+        "C": "Komisi Yudisial",
+        "D": "Mahkamah Konstitusi",
+        "E": "DPR"
+      },
+      "jawaban": "D",
+      "pembahasan": "Mahkamah Konstitusi berwenang melakukan judicial review terhadap undang-undang."
+    },
+    {
+      "id": "cpns-sec-twk-05",
+      "pertanyaan": "Arti penting persatuan dalam NKRI adalah dalam materi pilar negara pada paket 10?",
+      "opsi": {
+        "A": "Menghapus semua perbedaan budaya",
+        "B": "Menolak seluruh budaya lokal",
+        "C": "Menyeragamkan semua pendapat",
+        "D": "Mengutamakan kelompok sendiri",
+        "E": "Menjaga keutuhan bangsa dalam keberagaman"
+      },
+      "jawaban": "E",
+      "pembahasan": "Persatuan bertujuan menjaga keutuhan bangsa sambil tetap menghormati perbedaan."
+    },
+    {
+      "id": "cpns-sec-twk-06",
+      "pertanyaan": "Tokoh yang dikenal sebagai Bapak Koperasi Indonesia adalah pada simulasi CAT pada paket 11?",
+      "opsi": {
+        "A": "Mohammad Hatta",
+        "B": "Soekarno",
+        "C": "Soepomo",
+        "D": "Mohammad Yamin",
+        "E": "Sutan Sjahrir"
+      },
+      "jawaban": "A",
+      "pembahasan": "Mohammad Hatta dikenal sebagai Bapak Koperasi Indonesia karena gagasan dan perannya dalam ekonomi kerakyatan."
+    },
+    {
+      "id": "cpns-sec-twk-07",
+      "pertanyaan": "Pancasila sebagai dasar negara tercantum dalam Pembukaan UUD 1945 alinea dalam modul integrasi nasional pada paket 12?",
+      "opsi": {
+        "A": "Kedua",
+        "B": "Keempat",
+        "C": "Ketiga",
+        "D": "Kelima",
+        "E": "Pertama"
+      },
+      "jawaban": "B",
+      "pembahasan": "Rumusan Pancasila tercantum pada alinea keempat Pembukaan UUD 1945."
+    },
+    {
+      "id": "cpns-sec-twk-08",
+      "pertanyaan": "Lembaga yang melantik Presiden dan Wakil Presiden hasil pemilu adalah pada pembahasan kebangsaan pada paket 13?",
+      "opsi": {
+        "A": "MA",
+        "B": "MK",
+        "C": "MPR",
+        "D": "DPR",
+        "E": "DPD"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pelantikan Presiden dan Wakil Presiden dilakukan oleh MPR."
+    },
+    {
+      "id": "cpns-sec-twk-09",
+      "pertanyaan": "Semboyan Bhinneka Tunggal Ika menekankan dalam konteks sejarah nasional pada paket 14?",
+      "opsi": {
+        "A": "Persaingan antar suku",
+        "B": "Keseragaman budaya",
+        "C": "Pemisahan antar daerah",
+        "D": "Persatuan dalam keberagaman",
+        "E": "Kebebasan tanpa batas"
+      },
+      "jawaban": "D",
+      "pembahasan": "Makna utama Bhinneka Tunggal Ika adalah persatuan meskipun masyarakat Indonesia beragam."
+    },
+    {
+      "id": "cpns-sec-twk-10",
+      "pertanyaan": "Ketua BPUPKI adalah pada topik bela negara pada paket 15?",
+      "opsi": {
+        "A": "Ir. Soekarno",
+        "B": "Drs. Moh. Hatta",
+        "C": "Mr. Soepomo",
+        "D": "Mr. Muh. Yamin",
+        "E": "Dr. Radjiman Wedyodiningrat"
+      },
+      "jawaban": "E",
+      "pembahasan": "BPUPKI dipimpin oleh Dr. Radjiman Wedyodiningrat."
+    },
+    {
+      "id": "cpns-sec-twk-11",
+      "pertanyaan": "Amandemen UUD 1945 telah dilakukan sebanyak dalam konteks konstitusi pada paket 16?",
+      "opsi": {
+        "A": "4 kali",
+        "B": "1 kali",
+        "C": "2 kali",
+        "D": "3 kali",
+        "E": "5 kali"
+      },
+      "jawaban": "A",
+      "pembahasan": "Amandemen UUD 1945 dilakukan empat kali pada periode 1999-2002."
+    },
+    {
+      "id": "cpns-sec-twk-12",
+      "pertanyaan": "Sila keempat Pancasila menekankan pada evaluasi wawasan kebangsaan pada paket 17?",
+      "opsi": {
+        "A": "Persaingan ekonomi",
+        "B": "Musyawarah untuk mufakat",
+        "C": "Kekuasaan absolut",
+        "D": "Kesamaan profesi",
+        "E": "Kebebasan mutlak individu"
+      },
+      "jawaban": "B",
+      "pembahasan": "Sila keempat menekankan kerakyatan dan permusyawaratan."
+    },
+    {
+      "id": "cpns-sec-twk-13",
+      "pertanyaan": "Bentuk negara Indonesia adalah dalam latihan dasar ASN pada paket 18?",
+      "opsi": {
+        "A": "Monarki",
+        "B": "Protektorat",
+        "C": "Negara Kesatuan",
+        "D": "Federasi",
+        "E": "Konfederasi"
+      },
+      "jawaban": "C",
+      "pembahasan": "Indonesia adalah Negara Kesatuan Republik Indonesia."
+    },
+    {
+      "id": "cpns-sec-twk-14",
+      "pertanyaan": "Hak DPR untuk meminta keterangan kepada pemerintah disebut pada sesi pendalaman materi pada paket 19?",
+      "opsi": {
+        "A": "Hak Grasi",
+        "B": "Hak Angket",
+        "C": "Hak Budget",
+        "D": "Hak Interpelasi",
+        "E": "Hak Imunitas"
+      },
+      "jawaban": "D",
+      "pembahasan": "Hak interpelasi adalah hak DPR untuk meminta keterangan kepada pemerintah."
+    },
+    {
+      "id": "cpns-sec-twk-15",
+      "pertanyaan": "Nilai yang menjiwai sila kedua Pancasila adalah dalam materi pilar negara pada paket 20?",
+      "opsi": {
+        "A": "Kekuasaan mutlak",
+        "B": "Persaingan bebas",
+        "C": "Kepatuhan tanpa kritik",
+        "D": "Kepentingan kelompok",
+        "E": "Kemanusiaan yang adil dan beradab"
+      },
+      "jawaban": "E",
+      "pembahasan": "Sila kedua menekankan penghormatan terhadap martabat manusia dan perlakuan yang adil."
+    },
+    {
+      "id": "cpns-sec-twk-16",
+      "pertanyaan": "Lembaga yang berwenang menguji undang-undang terhadap UUD 1945 adalah pada simulasi CAT pada paket 21?",
+      "opsi": {
+        "A": "Mahkamah Konstitusi",
+        "B": "Mahkamah Agung",
+        "C": "Komisi Yudisial",
+        "D": "DPR",
+        "E": "MPR"
+      },
+      "jawaban": "A",
+      "pembahasan": "Mahkamah Konstitusi berwenang melakukan judicial review terhadap undang-undang."
+    },
+    {
+      "id": "cpns-sec-twk-17",
+      "pertanyaan": "Arti penting persatuan dalam NKRI adalah dalam modul integrasi nasional pada paket 22?",
+      "opsi": {
+        "A": "Menolak seluruh budaya lokal",
+        "B": "Menjaga keutuhan bangsa dalam keberagaman",
+        "C": "Menyeragamkan semua pendapat",
+        "D": "Mengutamakan kelompok sendiri",
+        "E": "Menghapus semua perbedaan budaya"
+      },
+      "jawaban": "B",
+      "pembahasan": "Persatuan bertujuan menjaga keutuhan bangsa sambil tetap menghormati perbedaan."
+    },
+    {
+      "id": "cpns-sec-twk-18",
+      "pertanyaan": "Tokoh yang dikenal sebagai Bapak Koperasi Indonesia adalah pada pembahasan kebangsaan pada paket 23?",
+      "opsi": {
+        "A": "Mohammad Yamin",
+        "B": "Sutan Sjahrir",
+        "C": "Mohammad Hatta",
+        "D": "Soekarno",
+        "E": "Soepomo"
+      },
+      "jawaban": "C",
+      "pembahasan": "Mohammad Hatta dikenal sebagai Bapak Koperasi Indonesia karena gagasan dan perannya dalam ekonomi kerakyatan."
+    },
+    {
+      "id": "cpns-sec-twk-19",
+      "pertanyaan": "Pancasila sebagai dasar negara tercantum dalam Pembukaan UUD 1945 alinea dalam konteks sejarah nasional pada paket 24?",
+      "opsi": {
+        "A": "Kelima",
+        "B": "Pertama",
+        "C": "Kedua",
+        "D": "Keempat",
+        "E": "Ketiga"
+      },
+      "jawaban": "D",
+      "pembahasan": "Rumusan Pancasila tercantum pada alinea keempat Pembukaan UUD 1945."
+    },
+    {
+      "id": "cpns-sec-twk-20",
+      "pertanyaan": "Lembaga yang melantik Presiden dan Wakil Presiden hasil pemilu adalah pada topik bela negara pada paket 25?",
+      "opsi": {
+        "A": "DPR",
+        "B": "DPD",
+        "C": "MA",
+        "D": "MK",
+        "E": "MPR"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pelantikan Presiden dan Wakil Presiden dilakukan oleh MPR."
+    },
+    {
+      "id": "cpns-sec-twk-21",
+      "pertanyaan": "Semboyan Bhinneka Tunggal Ika menekankan dalam konteks konstitusi pada paket 01?",
+      "opsi": {
+        "A": "Persatuan dalam keberagaman",
+        "B": "Keseragaman budaya",
+        "C": "Pemisahan antar daerah",
+        "D": "Kebebasan tanpa batas",
+        "E": "Persaingan antar suku"
+      },
+      "jawaban": "A",
+      "pembahasan": "Makna utama Bhinneka Tunggal Ika adalah persatuan meskipun masyarakat Indonesia beragam."
+    },
+    {
+      "id": "cpns-sec-twk-22",
+      "pertanyaan": "Ketua BPUPKI adalah pada evaluasi wawasan kebangsaan pada paket 02?",
+      "opsi": {
+        "A": "Drs. Moh. Hatta",
+        "B": "Dr. Radjiman Wedyodiningrat",
+        "C": "Mr. Soepomo",
+        "D": "Mr. Muh. Yamin",
+        "E": "Ir. Soekarno"
+      },
+      "jawaban": "B",
+      "pembahasan": "BPUPKI dipimpin oleh Dr. Radjiman Wedyodiningrat."
+    },
+    {
+      "id": "cpns-sec-twk-23",
+      "pertanyaan": "Amandemen UUD 1945 telah dilakukan sebanyak dalam latihan dasar ASN pada paket 03?",
+      "opsi": {
+        "A": "3 kali",
+        "B": "5 kali",
+        "C": "4 kali",
+        "D": "1 kali",
+        "E": "2 kali"
+      },
+      "jawaban": "C",
+      "pembahasan": "Amandemen UUD 1945 dilakukan empat kali pada periode 1999-2002."
+    },
+    {
+      "id": "cpns-sec-twk-24",
+      "pertanyaan": "Sila keempat Pancasila menekankan pada sesi pendalaman materi pada paket 04?",
+      "opsi": {
+        "A": "Kesamaan profesi",
+        "B": "Kebebasan mutlak individu",
+        "C": "Persaingan ekonomi",
+        "D": "Musyawarah untuk mufakat",
+        "E": "Kekuasaan absolut"
+      },
+      "jawaban": "D",
+      "pembahasan": "Sila keempat menekankan kerakyatan dan permusyawaratan."
+    },
+    {
+      "id": "cpns-sec-twk-25",
+      "pertanyaan": "Bentuk negara Indonesia adalah dalam materi pilar negara pada paket 05?",
+      "opsi": {
+        "A": "Federasi",
+        "B": "Konfederasi",
+        "C": "Monarki",
+        "D": "Protektorat",
+        "E": "Negara Kesatuan"
+      },
+      "jawaban": "E",
+      "pembahasan": "Indonesia adalah Negara Kesatuan Republik Indonesia."
+    },
+    {
+      "id": "cpns-sec-twk-26",
+      "pertanyaan": "Hak DPR untuk meminta keterangan kepada pemerintah disebut pada simulasi CAT pada paket 06?",
+      "opsi": {
+        "A": "Hak Interpelasi",
+        "B": "Hak Angket",
+        "C": "Hak Budget",
+        "D": "Hak Imunitas",
+        "E": "Hak Grasi"
+      },
+      "jawaban": "A",
+      "pembahasan": "Hak interpelasi adalah hak DPR untuk meminta keterangan kepada pemerintah."
+    },
+    {
+      "id": "cpns-sec-twk-27",
+      "pertanyaan": "Nilai yang menjiwai sila kedua Pancasila adalah dalam modul integrasi nasional pada paket 07?",
+      "opsi": {
+        "A": "Persaingan bebas",
+        "B": "Kemanusiaan yang adil dan beradab",
+        "C": "Kepatuhan tanpa kritik",
+        "D": "Kepentingan kelompok",
+        "E": "Kekuasaan mutlak"
+      },
+      "jawaban": "B",
+      "pembahasan": "Sila kedua menekankan penghormatan terhadap martabat manusia dan perlakuan yang adil."
+    },
+    {
+      "id": "cpns-sec-twk-28",
+      "pertanyaan": "Lembaga yang berwenang menguji undang-undang terhadap UUD 1945 adalah pada pembahasan kebangsaan pada paket 08?",
+      "opsi": {
+        "A": "DPR",
+        "B": "MPR",
+        "C": "Mahkamah Konstitusi",
+        "D": "Mahkamah Agung",
+        "E": "Komisi Yudisial"
+      },
+      "jawaban": "C",
+      "pembahasan": "Mahkamah Konstitusi berwenang melakukan judicial review terhadap undang-undang."
+    },
+    {
+      "id": "cpns-sec-twk-29",
+      "pertanyaan": "Arti penting persatuan dalam NKRI adalah dalam konteks sejarah nasional pada paket 09?",
+      "opsi": {
+        "A": "Mengutamakan kelompok sendiri",
+        "B": "Menghapus semua perbedaan budaya",
+        "C": "Menolak seluruh budaya lokal",
+        "D": "Menjaga keutuhan bangsa dalam keberagaman",
+        "E": "Menyeragamkan semua pendapat"
+      },
+      "jawaban": "D",
+      "pembahasan": "Persatuan bertujuan menjaga keutuhan bangsa sambil tetap menghormati perbedaan."
+    },
+    {
+      "id": "cpns-sec-twk-30",
+      "pertanyaan": "Tokoh yang dikenal sebagai Bapak Koperasi Indonesia adalah pada topik bela negara pada paket 10?",
+      "opsi": {
+        "A": "Soekarno",
+        "B": "Soepomo",
+        "C": "Mohammad Yamin",
+        "D": "Sutan Sjahrir",
+        "E": "Mohammad Hatta"
+      },
+      "jawaban": "E",
+      "pembahasan": "Mohammad Hatta dikenal sebagai Bapak Koperasi Indonesia karena gagasan dan perannya dalam ekonomi kerakyatan."
+    },
+    {
+      "id": "cpns-sec-twk-31",
+      "pertanyaan": "Pancasila sebagai dasar negara tercantum dalam Pembukaan UUD 1945 alinea dalam konteks konstitusi pada paket 11?",
+      "opsi": {
+        "A": "Keempat",
+        "B": "Pertama",
+        "C": "Kedua",
+        "D": "Ketiga",
+        "E": "Kelima"
+      },
+      "jawaban": "A",
+      "pembahasan": "Rumusan Pancasila tercantum pada alinea keempat Pembukaan UUD 1945."
+    },
+    {
+      "id": "cpns-sec-twk-32",
+      "pertanyaan": "Lembaga yang melantik Presiden dan Wakil Presiden hasil pemilu adalah pada evaluasi wawasan kebangsaan pada paket 12?",
+      "opsi": {
+        "A": "DPD",
+        "B": "MPR",
+        "C": "MA",
+        "D": "MK",
+        "E": "DPR"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pelantikan Presiden dan Wakil Presiden dilakukan oleh MPR."
+    },
+    {
+      "id": "cpns-sec-twk-33",
+      "pertanyaan": "Semboyan Bhinneka Tunggal Ika menekankan dalam latihan dasar ASN pada paket 13?",
+      "opsi": {
+        "A": "Kebebasan tanpa batas",
+        "B": "Persaingan antar suku",
+        "C": "Persatuan dalam keberagaman",
+        "D": "Keseragaman budaya",
+        "E": "Pemisahan antar daerah"
+      },
+      "jawaban": "C",
+      "pembahasan": "Makna utama Bhinneka Tunggal Ika adalah persatuan meskipun masyarakat Indonesia beragam."
+    },
+    {
+      "id": "cpns-sec-twk-34",
+      "pertanyaan": "Ketua BPUPKI adalah pada sesi pendalaman materi pada paket 14?",
+      "opsi": {
+        "A": "Mr. Muh. Yamin",
+        "B": "Ir. Soekarno",
+        "C": "Drs. Moh. Hatta",
+        "D": "Dr. Radjiman Wedyodiningrat",
+        "E": "Mr. Soepomo"
+      },
+      "jawaban": "D",
+      "pembahasan": "BPUPKI dipimpin oleh Dr. Radjiman Wedyodiningrat."
+    },
+    {
+      "id": "cpns-sec-twk-35",
+      "pertanyaan": "Amandemen UUD 1945 telah dilakukan sebanyak dalam materi pilar negara pada paket 15?",
+      "opsi": {
+        "A": "1 kali",
+        "B": "2 kali",
+        "C": "3 kali",
+        "D": "5 kali",
+        "E": "4 kali"
+      },
+      "jawaban": "E",
+      "pembahasan": "Amandemen UUD 1945 dilakukan empat kali pada periode 1999-2002."
+    },
+    {
+      "id": "cpns-sec-twk-36",
+      "pertanyaan": "Sila keempat Pancasila menekankan pada simulasi CAT pada paket 16?",
+      "opsi": {
+        "A": "Musyawarah untuk mufakat",
+        "B": "Kebebasan mutlak individu",
+        "C": "Persaingan ekonomi",
+        "D": "Kekuasaan absolut",
+        "E": "Kesamaan profesi"
+      },
+      "jawaban": "A",
+      "pembahasan": "Sila keempat menekankan kerakyatan dan permusyawaratan."
+    },
+    {
+      "id": "cpns-sec-twk-37",
+      "pertanyaan": "Bentuk negara Indonesia adalah dalam modul integrasi nasional pada paket 17?",
+      "opsi": {
+        "A": "Konfederasi",
+        "B": "Negara Kesatuan",
+        "C": "Monarki",
+        "D": "Protektorat",
+        "E": "Federasi"
+      },
+      "jawaban": "B",
+      "pembahasan": "Indonesia adalah Negara Kesatuan Republik Indonesia."
+    },
+    {
+      "id": "cpns-sec-twk-38",
+      "pertanyaan": "Hak DPR untuk meminta keterangan kepada pemerintah disebut pada pembahasan kebangsaan pada paket 18?",
+      "opsi": {
+        "A": "Hak Imunitas",
+        "B": "Hak Grasi",
+        "C": "Hak Interpelasi",
+        "D": "Hak Angket",
+        "E": "Hak Budget"
+      },
+      "jawaban": "C",
+      "pembahasan": "Hak interpelasi adalah hak DPR untuk meminta keterangan kepada pemerintah."
+    },
+    {
+      "id": "cpns-sec-twk-39",
+      "pertanyaan": "Nilai yang menjiwai sila kedua Pancasila adalah dalam konteks sejarah nasional pada paket 19?",
+      "opsi": {
+        "A": "Kepentingan kelompok",
+        "B": "Kekuasaan mutlak",
+        "C": "Persaingan bebas",
+        "D": "Kemanusiaan yang adil dan beradab",
+        "E": "Kepatuhan tanpa kritik"
+      },
+      "jawaban": "D",
+      "pembahasan": "Sila kedua menekankan penghormatan terhadap martabat manusia dan perlakuan yang adil."
+    },
+    {
+      "id": "cpns-sec-twk-40",
+      "pertanyaan": "Lembaga yang berwenang menguji undang-undang terhadap UUD 1945 adalah pada topik bela negara pada paket 20?",
+      "opsi": {
+        "A": "Mahkamah Agung",
+        "B": "Komisi Yudisial",
+        "C": "DPR",
+        "D": "MPR",
+        "E": "Mahkamah Konstitusi"
+      },
+      "jawaban": "E",
+      "pembahasan": "Mahkamah Konstitusi berwenang melakukan judicial review terhadap undang-undang."
+    }
+  ]
+}

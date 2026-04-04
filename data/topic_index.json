@@ -1,0 +1,120 @@
+{
+  "id": "topic-index",
+  "topics": [
+    {
+      "topic": "tiu",
+      "keywords": [
+        "analogi",
+        "silogisme",
+        "numerik",
+        "logika"
+      ],
+      "related": [
+        "materi/CPNS/cpns_materi_lengkap.json",
+        "soal/CPNS/cpns_tiu_latihan.json"
+      ]
+    },
+    {
+      "topic": "twk",
+      "keywords": [
+        "pancasila",
+        "uud 1945",
+        "nkri",
+        "bhinneka"
+      ],
+      "related": [
+        "materi/CPNS/cpns_materi_lengkap.json",
+        "soal/CPNS/cpns_twk_latihan.json"
+      ]
+    },
+    {
+      "topic": "tkp",
+      "keywords": [
+        "integritas",
+        "pelayanan publik",
+        "adaptasi",
+        "kolaborasi"
+      ],
+      "related": [
+        "materi/CPNS/cpns_materi_lengkap.json",
+        "soal/CPNS/cpns_tkp_latihan.json"
+      ]
+    },
+    {
+      "topic": "utbk-tps",
+      "keywords": [
+        "penalaran umum",
+        "ppu",
+        "pbm",
+        "pk"
+      ],
+      "related": [
+        "materi/UTBK/utbk_materi_lengkap.json",
+        "soal/UTBK/utbk_latihan_Penalaran_Umum.json"
+      ]
+    },
+    {
+      "topic": "utbk-literasi",
+      "keywords": [
+        "literasi indonesia",
+        "literasi inggris",
+        "bacaan"
+      ],
+      "related": [
+        "materi/UTBK/utbk_materi_literasi_bahasa_indonesia.json",
+        "materi/UTBK/utbk_materi_literasi_bahasa_inggris.json"
+      ]
+    },
+    {
+      "topic": "tka-smp-wajib",
+      "keywords": [
+        "bahasa indonesia",
+        "bahasa inggris",
+        "matematika",
+        "pancasila"
+      ],
+      "related": [
+        "roadmap/tka_smp_roadmap.json",
+        "tryout/TKA_SMP/tka_smp_wajib_tryout_v01.json"
+      ]
+    },
+    {
+      "topic": "tka-smp-pilihan",
+      "keywords": [
+        "ipa",
+        "ips"
+      ],
+      "related": [
+        "roadmap/tka_smp_roadmap.json",
+        "tryout/TKA_SMP/tka_smp_pilihan_tryout_v01.json"
+      ]
+    },
+    {
+      "topic": "tka-smk-wajib",
+      "keywords": [
+        "bahasa indonesia",
+        "bahasa inggris",
+        "matematika",
+        "pancasila"
+      ],
+      "related": [
+        "roadmap/tka_smk_roadmap.json",
+        "tryout/TKA_SMK/tka_smk_wajib_tryout_v01.json"
+      ]
+    },
+    {
+      "topic": "tka-smk-pilihan",
+      "keywords": [
+        "biologi",
+        "fisika",
+        "kimia",
+        "ekonomi",
+        "sejarah"
+      ],
+      "related": [
+        "roadmap/tka_smk_roadmap.json",
+        "tryout/TKA_SMK/tka_smk_pilihan_tryout_v01.json"
+      ]
+    }
+  ]
+}

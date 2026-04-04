@@ -1,0 +1,652 @@
+[
+  {
+    "id": "MPLB_TK_01",
+    "pertanyaan": "Kegiatan mengatur dan menata letak meja, kursi, dan peralatan kantor disebut...",
+    "opsi": [
+      "Tata Ruang Kantor (Office Layout)",
+      "Dekorasi Rumah",
+      "Pembersihan Kantor",
+      "Pembangunan Gedung",
+      "Arsitektur Luar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tata ruang kantor bertujuan menjamin kelancaran alur kerja dan kenyamanan pegawai."
+  },
+  {
+    "id": "MPLB_TK_02",
+    "pertanyaan": "Tata ruang kantor di mana semua pegawai bekerja dalam satu ruangan besar tanpa sekat disebut...",
+    "opsi": [
+      "Tata Ruang Tertutup (Cubicle)",
+      "Tata Ruang Terbuka (Open Plan)",
+      "Tata Ruang Berhias (Landscape)",
+      "Tata Ruang Gabungan",
+      "Tata Ruang Rahasia"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tata ruang terbuka memudahkan pengawasan dan komunikasi antar pegawai."
+  },
+  {
+    "id": "MPLB_TK_03",
+    "pertanyaan": "Keuntungan dari tata ruang kantor tertutup (berkamar-kamar) adalah...",
+    "opsi": [
+      "Komunikasi sangat lancar",
+      "Mudah berpindah-pindah tempat",
+      "Privasi dan konsentrasi kerja lebih terjaga",
+      "Hemat biaya AC",
+      "Mudah mengawasi bawahan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Cocok untuk pekerjaan yang membutuhkan kerahasiaan tinggi atau konsentrasi penuh."
+  },
+  {
+    "id": "MPLB_TK_04",
+    "pertanyaan": "Catatan resmi mengenai hasil pembicaraan dan keputusan dalam rapat disebut...",
+    "opsi": [
+      "Agenda Rapat",
+      "Undangan Rapat",
+      "Memo Kantor",
+      "Notula (Minutes of Meeting)",
+      "Kuitansi Makan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Notula berfungsi sebagai bukti autentik dan pedoman pelaksanaan hasil rapat."
+  },
+  {
+    "id": "MPLB_TK_05",
+    "pertanyaan": "Siapa yang bertugas mencatat hasil jalannya rapat?",
+    "opsi": [
+      "Ketua Rapat",
+      "Peserta Rapat",
+      "Operator Proyektor",
+      "Satpam Kantor",
+      "Notulis (Sekretaris)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Notulis harus objektif dan jeli mencatat setiap poin penting diskusi."
+  },
+  {
+    "id": "MPLB_TK_06",
+    "pertanyaan": "Daftar urutan topik yang akan dibahas dalam rapat disebut...",
+    "opsi": [
+      "Susunan Acara (Agenda)",
+      "Daftar Hadir",
+      "Notula",
+      "Visi Misi",
+      "Surat Tugas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Agenda memastikan rapat berjalan terstruktur dan tepat waktu."
+  },
+  {
+    "id": "MPLB_TK_07",
+    "pertanyaan": "Ruang kantor yang dihiasi tanaman, dekorasi indah, dan pemandangan disebut...",
+    "opsi": [
+      "Kantor Modern",
+      "Tata Ruang Berhias / Panorama (Landscape)",
+      "Kantor Digital",
+      "Gudang Barang",
+      "Laboratorium"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Bertujuan mengurangi stres dan menciptakan lingkungan kerja yang segar."
+  },
+  {
+    "id": "MPLB_TK_08",
+    "pertanyaan": "Syarat sahnya pelaksanaan rapat jika dihadiri minimal jumlah anggota tertentu disebut...",
+    "opsi": [
+      "Absensi",
+      "Voting",
+      "Kuorum",
+      "Aklamasi",
+      "Otoritas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Jika anggota tidak mencapai kuorum, keputusan rapat dianggap tidak sah."
+  },
+  {
+    "id": "MPLB_TK_09",
+    "pertanyaan": "Dokumen yang memuat rincian waktu, tempat, dan jenis kegiatan perjalanan dinas disebut...",
+    "opsi": [
+      "Tiket Pesawat",
+      "Paspor",
+      "Visa",
+      "Daftar Perjalanan (Itinerary)",
+      "Kuitansi Hotel"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Itinerary membantu pimpinan mengatur waktu selama bertugas di luar kota."
+  },
+  {
+    "id": "MPLB_TK_10",
+    "pertanyaan": "Dokumen identitas resmi untuk bepergian ke luar negeri adalah...",
+    "opsi": [
+      "KTP",
+      "SIM",
+      "Kartu Keluarga",
+      "Ijazah",
+      "Paspor"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Paspor dikeluarkan oleh kantor imigrasi sebagai bukti kewarganegaraan."
+  },
+  {
+    "id": "MPLB_TK_11",
+    "pertanyaan": "Izin masuk ke suatu negara yang ditempelkan di paspor disebut...",
+    "opsi": [
+      "Visa",
+      "Tiket",
+      "Boarding Pass",
+      "Check-in",
+      "Asuransi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Beberapa negara mewajibkan visa sebagai syarat masuk bagi warga asing."
+  },
+  {
+    "id": "MPLB_TK_12",
+    "pertanyaan": "Fasilitas kantor yang masa pakainya lebih dari satu tahun disebut...",
+    "opsi": [
+      "Perlengkapan (Supplies)",
+      "Peralatan / Sarana (Equipment)",
+      "Harta Gono Gini",
+      "Utang Lancar",
+      "Beban Gaji"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh: Meja, Kursi, Komputer, Mesin Fotokopi."
+  },
+  {
+    "id": "MPLB_TK_13",
+    "pertanyaan": "Kegiatan mencatat semua barang milik kantor ke dalam daftar inventaris disebut...",
+    "opsi": [
+      "Pembelian",
+      "Penghapusan",
+      "Inventarisasi",
+      "Pemasaran",
+      "Penjualan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Inventarisasi memudahkan kontrol dan pengawasan aset kantor."
+  },
+  {
+    "id": "MPLB_TK_14",
+    "pertanyaan": "Pemberian kode unik (angka/huruf) pada aset kantor disebut...",
+    "opsi": [
+      "Pemberian Nama",
+      "Pewarnaan",
+      "Penyortiran",
+      "Kodefikasi",
+      "Pengemasan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kodefikasi membantu identifikasi barang secara cepat dan akurat."
+  },
+  {
+    "id": "MPLB_TK_15",
+    "pertanyaan": "Tindakan mengeluarkan barang dari daftar inventaris karena sudah rusak berat disebut...",
+    "opsi": [
+      "Pengadaan",
+      "Penyusutan",
+      "Pemeliharaan",
+      "Distribusi",
+      "Penghapusan (Disposal)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Barang yang tidak layak pakai dihapus agar data aset di neraca tetap akurat."
+  },
+  {
+    "id": "MPLB_TK_16",
+    "pertanyaan": "Faktor pencahayaan yang baik di kantor sebaiknya...",
+    "opsi": [
+      "Cukup terang dan merata (tidak membuat mata cepat lelah)",
+      "Sangat terang menyilaukan",
+      "Gelap remang-remang",
+      "Warna merah saja",
+      "Hanya dari layar komputer"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pencahayaan memengaruhi kesehatan mata dan fokus kerja."
+  },
+  {
+    "id": "MPLB_TK_17",
+    "pertanyaan": "Suara bising yang berlebihan di kantor dapat mengakibatkan...",
+    "opsi": [
+      "Karyawan makin semangat",
+      "Gangguan konsentrasi dan meningkatkan stres kerja",
+      "Produksi makin cepat",
+      "Waktu berjalan lambat",
+      "Laptop meledak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Akustik ruang harus diperhatikan untuk menyerap kebisingan."
+  },
+  {
+    "id": "MPLB_TK_18",
+    "pertanyaan": "Rapat yang waktunya tidak ditentukan sebelumnya karena ada keadaan darurat disebut...",
+    "opsi": [
+      "Rapat Rutin",
+      "Rapat Mingguan",
+      "Rapat Insidental",
+      "Rapat Bulanan",
+      "Rapat Perdana"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rapat ini biasanya dihadiri pimpinan untuk mengambil keputusan cepat."
+  },
+  {
+    "id": "MPLB_TK_19",
+    "pertanyaan": "Notula rapat harus ditandatangani oleh...",
+    "opsi": [
+      "Seluruh peserta",
+      "Hanya Sekretaris",
+      "Hanya Pimpinan",
+      "Pembuat Notula (Sekretaris) dan Pimpinan Rapat",
+      "Petugas Kebersihan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tanda tangan pimpinan sebagai bentuk validasi hasil keputusan."
+  },
+  {
+    "id": "MPLB_TK_20",
+    "pertanyaan": "Penyediaan fasilitas kantor baru untuk mengganti yang lama disebut...",
+    "opsi": [
+      "Penyimpanan",
+      "Pemeliharaan",
+      "Penyaluran",
+      "Pendataan",
+      "Pengadaan (Procurement)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pengadaan mencakup pembelian, sewa, atau pembuatan sendiri."
+  },
+  {
+    "id": "MPLB_TK_21",
+    "pertanyaan": "Metode pengaturan furnitur kantor di mana atasan duduk di belakang bawahan menghadap arah yang sama disebut...",
+    "opsi": [
+      "Tata Ruang Klasik",
+      "Tata Ruang Garis Lurus",
+      "Tata Ruang Kelas",
+      "Semua Benar",
+      "Tata Ruang Modern"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Model ini umum di kantor pemerintahan zaman dulu."
+  },
+  {
+    "id": "MPLB_TK_22",
+    "pertanyaan": "Apa itu 'Ergonomi' di perkantoran?",
+    "opsi": [
+      "Cara menghemat uang kantor",
+      "Ilmu menyesuaikan peralatan kantor dengan kemampuan fisik manusia (kenyamanan tubuh)",
+      "Teknik menanam tanaman kantor",
+      "Cara menghitung pajak",
+      "Ilmu komunikasi digital"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh: kursi yang bisa diatur tingginya agar punggung tidak sakit."
+  },
+  {
+    "id": "MPLB_TK_23",
+    "pertanyaan": "Tindakan pembersihan proyektor, AC, dan komputer setiap bulan masuk dalam kategori...",
+    "opsi": [
+      "Pencetakan laporan",
+      "Pengadaan barang",
+      "Pemeliharaan Rutin / Preventif",
+      "Penanggulangan bencana",
+      "Promosi jabatan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pemeliharaan preventif mencegah kerusakan fatal di masa depan."
+  },
+  {
+    "id": "MPLB_TK_24",
+    "pertanyaan": "Surat yang digunakan untuk memanggil peserta agar hadir dalam pertemuan disebut...",
+    "opsi": [
+      "Surat Kuasa",
+      "Surat Edaran",
+      "Surat Rahasia",
+      "Surat Undangan",
+      "Surat Lamaran"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Undangan minimal berisi hari, tanggal, jam, tempat, dan acara."
+  },
+  {
+    "id": "MPLB_TK_25",
+    "pertanyaan": "Perjalanan dinas pimpinan yang menggunakan jalur darat antarkota biasanya memakai...",
+    "opsi": [
+      "Kapal Selam",
+      "Pesawat Terbang",
+      "Helikopter pribadi",
+      "Sepeda Onthel",
+      "Kendaraan Dinas / Kereta Api"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pemilihan transportasi disesuaikan dengan anggaran dan kebutuhan waktu."
+  },
+  {
+    "id": "MPLB_TK_26",
+    "pertanyaan": "Tugas utama sekretaris saat pimpinan bepergian dinas adalah...",
+    "opsi": [
+      "Menyiapkan semua dokumen, tiket, akomodasi, dan dana yang diperlukan",
+      "Ikut liburan",
+      "Menutup kantor selamanya",
+      "Membatalkan semua janji selamanya",
+      "Membeli baju baru untuk pimpinan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sekretaris adalah fasilitator utama kelancaran tugas luar pimpinan."
+  },
+  {
+    "id": "MPLB_TK_27",
+    "pertanyaan": "Istilah 'Check In' di hotel saat perjalanan dinas artinya...",
+    "opsi": [
+      "Keluar dari hotel",
+      "Proses masuk dan mendaftar sebagai tamu hotel",
+      "Makan di hotel",
+      "Mencuci baju di hotel",
+      "Membayar tagihan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biasanya memerlukan identitas diri dan konfirmasi reservasi."
+  },
+  {
+    "id": "MPLB_TK_28",
+    "pertanyaan": "Apa itu 'Boarding Pass'?",
+    "opsi": [
+      "Tiket yang belum dibayar",
+      "Tanda pengenal karyawan",
+      "Kartu izin untuk naik ke pesawat / kapal yang didapat setelah check-in",
+      "Bon tagihan makan",
+      "Kartu nama maskapai"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Berisi nomor kursi dan nomor gate (pintu keberangkatan)."
+  },
+  {
+    "id": "MPLB_TK_29",
+    "pertanyaan": "Pengadaan barang di instansi pemerintah yang nilainya sangat besar dilakukan melalui...",
+    "opsi": [
+      "Beli langsung di pasar",
+      "Pinjam di toko tetangga",
+      "Membuat sendiri di rumah",
+      "Lelang / Tender secara terbuka",
+      "Minta sumbangan warga"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lelang menjamin transparansi dan harga terbaik bagi negara."
+  },
+  {
+    "id": "MPLB_TK_30",
+    "pertanyaan": "Alur pengadaan sarana kantor dimulai dari...",
+    "opsi": [
+      "Pembayaran",
+      "Melihat barang rusak",
+      "Penjualan barang lama",
+      "Mencetak Notula",
+      "Analisis kebutuhan -> Pengusulan -> Persetujuan -> Pelaksanaan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Harus melalui prosedur birokrasi yang sah agar bisa dipertanggungjawabkan."
+  },
+  {
+    "id": "MPLB_TK_31",
+    "pertanyaan": "Suatu sistem pengelolaan yang mengutamakan pelayanan cepat dan ramah disebut...",
+    "opsi": [
+      "Service Excellence (Pelayanan Prima)",
+      "Diktator",
+      "Otoriter",
+      "Birokrasi Lambat",
+      "Sombong Digital"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pelayanan prima meningkatkan citra positif organisasi di mata tamu/pelanggan."
+  },
+  {
+    "id": "MPLB_TK_32",
+    "pertanyaan": "Dalam tata ruang kantor, jarak antara satu meja dengan meja lainnya sebaiknya...",
+    "opsi": [
+      "Sangat mepet agar hemat tempat",
+      "Memiliki ruang gerak yang cukup untuk kursi dan lalu lintas orang",
+      "Sangat jauh minimal 10 meter",
+      "Tidak perlu dipikirkan",
+      "Meja menumpuk satu sama lain"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Faktor keselamatan dan kenyamanan sirkulasi (lalu lintas) udara dan orang."
+  },
+  {
+    "id": "MPLB_TK_33",
+    "pertanyaan": "Aplikasi manajemen proyek digital (seperti Trello/Asana) membantu tata kelola dalam hal...",
+    "opsi": [
+      "Mencuci piring",
+      "Membayar pajak",
+      "Mengatur tugas, deadline, dan kolaborasi tim secara online",
+      "Mencetak brosur",
+      "Menonton film"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Digitalisasi mempermudah pemantauan progres pekerjaan anggota tim."
+  },
+  {
+    "id": "MPLB_TK_34",
+    "pertanyaan": "Rapat yang dilakukan jarak jauh menggunakan video disebut...",
+    "opsi": [
+      "Rapat Plenum",
+      "Rapat Tertutup",
+      "Rapat Luring",
+      "Video Conference (Zoom/Meet)",
+      "Rapat Antar Bangsa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hemat biaya transportasi dan waktu perjalanan."
+  },
+  {
+    "id": "MPLB_TK_35",
+    "pertanyaan": "Apa kelemahan utama tata ruang terbuka?",
+    "opsi": [
+      "Sulit berkomunikasi",
+      "Biaya pembangunan sangat mahal",
+      "Tidak ada cahaya",
+      "Meja terlalu besar",
+      "Suara gaduh mudah menyebar dan mengganggu konsentrasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Privasi pembicaraan telepon atau diskusi sensitif sulit dijaga."
+  },
+  {
+    "id": "MPLB_TK_36",
+    "pertanyaan": "Waktu yang tepat untuk mengirim undangan rapat internal adalah...",
+    "opsi": [
+      "Minimal 2-3 hari sebelum hari H agar peserta bisa bersiap",
+      "1 menit sebelum mulai",
+      "Setelah rapat selesai",
+      "Setahun sebelumnya",
+      "Saat pimpinan sedang marah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Peserta perlu waktu untuk mempelajari materi atau agenda rapat."
+  },
+  {
+    "id": "MPLB_TK_37",
+    "pertanyaan": "Pihak luar yang datang ke kantor untuk keperluan bisnis disebut...",
+    "opsi": [
+      "Polisi Pamong Praja",
+      "Tamu Kantor",
+      "Pesaing",
+      "Keluarga Pegawai",
+      "Penjual Keliling"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tamu harus dilayani di ruang tamu dengan prosedur kesopanan yang tinggi."
+  },
+  {
+    "id": "MPLB_TK_38",
+    "pertanyaan": "Buku yang digunakan untuk mencatat identitas tamu yang berkunjung adalah...",
+    "opsi": [
+      "Buku Agenda",
+      "Buku Besar",
+      "Buku Tamu (Guest Book)",
+      "Buku Tabungan",
+      "Buku Induk"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Penting bagi keamanan kantor untuk mengetahui siapa saja yang masuk dan keluar."
+  },
+  {
+    "id": "MPLB_TK_39",
+    "pertanyaan": "Pemeliharaan gedung kantor dari kebocoran atap saat musim hujan termasuk...",
+    "opsi": [
+      "Pemeliharaan Terencana",
+      "Pembangunan baru",
+      "Penghapusan aset",
+      "Pemeliharaan Tidak Terencana (Korektif)",
+      "Distribusi barang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Perbaikan dilakukan setelah terjadi masalah/kerusakan."
+  },
+  {
+    "id": "MPLB_TK_40",
+    "pertanyaan": "Istilah 'Lusin' dalam pengadaan sarana ATK artinya...",
+    "opsi": [
+      "10 Buah",
+      "20 Buah",
+      "100 Buah",
+      "144 Buah",
+      "12 Buah"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sering dipakai sebagai satuan pembelian ballpoint atau pensil."
+  },
+  {
+    "id": "MPLB_TK_41",
+    "pertanyaan": "Apa itu 'Inbound' dalam perjalanan dinas?",
+    "opsi": [
+      "Kunjungan tamu dari luar masuk ke kantor kita",
+      "Perjalanan keluar kota",
+      "Membeli tiket pesawat",
+      "Membayar hotel",
+      "Mencetak tiket"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kebalikan dari Outbound (kita yang berkunjung ke luar)."
+  },
+  {
+    "id": "MPLB_TK_42",
+    "pertanyaan": "Perabot kantor (Office Furniture) mencakup benda berikut, kecuali...",
+    "opsi": [
+      "Meja Kerja",
+      "Software Microsoft Office",
+      "Kursi Putar",
+      "Lemari Arsip",
+      "Sofa Tamu"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Software adalah perangkat lunak, bukan perabot fisik."
+  },
+  {
+    "id": "MPLB_TK_43",
+    "pertanyaan": "Alat untuk menghancurkan dokumen yang sudah tidak terpakai agar rahasia terjaga adalah...",
+    "opsi": [
+      "Stapler",
+      "Scanner",
+      "Paper Shredder (Penghancur Kertas)",
+      "Printer",
+      "Perforator"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mencegah penyalahgunaan data penting oleh pihak tidak bertanggung jawab."
+  },
+  {
+    "id": "MPLB_TK_44",
+    "pertanyaan": "Penempatan alat pemadam api ringan (APAR) di kantor bertujuan untuk...",
+    "opsi": [
+      "Hiasan dinding",
+      "Alat mencuci mobil",
+      "Menaikkan suhu ruangan",
+      "Keselamatan kerja (antisipasi bahaya kebakaran)",
+      "Mematikan lampu otomatis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bagian dari standar K3 perkantoran. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Keselamatan kerja (antisipasi bahaya kebakaran)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "MPLB_TK_45",
+    "pertanyaan": "Apa itu 'Resepsionis' (Receptionist)?",
+    "opsi": [
+      "Petugas yang bekerja di gudang",
+      "Pemilik perusahaan",
+      "Petugas keamanan luar",
+      "Petugas dapur",
+      "Petugas garda depan yang menerima tamu di lobi kantor"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Resepsionis adalah wajah pertama yang dilihat tamu saat berkunjung."
+  },
+  {
+    "id": "MPLB_TK_46",
+    "pertanyaan": "Laporan hasil perjalanan dinas pimpinan harus dibuat oleh...",
+    "opsi": [
+      "Pimpinan dibantu Sekretaris",
+      "Hanya kurir",
+      "Petugas hotel",
+      "Pilot pesawat",
+      "Keluarga pimpinan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Berisi ringkasan kegiatan, hasil yang dicapai, dan pertanggungjawaban dana."
+  },
+  {
+    "id": "MPLB_TK_47",
+    "pertanyaan": "Tata ruang kantor yang menggunakan bilik-bilik sekat setinggi bahu disebut...",
+    "opsi": [
+      "Tata Ruang Kamar VIP",
+      "Tata Ruang Cubicle / Semi-Tertutup",
+      "Tata Ruang Terbuka Bebas",
+      "Gudang",
+      "Parkiran"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Menyeimbangkan antara privasi individu dan kemudahan kolaborasi."
+  },
+  {
+    "id": "MPLB_TK_48",
+    "pertanyaan": "Pemanfaatan sinar matahari sebagai pencahayaan alami bertujuan untuk...",
+    "opsi": [
+      "Membuat silau",
+      "Supaya panas",
+      "Menghemat konsumsi energi listrik dan lebih sehat",
+      "Membakar kertas",
+      "Melihat debu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Eco-friendly office (Kantor Ramah Lingkungan)."
+  },
+  {
+    "id": "MPLB_TK_49",
+    "pertanyaan": "Rapat koordinasi biasanya dilakukan untuk...",
+    "opsi": [
+      "Mencari kesalahan orang",
+      "Acara makan bersama saja",
+      "Menghukum keryawan",
+      "Menyamakan persepsi dan langkah kerja antar unit/bagian",
+      "Membagikan nomor undian"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mencegah tumpang tindih pekerjaan (overlap)."
+  },
+  {
+    "id": "MPLB_TK_50",
+    "pertanyaan": "Sarana kantor yang berupa mesin untuk menggandakan dokumen di atas kertas disebut...",
+    "opsi": [
+      "Scanner",
+      "Laptop",
+      "Microfilm",
+      "LCD Proyektor",
+      "Printer / Mesin Fotokopi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Alat dasar penggandaan dokumen fisik. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Printer / Mesin Fotokopi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

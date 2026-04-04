@@ -1,0 +1,658 @@
+{
+  "id": "smp-9-prakarya",
+  "tingkat": "SMP",
+  "mapel": "Prakarya",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "prakarya9-1",
+      "teks": "Teknik yang tepat untuk membuat kerajinan mangkuk/vas dari bahan tanah liat atau kayu solid yang diputar (mesin poros) adalah...",
+      "opsi": {
+        "A": "Teknik Bubut",
+        "B": "Teknik Anyam",
+        "C": "Teknik Patri",
+        "D": "Teknik Pahat"
+      },
+      "kunci": "A",
+      "pembahasan": "Teknik putar kayu di alat khusus pisau potong simetris lingkaran adalah alat bubut.",
+      "trik": "Berputar as = Bubut."
+    },
+    {
+      "id": "prakarya9-2",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah...",
+      "opsi": {
+        "A": "Stop Kontak",
+        "B": "MCB (Miniature Circuit Breaker)",
+        "C": "Sakelar (Switch)",
+        "D": "Bohlam Lampu"
+      },
+      "kunci": "B",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "prakarya9-3",
+      "teks": "Jenis burung ternak kesayangan yang terkenal dari bulu kicauannya adalah...",
+      "opsi": {
+        "A": "Burung Onta",
+        "B": "Ayam Petelur",
+        "C": "Burung Murai Batu & Kenari",
+        "D": "Pinguin Hias"
+      },
+      "kunci": "C",
+      "pembahasan": "Murai dan kenari diklasifikasikan ternak hias suara peliharaan sangkar gantung favorit nusantara.",
+      "trik": "Kicau peliharaan lomba = Murai Kenari Lovebird dll."
+    },
+    {
+      "id": "prakarya9-4",
+      "teks": "Makanan olahan setengah jadi dari daging sapi yang dicincang padat lalu dikukus bentuk bulat adalah...",
+      "opsi": {
+        "A": "Dendeng",
+        "B": "Sosis",
+        "C": "Bandeng Presto",
+        "D": "Bakso"
+      },
+      "kunci": "D",
+      "pembahasan": "Bakso adalah produk setengah jadi/siap masak berbahan daging sapi giling terigu kukusan bulat.",
+      "trik": "Bulat daging = Bakso."
+    },
+    {
+      "id": "prakarya9-5",
+      "teks": "Untuk mengikat dan menyambung komponen tembaga di papan PCB elektronik tegangan DC memakai...",
+      "opsi": {
+        "A": "Solder dan Timah (Patri)",
+        "B": "Selotip hitam",
+        "C": "Lem Korea (Cyanoacrylate)",
+        "D": "Paku Keling"
+      },
+      "kunci": "A",
+      "pembahasan": "Proses menyambung kabel ke PCB secara konduktif merekat kuat adalah dng timah patri solder.",
+      "trik": "Elektronik perakitan = Solder timah."
+    },
+    {
+      "id": "smp-9-prakarya-6",
+      "teks": "Jenis burung ternak kesayangan yang terkenal dari bulu kicauannya adalah... (Latihan Intensif #6)",
+      "opsi": {
+        "A": "Burung Onta",
+        "B": "Burung Murai Batu & Kenari",
+        "C": "Ayam Petelur",
+        "D": "Pinguin Hias"
+      },
+      "kunci": "B",
+      "pembahasan": "Murai dan kenari diklasifikasikan ternak hias suara peliharaan sangkar gantung favorit nusantara.",
+      "trik": "Kicau peliharaan lomba = Murai Kenari Lovebird dll."
+    },
+    {
+      "id": "smp-9-prakarya-7",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #7)",
+      "opsi": {
+        "A": "Stop Kontak",
+        "B": "Sakelar (Switch)",
+        "C": "MCB (Miniature Circuit Breaker)",
+        "D": "Bohlam Lampu"
+      },
+      "kunci": "C",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-8",
+      "teks": "Untuk mengikat dan menyambung komponen tembaga di papan PCB elektronik tegangan DC memakai... (Latihan Intensif #8)",
+      "opsi": {
+        "A": "Selotip hitam",
+        "B": "Lem Korea (Cyanoacrylate)",
+        "C": "Paku Keling",
+        "D": "Solder dan Timah (Patri)"
+      },
+      "kunci": "D",
+      "pembahasan": "Proses menyambung kabel ke PCB secara konduktif merekat kuat adalah dng timah patri solder.",
+      "trik": "Elektronik perakitan = Solder timah."
+    },
+    {
+      "id": "smp-9-prakarya-9",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #9)",
+      "opsi": {
+        "A": "MCB (Miniature Circuit Breaker)",
+        "B": "Stop Kontak",
+        "C": "Sakelar (Switch)",
+        "D": "Bohlam Lampu"
+      },
+      "kunci": "A",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-10",
+      "teks": "Teknik yang tepat untuk membuat kerajinan mangkuk/vas dari bahan tanah liat atau kayu solid yang diputar (mesin poros) adalah... (Latihan Intensif #10)",
+      "opsi": {
+        "A": "Teknik Anyam",
+        "B": "Teknik Bubut",
+        "C": "Teknik Patri",
+        "D": "Teknik Pahat"
+      },
+      "kunci": "B",
+      "pembahasan": "Teknik putar kayu di alat khusus pisau potong simetris lingkaran adalah alat bubut.",
+      "trik": "Berputar as = Bubut."
+    },
+    {
+      "id": "smp-9-prakarya-11",
+      "teks": "Makanan olahan setengah jadi dari daging sapi yang dicincang padat lalu dikukus bentuk bulat adalah... (Latihan Intensif #11)",
+      "opsi": {
+        "A": "Dendeng",
+        "B": "Sosis",
+        "C": "Bakso",
+        "D": "Bandeng Presto"
+      },
+      "kunci": "C",
+      "pembahasan": "Bakso adalah produk setengah jadi/siap masak berbahan daging sapi giling terigu kukusan bulat.",
+      "trik": "Bulat daging = Bakso."
+    },
+    {
+      "id": "smp-9-prakarya-12",
+      "teks": "Untuk mengikat dan menyambung komponen tembaga di papan PCB elektronik tegangan DC memakai... (Latihan Intensif #12)",
+      "opsi": {
+        "A": "Selotip hitam",
+        "B": "Lem Korea (Cyanoacrylate)",
+        "C": "Paku Keling",
+        "D": "Solder dan Timah (Patri)"
+      },
+      "kunci": "D",
+      "pembahasan": "Proses menyambung kabel ke PCB secara konduktif merekat kuat adalah dng timah patri solder.",
+      "trik": "Elektronik perakitan = Solder timah."
+    },
+    {
+      "id": "smp-9-prakarya-13",
+      "teks": "Teknik yang tepat untuk membuat kerajinan mangkuk/vas dari bahan tanah liat atau kayu solid yang diputar (mesin poros) adalah... (Latihan Intensif #13)",
+      "opsi": {
+        "A": "Teknik Bubut",
+        "B": "Teknik Anyam",
+        "C": "Teknik Patri",
+        "D": "Teknik Pahat"
+      },
+      "kunci": "A",
+      "pembahasan": "Teknik putar kayu di alat khusus pisau potong simetris lingkaran adalah alat bubut.",
+      "trik": "Berputar as = Bubut."
+    },
+    {
+      "id": "smp-9-prakarya-14",
+      "teks": "Teknik yang tepat untuk membuat kerajinan mangkuk/vas dari bahan tanah liat atau kayu solid yang diputar (mesin poros) adalah... (Latihan Intensif #14)",
+      "opsi": {
+        "A": "Teknik Anyam",
+        "B": "Teknik Bubut",
+        "C": "Teknik Patri",
+        "D": "Teknik Pahat"
+      },
+      "kunci": "B",
+      "pembahasan": "Teknik putar kayu di alat khusus pisau potong simetris lingkaran adalah alat bubut.",
+      "trik": "Berputar as = Bubut."
+    },
+    {
+      "id": "smp-9-prakarya-15",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #15)",
+      "opsi": {
+        "A": "Stop Kontak",
+        "B": "Sakelar (Switch)",
+        "C": "MCB (Miniature Circuit Breaker)",
+        "D": "Bohlam Lampu"
+      },
+      "kunci": "C",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-16",
+      "teks": "Makanan olahan setengah jadi dari daging sapi yang dicincang padat lalu dikukus bentuk bulat adalah... (Latihan Intensif #16)",
+      "opsi": {
+        "A": "Dendeng",
+        "B": "Sosis",
+        "C": "Bandeng Presto",
+        "D": "Bakso"
+      },
+      "kunci": "D",
+      "pembahasan": "Bakso adalah produk setengah jadi/siap masak berbahan daging sapi giling terigu kukusan bulat.",
+      "trik": "Bulat daging = Bakso."
+    },
+    {
+      "id": "smp-9-prakarya-17",
+      "teks": "Makanan olahan setengah jadi dari daging sapi yang dicincang padat lalu dikukus bentuk bulat adalah... (Latihan Intensif #17)",
+      "opsi": {
+        "A": "Bakso",
+        "B": "Dendeng",
+        "C": "Sosis",
+        "D": "Bandeng Presto"
+      },
+      "kunci": "A",
+      "pembahasan": "Bakso adalah produk setengah jadi/siap masak berbahan daging sapi giling terigu kukusan bulat.",
+      "trik": "Bulat daging = Bakso."
+    },
+    {
+      "id": "smp-9-prakarya-18",
+      "teks": "Jenis burung ternak kesayangan yang terkenal dari bulu kicauannya adalah... (Latihan Intensif #18)",
+      "opsi": {
+        "A": "Burung Onta",
+        "B": "Burung Murai Batu & Kenari",
+        "C": "Ayam Petelur",
+        "D": "Pinguin Hias"
+      },
+      "kunci": "B",
+      "pembahasan": "Murai dan kenari diklasifikasikan ternak hias suara peliharaan sangkar gantung favorit nusantara.",
+      "trik": "Kicau peliharaan lomba = Murai Kenari Lovebird dll."
+    },
+    {
+      "id": "smp-9-prakarya-19",
+      "teks": "Untuk mengikat dan menyambung komponen tembaga di papan PCB elektronik tegangan DC memakai... (Latihan Intensif #19)",
+      "opsi": {
+        "A": "Selotip hitam",
+        "B": "Lem Korea (Cyanoacrylate)",
+        "C": "Solder dan Timah (Patri)",
+        "D": "Paku Keling"
+      },
+      "kunci": "C",
+      "pembahasan": "Proses menyambung kabel ke PCB secara konduktif merekat kuat adalah dng timah patri solder.",
+      "trik": "Elektronik perakitan = Solder timah."
+    },
+    {
+      "id": "smp-9-prakarya-20",
+      "teks": "Teknik yang tepat untuk membuat kerajinan mangkuk/vas dari bahan tanah liat atau kayu solid yang diputar (mesin poros) adalah... (Latihan Intensif #20)",
+      "opsi": {
+        "A": "Teknik Anyam",
+        "B": "Teknik Patri",
+        "C": "Teknik Pahat",
+        "D": "Teknik Bubut"
+      },
+      "kunci": "D",
+      "pembahasan": "Teknik putar kayu di alat khusus pisau potong simetris lingkaran adalah alat bubut.",
+      "trik": "Berputar as = Bubut."
+    },
+    {
+      "id": "smp-9-prakarya-21",
+      "teks": "Untuk mengikat dan menyambung komponen tembaga di papan PCB elektronik tegangan DC memakai... (Latihan Intensif #21)",
+      "opsi": {
+        "A": "Solder dan Timah (Patri)",
+        "B": "Selotip hitam",
+        "C": "Lem Korea (Cyanoacrylate)",
+        "D": "Paku Keling"
+      },
+      "kunci": "A",
+      "pembahasan": "Proses menyambung kabel ke PCB secara konduktif merekat kuat adalah dng timah patri solder.",
+      "trik": "Elektronik perakitan = Solder timah."
+    },
+    {
+      "id": "smp-9-prakarya-22",
+      "teks": "Teknik yang tepat untuk membuat kerajinan mangkuk/vas dari bahan tanah liat atau kayu solid yang diputar (mesin poros) adalah... (Latihan Intensif #22)",
+      "opsi": {
+        "A": "Teknik Anyam",
+        "B": "Teknik Bubut",
+        "C": "Teknik Patri",
+        "D": "Teknik Pahat"
+      },
+      "kunci": "B",
+      "pembahasan": "Teknik putar kayu di alat khusus pisau potong simetris lingkaran adalah alat bubut.",
+      "trik": "Berputar as = Bubut."
+    },
+    {
+      "id": "smp-9-prakarya-23",
+      "teks": "Makanan olahan setengah jadi dari daging sapi yang dicincang padat lalu dikukus bentuk bulat adalah... (Latihan Intensif #23)",
+      "opsi": {
+        "A": "Dendeng",
+        "B": "Sosis",
+        "C": "Bakso",
+        "D": "Bandeng Presto"
+      },
+      "kunci": "C",
+      "pembahasan": "Bakso adalah produk setengah jadi/siap masak berbahan daging sapi giling terigu kukusan bulat.",
+      "trik": "Bulat daging = Bakso."
+    },
+    {
+      "id": "smp-9-prakarya-24",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #24)",
+      "opsi": {
+        "A": "Stop Kontak",
+        "B": "Sakelar (Switch)",
+        "C": "Bohlam Lampu",
+        "D": "MCB (Miniature Circuit Breaker)"
+      },
+      "kunci": "D",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-25",
+      "teks": "Jenis burung ternak kesayangan yang terkenal dari bulu kicauannya adalah... (Latihan Intensif #25)",
+      "opsi": {
+        "A": "Burung Murai Batu & Kenari",
+        "B": "Burung Onta",
+        "C": "Ayam Petelur",
+        "D": "Pinguin Hias"
+      },
+      "kunci": "A",
+      "pembahasan": "Murai dan kenari diklasifikasikan ternak hias suara peliharaan sangkar gantung favorit nusantara.",
+      "trik": "Kicau peliharaan lomba = Murai Kenari Lovebird dll."
+    },
+    {
+      "id": "smp-9-prakarya-26",
+      "teks": "Makanan olahan setengah jadi dari daging sapi yang dicincang padat lalu dikukus bentuk bulat adalah... (Latihan Intensif #26)",
+      "opsi": {
+        "A": "Dendeng",
+        "B": "Bakso",
+        "C": "Sosis",
+        "D": "Bandeng Presto"
+      },
+      "kunci": "B",
+      "pembahasan": "Bakso adalah produk setengah jadi/siap masak berbahan daging sapi giling terigu kukusan bulat.",
+      "trik": "Bulat daging = Bakso."
+    },
+    {
+      "id": "smp-9-prakarya-27",
+      "teks": "Untuk mengikat dan menyambung komponen tembaga di papan PCB elektronik tegangan DC memakai... (Latihan Intensif #27)",
+      "opsi": {
+        "A": "Selotip hitam",
+        "B": "Lem Korea (Cyanoacrylate)",
+        "C": "Solder dan Timah (Patri)",
+        "D": "Paku Keling"
+      },
+      "kunci": "C",
+      "pembahasan": "Proses menyambung kabel ke PCB secara konduktif merekat kuat adalah dng timah patri solder.",
+      "trik": "Elektronik perakitan = Solder timah."
+    },
+    {
+      "id": "smp-9-prakarya-28",
+      "teks": "Teknik yang tepat untuk membuat kerajinan mangkuk/vas dari bahan tanah liat atau kayu solid yang diputar (mesin poros) adalah... (Latihan Intensif #28)",
+      "opsi": {
+        "A": "Teknik Anyam",
+        "B": "Teknik Patri",
+        "C": "Teknik Pahat",
+        "D": "Teknik Bubut"
+      },
+      "kunci": "D",
+      "pembahasan": "Teknik putar kayu di alat khusus pisau potong simetris lingkaran adalah alat bubut.",
+      "trik": "Berputar as = Bubut."
+    },
+    {
+      "id": "smp-9-prakarya-29",
+      "teks": "Teknik yang tepat untuk membuat kerajinan mangkuk/vas dari bahan tanah liat atau kayu solid yang diputar (mesin poros) adalah... (Latihan Intensif #29)",
+      "opsi": {
+        "A": "Teknik Bubut",
+        "B": "Teknik Anyam",
+        "C": "Teknik Patri",
+        "D": "Teknik Pahat"
+      },
+      "kunci": "A",
+      "pembahasan": "Teknik putar kayu di alat khusus pisau potong simetris lingkaran adalah alat bubut.",
+      "trik": "Berputar as = Bubut."
+    },
+    {
+      "id": "smp-9-prakarya-30",
+      "teks": "Makanan olahan setengah jadi dari daging sapi yang dicincang padat lalu dikukus bentuk bulat adalah... (Latihan Intensif #30)",
+      "opsi": {
+        "A": "Dendeng",
+        "B": "Bakso",
+        "C": "Sosis",
+        "D": "Bandeng Presto"
+      },
+      "kunci": "B",
+      "pembahasan": "Bakso adalah produk setengah jadi/siap masak berbahan daging sapi giling terigu kukusan bulat.",
+      "trik": "Bulat daging = Bakso."
+    },
+    {
+      "id": "smp-9-prakarya-31",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #31)",
+      "opsi": {
+        "A": "Stop Kontak",
+        "B": "Sakelar (Switch)",
+        "C": "MCB (Miniature Circuit Breaker)",
+        "D": "Bohlam Lampu"
+      },
+      "kunci": "C",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-32",
+      "teks": "Jenis burung ternak kesayangan yang terkenal dari bulu kicauannya adalah... (Latihan Intensif #32)",
+      "opsi": {
+        "A": "Burung Onta",
+        "B": "Ayam Petelur",
+        "C": "Pinguin Hias",
+        "D": "Burung Murai Batu & Kenari"
+      },
+      "kunci": "D",
+      "pembahasan": "Murai dan kenari diklasifikasikan ternak hias suara peliharaan sangkar gantung favorit nusantara.",
+      "trik": "Kicau peliharaan lomba = Murai Kenari Lovebird dll."
+    },
+    {
+      "id": "smp-9-prakarya-33",
+      "teks": "Makanan olahan setengah jadi dari daging sapi yang dicincang padat lalu dikukus bentuk bulat adalah... (Latihan Intensif #33)",
+      "opsi": {
+        "A": "Bakso",
+        "B": "Dendeng",
+        "C": "Sosis",
+        "D": "Bandeng Presto"
+      },
+      "kunci": "A",
+      "pembahasan": "Bakso adalah produk setengah jadi/siap masak berbahan daging sapi giling terigu kukusan bulat.",
+      "trik": "Bulat daging = Bakso."
+    },
+    {
+      "id": "smp-9-prakarya-34",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #34)",
+      "opsi": {
+        "A": "Stop Kontak",
+        "B": "MCB (Miniature Circuit Breaker)",
+        "C": "Sakelar (Switch)",
+        "D": "Bohlam Lampu"
+      },
+      "kunci": "B",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-35",
+      "teks": "Jenis burung ternak kesayangan yang terkenal dari bulu kicauannya adalah... (Latihan Intensif #35)",
+      "opsi": {
+        "A": "Burung Onta",
+        "B": "Ayam Petelur",
+        "C": "Burung Murai Batu & Kenari",
+        "D": "Pinguin Hias"
+      },
+      "kunci": "C",
+      "pembahasan": "Murai dan kenari diklasifikasikan ternak hias suara peliharaan sangkar gantung favorit nusantara.",
+      "trik": "Kicau peliharaan lomba = Murai Kenari Lovebird dll."
+    },
+    {
+      "id": "smp-9-prakarya-36",
+      "teks": "Teknik yang tepat untuk membuat kerajinan mangkuk/vas dari bahan tanah liat atau kayu solid yang diputar (mesin poros) adalah... (Latihan Intensif #36)",
+      "opsi": {
+        "A": "Teknik Anyam",
+        "B": "Teknik Patri",
+        "C": "Teknik Pahat",
+        "D": "Teknik Bubut"
+      },
+      "kunci": "D",
+      "pembahasan": "Teknik putar kayu di alat khusus pisau potong simetris lingkaran adalah alat bubut.",
+      "trik": "Berputar as = Bubut."
+    },
+    {
+      "id": "smp-9-prakarya-37",
+      "teks": "Teknik yang tepat untuk membuat kerajinan mangkuk/vas dari bahan tanah liat atau kayu solid yang diputar (mesin poros) adalah... (Latihan Intensif #37)",
+      "opsi": {
+        "A": "Teknik Bubut",
+        "B": "Teknik Anyam",
+        "C": "Teknik Patri",
+        "D": "Teknik Pahat"
+      },
+      "kunci": "A",
+      "pembahasan": "Teknik putar kayu di alat khusus pisau potong simetris lingkaran adalah alat bubut.",
+      "trik": "Berputar as = Bubut."
+    },
+    {
+      "id": "smp-9-prakarya-38",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #38)",
+      "opsi": {
+        "A": "Stop Kontak",
+        "B": "MCB (Miniature Circuit Breaker)",
+        "C": "Sakelar (Switch)",
+        "D": "Bohlam Lampu"
+      },
+      "kunci": "B",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-39",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #39)",
+      "opsi": {
+        "A": "Stop Kontak",
+        "B": "Sakelar (Switch)",
+        "C": "MCB (Miniature Circuit Breaker)",
+        "D": "Bohlam Lampu"
+      },
+      "kunci": "C",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-40",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #40)",
+      "opsi": {
+        "A": "Stop Kontak",
+        "B": "Sakelar (Switch)",
+        "C": "Bohlam Lampu",
+        "D": "MCB (Miniature Circuit Breaker)"
+      },
+      "kunci": "D",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-41",
+      "teks": "Untuk mengikat dan menyambung komponen tembaga di papan PCB elektronik tegangan DC memakai... (Latihan Intensif #41)",
+      "opsi": {
+        "A": "Solder dan Timah (Patri)",
+        "B": "Selotip hitam",
+        "C": "Lem Korea (Cyanoacrylate)",
+        "D": "Paku Keling"
+      },
+      "kunci": "A",
+      "pembahasan": "Proses menyambung kabel ke PCB secara konduktif merekat kuat adalah dng timah patri solder.",
+      "trik": "Elektronik perakitan = Solder timah."
+    },
+    {
+      "id": "smp-9-prakarya-42",
+      "teks": "Untuk mengikat dan menyambung komponen tembaga di papan PCB elektronik tegangan DC memakai... (Latihan Intensif #42)",
+      "opsi": {
+        "A": "Selotip hitam",
+        "B": "Solder dan Timah (Patri)",
+        "C": "Lem Korea (Cyanoacrylate)",
+        "D": "Paku Keling"
+      },
+      "kunci": "B",
+      "pembahasan": "Proses menyambung kabel ke PCB secara konduktif merekat kuat adalah dng timah patri solder.",
+      "trik": "Elektronik perakitan = Solder timah."
+    },
+    {
+      "id": "smp-9-prakarya-43",
+      "teks": "Untuk mengikat dan menyambung komponen tembaga di papan PCB elektronik tegangan DC memakai... (Latihan Intensif #43)",
+      "opsi": {
+        "A": "Selotip hitam",
+        "B": "Lem Korea (Cyanoacrylate)",
+        "C": "Solder dan Timah (Patri)",
+        "D": "Paku Keling"
+      },
+      "kunci": "C",
+      "pembahasan": "Proses menyambung kabel ke PCB secara konduktif merekat kuat adalah dng timah patri solder.",
+      "trik": "Elektronik perakitan = Solder timah."
+    },
+    {
+      "id": "smp-9-prakarya-44",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #44)",
+      "opsi": {
+        "A": "Stop Kontak",
+        "B": "Sakelar (Switch)",
+        "C": "Bohlam Lampu",
+        "D": "MCB (Miniature Circuit Breaker)"
+      },
+      "kunci": "D",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-45",
+      "teks": "Makanan olahan setengah jadi dari daging sapi yang dicincang padat lalu dikukus bentuk bulat adalah... (Latihan Intensif #45)",
+      "opsi": {
+        "A": "Bakso",
+        "B": "Dendeng",
+        "C": "Sosis",
+        "D": "Bandeng Presto"
+      },
+      "kunci": "A",
+      "pembahasan": "Bakso adalah produk setengah jadi/siap masak berbahan daging sapi giling terigu kukusan bulat.",
+      "trik": "Bulat daging = Bakso."
+    },
+    {
+      "id": "smp-9-prakarya-46",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #46)",
+      "opsi": {
+        "A": "Stop Kontak",
+        "B": "MCB (Miniature Circuit Breaker)",
+        "C": "Sakelar (Switch)",
+        "D": "Bohlam Lampu"
+      },
+      "kunci": "B",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-47",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #47)",
+      "opsi": {
+        "A": "Stop Kontak",
+        "B": "Sakelar (Switch)",
+        "C": "MCB (Miniature Circuit Breaker)",
+        "D": "Bohlam Lampu"
+      },
+      "kunci": "C",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-48",
+      "teks": "Untuk mengikat dan menyambung komponen tembaga di papan PCB elektronik tegangan DC memakai... (Latihan Intensif #48)",
+      "opsi": {
+        "A": "Selotip hitam",
+        "B": "Lem Korea (Cyanoacrylate)",
+        "C": "Paku Keling",
+        "D": "Solder dan Timah (Patri)"
+      },
+      "kunci": "D",
+      "pembahasan": "Proses menyambung kabel ke PCB secara konduktif merekat kuat adalah dng timah patri solder.",
+      "trik": "Elektronik perakitan = Solder timah."
+    },
+    {
+      "id": "smp-9-prakarya-49",
+      "teks": "Pada instalasi listrik rumah tangga, alat yang berfungsi sebagai pemutus arus otomatis ketika terjadi korsleting beban lebih adalah... (Latihan Intensif #49)",
+      "opsi": {
+        "A": "MCB (Miniature Circuit Breaker)",
+        "B": "Stop Kontak",
+        "C": "Sakelar (Switch)",
+        "D": "Bohlam Lampu"
+      },
+      "kunci": "A",
+      "pembahasan": "MCB berfungsi memutus arus pendek / beban meter yang meluber demi cegah kebakaran rumah.",
+      "trik": "Pemutus otomatis = Breaker = MCB."
+    },
+    {
+      "id": "smp-9-prakarya-50",
+      "teks": "Jenis burung ternak kesayangan yang terkenal dari bulu kicauannya adalah... (Latihan Intensif #50)",
+      "opsi": {
+        "A": "Burung Onta",
+        "B": "Burung Murai Batu & Kenari",
+        "C": "Ayam Petelur",
+        "D": "Pinguin Hias"
+      },
+      "kunci": "B",
+      "pembahasan": "Murai dan kenari diklasifikasikan ternak hias suara peliharaan sangkar gantung favorit nusantara.",
+      "trik": "Kicau peliharaan lomba = Murai Kenari Lovebird dll."
+    }
+  ]
+}

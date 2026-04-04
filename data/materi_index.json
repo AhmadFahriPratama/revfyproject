@@ -1,0 +1,1326 @@
+{
+  "id": "materi_index",
+  "totalFile": 165,
+  "entries": [
+    {
+      "path": "materi/CPNS/cpns_materi_lengkap.json",
+      "file": "cpns_materi_lengkap.json",
+      "category": "CPNS",
+      "id": "mat-cpns",
+      "title": "Materi Lengkap CPNS",
+      "itemCount": 4
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Agroteknologi_materi.json",
+      "file": "Kuliah_Agroteknologi_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-agroteknologi-materi",
+      "title": "Agroteknologi dan Ilmu Pertanian",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Akuntansi_Sertifikasi_materi.json",
+      "file": "Kuliah_Akuntansi_Sertifikasi_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-akuntansi-sertifikasi-materi",
+      "title": "Sertifikasi Akuntansi dan Audit (CA/CPA)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Arsitektur_materi.json",
+      "file": "Kuliah_Arsitektur_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-arsitektur-materi",
+      "title": "Arsitektur dan Perencanaan (Lanjut)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_CPNS_materi.json",
+      "file": "Kuliah_CPNS_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-cpns-materi",
+      "title": "Persiapan Tes CPNS (TIU, TWK, TKP)",
+      "itemCount": 19
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Ekonomi_materi.json",
+      "file": "Kuliah_Ekonomi_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-ekonomi-materi",
+      "title": "Ekonomi dan Manajemen (Dasar dan Lanjut)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Elektro_materi.json",
+      "file": "Kuliah_Elektro_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-elektro-materi",
+      "title": "Teknik Elektro (Lanjut)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Farmasi_materi.json",
+      "file": "Kuliah_Farmasi_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-farmasi-materi",
+      "title": "Farmasi (Klinis dan Komunitas)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Fisika_materi.json",
+      "file": "Kuliah_Fisika_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-fisika-materi",
+      "title": "Fisika Dasar Universitas",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_HI_materi.json",
+      "file": "Kuliah_HI_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-hi-materi",
+      "title": "Hubungan Internasional (Dasar dan Global)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Hukum_materi.json",
+      "file": "Kuliah_Hukum_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-hukum-materi",
+      "title": "Ilmu Hukum (Dasar dan Lanjut)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Informatika_materi.json",
+      "file": "Kuliah_Informatika_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-informatika-materi",
+      "title": "Teknik Informatika / Ilmu Komputer (Lanjut)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Kedokteran_materi.json",
+      "file": "Kuliah_Kedokteran_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-kedokteran-materi",
+      "title": "Pendidikan Dokter / Kedokteran Umum",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Kelautan_materi.json",
+      "file": "Kuliah_Kelautan_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-kelautan-materi",
+      "title": "Ilmu Kelautan dan Perikanan Terpadu",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Keperawatan_materi.json",
+      "file": "Kuliah_Keperawatan_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-keperawatan-materi",
+      "title": "Keperawatan (Lanjut dan Ners)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Komunikasi_materi.json",
+      "file": "Kuliah_Komunikasi_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-komunikasi-materi",
+      "title": "Ilmu Komunikasi (Dasar dan Strategis)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Matematika_materi.json",
+      "file": "Kuliah_Matematika_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-matematika-materi",
+      "title": "Matematika Dasar (Kalkulus dan Aljabar)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Persiapan_Kerja_materi.json",
+      "file": "Kuliah_Persiapan_Kerja_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-persiapan-kerja-materi",
+      "title": "Persiapan Interview dan Dunia Kerja",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/kuliah_prodi_lengkap.json",
+      "file": "kuliah_prodi_lengkap.json",
+      "category": "KULIAH",
+      "id": "kuliah_info_materi",
+      "title": "Deepsearch Info Perguruan Tinggi",
+      "itemCount": 15
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Psikologi_materi.json",
+      "file": "Kuliah_Psikologi_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-psikologi-materi",
+      "title": "Psikologi (Dasar dan Terapan)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Psikotes_materi.json",
+      "file": "Kuliah_Psikotes_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-psikotes-materi",
+      "title": "Psikotes dan Tes Bakat (Aptitude Test)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/KULIAH/Kuliah_Sipil_materi.json",
+      "file": "Kuliah_Sipil_materi.json",
+      "category": "KULIAH",
+      "id": "kuliah-sipil-materi",
+      "title": "Teknik Sipil (Lanjut)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SD/SD_Kelas1_BahasaIndonesia.json",
+      "file": "SD_Kelas1_BahasaIndonesia.json",
+      "category": "SD",
+      "id": "materi-sd-kls1-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas1_Matematika.json",
+      "file": "SD_Kelas1_Matematika.json",
+      "category": "SD",
+      "id": "materi-sd-kls1-mat",
+      "title": "Matematika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas2_BahasaIndonesia.json",
+      "file": "SD_Kelas2_BahasaIndonesia.json",
+      "category": "SD",
+      "id": "materi-sd-kls2-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas2_Matematika.json",
+      "file": "SD_Kelas2_Matematika.json",
+      "category": "SD",
+      "id": "materi-sd-kls2-mat",
+      "title": "Matematika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas3_BahasaIndonesia.json",
+      "file": "SD_Kelas3_BahasaIndonesia.json",
+      "category": "SD",
+      "id": "materi-sd-kls3-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas3_IPAS.json",
+      "file": "SD_Kelas3_IPAS.json",
+      "category": "SD",
+      "id": "materi-sd-kls3-ipas",
+      "title": "IPAS",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas3_Matematika.json",
+      "file": "SD_Kelas3_Matematika.json",
+      "category": "SD",
+      "id": "materi-sd-kls3-mat",
+      "title": "Matematika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas4_BahasaIndonesia.json",
+      "file": "SD_Kelas4_BahasaIndonesia.json",
+      "category": "SD",
+      "id": "materi-sd-kls4-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas4_IPAS.json",
+      "file": "SD_Kelas4_IPAS.json",
+      "category": "SD",
+      "id": "materi-sd-kls4-ipas",
+      "title": "IPAS",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas4_Matematika.json",
+      "file": "SD_Kelas4_Matematika.json",
+      "category": "SD",
+      "id": "materi-sd-kls4-mat",
+      "title": "Matematika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas5_BahasaIndonesia.json",
+      "file": "SD_Kelas5_BahasaIndonesia.json",
+      "category": "SD",
+      "id": "materi-sd-kls5-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas5_IPAS.json",
+      "file": "SD_Kelas5_IPAS.json",
+      "category": "SD",
+      "id": "materi-sd-kls5-ipas",
+      "title": "IPAS",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas5_Matematika.json",
+      "file": "SD_Kelas5_Matematika.json",
+      "category": "SD",
+      "id": "materi-sd-kls5-mat",
+      "title": "Matematika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas6_BahasaIndonesia.json",
+      "file": "SD_Kelas6_BahasaIndonesia.json",
+      "category": "SD",
+      "id": "materi-sd-kls6-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas6_IPAS.json",
+      "file": "SD_Kelas6_IPAS.json",
+      "category": "SD",
+      "id": "materi-sd-kls6-ipas",
+      "title": "IPAS",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SD/SD_Kelas6_Matematika.json",
+      "file": "SD_Kelas6_Matematika.json",
+      "category": "SD",
+      "id": "materi-sd-kls6-mat",
+      "title": "Matematika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMA/SMA_Biologi_materi.json",
+      "file": "SMA_Biologi_materi.json",
+      "category": "SMA",
+      "id": "sma-biologi-materi",
+      "title": "Biologi",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMA/SMA_Ekonomi_materi.json",
+      "file": "SMA_Ekonomi_materi.json",
+      "category": "SMA",
+      "id": "sma-ekonomi-materi",
+      "title": "Ekonomi (SMA IPS)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMA/SMA_Fisika_materi.json",
+      "file": "SMA_Fisika_materi.json",
+      "category": "SMA",
+      "id": "sma-fisika-materi",
+      "title": "Fisika",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMA/SMA_Geografi_materi.json",
+      "file": "SMA_Geografi_materi.json",
+      "category": "SMA",
+      "id": "sma-geografi-materi",
+      "title": "Geografi (SMA IPS)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMA/SMA_Informatika_materi.json",
+      "file": "SMA_Informatika_materi.json",
+      "category": "SMA",
+      "id": "sma-informatika-materi",
+      "title": "Informatika",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMA/SMA_Kimia_materi.json",
+      "file": "SMA_Kimia_materi.json",
+      "category": "SMA",
+      "id": "sma-kimia-materi",
+      "title": "Kimia",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMA/SMA_Matematika.json",
+      "file": "SMA_Matematika.json",
+      "category": "SMA",
+      "id": "mat-sma-01",
+      "title": "Matematika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMA/SMA_MatematikaLanjut_materi.json",
+      "file": "SMA_MatematikaLanjut_materi.json",
+      "category": "SMA",
+      "id": "sma-matematikalanjut-materi",
+      "title": "Matematika Lanjut",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMA/SMA_Sejarah_materi.json",
+      "file": "SMA_Sejarah_materi.json",
+      "category": "SMA",
+      "id": "sma-sejarah-materi",
+      "title": "Sejarah (SMA IPS)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMA/SMA_Sosiologi_materi.json",
+      "file": "SMA_Sosiologi_materi.json",
+      "category": "SMA",
+      "id": "sma-sosiologi-materi",
+      "title": "Sosiologi (SMA IPS)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Agribisnis_Perikanan_materi.json",
+      "file": "Agribisnis_Perikanan_materi.json",
+      "category": "SMK",
+      "id": "agribisnis-perikanan-materi",
+      "title": "Agribisnis Perikanan (Budidaya dan Penangkapan)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Agribisnis_Tanaman_materi.json",
+      "file": "Agribisnis_Tanaman_materi.json",
+      "category": "SMK",
+      "id": "agribisnis-tanaman-materi",
+      "title": "Dasar-Dasar Agribisnis Tanaman",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Agribisnis_Ternak_materi.json",
+      "file": "Agribisnis_Ternak_materi.json",
+      "category": "SMK",
+      "id": "agribisnis-ternak-materi",
+      "title": "Dasar-Dasar Agribisnis Ternak",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/AKL_AkuntansiDasar_materi.json",
+      "file": "AKL_AkuntansiDasar_materi.json",
+      "category": "SMK",
+      "id": "akl-akuntansidasar-materi",
+      "title": "Akuntansi Dasar",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/AKL_AkuntansiKeuangan_materi.json",
+      "file": "AKL_AkuntansiKeuangan_materi.json",
+      "category": "SMK",
+      "id": "akl-akuntansikeuangan-materi",
+      "title": "Akuntansi Keuangan",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/AKL_AkuntansiLembaga_materi.json",
+      "file": "AKL_AkuntansiLembaga_materi.json",
+      "category": "SMK",
+      "id": "akl-akuntansilembaga-materi",
+      "title": "Akuntansi Lembaga / Instansi Pemerintah",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/AKL_KomputerAkuntansi_materi.json",
+      "file": "AKL_KomputerAkuntansi_materi.json",
+      "category": "SMK",
+      "id": "akl-komputerakuntansi-materi",
+      "title": "Komputer Akuntansi",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/AKL_LayananPerbankan_materi.json",
+      "file": "AKL_LayananPerbankan_materi.json",
+      "category": "SMK",
+      "id": "akl-layananperbankan-materi",
+      "title": "Layanan Perbankan",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/AKL_Perpajakan_materi.json",
+      "file": "AKL_Perpajakan_materi.json",
+      "category": "SMK",
+      "id": "akl-perpajakan-materi",
+      "title": "Perpajakan",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/AKL_Spreadsheet_materi.json",
+      "file": "AKL_Spreadsheet_materi.json",
+      "category": "SMK",
+      "id": "akl-spreadsheet-materi",
+      "title": "Spreadsheet",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/BisnisDigital_DigitalBranding_materi.json",
+      "file": "BisnisDigital_DigitalBranding_materi.json",
+      "category": "SMK",
+      "id": "bisnisdigital-digitalbranding-materi",
+      "title": "Digital Branding",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/BisnisDigital_ECommerce_materi.json",
+      "file": "BisnisDigital_ECommerce_materi.json",
+      "category": "SMK",
+      "id": "bisnisdigital-ecommerce-materi",
+      "title": "E-Commerce",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/BisnisDigital_MarketingDasar_materi.json",
+      "file": "BisnisDigital_MarketingDasar_materi.json",
+      "category": "SMK",
+      "id": "bisnisdigital-marketingdasar-materi",
+      "title": "Marketing Dasar",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Kehutanan_materi.json",
+      "file": "Kehutanan_materi.json",
+      "category": "SMK",
+      "id": "kehutanan-materi",
+      "title": "Kehutanan (Manajemen dan Konservasi)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Kesehatan_Farmasi_materi.json",
+      "file": "Kesehatan_Farmasi_materi.json",
+      "category": "SMK",
+      "id": "kesehatan-farmasi-materi",
+      "title": "Dasar-Dasar Farmasi",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Kesehatan_Keperawatan_materi.json",
+      "file": "Kesehatan_Keperawatan_materi.json",
+      "category": "SMK",
+      "id": "kesehatan-keperawatan-materi",
+      "title": "Dasar-Dasar Keperawatan",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Maritime_Nautika_materi.json",
+      "file": "Maritime_Nautika_materi.json",
+      "category": "SMK",
+      "id": "maritime-nautika-materi",
+      "title": "Dasar-Dasar Nautika Kapal Niaga",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Maritime_Teknika_materi.json",
+      "file": "Maritime_Teknika_materi.json",
+      "category": "SMK",
+      "id": "maritime-teknika-materi",
+      "title": "Dasar-Dasar Teknika Kapal Penangkap Ikan",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/MPLB_Kearsipan_materi.json",
+      "file": "MPLB_Kearsipan_materi.json",
+      "category": "SMK",
+      "id": "mplb-kearsipan-materi",
+      "title": "Kearsipan",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/MPLB_Kepegawaian_materi.json",
+      "file": "MPLB_Kepegawaian_materi.json",
+      "category": "SMK",
+      "id": "mplb-kepegawaian-materi",
+      "title": "Otomatisasi Tata Kelola Kepegawaian",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/MPLB_Keuangan_materi.json",
+      "file": "MPLB_Keuangan_materi.json",
+      "category": "SMK",
+      "id": "mplb-keuangan-materi",
+      "title": "Otomatisasi Tata Kelola Keuangan",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/MPLB_Korespondensi_materi.json",
+      "file": "MPLB_Korespondensi_materi.json",
+      "category": "SMK",
+      "id": "mplb-korespondensi-materi",
+      "title": "Korespondensi",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/MPLB_TataKelola_materi.json",
+      "file": "MPLB_TataKelola_materi.json",
+      "category": "SMK",
+      "id": "mplb-tatakelola-materi",
+      "title": "Otomatisasi Tata Kelola Perkantoran",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Pariwisata_Kuliner_materi.json",
+      "file": "Pariwisata_Kuliner_materi.json",
+      "category": "SMK",
+      "id": "pariwisata-kuliner-materi",
+      "title": "Dasar-Dasar Kuliner",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Pariwisata_Perhotelan_materi.json",
+      "file": "Pariwisata_Perhotelan_materi.json",
+      "category": "SMK",
+      "id": "pariwisata-perhotelan-materi",
+      "title": "Dasar-Dasar Perhotelan",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/PAR_Kecantikan_materi.json",
+      "file": "PAR_Kecantikan_materi.json",
+      "category": "SMK",
+      "id": "par-kecantikan-materi",
+      "title": "Kecantikan dan Spa",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/PAR_Kuliner_materi.json",
+      "file": "PAR_Kuliner_materi.json",
+      "category": "SMK",
+      "id": "par-kuliner-materi",
+      "title": "Kuliner (Tata Boga)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/PAR_Perhotelan_materi.json",
+      "file": "PAR_Perhotelan_materi.json",
+      "category": "SMK",
+      "id": "par-perhotelan-materi",
+      "title": "Dasar-Dasar Perhotelan",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/PAR_ULW_materi.json",
+      "file": "PAR_ULW_materi.json",
+      "category": "SMK",
+      "id": "par-ulw-materi",
+      "title": "Usaha Layanan Wisata (ULW)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Seni_Animasi_materi.json",
+      "file": "Seni_Animasi_materi.json",
+      "category": "SMK",
+      "id": "seni-animasi-materi",
+      "title": "Seni Animasi (2D dan 3D)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Seni_Busana_materi.json",
+      "file": "Seni_Busana_materi.json",
+      "category": "SMK",
+      "id": "seni-busana-materi",
+      "title": "Dasar-Dasar Tata Busana",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Seni_Kecantikan_materi.json",
+      "file": "Seni_Kecantikan_materi.json",
+      "category": "SMK",
+      "id": "seni-kecantikan-materi",
+      "title": "Dasar-Dasar Tata Kecantikan",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Seni_Musik_materi.json",
+      "file": "Seni_Musik_materi.json",
+      "category": "SMK",
+      "id": "seni-musik-materi",
+      "title": "Dasar-Dasar Seni Musik",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Seni_Tari_materi.json",
+      "file": "Seni_Tari_materi.json",
+      "category": "SMK",
+      "id": "seni-tari-materi",
+      "title": "Dasar-Dasar Seni Tari",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Teknik_Konstruksi_materi.json",
+      "file": "Teknik_Konstruksi_materi.json",
+      "category": "SMK",
+      "id": "teknik-konstruksi-materi",
+      "title": "Dasar-Dasar Teknik Konstruksi dan Properti",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Teknik_Listrik_materi.json",
+      "file": "Teknik_Listrik_materi.json",
+      "category": "SMK",
+      "id": "teknik-listrik-materi",
+      "title": "Dasar-Dasar Teknik Ketenagalistrikan",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Teknik_Logistik_materi.json",
+      "file": "Teknik_Logistik_materi.json",
+      "category": "SMK",
+      "id": "teknik-logistik-materi",
+      "title": "Teknik Logistik dan Rantai Pasok",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Teknik_Mekatronika_materi.json",
+      "file": "Teknik_Mekatronika_materi.json",
+      "category": "SMK",
+      "id": "teknik-mekatronika-materi",
+      "title": "Teknik Mekatronika (Otomasi dan Robotika)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Teknik_Mesin_materi.json",
+      "file": "Teknik_Mesin_materi.json",
+      "category": "SMK",
+      "id": "teknik-mesin-materi",
+      "title": "Dasar-Dasar Teknik Mesin",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/Teknik_Otomotif_materi.json",
+      "file": "Teknik_Otomotif_materi.json",
+      "category": "SMK",
+      "id": "teknik-otomotif-materi",
+      "title": "Dasar-Dasar Teknik Otomotif",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TI_Broadcasting_materi.json",
+      "file": "TI_Broadcasting_materi.json",
+      "category": "SMK",
+      "id": "ti-broadcasting-materi",
+      "title": "Broadcasting dan Perfilman",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TI_DKV_materi.json",
+      "file": "TI_DKV_materi.json",
+      "category": "SMK",
+      "id": "ti-dkv-materi",
+      "title": "Desain Komunikasi Visual (DKV)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TI_PPLG_materi.json",
+      "file": "TI_PPLG_materi.json",
+      "category": "SMK",
+      "id": "ti-pplg-materi",
+      "title": "Pengembangan Perangkat Lunak dan Gim (PPLG)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TI_TKJ_materi.json",
+      "file": "TI_TKJ_materi.json",
+      "category": "SMK",
+      "id": "ti-tkj-materi",
+      "title": "Teknik Komputer dan Jaringan (TKJ)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_AkuntansiDasar_materi.json",
+      "file": "TKA_SMK_AkuntansiDasar_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-akuntansidasar-materi",
+      "title": "TKA SMK: Akuntansi Dasar",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Arab_materi.json",
+      "file": "TKA_SMK_Arab_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-arab-materi",
+      "title": "TKA SMK: Bahasa Arab",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_BahasaIndonesia_materi.json",
+      "file": "TKA_SMK_BahasaIndonesia_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-bahasaindonesia-materi",
+      "title": "TKA SMK: Bahasa Indonesia",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_BahasaInggris_materi.json",
+      "file": "TKA_SMK_BahasaInggris_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-bahasainggris-materi",
+      "title": "TKA SMK: Bahasa Inggris",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Biologi_materi.json",
+      "file": "TKA_SMK_Biologi_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-biologi-materi",
+      "title": "TKA SMK: Biologi",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Busana_materi.json",
+      "file": "TKA_SMK_Busana_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-busana-materi",
+      "title": "TKA SMK: Busana (Tata Busana)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Ekonomi_materi.json",
+      "file": "TKA_SMK_Ekonomi_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-ekonomi-materi",
+      "title": "TKA SMK: Ekonomi",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Fisika_materi.json",
+      "file": "TKA_SMK_Fisika_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-fisika-materi",
+      "title": "TKA SMK: Fisika",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Geografi_materi.json",
+      "file": "TKA_SMK_Geografi_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-geografi-materi",
+      "title": "TKA SMK: Geografi",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Jepang_materi.json",
+      "file": "TKA_SMK_Jepang_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-jepang-materi",
+      "title": "TKA SMK: Bahasa Jepang",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Kecantikan_materi.json",
+      "file": "TKA_SMK_Kecantikan_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-kecantikan-materi",
+      "title": "TKA SMK: Kecantikan (Tata Rias)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Kimia_materi.json",
+      "file": "TKA_SMK_Kimia_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-kimia-materi",
+      "title": "TKA SMK: Kimia",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Korea_materi.json",
+      "file": "TKA_SMK_Korea_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-korea-materi",
+      "title": "TKA SMK: Bahasa Korea",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Kuliner_materi.json",
+      "file": "TKA_SMK_Kuliner_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-kuliner-materi",
+      "title": "TKA SMK: Kuliner (Tata Boga)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Logistik_materi.json",
+      "file": "TKA_SMK_Logistik_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-logistik-materi",
+      "title": "TKA SMK: Dasar-Dasar Logistik",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_ManajemenPerkantoran_materi.json",
+      "file": "TKA_SMK_ManajemenPerkantoran_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-manajemenperkantoran-materi",
+      "title": "TKA SMK: Manajemen Perkantoran",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Mandarin_materi.json",
+      "file": "TKA_SMK_Mandarin_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-mandarin-materi",
+      "title": "TKA SMK: Bahasa Mandarin",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Matematika_materi.json",
+      "file": "TKA_SMK_Matematika_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-matematika-materi",
+      "title": "TKA SMK: Matematika",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_MatLat_materi.json",
+      "file": "TKA_SMK_MatLat_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-matlat-materi",
+      "title": "TKA SMK: Matematika Tingkat Lanjut",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Pancasila_materi.json",
+      "file": "TKA_SMK_Pancasila_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-pancasila-materi",
+      "title": "TKA SMK: Pendidikan Pancasila",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Perhotelan_materi.json",
+      "file": "TKA_SMK_Perhotelan_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-perhotelan-materi",
+      "title": "TKA SMK: Perhotelan",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_PKK_materi.json",
+      "file": "TKA_SMK_PKK_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-pkk-materi",
+      "title": "TKA SMK: Produk Kreatif dan Kewirausahaan (PKK)",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Sejarah_materi.json",
+      "file": "TKA_SMK_Sejarah_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-sejarah-materi",
+      "title": "TKA SMK: Sejarah",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_SeniBudaya_materi.json",
+      "file": "TKA_SMK_SeniBudaya_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-senibudaya-materi",
+      "title": "TKA SMK: Seni Budaya",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMK/TKA_SMK_Sosiologi_materi.json",
+      "file": "TKA_SMK_Sosiologi_materi.json",
+      "category": "SMK",
+      "id": "tka-smk-sosiologi-materi",
+      "title": "TKA SMK: Sosiologi",
+      "itemCount": 5
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas7_BahasaIndonesia.json",
+      "file": "SMP_Kelas7_BahasaIndonesia.json",
+      "category": "SMP",
+      "id": "materi-smp-kls7-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas7_BahasaInggris.json",
+      "file": "SMP_Kelas7_BahasaInggris.json",
+      "category": "SMP",
+      "id": "materi-smp-kls7-bing",
+      "title": "Bahasa Inggris",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas7_Informatika.json",
+      "file": "SMP_Kelas7_Informatika.json",
+      "category": "SMP",
+      "id": "materi-smp-kls7-informatika",
+      "title": "Informatika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas7_IPA.json",
+      "file": "SMP_Kelas7_IPA.json",
+      "category": "SMP",
+      "id": "materi-smp-kls7-ipa",
+      "title": "IPA",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas7_IPS.json",
+      "file": "SMP_Kelas7_IPS.json",
+      "category": "SMP",
+      "id": "materi-smp-kls7-ips",
+      "title": "IPS",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas7_Matematika.json",
+      "file": "SMP_Kelas7_Matematika.json",
+      "category": "SMP",
+      "id": "materi-smp-kls7-mat",
+      "title": "Matematika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas7_PAI.json",
+      "file": "SMP_Kelas7_PAI.json",
+      "category": "SMP",
+      "id": "materi-smp-kls7-pai",
+      "title": "Pendidikan Agama Islam",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas7_PJOK.json",
+      "file": "SMP_Kelas7_PJOK.json",
+      "category": "SMP",
+      "id": "materi-smp-kls7-pjok",
+      "title": "PJOK",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas7_PPKn.json",
+      "file": "SMP_Kelas7_PPKn.json",
+      "category": "SMP",
+      "id": "materi-smp-kls7-ppkn",
+      "title": "PPKn",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas7_Prakarya.json",
+      "file": "SMP_Kelas7_Prakarya.json",
+      "category": "SMP",
+      "id": "materi-smp-kls7-prakarya",
+      "title": "Prakarya",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas7_SeniBudaya.json",
+      "file": "SMP_Kelas7_SeniBudaya.json",
+      "category": "SMP",
+      "id": "materi-smp-kls7-seni",
+      "title": "Seni Budaya",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas8_BahasaIndonesia.json",
+      "file": "SMP_Kelas8_BahasaIndonesia.json",
+      "category": "SMP",
+      "id": "materi-smp-kls8-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas8_BahasaInggris.json",
+      "file": "SMP_Kelas8_BahasaInggris.json",
+      "category": "SMP",
+      "id": "materi-smp-kls8-bing",
+      "title": "Bahasa Inggris",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas8_Informatika.json",
+      "file": "SMP_Kelas8_Informatika.json",
+      "category": "SMP",
+      "id": "materi-smp-kls8-informatika",
+      "title": "Informatika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas8_IPA.json",
+      "file": "SMP_Kelas8_IPA.json",
+      "category": "SMP",
+      "id": "materi-smp-kls8-ipa",
+      "title": "IPA",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas8_IPS.json",
+      "file": "SMP_Kelas8_IPS.json",
+      "category": "SMP",
+      "id": "materi-smp-kls8-ips",
+      "title": "IPS",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas8_Matematika.json",
+      "file": "SMP_Kelas8_Matematika.json",
+      "category": "SMP",
+      "id": "materi-smp-kls8-mat",
+      "title": "Matematika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas8_PAI.json",
+      "file": "SMP_Kelas8_PAI.json",
+      "category": "SMP",
+      "id": "materi-smp-kls8-pai",
+      "title": "Pendidikan Agama Islam",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas8_PJOK.json",
+      "file": "SMP_Kelas8_PJOK.json",
+      "category": "SMP",
+      "id": "materi-smp-kls8-pjok",
+      "title": "PJOK",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas8_PPKn.json",
+      "file": "SMP_Kelas8_PPKn.json",
+      "category": "SMP",
+      "id": "materi-smp-kls8-ppkn",
+      "title": "PPKn",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas8_Prakarya.json",
+      "file": "SMP_Kelas8_Prakarya.json",
+      "category": "SMP",
+      "id": "materi-smp-kls8-prakarya",
+      "title": "Prakarya",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas8_SeniBudaya.json",
+      "file": "SMP_Kelas8_SeniBudaya.json",
+      "category": "SMP",
+      "id": "materi-smp-kls8-seni",
+      "title": "Seni Budaya",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas9_BahasaIndonesia.json",
+      "file": "SMP_Kelas9_BahasaIndonesia.json",
+      "category": "SMP",
+      "id": "materi-smp-kls9-bi",
+      "title": "Bahasa Indonesia",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas9_BahasaInggris.json",
+      "file": "SMP_Kelas9_BahasaInggris.json",
+      "category": "SMP",
+      "id": "materi-smp-kls9-bing",
+      "title": "Bahasa Inggris",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas9_Informatika.json",
+      "file": "SMP_Kelas9_Informatika.json",
+      "category": "SMP",
+      "id": "materi-smp-kls9-tik",
+      "title": "Informatika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas9_IPA.json",
+      "file": "SMP_Kelas9_IPA.json",
+      "category": "SMP",
+      "id": "materi-smp-kls9-ipa",
+      "title": "IPA",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas9_IPS.json",
+      "file": "SMP_Kelas9_IPS.json",
+      "category": "SMP",
+      "id": "materi-smp-kls9-ips",
+      "title": "IPS",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas9_Matematika.json",
+      "file": "SMP_Kelas9_Matematika.json",
+      "category": "SMP",
+      "id": "materi-smp-kls9-mat",
+      "title": "Matematika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas9_PAI.json",
+      "file": "SMP_Kelas9_PAI.json",
+      "category": "SMP",
+      "id": "materi-smp-kls9-pai",
+      "title": "Pendidikan Agama Islam",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas9_PJOK.json",
+      "file": "SMP_Kelas9_PJOK.json",
+      "category": "SMP",
+      "id": "materi-smp-kls9-pjok",
+      "title": "PJOK",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas9_PPKn.json",
+      "file": "SMP_Kelas9_PPKn.json",
+      "category": "SMP",
+      "id": "materi-smp-kls9-ppkn",
+      "title": "PPKn",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas9_Prakarya.json",
+      "file": "SMP_Kelas9_Prakarya.json",
+      "category": "SMP",
+      "id": "materi-smp-kls9-prakarya",
+      "title": "Prakarya",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/SMP/SMP_Kelas9_SeniBudaya.json",
+      "file": "SMP_Kelas9_SeniBudaya.json",
+      "category": "SMP",
+      "id": "materi-smp-kls9-seni",
+      "title": "Seni Budaya",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/TK/TK_FaseFondasi.json",
+      "file": "TK_FaseFondasi.json",
+      "category": "TK",
+      "id": "materi-tk-fondasi-01",
+      "title": "Fase Fondasi",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/TKA_SMP/TKA_SMP_BahasaIndonesia_materi.json",
+      "file": "TKA_SMP_BahasaIndonesia_materi.json",
+      "category": "TKA_SMP",
+      "id": "TKA_SMP_BINDO",
+      "title": "TKA SMP Bahasa Indonesia 2025",
+      "itemCount": 6
+    },
+    {
+      "path": "materi/TKA_SMP/TKA_SMP_BahasaInggris_materi.json",
+      "file": "TKA_SMP_BahasaInggris_materi.json",
+      "category": "TKA_SMP",
+      "id": "TKA_SMP_INGGRIS",
+      "title": "TKA SMP Bahasa Inggris 2025",
+      "itemCount": 6
+    },
+    {
+      "path": "materi/TKA_SMP/TKA_SMP_IPA_materi.json",
+      "file": "TKA_SMP_IPA_materi.json",
+      "category": "TKA_SMP",
+      "id": "TKA_SMP_IPA",
+      "title": "TKA SMP IPA 2025",
+      "itemCount": 6
+    },
+    {
+      "path": "materi/TKA_SMP/TKA_SMP_IPS_materi.json",
+      "file": "TKA_SMP_IPS_materi.json",
+      "category": "TKA_SMP",
+      "id": "TKA_SMP_IPS",
+      "title": "TKA SMP IPS 2025",
+      "itemCount": 6
+    },
+    {
+      "path": "materi/TKA_SMP/TKA_SMP_Matematika_materi.json",
+      "file": "TKA_SMP_Matematika_materi.json",
+      "category": "TKA_SMP",
+      "id": "TKA_SMP_MAT",
+      "title": "TKA SMP Matematika 2025",
+      "itemCount": 6
+    },
+    {
+      "path": "materi/TKA_SMP/TKA_SMP_Pancasila_materi.json",
+      "file": "TKA_SMP_Pancasila_materi.json",
+      "category": "TKA_SMP",
+      "id": "TKA_SMP_PANCASILA",
+      "title": "TKA SMP Pendidikan Pancasila 2025",
+      "itemCount": 6
+    },
+    {
+      "path": "materi/UTBK/utbk_materi_lengkap.json",
+      "file": "utbk_materi_lengkap.json",
+      "category": "UTBK",
+      "id": "mat-utbk",
+      "title": "Materi UTBK SNBT Lengkap",
+      "itemCount": 7
+    },
+    {
+      "path": "materi/UTBK/utbk_materi_literasi_bahasa_indonesia.json",
+      "file": "utbk_materi_literasi_bahasa_indonesia.json",
+      "category": "UTBK",
+      "id": "mat-lbi",
+      "title": "Literasi dalam Bahasa Indonesia",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/UTBK/utbk_materi_literasi_bahasa_inggris.json",
+      "file": "utbk_materi_literasi_bahasa_inggris.json",
+      "category": "UTBK",
+      "id": "mat-lbe",
+      "title": "Literasi dalam Bahasa Inggris",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/UTBK/utbk_materi_pemahaman_bacaan_dan_menulis.json",
+      "file": "utbk_materi_pemahaman_bacaan_dan_menulis.json",
+      "category": "UTBK",
+      "id": "mat-pbm",
+      "title": "Pemahaman Bacaan dan Menulis",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/UTBK/utbk_materi_penalaran_matematika.json",
+      "file": "utbk_materi_penalaran_matematika.json",
+      "category": "UTBK",
+      "id": "mat-pm",
+      "title": "Penalaran Matematika",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/UTBK/utbk_materi_penalaran_umum.json",
+      "file": "utbk_materi_penalaran_umum.json",
+      "category": "UTBK",
+      "id": "mat-pu",
+      "title": "Penalaran Umum",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/UTBK/utbk_materi_pengetahuan_dan_pemahaman_umum.json",
+      "file": "utbk_materi_pengetahuan_dan_pemahaman_umum.json",
+      "category": "UTBK",
+      "id": "mat-ppu",
+      "title": "Pengetahuan dan Pemahaman Umum",
+      "itemCount": 0
+    },
+    {
+      "path": "materi/UTBK/utbk_materi_pengetahuan_kuantitatif.json",
+      "file": "utbk_materi_pengetahuan_kuantitatif.json",
+      "category": "UTBK",
+      "id": "mat-pk",
+      "title": "Pengetahuan Kuantitatif",
+      "itemCount": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "judul": "Otomatisasi Tata Kelola Kepegawaian",
+  "tingkatan": "SMK",
+  "jurusan": "Manajemen Perkantoran dan Layanan Bisnis",
+  "deskripsi": "Materi mengenai administrasi Sumber Daya Manusia (SDM), regulasi ketenagakerjaan, perencanaan, pengadaan, hingga pemberhentian pegawai.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar Administrasi Kepegawaian",
+      "konten": "Pengertian administrasi kepegawaian, fungsi manajerial dan fungsi teknis kepegawaian. Peran penting bagian HR (Human Resources) dalam mendukung keberlangsungan operasional kantor dan perusahaan.",
+      "tag": [
+        "mplb kepegawaian materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Perencanaan dan Pengadaan Pegawai",
+      "konten": "Teknik analisis jabatan (job analysis), penyusunan uraian tugas (job description) dan spesifikasi jabatan (job specification). Proses rekrutmen, seleksi, hingga orientasi pegawai baru.",
+      "tag": [
+        "mplb kepegawaian materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Pembinaan dan Pengembangan Pegawai",
+      "konten": "Penilaian kinerja (performance appraisal), kompensasi (gaji dan tunjangan), serta program pendidikan dan pelatihan (diklat) untuk meningkatkan kompetensi dan karier pegawai.",
+      "tag": [
+        "mplb kepegawaian materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Regulasi Ketenagakerjaan",
+      "konten": "Memahami UU Ketenagakerjaan di Indonesia. Aturan mengenai jam kerja, cuti, perlindungan K3 (Kesehatan dan Keselamatan Kerja), serta jaminan sosial (BPJS Ketenagakerjaan).",
+      "tag": [
+        "mplb kepegawaian materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Tata Tertib dan Pemberhentian Pegawai",
+      "konten": "Manajemen disiplin kerja, pemberian sanksi (SP1, SP2, SP3), pemutusan hubungan kerja (PHK), hingga tata cara pengurusan masa pensiun dan hak-hak pegawai setelah berhenti bekerja.",
+      "tag": [
+        "mplb kepegawaian materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "mplb-kepegawaian-materi",
+  "mapel": "Otomatisasi Tata Kelola Kepegawaian",
+  "tag": [
+    "mplb kepegawaian materi"
+  ]
+}

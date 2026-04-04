@@ -1,0 +1,607 @@
+{
+  "id": "latihan-sd-kls1-mat",
+  "tipe": "SD",
+  "mapel": "Matematika Kelas 1",
+  "soal": [
+    {
+      "id": "mat-1-01",
+      "teks": "Ada 3 apel merah dan 2 apel hijau di keranjang. Berapa jumlah semua apel?",
+      "opsi": {
+        "A": "5",
+        "B": "4",
+        "C": "6"
+      },
+      "kunci": "A",
+      "pembahasan": "3 apel + 2 apel = 5 apel. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Angkat 3 jari di satu tangan, 2 jari di tangan lain. Hitung semuanya."
+    },
+    {
+      "id": "mat-1-02",
+      "teks": "Budi punya 5 kelereng, lalu hilang 1 kelereng. Tinggal berapa kelereng Budi?",
+      "opsi": {
+        "A": "5",
+        "B": "4",
+        "C": "6"
+      },
+      "kunci": "B",
+      "pembahasan": "5 kelereng dikurangi 1 menjadi 4 kelereng (5 - 1 = 4).",
+      "trik": "Hilang = berkurang (dikurangi)."
+    },
+    {
+      "id": "mat-1-03",
+      "teks": "Angka sebelum angka 8 adalah...",
+      "opsi": {
+        "A": "6",
+        "B": "9",
+        "C": "7"
+      },
+      "kunci": "C",
+      "pembahasan": "Urutan angka: 1, 2, 3, 4, 5, 6, 7, 8. Jadi sebelum 8 adalah 7.",
+      "trik": "Hitung mundur dari 8: 8, 7..."
+    },
+    {
+      "id": "mat-1-04",
+      "teks": "Bentuk roda sepeda menyerupai bangun datar apa?",
+      "opsi": {
+        "A": "Lingkaran",
+        "B": "Persegi",
+        "C": "Segitiga"
+      },
+      "kunci": "A",
+      "pembahasan": "Roda berbentuk bulat penuh, yaitu lingkaran.",
+      "trik": "Lingkaran bundar, tidak punya sudut tajam."
+    },
+    {
+      "id": "mat-1-05",
+      "teks": "Manakah kelompok benda yang lebih banyak? (A: 4 pensil, B: 6 pensil)",
+      "opsi": {
+        "A": "Kelompok A",
+        "B": "Kelompok B",
+        "C": "Sama banyak"
+      },
+      "kunci": "B",
+      "pembahasan": "Karena angka 6 lebih besar nilainya daripada angka 4.",
+      "trik": "Bandingkan angkanya, angka sebelah kanan pada penggaris adalah yang terbesar."
+    },
+    {
+      "id": "mat-1-06",
+      "teks": "Jika hari ini Senin, besok hari...",
+      "opsi": {
+        "A": "Minggu",
+        "B": "Rabu",
+        "C": "Selasa"
+      },
+      "kunci": "C",
+      "pembahasan": "Urutan hari: Senin, Selasa, Rabu. Setalah Senin adalah Selasa.",
+      "trik": "Hafal lagu: Senin, Selasa, Rabu, Kamis... nyanyikan perlahan."
+    },
+    {
+      "id": "mat-1-07",
+      "teks": "Nina memotong semangka menjadi bentuk dengan tiga sudut tajam. Bentuk apa itu?",
+      "opsi": {
+        "A": "Segitiga",
+        "B": "Lingkaran",
+        "C": "Kotak"
+      },
+      "kunci": "A",
+      "pembahasan": "Bentuk bangun datar yang punya 3 sudut adalah segitiga (segi-tiga).",
+      "trik": "Tiga sudut = Segi Tiga."
+    },
+    {
+      "id": "mat-1-08",
+      "teks": "Satu donat ditambah tiga donat sama dengan...",
+      "opsi": {
+        "A": "2 donat",
+        "B": "4 donat",
+        "C": "3 donat"
+      },
+      "kunci": "B",
+      "pembahasan": "Jumlahan matematika 1 + 3 = 4. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"4 donat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "1 simpan di otak, lalu hitung jari tambahkan tiga: dua, tiga, empat!"
+    },
+    {
+      "id": "mat-1-09",
+      "teks": "Di peternakan ada 8 ekor bebek. 2 ekor bebek berenang ke danau. Sisa bebek di darat ada...",
+      "opsi": {
+        "A": "5",
+        "B": "10",
+        "C": "6"
+      },
+      "kunci": "C",
+      "pembahasan": "8 ekor dikurangi 2 ekor yang pergi berenang = 6 ekor sisa (8 - 2 = 6).",
+      "trik": "Hitung mundur angka 8 dua kali: 7... 6."
+    },
+    {
+      "id": "mat-1-10",
+      "teks": "Angka sesudah angka 12 adalah...",
+      "opsi": {
+        "A": "13",
+        "B": "11",
+        "C": "14"
+      },
+      "kunci": "A",
+      "pembahasan": "Urutannya: 10, 11, 12, 13, 14. Setelah 12 adalah 13.",
+      "trik": "Angka belakangnya (2 + 1) sama dengan 3, jadi belasan tiga (13)."
+    },
+    {
+      "id": "mat-1-11",
+      "teks": "Bangun datar yang sisi panjangnya empat sama panjang / kotak adalah...",
+      "opsi": {
+        "A": "Segitiga",
+        "B": "Persegi",
+        "C": "Lingkaran"
+      },
+      "kunci": "B",
+      "pembahasan": "Persegi adalah istilah resmi dari bangun kotak bersisi empat yang sama panjang.",
+      "trik": "KOTAK = Persegi."
+    },
+    {
+      "id": "mat-1-12",
+      "teks": "Jari tangan di tangan kiri dan tangan kanan jumlahnya jika disatukan...",
+      "opsi": {
+        "A": "5",
+        "B": "20",
+        "C": "10"
+      },
+      "kunci": "C",
+      "pembahasan": "5 jari kiri + 5 jari kanan = 10 jari. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"10\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitung kedua telapak tanganmu = 10."
+    },
+    {
+      "id": "mat-1-13",
+      "teks": "Matahari bersinar paling terang tegak berdiri di waktu...",
+      "opsi": {
+        "A": "Siang",
+        "B": "Pagi",
+        "C": "Malam"
+      },
+      "kunci": "A",
+      "pembahasan": "Waktu siang hari adalah waktu terik terang matahari panas di atas.",
+      "trik": "Siang = waktu paling terang gerah."
+    },
+    {
+      "id": "mat-1-14",
+      "teks": "Buku tulis bentuknya seperti bangun apa?",
+      "opsi": {
+        "A": "Lingkaran",
+        "B": "Persegi Panjang",
+        "C": "Bulatan telur"
+      },
+      "kunci": "B",
+      "pembahasan": "Buku mempunyai 4 sudut (segiempat) tapi panjang sisinya berbeda, jadi ia dinamakan persegi panjang.",
+      "trik": "Kotak yang lebih memanjang = Persegi Panjang."
+    },
+    {
+      "id": "mat-1-15",
+      "teks": "Di mana letak atap pada bangunan rumah?",
+      "opsi": {
+        "A": "Bagian bawah",
+        "B": "Bagian dalam",
+        "C": "Bagian atas"
+      },
+      "kunci": "C",
+      "pembahasan": "Atap terletak di bagian paling atas untuk menutupi kepala/isi rumah dari luar.",
+      "trik": "Posisi Atap = Tinggi = Atas."
+    },
+    {
+      "id": "mat-1-16",
+      "teks": "Dua es krim rasa mangga ditambah dua es krim cokelat. Totalnya jadi...",
+      "opsi": {
+        "A": "4",
+        "B": "3",
+        "C": "5"
+      },
+      "kunci": "A",
+      "pembahasan": "2 + 2 = 4 es krim. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Jari 2 digabung Jari 2 = 4."
+    },
+    {
+      "id": "mat-1-17",
+      "teks": "5 + 5 = ...",
+      "opsi": {
+        "A": "9",
+        "B": "10",
+        "C": "11"
+      },
+      "kunci": "B",
+      "pembahasan": "Lima tambah Lima sama dengan sepuluh (semua jari tangan).",
+      "trik": "Angkat kedua tangan dan hitung total kalinya."
+    },
+    {
+      "id": "mat-1-18",
+      "teks": "Sepuluh dikurangi Tiga (10 - 3) = ...",
+      "opsi": {
+        "A": "6",
+        "B": "8",
+        "C": "7"
+      },
+      "kunci": "C",
+      "pembahasan": "Dari 10 jari, lipat tiga jarimu. Sisa jari tegak adalah 7 jari (5 di satu tangan, 2 di tangan satunya).",
+      "trik": "Mundur 3 dari 10: 9, 8, 7."
+    },
+    {
+      "id": "mat-1-19",
+      "teks": "Mobil pak jono memiliki empat roda. Sepeda andi punya dua roda. Berapa selisih rodanya?",
+      "opsi": {
+        "A": "2",
+        "B": "4",
+        "C": "6"
+      },
+      "kunci": "A",
+      "pembahasan": "Selisih adalah mencari perbedaan pengurangan = 4 roda - 2 roda = 2 roda sisa selisih.",
+      "trik": "Selisih artinya angka besar dikurangi angka kecil (pengurangan)."
+    },
+    {
+      "id": "mat-1-20",
+      "teks": "Yang mana angka belasan terkecil?",
+      "opsi": {
+        "A": "10",
+        "B": "11",
+        "C": "20"
+      },
+      "kunci": "B",
+      "pembahasan": "Belasan berawalan 'sebelas' (11). Angka 10 itu puluhan pertama, 20 puluhan kedua.",
+      "trik": "Angka 'belasan' artinya sebelas, dua belas, dst. Paling pendek bilangannya adalah 11."
+    },
+    {
+      "id": "mat-1-21",
+      "teks": "Ibu punya 6 kue mangkok. Diberikan ke nenek 3 potong. Ibu sisa kue...",
+      "opsi": {
+        "A": "2 buah",
+        "B": "4 buah",
+        "C": "3 buah"
+      },
+      "kunci": "C",
+      "pembahasan": "Kue ibu berkurang, rumusnya 6 - 3 = 3. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"3 buah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pakai jari, angka 6 lipat 3 jadi sisa 3."
+    },
+    {
+      "id": "mat-1-22",
+      "teks": "Simbol dari pengurangan (diambil) adalah...",
+      "opsi": {
+        "A": "Tanda (-)",
+        "B": "Tanda (+)",
+        "C": "Tanda (=)"
+      },
+      "kunci": "A",
+      "pembahasan": "Tanda strip (-) disebut tanda hubung kurang/pengurangan artinya mengambil. Tambah (+) menggabungkan.",
+      "trik": "Minus itu strip pipih (-)."
+    },
+    {
+      "id": "mat-1-23",
+      "teks": "Dudi berat badannya 20kg. Doni beratnya 25kg. Siapakah yang lebih berat?",
+      "opsi": {
+        "A": "Dudi",
+        "B": "Doni",
+        "C": "Sama saja"
+      },
+      "kunci": "B",
+      "pembahasan": "Karena 25kg mempunyai satuan nilai angka yang lebih besar daripada 20.",
+      "trik": "Angka depan (puluhan sama '2'), angka belakang lebih besar Doni '5' melebihi '0'."
+    },
+    {
+      "id": "mat-1-24",
+      "teks": "Jika kamu menghadap ke kaca bayangan arah depan, maka belakang berada...",
+      "opsi": {
+        "A": "Di hadapanmu",
+        "B": "Di bawah kakimu",
+        "C": "Di punggung pundakmu"
+      },
+      "kunci": "C",
+      "pembahasan": "Ruang Dimensi letak: arah depan dan arah punggung belakang membelakangi muka.",
+      "trik": "Belakang tubuh kita letaknya ada punggung kita berdiri."
+    },
+    {
+      "id": "mat-1-25",
+      "teks": "9, 8, 7, ... Coba teruskan urutan angkanya!",
+      "opsi": {
+        "A": "6, 5",
+        "B": "10, 11",
+        "C": "7, 8"
+      },
+      "kunci": "A",
+      "pembahasan": "Polanya hitung mundur mengecil pelan, setelah angka 7 adalah enam dan lima.",
+      "trik": "Angka menyusut kecil = Hitung mundur (6,5)."
+    },
+    {
+      "id": "mat-1-26",
+      "teks": "Ada 4 kupu-kupu jingga dan 3 kupu-kupu biru di taman. Semua berjumlah...",
+      "opsi": {
+        "A": "6",
+        "B": "7",
+        "C": "8"
+      },
+      "kunci": "B",
+      "pembahasan": "4 kupu + 3 kupu digabungkan nilainya jadi 7 satuan.",
+      "trik": "Simpan 4 di otak, lanjut 5, 6, 7."
+    },
+    {
+      "id": "mat-1-27",
+      "teks": "Apa lambang bilangan dari Tiga Belas?",
+      "opsi": {
+        "A": "31",
+        "B": "3",
+        "C": "13"
+      },
+      "kunci": "C",
+      "pembahasan": "Lambang angka 'Tiga belas' ditulis angka satu dan tiga (13). Angka (31) tiga puluh satu.",
+      "trik": "Belas artinya ada angka 1 di depan angka tersebut."
+    },
+    {
+      "id": "mat-1-28",
+      "teks": "Ibu guru menuliskan pola lantai garis lurus dari kiri menuju kearah...",
+      "opsi": {
+        "A": "Kanan",
+        "B": "Matahari",
+        "C": "Atas"
+      },
+      "kunci": "A",
+      "pembahasan": "Lawannya kata arah KIRI melintang akan menuju arah KANAN sisi buku.",
+      "trik": "Silang kata dimensi Kiri lawan kata Kanan."
+    },
+    {
+      "id": "mat-1-29",
+      "teks": "2 + 8 sama dengan ...",
+      "opsi": {
+        "A": "9",
+        "B": "10",
+        "C": "11"
+      },
+      "kunci": "B",
+      "pembahasan": "Menjumlah 2 buah benda ke kumpulan 8 buah benda (atau sebaliknya 8+2) jadi total bulat bernilai 10 penuh.",
+      "trik": "Angka penggenap dari kawan bilangan delapan belas untuk 10 pasti butuh angka 2."
+    },
+    {
+      "id": "mat-1-30",
+      "teks": "Berapakah bilangan sesudah sembilan belas?",
+      "opsi": {
+        "A": "Dua belas",
+        "B": "Se-puluh",
+        "C": "Dua Puluh"
+      },
+      "kunci": "C",
+      "pembahasan": "Urutan pencacahan bilangan dari 19 maju satu ketukan akan menyentuh batas puluhan utuh yakni 20 (Dua puluh).",
+      "trik": "Sembilan itu puncak satuan, setelahnya puluhannya maju nambah satu (1+1= 20)."
+    },
+    {
+      "id": "mat-1-31",
+      "teks": "Angka 'Enam belas' dilambangkan bilangan... ",
+      "opsi": {
+        "A": "16",
+        "B": "61",
+        "C": "6"
+      },
+      "kunci": "A",
+      "pembahasan": "Kata 'belas' menaruh posisi 1 sebagai puluhan, 6 sebagai satuan.",
+      "trik": "Tulis '1' baru angkanya."
+    },
+    {
+      "id": "mat-1-32",
+      "teks": "Hari apakah setelah Jumat libur pendek sebelum masuk minggu?",
+      "opsi": {
+        "A": "Kamis",
+        "B": "Sabtu",
+        "C": "Minggu sore"
+      },
+      "kunci": "B",
+      "pembahasan": "Urutan nama mingguan : Jumat -> Sabtu -> Minggu kalendar libur.",
+      "trik": "Weekend artinya Sabtu akhir pekal kalender."
+    },
+    {
+      "id": "mat-1-33",
+      "teks": "Bangun bentuk pizza bundar piring disebut...",
+      "opsi": {
+        "A": "Kotak piring",
+        "B": "Kerucut tumpul",
+        "C": "Lingkaran"
+      },
+      "kunci": "C",
+      "pembahasan": "Garis putaran tepi tak terputus memutar menyatu disebut bentuk (lingkaran bulat)",
+      "trik": "Bentuk roda motor mobil pasti lingkaran piringan bundar!"
+    },
+    {
+      "id": "mat-1-34",
+      "teks": "Bila kamu bangun saat matahari pertama kali terbit, itu waktu menandakan?",
+      "opsi": {
+        "A": "Pagi",
+        "B": "Sore",
+        "C": "Zaman Purba"
+      },
+      "kunci": "A",
+      "pembahasan": "Matahari Terbit timur adalah waktu permulaan hari disebut Pagi cahaya pagi hangat.",
+      "trik": "Terbit melek mata= Pagi."
+    },
+    {
+      "id": "mat-1-35",
+      "teks": "Fadil punya dua koin emas, Rio ada empat koin emas. Bila semuanya disatukan total?",
+      "opsi": {
+        "A": "5 Koin",
+        "B": "6 Koin",
+        "C": "7 koin emas"
+      },
+      "kunci": "B",
+      "pembahasan": "Tambahan penyatuan (2+4 = 6) total jumlah yang dikumpulkan koin.",
+      "trik": "Disatukan artinya Ditambah maju."
+    },
+    {
+      "id": "mat-1-36",
+      "teks": "Angka manakah yang nilainya PALING KECIL dari { 12, 17, 10, 15 } ?",
+      "opsi": {
+        "A": "15",
+        "B": "12",
+        "C": "10"
+      },
+      "kunci": "C",
+      "pembahasan": "Dari angka urutan belasan tersebut bilangan pembuka mula paling awal (terkecil) angkanya yaitu 'Sepuluh' tanpa tambahan.",
+      "trik": "Hitung saja dari 1 yang mana kau lewati paling awal disebut."
+    },
+    {
+      "id": "mat-1-37",
+      "teks": "Tujuh dikurangi Tiga (7 - 3) menghasilkan...?",
+      "opsi": {
+        "A": "4",
+        "B": "3",
+        "C": "5"
+      },
+      "kunci": "A",
+      "pembahasan": "Jari berdiri 7, lipat 3 sisanya tegak pasti berjumlah 4.",
+      "trik": "Tarik mundur tiga baris dari 7: 6.. 5... 4."
+    },
+    {
+      "id": "mat-1-38",
+      "teks": "Di mana letak bawah pada posisimu bila berdiri tegap lurus pandang muka?",
+      "opsi": {
+        "A": "Mata",
+        "B": "Kaki menyentak lantai tanah",
+        "C": "Telinga kiri ujung"
+      },
+      "kunci": "B",
+      "pembahasan": "Bawah selalu mengindikasi arah alas tempat gravitasi kita berpijak sepatu berjalan yaitu bawah.",
+      "trik": "Bawah / alas rumah / telapak pijak lantai."
+    },
+    {
+      "id": "mat-1-39",
+      "teks": "Arah jam berlawanan arah... 1, 2, 3... pola setelahnya disebut polanya",
+      "opsi": {
+        "A": "Pancaran ganda",
+        "B": "Mengurangi angka ganjil pola loncat",
+        "C": "Menaik (Menjumlah Satu)"
+      },
+      "kunci": "C",
+      "pembahasan": "Bilangan urut tersebut menambahkan ketukan +1 disetiap pola deretannya (menaik terus).",
+      "trik": "Bila angkanya makin besar ia urutan menaik."
+    },
+    {
+      "id": "mat-1-40",
+      "teks": "Berapa banyak titik sudut yang ada di dalam bentuk Persegi panjang kotak buku tuis?",
+      "opsi": {
+        "A": "4",
+        "B": "2",
+        "C": "3"
+      },
+      "kunci": "A",
+      "pembahasan": "Mempunyai empat ujung tajam sudut siku pertemuan tiap sisinya sejajar panjang.",
+      "trik": "Buku tulis punya Kiri atas (1), Kiri bawah (2), Kanan atas (3), Kanan bawah (4)."
+    },
+    {
+      "id": "mat-1-41",
+      "teks": "Budi berat sekali mengangkat kardus penuh batu, Rio mudah mengangkat bola berangin, kardus sifatnya...",
+      "opsi": {
+        "A": "Ringan lembut dari bola",
+        "B": "Lebih berat dari bola",
+        "C": "Bentuk panjang kardusnya"
+      },
+      "kunci": "B",
+      "pembahasan": "Benda tebal batu solid jauh lebih masif massanya jadi menimbang hal tersebut (Lebih berat dari angin udara di bola karet).",
+      "trik": "Berat jika buat otot kerasa lelah angkatnya."
+    },
+    {
+      "id": "mat-1-42",
+      "teks": "Tali milik Anton 5 jengkal. Tali punya Lisa 3 jengkal. Tali siapa paling panjang?",
+      "opsi": {
+        "A": "Lisa punya",
+        "B": "Tali kancil punya",
+        "C": "Anton punya"
+      },
+      "kunci": "C",
+      "pembahasan": "Pengukuran skala tidak baku satuan jengkal, membandingkan 5 dan 3, jelas 5 membentang lebuh jauh (Panjang).",
+      "trik": "Angka banyak jengkalnya = makin memanjang tali ukurnya."
+    },
+    {
+      "id": "mat-1-43",
+      "teks": "Pagi jam 07:00 malam jam pukul ...?",
+      "opsi": {
+        "A": "19:00",
+        "B": "Belum jam",
+        "C": "07:00 pm (jam tayang kalender angka tak baku)"
+      },
+      "kunci": "A",
+      "pembahasan": "Sistem waktu kalender setelah dua belas tambah tujuh 12+7 = 19 menandakan jam 7 gelap/malam.",
+      "trik": "Tujuh digabung belasan jadi Jam malam."
+    },
+    {
+      "id": "mat-1-44",
+      "teks": "Ada 5 anak membaca di perpustakaan. 3 anak lagi ikut membaca. Berapa semua anak disana sekarang ruang bacanya?",
+      "opsi": {
+        "A": "1",
+        "B": "8",
+        "C": "7"
+      },
+      "kunci": "B",
+      "pembahasan": "5 anak (di awal) + 3 anak (datang gabung) = Nilai 8 berkumpul total perpus.",
+      "trik": "Kata kunci (ikut membaca) indikasi penjumlah +."
+    },
+    {
+      "id": "mat-1-45",
+      "teks": "Sebuah mobil truk punya berapa roda gelinding belakang roda depan kabin...",
+      "opsi": {
+        "A": "Dua tiga buah kecil roda ban",
+        "B": "Tidak ada pakai sirip laut air deras.",
+        "C": "Empat roda genap / Enam roda total sumbu roda jalan raya darat"
+      },
+      "kunci": "C",
+      "pembahasan": "Mobil komersial dan truk gandeng pengirim mempunyai susunan lebih dari dua rodanya memutar tanah (Minimal 4 atau 6 ban gerak ban).",
+      "trik": "Truk = kotak besar roda ban besar berbiji-biji empat Enam."
+    },
+    {
+      "id": "mat-1-46",
+      "teks": "Lambang Penjumlahan yang merekatkan bilangan ditulis dengan simbol wujud garis silang palang...",
+      "opsi": {
+        "A": "( + ) Tambah silang tegak lurus mendatar bersilangan panjang.",
+        "B": "(--) Minus pengurangan",
+        "C": " ( = ) sama nilai keseimbangan panjang pararel pipih "
+      },
+      "kunci": "A",
+      "pembahasan": "Plus disilang saling membentuk tanda silang potong mendatar lurus untuk rumus gabungan jumlahan.",
+      "trik": "Tambah lambangnya ibarat gambar Palang palang."
+    },
+    {
+      "id": "mat-1-47",
+      "teks": "Uang koin pecah nilai limaratus berwujud bulat rata keliling tepinya simetrinya bentuknya disebut?",
+      "opsi": {
+        "A": "Kotak panjang buku jilid panjang rata tegak miring lurus panjang kotak buku.",
+        "B": "Lingkaran piring cakram putar",
+        "C": "Siku lengkung tiga menonjol lincip panjang."
+      },
+      "kunci": "B",
+      "pembahasan": "Semua uang perak/logam perunggu rata membulat tepiannya bundaran pipih keping yang tidak memiliki titik pojok satupun.",
+      "trik": "Uang logam berwujud tidak nyudut rata licin."
+    },
+    {
+      "id": "mat-1-48",
+      "teks": "Coba hitung, 10 + 0 sama saja hasilnya berapa nilainya kembali ...",
+      "opsi": {
+        "A": "Nol gila",
+        "B": "Satu lima belas",
+        "C": "Sepuluh"
+      },
+      "kunci": "C",
+      "pembahasan": "Semua angka atau variabel bila dijumlah tambah dengan nol (artinya ketiadaan/hampa) angkanya akan menetap utuh 10.",
+      "trik": "Tambah bayangan Kosong Nol tidak ada sisa tambah apa apa."
+    },
+    {
+      "id": "mat-1-49",
+      "teks": "Ada 4 roti yang pak tukang masak panggang siang. Ternyata 4 roti itu gosong dibuang. Sisanya roti yang dimakan lezat...",
+      "opsi": {
+        "A": "Nol Hampa tak adapun kue",
+        "B": "Delapan",
+        "C": "Enzim asam pedas keras"
+      },
+      "kunci": "A",
+      "pembahasan": "Punya 4 diambil buang total ke4-empatnya, artinya habis tidak satu pun sisa, ditulis wujud 0.",
+      "trik": "Semua habis dikurang semuanya."
+    },
+    {
+      "id": "mat-1-50",
+      "teks": "Nilai lima puluh apabila diurut ke depan adalah 40, ... mundur",
+      "opsi": {
+        "A": "tigapuluh terusannya lima tiga.",
+        "B": "Bilangan urut mundur mengecil puluhan genap",
+        "C": "angka enam puluh ke belasan naik tinggi beranjak ganda belas besar"
+      },
+      "kunci": "B",
+      "pembahasan": "Deretan belasan menurun 50, lalu 40 lalu 30 adalah deretan pola (mundur kelipatan 10).",
+      "trik": "Mundur puluhan lurus."
+    }
+  ]
+}

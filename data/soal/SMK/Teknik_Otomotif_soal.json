@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TE_OT_01",
+    "pertanyaan": "Pada mesin 4 tak, satu siklus kerja lengkap terdiri dari...",
+    "opsi": [
+      "2 kali putaran poros engkol dan 4 kali gerakan piston",
+      "1 kali putaran poros engkol dan 2 kali gerakan piston",
+      "4 kali putaran poros engkol dan 4 kali gerakan piston",
+      "1 kali putaran poros engkol dan 4 kali gerakan piston",
+      "2 kali putaran poros engkol dan 2 kali gerakan piston"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Satu siklus 4 tak memerlukan 720 derajat putaran kruk as (2 putaran) untuk menyelesaikan langkah Hisap, Kompresi, Usaha, dan Buang."
+  },
+  {
+    "id": "TE_OT_02",
+    "pertanyaan": "Urutan langkah kerja mesin 4 tak yang benar adalah...",
+    "opsi": [
+      "Hisap - Usaha - Kompresi - Buang",
+      "Hisap - Kompresi - Usaha - Buang",
+      "Kompresi - Hisap - Usaha - Buang",
+      "Usaha - Hisap - Kompresi - Buang",
+      "Buang - Usaha - Kompresi - Hisap"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Urutan logis pembakaran: Masuk (Hisap), Tekan (Kompresi), Ledak (Usaha), Keluar (Buang)."
+  },
+  {
+    "id": "TE_OT_03",
+    "pertanyaan": "Komponen yang berfungsi sebagai wadah oli mesin dan menutup bagian bawah blok silinder adalah...",
+    "opsi": [
+      "Kepala Silinder",
+      "Poros Engkol",
+      "Bak Oli (Carter / Oil Pan)",
+      "Piston",
+      "Manifold"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Oil pan menampung oli yang akan disirkulasikan oleh pompa oli."
+  },
+  {
+    "id": "TE_OT_04",
+    "pertanyaan": "Bagian mesin yang bergerak bolak-balik di dalam silinder untuk merubah energi panas menjadi energi mekanik adalah...",
+    "opsi": [
+      "Katup (Valve)",
+      "Busi",
+      "Noken As",
+      "Piston (Torak)",
+      "Timing Belt"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Piston meneruskan tekanan hasil pembakaran ke poros engkol."
+  },
+  {
+    "id": "TE_OT_05",
+    "pertanyaan": "Komponen kelistrikan yang berfungsi merubah energi mekanik menjadi energi listrik DC pada kendaraan adalah...",
+    "opsi": [
+      "Baterai (Aki)",
+      "Motor Starter",
+      "Koil",
+      "Klakson",
+      "Alternator (Generator)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Alternator mengisi ulang daya aki saat mesin hidup."
+  },
+  {
+    "id": "TE_OT_06",
+    "pertanyaan": "Sistem yang berfungsi untuk menyuplai bahan bakar ke dalam silinder dengan tekanan tinggi melalui injektor secara elektronik disebut...",
+    "opsi": [
+      "EFI (Electronic Fuel Injection)",
+      "Karburator",
+      "Turbocharger",
+      "Radiator",
+      "Sistem VVTI"
+    ],
+    "jawaban": 0,
+    "pembahasan": "EFI jauh lebih efisien, irit, dan ramah lingkungan dibanding karburator."
+  },
+  {
+    "id": "TE_OT_07",
+    "pertanyaan": "Apa fungsi utama dari 'Kopling' (Clutch) pada mobil?",
+    "opsi": [
+      "Merubah kecepatan mobil",
+      "Memutuskan dan menghubungkan putaran mesin ke transmisi",
+      "Mengerem roda",
+      "Menghidupkan lampu",
+      "Mendinginkan mesin"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kopling digunakan saat akan memindah gigi atau berhenti tanpa mematikan mesin."
+  },
+  {
+    "id": "TE_OT_08",
+    "pertanyaan": "Komponen yang berfungsi meneruskan putaran dari transmisi ke gardan (differential) pada mobil penggerak roda belakang adalah...",
+    "opsi": [
+      "As Roda",
+      "Crankshaft",
+      "Poros Propeller (Kopel)",
+      "Stering Gear",
+      "Shockbreaker"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Poros kopel berbentuk batang panjang yang menyambungkan daya ke roda belakang."
+  },
+  {
+    "id": "TE_OT_09",
+    "pertanyaan": "Gardan (Differential) berfungsi agar kedua roda belakang dapat...",
+    "opsi": [
+      "Berputar dengan kecepatan yang sama persis",
+      "Berhenti bersamaan",
+      "Maju dan mundur",
+      "Berputar dengan kecepatan berbeda saat berbelok",
+      "Bergetar"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Saat berbelok, roda sisi luar menempuh jarak lebih jauh sehingga harus berputar lebih cepat dibanding roda sisi dalam."
+  },
+  {
+    "id": "TE_OT_10",
+    "pertanyaan": "Alat yang digunakan untuk mengukur berat jenis air accu (aki) adalah...",
+    "opsi": [
+      "Multimeter",
+      "Manometer",
+      "Termometer",
+      "Jangka Sorong",
+      "Hidrometer"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Hidrometer menentukan apakah aki masih dalam kondisi penuh (charged) atau lemah."
+  },
+  {
+    "id": "TE_OT_11",
+    "pertanyaan": "Fungsi dari busi (spark plug) pada mesin bensin adalah...",
+    "opsi": [
+      "Memercikkan bunga api listrik untuk membakar campuran udara-bensin",
+      "Menyemprotkan bensin",
+      "Membuka katup",
+      "Menyaring udara",
+      "Mendinginkan blok silinder"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Busi menerima tegangan tinggi dari koil untuk memicu ledakan di ruang bakar."
+  },
+  {
+    "id": "TE_OT_12",
+    "pertanyaan": "Pada mesin diesel, pembakaran terjadi karena...",
+    "opsi": [
+      "Percikan api busi",
+      "Kompresi udara yang sangat tinggi (self ignition)",
+      "Aliran listrik aki",
+      "Gesekan piston",
+      "Panas knalpot"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mesin diesel tidak menggunakan busi; solar menyala spontan saat disemprotkan ke udara yang sangat panas akibat tekanan tinggi."
+  },
+  {
+    "id": "TE_OT_13",
+    "pertanyaan": "Viskositas atau kekentalan oli mesin dilambangkan dengan kode...",
+    "opsi": [
+      "DOT",
+      "ISO",
+      "SAE (Society of Automotive Engineers)",
+      "API",
+      "JASO"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh: SAE 10W-40. Angka menunjukkan tingkat kekentalan di suhu tertentu."
+  },
+  {
+    "id": "TE_OT_14",
+    "pertanyaan": "Jenis rem yang menggunakan piringan logam yang dijepit oleh kampas rem disebut...",
+    "opsi": [
+      "Rem Tromol (Drum Brake)",
+      "Rem Angin",
+      "Rem Parkir",
+      "Rem Cakram (Disc Brake)",
+      "Rem ABS"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Rem cakram lebih cepat melepas panas dibanding rem tromol."
+  },
+  {
+    "id": "TE_OT_15",
+    "pertanyaan": "Sistem kemudi yang menggunakan bantuan tekanan hidrolik atau motor listrik agar setir terasa ringan saat diputar disebut...",
+    "opsi": [
+      "Double Wishbone",
+      "Front Wheel Drive",
+      "Anti-lock System",
+      "Manual Steering",
+      "Power Steering"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Power steering sangat memudahkan pengemudi saat bermanuver di kecepatan rendah."
+  },
+  {
+    "id": "TE_OT_16",
+    "pertanyaan": "Komponen yang berfungsi meredam kejutan dari jalan yang tidak rata agar penumpang merasa nyaman adalah...",
+    "opsi": [
+      "Pegas dan Shock Absorber (Shockbreaker)",
+      "Ban",
+      "Sasis",
+      "Jok",
+      "Radiator"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Suspensi menjaga stabilitas kendaraan dan kenyamanan."
+  },
+  {
+    "id": "TE_OT_17",
+    "pertanyaan": "Kode 185/65 R14 pada ban mobil, angka '14' menunjukkan...",
+    "opsi": [
+      "Lebar ban",
+      "Diameter velg dalam satuan inci",
+      "Tinggi ban",
+      "Kecepatan maksimal",
+      "Tahun pembuatan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "R14 artinya Radial dan masuk ke velg ring 14 inci."
+  },
+  {
+    "id": "TE_OT_18",
+    "pertanyaan": "Alat yang digunakan untuk mengangkat mobil saat akan mengganti ban adalah...",
+    "opsi": [
+      "Kunci Roda",
+      "Tang",
+      "Dongkrak (Jack)",
+      "Kompresor",
+      "Palu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dongkrak hidrolik atau jembatan digunakan untuk mengangkat titik tertentu sasis."
+  },
+  {
+    "id": "TE_OT_19",
+    "pertanyaan": "Sistem pendingin mesin berfungsi menjaga suhu kerja mesin agar tidak terjadi...",
+    "opsi": [
+      "Kedinginan",
+      "Bensin habis",
+      "Bocor oli",
+      "Overheating (Panas Berlebih)",
+      "Karatan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pendingin menggunakan sirkulasi air (radiator) atau udara (sirip-sirip)."
+  },
+  {
+    "id": "TE_OT_20",
+    "pertanyaan": "Komponen radiator yang berfungsi membuang panas dari air pendingin ke udara luar adalah...",
+    "opsi": [
+      "Pompa Air",
+      "Termostat",
+      "Tutup Radiator",
+      "Tangki Cadangan",
+      "Inti Radiator (Core) dan Sirip"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Core radiator memiliki luas permukaan besar agar udara bisa mendinginkan air yang lewat."
+  },
+  {
+    "id": "TE_OT_21",
+    "pertanyaan": "Alat yang digunakan untuk mendiagnosis kerusakan sistem elektronik (sensor) pada kendaraan modern disebut...",
+    "opsi": [
+      "Scanner Otomotif (Diagnostic Tool)",
+      "Obeng Multi",
+      "Multimeter",
+      "Timing Light",
+      "Micrometer"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Scanner membaca data DTC (Diagnostic Trouble Code) dari komputer mobil (ECU)."
+  },
+  {
+    "id": "TE_OT_22",
+    "pertanyaan": "Bagian kelistrikan yang berfungsi sebagai pengaman agar tidak terjadi kebakaran saat ada hubungan singkat (korsleting) adalah...",
+    "opsi": [
+      "Relay",
+      "Sekring (Fuse)",
+      "Flasher",
+      "Kabel",
+      "Saklar"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sekring akan putus jika arus yang lewat melebihi kapasitasnya."
+  },
+  {
+    "id": "TE_OT_23",
+    "pertanyaan": "Lampu tanda belok (reting) dapat berkedip karena adanya komponen...",
+    "opsi": [
+      "Relay",
+      "Baterai",
+      "Flasher",
+      "Bohlam",
+      "Kabel"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Flasher mengandung rangkaian pemutus arus berkala."
+  },
+  {
+    "id": "TE_OT_24",
+    "pertanyaan": "Alat yang digunakan untuk mengencangkan baut roda secara aman dengan torsi yang tepat adalah...",
+    "opsi": [
+      "Kunci Inggris",
+      "Kunci Pas",
+      "Tang Kombinasi",
+      "Kunci Momen (Torque Wrench)",
+      "Obeng Ketok"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kunci momen memastikan baut tidak terlalu longgar dan tidak terlalu kencang (yang bisa patah)."
+  },
+  {
+    "id": "TE_OT_25",
+    "pertanyaan": "Apa itu transmisi CVT yang digunakan pada motor matic atau mobil modern?",
+    "opsi": [
+      "Transmisi dengan banyak gigi manual",
+      "Transmisi dengan rantai besi",
+      "Transmisi tanpa pelumas",
+      "Transmisi yang digerakkan tangan",
+      "Continuously Variable Transmission (Transmisi otomatis tanpa roda gigi bertingkat, menggunakan sabuk dan pulley)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "CVT menawarkan perpindahan rasio yang sangat halus."
+  },
+  {
+    "id": "TE_OT_26",
+    "pertanyaan": "Warna asap knalpot yang berwarna putih pekat pada mesin 4 tak biasanya menandakan adanya...",
+    "opsi": [
+      "Oli mesin ikut terbakar di ruang bakar",
+      "Pembakaran sempurna",
+      "Bensin terlalu irit",
+      "Knalpot bocor",
+      "Mesin terlalu dingin"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Biasanya disebabkan oleh ring piston yang aus atau seal katup yang bocor."
+  },
+  {
+    "id": "TE_OT_27",
+    "pertanyaan": "Asap hitam pada mesin diesel biasanya disebabkan oleh...",
+    "opsi": [
+      "Oli habis",
+      "Campuran solar terlalu kaya (berlebih) atau filter udara kotor",
+      "Busi mati",
+      "Aki soak",
+      "Ban kempes"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Asap hitam adalah butiran karbon akibat pembakaran solar yang tidak sempurna."
+  },
+  {
+    "id": "TE_OT_28",
+    "pertanyaan": "Nama lain dari komponen poros engkol adalah...",
+    "opsi": [
+      "Camshaft",
+      "Drive Shaft",
+      "Crankshaft",
+      "Axle Shaft",
+      "Main Shaft"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Crankshaft merubah gerak naik-turun piston menjadi gerak putar."
+  },
+  {
+    "id": "TE_OT_29",
+    "pertanyaan": "Nama lain dari poros nok yang berfungsi mengatur pembukaan katup (valve) adalah...",
+    "opsi": [
+      "Crankshaft",
+      "Propeller Shaft",
+      "Secondary Shaft",
+      "Camshaft",
+      "Balance Shaft"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Camshaft digerakkan oleh timing belt atau timing chain."
+  },
+  {
+    "id": "TE_OT_30",
+    "pertanyaan": "Cairan yang digunakan untuk mengisi radiator agar tidak mudah mendidih dan mencegah karat disebut...",
+    "opsi": [
+      "Air sumur",
+      "Minyak Goreng",
+      "Bensin",
+      "Alkohol",
+      "Radiator Coolant"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Coolant mengandung ethylene glycol untuk meningkatkan titik didih."
+  },
+  {
+    "id": "TE_OT_31",
+    "pertanyaan": "Komponen yang berfungsi menyaring kotoran dari bahan bakar sebelum masuk ke mesin adalah...",
+    "opsi": [
+      "Filter Bensin (Fuel Filter)",
+      "Saringan Udara",
+      "Filter Oli",
+      "Knalpot",
+      "Tangki"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Fuel filter mencegah injektor atau karburator tersumbat."
+  },
+  {
+    "id": "TE_OT_32",
+    "pertanyaan": "Rem ABS (Anti-lock Braking System) berfungsi untuk...",
+    "opsi": [
+      "Membuat rem sangat pakem",
+      "Mencegah roda terkunci saat pengereman mendadak agar mobil tetap bisa dikendalikan arahnya",
+      "Mengerem secara otomatis tanpa injakan pedal",
+      "Mengerem hanya satu roda",
+      "Membuat ban awet"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sistem ABS memompa rem puluhan kali per detik secara otomatis."
+  },
+  {
+    "id": "TE_OT_33",
+    "pertanyaan": "Apa kegunaan dari 'Turbocharger' pada mesin kendaraan?",
+    "opsi": [
+      "Membuat mesin bersuara halus",
+      "Menghemat ban",
+      "Meningkatkan tenaga mesin dengan memampatkan udara yang masuk ke silinder menggunakan tenaga gas buang",
+      "Mendinginkan kabin",
+      "Menambah kapasitas oli"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Turbo memungkinkan mesin kecil menghasilkan tenaga yang besar."
+  },
+  {
+    "id": "TE_OT_34",
+    "pertanyaan": "Lambang tegangan listrik aki mobil yang benar adalah...",
+    "opsi": [
+      "220V AC",
+      "12V AC",
+      "5V DC",
+      "12V DC",
+      "48V DC"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hampir semua mobil dan motor menggunakan sistem 12 Volt arus searah (DC)."
+  },
+  {
+    "id": "TE_OT_35",
+    "pertanyaan": "Bagian ban yang bersentuhan langsung dengan aspal dan memiliki alur (kembang) disebut...",
+    "opsi": [
+      "Bead",
+      "Sidewall",
+      "Inner Liner",
+      "Carcass",
+      "Tread (Tapak Ban)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tread berfungsi memberikan traksi/daya cengkeram ke jalan."
+  },
+  {
+    "id": "TE_OT_36",
+    "pertanyaan": "Pada mesin 2 tak, pelumasan kruk as dan piston biasanya dibantu oleh...",
+    "opsi": [
+      "Oli Samping yang dicampur bensin",
+      "Oli mesin di bak bawah",
+      "Air radiator",
+      "Minyak rem",
+      "Grease (Gemuk)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mesin 2 tak tidak memiliki sirkulasi oli mesin di kruk as seperti mesin 4 tak."
+  },
+  {
+    "id": "TE_OT_37",
+    "pertanyaan": "Celah busi yang terlalu renggang dapat mengakibatkan...",
+    "opsi": [
+      "Mesin mudah hidup",
+      "Percikan api lemah dan mesin sulit hidup atau brebet",
+      "Bensin sangar irit",
+      "Suara knalpot hilang",
+      "Aki cepat penuh"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Loncatan listrik butuh celah yang tepat agar bunga api stabil."
+  },
+  {
+    "id": "TE_OT_38",
+    "pertanyaan": "Alat ukur tekanan udara ban adalah...",
+    "opsi": [
+      "Barometer",
+      "Hydrometer",
+      "Tyre Pressure Gauge",
+      "Cylinder Gauge",
+      "Mistar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tekanan ban biasanya diukur dalam satuan psi (pounds per square inch)."
+  },
+  {
+    "id": "TE_OT_39",
+    "pertanyaan": "Istilah 'Tune Up' pada kendaraan artinya...",
+    "opsi": [
+      "Mengecat ulang bodi mobil",
+      "Memasang musik yang keras",
+      "Mengganti jok",
+      "Mengembalikan performa mesin ke kondisi standar melalui penyetelan dan pembersihan",
+      "Mencuci mobil"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Meliputi pembersihan filter, busi, dan pengecekan sensor-sensor."
+  },
+  {
+    "id": "TE_OT_40",
+    "pertanyaan": "Kunci yang memiliki bentuk lingkaran tertutup dengan gerigi di dalamnya agar tidak merusak kepala baut disebut...",
+    "opsi": [
+      "Kunci Pas",
+      "Kunci Inggris",
+      "Tang Potong",
+      "Palu Besi",
+      "Kunci Ring"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kunci ring lebih aman untuk membuka baut yang kencang dibanding kunci pas."
+  },
+  {
+    "id": "TE_OT_41",
+    "pertanyaan": "Fungsi dari 'Thermostat' pada sistem pendingin adalah...",
+    "opsi": [
+      "Mengatur sirkulasi air berdasarkan suhu mesin demi mencapai suhu kerja ideal dengan cepat",
+      "Memompa air",
+      "Menampung air kotor",
+      "Mendinginkan oli",
+      "Membersihkan radiator"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Katup termostat akan membuka saat suhu air mencapai sekitar 80 derajat Celcius."
+  },
+  {
+    "id": "TE_OT_42",
+    "pertanyaan": "Kabel tegangan tinggi pada sistem pengapian menghubungkan...",
+    "opsi": [
+      "Aki ke Starter",
+      "Koil ke Busi",
+      "Alternator ke Aki",
+      "Lampu ke Saklar",
+      "Klakson ke Kabel Body"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kabel ini harus memiliki isolasi tebal karena membawa ribuan volt."
+  },
+  {
+    "id": "TE_OT_43",
+    "pertanyaan": "Bau menyengat dan asap keluar dari kap mesin saat mobil jalan menanjak biasanya tanda...",
+    "opsi": [
+      "Bensin penuh",
+      "Ban bocor",
+      "Kampas kopling selip dan terbakar",
+      "Musik terlalu keras",
+      "Air wiper habis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Gesekan berlebih pada plat kopling menimbulkan panas tinggi dan bau khas."
+  },
+  {
+    "id": "TE_OT_44",
+    "pertanyaan": "Sasis kendaran 'Monocoque' (monokok) artinya...",
+    "opsi": [
+      "Sasis berbentuk tangga terpisah dari bodi (seperti truk)",
+      "Sasis yang bisa dilipat",
+      "Sasis dari kayu",
+      "Sasis dan bodi mobil menjadi satu kesatuan (seperti mobil sedan/MPV)",
+      "Mobil tanpa sasis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Monokok lebih ringan dan mampu meredam benturan lebih baik (crumple zone)."
+  },
+  {
+    "id": "TE_OT_45",
+    "pertanyaan": "Alat untuk menyeimbangkan berat roda agar tidak bergetar saat kecepatan tinggi disebut...",
+    "opsi": [
+      "Spooring",
+      "Compressor",
+      "Jack Stand",
+      "Rim Protector",
+      "Balancing Machine"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Balancing dilakukan dengan menambah timah kecil pada velg."
+  },
+  {
+    "id": "TE_OT_46",
+    "pertanyaan": "Setelan sudut kemudi agar roda depan sejajar dan stabil dikendalikan disebut...",
+    "opsi": [
+      "Spooring (Wheel Alignment)",
+      "Balancing",
+      "Press Velg",
+      "Balining",
+      "Cambering"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Spooring mengatur sudut Camber, Caster, dan Toe."
+  },
+  {
+    "id": "TE_OT_47",
+    "pertanyaan": "Komponen yang merubah energi hidrolik dari minyak rem menjadi gerakan mekanik untuk mendorong kampas rem di roda disebut...",
+    "opsi": [
+      "Master Silinder",
+      "Silinder Roda (Wheel Cylinder) / Kaliper",
+      "Brake Booster",
+      "Pedal Rem",
+      "Katup Proporsi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kaliper rem menekan piringan cakram. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Silinder Roda (Wheel Cylinder) / Kaliper\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TE_OT_48",
+    "pertanyaan": "Warna lampu indikator oli menyala merah di dashboard saat mesin hidup berarti...",
+    "opsi": [
+      "Oli penuh",
+      "Waktunya servis rutin",
+      "Tekanan oli rendah atau oli habis, sangat berbahaya bagi mesin",
+      "Oli sedang didinginkan",
+      "Lampu hiasan saja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mesin harus segera dimatikan agar tidak terjadi macet (jammed) karena kurang pelumasan."
+  },
+  {
+    "id": "TE_OT_49",
+    "pertanyaan": "Alat yang berfungsi mengecek kadar CO dan HC pada gas buang kendaraan adalah...",
+    "opsi": [
+      "Scanner",
+      "Multimeter",
+      "Tachometer",
+      "Gas Analyzer",
+      "Sound Level Meter"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Digunakan untuk uji emisi agar kendaraan lulus standar lingkungan."
+  },
+  {
+    "id": "TE_OT_50",
+    "pertanyaan": "Seorang mekanik profesional harus jujur dalam mendiagnosa kerusakan karena berhubungan dengan...",
+    "opsi": [
+      "Keuntungan pribadi semata",
+      "Nama baik sekolah saja",
+      "Harga bursa mobil",
+      "Pajak negara",
+      "Keselamatan nyawa pelanggan dan kepercayaan jangka panjang"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Keahlian teknik harus dibarengi dengan integritas moral."
+  }
+]

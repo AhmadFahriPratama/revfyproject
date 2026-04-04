@@ -1,0 +1,586 @@
+{
+  "id": "fr-tka-2024-smk-pilihan",
+  "tahun": 2024,
+  "tingkat": "SMK",
+  "materiKategori": "pilihan",
+  "mapel": "TKA SMK pilihan",
+  "deskripsi": "Rekonstruksi FR TKA SMK 2024 kategori pilihan.",
+  "soal": [
+    {
+      "id": "fr24-smk-pilihan-bio-01",
+      "mapel": "Biologi",
+      "teks": "Jaringan tumbuhan yang berfungsi sebagai pengangkut air dan mineral dari akar ke daun adalah...",
+      "opsi": {
+        "A": "Floem",
+        "B": "Parenkim",
+        "C": "Kambium",
+        "D": "Xilem",
+        "E": "Epidermis"
+      },
+      "kunci": "D",
+      "pembahasan": "Xilem mengangkut ke atas, Floem mengangkut hasil fotosintesis ke seluruh tubuh.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Biologi",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smk-pilihan-bio-02",
+      "mapel": "Biologi",
+      "teks": "Pencernaan protein secara kimiawi pertama kali terjadi di...",
+      "opsi": {
+        "A": "Mulut",
+        "B": "Kerongkongan",
+        "C": "Usus halus",
+        "D": "Usus besar",
+        "E": "Lambung"
+      },
+      "kunci": "E",
+      "pembahasan": "Enzim pepsin di lambung mulai memecah protein menjadi pepton.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Biologi",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr24-smk-pilihan-bio-03",
+      "mapel": "Biologi",
+      "teks": "Golongan darah yang disebut sebagai 'Resepien Universal' (dapat menerima dari semua) adalah...",
+      "opsi": {
+        "A": "AB",
+        "B": "A",
+        "C": "B",
+        "D": "O",
+        "E": "Semua salah"
+      },
+      "kunci": "A",
+      "pembahasan": "Golongan darah AB tidak memiliki antibodi terhadap A maupun B.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Biologi",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smk-pilihan-fis-01",
+      "mapel": "Fisika",
+      "teks": "Usaha yang dilakukan untuk memindahkan benda sejauh 5 meter dengan gaya 20 N (searah perpindahan) adalah...",
+      "opsi": {
+        "A": "4 J",
+        "B": "25 J",
+        "C": "10 J",
+        "D": "100 J",
+        "E": "0.25 J"
+      },
+      "kunci": "D",
+      "pembahasan": "W = F * s = 20 * 5 = 100 Joule. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"100 J\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Fisika",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr24-smk-pilihan-fis-02",
+      "mapel": "Fisika",
+      "teks": "Energi potensial benda bermassa 1 kg pada ketinggian 10 meter (g = 10 m/s^2) adalah...",
+      "opsi": {
+        "A": "10 J",
+        "B": "1 J",
+        "C": "20 J",
+        "D": "0 J",
+        "E": "100 J"
+      },
+      "kunci": "E",
+      "pembahasan": "EP = m * g * h = 1 * 10 * 10 = 100 Joule.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Fisika",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smk-pilihan-fis-03",
+      "mapel": "Fisika",
+      "teks": "Hukum yang menyatakan bahwa gaya apung yang bekerja pada benda sama dengan berat fluida yang dipindahkan adalah...",
+      "opsi": {
+        "A": "Hukum Archimedes",
+        "B": "Hukum Pascal",
+        "C": "Hukum Newton",
+        "D": "Hukum Bernoulli",
+        "E": "Hukum Ohm"
+      },
+      "kunci": "A",
+      "pembahasan": "Prinsip dasar benda terapung, melayang, dan tenggelam.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Fisika",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr24-smk-pilihan-kim-01",
+      "mapel": "Kimia",
+      "teks": "Larutan yang memiliki pH < 7 bersifat...",
+      "opsi": {
+        "A": "Basa",
+        "B": "Netral",
+        "C": "Garam",
+        "D": "Asam",
+        "E": "Amfoter"
+      },
+      "kunci": "D",
+      "pembahasan": "Asam melepaskan ion H+ dalam air. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Asam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Kimia",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smk-pilihan-kim-02",
+      "mapel": "Kimia",
+      "teks": "Unsur yang terletak pada golongan VIIA (Halogen) adalah...",
+      "opsi": {
+        "A": "Natrium (Na)",
+        "B": "Helium (He)",
+        "C": "Magnesium (Mg)",
+        "D": "Besi (Fe)",
+        "E": "Klorin (Cl)"
+      },
+      "kunci": "E",
+      "pembahasan": "Halogen: F, Cl, Br, I, At. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Klorin (Cl)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Kimia",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr24-smk-pilihan-kim-03",
+      "mapel": "Kimia",
+      "teks": "Proses perkaratan pada besi merupakan contoh reaksi...",
+      "opsi": {
+        "A": "Oksidasi (Oksidasi Logam)",
+        "B": "Substitusi",
+        "C": "Reduksi",
+        "D": "Polimerisasi",
+        "E": "Netralisasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Besi bereaksi dengan oksigen dan air membentuk oksida besi.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Kimia",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr24-smk-pilihan-eko-01",
+      "mapel": "Ekonomi",
+      "teks": "Biaya yang dikorbankan karena memilih satu alternatif terbaik dari beberapa pilihan disebut...",
+      "opsi": {
+        "A": "Biaya Produksi",
+        "B": "Biaya Tetap",
+        "C": "Biaya Variabel",
+        "D": "Biaya Peluang (Opportunity Cost)",
+        "E": "Biaya Hidup"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Biaya Peluang (Opportunity Cost)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Ekonomi",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr24-smk-pilihan-eko-02",
+      "mapel": "Ekonomi",
+      "teks": "Sesuai UUD 1945 pasal 33 ayat 1, bangun usaha yang paling sesuai dengan demokrasi ekonomi adalah...",
+      "opsi": {
+        "A": "PT",
+        "B": "Firma",
+        "C": "BUMN",
+        "D": "BUMS",
+        "E": "Koperasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Koperasi berasas kekeluargaan. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Koperasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Ekonomi",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr24-smk-pilihan-eko-03",
+      "mapel": "Ekonomi",
+      "teks": "Pihak yang bertugas mengatur dan mengawasi sektor jasa keuangan di Indonesia adalah...",
+      "opsi": {
+        "A": "Otoritas Jasa Keuangan (OJK)",
+        "B": "Bank Indonesia",
+        "C": "Kementerian Keuangan",
+        "D": "Lembaga Penjamin Simpanan (LPS)",
+        "E": "DPR"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Otoritas Jasa Keuangan (OJK)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Ekonomi",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smk-pilihan-geo-01",
+      "mapel": "Geografi",
+      "teks": "Gunung api yang berbentuk seperti kerucut dan terbentuk dari letusan yang silih berganti disebut tipe...",
+      "opsi": {
+        "A": "Maar",
+        "B": "Perisai",
+        "C": "Peret",
+        "D": "Strato",
+        "E": "Linear"
+      },
+      "kunci": "D",
+      "pembahasan": "Sebagian besar gunung api di Indonesia bertipe Strato.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Geografi",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr24-smk-pilihan-geo-02",
+      "mapel": "Geografi",
+      "teks": "Lapisan atmosfer tempat terjadinya fenomena cuaca (hujan, petir, awan) adalah...",
+      "opsi": {
+        "A": "Stratosfer",
+        "B": "Mesosfer",
+        "C": "Termosfer",
+        "D": "Eksosfer",
+        "E": "Troposfer"
+      },
+      "kunci": "E",
+      "pembahasan": "Troposfer adalah lapisan paling bawah. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Troposfer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Geografi",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smk-pilihan-geo-03",
+      "mapel": "Geografi",
+      "teks": "Pergerakan lempeng tektonik yang saling menjauh satu sama lain disebut gerak...",
+      "opsi": {
+        "A": "Divergen",
+        "B": "Konvergen",
+        "C": "Transform (Sesar mendatar)",
+        "D": "Subduksi",
+        "E": "Erupsi"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Divergen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Geografi",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr24-smk-pilihan-sej-01",
+      "mapel": "Sejarah",
+      "teks": "Raja Majapahit yang mencapai puncak kejayaan dengan Patih Gajah Mada adalah...",
+      "opsi": {
+        "A": "Raden Wijaya",
+        "B": "Tribhuwana Tunggadewi",
+        "C": "Ken Arok",
+        "D": "Hayam Wuruk",
+        "E": "Kertanegara"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hayam Wuruk\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Sejarah",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smk-pilihan-sej-02",
+      "mapel": "Sejarah",
+      "teks": "Sumpah yang diucapkan Gajah Mada untuk menyatukan Nusantara di bawah Majapahit adalah...",
+      "opsi": {
+        "A": "Sumpah Pemuda",
+        "B": "Janji Setia",
+        "C": "Piagam Jakarta",
+        "D": "Manifesto Politik",
+        "E": "Sumpah Palapa"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sumpah Palapa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Sejarah",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr24-smk-pilihan-sej-03",
+      "mapel": "Sejarah",
+      "teks": "Kerajaan Islam pertama di Indonesia adalah...",
+      "opsi": {
+        "A": "Samudera Pasai",
+        "B": "Demak",
+        "C": "Banten",
+        "D": "Gowa-Tallo",
+        "E": "Ternate"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Samudera Pasai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Sejarah",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smk-pilihan-sos-01",
+      "mapel": "Sosiologi",
+      "teks": "Norma yang sanksinya berupa perasaan bersalah atau cemoohan masyarakat karena berkaitan dengan kepantasan disebut...",
+      "opsi": {
+        "A": "Norma Hukum",
+        "B": "Norma Agama",
+        "C": "Norma Adat",
+        "D": "Norma Kesopanan / Kesusilaan",
+        "E": "Norma Kelompok"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Norma Kesopanan / Kesusilaan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Sosiologi",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr24-smk-pilihan-sos-02",
+      "mapel": "Sosiologi",
+      "teks": "Proses belajar seorang individu untuk mengenal dan menyesuaikan diri dengan nilai dan norma di lingkungannya disebut...",
+      "opsi": {
+        "A": "Modernisasi",
+        "B": "Westernisasi",
+        "C": "Urbanisasi",
+        "D": "Asimilasi",
+        "E": "Sosialisasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Sosialisasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Sosiologi",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smk-pilihan-sos-03",
+      "mapel": "Sosiologi",
+      "teks": "Bapak Sosiologi Dunia adalah...",
+      "opsi": {
+        "A": "Auguste Comte",
+        "B": "Karl Marx",
+        "C": "Max Weber",
+        "D": "Emile Durkheim",
+        "E": "Pitirim Sorokin"
+      },
+      "kunci": "A",
+      "pembahasan": "Comte memperkenalkan istilah Sosiologi dalam bukunya 'Cours de Philosophie Positive'.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Sosiologi",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr24-smk-pilihan-akd-01",
+      "mapel": "Akuntansi Dasar",
+      "teks": "Bukti transaksi internal yang dibuat pimpinan kepada bagian akuntansi untuk melakukan pencatatan disebut...",
+      "opsi": {
+        "A": "Kuitansi",
+        "B": "Faktur",
+        "C": "Nota Kontan",
+        "D": "Memo",
+        "E": "Cek"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Memo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Akuntansi Dasar",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smk-pilihan-akd-02",
+      "mapel": "Akuntansi Dasar",
+      "teks": "Setoran modal berupa uang tunai dari pemilik ke perusahaan akan mengakibatkan...",
+      "opsi": {
+        "A": "Kas (+) dan Hutang (+)",
+        "B": "Peralatan (+) dan Modal (+)",
+        "C": "Kas (-) dan Modal (-)",
+        "D": "Pendapatan (+) dan Kas (+)",
+        "E": "Kas (+) dan Modal (+)"
+      },
+      "kunci": "E",
+      "pembahasan": "Analisis PDA: Aset (Kas) bertambah, Ekuitas (Modal) bertambah.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Akuntansi Dasar",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr24-smk-pilihan-akd-03",
+      "mapel": "Akuntansi Dasar",
+      "teks": "Akun 'Tanah' dan 'Bangunan' termasuk dalam kategori...",
+      "opsi": {
+        "A": "Aset Tetap",
+        "B": "Aset Lancar",
+        "C": "Hutang Jangka Panjang",
+        "D": "Pendapatan",
+        "E": "Beban"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Aset Tetap\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Akuntansi Dasar",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr24-smk-pilihan-mp-01",
+      "mapel": "Manajemen Perkantoran",
+      "teks": "Sistem kearsipan yang menyusun dokumen berdasarkan nama orang atau badan disebut sistem...",
+      "opsi": {
+        "A": "Subjek",
+        "B": "Tanggal (Chronological)",
+        "C": "Wilayah (Geografis)",
+        "D": "Abjad (Alphabetical System)",
+        "E": "Nomor"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Abjad (Alphabetical System)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Manajemen Perkantoran",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr24-smk-pilihan-mp-02",
+      "mapel": "Manajemen Perkantoran",
+      "teks": "Prinsip pelayanan prima yang menekankan pada tindakan nyata membantu pelanggan adalah...",
+      "opsi": {
+        "A": "Attitude (Sikap)",
+        "B": "Attention (Perhatian)",
+        "C": "Accountability",
+        "D": "Appearance",
+        "E": "Action (Tindakan)"
+      },
+      "kunci": "E",
+      "pembahasan": "Action mencakup pencatatan pesanan dan solusi cepat.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Manajemen Perkantoran",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr24-smk-pilihan-mp-03",
+      "mapel": "Manajemen Perkantoran",
+      "teks": "Alat komunikasi internal di kantor yang menghubungkan antar ruangan disebut...",
+      "opsi": {
+        "A": "Intercom / PABX",
+        "B": "Smartphone",
+        "C": "Handy Talky",
+        "D": "Email",
+        "E": "Memo"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Intercom / PABX\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Manajemen Perkantoran",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smk-pilihan-log-01",
+      "mapel": "Logistik",
+      "teks": "Metode pengeluaran barang berdasarkan tanggal kedaluwarsa terdekat disebut...",
+      "opsi": {
+        "A": "FIFO",
+        "B": "LIFO",
+        "C": "JIT",
+        "D": "FEFO (First Expired First Out)",
+        "E": "Slow Moving"
+      },
+      "kunci": "D",
+      "pembahasan": "Sangat penting untuk industri farmasi dan makanan.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Logistik",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr24-smk-pilihan-log-02",
+      "mapel": "Logistik",
+      "teks": "Alat bantu pemindahan barang di gudang yang menggunakan garpu besi untuk mengangkat pallet disebut...",
+      "opsi": {
+        "A": "Conveyor",
+        "B": "Truck",
+        "C": "Drone",
+        "D": "Crane",
+        "E": "Forklift"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Forklift\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Logistik",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smk-pilihan-log-03",
+      "mapel": "Logistik",
+      "teks": "Tempat penyimpanan barang sementara sebelum dikirim ke pelanggan disebut...",
+      "opsi": {
+        "A": "Gudang (Warehouse)",
+        "B": "Toko",
+        "C": "Kantor",
+        "D": "Pasar",
+        "E": "Bengkel"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Gudang (Warehouse)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Logistik",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr24-smk-pilihan-kul-01",
+      "mapel": "Kuliner",
+      "teks": "Urutan hidangan lengkap (Full Course Meal) yang benar adalah...",
+      "opsi": {
+        "A": "Dessert - Main Course - Appetizer",
+        "B": "Main Course - Soup - Appetizer",
+        "C": "Drink - Dessert - Main Course",
+        "D": "Appetizer - Soup - Main Course - Dessert",
+        "E": "Langsung nasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Appetizer - Soup - Main Course - Dessert\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Kuliner",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smk-pilihan-kul-02",
+      "mapel": "Kuliner",
+      "teks": "Penyebab utama kontaminasi silang (Cross-contamination) di dapur adalah...",
+      "opsi": {
+        "A": "Mencuci piring pakai sabun",
+        "B": "Memasak nasi terlalu lama",
+        "C": "Menggunakan spatula besi",
+        "D": "Kulkas kekecilan",
+        "E": "Menggunakan talenan yang sama untuk daging mentah dan sayuran tanpa dicuci"
+      },
+      "kunci": "E",
+      "pembahasan": "Bakteri dari daging mentah bisa berpindah ke sayuran yang tidak dimasak lagi.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Kuliner",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr24-smk-pilihan-kul-03",
+      "mapel": "Kuliner",
+      "teks": "Istilah 'Mise en Place' dalam dunia kuliner berarti...",
+      "opsi": {
+        "A": "Mempersiapkan segala bahan dan alat sebelum proses memasak dimulai",
+        "B": "Mencuci piring",
+        "C": "Makan bersama staff",
+        "D": "Menyimpan makanan",
+        "E": "Membayar tagihan"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mempersiapkan segala bahan dan alat sebelum proses memasak dimulai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Kuliner",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smk-pilihan-hot-01",
+      "mapel": "Perhotelan",
+      "teks": "Alat untuk menata meja makan lengkap dengan sendok, garpu, dan gelas disebut...",
+      "opsi": {
+        "A": "Table Cloth",
+        "B": "Buffet",
+        "C": "Menu Card",
+        "D": "Table Setting",
+        "E": "Tray"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Table Setting\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Perhotelan",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr24-smk-pilihan-hot-02",
+      "mapel": "Perhotelan",
+      "teks": "Kamar yang dipesan oleh tamu tetapi tamu tersebut tidak datang tanpa pemberitahuan disebut...",
+      "opsi": {
+        "A": "Walk-in Guest",
+        "B": "Check-out",
+        "C": "Daily Use",
+        "D": "Stay over",
+        "E": "No Show"
+      },
+      "kunci": "E",
+      "pembahasan": "No show biasanya dikenakan biaya pembatalan.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Perhotelan",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smk-pilihan-hot-03",
+      "mapel": "Perhotelan",
+      "teks": "Apa tugas utama dari bagian 'Laundry' di hotel?",
+      "opsi": {
+        "A": "Mencuci dan menyetrika linen hotel serta pakaian tamu",
+        "B": "Memasak",
+        "C": "Melayani check-in",
+        "D": "Menjaga keamanan",
+        "E": "Membersihkan kolam renang"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mencuci dan menyetrika linen hotel serta pakaian tamu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2024 - Perhotelan",
+      "hari_ujian": 5
+    }
+  ]
+}

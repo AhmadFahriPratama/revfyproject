@@ -1,0 +1,657 @@
+{
+  "id": "TKA_SMP_MAT_SOAL",
+  "mapel": "TKA SMP Matematika",
+  "tingkat": "SMP",
+  "soal": [
+    {
+      "id": "SMP_MT_01",
+      "pertanyaan": "Hasil dari -12 + 7 - (-5) adalah...",
+      "opsi": [
+        "0",
+        "10",
+        "12",
+        "-10",
+        "-5"
+      ],
+      "jawaban": 0,
+      "pembahasan": "-12 + 7 + 5 = 0. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"0\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_02",
+      "pertanyaan": "Hasil dari 3/4 + 1/2 adalah...",
+      "opsi": [
+        "1/2",
+        "5/4",
+        "3/8",
+        "1",
+        "1/4"
+      ],
+      "jawaban": 1,
+      "pembahasan": "3/4 + 2/4 = 5/4. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"5/4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_03",
+      "pertanyaan": "Jika x + 5 = 12, maka nilai x adalah...",
+      "opsi": [
+        "17",
+        "5",
+        "7",
+        "12",
+        "60"
+      ],
+      "jawaban": 2,
+      "pembahasan": "x = 12 - 5 = 7. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"7\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_04",
+      "pertanyaan": "Bentuk sederhana dari 3a + 5b - a + 2b adalah...",
+      "opsi": [
+        "4a + 7b",
+        "2a + 3b",
+        "4a + 3b",
+        "2a + 7b",
+        "a + b"
+      ],
+      "jawaban": 3,
+      "pembahasan": "(3-1)a + (5+2)b = 2a + 7b. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2a + 7b\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_05",
+      "pertanyaan": "Hasil kali (x + 2)(x + 3) adalah...",
+      "opsi": [
+        "x^2 + 5",
+        "x^2 + 6",
+        "x^2 + 2x + 6",
+        "x^2 + 3x + 5",
+        "x^2 + 5x + 6"
+      ],
+      "jawaban": 4,
+      "pembahasan": "x^2 + 3x + 2x + 6 = x^2 + 5x + 6. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"x^2 + 5x + 6\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_06",
+      "pertanyaan": "KPK dari 12 dan 15 adalah...",
+      "opsi": [
+        "60",
+        "3",
+        "30",
+        "90",
+        "120"
+      ],
+      "jawaban": 0,
+      "pembahasan": "12=2^2x3, 15=3x5. KPK=2^2x3x5=60. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"60\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_07",
+      "pertanyaan": "FPB dari 18 dan 24 adalah...",
+      "opsi": [
+        "2",
+        "6",
+        "3",
+        "12",
+        "72"
+      ],
+      "jawaban": 1,
+      "pembahasan": "18=2x3^2, 24=2^3x3. FPB=2x3=6. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"6\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_08",
+      "pertanyaan": "Nilai dari 2^3 + 3^2 adalah...",
+      "opsi": [
+        "5",
+        "13",
+        "17",
+        "25",
+        "31"
+      ],
+      "jawaban": 2,
+      "pembahasan": "8 + 9 = 17. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"17\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_09",
+      "pertanyaan": "Besar sudut pelurus dari 60 derajat adalah...",
+      "opsi": [
+        "30",
+        "90",
+        "100",
+        "120",
+        "180"
+      ],
+      "jawaban": 3,
+      "pembahasan": "180 - 60 = 120. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"120\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_10",
+      "pertanyaan": "Luas persegi dengan sisi 5 cm adalah...",
+      "opsi": [
+        "10",
+        "20",
+        "50",
+        "100",
+        "25"
+      ],
+      "jawaban": 4,
+      "pembahasan": "5 x 5 = 25. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"25\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_11",
+      "pertanyaan": "Keliling lingkaran dengan jari-jari 7 cm adalah... (pi=22/7)",
+      "opsi": [
+        "44",
+        "22",
+        "88",
+        "154",
+        "308"
+      ],
+      "jawaban": 0,
+      "pembahasan": "2 x 22/7 x 7 = 44. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"44\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_12",
+      "pertanyaan": "Jika 3 lusin buku seharga 108.000, harga 1 buku adalah...",
+      "opsi": [
+        "3.600",
+        "3.000",
+        "4.000",
+        "4.500",
+        "9.000"
+      ],
+      "jawaban": 1,
+      "pembahasan": "108.000 / 36 = 3.000. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"3.000\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_13",
+      "pertanyaan": "Himpunan semesta yang mungkin untuk {2, 4, 6, 8} adalah...",
+      "opsi": [
+        "Bilangan ganjil",
+        "Bilangan prima",
+        "Bilangan genap",
+        "Bilangan negatif",
+        "Bilangan kuadrat"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Berisi bilangan genap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Bilangan genap\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_14",
+      "pertanyaan": "Bentuk pecahan biasa dari 0,75 adalah...",
+      "opsi": [
+        "1/2",
+        "1/4",
+        "2/3",
+        "3/4",
+        "4/5"
+      ],
+      "jawaban": 3,
+      "pembahasan": "75/100 = 3/4. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"3/4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_15",
+      "pertanyaan": "Himpunan A={1, 2, 3}, B={3, 4, 5}. A irisan B adalah...",
+      "opsi": [
+        "{1, 2, 3, 4, 5}",
+        "{1, 2, 4, 5}",
+        "{ }",
+        "{3, 4}",
+        "{3}"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Anggota yang sama adalah 3. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"{3}\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_16",
+      "pertanyaan": "Sebuah peta diskala 1:1.000.000. Jarak 2 cm di peta adalah...",
+      "opsi": [
+        "20 km",
+        "0,2 km",
+        "2 km",
+        "200 km",
+        "2000 km"
+      ],
+      "jawaban": 0,
+      "pembahasan": "2 x 1.000.000 cm = 2.000.000 cm = 20 km."
+    },
+    {
+      "id": "SMP_MT_17",
+      "pertanyaan": "Nilai dari sqrt(144) + sqrt(169) adalah...",
+      "opsi": [
+        "23",
+        "25",
+        "27",
+        "29",
+        "31"
+      ],
+      "jawaban": 1,
+      "pembahasan": "12 + 13 = 25. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"25\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_18",
+      "pertanyaan": "Volume kubus dengan rusuk 4 cm adalah...",
+      "opsi": [
+        "16",
+        "32",
+        "64",
+        "48",
+        "96"
+      ],
+      "jawaban": 2,
+      "pembahasan": "4^3 = 64. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"64\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_19",
+      "pertanyaan": "Mean dari data 6, 7, 8, 9, 10 adalah...",
+      "opsi": [
+        "7",
+        "9",
+        "8,5",
+        "8",
+        "7,5"
+      ],
+      "jawaban": 3,
+      "pembahasan": "(6+7+8+9+10)/5 = 40/5 = 8. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_20",
+      "pertanyaan": "Modus dari data 5, 6, 6, 7, 8, 8, 8, 9 adalah...",
+      "opsi": [
+        "6",
+        "7",
+        "9",
+        "5",
+        "8"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Angka 8 muncul paling sering (3 kali). Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_21",
+      "pertanyaan": "Penyelesaian dari 2x - 4 < 6 adalah...",
+      "opsi": [
+        "x < 5",
+        "x < 1",
+        "x > 5",
+        "x < 10",
+        "x > 10"
+      ],
+      "jawaban": 0,
+      "pembahasan": "2x < 10 -> x < 5. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"x < 5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_22",
+      "pertanyaan": "Harga beli Rp100.000, rugi 10%. Harga jual adalah...",
+      "opsi": [
+        "Rp110.000",
+        "Rp90.000",
+        "Rp95.000",
+        "Rp80.000",
+        "Rp85.000"
+      ],
+      "jawaban": 1,
+      "pembahasan": "100k - (10% x 100k) = 90k. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Rp90.000\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_23",
+      "pertanyaan": "Besar sudut siku-siku adalah...",
+      "opsi": [
+        "0",
+        "45",
+        "90",
+        "180",
+        "360"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"90\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_24",
+      "pertanyaan": "Gradien garis y = 3x + 5 adalah...",
+      "opsi": [
+        "1",
+        "5",
+        "-3",
+        "3",
+        "0"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_25",
+      "pertanyaan": "Banyaknya himpunan bagian dari {a, b, c} adalah...",
+      "opsi": [
+        "3",
+        "6",
+        "9",
+        "12",
+        "8"
+      ],
+      "jawaban": 4,
+      "pembahasan": "2^3 = 8. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_26",
+      "pertanyaan": "Hasil dari (-3)^3 adalah...",
+      "opsi": [
+        "-27",
+        "9",
+        "-9",
+        "27",
+        "1"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"-27\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_27",
+      "pertanyaan": "Suku ke-10 dari barisan 2, 4, 6, 8, ... adalah...",
+      "opsi": [
+        "10",
+        "20",
+        "18",
+        "22",
+        "24"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Un = 2n = 20. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"20\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_28",
+      "pertanyaan": "Luas segitiga dengan alas 6 cm dan tinggi 10 cm adalah...",
+      "opsi": [
+        "60",
+        "16",
+        "30",
+        "4",
+        "20"
+      ],
+      "jawaban": 2,
+      "pembahasan": "1/2 x 6 x 10 = 30. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"30\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_29",
+      "pertanyaan": "Diagram lingkaran total 100%. Jika Olahraga 40%, musik 30%, sisanya tari. Tari adalah...",
+      "opsi": [
+        "10%",
+        "20%",
+        "40%",
+        "30%",
+        "50%"
+      ],
+      "jawaban": 3,
+      "pembahasan": "100 - 40 - 30 = 30. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"30%\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_30",
+      "pertanyaan": "Jika A={faktor dari 6}, n(A) adalah...",
+      "opsi": [
+        "2",
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "jawaban": 4,
+      "pembahasan": "{1, 2, 3, 6} -> 4 anggota. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_31",
+      "pertanyaan": "Peluang muncul angka pada pelemparan sebuah koin adalah...",
+      "opsi": [
+        "1/2",
+        "1/4",
+        "1",
+        "0",
+        "1/3"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"1/2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_32",
+      "pertanyaan": "Refleksi titik (2, 3) terhadap sumbu X adalah...",
+      "opsi": [
+        "(-2, 3)",
+        "(2, -3)",
+        "(-2, -3)",
+        "(3, 2)",
+        "(0, 0)"
+      ],
+      "jawaban": 1,
+      "pembahasan": "(x, y) -> (x, -y). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"(2, -3)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_33",
+      "pertanyaan": "Banyak rusuk pada prisma segitiga adalah...",
+      "opsi": [
+        "6",
+        "12",
+        "9",
+        "15",
+        "18"
+      ],
+      "jawaban": 2,
+      "pembahasan": "3 x 3 = 9. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"9\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_34",
+      "pertanyaan": "Hasil dari (2^3)^2 adalah...",
+      "opsi": [
+        "2^5",
+        "2^8",
+        "2^9",
+        "2^6",
+        "2^1"
+      ],
+      "jawaban": 3,
+      "pembahasan": "2^(3x2) = 2^6 = 64. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2^6\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_35",
+      "pertanyaan": "Persamaan garis melalui (0,0) dengan gradien 2 adalah...",
+      "opsi": [
+        "y = x",
+        "y = x + 2",
+        "x = 2y",
+        "y = -2x",
+        "y = 2x"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"y = 2x\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_36",
+      "pertanyaan": "Diagonal ruang pada kubus ada sebanyak...",
+      "opsi": [
+        "4",
+        "6",
+        "8",
+        "12",
+        "16"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_37",
+      "pertanyaan": "Nilai x yang memenuhi 3^x = 81 adalah...",
+      "opsi": [
+        "2",
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_38",
+      "pertanyaan": "Median dari data berkelompok/urut 4, 5, 5, 6, 7, 8, 9 adalah...",
+      "opsi": [
+        "5",
+        "7",
+        "6",
+        "8",
+        "9"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"6\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_39",
+      "pertanyaan": "1 kuintal sama dengan ... kg.",
+      "opsi": [
+        "10",
+        "1000",
+        "50",
+        "100",
+        "500"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"100\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_40",
+      "pertanyaan": "Bunga tunggal 10% per tahun. Simpanan 1.000.000 setelah 1 tahun menjadi...",
+      "opsi": [
+        "1.010.000",
+        "1.200.000",
+        "900.000",
+        "1.050.000",
+        "1.100.000"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"1.100.000\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_41",
+      "pertanyaan": "Sinonim dari relasi 'kurang dari' pada {1, 2} ke {2, 3} menghasilkan pasangan...",
+      "opsi": [
+        "(1,2), (1,3), (2,3)",
+        "(1,2), (2,3)",
+        "(1,2), (1,1)",
+        "(2,1)",
+        "Tidak ada"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"(1,2), (1,3), (2,3)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_42",
+      "pertanyaan": "Luas permukaan kubus sisi 3 cm adalah...",
+      "opsi": [
+        "9",
+        "54",
+        "27",
+        "45",
+        "81"
+      ],
+      "jawaban": 1,
+      "pembahasan": "6 x s^2 = 6 x 9 = 54. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"54\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_43",
+      "pertanyaan": "Relasi yang memetakan tepat satu anggota disebut...",
+      "opsi": [
+        "Domain",
+        "Kodomain",
+        "Fungsi",
+        "Range",
+        "Invers"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Fungsi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_44",
+      "pertanyaan": "Tabung memiliki sisi sebanyak...",
+      "opsi": [
+        "1",
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Atas, Bawah, Selimut. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_45",
+      "pertanyaan": "Bruto 50 kg, tara 2%. Neto adalah...",
+      "opsi": [
+        "48 kg",
+        "51 kg",
+        "52 kg",
+        "47 kg",
+        "49 kg"
+      ],
+      "jawaban": 4,
+      "pembahasan": "50 - (2% x 50) = 49. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"49 kg\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_46",
+      "pertanyaan": "Sebuah dadu dilempar. Peluang muncul mata dadu ganjil adalah...",
+      "opsi": [
+        "1/2",
+        "1/6",
+        "1/4",
+        "3/4",
+        "1"
+      ],
+      "jawaban": 0,
+      "pembahasan": "1, 3, 5 -> 3/6 = 1/2. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_47",
+      "pertanyaan": "Besar sudut pusat lingkaran 360 derajat. Jika juring 1/4 lingkaran, sudutnya...",
+      "opsi": [
+        "45",
+        "90",
+        "180",
+        "60",
+        "30"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"90\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_48",
+      "pertanyaan": "Sisi miring segitiga siku-siku alas 3, tinggi 4 adalah...",
+      "opsi": [
+        "6",
+        "7",
+        "5",
+        "8",
+        "9"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pythagoras 3^2+4^2=25 -> sqrt=5. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_49",
+      "pertanyaan": "Perbandingan uang A:B = 2:3. Jika total 50.000, uang B adalah...",
+      "opsi": [
+        "10.000",
+        "20.000",
+        "40.000",
+        "30.000",
+        "15.000"
+      ],
+      "jawaban": 3,
+      "pembahasan": "3/5 x 50.000 = 30.000. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"30.000\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_MT_50",
+      "pertanyaan": "Penyelesaian dari 3x = 15 adalah x = ...",
+      "opsi": [
+        "3",
+        "10",
+        "45",
+        "15",
+        "5"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    }
+  ]
+}

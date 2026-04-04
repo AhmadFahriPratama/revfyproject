@@ -1,0 +1,652 @@
+[
+  {
+    "id": "PA_KU_01",
+    "pertanyaan": "Struktur organisasi dapur yang teratur dan disiplin sering disebut dengan istilah...",
+    "opsi": [
+      "Kitchen Brigade",
+      "Chef Group",
+      "Cooking Class",
+      "Food Team",
+      "Staff Union"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sistem ini diperkenalkan oleh Auguste Escoffier untuk efisiensi kerja dapur hotel bintang lima."
+  },
+  {
+    "id": "PA_KU_02",
+    "pertanyaan": "Pemimpin tertinggi di dapur yang bertanggung jawab atas menu, pemesanan bahan, dan kualitas masakan disebut...",
+    "opsi": [
+      "Sous Chef",
+      "Executive Chef (Kepala Dapur)",
+      "Chef de Partie",
+      "Commis",
+      "Steward"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Executive chef lebih banyak mengelola manajemen dapur dibanding memasak langsung."
+  },
+  {
+    "id": "PA_KU_03",
+    "pertanyaan": "Asisten langsung Executive Chef yang bertugas mengawasi operasional harian di dapur disebut...",
+    "opsi": [
+      "Pastry Chef",
+      "Butcher",
+      "Sous Chef",
+      "Garde Manger",
+      "Saucier"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sous Chef adalah 'tangan kanan' kepala dapur."
+  },
+  {
+    "id": "PA_KU_04",
+    "pertanyaan": "Petugas dapur yang bertanggung jawab mencuci peralatan masak dan menjaga kebersihan area dapur disebut...",
+    "opsi": [
+      "Waiter",
+      "Cook Helper",
+      "Apprentice",
+      "Steward",
+      "Butler"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Steward sangat penting untuk kelancaran sirkulasi alat masak bersih."
+  },
+  {
+    "id": "PA_KU_05",
+    "pertanyaan": "Baju putih tebal bertingkat dengan kancing ganda yang dipakai Chef bertujuan untuk...",
+    "opsi": [
+      "Gaya-gayaan",
+      "Supaya tidak lapar",
+      "Menambah berat badan",
+      "Sebagai pengganti handuk",
+      "Melindungi tubuh dari panas kompor dan percikan minyak panas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Warna putih mencerminkan kebersihan, dan bahan tebal adalah perlindungan K3."
+  },
+  {
+    "id": "PA_KU_06",
+    "pertanyaan": "Topi panjang yang dipakai Chef sebagai identitas keahlian dan mencegah rambut jatuh ke makanan disebut...",
+    "opsi": [
+      "Toque (Toque Blanche)",
+      "Apron",
+      "Necktie",
+      "Cap",
+      "Masker"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tinggi topi Toque terkadang menunjukkan senioritas seorang Chef."
+  },
+  {
+    "id": "PA_KU_07",
+    "pertanyaan": "Kain pelindung yang dipakai di depan badan (biasanya diikat di pinggang) untuk melindungi seragam dari kotoran saat memasak disebut...",
+    "opsi": [
+      "Sampur",
+      "Apron (Celemek)",
+      "Dasi",
+      "Sarung",
+      "Selimut"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Apron harus diganti jika sudah terlalu kotor agar tetap higienis."
+  },
+  {
+    "id": "PA_KU_08",
+    "pertanyaan": "Istilah 'Mise en Place' dalam dunia kuliner artinya...",
+    "opsi": [
+      "Mencuci piring",
+      "Makan bersama",
+      "Mempersiapkan segala bahan dan peralatan sebelum memulai proses memasak (Semua di tempatnya)",
+      "Membuang sampah",
+      "Membayar tagihan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mise en place yang buruk akan membuat proses memasak menjadi kacau/lambat."
+  },
+  {
+    "id": "PA_KU_09",
+    "pertanyaan": "Bahaya pertumbuhan bakteri pada makanan sangat tinggi jika berada di rentang suhu 'Danger Zone', yaitu...",
+    "opsi": [
+      "di bawah 0 derajat Celcius",
+      "di atas 100 derajat Celcius",
+      "di bawah air",
+      "5 - 60 derajat Celcius",
+      "di ruang hampa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Suhu hangat adalah kondisi ideal bagi kuman untuk berkembang biak dengan cepat."
+  },
+  {
+    "id": "PA_KU_10",
+    "pertanyaan": "Perpindahan kuman/bakteri dari bahan makanan mentah ke bahan matang (misal melalui talenan yang sama) disebut...",
+    "opsi": [
+      "Penyelarasan",
+      "Destilasi",
+      "Fermentasi",
+      "Vaksinasi",
+      "Kontaminasi Silang (Cross Contamination)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Penting untuk membedakan penggunaan talenan untuk daging mentah dan sayuran."
+  },
+  {
+    "id": "PA_KU_11",
+    "pertanyaan": "Talenan berwarna Merah di dapur standar profesional digunakan khusus untuk memotong...",
+    "opsi": [
+      "Daging Mentah (Sapi/Kambing)",
+      "Sayuran",
+      "Buah-buahan",
+      "Ikan",
+      "Roti"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kode warna talenan mencegah kontaminasi silang bakteri."
+  },
+  {
+    "id": "PA_KU_12",
+    "pertanyaan": "Talenan berwarna Hijau di dapur standar profesional digunakan khusus untuk memotong...",
+    "opsi": [
+      "Unggas mentah",
+      "Sayuran dan Buah",
+      "Keju",
+      "Daging babi",
+      "Ikan goreng"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Hijau identik dengan kesegaran produk nabati."
+  },
+  {
+    "id": "PA_KU_13",
+    "pertanyaan": "Talenan berwarna Biru di dapur standar profesional digunakan khusus untuk memotong...",
+    "opsi": [
+      "Roti",
+      "Daging",
+      "Produk Laut (Seafood/Ikan) mentah",
+      "Bawang",
+      "Telur"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Biru identik dengan laut/seafood. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Produk Laut (Seafood/Ikan) mentah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PA_KU_14",
+    "pertanyaan": "Pisau yang paling sering digunakan Chef untuk aktivitas memotong, mencincang, dan mengiris secara umum disebut...",
+    "opsi": [
+      "Paring Knife",
+      "Bread Knife",
+      "Cleaver",
+      "Chef Knife (French Knife)",
+      "Fillet Knife"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Chef knife adalah pisau serbaguna yang wajib dimiliki setiap koki."
+  },
+  {
+    "id": "PA_KU_15",
+    "pertanyaan": "Pisau bergigi (gerigi) yang digunakan khusus untuk memotong roti agar tidak hancur disebut...",
+    "opsi": [
+      "Boning Knife",
+      "Cleaver",
+      "Carving Knife",
+      "Utility Knife",
+      "Serrated Knife / Bread Knife"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gerigi mempermudah memotong kerak roti yang keras tanpa menekan isinya."
+  },
+  {
+    "id": "PA_KU_16",
+    "pertanyaan": "Pisau besar dan berat yang digunakan untuk memotong tulang atau daging tebal disebut...",
+    "opsi": [
+      "Cleaver (Golok dapur)",
+      "Parer",
+      "Steak Knife",
+      "Folding Knife",
+      "Slicer"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Cleaver memiliki berat yang membantu daya potong benda keras."
+  },
+  {
+    "id": "PA_KU_17",
+    "pertanyaan": "Teknik memotong sayuran berbentuk batang korek api (ukuran 3cm x 1mm x 1mm) disebut...",
+    "opsi": [
+      "Brunoise",
+      "Julienne",
+      "Macedoine",
+      "Chopped",
+      "Shredded"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Potongan julienne sering digunakan untuk isi lumpia atau salad."
+  },
+  {
+    "id": "PA_KU_18",
+    "pertanyaan": "Teknik memotong sayuran berbentuk dadu sangat kecil (ukuran 1mm x 1mm x 1mm) disebut...",
+    "opsi": [
+      "Julienne",
+      "Jardiniere",
+      "Brunoise",
+      "Dice",
+      "Cube"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Brunoise adalah hasil potongan lebih lanjut dari julienne yang dicacah dadu."
+  },
+  {
+    "id": "PA_KU_19",
+    "pertanyaan": "Metode memasak makanan di dalam air mendidih (suhu 100 derajat Celcius) disebut...",
+    "opsi": [
+      "Steaming (Mengukus)",
+      "Frying",
+      "Baking",
+      "Boiling (Merebus)",
+      "Grilling"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Boiling merendam seluruh bahan di dalam air panas."
+  },
+  {
+    "id": "PA_KU_20",
+    "pertanyaan": "Metode memasak makanan menggunakan uap air panas (makanan tidak menyentuh air) disebut...",
+    "opsi": [
+      "Boiling",
+      "Poaching",
+      "Simmering",
+      "Braising",
+      "Steaming (Mengukus)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Steaming menjaga nutrisi dan warna asli makanan lebih baik daripada boiling."
+  },
+  {
+    "id": "PA_KU_21",
+    "pertanyaan": "Metode memasak dengan sedikit minyak panas di atas wajan datar sambil diaduk cepat (seperti masakan China) disebut...",
+    "opsi": [
+      "Stir Frying (Menumis)",
+      "Deep Frying",
+      "Roasting",
+      "Stewing",
+      "Braising"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Stir frying menjaga tekstur sayuran tetap renyah."
+  },
+  {
+    "id": "PA_KU_22",
+    "pertanyaan": "Metode menggoreng dengan minyak yang sangat banyak sehingga seluruh bahan makanan terendam disebut...",
+    "opsi": [
+      "Sauting",
+      "Deep Frying",
+      "Pan Frying",
+      "Shallow Frying",
+      "Griddling"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh: Menggoreng ayam (fried chicken) atau kentang goreng (french fries)."
+  },
+  {
+    "id": "PA_KU_23",
+    "pertanyaan": "Metode memasak menggunakan panas kering di dalam oven (biasanya untuk roti dan kue) disebut...",
+    "opsi": [
+      "Roasting",
+      "Grilling",
+      "Baking (Memanggang)",
+      "Smoking",
+      "Toasting"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Baking biasanya dilakukan tanpa tambahan lemak berminyak."
+  },
+  {
+    "id": "PA_KU_24",
+    "pertanyaan": "Proses pencelupan sayuran ke dalam air mendidih sebentar lalu segera dimasukkan ke air es (untuk menjaga warna dan mematikan enzim) disebut...",
+    "opsi": [
+      "Poaching",
+      "Skimming",
+      "Filtering",
+      "Blanching",
+      "Basting"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Blanching sering digunakan pada persiapan brokoli atau wortel."
+  },
+  {
+    "id": "PA_KU_25",
+    "pertanyaan": "Saus dasar putih yang terbuat dari campuran mentega, tepung (roux), dan susu disebut saus...",
+    "opsi": [
+      "Veloute",
+      "Espagnole",
+      "Hollandaise",
+      "Tomato Sauce",
+      "Bechamel"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bechamel adalah dasar pembuatan saus keju atau lasagna."
+  },
+  {
+    "id": "PA_KU_26",
+    "pertanyaan": "Bumbu dasar Nusantara yang terdiri dari bawang putih, bawang merah, kemiri, dan merica adalah bumbu...",
+    "opsi": [
+      "Bumbu Putih",
+      "Bumbu Kuning",
+      "Bumbu Merah",
+      "Bumbu Hitam",
+      "Bumbu Hijau"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bumbu putih digunakan untuk opor putih, sayur lodeh, atau oseng-oseng."
+  },
+  {
+    "id": "PA_KU_27",
+    "pertanyaan": "Bumbu dasar yang menggunakan tambahan kunyit sehingga menghasilkan warna cerah disebut bumbu...",
+    "opsi": [
+      "Putih",
+      "Kuning",
+      "Merah",
+      "Pedas",
+      "Asin"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Warna kuning berasal dari zat kurkumin pada kunyit."
+  },
+  {
+    "id": "PA_KU_28",
+    "pertanyaan": "Bumbu dasar yang menggunakan cabai merah besar sebagai bahan utama warnanya disebut bumbu...",
+    "opsi": [
+      "Putih",
+      "Kuning",
+      "Merah",
+      "Manis",
+      "Pahit"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Digunakan untuk masakan rica-rica, sambal goreng, atau balado."
+  },
+  {
+    "id": "PA_KU_29",
+    "pertanyaan": "Aktivitas 'Plating' dalam dunia kuliner artinya...",
+    "opsi": [
+      "Mencuci piring",
+      "Menumpuk piring kotor",
+      "Menimbang bahan",
+      "Seni menyusun dan menghias makanan di atas piring sebelum disajikan",
+      "Menghitung piring pecah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Plating cantik meningkatkan nafsu makan dan nilai jual makanan."
+  },
+  {
+    "id": "PA_KU_30",
+    "pertanyaan": "Hiasan makanan yang dapat dimakan dan berfungsi untuk mempercantik tampilan hidangan disebut...",
+    "opsi": [
+      "Cover",
+      "Seasoning",
+      "Flavor",
+      "Topping",
+      "Garnish"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh garnish: irisan tomat, selada, atau ukiran buah."
+  },
+  {
+    "id": "PA_KU_31",
+    "pertanyaan": "Kaldu jernih yang dibuat dari rebusan tulang, daging, dan sayuran aromatik disebut...",
+    "opsi": [
+      "Stock",
+      "Saus",
+      "Minyak",
+      "Sirup",
+      "Cuka"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Stock adalah dasar dari pembuatan sup dan saus."
+  },
+  {
+    "id": "PA_KU_32",
+    "pertanyaan": "Alat dapur berupa saringan kawat (berbentuk kerucut atau bulat) untuk memisahkan padatan dari cairan disebut...",
+    "opsi": [
+      "Spatula",
+      "Strainer / Saringan",
+      "Whisk",
+      "Ladle",
+      "Peeler"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Digunakan saat membuat kaldu agar hasilnya jernih."
+  },
+  {
+    "id": "PA_KU_33",
+    "pertanyaan": "Alat pengocok telur atau adonan yang terbuat dari kawat melingkar-lingkar disebut...",
+    "opsi": [
+      "Spatula",
+      "Knife",
+      "Whisk (Balon Whisk)",
+      "Fork",
+      "Spoon"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Whisk memasukkan udara ke dalam adonan agar mengembang (aerasi)."
+  },
+  {
+    "id": "PA_KU_34",
+    "pertanyaan": "Sendok besar yang digunakan untuk mengambil cairan dalam jumlah banyak (porsi sup) disebut...",
+    "opsi": [
+      "Dessert Spoon",
+      "Teaspoon",
+      "Fork",
+      "Ladle (Sendok Sayur)",
+      "Straw"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ladle memudahkan penuangan kuah sup ke mangkuk tamu."
+  },
+  {
+    "id": "PA_KU_35",
+    "pertanyaan": "Teknik memanggang makanan langsung di atas bara api atau elemen panas disebut...",
+    "opsi": [
+      "Baking",
+      "Boiling",
+      "Stewing",
+      "Braising",
+      "Grilling (Membakar)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Grilling memberikan aroma 'smoky' (asap) yang khas."
+  },
+  {
+    "id": "PA_KU_36",
+    "pertanyaan": "Hidangan pembuka yang disajikan dalam porsi kecil dengan rasa yang merangsang nafsu makan disebut...",
+    "opsi": [
+      "Appetizer",
+      "Main Course",
+      "Dessert",
+      "Side Dish",
+      "Beverage"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Appetizer bisa disajikan dingin (Cold Appetizer) atau panas (Hot Appetizer)."
+  },
+  {
+    "id": "PA_KU_37",
+    "pertanyaan": "Hidangan utama yang merupakan inti dari susunan menu (biasanya porsinya paling besar) disebut...",
+    "opsi": [
+      "Appetizer",
+      "Main Course",
+      "Dessert",
+      "Soup",
+      "Snack"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biasanya terdiri dari sumber protein ( steak/ikan/ayam), karbohidrat, dan sayuran."
+  },
+  {
+    "id": "PA_KU_38",
+    "pertanyaan": "Hidangan penutup yang rasanya manis untuk menghilangkan rasa amis main course disebut...",
+    "opsi": [
+      "Soup",
+      "Appetizer",
+      "Dessert (Pencuci Mulut)",
+      "Main Course",
+      "Aperitif"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh dessert: puding, kue, buah segar, atau es krim."
+  },
+  {
+    "id": "PA_KU_39",
+    "pertanyaan": "Dalam industri roti (bakery), bahan ragi (yeast) berfungsi untuk...",
+    "opsi": [
+      "Memberi warna kuning",
+      "Membuat roti menjadi asin",
+      "Mengeraskan roti",
+      "Membuat adonan mengembang karena menghasilkan gas CO2",
+      "Membersihkan alat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ragi memerlukan suhu hangat dan gula untuk aktif berfermentasi."
+  },
+  {
+    "id": "PA_KU_40",
+    "pertanyaan": "Bahan utama pembuatan kue (Cake) adalah, kecuali...",
+    "opsi": [
+      "Tepung Terigu",
+      "Telur",
+      "Gula",
+      "Mentega/Margarin",
+      "Bawang Merah"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bawang merah jarang digunakan dalam pembuatan kue manis (pastry/bakery)."
+  },
+  {
+    "id": "PA_KU_41",
+    "pertanyaan": "Apa risiko jika pisau dapur tumpul saat digunakan memotong?",
+    "opsi": [
+      "Lebih mudah meleset dan menyebabkan tangan terluka",
+      "Pisau jadi awet",
+      "Potongan jadi bagus",
+      "Tidak capek",
+      "Mata tetap jernih"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pisau tajam jauh lebih aman daripada pisau tumpul karena kontrol potongannya lebih mudah."
+  },
+  {
+    "id": "PA_KU_42",
+    "pertanyaan": "Cara memegang pisau yang benar saat mencincang adalah ujung jari tangan kiri (yang memegang bahan)...",
+    "opsi": [
+      "Dibiarkan tegang lurus",
+      "Ditekuk ke dalam (Claw Grip) untuk melindungi kuku dari mata pisau",
+      "Dilepaskan saja",
+      "Memegang mata pisau",
+      "Ditaruh di bawah pisau"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Claw grip adalah teknik keselamatan dasar memotong di dapur."
+  },
+  {
+    "id": "PA_KU_43",
+    "pertanyaan": "Istilah 'Al Dente' pada masakan pasta (Italia) artinya pasta dimasak sampai...",
+    "opsi": [
+      "Sangat lembek hancur",
+      "Masih mentah",
+      "Masih memiliki sedikit tekstur keras saat digigit (pas kematangannya)",
+      "Gosong",
+      "Berwarna hitam"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Al dente memberikan sensasi kenyal yang sempurna."
+  },
+  {
+    "id": "PA_KU_44",
+    "pertanyaan": "Saus sambal pedas asli Indonesia yang diulek atau dihaluskan disebut...",
+    "opsi": [
+      "Mayonnaise",
+      "Ketchup",
+      "Mustard",
+      "Sambal",
+      "Bolognese"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sambal adalah pendamping wajib mayoritas masakan Nusantara."
+  },
+  {
+    "id": "PA_KU_45",
+    "pertanyaan": "Peralatan dapur yang terbuat dari kayu tidak boleh dibiarkan basah terlalu lama karena...",
+    "opsi": [
+      "Bisa terbakar",
+      "Harganya makin mahal",
+      "Berubah jadi besi",
+      "Baunya harum",
+      "Bisa ditumbuhi jamur dan bakteri (tidak higienis)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Alat kayu harus dikeringkan segera setelah dicuci."
+  },
+  {
+    "id": "PA_KU_46",
+    "pertanyaan": "Di dalam timbangan bahan makanan, Satuan 'oz' adalah singkatan dari...",
+    "opsi": [
+      "Ounce (Ons)",
+      "Oksida",
+      "Oksigen",
+      "Orang",
+      "Ombak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sering digunakan dalam resep internasional (1 oz sekitar 28 gram)."
+  },
+  {
+    "id": "PA_KU_47",
+    "pertanyaan": "Salah satu sikap profesional seorang koki saat bekerja adalah...",
+    "opsi": [
+      "Bebas merokok di area dapur",
+      "Menghargai bahan makanan dan bekerja secara tim",
+      "Sering meludah sembarangan",
+      "Tidak mau mencuci tangan",
+      "Egois dan tidak mau diajar"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Integritas dan kerjasama tim adalah kunci kesuksesan dapur restoran."
+  },
+  {
+    "id": "PA_KU_48",
+    "pertanyaan": "Penggunaan tutup kepala (Chef hat) bagi koki bertujuan utama untuk...",
+    "opsi": [
+      "Menyiram air",
+      "Menambah tinggi badan",
+      "Mencegah rambut jatuh ke dalam masakan (higienitas)",
+      "Tempat menyimpan sendok",
+      "Hiasan semata"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rambut dalam makanan adalah cacat fatal dalam pelayanan kuliner."
+  },
+  {
+    "id": "PA_KU_49",
+    "pertanyaan": "Apa itu 'Menu Engineering'?",
+    "opsi": [
+      "Cara memperbaiki kompor",
+      "Cara memasak nasi putih",
+      "Membangun gedung restoran",
+      "Analisis menu untuk menentukan hidangan mana yang paling populer dan menguntungkan",
+      "Membuat robot masak"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Strategi bisnis untuk memaksimalkan profit restoran melalui desain menu."
+  },
+  {
+    "id": "PA_KU_50",
+    "pertanyaan": "Profesi 'Food Blogger' atau 'Food Vlogger' saat ini berkembang karena...",
+    "opsi": [
+      "Ingin makan gratis terus",
+      "Hanya ikut-ikutan teman",
+      "Benci masakan rumah",
+      "Ingin merusak citra restoran",
+      "Mempromosikan kekayaan kuliner melalui media sosial dan digital"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Reviewer makanan membantu industri kuliner dikenal lebih luas oleh masyarakat digital."
+  }
+]

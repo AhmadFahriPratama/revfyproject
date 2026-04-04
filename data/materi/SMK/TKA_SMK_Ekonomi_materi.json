@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Ekonomi",
+  "tingkatan": "SMK",
+  "jurusan": "Bisnis / Akuntansi / Pilihan",
+  "deskripsi": "Materi persiapan TKA Ekonomi untuk siswa SMK yang berfokus pada konsep dasar ekonomi, manajemen bisnis, akuntansi dasar, dan lembaga keuangan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Konsep Dasar Ekonomi dan Kelangkaan",
+      "konten": "Masalah ekonomi (kelangkaan), kebutuhan vs keinginan, skala prioritas, serta sistem ekonomi (pasar, komando, campuran).",
+      "tag": [
+        "tka smk ekonomi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Keseimbangan Pasar dan Struktur Pasar",
+      "konten": "Hukum permintaan dan penawaran, kurva harga keseimbangan, elastisitas, serta jenis pasar (persaingan sempurna, monopoli, oligopoli).",
+      "tag": [
+        "tka smk ekonomi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Kebijakan Moneter dan Fiskal",
+      "konten": "Peran Bank Indonesia, inflasi, instrumen kebijakan moneter, APBN/APBD, serta fungsi pajak bagi pembangunan.",
+      "tag": [
+        "tka smk ekonomi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Manajemen dan Badan Usaha",
+      "konten": "Unsur manajemen (6M), fungsi manajemen (POAC), jenis badan usaha (BUMN, BUMS, Koperasi), serta jiwa kewirausahaan (entrepreneurship).",
+      "tag": [
+        "tka smk ekonomi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Dasar-Dasar Akuntansi dan Literasi Keuangan",
+      "konten": "Persamaan dasar akuntansi, siklus akuntansi perusahaan jasa, perbankan, pasar modal, serta pengelolaan keuangan pribadi/bisnis.",
+      "tag": [
+        "tka smk ekonomi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-ekonomi-materi",
+  "mapel": "TKA SMK: Ekonomi",
+  "tag": [
+    "tka smk ekonomi materi"
+  ]
+}

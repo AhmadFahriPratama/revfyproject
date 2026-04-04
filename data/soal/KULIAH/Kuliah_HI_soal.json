@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_HI_01",
+    "pertanyaan": "Ilmu yang mempelajari interaksi antar aktor lintas batas negara (state dan non-state) dalam sistem global disebut...",
+    "opsi": [
+      "Hubungan Internasional (HI)",
+      "Politik Domestik",
+      "Sosiologi",
+      "Geografi Politik",
+      "Sejarah Dunia"
+    ],
+    "jawaban": 0,
+    "pembahasan": "HI mencakup aspek politik, ekonomi, hukum, dan keamanan lintas batas."
+  },
+  {
+    "id": "KU_HI_02",
+    "pertanyaan": "Perspektif dalam HI yang meyakini bahwa sistem internasional bersifat anarki dan negara adalah aktor utama yang selalu mengejar kepentingan nasional dan kekuasaan (power) adalah...",
+    "opsi": [
+      "Liberalisme",
+      "Realisme",
+      "Konstruktivisme",
+      "Feminisme",
+      "Marxisme"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Realisme memandang persaingan antar negara sebagai hal yang tak terelakkan."
+  },
+  {
+    "id": "KU_HI_03",
+    "pertanyaan": "Perspektif dalam HI yang menekankan pada kemungkinan kerjasama antar negara melalui institusi internasional, demokrasi, dan perdagangan bebas adalah...",
+    "opsi": [
+      "Realisme",
+      "Konstruktivisme",
+      "Liberalisme",
+      "Komunisme",
+      "Merkantilisme"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Liberalisme yakin bahwa perang dapat dihindari melalui ketergantungan ekonomi dan hukum."
+  },
+  {
+    "id": "KU_HI_04",
+    "pertanyaan": "Kondisi di mana tidak ada otoritas pusat (pemerintah dunia) yang berada di atas negara-negara berdaulat dalam sistem internasional disebut...",
+    "opsi": [
+      "Monarki",
+      "Oligarki",
+      "Demokrasi",
+      "Anarki (Anarchy)",
+      "Teokrasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Anarki bukan berarti kekacauan, melainkan ketiadaan pemimpin tertinggi bagi negara-negara."
+  },
+  {
+    "id": "KU_HI_05",
+    "pertanyaan": "Kemampuan suatu negara untuk mempengaruhi negara lain agar melakukan apa yang diinginkannya, baik melalui paksaan maupun daya tarik, disebut...",
+    "opsi": [
+      "Diplomasi",
+      "Aliansi",
+      "Kedaulatan",
+      "Yurisdiksi",
+      "Power (Kekuatan)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Power terbagi menjadi Hard Power (militer/ekonomi) dan Soft Power (budaya/nilai)."
+  },
+  {
+    "id": "KU_HI_06",
+    "pertanyaan": "Penggunaan daya tarik budaya, nilai-nilai politik, dan kebijakan luar negeri yang dianggap sah untuk mendapatkan pengaruh tanpa kekerasan disebut...",
+    "opsi": [
+      "Soft Power",
+      "Hard Power",
+      "Smart Power",
+      "Economic Power",
+      "Military Power"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Istilah Soft Power diperkenalkan oleh Joseph Nye."
+  },
+  {
+    "id": "KU_HI_07",
+    "pertanyaan": "Instrumen utama dalam pelaksanaan politik luar negeri sebuah negara untuk mencapai kepentingan nasional melalui perundingan disebut...",
+    "opsi": [
+      "Perang",
+      "Diplomasi",
+      "Embargo",
+      "Propaganda",
+      "Kudeta"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Diplomasi dilakukan oleh diplomat melalui kedutaan dan perwakilan internasional."
+  },
+  {
+    "id": "KU_HI_08",
+    "pertanyaan": "Lembaga internasional yang didirikan setelah Perang Dunia II untuk menjaga perdamaian dan keamanan dunia adalah...",
+    "opsi": [
+      "Liga Bangsa-Bangsa (LBB)",
+      "ASEAN",
+      "Perserikatan Bangsa-Bangsa (PBB)",
+      "NATO",
+      "Uni Eropa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "PBB (United Nations) resmi berdiri pada 24 Oktober 1945."
+  },
+  {
+    "id": "KU_HI_09",
+    "pertanyaan": "Organisasi kerja sama regional di kawasan Asia Tenggara yang didirikan pada 8 Agustus 1967 adalah...",
+    "opsi": [
+      "APEC",
+      "OIC",
+      "G20",
+      "ASEAN",
+      "OPEC"
+    ],
+    "jawaban": 3,
+    "pembahasan": "ASEAN dideklarasikan di Bangkok oleh Indonesia, Malaysia, Filipina, Singapura, dan Thailand."
+  },
+  {
+    "id": "KU_HI_10",
+    "pertanyaan": "Organisasi internasional yang mengatur perdagangan antar negara dan berupaya mengurangi hambatan tarif di seluruh dunia adalah...",
+    "opsi": [
+      "IMF",
+      "World Bank",
+      "WHO",
+      "UNESCO",
+      "WTO (World Trade Organization)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "WTO menggantikan GATT (General Agreement on Tariffs and Trade)."
+  },
+  {
+    "id": "KU_HI_11",
+    "pertanyaan": "Lembaga keuangan internasional yang memberikan bantuan dana bagi negara-negara yang mengalami masalah neraca pembayaran (krisis moneter) adalah...",
+    "opsi": [
+      "IMF (International Monetary Fund)",
+      "WTO",
+      "World Bank",
+      "Asian Development Bank",
+      "Bursa Efek"
+    ],
+    "jawaban": 0,
+    "pembahasan": "IMF fokus pada stabilitas moneter global dan nilai tukar mata uang."
+  },
+  {
+    "id": "KU_HI_12",
+    "pertanyaan": "Lembaga internasional yang fokus memberikan pinjaman jangka panjang untuk membiayai proyek pembangunan dan pengentasan kemiskinan di negara berkembang adalah...",
+    "opsi": [
+      "IMF",
+      "World Bank (Bank Dunia)",
+      "WTO",
+      "PBB",
+      "Interpol"
+    ],
+    "jawaban": 1,
+    "pembahasan": "World Bank membantu pendukungan infrastruktur, pendidikan, dan kesehatan."
+  },
+  {
+    "id": "KU_HI_13",
+    "pertanyaan": "Aktor non-negara dalam HI yang berbentuk organisasi sukarela, nirlaba, dan bekerja lintas batas demi isu kemanusiaan atau lingkungan disebut...",
+    "opsi": [
+      "MNC (Multinational Corporation)",
+      "Interpol",
+      "NGO (Non-Governmental Organization) / LSM Internasional",
+      "Kartel Dagang",
+      "Milisi Bersendata"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh NGO internasional: Greenpeace, Amnesty International, Doctors Without Borders."
+  },
+  {
+    "id": "KU_HI_14",
+    "pertanyaan": "Perusahaan besar yang memiliki fasilitas produksi dan operasional di banyak negara di luar negara asalnya disebut...",
+    "opsi": [
+      "BUMN",
+      "Koperasi",
+      "UMKM",
+      "MNC / TNC (Multinational Corporation)",
+      "Tokoh Masyarakat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "MNC memiliki pengaruh ekonomi yang sangat besar, terkadang melebihi PDB negara kecil."
+  },
+  {
+    "id": "KU_HI_15",
+    "pertanyaan": "Konsep yang menyatakan bahwa negara-negara di dunia semakin saling tergantung (interdependence) di bidang ekonomi, teknologi, dan budaya disebut...",
+    "opsi": [
+      "Nasionalisme",
+      "Proteksionisme",
+      "Isolasionisme",
+      "Regionalisme",
+      "Globalisasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Globalisasi mempercepat pertukaran informasi dan barang di seluruh dunia."
+  },
+  {
+    "id": "KU_HI_16",
+    "pertanyaan": "Kebijakan luar negeri Indonesia yang dicanangkan pertama kali oleh Moh. Hatta adalah politik luar negeri...",
+    "opsi": [
+      "Bebas dan Aktif",
+      "Konfrontasi",
+      "Poros Jakarta-Peking",
+      "Pintu Terbuka",
+      "Etis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bebas: Tidak memihak blok manapun; Aktif: Turut menjaga perdamaian dunia."
+  },
+  {
+    "id": "KU_HI_17",
+    "pertanyaan": "Organisasi pertahanan militer antar negara-negara Barat di kawasan Atlantik Utara yang dipimpin Amerika Serikat adalah...",
+    "opsi": [
+      "Pakta Warsawa",
+      "NATO (North Atlantic Treaty Organization)",
+      "SEATO",
+      "CENTO",
+      "UNICEF"
+    ],
+    "jawaban": 1,
+    "pembahasan": "NATO berasaskan pertahanan kolektif (serangan terhadap satu anggota dianggap serangan terhadap seluruh anggota)."
+  },
+  {
+    "id": "KU_HI_18",
+    "pertanyaan": "Persaingan ideologi, politik, dan ekonomi antara Blok Barat (AS) dan Blok Timur (Uni Soviet) setelah PD II hingga 1991 disebut...",
+    "opsi": [
+      "Perang Dunia III",
+      "Perang Vietnam",
+      "Perang Dingin (Cold War)",
+      "Perang Salib",
+      "Perang Saudara"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Perang Dingin berakhir seiring dengan runtuhnya Uni Soviet."
+  },
+  {
+    "id": "KU_HI_19",
+    "pertanyaan": "Hukum internasional yang mengatur tentang perilaku negara saat terjadi perang (perlindungan warga sipil, tawanan perang) disebut...",
+    "opsi": [
+      "Hukum Lingkungan",
+      "Hukum Dagang",
+      "Hukum Angkasa",
+      "Hukum Humaniter Internasional (IHL)",
+      "Hukum Pajak"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Konvensi Jenewa adalah pilar utama Hukum Humaniter Internasional."
+  },
+  {
+    "id": "KU_HI_20",
+    "pertanyaan": "Pelarangan perdagangan atau penghentian hubungan ekonomi dengan negara tertentu sebagai bentuk tekanan politik disebut...",
+    "opsi": [
+      "Subsidi",
+      "Kuota Impor",
+      "Privatisasi",
+      "Liberalisasi",
+      "Embargo / Sanksi Ekonomi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Embargo bertujuan memaksa negara target mengubah kebijakannya tanpa melalui kekuatan militer."
+  },
+  {
+    "id": "KU_HI_21",
+    "pertanyaan": "Konsep yang menekankan perlindungan individu dari ancaman seperti kelaparan, penyakit, dan kekerasan fisik (bukan hanya keamanan negara) disebut...",
+    "opsi": [
+      "Human Security (Keamanan Insani)",
+      "National Security",
+      "Cyber Security",
+      "Food Security",
+      "Energy Security"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Human security memandang individu sebagai subjek utama keamanan."
+  },
+  {
+    "id": "KU_HI_22",
+    "pertanyaan": "Tindakan sebuah negara yang memberikan suaka (perlindungan) bagi warga negara asing yang melarikan diri dari negaranya karena ancaman penganiayaan disebut...",
+    "opsi": [
+      "Ekstradisi",
+      "Asil (Suaka Politik)",
+      "Deportasi",
+      "Naturalisasi",
+      "Domisili"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Suaka diberikan berdasarkan alasan kemanusiaan atau politik."
+  },
+  {
+    "id": "KU_HI_23",
+    "pertanyaan": "Prosedur penyerahan pelaku kejahatan dari satu negara ke negara lain tempat kejahatan tersebut dilakukan untuk diadili disebut...",
+    "opsi": [
+      "Asil",
+      "Retribusi",
+      "Ekstradisi",
+      "Imigrasi",
+      "Eksplorasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Ekstradisi biasanya diatur dalam perjanjian bilateral antar negara."
+  },
+  {
+    "id": "KU_HI_24",
+    "pertanyaan": "Prinsip dalam HI yang melarang negara mencampuri urusan dalam negeri negara lain disebut...",
+    "opsi": [
+      "Interdependensi",
+      "Integrasi",
+      "Aliansi",
+      "Non-Intervensi (Non-Intervention)",
+      "Hegemoni"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Prinsip ini sangat dijunjung tinggi oleh ASEAN (ASEAN Way)."
+  },
+  {
+    "id": "KU_HI_25",
+    "pertanyaan": "Dominasi atau kepemimpinan satu negara kuat terhadap negara-negara lain dalam sistem internasional disebut...",
+    "opsi": [
+      "Demokrasi Global",
+      "Multilateralisme",
+      "Netralitas",
+      "Diplomasi Publik",
+      "Hegemoni"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Negara yang melakukan dominasi tersebut disebut sebagai Hegemon."
+  },
+  {
+    "id": "KU_HI_26",
+    "pertanyaan": "Sistem internasional di mana terdapat dua kutub kekuatan besar yang saling bersaing (seperti saat Perang Dingin) disebut...",
+    "opsi": [
+      "Bipolar",
+      "Unipolar",
+      "Multipolar",
+      "Tripolar",
+      "Non-polar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Polaritas menentukan stabilitas dan pola interaksi dunia."
+  },
+  {
+    "id": "KU_HI_27",
+    "pertanyaan": "Sistem internasional di mana terdapat banyak pusat kekuatan atau negara besar yang saling mempengaruhi disebut...",
+    "opsi": [
+      "Bipolar",
+      "Multipolar",
+      "Unipolar",
+      "Absolut",
+      "Totaliter"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dunia saat ini dipandang mulai bergeser menuju multipolaritas (AS, China, EU, India, Rusia)."
+  },
+  {
+    "id": "KU_HI_28",
+    "pertanyaan": "Badan di dalam PBB yang memiliki wewenang paling kuat untuk menjaga perdamaian dan dapat mengeluarkan sanksi atau tindakan militer adalah...",
+    "opsi": [
+      "Majelis Umum (General Assembly)",
+      "Sekretariat",
+      "Dewan Keamanan (Security Council)",
+      "Mahkamah Internasional",
+      "Dewan Ekonomi dan Sosial"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dewan Keamanan memiliki 5 anggota tetap (P5) yang memiliki hak veto."
+  },
+  {
+    "id": "KU_HI_29",
+    "pertanyaan": "Manakah negara yang termasuk dalam Anggota Tetap Dewan Keamanan PBB (yang memiliki hak veto)?",
+    "opsi": [
+      "Jerman, Jepang, India, Brasil",
+      "Indonesia, Malaysia, Singapura",
+      "Australia, Kanada, Mesir",
+      "AS, Inggris, Perancis, Rusia, China",
+      "Arab Saudi, Turki, Iran"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hak veto memungkinkan satu anggota tetap menggagalkan resolusi PBB meski disetujui anggota lain."
+  },
+  {
+    "id": "KU_HI_30",
+    "pertanyaan": "Upaya penyelesaian sengketa wilayah antar negara melalui jalur hukum di pengadilan internasional dilakukan di...",
+    "opsi": [
+      "ICC",
+      "WTO",
+      "Interpol",
+      "NATO",
+      "ICJ (International Court of Justice)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "ICJ berkedudukan di Den Haag, Belanda, dan merupakan organ utama PBB."
+  },
+  {
+    "id": "KU_HI_31",
+    "pertanyaan": "Isu global kontemporer yang menyerukan pengurangan emisi karbon untuk mencegah pemanasan global dibahas dalam kesepakatan internasional...",
+    "opsi": [
+      "Perjanjian Paris (Paris Agreement)",
+      "Perjanjian Versailes",
+      "Perjanjian Linggajati",
+      "Perjanjian Renville",
+      "Perjanjian Tordesillas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Perubahan iklim adalah salah satu fokus utama diplomasi lingkungan saat ini."
+  },
+  {
+    "id": "KU_HI_32",
+    "pertanyaan": "Tindakan militer sebuah negara masuk ke wilayah negara lain untuk menghentikan pelanggaran HAM berat (seperti genosida) disebut...",
+    "opsi": [
+      "Invasi Imperialisme",
+      "Intervensi Kemanusiaan (Humanitarian Intervention)",
+      "Latihan Bersama",
+      "Wisata Militer",
+      "Operasi Penyamaran"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sering memicu perdebatan antara kedaulatan negara vs kemanusiaan global."
+  },
+  {
+    "id": "KU_HI_33",
+    "pertanyaan": "Konsep tanggung jawab internasional untuk melindungi warga sipil jika pemerintahnya gagal melakukannya disebut...",
+    "opsi": [
+      "Racial Segregation",
+      "Free Trade",
+      "R2P (Responsibility to Protect)",
+      "Right to Vote",
+      "Apolitik"
+    ],
+    "jawaban": 2,
+    "pembahasan": "R2P diadopsi oleh PBB pada KTT Dunia tahun 2005."
+  },
+  {
+    "id": "KU_HI_34",
+    "pertanyaan": "Aktivitas satu atau beberapa negara untuk membangun kekuatan militer guna menandingi kekuatan negara pesaing agar tidak terjadi perang disebut...",
+    "opsi": [
+      "Aliansi",
+      "Hegemoni",
+      "Isolasi",
+      "Balance of Power (Perimbangan Kekuatan)",
+      "Apartheid"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Perimbangan kekuatan diyakini kaum Realis dapat mencegah perang."
+  },
+  {
+    "id": "KU_HI_35",
+    "pertanyaan": "Upaya diplomasi yang dilakukan oleh aktor non-pemerintah (akademisi, tokoh masyarakat) untuk menjembatani komunikasi antar negara yang bersengketa disebut...",
+    "opsi": [
+      "Track One Diplomacy",
+      "Shuttle Diplomacy",
+      "Gunboat Diplomacy",
+      "Digital Diplomacy",
+      "Track Two Diplomacy"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Diplomasi jalur dua bersifat informal dan lebih fleksibel."
+  },
+  {
+    "id": "KU_HI_36",
+    "pertanyaan": "Penggunaan media sosial dan teknologi digital oleh pemerintah untuk berkomunikasi langsung dengan publik luar negeri disebut...",
+    "opsi": [
+      "Diplomasi Digital (E-Diplomacy)",
+      "Diplomasi Budaya",
+      "Spionase",
+      "Propaganda Radio",
+      "Surat-menyurat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Diplomasi digital mempercepat penyampaian sikap resmi negara kepada audiens global."
+  },
+  {
+    "id": "KU_HI_37",
+    "pertanyaan": "Konsep yang menyatakan bahwa negara-negara demokrasi hampir tidak pernah berperang satu sama lain disebut teori...",
+    "opsi": [
+      "Peaceful Coexistence",
+      "Democratic Peace Theory",
+      "Golden Arches Theory",
+      "Clash of Civilizations",
+      "World System Theory"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Teori ini merupakan bagian dari pemikiran kaum Liberal."
+  },
+  {
+    "id": "KU_HI_38",
+    "pertanyaan": "Studi dalam HI yang mempelajari bagaimana kelas sosial dan struktur kapitalisme global menciptakan kesenjangan antar negara kaya (Core) dan miskin (Periphery) adalah...",
+    "opsi": [
+      "Realisme",
+      "Stukturalisme",
+      "Marxisme / Teori Kritis",
+      "Institusionalisme",
+      "Geopolitik"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Berfokus pada eksploitasi ekonomi global oleh negara-negara maju."
+  },
+  {
+    "id": "KU_HI_39",
+    "pertanyaan": "Apa itu 'Hegemoni Budaya' (Cultural Hegemony)?",
+    "opsi": [
+      "Perang menggunakan seni",
+      "Pelarangan budaya asing",
+      "Pameran budaya nasional",
+      "Dominasi suatu negara melalui penyebaran gaya hidup, film, bahasa, dan nilai-nilai sehingga dianggap sebagai norma universal",
+      "Pertukaran pelajar"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: Fenomena westernisasi atau K-Pop yang mendunia."
+  },
+  {
+    "id": "KU_HI_40",
+    "pertanyaan": "Metode penyelesaian sengketa di mana pihak ketiga (seperti PBB) memberikan usulan solusi konkret yang tidak mengikat untuk disetujui para pihak disebut...",
+    "opsi": [
+      "Mediasi",
+      "Negosiasi",
+      "Arbitrase",
+      "Ajudikasi",
+      "Konsiliasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Konsiliasi membantu para pihak menemukan titik temu tanpa paksaan hukum."
+  },
+  {
+    "id": "KU_HI_41",
+    "pertanyaan": "Dalam diplomasi, singkatan 'Persona Non Grata' berarti...",
+    "opsi": [
+      "Orang yang tidak diinginkan (diusir dari negara tempat tugas karena pelanggaran)",
+      "Tamu kehormatan",
+      "Duta besar yang pintar",
+      "Perjanjian rahasia",
+      "Paspor diplomatik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Negara penerima dapat menyatakan seorang diplomat sebagai persona non grata kapan saja."
+  },
+  {
+    "id": "KU_HI_42",
+    "pertanyaan": "Kawasan bebas nuklir, bebas perang, dan netral yang menjadi cita-cita ASEAN disebut...",
+    "opsi": [
+      "AFTA",
+      "ZOPFAN",
+      "SEANWFZ",
+      "MEA",
+      "AUN"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Zone of Peace, Freedom, and Neutrality. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"ZOPFAN\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_HI_43",
+    "pertanyaan": "Wilayah laut yang memberikan hak eksklusif bagi suatu negara untuk mengelola sumber daya alam di dalamnya hingga 200 mil laut dari garis pantai disebut...",
+    "opsi": [
+      "Laut Teritorial",
+      "Landas Kontinen",
+      "ZEE (Zona Ekonomi Eksklusif)",
+      "Laut Lepas",
+      "Teluk"
+    ],
+    "jawaban": 2,
+    "pembahasan": "ZEE diatur dalam Konvensi Hukum Laut PBB (UNCLOS) 1982."
+  },
+  {
+    "id": "KU_HI_44",
+    "pertanyaan": "Negara yang tidak memihak dalam sebuah konflik atau perang (seperti Swiss) disebut negara...",
+    "opsi": [
+      "Agresor",
+      "Aliansi",
+      "Satelit",
+      "Netral / Neutral",
+      "Boneka"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Netralitas harus diakui oleh negara-negara lain agar berfungsi efektif."
+  },
+  {
+    "id": "KU_HI_45",
+    "pertanyaan": "Pengaruh letak astronomis, geografis, dan sumber daya alam terhadap politik luar negeri sebuah negara dipelajari dalam bidang...",
+    "opsi": [
+      "Geopsikologi",
+      "Geologi",
+      "Astronomi",
+      "Demografi",
+      "Geopolitik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Geopolitik melihat bagaimana ruang geografis membatasi atau memberi peluang bagi negara."
+  },
+  {
+    "id": "KU_HI_46",
+    "pertanyaan": "Upaya satu negara untuk memisahkan diri dari ketergantungan perdagangan global demi kemandirian total disebut kebijakan...",
+    "opsi": [
+      "Autarki",
+      "Laissez Faire",
+      "Liberalisme",
+      "Privatisasi",
+      "Deregulasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Autarki jarang berhasil di era globalisasi saat ini."
+  },
+  {
+    "id": "KU_HI_47",
+    "pertanyaan": "Gelar akademik bagi lulusan sarjana hubungan internasional di Indonesia adalah...",
+    "opsi": [
+      "S.T",
+      "S.H.I (Sarjana Hubungan Internasional) atau S.Sos",
+      "S.H",
+      "S.E",
+      "S.Kom"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Lulusan HI dapat berkarir sebagai Diplomat, Analis Risiko, Konsultan Internasional, atau Jurnalis Luar Negeri."
+  },
+  {
+    "id": "KU_HI_48",
+    "pertanyaan": "Pihak yang memata-matai rahasia negara lain secara ilegal demi kepentingan nasional negaranya disebut...",
+    "opsi": [
+      "Diplomat",
+      "Turis",
+      "Spion (Spy / Intelijen Luar Negeri)",
+      "Relawan",
+      "Negosiator"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Aktivitas spionase sangat berisiko memicu ketegangan diplomatik."
+  },
+  {
+    "id": "KU_HI_49",
+    "pertanyaan": "Organisasi yang menaungi negara-negara penghasil minyak bumi untuk menjaga stabilitas harga di pasar dunia adalah...",
+    "opsi": [
+      "APEC",
+      "NAFTA",
+      "G7",
+      "OPEC",
+      "BRICS"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Organization of the Petroleum Exporting Countries."
+  },
+  {
+    "id": "KU_HI_50",
+    "pertanyaan": "Konsep peradaban dunia yang semakin bersatu namun juga dihantui oleh konflik berdasarkan perbedaan identitas budaya dikemukakan oleh Samuel Huntington dalam bukunya...",
+    "opsi": [
+      "The End of History",
+      "The Prince",
+      "Social Contract",
+      "Mein Kampf",
+      "The Clash of Civilizations (Benturan Peradaban)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Huntington berpendapat bahwa sumber konflik masa depan bukan ekonomi/ideologi, melainkan budaya."
+  }
+]

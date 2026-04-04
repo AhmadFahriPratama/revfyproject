@@ -1,0 +1,652 @@
+[
+  {
+    "id": "PR_AK_01",
+    "pertanyaan": "Kerangka dasar laporan keuangan yang menjadi rujukan utama akuntan di Indonesia adalah...",
+    "opsi": [
+      "PSAK (Pernyataan Standar Akuntansi Keuangan) berbasis IFRS",
+      "US GAAP",
+      "Kitab Undang-Undang Hukum Perdata",
+      "Standar Nasional Indonesia",
+      "Aturan Pajak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Indonesia melakukan konvergensi PSAK ke International Financial Reporting Standards (IFRS)."
+  },
+  {
+    "id": "PR_AK_02",
+    "pertanyaan": "Opini audit terbaik yang menunjukkan bahwa laporan keuangan disajikan secara wajar dalam semua hal yang material disebut...",
+    "opsi": [
+      "Opini Wajar Dengan Pengecualian (Qualified Opinion)",
+      "Opini Wajar Tanpa Pengecualian (Unqualified Opinion)",
+      "Opini Tidak Wajar (Adverse)",
+      "Tidak Memberikan Pendapat (Disclaimer)",
+      "Opini Penolakan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "WTP atau Unqualified Opinion adalah target utama setiap entitas yang diaudit."
+  },
+  {
+    "id": "PR_AK_03",
+    "pertanyaan": "Opini audit yang diberikan jika auditor tidak mendapatkan bukti yang cukup atau terdapat ketidakpastian yang sangat material sehingga tidak bisa menyimpulkan kebenaran laporan adalah...",
+    "opsi": [
+      "Wajar Tanpa Pengecualian",
+      "Wajar Dengan Pengecualian",
+      "Tidak Memberikan Pendapat (Disclaimer Opinion)",
+      "Opini Tidak Wajar",
+      "Opini Ragu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Disclaimer biasanya terjadi jika lingkup audit sangat dibatasi atau data tidak lengkap."
+  },
+  {
+    "id": "PR_AK_04",
+    "pertanyaan": "Suatu kondisi di mana terdapat perbedaan antara nilai tercatat aset dengan jumlah yang dapat dipulihkan disebut...",
+    "opsi": [
+      "Amortisasi",
+      "Depresiasi",
+      "Revaluasi",
+      "Penurunan Nilai (Impairment)",
+      "Akumulasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Impairment diakui sebagai kerugian dalam laporan laba rugi."
+  },
+  {
+    "id": "PR_AK_05",
+    "pertanyaan": "Metode pencatatan di mana pendapatan diakui saat hak sudah diperoleh (earned) dan beban diakui saat terjadi (incurred), bukan saat uang diterima/dibayar disebut...",
+    "opsi": [
+      "Cash Basis",
+      "Mixed Basis",
+      "Tax Basis",
+      "Journal Basis",
+      "Accrual Basis (Dasar Akrual)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "SAK mewajibkan penggunaan dasar akrual untuk penyusunan laporan keuangan."
+  },
+  {
+    "id": "PR_AK_06",
+    "pertanyaan": "Komponen laporan keuangan yang menunjukkan aliran masuk dan keluar kas perusahaan dalam periode tertentu adalah...",
+    "opsi": [
+      "Laporan Arus Kas (Cash Flow Statement)",
+      "Neraca",
+      "Laporan Laba Rugi",
+      "Laporan Perubahan Ekuitas",
+      "Catatan Atas Laporan Keuangan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Arus kas dibagi menjadi aktivitas Operasi, Investasi, dan Pendanaan."
+  },
+  {
+    "id": "PR_AK_07",
+    "pertanyaan": "Audit yang difokuskan untuk menemukan adanya kecurangan (fraud) atau tindak pidana tertentu dalam keuangan perusahaan disebut audit...",
+    "opsi": [
+      "Audit Keuangan",
+      "Audit Forensik / Investigatif",
+      "Audit Operasional",
+      "Audit Kinerja",
+      "Audit Lingkungan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Auditor forensik sering bekerja sama dengan lembaga penegak hukum untuk pembuktian di pengadilan."
+  },
+  {
+    "id": "PR_AK_08",
+    "pertanyaan": "Independensi auditor adalah hal yang mutlak karena...",
+    "opsi": [
+      "Agar auditor digaji mahal",
+      "Supaya auditor cepat pulang",
+      "Agar pendapat yang diberikan objektif dan tidak memihak klien",
+      "Hanya mengikuti perintah UU",
+      "Agar perusahaan klien bangkrut"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Independensi menjaga kepercayaan publik terhadap opini auditor."
+  },
+  {
+    "id": "PR_AK_09",
+    "pertanyaan": "Segitiga Kecurangan (Fraud Triangle) terdiri dari tiga elemen utama, yaitu...",
+    "opsi": [
+      "Niat, Alat, Waktu",
+      "Uang, Jabatan, Relasi",
+      "Kemiskinan, Kebodohan, Ketidaktahuan",
+      "Tekanan (Pressure), Peluang (Opportunity), Pembenaran (Rationalization)",
+      "Kekuasaan, Keinginan, Kelalaian"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Konsep ini menjelaskan mengapa seseorang melakukan tindakan fraud."
+  },
+  {
+    "id": "PR_AK_10",
+    "pertanyaan": "Prinsip GCG (Good Corporate Governance) yang mewajibkan perusahaan menyampaikan informasi material secara akurat dan tepat waktu kepada pemangku kepentingan adalah...",
+    "opsi": [
+      "Accountability",
+      "Responsibility",
+      "Independency",
+      "Fairness",
+      "Transparency (Transparansi)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Transparansi memudahkan investor dalam mengambil keputusan."
+  },
+  {
+    "id": "PR_AK_11",
+    "pertanyaan": "Analisis keuangan yang membandingkan laba bersih terhadap total aset perusahaan untuk mengukur efisiensi penggunaan aset disebut...",
+    "opsi": [
+      "ROA (Return on Assets)",
+      "Current Ratio",
+      "Debt to Equity Ratio",
+      "Inventory Turnover",
+      "Gross Margin"
+    ],
+    "jawaban": 0,
+    "pembahasan": "ROA yang tinggi menunjukkan manajemen aset yang efektif dalam mendulang laba."
+  },
+  {
+    "id": "PR_AK_12",
+    "pertanyaan": "Sistem pengendalian internal yang paling kuat untuk mencegah kesalahan penghitungan uang kas adalah...",
+    "opsi": [
+      "Membiarkan satu orang memegang kuncinya",
+      "Pemisahan tugas (Segregation of Duties) antara penerima uang, pencatat, dan penyimpan",
+      "Mempercayakan pada kejujuran karyawan",
+      "Menaruh uang di meja",
+      "Tidak perlu dicatat"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pemisahan tugas meminimalkan risiko kolusi dan error."
+  },
+  {
+    "id": "PR_AK_13",
+    "pertanyaan": "Dalam istilah perpajakan Indonesia, PKP adalah singkatan dari...",
+    "opsi": [
+      "Pengusaha Khas Pribadi",
+      "Pajak Kendaraan Penumpang",
+      "Pengusaha Kena Pajak",
+      "Penerimaan Keuangan Perusahaan",
+      "Potongan Kas Pemerintah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "PKP wajib memungut dan menyetor PPN (Pajak Pertambahan Nilai)."
+  },
+  {
+    "id": "PR_AK_14",
+    "pertanyaan": "Zat yang bersifat tidak terlihat namun memiliki nilai bagi perusahaan, seperti hak paten atau merk dagang, disebut aset...",
+    "opsi": [
+      "Aset Lancar",
+      "Aset Tetap",
+      "Aset Fiktif",
+      "Aset Tak Berwujud (Intangible Assets)",
+      "Aset Bekas"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Intangible assets diamortisasi sepanjang masa manfaatnya."
+  },
+  {
+    "id": "PR_AK_15",
+    "pertanyaan": "Metode penyusutan aset tetap di mana beban penyusutan di awal tahun sangat besar dan semakin kecil di tahun berikutnya disebut...",
+    "opsi": [
+      "Garis Lurus (Straight Line)",
+      "Jumlah Unit Produksi",
+      "Rata-rata Tertimbang",
+      "Satu Kali Bayar",
+      "Saldo Menurun Ganda (Double Declining)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Metode dipercepat ini umum digunakan untuk aset yang cepat mengalami usang teknologi."
+  },
+  {
+    "id": "PR_AK_16",
+    "pertanyaan": "Gelar sertifikasi profesi akuntan publik di Indonesia yang memberikan izin praktik untuk menandatangani laporan audit adalah...",
+    "opsi": [
+      "CPA (Certified Public Accountant)",
+      "CA (Chartered Accountant)",
+      "CMA",
+      "CIA",
+      "CFA"
+    ],
+    "jawaban": 0,
+    "pembahasan": "CPA Indonesia dikeluarkan oleh IAPI (Institut Akuntan Publik Indonesia)."
+  },
+  {
+    "id": "PR_AK_17",
+    "pertanyaan": "Biaya yang dikeluarkan perusahaan untuk mengembangkan produk baru sebelum produk tersebut dipasarkan disebut biaya...",
+    "opsi": [
+      "Produksi",
+      "Riset dan Pengembangan (R&D)",
+      "Pemasaran",
+      "Operasional",
+      "Sewa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biaya pengembangan dapat dikapitalisasi jika memenuhi kriteria tertentu."
+  },
+  {
+    "id": "PR_AK_18",
+    "pertanyaan": "Pihak yang ditugaskan perusahaan untuk melakukan pengawasan internal, memastikan kepatuhan SOP, dan efisiensi operasional disebut...",
+    "opsi": [
+      "Eksternal Auditor",
+      "Manajer Sales",
+      "Internal Auditor",
+      "Admin Gudang",
+      "Penjaga Keamanan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Internal audit membantu manajemen mengelola risiko organisasi."
+  },
+  {
+    "id": "PR_AK_19",
+    "pertanyaan": "Investasi jangka pendek yang sangat likuid dan mudah dikonversi menjadi kas dalam waktu maksimal 3 bulan disebut...",
+    "opsi": [
+      "Piutang",
+      "Persediaan",
+      "Tanah",
+      "Setara Kas (Cash Equivalents)",
+      "Obligasi 10 tahun"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh setara kas: Deposito jatuh tempo kurang dari 90 hari."
+  },
+  {
+    "id": "PR_AK_20",
+    "pertanyaan": "Prinsip akuntansi yang mengharuskan pengungkapan seluruh informasi yang dapat mempengaruhi keputusan pembaca laporan keuangan disebut...",
+    "opsi": [
+      "Prinsip Konservatisme",
+      "Prinsip Entitas Ekonomi",
+      "Prinsip Harga Perolehan",
+      "Prinsip Kesinambungan",
+      "Prinsip Pengungkapan Penuh (Full Disclosure)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Informasi material yang tidak ada di neraca harus dijelaskan di Catatan Atas Laporan Keuangan (CALK)."
+  },
+  {
+    "id": "PR_AK_21",
+    "pertanyaan": "Kelebihan harga beli sebuah perusahaan di atas nilai wajar aset neto yang teridentifikasi disebut...",
+    "opsi": [
+      "Goodwill",
+      "Laba Ditahan",
+      "Dividen",
+      "Agio Saham",
+      "Premium"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Goodwill mencerminkan reputasi, lokasi, atau keunikan perusahaan yang dibeli."
+  },
+  {
+    "id": "PR_AK_22",
+    "pertanyaan": "Tindakan mempercantik tampilan laporan keuangan (misal menunda pencatatan biaya) agar terlihat lebih menguntungkan dari aslinya disebut...",
+    "opsi": [
+      "Budgeting",
+      "Window Dressing",
+      "Social Accounting",
+      "Tax Planning",
+      "Bookkeeping"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Window dressing adalah praktik manipulatif yang menyesatkan investor."
+  },
+  {
+    "id": "PR_AK_23",
+    "pertanyaan": "Suatu sistem manajemen biaya yang mengalokasikan biaya overhead ke produk berdasarkan aktivitas yang mengonsumsi sumber daya disebut...",
+    "opsi": [
+      "Traditional Costing",
+      "Standard Costing",
+      "ABC (Activity Based Costing)",
+      "Target Costing",
+      "Variable Costing"
+    ],
+    "jawaban": 2,
+    "pembahasan": "ABC memberikan perhitungan harga pokok produksi yang lebih akurat daripada metode tradisional."
+  },
+  {
+    "id": "PR_AK_24",
+    "pertanyaan": "Laba yang tidak dibagikan kepada pemegang saham dan tetap disimpan dalam perusahaan untuk pengembangan bisnis disebut...",
+    "opsi": [
+      "Laba Kotor",
+      "Laba Bersih",
+      "Modal Pinjaman",
+      "Laba Ditahan (Retained Earnings)",
+      "Investasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Laba ditahan menambah total ekuitas perusahaan."
+  },
+  {
+    "id": "PR_AK_25",
+    "pertanyaan": "Kemampuan perusahaan untuk menghasilkan laba dari penjualan atau modalnya disebut tingkat...",
+    "opsi": [
+      "Likuiditas",
+      "Solvabilitas",
+      "Efisiensi",
+      "Aktivitas",
+      "Profitabilitas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Profitabilitas menunjukkan seberapa menguntungkan bisnis tersebut dijalankan."
+  },
+  {
+    "id": "PR_AK_26",
+    "pertanyaan": "Manakah bukti audit yang dianggap paling andal atau paling kuat tingkat kepercayaannya?",
+    "opsi": [
+      "Konfirmasi tertulis dari bank pihak ketiga",
+      "Penjelasan lisan dari manajemen klien",
+      "Fotokopi kuitansi internal",
+      "Janji lisan karyawan",
+      "Prediksi masa depan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bukti dari pihak ketiga yang independen (konfirmasi eksternal) memiliki reliabilitas tinggi."
+  },
+  {
+    "id": "PR_AK_27",
+    "pertanyaan": "Pengecekan fisik aset tetap (misal menghitung jumlah kendaraan yang ada di gudang) oleh auditor disebut prosedur...",
+    "opsi": [
+      "Tanya jawab",
+      "Inspeksi Fisik",
+      "Analitis",
+      "Observasi",
+      "Rekalkulasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Inspeksi fisik memastikan keberadaan (existence) aset yang tercatat."
+  },
+  {
+    "id": "PR_AK_28",
+    "pertanyaan": "Perhitungan ulang matematis yang dilakukan auditor terhadap dokumen klien disebut...",
+    "opsi": [
+      "Observasi",
+      "Trimming",
+      "Rekalkulasi",
+      "Scanning",
+      "Editing"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rekalkulasi memastikan akurasi penghitungan (misal bunga bank atau penyusutan)."
+  },
+  {
+    "id": "PR_AK_29",
+    "pertanyaan": "Audit yang dilakukan untuk memastikan bahwa perusahaan telah menjalankan aturan UU dan kebijakan pemerintah disebut audit...",
+    "opsi": [
+      "Audit Laporan Keuangan",
+      "Audit Operasional",
+      "Audit Manajemen",
+      "Audit Kepatuhan (Compliance Audit)",
+      "Audit Publik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: Audit ketaatan terhadap UU Lingkungan Hidup atau Perpajakan."
+  },
+  {
+    "id": "PR_AK_30",
+    "pertanyaan": "Auditor harus memiliki sikap 'Professional Skepticism', yang berarti...",
+    "opsi": [
+      "Selalu berprasangka buruk pada klien",
+      "Selalu percaya pada klien tanpa bukti",
+      "Malas mengaudit",
+      "Takut pada manajemen",
+      "Memiliki pikiran yang selalu mempertanyakan bukti dan waspada terhadap tanda-tanda fraud"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Skeptisisme profesional menjaga auditor tetap kritis dan teliti."
+  },
+  {
+    "id": "PR_AK_31",
+    "pertanyaan": "Risiko bahwa auditor akan memberikan opini yang tidak tepat saat laporan keuangan mengandung kesalahan material disebut...",
+    "opsi": [
+      "Risiko Audit",
+      "Risiko Bisnis",
+      "Risiko Bawaan",
+      "Risiko Pengendalian",
+      "Risiko Deteksi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tujuan audit adalah menekan risiko audit hingga level yang sangat rendah."
+  },
+  {
+    "id": "PR_AK_32",
+    "pertanyaan": "Lembaga akuntan internasional yang mengeluarkan Global IFRS Standards adalah...",
+    "opsi": [
+      "IAI (Ikatan Akuntan Indonesia)",
+      "IASB (International Accounting Standards Board)",
+      "IFAC",
+      "FASB",
+      "WTO"
+    ],
+    "jawaban": 1,
+    "pembahasan": "IASB berkedudukan di London, Inggris. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"IASB (International Accounting Standards Board)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_AK_33",
+    "pertanyaan": "Tindakan perusahaan untuk mengalihkan sebagian hutangnya menjadi lembar saham (modal) disebut aksi korporasi...",
+    "opsi": [
+      "Stock Split",
+      "Buyback Saham",
+      "Debt to Equity Swap",
+      "Dividen Saham",
+      "Merger"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Membantu memperbaiki struktur permodalan perusahaan yang terbelit hutang."
+  },
+  {
+    "id": "PR_AK_34",
+    "pertanyaan": "Dalam analisis pasar modal, singkatan 'PE Ratio' berarti...",
+    "opsi": [
+      "Public Equity Ratio",
+      "Personal Expense Ratio",
+      "Profit Exchange Ratio",
+      "Price to Earnings Ratio",
+      "Pure Energy Ratio"
+    ],
+    "jawaban": 3,
+    "pembahasan": "PE Ratio digunakan investor untuk menilai mahal atau murahnya sebuah saham."
+  },
+  {
+    "id": "PR_AK_35",
+    "pertanyaan": "Individu yang memiliki keahlian khusus dalam menghitung risiko asuransi dan dana pensiun menggunakan matematika disebut...",
+    "opsi": [
+      "Auditor",
+      "Broker",
+      "Notaris",
+      "Sekretaris",
+      "Aktuaria"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Laporan aktuaris sangat penting bagi perusahaan asuransi."
+  },
+  {
+    "id": "PR_AK_36",
+    "pertanyaan": "Besaran batas nilai yang ditetapkan auditor atas kesalahan pencatatan, di mana jika melebihi batas tersebut maka akan mempengaruhi opini, disebut...",
+    "opsi": [
+      "Materialitas",
+      "Kredit Maksimal",
+      "Pagu Anggaran",
+      "Defisit",
+      "Surplus"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kesalahan yang sangat kecil (imaterial) tidak akan mengubah opini audit secara keseluruhan."
+  },
+  {
+    "id": "PR_AK_37",
+    "pertanyaan": "Audit yang mengevaluasi efisiensi dan efektivitas penggunaan sumber daya dalam departemen tertentu disebut audit...",
+    "opsi": [
+      "Finansial",
+      "Operasional",
+      "Kepatuhan",
+      "Sosial",
+      "Pajak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Outputnya biasanya berupa saran/rekomendasi perbaikan proses bisnis."
+  },
+  {
+    "id": "PR_AK_38",
+    "pertanyaan": "Suatu teknik di mana auditor memeriksa urutan nomor dokumen (misal invoice) untuk memastikan tidak ada dokumen yang hilang atau disisipkan disebut cek...",
+    "opsi": [
+      "Tracing",
+      "Vouching",
+      "Sequential Check",
+      "Cut-off Test",
+      "Footing"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Menjamin kelengkapan data (completeness)."
+  },
+  {
+    "id": "PR_AK_39",
+    "pertanyaan": "Melakukan penelusuran dari catatan laporan kembali ke bukti atau dokumen pendukung asli disebut prosedur...",
+    "opsi": [
+      "Tracing",
+      "Scanning",
+      "Drafting",
+      "Vouching",
+      "Listing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Vouching bertujuan untuk membuktikan bahwa transaksi tersebut benar-benar terjadi (occurrence)."
+  },
+  {
+    "id": "PR_AK_40",
+    "pertanyaan": "Melakukan penelusuran dari dokumen asli masuk ke catatan pembukuan disebut prosedur...",
+    "opsi": [
+      "Vouching",
+      "Indexing",
+      "Cross-check",
+      "Coding",
+      "Tracing"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tracing bertujuan memastikan bahwa semua transaksi sudah tercatat sepenuhnya (completeness)."
+  },
+  {
+    "id": "PR_AK_41",
+    "pertanyaan": "Surat yang dikirimkan auditor kepada manajemen klien yang berisi temuan kelemahan sistem pengendalian intern dan saran perbaikannya disebut...",
+    "opsi": [
+      "Management Letter",
+      "Laporan Opini",
+      "Audit Plan",
+      "Engagement Letter",
+      "Representation Letter"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Dokumentasi bernilai tambah bagi klien atas jasa audit yang diberikan."
+  },
+  {
+    "id": "PR_AK_42",
+    "pertanyaan": "Pernyataan tertulis dari manajemen kepada auditor yang menyatakan bahwa semua informasi penting sudah diberikan dan benar adanya disebut...",
+    "opsi": [
+      "Management Letter",
+      "Management Representation Letter",
+      "Audit Program",
+      "Kertas Kerja",
+      "Buku Besar"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Manajemen bertanggung jawab atas penyusunan laporan keuangan."
+  },
+  {
+    "id": "PR_AK_43",
+    "pertanyaan": "Dokumen resmi yang dibuat di awal proses audit sebagai kontrak kerja antara kantor akuntan publik dengan klien disebut...",
+    "opsi": [
+      "Surat Tagihan",
+      "Surat Izin Usaha",
+      "Surat Penugasan (Engagement Letter)",
+      "Sertifikat Audit",
+      "Laporan Hasil Audit"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Engagement letter menjelaskan ruang lingkup, tanggung jawab, dan biaya (fee) audit."
+  },
+  {
+    "id": "PR_AK_44",
+    "pertanyaan": "Auditor harus tetap bersikap jujur dan tidak memihak dalam menjalankan profesinya. Hal ini sesuai dengan prinsip etika...",
+    "opsi": [
+      "Kerahasiaan",
+      "Kemalasan",
+      "Kepopuleran",
+      "Integritas dan Objektivitas",
+      "Persaingan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tanpa integritas, profesi akuntan tidak akan dihargai oleh publik."
+  },
+  {
+    "id": "PR_AK_45",
+    "pertanyaan": "Tindakan menyamarkan asal-usul uang hasil kejahatan agar seolah-olah berasal dari kegiatan ekonomi yang sah disebut...",
+    "opsi": [
+      "Investasi",
+      "Pajak Penghasilan",
+      "Corporate Action",
+      "Hedging",
+      "Money Laundering (Pencucian Uang)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Auditor wajib melaporkan adanya indikasi pencucian uang ke PPATK."
+  },
+  {
+    "id": "PR_AK_46",
+    "pertanyaan": "Metode manajemen keuangan untuk melindungi nilai aset dari risiko fluktuasi harga atau kurs mata uang disebut...",
+    "opsi": [
+      "Hedging (Lindung Nilai)",
+      "Speculation",
+      "Gambling",
+      "Saving",
+      "Borrowing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Hedging menggunakan instrumen derivatif seperti Forward, Future, atau Option."
+  },
+  {
+    "id": "PR_AK_47",
+    "pertanyaan": "Akuntansi yang memfokuskan pada penyediaan informasi bagi pihak internal (manajer) untuk perencanaan dan pengambilan keputusan adalah...",
+    "opsi": [
+      "Akuntansi Keuangan",
+      "Akuntansi Manajemen",
+      "Akuntansi Perpajakan",
+      "Akuntansi Forensik",
+      "Sektor Publik"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Akuntansi manajemen bersifat fleksibel dan tidak terikat standar kaku seperti SAK."
+  },
+  {
+    "id": "PR_AK_48",
+    "pertanyaan": "Analisis yang menghitung titik di mana total pendapatan sama dengan total biaya (tidak laba dan tidak rugi) disebut...",
+    "opsi": [
+      "Analisis Risiko",
+      "Cash Flow Analysis",
+      "Break Even Point (BEP)",
+      "Target Costing",
+      "Variance Analysis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "BEP penting untuk menentukan volume penjualan minimal."
+  },
+  {
+    "id": "PR_AK_49",
+    "pertanyaan": "Laba usaha sebelum dikurangi bunga dan pajak dalam laporan keuangan sering disebut...",
+    "opsi": [
+      "Gross Profit",
+      "Net Income",
+      "Dividen",
+      "EBIT (Earnings Before Interest and Taxes)",
+      "Depresiasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "EBIT mengukur kinerja operasional murni perusahaan."
+  },
+  {
+    "id": "PR_AK_50",
+    "pertanyaan": "Prinsip akuntansi 'Going Concern' berasumsi bahwa...",
+    "opsi": [
+      "Perusahaan akan bangkrut besok",
+      "Perusahaan akan segera dijual",
+      "Pemilik perusahaan meninggal dunia",
+      "Pencatatan hanya untuk hari ini saja",
+      "Perusahaan akan terus beroperasi dalam jangka waktu yang tidak terbatas di masa depan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jika ada keraguan material atas kelangsungan hidup perusahaan (going concern), auditor wajib mengungkapkannya."
+  }
+]

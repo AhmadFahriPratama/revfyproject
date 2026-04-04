@@ -1,0 +1,30 @@
+{
+  "id": "materi-sd-kls4-ipas",
+  "tingkat": "SD Kelas 4",
+  "mapel": "IPAS",
+  "materi": "Bagian Tumbuhan, Wujud Zat, Gaya & Gerak, dan Keberagaman Budaya Nusantara",
+  "deskripsi": "Materi IPAS Kelas 4 memadukan sains dan ilmu sosial yang meliputi anatomi tumbuhan, perubahan wujud benda, macam-macam gaya, bentang alam, serta keberagaman budaya masyarakat Indonesia.",
+  "konten": [
+    {
+      "bab": "1. Tumbuhan, Sumber Kehidupan di Bumi",
+      "teks": "Mengidentifikasi bagian-bagian tubuh tumbuhan (akar, batang, daun, bunga, buah) beserta fungsinya. Memahami proses fotosintesis pada tumbuhan sebagai rantai makanan utama di bumi."
+    },
+    {
+      "bab": "2. Wujud Zat dan Perubahannya",
+      "teks": "Mengenali sifat zat padat, cair, dan gas. Mempelajari perubahan wujud zat seperti mencair, membeku, menguap, mengembun, menyublim, dan mengkristal akibat penyerapan atau pelepasan kalor (panas)."
+    },
+    {
+      "bab": "3. Gaya di Sekitar Kita",
+      "teks": "Memahami pengertian gaya (tarikan dan dorongan) serta pengaruhnya terhadap benda. Mengenal jenis-jenis gaya seperti gaya otot, gaya gesek, gaya magnet, gaya pegas, dan gaya gravitasi bumi."
+    },
+    {
+      "bab": "4. Mengubah Bentuk Energi",
+      "teks": "Mempelajari berbagai bentuk energi (cahaya, panas, bunyi, gerak, listrik) dan proses transformasi energi dalam kehidupan sehari-hari (misal: energi listrik menjadi energi cahaya pada lampu)."
+    },
+    {
+      "bab": "5. INDONESIAKU KAYA RAYA (Keberagaman Budaya & Bentang Alam)",
+      "teks": "Mengenal berbagai bentang alam di Indonesia (pegunungan, dataran tinggi, dataran rendah, pantai). Merhargai keberagaman pakaian adat, rumah adat, tarian tarian, dan makanan khas daerah di Indonesia."
+    }
+  ],
+  "tag": ["sd-4", "ipas", "tumbuhan", "gaya", "wujud-zat", "budaya"]
+}

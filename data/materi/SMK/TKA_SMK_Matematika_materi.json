@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Matematika",
+  "tingkatan": "SMK",
+  "jurusan": "Semua Jurusan",
+  "deskripsi": "Materi persiapan Tes Kemampuan Akademik (TKA) jenjang SMK yang mencakup matematika terapan, logika, serta hitungan teknis dasar.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Eksponen dan Logaritma",
+      "konten": "Sifat-sifat pangkat, bentuk akar, merasionalkan penyebut, serta aplikasi logaritma dalam perhitungan teknis.",
+      "tag": [
+        "tka smk matematika materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Barisan dan Deret Dasar",
+      "konten": "Barisan aritmatika dan geometri, deret tak hingga, serta aplikasi bunga tunggal dan majemuk dalam ekonomi.",
+      "tag": [
+        "tka smk matematika materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Trigonometri Terapan",
+      "konten": "Perbandingan trigonometri pada segitiga siku-siku, aturan sinus dan kosinus, serta penggunaannya dalam pengukuran elevasi.",
+      "tag": [
+        "tka smk matematika materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Matriks dan Vektor",
+      "konten": "Operasi dasar matriks (penjumlahan, perkalian), determinan dan invers matriks 2x2, serta konsep dasar vektor di bidang.",
+      "tag": [
+        "tka smk matematika materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Statistika dan Pengolahan Data",
+      "konten": "Penyajian data tabel dan grafik, ukuran pemusatan (mean, median, modus), serta ukuran penyebaran (simpangan baku).",
+      "tag": [
+        "tka smk matematika materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-matematika-materi",
+  "mapel": "TKA SMK: Matematika",
+  "tag": [
+    "tka smk matematika materi"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Kecantikan (Tata Rias)",
+  "tingkatan": "SMK",
+  "jurusan": "Kecantikan / Tata Rias / Pilihan",
+  "deskripsi": "Materi persiapan TKA Kecantikan untuk siswa SMK yang berfokus pada perawatan kulit, tata rias wajah (Makeup), perawatan rambut, dan etika profesi ahli kecantikan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Anatomi dan Fisiologi Kulit",
+      "konten": "Struktur lapisan kulit (epidermis, dermis, hipodermis), jenis-jenis kulit (normal, kering, berminyak, kombinasi), serta kelainan kulit yang umum ditemui.",
+      "tag": [
+        "tka smk kecantikan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Dasar-Dasar Tata Rias Wajah",
+      "konten": "Alat dan bahan makeup, teknik koreksi wajah (Contouring & Highlighting), rias wajah sehari-hari, rias wajah panggung, serta rias wajah pengantin.",
+      "tag": [
+        "tka smk kecantikan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Perawatan dan Penataan Rambut",
+      "konten": "Struktur rambut, teknik keramas (Shampooing), pemangkasan rambut dasar, pengeringan (Blow drying), serta penyanggulan (Up-do) tradisional dan modern.",
+      "tag": [
+        "tka smk kecantikan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Sanitasi, Higiene, dan Kesehatan Kerja",
+      "konten": "Steriilisasi alat kecantikan, kebersihan area kerja salon, prosedur keselamatan (K3), serta penggunaan kosmetik yang aman dan legal (BPOM).",
+      "tag": [
+        "tka smk kecantikan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pelayanan Prima dan Manajemen Salon",
+      "konten": "Komunikasi dengan klien, konsultasi kecantikan, perencanaan bisnis salon kecil, pemasaran jasa kecantikan via media sosial, serta etika profesi beautician.",
+      "tag": [
+        "tka smk kecantikan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-kecantikan-materi",
+  "mapel": "TKA SMK: Kecantikan (Tata Rias)",
+  "tag": [
+    "tka smk kecantikan materi"
+  ]
+}

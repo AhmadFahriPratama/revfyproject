@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Geografi",
+  "tingkatan": "SMK",
+  "jurusan": "Pilihan / Soshum",
+  "deskripsi": "Materi persiapan TKA Geografi untuk siswa SMK yang berfokus pada dinamika planet bumi, pemetaan wilayah, sumber daya alam, dan ketahanan nasional.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Konsep Dasar dan Prinsip Geografi",
+      "konten": "Objek studi geografi, 10 konsep esensial, 4 prinsip (distribusi, interelasi, deskripsi, korologi), serta 3 pendekatan geografi.",
+      "tag": [
+        "tka smk geografi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Pemetaan dan Penginderaan Jauh",
+      "konten": "Jenis-jenis peta, membaca skala dan proyeksi, dasar-dasar penginderaan jauh, serta pengenalan Sistem Informasi Geografis (SIG) untuk perencanaan wilayah.",
+      "tag": [
+        "tka smk geografi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Dinamika Litosfer dan Pedosfer",
+      "konten": "Struktur lapisan bumi, tenaga endogen (tektonisme, vulkanisme, seisme), tenaga eksogen (pelapukan, erosi), serta pembentukan tanah.",
+      "tag": [
+        "tka smk geografi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Atmosfer dan Hidrosfer",
+      "konten": "Lapisan udara, unsur cuaca dan iklim, macam-macam iklim (Schmidt-Ferguson, Koppen), siklus hidrologi, serta perairan laut dan darat.",
+      "tag": [
+        "tka smk geografi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Kewilayahan dan Ketahanan Pangan",
+      "konten": "Sebaran sumber daya alam di Indonesia, ketahanan pangan nasional, energi baru terbarukan, serta mitigasi bencana alam di lingkungan industri.",
+      "tag": [
+        "tka smk geografi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-geografi-materi",
+  "mapel": "TKA SMK: Geografi",
+  "tag": [
+    "tka smk geografi materi"
+  ]
+}

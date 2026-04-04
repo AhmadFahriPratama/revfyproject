@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_FA_01",
+    "pertanyaan": "Ilmu yang mempelajari pengaruh tubuh terhadap obat (Absorpsi, Distribusi, Metabolisme, Ekskresi) disebut...",
+    "opsi": [
+      "Farmakokinetika",
+      "Farmakodinamika",
+      "Farmakoterapi",
+      "Toksikologi",
+      "Farmakologi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Farmakokinetika menjawab: 'Apa yang dilakukan tubuh terhadap obat?'"
+  },
+  {
+    "id": "KU_FA_02",
+    "pertanyaan": "Ilmu yang mempelajari pengaruh obat terhadap tubuh (Interaksi obat dengan reseptor dan respon biokimia) disebut...",
+    "opsi": [
+      "Farmakokinetika",
+      "Farmakodinamika",
+      "Biokimia",
+      "Patofisiologi",
+      "Antropologi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Farmakodinamika menjawab: 'Apa yang dilakukan obat terhadap tubuh?'"
+  },
+  {
+    "id": "KU_FA_03",
+    "pertanyaan": "Persentase obat yang mencapai sirkulasi sistemik (pembuluh darah) dalam bentuk utuh setelah pemberian obat disebut...",
+    "opsi": [
+      "Waktu paruh",
+      "Klirens",
+      "Bioavailabilitas (Ketersediaan Hayati)",
+      "Dosis",
+      "Induksi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Obat suntikan intravena (IV) memiliki bioavailabilitas 100%."
+  },
+  {
+    "id": "KU_FA_04",
+    "pertanyaan": "Organ utama tempat di mana proses metabolisme obat (perubahan molekul obat) paling banyak terjadi adalah...",
+    "opsi": [
+      "Ginjal",
+      "Paru-paru",
+      "Kulit",
+      "Hati (Liver)",
+      "Lambung"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Liver mengandung kompleks enzim Cytochrome P450 yang memproses obat-obatan."
+  },
+  {
+    "id": "KU_FA_05",
+    "pertanyaan": "Waktu yang dibutuhkan agar kadar obat di dalam plasma (darah) berkurang menjadi setengahnya disebut...",
+    "opsi": [
+      "Bioavailabilitas",
+      "Klirens renal",
+      "Indeks terapi",
+      "Masa simpan",
+      "Waktu paruh (t 1/2)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Waktu paruh penting untuk menentukan frekuensi pemberian dosis obat."
+  },
+  {
+    "id": "KU_FA_06",
+    "pertanyaan": "Jalur pemberian obat yang paling cepat memberikan efek pada kondisi gawat darurat adalah melalui...",
+    "opsi": [
+      "Intravena (Suntikan ke pembuluh darah)",
+      "Oral (Mulut)",
+      "Topikal (Oles)",
+      "Rektal (Dubur)",
+      "Inhalasi (Hirup)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Suntikan intravena langsung masuk ke aliran darah tanpa fase absorpsi."
+  },
+  {
+    "id": "KU_FA_07",
+    "pertanyaan": "Obat yang menempel pada reseptor dan memberikan respon biologis maksimal (meniru zat alami) disebut obat bersifat...",
+    "opsi": [
+      "Antagonis",
+      "Agonis",
+      "Plasebo",
+      "Isolator",
+      "Katalisator"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Agonis berikatan dan mengaktifkan reseptor."
+  },
+  {
+    "id": "KU_FA_08",
+    "pertanyaan": "Obat yang menghalangi atau menghambat interaksi antara ligan alami dengan reseptor (tidak memberikan efek sendiri) bersifat...",
+    "opsi": [
+      "Agonis",
+      "Sinergis",
+      "Antagonis",
+      "Addisi",
+      "Toksik"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Antagonis mencegah aktivasi reseptor oleh zat lain."
+  },
+  {
+    "id": "KU_FA_09",
+    "pertanyaan": "Rangkaian pengujian obat baru pada manusia setelah uji pada hewan selesai dilakukan disebut...",
+    "opsi": [
+      "Uji Pre-klinis",
+      "Uji Sampel",
+      "Uji Psikologi",
+      "Uji Klinis (Clinical Trial)",
+      "Uji Simetris"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Uji klinis terdiri dari Fase 1, 2, 3, dan 4."
+  },
+  {
+    "id": "KU_FA_10",
+    "pertanyaan": "Fase uji klinis yang dilakukan pada ribuan pasien untuk memastikan efikasi (kemanjuran) dan keamanan obat sebelum dipasarkan adalah...",
+    "opsi": [
+      "Fase 1",
+      "Fase 2",
+      "Fase 4",
+      "Fase 0",
+      "Fase 3"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jika lolos Fase 3, obat baru bisa didaftarkan untuk izin edar."
+  },
+  {
+    "id": "KU_FA_11",
+    "pertanyaan": "Istilah farmasi untuk sediaan obat yang dibuat dengan cara mengiris, mengeringkan, dan menghaluskan bagian tumbuhan obat disebut...",
+    "opsi": [
+      "Simplisia",
+      "Serbuk instan",
+      "Ekstrak cair",
+      "Kapsul pati",
+      "Emulsi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Simplisia adalah bahan alam yang belum dikelola secara kimiawi."
+  },
+  {
+    "id": "KU_FA_12",
+    "pertanyaan": "Interaksi obat yang mengakibatkan efek gabungan lebih besar daripada jumlah masing-masing obat disebut efek...",
+    "opsi": [
+      "Antagonis",
+      "Sinergis (Sinergisme)",
+      "Addisi",
+      "Netral",
+      "Inkompatibilitas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sinergisme bisa sangat menguntungkan atau justru berbahaya jika tidak diawasi."
+  },
+  {
+    "id": "KU_FA_13",
+    "pertanyaan": "Jenis sediaan farmasi cair yang mengandung dua cairan yang tidak saling bercampur (misal air dan minyak) yang distabilkan oleh agen penyatu disebut...",
+    "opsi": [
+      "Larutan",
+      "Suspensi",
+      "Emulsi",
+      "Gel",
+      "Sirup"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Emulsi menggunakan emulgator agar minyak dan air menyatu."
+  },
+  {
+    "id": "KU_FA_14",
+    "pertanyaan": "Jenis sediaan farmasi cair di mana partikel zat padat halus terdispersi (tidak larut) di dalam pembawa cair disebut...",
+    "opsi": [
+      "Larutan",
+      "Injeksi",
+      "Olesan",
+      "Suspensi",
+      "Tetes"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Suspensi harus dikocok terlebih dahulu sebelum diminum."
+  },
+  {
+    "id": "KU_FA_15",
+    "pertanyaan": "Metode pemisahan zat aktif dari bahan alam menggunakan pelarut kimia pada suhu tertentu disebut...",
+    "opsi": [
+      "Filtrasi",
+      "Distilasi",
+      "Evaporasi",
+      "Presipitasi",
+      "Ekstraksi (Maserasi/Perkolasi)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ekstraksi menghasilkan ekstrak kental yang kaya zat aktif."
+  },
+  {
+    "id": "KU_FA_16",
+    "pertanyaan": "Golongan obat yang hanya boleh dibeli dengan resep dokter dan ditandai dengan logo lingkaran merah dengan huruf K di tengahnya adalah...",
+    "opsi": [
+      "Obat Keras",
+      "Obat Bebas",
+      "Obat Bebas Terbatas",
+      "Narkotika",
+      "Psikotropika"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Obat keras memiliki efek kuat dan risiko tinggi jika salah dosis."
+  },
+  {
+    "id": "KU_FA_17",
+    "pertanyaan": "Golongan obat yang dapat dibeli bebas di apotek tanpa resep dokter dan ditandai dengan lingkaran hijau adalah...",
+    "opsi": [
+      "Obat Keras",
+      "Obat Bebas",
+      "Psikotropika",
+      "Obat Wajib Apotek",
+      "Suplemen"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Obat bebas (misal parasetamol) relatif aman untuk swamedikasi."
+  },
+  {
+    "id": "KU_FA_18",
+    "pertanyaan": "Singkatan 't.d.d' (ter de die) dalam resep dokter berarti obat digunakan sebanyak...",
+    "opsi": [
+      "Satu kali sehari",
+      "Dua kali sehari",
+      "Tiga kali sehari",
+      "Empat kali sehari",
+      "Setiap jam"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Ter de die (Latin) = Tiga kali sehari. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Tiga kali sehari\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_FA_19",
+    "pertanyaan": "Singkatan 'q.s' (quantum satis) dalam pembuatan sediaan obat di apotek berarti...",
+    "opsi": [
+      "Satu sendok",
+      "Setiap pagi",
+      "Setiap malam",
+      "Secukupnya (sampai berat/volume yang diinginkan)",
+      "Segera"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Digunakan untuk zat tambahan seperti pelarut atau pewarna."
+  },
+  {
+    "id": "KU_FA_20",
+    "pertanyaan": "Organ tubuh utama yang berfungsi mengekskresikan (mengeluarkan) sisa obat via urin adalah...",
+    "opsi": [
+      "Paru-paru",
+      "Hati",
+      "Kelenjar keringat",
+      "Jantung",
+      "Ginjal"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ginjal melakukan filtrasi glomelurus, sekresi tubulus, dan reabsorpsi."
+  },
+  {
+    "id": "KU_FA_21",
+    "pertanyaan": "Kondisi di mana penggunaan obat secara berulang menyebabkan tubuh memerlukan dosis yang lebih besar untuk mendapatkan efek yang sama disebut...",
+    "opsi": [
+      "Toleransi",
+      "Alergi",
+      "Resistensi",
+      "Adiksi",
+      "Idiosinkrasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Toleransi sering terjadi pada penggunaan obat golongan opioid atau sedatif."
+  },
+  {
+    "id": "KU_FA_22",
+    "pertanyaan": "Zat tambahan pada tablet yang berfungsi untuk menghancurkan tablet di dalam lambung agar zat aktif bisa keluar disebut...",
+    "opsi": [
+      "Pengisi",
+      "Penghancur (Disintegran)",
+      "Pengikat",
+      "Pelicin",
+      "Pewarna"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Disintegran menyerap air dan membuat tablet pecah menjadi granul."
+  },
+  {
+    "id": "KU_FA_23",
+    "pertanyaan": "Lapis tipis pada tablet yang bertujuan untuk menutupi rasa pahit atau mengatur tempat pelepasan obat (misal di usus) disebut...",
+    "opsi": [
+      "Tablet Biasa",
+      "Tablet Hisap",
+      "Tablet Salut (Coated Tablet)",
+      "Tablet Kunyah",
+      "Tablet Effervescent"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tablet Salut Selaput (Film-coated) atau Salut Enterik (Enteric-coated)."
+  },
+  {
+    "id": "KU_FA_24",
+    "pertanyaan": "Tablet yang melepaskan gas karbon dioksida (CO2) saat dimasukkan ke dalam air sehingga terlarut dengan cepat disebut...",
+    "opsi": [
+      "Tablet Kunyah",
+      "Tablet Sublingual",
+      "Kapsul Keras",
+      "Tablet Effervescent",
+      "Pil Kontrasepsi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: Vitamin C larut air atau obat sakit kepala tertentu."
+  },
+  {
+    "id": "KU_FA_25",
+    "pertanyaan": "Cara pemberian obat dengan meletakkannya di bawah lidah (agar langsung masuk pembuluh darah tanpa lewat hati) disebut...",
+    "opsi": [
+      "Bukal",
+      "Topikal",
+      "Injeksi",
+      "Supositoria",
+      "Sublingual"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sering digunakan untuk obat serangan jantung (Nitrogliserin) agar berefek cepat."
+  },
+  {
+    "id": "KU_FA_26",
+    "pertanyaan": "Analisis kimia yang bertujuan untuk mengetahui 'apa' jenis zat aktif yang terkandung dalam sebuah sampel obat disebut analisis...",
+    "opsi": [
+      "Kualitatif",
+      "Kuantitatif",
+      "Analisis Bisnis",
+      "Analisis Fisika",
+      "Analisis Pasar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Analisis kualitatif menjawab identitas zat (misal tes warna atau kromatografi)."
+  },
+  {
+    "id": "KU_FA_27",
+    "pertanyaan": "Analisis kimia yang bertujuan untuk mengetahui 'berapa' kadar atau jumlah zat aktif dalam sampel obat disebut analisis...",
+    "opsi": [
+      "Kualitatif",
+      "Kuantitatif",
+      "Diferensial",
+      "Spektakuler",
+      "Manajemen"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Analisis kuantitatif menentukan kemurnian atau dosis obat (misal dengan titrasi atau HPLC)."
+  },
+  {
+    "id": "KU_FA_28",
+    "pertanyaan": "Obat generik yang dijual dengan nama pabrik yang memproduksinya (menggunakan merk dagang) disebut...",
+    "opsi": [
+      "Obat Generik Berlogo",
+      "Obat Paten",
+      "Obat Generik Bermerk (Branded Generic)",
+      "Obat Palsu",
+      "Obat Tradisional"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Harganya biasanya lebih mahal dari generik berlogo karena biaya promosi."
+  },
+  {
+    "id": "KU_FA_29",
+    "pertanyaan": "Obat baru yang masih dilindungi oleh hak paten (hak eksklusif) penciptanya selama jangka waktu tertentu disebut...",
+    "opsi": [
+      "Obat Generik",
+      "Obat Esensial",
+      "Obat Kadaluarsa",
+      "Obat Paten",
+      "Obat Luar"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hanya pabrik pemegang paten yang boleh memproduksinya hingga masa paten habis (biasanya 20 tahun)."
+  },
+  {
+    "id": "KU_FA_30",
+    "pertanyaan": "Kecabangan farmasi yang mempelajari penggunaan model matematika untuk mengatur dosis dan jadwal pemberian obat agar mencapai kadar terapi yang aman disebut...",
+    "opsi": [
+      "Farmakognosi",
+      "Farmakoekonomi",
+      "Farmakovigilans",
+      "Etno-farmakologi",
+      "Farmakokinetika Klinis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Penting untuk obat dengan indeks terapi sempit (beracun jika kelebihan sedikit saja)."
+  },
+  {
+    "id": "KU_FA_31",
+    "pertanyaan": "Aktivitas pemantauan keamanan obat setelah dipasarkan untuk mendeteksi efek samping yang jarang muncul saat uji klinis disebut...",
+    "opsi": [
+      "Farmakovigilans (Post-Marketing Surveillance)",
+      "Farmakope",
+      "Farmakognosi",
+      "Fitofarmaka",
+      "Herbal Terstandar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Membantu memastikan keamanan obat dalam jangka panjang di masyarakat luas."
+  },
+  {
+    "id": "KU_FA_32",
+    "pertanyaan": "Buku panduan resmi yang memuat standar mutu, identitas, dan kemurnian bahan obat di sebuah negara disebut...",
+    "opsi": [
+      "Ensiklopedia",
+      "Farmakope (misal Farmakope Indonesia)",
+      "Kamus Besar",
+      "Buku Resep Masakan",
+      "Majalah Kesehatan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Menjadi standar hukum bagi apoteker dan industri farmasi."
+  },
+  {
+    "id": "KU_FA_33",
+    "pertanyaan": "Tindakan pengobatan sendiri yang dilakukan oleh masyarakat menggunakan obat bebas untuk keluhan ringan disebut...",
+    "opsi": [
+      "Diagnosa Mandiri",
+      "Operasi Mandiri",
+      "Swamedikasi (Self-Medication)",
+      "Imunisasi",
+      "Malpraktik"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Apoteker bertugas memberikan edukasi agar swamedikasi aman."
+  },
+  {
+    "id": "KU_FA_34",
+    "pertanyaan": "Obat herbal yang telah melewati uji pra-klinis (hewan) dan uji klinis (manusia) sehingga khasiatnya terbukti secara ilmiah setara obat kimia adalah...",
+    "opsi": [
+      "Jamu",
+      "OHT (Obat Herbal Terstandar)",
+      "Suplemen Makanan",
+      "Fitofarmaka",
+      "Jamu Gendong"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Fitofarmaka memiliki logo lingkaran kuning dengan simbol salju hijau (mirip bintang)."
+  },
+  {
+    "id": "KU_FA_35",
+    "pertanyaan": "Obat tradisional Indonesia yang khasiatnya berdasarkan pengalaman turun-temurun (empiris) selama puluhan tahun disebut...",
+    "opsi": [
+      "Fitofarmaka",
+      "Vitamin",
+      "Antidot",
+      "Kimia",
+      "Jamu"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jamu ditandai dengan logo pohon hijau dalam lingkaran."
+  },
+  {
+    "id": "KU_FA_36",
+    "pertanyaan": "Obat herbal yang sudah lolos uji pra-klinis (hewan) dan distandarisasi bahan bakunya disebut...",
+    "opsi": [
+      "OHT (Obat Herbal Terstandar)",
+      "Jamu",
+      "Fitofarmaka",
+      "Vaksin",
+      "Sirup"
+    ],
+    "jawaban": 0,
+    "pembahasan": "OHT ditandai dengan logo tiga pasang jari-jari daun."
+  },
+  {
+    "id": "KU_FA_37",
+    "pertanyaan": "Simbol obat narkotika pada kemasannya adalah...",
+    "opsi": [
+      "Lingkaran Hijau",
+      "Simbol berbentuk Palang Medali Merah",
+      "Lingkaran Biru",
+      "Huruf K",
+      "Gambar Daun"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Narkotika memiliki pengawasan sangat ketat karena potensi ketergantungannya."
+  },
+  {
+    "id": "KU_FA_38",
+    "pertanyaan": "Zat yang diberikan untuk menetralkan atau melawan racun yang masuk ke dalam tubuh disebut...",
+    "opsi": [
+      "Antibiotik",
+      "Analgesik",
+      "Antidot (Antidotum)",
+      "Antipiretik",
+      "Sedatif"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh: Atropin untuk keracunan pestisida."
+  },
+  {
+    "id": "KU_FA_39",
+    "pertanyaan": "Istilah farmasi untuk obat pereda nyeri adalah...",
+    "opsi": [
+      "Antipiretik",
+      "Antasida",
+      "Antiemetik",
+      "Analgesik",
+      "Antihistamin"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: Asam mefenamat atau Tramadol. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Analgesik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_FA_40",
+    "pertanyaan": "Istilah farmasi untuk obat penurun demam atau panas adalah...",
+    "opsi": [
+      "Analgesik",
+      "Antifungi",
+      "Anthelmintik",
+      "Laksatif",
+      "Antipiretik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: Parasetamol. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Antipiretik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_FA_41",
+    "pertanyaan": "Zat penghilang kesadaran total atau rasa sakit sementara saat operasi disebut...",
+    "opsi": [
+      "Anestesi (Bius)",
+      "Nutrisi",
+      "Relaksasi",
+      "Stimulasi",
+      "Irigasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Anestesi bisa lokal (area tertentu) atau umum (tidur total)."
+  },
+  {
+    "id": "KU_FA_42",
+    "pertanyaan": "Pengobatan penyakit kanker menggunakan zat kimia kuat untuk membunuh sel kanker disebut...",
+    "opsi": [
+      "Resusitasi",
+      "Kemoterapi",
+      "Akupunktur",
+      "Meditasi",
+      "Donor Darah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kemoterapi bekerja dengan menghentikan pembelahan sel yang cepat."
+  },
+  {
+    "id": "KU_FA_43",
+    "pertanyaan": "Metode sterilisasi alat kesehatan menggunakan uap air panas bertekanan tinggi di dalam alat bernama...",
+    "opsi": [
+      "Oven",
+      "Kulkas",
+      "Autoklaf (Autoclave)",
+      "Blender",
+      "Inkubator"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Autoklaf menjamin kematian seluruh mikroba termasuk sporanya."
+  },
+  {
+    "id": "KU_FA_44",
+    "pertanyaan": "Apa bahaya dari penggunaan obat kadaluarsa?",
+    "opsi": [
+      "Obat jadi makin manjur",
+      "Warnanya jadi bagus",
+      "Harganya naik",
+      "Potensi obat berkurang dan risiko terbentuknya produk degradasi yang beracun bagi tubuh",
+      "Tidak ada bahaya"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Obat kadaluwarsa harus dibuang sesuai prosedur (dimusnahkan)."
+  },
+  {
+    "id": "KU_FA_45",
+    "pertanyaan": "Tempat di fasilitas kesehatan yang bertugas mengelola sediaan farmasi, alat kesehatan, dan bahan medis habis pakai adalah...",
+    "opsi": [
+      "Kantin",
+      "Laboratorium",
+      "Radiologi",
+      "Parkir",
+      "Instalasi Farmasi (IFRS/Apotek)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Dipimpin oleh seorang Apoteker yang bertanggung jawab secara hukum."
+  },
+  {
+    "id": "KU_FA_46",
+    "pertanyaan": "Kegiatan 'Dispensing' oleh apoteker meliputi hal berikut, kecuali...",
+    "opsi": [
+      "Menetapkan harga semaunya tanpa aturan",
+      "Menyiapkan obat sesuai resep",
+      "Memberi label dan etiket cara pakai",
+      "Melakukan edukasi penggunaan obat kepada pasien",
+      "Mengecek kesesuaian dosis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Harga obat diatur oleh HET (Harga Eceran Tertinggi) dan kebijakan apotek."
+  },
+  {
+    "id": "KU_FA_47",
+    "pertanyaan": "Pelayanan kefarmasian yang fokus pada keamanan, efektivitas, dan rasionalitas penggunaan obat pada pasien disebut...",
+    "opsi": [
+      "Farmasi Industri",
+      "Farmasi Klinis",
+      "Kimia Sintesis",
+      "Mikrobiologi",
+      "Fisika Farmasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Apoteker klinis bekerja sama dengan dokter di ruang rawat inap."
+  },
+  {
+    "id": "KU_FA_48",
+    "pertanyaan": "Berapa lama masa studi untuk meraih gelar Apoteker (Apt) setelah lulus Sarjana Farmasi (S.Farm) di Indonesia?",
+    "opsi": [
+      "1 minggu",
+      "10 tahun",
+      "1 tahun (2 semester)",
+      "Tanpa sekolah lagi",
+      "5 tahun"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Lulusan sarjana harus menempuh pendidikan profesi satu tahun untuk mendapatkan lisensi praktik."
+  },
+  {
+    "id": "KU_FA_49",
+    "pertanyaan": "Obat yang digunakan untuk membasmi cacing dalam perut manusia disebut obat...",
+    "opsi": [
+      "Antiemetik",
+      "Antipiretik",
+      "Antasida",
+      "Anthelmintik",
+      "Antiseptik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: Albendazol atau Pirantel Pamoat."
+  },
+  {
+    "id": "KU_FA_50",
+    "pertanyaan": "Zat yang membunuh atau menghambat pertumbuhan kuman pada permukaan kulit manusia disebut...",
+    "opsi": [
+      "Disinfektan",
+      "Antibiotik",
+      "Vitamin",
+      "Parfum",
+      "Antiseptik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Disinfektan digunakan untuk benda mati, antiseptik untuk jaringan hidup."
+  }
+]

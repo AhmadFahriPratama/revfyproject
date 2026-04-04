@@ -1,0 +1,47 @@
+{
+  "id": "adaptive-route-index",
+  "routes": [
+    {
+      "target": "UTBK",
+      "scoreBand": "<50",
+      "route": [
+        "materi/UTBK/utbk_materi_lengkap.json",
+        "soal/UTBK/utbk_latihan_Penalaran_Umum.json",
+        "tryout/UTBK/utbk_mini_drill_penalaran_umum_v01.json"
+      ]
+    },
+    {
+      "target": "UTBK",
+      "scoreBand": "50-75",
+      "route": [
+        "soal/UTBK/utbk_latihan_Pemahaman_Bacaan_dan_Menulis.json",
+        "tryout/UTBK/utbk_section_literasi_v01.json"
+      ]
+    },
+    {
+      "target": "CPNS",
+      "scoreBand": "<60",
+      "route": [
+        "materi/CPNS/cpns_materi_lengkap.json",
+        "soal/CPNS/cpns_tiu_latihan.json",
+        "tryout/CPNS/cpns_mini_drill_tiu_v01.json"
+      ]
+    },
+    {
+      "target": "CPNS",
+      "scoreBand": "60-80",
+      "route": [
+        "soal/CPNS/cpns_twk_latihan.json",
+        "tryout/CPNS/cpns_section_twk_v01.json"
+      ]
+    },
+    {
+      "target": "CPNS",
+      "scoreBand": ">80",
+      "route": [
+        "tryout/CPNS/cpns_final_sprint_v01.json",
+        "tryout/CPNS/cpns_tryout_master.json"
+      ]
+    }
+  ]
+}

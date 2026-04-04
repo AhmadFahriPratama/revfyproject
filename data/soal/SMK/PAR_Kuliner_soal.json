@@ -1,0 +1,652 @@
+[
+  {
+    "id": "PAR_KU_01",
+    "pertanyaan": "Teknik memotong sayuran menjadi bentuk balok kecil berukuran 1cm x 1cm x 1cm disebut...",
+    "opsi": [
+      "Macedoine",
+      "Julienne",
+      "Brunoise",
+      "Chiffonade",
+      "Jardiniere"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Macedoine adalah potongan dadu berukuran sekitar 1 cm."
+  },
+  {
+    "id": "PAR_KU_02",
+    "pertanyaan": "Teknik memasak dengan sedikit lemak/minyak di atas api besar disebut...",
+    "opsi": [
+      "Boiling",
+      "Sautéing (Menumis)",
+      "Steaming",
+      "Braising",
+      "Roasting"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sautéing bertujuan mematangkan bahan makanan secara cepat dengan sedikit lemak."
+  },
+  {
+    "id": "PAR_KU_03",
+    "pertanyaan": "Zat gizi yang berfungsi sebagai sumber energi utama bagi tubuh adalah...",
+    "opsi": [
+      "Protein",
+      "Lemak",
+      "Karbohidrat",
+      "Vitamin",
+      "Mineral"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Karbohidrat ditemukan pada nasi, gandum, umbi-umbian sebagai bahan bakar energi."
+  },
+  {
+    "id": "PAR_KU_04",
+    "pertanyaan": "Alat dapur yang digunakan untuk menyaring kaldu atau cairan disebut...",
+    "opsi": [
+      "Ladle",
+      "Skimmer",
+      "Whisk",
+      "Strainer / Chinois",
+      "Spatula"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Strainer atau Chinois memiliki jaring halus untuk memisahkan padatan dari cairan."
+  },
+  {
+    "id": "PAR_KU_05",
+    "pertanyaan": "Prinsip First In First Out (FIFO) dalam penyimpanan bahan makanan artinya...",
+    "opsi": [
+      "Bahan yang mahal harus disimpan",
+      "Bahan yang busuk dibuang",
+      "Makanan harus segera dimakan",
+      "Hanya bahan cair yang disimpan",
+      "Bahan yang pertama masuk harus pertama kali digunakan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "FIFO menjaga kesegaran stok dan mencegah kadaluarsa bahan makanan."
+  },
+  {
+    "id": "PAR_KU_06",
+    "pertanyaan": "Suhu penyimpanan ideal untuk daging segar di dalam chiller adalah...",
+    "opsi": [
+      "1 - 4 derajat Celcius",
+      "10 - 15 derajat Celcius",
+      "Minus 18 derajat Celcius",
+      "25 - 30 derajat Celcius",
+      "0 derajat Celcius saja"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Suhu chiller (lemari pendingin) menjaga bahan tetap segar tanpa membeku."
+  },
+  {
+    "id": "PAR_KU_07",
+    "pertanyaan": "Teknik memotong daun-daunan (seperti selada atau seledri) menjadi irisan tipis memanjang disebut...",
+    "opsi": [
+      "Julienne",
+      "Chiffonade",
+      "Paysanne",
+      "Chopped",
+      "Mince"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Chiffonade memberikan tekstur halus pada garnish daun."
+  },
+  {
+    "id": "PAR_KU_08",
+    "pertanyaan": "Bahan pengembang alami yang digunakan dalam pembuatan roti adalah...",
+    "opsi": [
+      "Baking Powder",
+      "Baking Soda",
+      "Yeast (Ragi)",
+      "SP / Ovalet",
+      "Telur"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Ragi adalah mikroorganisme yang menghasilkan gas CO2 sehingga adonan roti mengembang."
+  },
+  {
+    "id": "PAR_KU_09",
+    "pertanyaan": "Bagian dari telur yang berfungsi sebagai pengemulsi alami (emulsifier) adalah...",
+    "opsi": [
+      "Putih telur",
+      "Cangkang telur",
+      "Tali pusat telur",
+      "Kuning telur (Yolk)",
+      "Kulit ari telur"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lecithin pada kuning telur membantu menyatukan air dan minyak dalam saus seperti Mayonnaise."
+  },
+  {
+    "id": "PAR_KU_10",
+    "pertanyaan": "Saus dasar putih yang terbuat dari campuran susu dan roux (lemak + tepung) disebut...",
+    "opsi": [
+      "Velouté",
+      "Espagnole",
+      "Hollandaise",
+      "Tomato Sauce",
+      "Béchamel"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Béchamel adalah salah satu dari 5 Mother Sauces (saus induk) klasik."
+  },
+  {
+    "id": "PAR_KU_11",
+    "pertanyaan": "Daging sapi bagian punuk yang biasanya banyak mengandung lemak dan serat disebut...",
+    "opsi": [
+      "Chuck",
+      "Tenderloin",
+      "Sirloin",
+      "Blade / Sampil",
+      "Rib Eye"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Chuck berasal dari bagian depan (bahu/leher) sapi, cocok untuk masakan rebusan lama."
+  },
+  {
+    "id": "PAR_KU_12",
+    "pertanyaan": "Metode memasak dengan merendam bahan makanan di dalam minyak panas yang sangat banyak disebut...",
+    "opsi": [
+      "Shallow Frying",
+      "Deep Frying",
+      "Grilling",
+      "Poaching",
+      "Stewing"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh penggunaan deep frying adalah saat membuat ayam goreng krispi atau kentang goreng."
+  },
+  {
+    "id": "PAR_KU_13",
+    "pertanyaan": "Warna talenan (cutting board) yang khusus digunakan untuk memotong daging sapi/kambing mentah agar tidak kontaminasi silang adalah...",
+    "opsi": [
+      "Hijau",
+      "Kuning",
+      "Merah",
+      "Biru",
+      "Putih"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Warna merah dikhususkan untuk daging merah mentah di dapur profesional."
+  },
+  {
+    "id": "PAR_KU_14",
+    "pertanyaan": "Warna talenan untuk memotong buah dan sayuran adalah...",
+    "opsi": [
+      "Merah",
+      "Kuning",
+      "Biru",
+      "Hijau",
+      "Cokelat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hijau melambangkan kesegaran sayuran dan buah."
+  },
+  {
+    "id": "PAR_KU_15",
+    "pertanyaan": "Talenan warna biru di dapur profesional digunakan untuk...",
+    "opsi": [
+      "Ayam",
+      "Roti",
+      "Keju",
+      "Sampah",
+      "Ikan / Seafood"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Biru identik dengan produk laut (seafood)."
+  },
+  {
+    "id": "PAR_KU_16",
+    "pertanyaan": "HACCP adalah singkatan dari...",
+    "opsi": [
+      "Hazard Analysis Critical Control Point",
+      "Healthy Action Clean Cooking Place",
+      "High Acid Cooking Carbon Point",
+      "Handle All Cold Clean Plate",
+      "Hanya Ada Cara Cepat Pandai"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sistem manajemen keamanan pangan yang fokus pada pencegahan potensi bahaya."
+  },
+  {
+    "id": "PAR_KU_17",
+    "pertanyaan": "Zat yang memberikan rasa gurih alami pada masakan dan banyak ditemukan pada tomat atau jamur adalah...",
+    "opsi": [
+      "Gula",
+      "Glutamat",
+      "Garam",
+      "Kafein",
+      "Fruktosa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Glutamat adalah sumber rasa Umami (gurih)."
+  },
+  {
+    "id": "PAR_KU_18",
+    "pertanyaan": "Ketebalan potongan Julienne adalah sekitar...",
+    "opsi": [
+      "3mm x 3mm x 4cm",
+      "10mm x 10mm x 4cm",
+      "1mm x 1mm x 4cm",
+      "5cm x 5cm x 5cm",
+      "0,5mm x 0,5mm x 1cm"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Julienne sering disebut potongan korek api sangat halus."
+  },
+  {
+    "id": "PAR_KU_19",
+    "pertanyaan": "Potongan sayuran 'Jardiniere' memiliki ukuran...",
+    "opsi": [
+      "1mm x 1mm x 4cm",
+      "2cm x 2cm x 2cm",
+      "Sangat abstrak",
+      "5mm x 5mm x 4cm",
+      "Berbentuk bunga"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jardiniere lebih tebal daripada Julienne (potongan balok/batang)."
+  },
+  {
+    "id": "PAR_KU_20",
+    "pertanyaan": "Bumbu dasar merah pada masakan Indonesia terdiri dari...",
+    "opsi": [
+      "Bawang putih, bawang merah, ketumbar",
+      "Kunyit, jahe, lengkuas",
+      "Kemiri, merica, pala",
+      "Kecap manis, gula merah",
+      "Bawang putih, bawang merah, cabai merah"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bumbu merah digunakan untuk masakan seperti rendang atau balado."
+  },
+  {
+    "id": "PAR_KU_21",
+    "pertanyaan": "Metode memasak bahan makanan di dalam air mendidih yang bergejolak (suhu 100°C) disebut...",
+    "opsi": [
+      "Boiling (Merebus)",
+      "Poaching",
+      "Simmering",
+      "Blanching",
+      "Steaming"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Boiling merendam bahan sepenuhnya dalam air mendidih."
+  },
+  {
+    "id": "PAR_KU_22",
+    "pertanyaan": "Metode memasak bahan makanan di dalam cairan dengan suhu di bawah titik didih (85-95°C) disebut...",
+    "opsi": [
+      "Boiling",
+      "Simmering",
+      "Grilling",
+      "Baking",
+      "Frying"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Simmering bagus untuk membuat kaldu agar tidak keruh."
+  },
+  {
+    "id": "PAR_KU_23",
+    "pertanyaan": "Persentase keuntungan yang ditambahkan pada modal makanan disebut...",
+    "opsi": [
+      "Food Cost",
+      "Selling Price",
+      "Mark Up",
+      "Discount",
+      "Tax"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mark up menentukan margin laba per porsi makanan."
+  },
+  {
+    "id": "PAR_KU_24",
+    "pertanyaan": "Struktur manajemen dapur profesional yang dipimpin oleh kepala koki disebut...",
+    "opsi": [
+      "Restaurant Team",
+      "Cook Union",
+      "Patisserie Group",
+      "Kitchen Brigade",
+      "Baker Association"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sistem ini diperkenalkan oleh Auguste Escoffier untuk efisiensi kerja dapur."
+  },
+  {
+    "id": "PAR_KU_25",
+    "pertanyaan": "Koki yang bertugas khusus menangani pembuatan saus dan masakan tumis disebut...",
+    "opsi": [
+      "Pâtissier",
+      "Boulanger",
+      "Gardemanger",
+      "Entremetier",
+      "Saucier"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Saucier biasanya adalah posisi paling senior setelah Chef dan Sous Chef."
+  },
+  {
+    "id": "PAR_KU_26",
+    "pertanyaan": "Gardemanger adalah bagian dapur yang bertanggung jawab atas...",
+    "opsi": [
+      "Makanan dingin (salat, saus dingin, makanan pembuka dingin)",
+      "Makanan penutup manis",
+      "Sup dan nasi",
+      "Ikan saja",
+      "Daging panggang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Gardemanger mengelola kedinginan (pantry/cold kitchen)."
+  },
+  {
+    "id": "PAR_KU_27",
+    "pertanyaan": "Bahan cair yang dibuat dengan cara merebus lambat tulang hewan, sayuran, dan penyedap rasa disebut...",
+    "opsi": [
+      "Saus",
+      "Stock (Kaldu)",
+      "Sirup",
+      "Minyak",
+      "Cuka"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Stock adalah dasar untuk membuat sup dan saus berkualitas."
+  },
+  {
+    "id": "PAR_KU_28",
+    "pertanyaan": "White Stock dibuat dengan tulang yang...",
+    "opsi": [
+      "Dibakar dulu",
+      "Digoreng kering",
+      "Direbus langsung (blanched)",
+      "Dihancurkan jadi tepung",
+      "Dicampur gula"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tulang dicuci bersih dan direbus langsung untuk menjaga warna kaldu tetap bening."
+  },
+  {
+    "id": "PAR_KU_29",
+    "pertanyaan": "Mirepoix adalah campuran aroma dasar untuk kaldu yang terdiri dari...",
+    "opsi": [
+      "Bawang merah, cabai, jahe",
+      "Bawang putih, kunyit, sereh",
+      "Garam dan merica",
+      "Bawang bombay, wortel, seledri",
+      "Susu dan tepung"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mirepoix memberikan aroma dasar yang harum pada kaldu."
+  },
+  {
+    "id": "PAR_KU_30",
+    "pertanyaan": "Istilah 'Al Dente' pada pasta artinya...",
+    "opsi": [
+      "Pasta yang lembek sekali",
+      "Pasta yang mentah",
+      "Pasta yang hangus",
+      "Pasta yang dicampur susu",
+      "Pasta yang masih memiliki sedikit tekstur keras (gigit) saat dimakan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Al dente (bahasa Italia) berarti 'ke gigi'."
+  },
+  {
+    "id": "PAR_KU_31",
+    "pertanyaan": "Jenis sup kental yang terbuat dari kerang-kerangan atau seafood dan sayuran disebut...",
+    "opsi": [
+      "Bisque",
+      "Clear Soup",
+      "Consommé",
+      "Cream Soup",
+      "Chowder"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bisque sering menggunakan cangkang laut yang dihaluskan untuk rasa yang kaya."
+  },
+  {
+    "id": "PAR_KU_32",
+    "pertanyaan": "Alat pembakar bagian atas makanan (karamelisasi) dengan api gas genggam disebut...",
+    "opsi": [
+      "Microwave",
+      "Blowtorch",
+      "Oven",
+      "Toaster",
+      "Stove"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh: Untuk membuat lapisan gula keras pada Crème brûlée."
+  },
+  {
+    "id": "PAR_KU_33",
+    "pertanyaan": "Suhu penyimpanan ideal untuk barang beku (frozen) di dalam freezer adalah...",
+    "opsi": [
+      "Minus 5 derajat Celcius",
+      "0 derajat Celcius",
+      "Minus 18 derajat Celcius atau lebih rendah",
+      "5 derajat Celcius",
+      "10 derajat Celcius"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Suhu ini menghentikan total aktivitas bakteri."
+  },
+  {
+    "id": "PAR_KU_34",
+    "pertanyaan": "Cara mendinginkan masakan panas dengan cepat menggunakan es batu di luar wadah disebut...",
+    "opsi": [
+      "Boiling",
+      "Braising",
+      "Freezing",
+      "Ice Bath",
+      "Melting"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mencegah bakteri berkembang biak pada suhu hangat (Danger Zone)."
+  },
+  {
+    "id": "PAR_KU_35",
+    "pertanyaan": "Danger Zone atau rentang suhu di mana bakteri berkembang biak paling cepat adalah...",
+    "opsi": [
+      "0 - 10 derajat Celcius",
+      "70 - 100 derajat Celcius",
+      "Semua suhu aman",
+      "Hanya suhu ruangan saja",
+      "5 - 60 derajat Celcius"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Makanan jangan dibiarkan di suhu ini lebih dari 2-4 jam."
+  },
+  {
+    "id": "PAR_KU_36",
+    "pertanyaan": "Pakaian koki yang berwarna putih dan berlengan panjang berfungsi untuk...",
+    "opsi": [
+      "Melindungi diri dari panas dan api serta menunjukkan kebersihan",
+      "Supaya cantik",
+      "Menyerap keringat agar tidak gatal",
+      "Mencegah kedinginan",
+      "Hanya ciri khas saja"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Desain double-breasted melindungi dada dari percikan cairan panas."
+  },
+  {
+    "id": "PAR_KU_37",
+    "pertanyaan": "Metode memasak pastri dengan suhu oven tinggi di awal agar mengembang disebut...",
+    "opsi": [
+      "Roasting",
+      "Baking",
+      "Grilling",
+      "Poaching",
+      "Smoking"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Baking menggunakan udara panas kering di dalam ruang tertutup."
+  },
+  {
+    "id": "PAR_KU_38",
+    "pertanyaan": "Bahan utama pembuatan Mayonnaise adalah...",
+    "opsi": [
+      "Susu dan Tepung",
+      "Daging dan Cabai",
+      "Minyak dan Kuning Telur",
+      "Ikan dan Garam",
+      "Sayur dan Cuka"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mayonnaise adalah emulsi minyak dalam air dengan bantuan lecithin telur."
+  },
+  {
+    "id": "PAR_KU_39",
+    "pertanyaan": "Jenis sayuran yang diambil bagian umbinya adalah...",
+    "opsi": [
+      "Bayam dan Kangkung",
+      "Brokoli dan Bunga Kol",
+      "Buncis dan Kacang Panjang",
+      "Wortel dan Kentang",
+      "Tomat dan Mentimun"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Wortel dan kentang tumbuh di dalam tanah (Root vegetables)."
+  },
+  {
+    "id": "PAR_KU_40",
+    "pertanyaan": "Minuman yang disajikan untuk menghapus rasa sisa makanan pada mulut (pencuci mulut) disebut...",
+    "opsi": [
+      "Appetizer",
+      "Dessert",
+      "Aperitif",
+      "Mocktail",
+      "Digestif / Palate Cleanser"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Biasanya berupa sorbet atau minuman segar netral."
+  },
+  {
+    "id": "PAR_KU_41",
+    "pertanyaan": "Zat besi (fe) banyak terkandung dalam...",
+    "opsi": [
+      "Daging merah dan sayuran hijau",
+      "Nasi putih",
+      "Minyak kelapa",
+      "Garam",
+      "Jeruk"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penting untuk pembentukan hemoglobin darah."
+  },
+  {
+    "id": "PAR_KU_42",
+    "pertanyaan": "Teknik pengolahan ikan dengan membuang tulang dan menyisakan dagingnya saja disebut...",
+    "opsi": [
+      "Peeling",
+      "Filleting",
+      "Seeding",
+      "Zesting",
+      "Mincing"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Daging ikan tanpa tulang disebut 'fish fillet'."
+  },
+  {
+    "id": "PAR_KU_43",
+    "pertanyaan": "Ikan yang hidup di air tawar adalah...",
+    "opsi": [
+      "Tuna",
+      "Salmon",
+      "Gurami",
+      "Kembung",
+      "Tongkol"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Gurami, Nila, dan Lele adalah contoh ikan air tawar."
+  },
+  {
+    "id": "PAR_KU_44",
+    "pertanyaan": "Menu 'A la Minute' artinya masakan tersebut...",
+    "opsi": [
+      "Telah dimasak kemarin",
+      "Cepat saji tinggal panaskan",
+      "Harganya sangat mahal",
+      "Dimasak segera saat pelanggan memesan (fresh)",
+      "Hanya butuh 1 menit"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Menjamin kualitas kesegaran dan rasa maksimal masakan."
+  },
+  {
+    "id": "PAR_KU_45",
+    "pertanyaan": "Penerapan etika kerja di dapur meliputi...",
+    "opsi": [
+      "Boleh mengobrol keras",
+      "Makan sambil memasak",
+      "Berjalan lambat",
+      "Tidak pakai topi",
+      "Disiplin waktu, kerjasama tim, dan kejujuran"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Dapur profesional membutuhkan ritme kerja yang ketat dan bersih."
+  },
+  {
+    "id": "PAR_KU_46",
+    "pertanyaan": "Peralatan dapur yang terbuat dari bahan kayu (seperti ulekan/sutil kayu) harus diperhatikan karena...",
+    "opsi": [
+      "Mudah retak dan jadi tempat bakteri (porous)",
+      "Harganya mahal",
+      "Bisa terbakar",
+      "Sulit didapat",
+      "Warna kayunya cantik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kebersihan alat kayu harus ekstra dijaga agar tidak berjamur."
+  },
+  {
+    "id": "PAR_KU_47",
+    "pertanyaan": "Sepatu keselamatan (Safety Shoes) di dapur harus memiliki fitur...",
+    "opsi": [
+      "Hak tinggi",
+      "Anti licin (Slip-resistant) dan pelindung jari",
+      "Berbahan kain kain kanvas terbuka",
+      "Warna merah menyala",
+      "Bertali sangat panjang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mencegah terpeleset minyak atau air serta tertimpa benda berat."
+  },
+  {
+    "id": "PAR_KU_48",
+    "pertanyaan": "Apa itu 'Garnish'?",
+    "opsi": [
+      "Bahan utama",
+      "Bumbu rahasia",
+      "Hiasan makanan untuk mempercantik tampilan",
+      "Alat pemotong kue",
+      "Piring kotor"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Garnish sebaiknya bisa dimakan (edible) dan sesuai dengan rasa masakan."
+  },
+  {
+    "id": "PAR_KU_49",
+    "pertanyaan": "Tindakan mencuci tangan dengan sabun harus dilakukan minimal selama...",
+    "opsi": [
+      "2 detik",
+      "2 menit",
+      "10 menit",
+      "20 detik",
+      "Bebas saja"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Waktu ini cukup untuk membunuh kuman dan bakteri pada tangan."
+  },
+  {
+    "id": "PAR_KU_50",
+    "pertanyaan": "Jika masakan terlalu asin, salah satu cara menyeimbangkannya tanpa menambah air adalah dengan...",
+    "opsi": [
+      "Menambah garam lagi",
+      "Menambah cabai",
+      "Menambah minyak banyak",
+      "Dibiarkan saja",
+      "Menambah gula atau sedikit rasa asam (jeruk/cuka)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gula dan asam menetralkan persepsi rasa asin di lidah."
+  }
+]

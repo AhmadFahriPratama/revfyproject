@@ -1,0 +1,53 @@
+{
+  "judul": "Farmasi (Klinis dan Komunitas)",
+  "tingkatan": "KULIAH",
+  "jurusan": "Kesehatan / Farmasi",
+  "deskripsi": "Materi tingkat universitas mengenai farmakokinetika, farmakodinamika, kimia medisinal, farmakoterapi penyakit degeneratif, serta manajemen apotek dan regulasi obat.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Farmakologi Molekuler dan Farmakodinamika",
+      "konten": "Interaksi obat dengan reseptor, kanal ion, enzim, dan protein pembawa. Mekanisme kerja obat (agonis, antagonis), serta kurva dosis-respon.",
+      "tag": [
+        "kuliah farmasi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Farmakokinetika Lanjut",
+      "konten": "Proses ADME (Absorpsi, Distribusi, Metabolisme, Ekskresi). Parameter farmakokinetik (Waktu paruh, Klirens, Volume distribusi, Bioavailabilitas).",
+      "tag": [
+        "kuliah farmasi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Teknologi Sediaan Farmasi",
+      "konten": "Formulasi sediaan solid (tablet, kapsul), semi-solid (salep, krim), steril (injeksi, tetes mata), serta sistem penghantaran obat baru (Drug Delivery System).",
+      "tag": [
+        "kuliah farmasi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Farmakoterapi dan Interaksi Obat",
+      "konten": "Pengobatan penyakit sistem kardiovaskular, endokrin, pernapasan, saraf, serta identifikasi interaksi obat-obat dan obat-makanan yang berbahaya secara klinis.",
+      "tag": [
+        "kuliah farmasi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Farmasi Industri dan Regulasi",
+      "konten": "CPOB (Cara Pembuatan Obat yang Baik), pengembangan obat baru (R&D), uji klinis, registrasi obat di BPOM, serta manajemen logistik farmasi.",
+      "tag": [
+        "kuliah farmasi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-farmasi-materi",
+  "mapel": "Farmasi (Klinis dan Komunitas)",
+  "tag": [
+    "kuliah farmasi materi"
+  ]
+}

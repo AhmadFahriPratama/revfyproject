@@ -1,0 +1,708 @@
+{
+  "id": "smp-8-pjok",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "PJOK",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-8-pjok-01",
+      "teks": "Gerak spesifik pada permainan sepak bola untuk memasukkan bola sekuat-kuatnya ke gawang lawan dengan kecepatan tinggi lazim disebut... (Latihan #1)",
+      "opsi": {
+        "A": "Shooting",
+        "B": "Passing",
+        "C": "Dribbling",
+        "D": "Tackling",
+        "E": "Heading"
+      },
+      "kunci": "A",
+      "pembahasan": "Menembak bola (Shooting) bertujuan langsung untuk mencetak gol menembus pertahanan kiper.",
+      "trik": "Tembak (ke gawang) = Shooting."
+    },
+    {
+      "id": "smp-8-pjok-02",
+      "teks": "Pukulan dalam bola voli yang dilakukan sangat keras, menukik tajam ke bawah lapangan pertahanan musuh dengan melompat tinggi disebut... (Latihan #2)",
+      "opsi": {
+        "A": "Servis atas",
+        "B": "Smash (Spike)",
+        "C": "Blocking",
+        "D": "Passing bawah",
+        "E": "Set up"
+      },
+      "kunci": "B",
+      "pembahasan": "Smash atau Spike adalah pukulan agresif paling mematikan dalam Voli untuk mencetak poin langsung.",
+      "trik": "Pukulan lompat keras voli = Smash/Spike."
+    },
+    {
+      "id": "smp-8-pjok-03",
+      "teks": "Kebugaran jasmani yang diartikan sbg kemampuan seseorang mengubah arah posisi badan dengan kecepatan tinggi dan keseimbangan yang pas disebut... (Latihan #3)",
+      "opsi": {
+        "A": "Kecepatan (Speed)",
+        "B": "Kekuatan (Strength)",
+        "C": "Kelincahan (Agility)",
+        "D": "Daya tahan (Endurance)",
+        "E": "Kelenturan (Flexibility)"
+      },
+      "kunci": "C",
+      "pembahasan": "Agility (Kelincahan) adalah kombinasi kecepatan dng keseimbangan dalam mengubah poros arah (misal lewat lari zig-zag/shuttle run).",
+      "trik": "Cepat mengubah arah tanpa jatuh = Lincah (Agility)."
+    },
+    {
+      "id": "smp-8-pjok-04",
+      "teks": "Latihan lari bolak-balik dalam jarak tertentu secara secepat mungkin (Shuttle Run) bertujuan utama untuk melatih... (Latihan #4)",
+      "opsi": {
+        "A": "Daya tahan jantung paru",
+        "B": "Fleksibilitas otot bokong",
+        "C": "Kekuatan lengan barbel",
+        "D": "Kelincahan/Agility pergerakan tungkai",
+        "E": "Ketepatan mata pelempar"
+      },
+      "kunci": "D",
+      "pembahasan": "Shuttle run mensyaratkan pelari berlari lurus, lalu memutar arah 180 derajat secapat kilat (melatih kelincahan mengubah posisi mendadak).",
+      "trik": "Shuttle run bolak-balik = Latihan Kelincahan."
+    },
+    {
+      "id": "smp-8-pjok-05",
+      "teks": "Pada nomor lari jarak menengah/jauh (spt 1.500 m), start yang paling lumrah digunakan pelari adalah jenis start... (Latihan #5)",
+      "opsi": {
+        "A": "Jongkok (Bunch start)",
+        "B": "Melayang (Flying start)",
+        "C": "Menengah (Medium start)",
+        "D": "Tidur (Lying down start)",
+        "E": "Berdiri (Standing start)"
+      },
+      "kunci": "E",
+      "pembahasan": "Lari sprint/cepat (100m) pakai jongkok. Sedangkan Menengah/Jauh pakai berdiri agar gampang menghemat energi ritme nafas.",
+      "trik": "Lari jauh santai awalan = Berdiri."
+    },
+    {
+      "id": "smp-8-pjok-06",
+      "teks": "Gaya tolak peluru yang pemainya melakukan gerakan awalan dng cara membelakangi arah lemparan sektor lapangan dinamakan gaya... (Latihan #6)",
+      "opsi": {
+        "A": "O'brien",
+        "B": "Ortodoks",
+        "C": "Melingkar / Spin",
+        "D": "Flop",
+        "E": "Stradel"
+      },
+      "kunci": "A",
+      "pembahasan": "Gaya tolak peluru membelakangi arah lemparan diciptakan oleh atlet Parry O'Brien (Gaya O'brien). Menyamping itu gaya lama (Ortodoks).",
+      "trik": "Tolak peluru memutar punggung/membelakangi = O'brien."
+    },
+    {
+      "id": "smp-8-pjok-07",
+      "teks": "Dalam gerakan senam lantai meroda (Cartwheel), penumpu utama berat badan saat badan posisis terbaik jungkir balik ke samping adalah bertumpu pada... (Latihan #7)",
+      "opsi": {
+        "A": "Kedua kaki menendang atas",
+        "B": "Kedua telapak tangan secara bergantian",
+        "C": "Tengkuk leher berputar",
+        "D": "Punggung",
+        "E": "Kepala ubun-ubun"
+      },
+      "kunci": "B",
+      "pembahasan": "Meroda dilakukan dengan melempar kaki ke samping atas sementara tumpuan berada pada 2 telapak tangan tegak di lantai bagaikan ruji roda.",
+      "trik": "Meroda samping spt roda putar berporos di tapak tangan."
+    },
+    {
+      "id": "smp-8-pjok-08",
+      "teks": "Sikap senam lantai berbaring memanjangkan kedua kaki lurus keatas rapat menempel didukung topangan pinggang pakai 2 tangan di atas matras disebut sikap... (Latihan #8)",
+      "opsi": {
+        "A": "Handstand",
+        "B": "Headstand",
+        "C": "Lilin",
+        "D": "Kayang",
+        "E": "Guling ke belakang"
+      },
+      "kunci": "C",
+      "pembahasan": "Sikap Lilin (Shoulder stand) bertumpu punggung bahu dengan menaikkan kaki vertikal sejajar batang lilin.",
+      "trik": "Mirip batang tegak lilin lilin."
+    },
+    {
+      "id": "smp-8-pjok-09",
+      "teks": "Penyakit kelamin akibat infeksi menular merusak sistem kekebalan (imun) tubuh manusia secara ganas hingga penderitanya bisa mati kena sakit biasa akibat HIV disebut... (Latihan #9)",
+      "opsi": {
+        "A": "Sifilis",
+        "B": "TBC / Tuberkulosis",
+        "C": "Haid/Menstruasi",
+        "D": "AIDS (Acquired Immunodeficiency Syndrome)",
+        "E": "Kanker servik"
+      },
+      "kunci": "D",
+      "pembahasan": "HIV adalah virus yg merusak sel CD4 penderita, kondisi klimaks kerusakan hancurnya pertahanan tubuh itu dinamakan AIDS.",
+      "trik": "Sistem Imun Rusak = AIDS."
+    },
+    {
+      "id": "smp-8-pjok-10",
+      "teks": "Manakah cara yang BUKAN menjadi media penularan virus penyebab HIV/AIDS ... (Latihan #10)",
+      "opsi": {
+        "A": "Berganti-ganti pasangan pergaulan bebas (Hubungan seks tidak sehat)",
+        "B": "Berbagi jarum suntik bekas bergantian pada pemakaian narkoba",
+        "C": "Transfusi darah / Transplantasi organ dng stok darah yang terkontaminasi",
+        "D": "Ditransmisikan ibu penderita HIV ke bayinya saat kehamilan ASI",
+        "E": "Berenang di kolam umum yang sama, bersentuhan kulit, dan bertukar alat makan"
+      },
+      "kunci": "E",
+      "pembahasan": "HIV/AIDS HANYA lewat Cairan darah/sperma/vagina. Kontak sosial basan spt bersalaman pelukan dan sharing makan kolam TAK AKAN pernuarkan HIV.",
+      "trik": "HIV gak nular cuman lewat air liur renang pelukan."
+    },
+    {
+      "id": "smp-8-pjok-11",
+      "teks": "Gerak spesifik pada permainan sepak bola untuk memasukkan bola sekuat-kuatnya ke gawang lawan dengan kecepatan tinggi lazim disebut... (Latihan #11)",
+      "opsi": {
+        "A": "Shooting",
+        "B": "Passing",
+        "C": "Dribbling",
+        "D": "Tackling",
+        "E": "Heading"
+      },
+      "kunci": "A",
+      "pembahasan": "Menembak bola (Shooting) bertujuan langsung untuk mencetak gol menembus pertahanan kiper.",
+      "trik": "Tembak (ke gawang) = Shooting."
+    },
+    {
+      "id": "smp-8-pjok-12",
+      "teks": "Pukulan dalam bola voli yang dilakukan sangat keras, menukik tajam ke bawah lapangan pertahanan musuh dengan melompat tinggi disebut... (Latihan #12)",
+      "opsi": {
+        "A": "Servis atas",
+        "B": "Smash (Spike)",
+        "C": "Blocking",
+        "D": "Passing bawah",
+        "E": "Set up"
+      },
+      "kunci": "B",
+      "pembahasan": "Smash atau Spike adalah pukulan agresif paling mematikan dalam Voli untuk mencetak poin langsung.",
+      "trik": "Pukulan lompat keras voli = Smash/Spike."
+    },
+    {
+      "id": "smp-8-pjok-13",
+      "teks": "Kebugaran jasmani yang diartikan sbg kemampuan seseorang mengubah arah posisi badan dengan kecepatan tinggi dan keseimbangan yang pas disebut... (Latihan #13)",
+      "opsi": {
+        "A": "Kecepatan (Speed)",
+        "B": "Kekuatan (Strength)",
+        "C": "Kelincahan (Agility)",
+        "D": "Daya tahan (Endurance)",
+        "E": "Kelenturan (Flexibility)"
+      },
+      "kunci": "C",
+      "pembahasan": "Agility (Kelincahan) adalah kombinasi kecepatan dng keseimbangan dalam mengubah poros arah (misal lewat lari zig-zag/shuttle run).",
+      "trik": "Cepat mengubah arah tanpa jatuh = Lincah (Agility)."
+    },
+    {
+      "id": "smp-8-pjok-14",
+      "teks": "Latihan lari bolak-balik dalam jarak tertentu secara secepat mungkin (Shuttle Run) bertujuan utama untuk melatih... (Latihan #14)",
+      "opsi": {
+        "A": "Daya tahan jantung paru",
+        "B": "Fleksibilitas otot bokong",
+        "C": "Kekuatan lengan barbel",
+        "D": "Kelincahan/Agility pergerakan tungkai",
+        "E": "Ketepatan mata pelempar"
+      },
+      "kunci": "D",
+      "pembahasan": "Shuttle run mensyaratkan pelari berlari lurus, lalu memutar arah 180 derajat secapat kilat (melatih kelincahan mengubah posisi mendadak).",
+      "trik": "Shuttle run bolak-balik = Latihan Kelincahan."
+    },
+    {
+      "id": "smp-8-pjok-15",
+      "teks": "Pada nomor lari jarak menengah/jauh (spt 1.500 m), start yang paling lumrah digunakan pelari adalah jenis start... (Latihan #15)",
+      "opsi": {
+        "A": "Jongkok (Bunch start)",
+        "B": "Melayang (Flying start)",
+        "C": "Menengah (Medium start)",
+        "D": "Tidur (Lying down start)",
+        "E": "Berdiri (Standing start)"
+      },
+      "kunci": "E",
+      "pembahasan": "Lari sprint/cepat (100m) pakai jongkok. Sedangkan Menengah/Jauh pakai berdiri agar gampang menghemat energi ritme nafas.",
+      "trik": "Lari jauh santai awalan = Berdiri."
+    },
+    {
+      "id": "smp-8-pjok-16",
+      "teks": "Gaya tolak peluru yang pemainya melakukan gerakan awalan dng cara membelakangi arah lemparan sektor lapangan dinamakan gaya... (Latihan #16)",
+      "opsi": {
+        "A": "O'brien",
+        "B": "Ortodoks",
+        "C": "Melingkar / Spin",
+        "D": "Flop",
+        "E": "Stradel"
+      },
+      "kunci": "A",
+      "pembahasan": "Gaya tolak peluru membelakangi arah lemparan diciptakan oleh atlet Parry O'Brien (Gaya O'brien). Menyamping itu gaya lama (Ortodoks).",
+      "trik": "Tolak peluru memutar punggung/membelakangi = O'brien."
+    },
+    {
+      "id": "smp-8-pjok-17",
+      "teks": "Dalam gerakan senam lantai meroda (Cartwheel), penumpu utama berat badan saat badan posisis terbaik jungkir balik ke samping adalah bertumpu pada... (Latihan #17)",
+      "opsi": {
+        "A": "Kedua kaki menendang atas",
+        "B": "Kedua telapak tangan secara bergantian",
+        "C": "Tengkuk leher berputar",
+        "D": "Punggung",
+        "E": "Kepala ubun-ubun"
+      },
+      "kunci": "B",
+      "pembahasan": "Meroda dilakukan dengan melempar kaki ke samping atas sementara tumpuan berada pada 2 telapak tangan tegak di lantai bagaikan ruji roda.",
+      "trik": "Meroda samping spt roda putar berporos di tapak tangan."
+    },
+    {
+      "id": "smp-8-pjok-18",
+      "teks": "Sikap senam lantai berbaring memanjangkan kedua kaki lurus keatas rapat menempel didukung topangan pinggang pakai 2 tangan di atas matras disebut sikap... (Latihan #18)",
+      "opsi": {
+        "A": "Handstand",
+        "B": "Headstand",
+        "C": "Lilin",
+        "D": "Kayang",
+        "E": "Guling ke belakang"
+      },
+      "kunci": "C",
+      "pembahasan": "Sikap Lilin (Shoulder stand) bertumpu punggung bahu dengan menaikkan kaki vertikal sejajar batang lilin.",
+      "trik": "Mirip batang tegak lilin lilin."
+    },
+    {
+      "id": "smp-8-pjok-19",
+      "teks": "Penyakit kelamin akibat infeksi menular merusak sistem kekebalan (imun) tubuh manusia secara ganas hingga penderitanya bisa mati kena sakit biasa akibat HIV disebut... (Latihan #19)",
+      "opsi": {
+        "A": "Sifilis",
+        "B": "TBC / Tuberkulosis",
+        "C": "Haid/Menstruasi",
+        "D": "AIDS (Acquired Immunodeficiency Syndrome)",
+        "E": "Kanker servik"
+      },
+      "kunci": "D",
+      "pembahasan": "HIV adalah virus yg merusak sel CD4 penderita, kondisi klimaks kerusakan hancurnya pertahanan tubuh itu dinamakan AIDS.",
+      "trik": "Sistem Imun Rusak = AIDS."
+    },
+    {
+      "id": "smp-8-pjok-20",
+      "teks": "Manakah cara yang BUKAN menjadi media penularan virus penyebab HIV/AIDS ... (Latihan #20)",
+      "opsi": {
+        "A": "Berganti-ganti pasangan pergaulan bebas (Hubungan seks tidak sehat)",
+        "B": "Berbagi jarum suntik bekas bergantian pada pemakaian narkoba",
+        "C": "Transfusi darah / Transplantasi organ dng stok darah yang terkontaminasi",
+        "D": "Ditransmisikan ibu penderita HIV ke bayinya saat kehamilan ASI",
+        "E": "Berenang di kolam umum yang sama, bersentuhan kulit, dan bertukar alat makan"
+      },
+      "kunci": "E",
+      "pembahasan": "HIV/AIDS HANYA lewat Cairan darah/sperma/vagina. Kontak sosial basan spt bersalaman pelukan dan sharing makan kolam TAK AKAN pernuarkan HIV.",
+      "trik": "HIV gak nular cuman lewat air liur renang pelukan."
+    },
+    {
+      "id": "smp-8-pjok-21",
+      "teks": "Gerak spesifik pada permainan sepak bola untuk memasukkan bola sekuat-kuatnya ke gawang lawan dengan kecepatan tinggi lazim disebut... (Latihan #21)",
+      "opsi": {
+        "A": "Shooting",
+        "B": "Passing",
+        "C": "Dribbling",
+        "D": "Tackling",
+        "E": "Heading"
+      },
+      "kunci": "A",
+      "pembahasan": "Menembak bola (Shooting) bertujuan langsung untuk mencetak gol menembus pertahanan kiper.",
+      "trik": "Tembak (ke gawang) = Shooting."
+    },
+    {
+      "id": "smp-8-pjok-22",
+      "teks": "Pukulan dalam bola voli yang dilakukan sangat keras, menukik tajam ke bawah lapangan pertahanan musuh dengan melompat tinggi disebut... (Latihan #22)",
+      "opsi": {
+        "A": "Servis atas",
+        "B": "Smash (Spike)",
+        "C": "Blocking",
+        "D": "Passing bawah",
+        "E": "Set up"
+      },
+      "kunci": "B",
+      "pembahasan": "Smash atau Spike adalah pukulan agresif paling mematikan dalam Voli untuk mencetak poin langsung.",
+      "trik": "Pukulan lompat keras voli = Smash/Spike."
+    },
+    {
+      "id": "smp-8-pjok-23",
+      "teks": "Kebugaran jasmani yang diartikan sbg kemampuan seseorang mengubah arah posisi badan dengan kecepatan tinggi dan keseimbangan yang pas disebut... (Latihan #23)",
+      "opsi": {
+        "A": "Kecepatan (Speed)",
+        "B": "Kekuatan (Strength)",
+        "C": "Kelincahan (Agility)",
+        "D": "Daya tahan (Endurance)",
+        "E": "Kelenturan (Flexibility)"
+      },
+      "kunci": "C",
+      "pembahasan": "Agility (Kelincahan) adalah kombinasi kecepatan dng keseimbangan dalam mengubah poros arah (misal lewat lari zig-zag/shuttle run).",
+      "trik": "Cepat mengubah arah tanpa jatuh = Lincah (Agility)."
+    },
+    {
+      "id": "smp-8-pjok-24",
+      "teks": "Latihan lari bolak-balik dalam jarak tertentu secara secepat mungkin (Shuttle Run) bertujuan utama untuk melatih... (Latihan #24)",
+      "opsi": {
+        "A": "Daya tahan jantung paru",
+        "B": "Fleksibilitas otot bokong",
+        "C": "Kekuatan lengan barbel",
+        "D": "Kelincahan/Agility pergerakan tungkai",
+        "E": "Ketepatan mata pelempar"
+      },
+      "kunci": "D",
+      "pembahasan": "Shuttle run mensyaratkan pelari berlari lurus, lalu memutar arah 180 derajat secapat kilat (melatih kelincahan mengubah posisi mendadak).",
+      "trik": "Shuttle run bolak-balik = Latihan Kelincahan."
+    },
+    {
+      "id": "smp-8-pjok-25",
+      "teks": "Pada nomor lari jarak menengah/jauh (spt 1.500 m), start yang paling lumrah digunakan pelari adalah jenis start... (Latihan #25)",
+      "opsi": {
+        "A": "Jongkok (Bunch start)",
+        "B": "Melayang (Flying start)",
+        "C": "Menengah (Medium start)",
+        "D": "Tidur (Lying down start)",
+        "E": "Berdiri (Standing start)"
+      },
+      "kunci": "E",
+      "pembahasan": "Lari sprint/cepat (100m) pakai jongkok. Sedangkan Menengah/Jauh pakai berdiri agar gampang menghemat energi ritme nafas.",
+      "trik": "Lari jauh santai awalan = Berdiri."
+    },
+    {
+      "id": "smp-8-pjok-26",
+      "teks": "Gaya tolak peluru yang pemainya melakukan gerakan awalan dng cara membelakangi arah lemparan sektor lapangan dinamakan gaya... (Latihan #26)",
+      "opsi": {
+        "A": "O'brien",
+        "B": "Ortodoks",
+        "C": "Melingkar / Spin",
+        "D": "Flop",
+        "E": "Stradel"
+      },
+      "kunci": "A",
+      "pembahasan": "Gaya tolak peluru membelakangi arah lemparan diciptakan oleh atlet Parry O'Brien (Gaya O'brien). Menyamping itu gaya lama (Ortodoks).",
+      "trik": "Tolak peluru memutar punggung/membelakangi = O'brien."
+    },
+    {
+      "id": "smp-8-pjok-27",
+      "teks": "Dalam gerakan senam lantai meroda (Cartwheel), penumpu utama berat badan saat badan posisis terbaik jungkir balik ke samping adalah bertumpu pada... (Latihan #27)",
+      "opsi": {
+        "A": "Kedua kaki menendang atas",
+        "B": "Kedua telapak tangan secara bergantian",
+        "C": "Tengkuk leher berputar",
+        "D": "Punggung",
+        "E": "Kepala ubun-ubun"
+      },
+      "kunci": "B",
+      "pembahasan": "Meroda dilakukan dengan melempar kaki ke samping atas sementara tumpuan berada pada 2 telapak tangan tegak di lantai bagaikan ruji roda.",
+      "trik": "Meroda samping spt roda putar berporos di tapak tangan."
+    },
+    {
+      "id": "smp-8-pjok-28",
+      "teks": "Sikap senam lantai berbaring memanjangkan kedua kaki lurus keatas rapat menempel didukung topangan pinggang pakai 2 tangan di atas matras disebut sikap... (Latihan #28)",
+      "opsi": {
+        "A": "Handstand",
+        "B": "Headstand",
+        "C": "Lilin",
+        "D": "Kayang",
+        "E": "Guling ke belakang"
+      },
+      "kunci": "C",
+      "pembahasan": "Sikap Lilin (Shoulder stand) bertumpu punggung bahu dengan menaikkan kaki vertikal sejajar batang lilin.",
+      "trik": "Mirip batang tegak lilin lilin."
+    },
+    {
+      "id": "smp-8-pjok-29",
+      "teks": "Penyakit kelamin akibat infeksi menular merusak sistem kekebalan (imun) tubuh manusia secara ganas hingga penderitanya bisa mati kena sakit biasa akibat HIV disebut... (Latihan #29)",
+      "opsi": {
+        "A": "Sifilis",
+        "B": "TBC / Tuberkulosis",
+        "C": "Haid/Menstruasi",
+        "D": "AIDS (Acquired Immunodeficiency Syndrome)",
+        "E": "Kanker servik"
+      },
+      "kunci": "D",
+      "pembahasan": "HIV adalah virus yg merusak sel CD4 penderita, kondisi klimaks kerusakan hancurnya pertahanan tubuh itu dinamakan AIDS.",
+      "trik": "Sistem Imun Rusak = AIDS."
+    },
+    {
+      "id": "smp-8-pjok-30",
+      "teks": "Manakah cara yang BUKAN menjadi media penularan virus penyebab HIV/AIDS ... (Latihan #30)",
+      "opsi": {
+        "A": "Berganti-ganti pasangan pergaulan bebas (Hubungan seks tidak sehat)",
+        "B": "Berbagi jarum suntik bekas bergantian pada pemakaian narkoba",
+        "C": "Transfusi darah / Transplantasi organ dng stok darah yang terkontaminasi",
+        "D": "Ditransmisikan ibu penderita HIV ke bayinya saat kehamilan ASI",
+        "E": "Berenang di kolam umum yang sama, bersentuhan kulit, dan bertukar alat makan"
+      },
+      "kunci": "E",
+      "pembahasan": "HIV/AIDS HANYA lewat Cairan darah/sperma/vagina. Kontak sosial basan spt bersalaman pelukan dan sharing makan kolam TAK AKAN pernuarkan HIV.",
+      "trik": "HIV gak nular cuman lewat air liur renang pelukan."
+    },
+    {
+      "id": "smp-8-pjok-31",
+      "teks": "Gerak spesifik pada permainan sepak bola untuk memasukkan bola sekuat-kuatnya ke gawang lawan dengan kecepatan tinggi lazim disebut... (Latihan #31)",
+      "opsi": {
+        "A": "Shooting",
+        "B": "Passing",
+        "C": "Dribbling",
+        "D": "Tackling",
+        "E": "Heading"
+      },
+      "kunci": "A",
+      "pembahasan": "Menembak bola (Shooting) bertujuan langsung untuk mencetak gol menembus pertahanan kiper.",
+      "trik": "Tembak (ke gawang) = Shooting."
+    },
+    {
+      "id": "smp-8-pjok-32",
+      "teks": "Pukulan dalam bola voli yang dilakukan sangat keras, menukik tajam ke bawah lapangan pertahanan musuh dengan melompat tinggi disebut... (Latihan #32)",
+      "opsi": {
+        "A": "Servis atas",
+        "B": "Smash (Spike)",
+        "C": "Blocking",
+        "D": "Passing bawah",
+        "E": "Set up"
+      },
+      "kunci": "B",
+      "pembahasan": "Smash atau Spike adalah pukulan agresif paling mematikan dalam Voli untuk mencetak poin langsung.",
+      "trik": "Pukulan lompat keras voli = Smash/Spike."
+    },
+    {
+      "id": "smp-8-pjok-33",
+      "teks": "Kebugaran jasmani yang diartikan sbg kemampuan seseorang mengubah arah posisi badan dengan kecepatan tinggi dan keseimbangan yang pas disebut... (Latihan #33)",
+      "opsi": {
+        "A": "Kecepatan (Speed)",
+        "B": "Kekuatan (Strength)",
+        "C": "Kelincahan (Agility)",
+        "D": "Daya tahan (Endurance)",
+        "E": "Kelenturan (Flexibility)"
+      },
+      "kunci": "C",
+      "pembahasan": "Agility (Kelincahan) adalah kombinasi kecepatan dng keseimbangan dalam mengubah poros arah (misal lewat lari zig-zag/shuttle run).",
+      "trik": "Cepat mengubah arah tanpa jatuh = Lincah (Agility)."
+    },
+    {
+      "id": "smp-8-pjok-34",
+      "teks": "Latihan lari bolak-balik dalam jarak tertentu secara secepat mungkin (Shuttle Run) bertujuan utama untuk melatih... (Latihan #34)",
+      "opsi": {
+        "A": "Daya tahan jantung paru",
+        "B": "Fleksibilitas otot bokong",
+        "C": "Kekuatan lengan barbel",
+        "D": "Kelincahan/Agility pergerakan tungkai",
+        "E": "Ketepatan mata pelempar"
+      },
+      "kunci": "D",
+      "pembahasan": "Shuttle run mensyaratkan pelari berlari lurus, lalu memutar arah 180 derajat secapat kilat (melatih kelincahan mengubah posisi mendadak).",
+      "trik": "Shuttle run bolak-balik = Latihan Kelincahan."
+    },
+    {
+      "id": "smp-8-pjok-35",
+      "teks": "Pada nomor lari jarak menengah/jauh (spt 1.500 m), start yang paling lumrah digunakan pelari adalah jenis start... (Latihan #35)",
+      "opsi": {
+        "A": "Jongkok (Bunch start)",
+        "B": "Melayang (Flying start)",
+        "C": "Menengah (Medium start)",
+        "D": "Tidur (Lying down start)",
+        "E": "Berdiri (Standing start)"
+      },
+      "kunci": "E",
+      "pembahasan": "Lari sprint/cepat (100m) pakai jongkok. Sedangkan Menengah/Jauh pakai berdiri agar gampang menghemat energi ritme nafas.",
+      "trik": "Lari jauh santai awalan = Berdiri."
+    },
+    {
+      "id": "smp-8-pjok-36",
+      "teks": "Gaya tolak peluru yang pemainya melakukan gerakan awalan dng cara membelakangi arah lemparan sektor lapangan dinamakan gaya... (Latihan #36)",
+      "opsi": {
+        "A": "O'brien",
+        "B": "Ortodoks",
+        "C": "Melingkar / Spin",
+        "D": "Flop",
+        "E": "Stradel"
+      },
+      "kunci": "A",
+      "pembahasan": "Gaya tolak peluru membelakangi arah lemparan diciptakan oleh atlet Parry O'Brien (Gaya O'brien). Menyamping itu gaya lama (Ortodoks).",
+      "trik": "Tolak peluru memutar punggung/membelakangi = O'brien."
+    },
+    {
+      "id": "smp-8-pjok-37",
+      "teks": "Dalam gerakan senam lantai meroda (Cartwheel), penumpu utama berat badan saat badan posisis terbaik jungkir balik ke samping adalah bertumpu pada... (Latihan #37)",
+      "opsi": {
+        "A": "Kedua kaki menendang atas",
+        "B": "Kedua telapak tangan secara bergantian",
+        "C": "Tengkuk leher berputar",
+        "D": "Punggung",
+        "E": "Kepala ubun-ubun"
+      },
+      "kunci": "B",
+      "pembahasan": "Meroda dilakukan dengan melempar kaki ke samping atas sementara tumpuan berada pada 2 telapak tangan tegak di lantai bagaikan ruji roda.",
+      "trik": "Meroda samping spt roda putar berporos di tapak tangan."
+    },
+    {
+      "id": "smp-8-pjok-38",
+      "teks": "Sikap senam lantai berbaring memanjangkan kedua kaki lurus keatas rapat menempel didukung topangan pinggang pakai 2 tangan di atas matras disebut sikap... (Latihan #38)",
+      "opsi": {
+        "A": "Handstand",
+        "B": "Headstand",
+        "C": "Lilin",
+        "D": "Kayang",
+        "E": "Guling ke belakang"
+      },
+      "kunci": "C",
+      "pembahasan": "Sikap Lilin (Shoulder stand) bertumpu punggung bahu dengan menaikkan kaki vertikal sejajar batang lilin.",
+      "trik": "Mirip batang tegak lilin lilin."
+    },
+    {
+      "id": "smp-8-pjok-39",
+      "teks": "Penyakit kelamin akibat infeksi menular merusak sistem kekebalan (imun) tubuh manusia secara ganas hingga penderitanya bisa mati kena sakit biasa akibat HIV disebut... (Latihan #39)",
+      "opsi": {
+        "A": "Sifilis",
+        "B": "TBC / Tuberkulosis",
+        "C": "Haid/Menstruasi",
+        "D": "AIDS (Acquired Immunodeficiency Syndrome)",
+        "E": "Kanker servik"
+      },
+      "kunci": "D",
+      "pembahasan": "HIV adalah virus yg merusak sel CD4 penderita, kondisi klimaks kerusakan hancurnya pertahanan tubuh itu dinamakan AIDS.",
+      "trik": "Sistem Imun Rusak = AIDS."
+    },
+    {
+      "id": "smp-8-pjok-40",
+      "teks": "Manakah cara yang BUKAN menjadi media penularan virus penyebab HIV/AIDS ... (Latihan #40)",
+      "opsi": {
+        "A": "Berganti-ganti pasangan pergaulan bebas (Hubungan seks tidak sehat)",
+        "B": "Berbagi jarum suntik bekas bergantian pada pemakaian narkoba",
+        "C": "Transfusi darah / Transplantasi organ dng stok darah yang terkontaminasi",
+        "D": "Ditransmisikan ibu penderita HIV ke bayinya saat kehamilan ASI",
+        "E": "Berenang di kolam umum yang sama, bersentuhan kulit, dan bertukar alat makan"
+      },
+      "kunci": "E",
+      "pembahasan": "HIV/AIDS HANYA lewat Cairan darah/sperma/vagina. Kontak sosial basan spt bersalaman pelukan dan sharing makan kolam TAK AKAN pernuarkan HIV.",
+      "trik": "HIV gak nular cuman lewat air liur renang pelukan."
+    },
+    {
+      "id": "smp-8-pjok-41",
+      "teks": "Gerak spesifik pada permainan sepak bola untuk memasukkan bola sekuat-kuatnya ke gawang lawan dengan kecepatan tinggi lazim disebut... (Latihan #41)",
+      "opsi": {
+        "A": "Shooting",
+        "B": "Passing",
+        "C": "Dribbling",
+        "D": "Tackling",
+        "E": "Heading"
+      },
+      "kunci": "A",
+      "pembahasan": "Menembak bola (Shooting) bertujuan langsung untuk mencetak gol menembus pertahanan kiper.",
+      "trik": "Tembak (ke gawang) = Shooting."
+    },
+    {
+      "id": "smp-8-pjok-42",
+      "teks": "Pukulan dalam bola voli yang dilakukan sangat keras, menukik tajam ke bawah lapangan pertahanan musuh dengan melompat tinggi disebut... (Latihan #42)",
+      "opsi": {
+        "A": "Servis atas",
+        "B": "Smash (Spike)",
+        "C": "Blocking",
+        "D": "Passing bawah",
+        "E": "Set up"
+      },
+      "kunci": "B",
+      "pembahasan": "Smash atau Spike adalah pukulan agresif paling mematikan dalam Voli untuk mencetak poin langsung.",
+      "trik": "Pukulan lompat keras voli = Smash/Spike."
+    },
+    {
+      "id": "smp-8-pjok-43",
+      "teks": "Kebugaran jasmani yang diartikan sbg kemampuan seseorang mengubah arah posisi badan dengan kecepatan tinggi dan keseimbangan yang pas disebut... (Latihan #43)",
+      "opsi": {
+        "A": "Kecepatan (Speed)",
+        "B": "Kekuatan (Strength)",
+        "C": "Kelincahan (Agility)",
+        "D": "Daya tahan (Endurance)",
+        "E": "Kelenturan (Flexibility)"
+      },
+      "kunci": "C",
+      "pembahasan": "Agility (Kelincahan) adalah kombinasi kecepatan dng keseimbangan dalam mengubah poros arah (misal lewat lari zig-zag/shuttle run).",
+      "trik": "Cepat mengubah arah tanpa jatuh = Lincah (Agility)."
+    },
+    {
+      "id": "smp-8-pjok-44",
+      "teks": "Latihan lari bolak-balik dalam jarak tertentu secara secepat mungkin (Shuttle Run) bertujuan utama untuk melatih... (Latihan #44)",
+      "opsi": {
+        "A": "Daya tahan jantung paru",
+        "B": "Fleksibilitas otot bokong",
+        "C": "Kekuatan lengan barbel",
+        "D": "Kelincahan/Agility pergerakan tungkai",
+        "E": "Ketepatan mata pelempar"
+      },
+      "kunci": "D",
+      "pembahasan": "Shuttle run mensyaratkan pelari berlari lurus, lalu memutar arah 180 derajat secapat kilat (melatih kelincahan mengubah posisi mendadak).",
+      "trik": "Shuttle run bolak-balik = Latihan Kelincahan."
+    },
+    {
+      "id": "smp-8-pjok-45",
+      "teks": "Pada nomor lari jarak menengah/jauh (spt 1.500 m), start yang paling lumrah digunakan pelari adalah jenis start... (Latihan #45)",
+      "opsi": {
+        "A": "Jongkok (Bunch start)",
+        "B": "Melayang (Flying start)",
+        "C": "Menengah (Medium start)",
+        "D": "Tidur (Lying down start)",
+        "E": "Berdiri (Standing start)"
+      },
+      "kunci": "E",
+      "pembahasan": "Lari sprint/cepat (100m) pakai jongkok. Sedangkan Menengah/Jauh pakai berdiri agar gampang menghemat energi ritme nafas.",
+      "trik": "Lari jauh santai awalan = Berdiri."
+    },
+    {
+      "id": "smp-8-pjok-46",
+      "teks": "Gaya tolak peluru yang pemainya melakukan gerakan awalan dng cara membelakangi arah lemparan sektor lapangan dinamakan gaya... (Latihan #46)",
+      "opsi": {
+        "A": "O'brien",
+        "B": "Ortodoks",
+        "C": "Melingkar / Spin",
+        "D": "Flop",
+        "E": "Stradel"
+      },
+      "kunci": "A",
+      "pembahasan": "Gaya tolak peluru membelakangi arah lemparan diciptakan oleh atlet Parry O'Brien (Gaya O'brien). Menyamping itu gaya lama (Ortodoks).",
+      "trik": "Tolak peluru memutar punggung/membelakangi = O'brien."
+    },
+    {
+      "id": "smp-8-pjok-47",
+      "teks": "Dalam gerakan senam lantai meroda (Cartwheel), penumpu utama berat badan saat badan posisis terbaik jungkir balik ke samping adalah bertumpu pada... (Latihan #47)",
+      "opsi": {
+        "A": "Kedua kaki menendang atas",
+        "B": "Kedua telapak tangan secara bergantian",
+        "C": "Tengkuk leher berputar",
+        "D": "Punggung",
+        "E": "Kepala ubun-ubun"
+      },
+      "kunci": "B",
+      "pembahasan": "Meroda dilakukan dengan melempar kaki ke samping atas sementara tumpuan berada pada 2 telapak tangan tegak di lantai bagaikan ruji roda.",
+      "trik": "Meroda samping spt roda putar berporos di tapak tangan."
+    },
+    {
+      "id": "smp-8-pjok-48",
+      "teks": "Sikap senam lantai berbaring memanjangkan kedua kaki lurus keatas rapat menempel didukung topangan pinggang pakai 2 tangan di atas matras disebut sikap... (Latihan #48)",
+      "opsi": {
+        "A": "Handstand",
+        "B": "Headstand",
+        "C": "Lilin",
+        "D": "Kayang",
+        "E": "Guling ke belakang"
+      },
+      "kunci": "C",
+      "pembahasan": "Sikap Lilin (Shoulder stand) bertumpu punggung bahu dengan menaikkan kaki vertikal sejajar batang lilin.",
+      "trik": "Mirip batang tegak lilin lilin."
+    },
+    {
+      "id": "smp-8-pjok-49",
+      "teks": "Penyakit kelamin akibat infeksi menular merusak sistem kekebalan (imun) tubuh manusia secara ganas hingga penderitanya bisa mati kena sakit biasa akibat HIV disebut... (Latihan #49)",
+      "opsi": {
+        "A": "Sifilis",
+        "B": "TBC / Tuberkulosis",
+        "C": "Haid/Menstruasi",
+        "D": "AIDS (Acquired Immunodeficiency Syndrome)",
+        "E": "Kanker servik"
+      },
+      "kunci": "D",
+      "pembahasan": "HIV adalah virus yg merusak sel CD4 penderita, kondisi klimaks kerusakan hancurnya pertahanan tubuh itu dinamakan AIDS.",
+      "trik": "Sistem Imun Rusak = AIDS."
+    },
+    {
+      "id": "smp-8-pjok-50",
+      "teks": "Manakah cara yang BUKAN menjadi media penularan virus penyebab HIV/AIDS ... (Latihan #50)",
+      "opsi": {
+        "A": "Berganti-ganti pasangan pergaulan bebas (Hubungan seks tidak sehat)",
+        "B": "Berbagi jarum suntik bekas bergantian pada pemakaian narkoba",
+        "C": "Transfusi darah / Transplantasi organ dng stok darah yang terkontaminasi",
+        "D": "Ditransmisikan ibu penderita HIV ke bayinya saat kehamilan ASI",
+        "E": "Berenang di kolam umum yang sama, bersentuhan kulit, dan bertukar alat makan"
+      },
+      "kunci": "E",
+      "pembahasan": "HIV/AIDS HANYA lewat Cairan darah/sperma/vagina. Kontak sosial basan spt bersalaman pelukan dan sharing makan kolam TAK AKAN pernuarkan HIV.",
+      "trik": "HIV gak nular cuman lewat air liur renang pelukan."
+    }
+  ]
+}

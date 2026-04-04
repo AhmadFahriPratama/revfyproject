@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Teknika Kapal Penangkap Ikan",
+  "tingkatan": "SMK",
+  "jurusan": "Maritime / Perikanan",
+  "deskripsi": "Materi mengenai pengoperasian mesin utama dan mesin bantu kapal ikan, sistem mekanik, perawatan alat tangkap modern, serta keselamatan kerja di dek kapal perikanan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengenalan Mesin Penggerak Utama",
+      "konten": "Prinsip kerja mesin Diesel 2 tak dan 4 tak. Komponen utama mesin: Piston, Poros Engkol (Crankshaft), Katup (Valve), serta sistem pendinginan dan pelumasan mesin kapal.",
+      "tag": [
+        "maritime teknika materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Mesin Bantu dan Peralatan Dek",
+      "konten": "Pengoperasian Generator listrik (Genset), pompa air laut, kompresor udara, serta alat bantu penangkapan ikan seperti Winch, Line Hauler, dan Net Hauler.",
+      "tag": [
+        "maritime teknika materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Sistem Kelistrikan dan Elektronika Kapal",
+      "konten": "Dasar-dasar listrik arus searah (DC) dan bolak-balik (AC). Penggunaan multimeter, pemeliharaan baterai (accu), serta pengoperasian Fish Finder dan Sonar untuk mendeteksi gerombolan ikan.",
+      "tag": [
+        "maritime teknika materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Perawatan Alat Tangkap dan Bangunan Kapal",
+      "konten": "Teknik perawatan jaring (netting), tali-temali, serta pembersihan lambung kapal dari teritip. Pengenalan bahan bangunan kapal: Kayu, Fiberglass, dan Baja.",
+      "tag": [
+        "maritime teknika materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Keselamatan Kerja dan Lingkungan Perikanan",
+      "konten": "Prosedur darurat di kamar mesin, pencegahan pencemaran minyak di laut (MARPOL Annex I), serta penggunaan APD khusus pelaut perikanan saat operasi penangkapan ikan.",
+      "tag": [
+        "maritime teknika materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "maritime-teknika-materi",
+  "mapel": "Dasar-Dasar Teknika Kapal Penangkap Ikan",
+  "tag": [
+    "maritime teknika materi"
+  ]
+}

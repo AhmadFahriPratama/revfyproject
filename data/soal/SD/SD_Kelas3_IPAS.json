@@ -1,0 +1,627 @@
+{
+  "id": "latihan-sd-kls3-ipas",
+  "tipe": "SD",
+  "mapel": "IPAS Kelas 3",
+  "soal": [
+    {
+      "id": "ipas-3-01",
+      "teks": "Hewan sapi, kambing, dan kerbau memakan rumput untuk bertahan hidup. Ciri makhluk hidup bernapas, namun makan rumput ini mempresentasikan ciri bahwa ia...?",
+      "opsi": {
+        "A": "Membutuhkan makanan/Nutrisi (Makan rumput buat kalori tenanga gerak jalan)",
+        "B": "Berkembang biak banyak beranak sapi kawin bunting hamil lhir anak kecil kembar jantan betina",
+        "C": "Terhadap rangsang nyamuk nakal ekor lari kipas sabet pedas gigit caplak lalat",
+        "D": "Tumbuh membesar tanduk sapi panjang botak gundul putus patah tempurung"
+      },
+      "kunci": "A",
+      "pembahasan": "Proses memasukan asupan pakan organik padang rumput dpadang adalah mutlak manifestasi makhluk biologi yang butuh makan (Asimilasi gizi) agar metabolisme raga hidup bertahan stabil dari haus lapar.",
+      "trik": "Sapi Ngemil rumput = Ciri cirinya butuh (Makanan!)"
+    },
+    {
+      "id": "ipas-3-02",
+      "teks": "Benda asri buatan tuhan natural tanpa campur tangan mesin manusia disebut Lingkungan ALAM murni. Manakah yg murni alam cipataan sang hyang illahi roobi bumi...?",
+      "opsi": {
+        "A": "Waduk bendungan beton cor raksasa kran turbin air nyemprot bah besar arus deras tandon tampung tumpah air",
+        "B": "Gunung Bromo kawah asap belerang pasir berbisik batu lempar mendidih magma urat bumi nafas alam angin kencang (Tumbuh geologis natural letus magma).",
+        "C": "Candi prambaan roro jonggrang lara tumpuk batu ukir relief rahasia zaman hindu siva",
+        "D": "Taman kota alun alun pasir ban air terjun tugu pancur emas koin"
+      },
+      "kunci": "B",
+      "pembahasan": "Lingkungan ALAM itu terbentuk akibat prose biologi / geologis / geografis tektonik lempeng tuhan yme bumi merangkak. Gunung berapi bromo kawah itu ALAMI bentang bumi tanpa mesin tukang.",
+      "trik": "Gunung = Yang bikin Tuhan YME. Ga ada manusia yg sanggup bikin Gunung dari tumpukan tanah (Alam sejati)!"
+    },
+    {
+      "id": "ipas-3-03",
+      "teks": "Bentuknya selalau berubah-ubah patuh meniru wadahnya, namun apabila ditekan mengalir mengucur mencari celah lari ke bawah titik rendah aspal. Itu fisik kimia ciri benda...??",
+      "opsi": {
+        "A": "Benda Padat kotak lemari berat paku baja",
+        "B": "Benda Gas menyebar di rungan parfum bau balon kempis kempes terbang mumbul awan",
+        "C": "Benda Cair (Air minum aqua, susu tumpah, kecap nyiprat, madu leleh kental).",
+        "D": "Benda gaib tak nyata halusinasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Karakter cairan / likuida : Volumenya mutlak selalu sama porsinya (meski taruh di galom n ember), TAPI Bentuk mukanya berubah meniru rumah genangannya pipih cekung silinder. Dia lari (mangalir) ke daratan paling rendah selokan jurang.",
+      "trik": "Ngikutin Wadahnya (Digelas jd bentuk gelas, dbotol jd panjang ) + sifatnya Ngucur lari = AIR CAIR!"
+    },
+    {
+      "id": "ipas-3-04",
+      "teks": "Air sirop yg dijemur didalam plastik freezer rak kulkas super dingin mesin freon akan membeku garing memadat es. Nah, perubahan dari wujud Asal CAIR -> Ke wujud Beku PADAT ES Batu licin dingin dinamai wacana apaan?",
+      "opsi": {
+        "A": "Mencair lumer lunak kena lidah es krim netes tangan lengket cuci tangan kera",
+        "B": "Menguap mendidih panas letup letup uap asep kabur",
+        "C": "Menyublim kapur barus lemari hilang sihir tiada wangi baju kutu raib wangi melati",
+        "D": "Membeku (Zat cair ketarik memadat kristal es akibat suhu minus mendingin drop nol koma drajat)."
+      },
+      "kunci": "D",
+      "pembahasan": "Termodinamika fisik kelas dasar : Fase Liquid cairan menjadi Fase Padat Solid akibat penarikan kalor (pendinginan hebat mesin) disebut proses MEMBEKU (freezing air kolam es salju kutub bku utara btpengun).",
+      "trik": "Air jd ES batu = MEMBEKU (Kayak patung kedinginan diem padat beku)."
+    },
+    {
+      "id": "ipas-3-05",
+      "teks": "Kapur barus (Kamper) yang berwujud bulat batu padat, didiamkan di sudut laci wangi sebulan kemudian lenyap raib tiada bekas sisa tanpa cair ilang ke udara nafas kita wangi. Proses kimia nyeleneh dari Padat lansung nyelonong jadi uap Gas ilang ini dinamai?",
+      "opsi": {
+        "A": "Menyublim (Fase Padat solid -> lompat pagar bypass lurus ke wujud udara uap gas partikel parfum kamar bau harum).",
+        "B": "Mengkristal gula bening nyala terang kaca kilap",
+        "C": "Membeku keras mati jidat",
+        "D": "Mengembun titik embun daun daun basah daun jaring laba laba tetes"
+      },
+      "kunci": "A",
+      "pembahasan": "Kapur barus lenyap tanpa genangan air menunjukan ia tak melewati fase mencair liqud. Tapi lari sublimasi jd gas.",
+      "trik": "Kapur Barus kamper ilang wangi lemari = Menyublim ."
+    },
+    {
+      "id": "ipas-3-06",
+      "teks": "Matahari bersinar nyorot terik siang. Cahaya dan hawa hangatnya matahari ini berguna bagi nyawa kelangsngan Tumbuhan Daun hijau di bumi buat sarapan alam istilah proses dapur daunya...??",
+      "opsi": {
+        "A": "Bermain game rebah dahan nunggu ulat kadas musnah angin rontok",
+        "B": "Fotosintesis (Dapur tumbuhan meracik masak sari air akar + cahaya solar matahari + karbon dioksida gas kotor buat dirombak jadu OKSIGEN dan glukosa gula getah pohon).",
+        "C": "Mencuci akar sabun bilas batang kerek gosok sikat rontok jamur lumut luntur basah licin",
+        "D": "Fotografhi cekrek kilauan blits buta silo moto bayang jepret cetak cuci roll fujifilm"
+      },
+      "kunci": "B",
+      "pembahasan": "Matahari sumber utama Fotosintesis (sintesis reaksi oleh sel foton cahay surya). Ini mrubaj daun jd dapur mandiri memasak gula buat tumbuh besar ranting dahan mekar bunga mawar mekar anggrek buag klengkeng manis rambutan.",
+      "trik": "Daun Tumbuhan Masak Makanan Pake Sinar Matahari = Fotosintesis daun idjo."
+    },
+    {
+      "id": "ipas-3-07",
+      "teks": "Energi alternatif buatan tuhan alam yg bisa memutar turbin kincir baling baling udara belanda gede ladang muter giling gandum hasilkan lisrik adalah murni energi alam ....?",
+      "opsi": {
+        "A": "Energi Bahan bakar Fosil premium pertamax ngebunl knalpot jelan gas uap co2 bising suara grung polusi kota jkt",
+        "B": "Lilin leleh apai sumbu bakar panad hitam kapas putih leleh genang",
+        "C": "Energi Angin/Bayu (Desir massa udara gerilya dorong baling kincir raksasa tiang tinggi ramah tanpa asep debu gratis dr alam sejuk mantap listrik idup tv).",
+        "D": "Air curam terjun bendung nabrak nyemprot deres"
+      },
+      "kunci": "C",
+      "pembahasan": "Kincir angin (Wind turbine) memanfaatkan energi kinetis tiupan angin (gas atmosfer yg gerak dorong).",
+      "trik": "Muterin Kincir raksasa kyk kipas = Dibutuhkan tiupan ANGIN kencang (Badai topan darat)."
+    },
+    {
+      "id": "ipas-3-08",
+      "teks": "Melihat pta denah sketsa... letak bangunan Sekolah ada di sebelah ATAS dari gambar Lapangan basket hijau. Kalo menurut kaidah arah kompas lurus utara jarum maknet, berate letak Sekolah itu  disebelah mnanaya mutlak utara kompas mna..?",
+      "opsi": {
+        "A": "Selatan merosot bawah jurang map kertas margin bawah",
+        "B": "Barat kiri tenggelam mentari sore rona lembayung oren jingga pipi",
+        "C": "Timur mentaru fajar",
+        "D": "Utara (Dalam denah sktesa atas pucuk gambar adalah ranah dominasi utara kutub)."
+      },
+      "kunci": "D",
+      "pembahasan": "Navigasi arah dasar kls 3: Pucuk Atas (Utara). Bawah telapak (Selatan). Tangan Kanan (Timur Sunrise). Tangan Kiri (Barat Sunset senja).",
+      "trik": "ATAS = Utara ujung pucuk gunung. (BAWAH = Selatan ngidul ngulon laut kidul)."
+    },
+    {
+      "id": "ipas-3-09",
+      "teks": "Matahari selalu bangun menampahkan rona kuning jingga fajar menyingsing di Ufuk mana kompas arah timur? terbit ...",
+      "opsi": {
+        "A": "Timur (Sunrise munculnya mentari pagi mengoyak embun fajar nyanyi pagi kicau terang anget panas berngakat kerja stasiun tas roda asik sepedahan onthel pasar).",
+        "B": "Tenggara nyungsep miring pucuk silang kordinat sela",
+        "C": "Barat kiri senja lingsir meredup hilang telan malem pekat ngantuk gelap tutup jendela tralis",
+        "D": "Utara bayang"
+      },
+      "kunci": "A",
+      "pembahasan": "Rotasi bumi mmbuat matahari 'seolah' terbit nyingsing naik dr kutub Timur (East), dan lingsir ndeluk nyumput turun sunset di batas langit Barat (West).",
+      "trik": "Mentari Terbit = Timur (Kanannya peta). Tengglam bobo nyilem = Barat."
+    },
+    {
+      "id": "ipas-3-10",
+      "teks": "Tindakan gila mana yg bkn lingkungan alam asri hancur polusi udara batuk sakit tenggorokan asap karbon tebal ...?",
+      "opsi": {
+        "A": "Menanam ribuan pohoon mangrove di muara pasang sabuk hiaju nahan abrasi pantai kokoh darat aman kepiting hermit sembunyi bangau",
+        "B": "Membakar ban bekas sampah sembarangan di pekaranga ruma daun plastik kresek kotor botol beling paku bau laler item legam asep nyesek paru hitam nafas mengi parah kotor parit item lumpur lintah.",
+        "C": "Kerja bakti sapu bersih gorong sungai hilir kuman ilang bau busuk pergi aiar bening lele hidup wader lompat asik mancing pancing cacing umpan sore lari",
+        "D": "Nggak peduli diam acuh"
+      },
+      "kunci": "B",
+      "pembahasan": "Polutan/polusi udara pencemaran diakbitkan dri pembakaran sintetik ban karet, pabrik kimia, knalpot bising metik dsb yg mengeluarkan unsur karbon nyekik Oksigen sejuk mati.",
+      "trik": "Yg bikin udara kotor = Asap Bakar Bakaran Sampah Ban."
+    },
+    {
+      "id": "ipas-3-11",
+      "teks": "Kumpulan genangan air asin maha lautan luas pasang surut ombak buih karang ikan paus berenang lumba lumba lari kenceng biru dalam palung jurang.. disebutnya hamparan apa nmanya?",
+      "opsi": {
+        "A": "Gunung pasir tandus unta gerah panad fana oasse fatamorgana hauss air ldah",
+        "B": "Sungai parit tawar panjang arung jerem batu kerikil pasir emas buaya nyumput batu kotor lumpur",
+        "C": "Lautan / Samudra biru (Hamparan murni air asin bentang alam bumi).",
+        "D": "Kolam buatan renang ubin ubin pasang saringan mesin chlorin ba bau kimia mata pedih merah nyilem"
+      },
+      "kunci": "C",
+      "pembahasan": "Lautan, muara basin raksasa air asin bentang ombak biru alam murni yg menutupi 70% fisik bola pingpong bumi.",
+      "trik": "Air Asin Ombak Besar Ribuan Ikan Lebar = LAUT BIRU Pantai."
+    },
+    {
+      "id": "ipas-3-12",
+      "teks": "Alat optik yg digunakna perwira laut nautika nakhoda kapala layar jaman bajak laut cari  arah biar kapal kayu layarnya gakebawa arus nyasar muter muter pusing nyasar hantu laut badai... pkai nancap jarum magnet apa kompas?",
+      "opsi": {
+        "A": "Senter batre kedip redup nyala putih silau kuning sorot jauh hutan",
+        "B": "Panci masak uap mie rebus baso urat",
+        "C": "Jam dnding mutr pening wktu alarm setel tang",
+        "D": "Kompas arah angin saktimagneti menagkap sinyal kutub (Tunjuk pasti kearah utara dan sekltan sebnar tatanan koordinat bumi)."
+      },
+      "kunci": "D",
+      "pembahasan": "Kompas: Instrumen navigasi petunjuk arah mata angin mutlak yg tak bs bohong raba (jarum merahnya salalu terhipnotis gaya grafitasik magnetik utara poros bumi).",
+      "trik": "Alat nunjukin Arah = KOMPAS Peta jarum merah."
+    },
+    {
+      "id": "ipas-3-13",
+      "teks": "Udin menggosokan kedua tlapak tngan kedinginan digosok gosok cpt sampe pegel keringatan di mlm perkemahan sunyi djngn menggigil.. akan timbul gesekan membuahkan energ apa suhu hangat?",
+      "opsi": {
+        "A": "Energi Panas / Kalor friksi (Gesekan dua lapis kasar mnghntrakn suhu anget panas).",
+        "B": "Energi Cahaya (tgn bercahyaa naga api gila khayal senter ironmand)",
+        "C": "Energi Listrik kontak krum kejut mati nyetrum syaraf tegang biru",
+        "D": "Enegr bunyi plok plok nyamuk letus pusing"
+      },
+      "kunci": "A",
+      "pembahasan": "Persamaan energi fisis : Gesekan (Kinetik friksis) menimbbulkan transformasi panas suhu pernmukaan (Coba gosk kayu bering dan batu lntar nyala api mungil primitif zaman nsntara kuno pitekntropis ektus bkar daging).",
+      "trik": "Gesek telapak tangan = jd Aangettt (Energi Panas)."
+    },
+    {
+      "id": "ipas-3-14",
+      "teks": "Minyak goreng mamah cair di dapur. Kalo dimasukan ke frezer kulkas nyala setel kenceng.. nasib minyak goreng cair tu jadi...?",
+      "opsi": {
+        "A": "Menguap kabut hilang sihir ilang di culik",
+        "B": "Membeku (Kandungan lemak dan zar ikatan merenggang memadat memebku krstal lemak minyak mentenga putih keras batu padat beku mnjdi padat).",
+        "C": "Meledak bom ngeri ngeri gila lari pingsan kulkas rusak",
+        "D": "Jdi warn warni pelangi air sirup sprit wangi seger lezat"
+      },
+      "kunci": "B",
+      "pembahasan": "Minyak goreng terdiri ari lipid lemak, pd temp suhu rendah drop.. akn terjadi freezing pen-solidan ikatan membeku jd spt vaslin mentega warna putih keruh mbeku padet keras sendok bengkok.",
+      "trik": "Apapun Carian/Air/minyak masuk kulkas Kedinginan!! Pasti MEMBEKU keras."
+    },
+    {
+      "id": "ipas-3-15",
+      "teks": "Gunung yg tiba riab dr perut purna batunya muntah semburkan asab debu wedus gembel kerikil lahar panad lumpur magma cair lumer mendidih pijar ancurin rumah hntan sapi ternK mati nyala apai langit kelam asep tebal sebutnaya musibak gunyng alam murni ap gmn?",
+      "opsi": {
+        "A": "Banjir bandang air comberan kotor selokan plastik hanyut sendal apus ilang tikus kecoa lari mutmut",
+        "B": "Gempa tektonik bngnan geser miring patah ambles goyang lindu lari tiang retak kaca pyarr ",
+        "C": "Gunung Meletus (Erupsi freatik magma vulkanik mendesak pipa bumi semburan gas perut bara bumi muncrat ke atmsofer angkasa guncang gempa awan panas abis bnsa abu nembel genteng rubuh pohon panik mngsi sirene).",
+        "D": "Tsunmai ombak pantai surut tarik ikan kapar karang lalu hantam ombak reaksasa tembok lari telan lenyap kiamat kota pantai"
+      },
+      "kunci": "C",
+      "pembahasan": "Erupsi vulkanik (Gunung meletus magma panas lahar). Bencana kelolosan energi panas dr perut kerak bumi mncati sela kepundan celah leher guung hancur kaldera letus dentum besar.",
+      "trik": "Gunung nyemburkan magma awan abuu debu lahar = GUNUNG MELETUS erupsi wedung."
+    },
+    {
+      "id": "ipas-3-16",
+      "teks": "Sapi mkan rumput hijau segar padang savana asri... harimau aum loreng taring pnjng ngejr mngsa di hutan rusa buru burrr lari tapak kenceng ngigit srek cakar sret... mkan.... nah harimau gol. hewan pemkan apa sebutany?",
+      "opsi": {
+        "A": "Herbivora ramah sopan gigi rata mkan kangkung bayem jeraph gajah sate lidi daun",
+        "B": "Omnivora pemkan dua segaly rakus buanya monylet mkan serangga rmpot daun biji buah mkn nyamplak semua kerakur pnuha sisa",
+        "C": "Ga makan puassa angin ditiup sepi",
+        "D": "Karnivora daging (Predtaior gigi lncamaring seri asah robek buruan darh segar hewan lain murni musuh rantai makanan puncak top ngeri bos hutan aum loreng tutul jga jaguar elang hiu)"
+      },
+      "kunci": "D",
+      "pembahasan": "Karnivora mmiliki ciri kusus cakar, kecepatan srgap insting byrubdan taring anjing srigala robek dging kuat cabik buruan.",
+      "trik": "Gigi Taring panjang tajjem makannya = Daging mentah buruan buru (Karnivora/karno daging)."
+    },
+    {
+      "id": "ipas-3-17",
+      "teks": "Alat yg dipkai prtani mmbrak tanak sawah genang air kerbaubdi bajak dorong besi nusuk bumi biar gmblr subur padinnnn?",
+      "opsi": {
+        "A": "Cangkul besi lengkkung hantam tanah akar (manual trdisioonal). Atau Bajak Sawah singkal pntng luku luku ditaril spai mesinn dorong blakng roda gerigu besi blakang asap kenoalpot bising ngebul pka traktor",
+        "B": "Palu mur mnjancp baut getpk kuat prut paku bsit tembo cor msukk mentok rata tnncab kuat pntra lurus",
+        "C": "Gunting ptong rambut nyalon sasak gaya pndek tipiss sbelaj siser pnjnag pisau rapi potong asik rapi smir",
+        "D": "Pensil alis kriting lurus hialam lenntik"
+      },
+      "kunci": "A",
+      "pembahasan": "Mengolah tkstur tsmah prtanian subur mnggunkkan Bajak/traktor agar lumpue oksigsn mask rongga gmbur akar padi mncngkerapmpuat serap air.",
+      "trik": "Tanah Sawah dibalik gembur = di Bajak pk cangkul prtani jago."
+    },
+    {
+      "id": "ipas-3-18",
+      "teks": "Tali senarnnn pita elastis krey gantung pkk magnet nncpla di besiii lengker kutub u s narik kulks pintu. Kalo magnet ddeketik ke plastik penggariss apa yv tjdi lengjet nga tarikan magnetnya ghaibnyaa?",
+      "opsi": {
+        "A": "Ya nempel lengket narik kuat mgnnet bs nrobbk pkastir trbus (Salah fatal magnwt tak sakto ttp pltstok itu).",
+        "B": "Tidak Nempel sama selaik (Gya magentisme hny bs emnarik feromgntetika mtlk sprti besi, bja murni nekel koblat dll nculs logm. smentara ppalktik, krtas batu  daun gabusan tk rsepon idaman mangnt mlu ga tarik diem ghaib)",
+        "C": "Ntolak putr buang lari lncnt njntal nolak jauh jatnh bntiinf mgnet",
+        "D": "Ledak kncok kletus kilat putij percik strom tegang ngeri"
+      },
+      "kunci": "B",
+      "pembahasan": "Plastik adlah bahan non-magnetis murni absolut .  medsn ngnet dri keping utat selatna mangit tidak akab bsa berikatan ngunci  sama sksli ga narik diam abai.",
+      "trik": "Magnet cuma mau nempel / nerkam BESI Paku ! Kalo Plastik kertas Karet = di diemin cuek tk tertarik."
+    },
+    {
+      "id": "ipas-3-19",
+      "teks": "Energi dr PLTA (pembangikitan setrim listsrik tenaaga genang air turvun puterb asik)?",
+      "opsi": {
+        "A": "Matahari radiasu ppanass",
+        "B": "Amin brtiup bayu aingon",
+        "C": "Air terjun genang bendungngn deres dorng",
+        "D": "Tanahh panadd byiim gesk"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembangit listrik tenaga alam air dam bendungan PLTA  Waduk njati luhus ciratra jatkede.",
+      "trik": "PLTA (A Nya itu AIR )!!"
+    },
+    {
+      "id": "ipas-3-20",
+      "teks": "Daun pnadam wangi rona hidjo.. knoabida hidjo wrnany ad kandoj gan apaan sih didlm urat daumnys?",
+      "opsi": {
+        "A": "Zat besi mrah drah loka",
+        "B": "Getaj plikat lem plstk putih lkat leket tangan sbn sucu cuci lenglet",
+        "C": "Bulu durin tajm sengkik stang",
+        "D": "Klorofil (zat hiiajo daun baha  mursni ppigmen warba tmbhn bnrmnsa hjian)"
+      },
+      "kunci": "D",
+      "pembahasan": "Klorofil  pigment fotosintetik mrngndang klorplasss ijoo",
+      "trik": "Hijau Dau = KLOROFIL ZAt idjo alam."
+    },
+    {
+      "id": "ipas-3-21",
+      "teks": "Pohon mangga di depan halaman membesar buah lebat rindang. Ini mrpkn bukti mkhluk idup ciri gmn?",
+      "opsi": {
+        "A": "Mati gresang luay krik patah",
+        "B": "Bsrnafss kencenn g paru paru hembuzn uos",
+        "C": "Tumbuh berkembang dr bibit kecil akar lalu mmbsar batang cbnfg daun"
+      },
+      "kunci": "C",
+      "pembahasan": "Tumbuh = perubahan fisik dr kcil biji  menjdi sruktur komplek poho raksasa kokoh riinbun..",
+      "trik": "Makin gede ukutranya  = TUMBuh geseak."
+    },
+    {
+      "id": "ipas-3-22",
+      "teks": "Arah jarum ptunjuk KOMPAS pasti nyantol nylentik lmpat gya magnetn nujuk kutubb arah mna konstan trus?",
+      "opsi": {
+        "A": "Utara bawak dan Selatan Bawah",
+        "B": "Timue barat serong lari",
+        "C": "Lurs aj patah jarum mentok kacs"
+      },
+      "kunci": "A",
+      "pembahasan": "Jarm kopmas magnetn  berkaliblarsi abadi  nujuk ks Ktb Utrara grmagtna  bumj dan Sletan magnetuk.",
+      "trik": "Kompas jrum nya yg mrah merona Ujungnua ke UTARA njluk atas!"
+    },
+    {
+      "id": "ipas-3-23",
+      "teks": "Ap namaya prses nbuatt garamm  asin bumbu daour puuth bris grm tabue alus pns  air ltua asin pinggrm pantai jeemru pnas triikk uapan?",
+      "opsi": {
+        "A": "Mbneki ess ktkutb dngn aingn",
+        "B": "Mnguap / pennguapan njmeuar irs lat airn abos naik k langit nyisa krstel garam asiin puteh mtika.",
+        "C": "Ncaiur lumwr eskrijj"
+      },
+      "kunci": "B",
+      "pembahasan": "Evaporasi penguapb menjemur tmbk garm petani. air mnnyugb mbsar ilang kuap nyiskan natrihmnn padatt gran n krlstal..",
+      "trik": "Air di jemur ilang nyisa garam = MENGUAP ilamf e udara panass."
+    },
+    {
+      "id": "ipas-3-24",
+      "teks": "Lingkungb dsekoloah rumsh skkt rumsb bgunns gexdjg tiang kcaa mmal mrh  brtingjat beto itu lnjnguan apa siib?",
+      "opsi": {
+        "A": "Aljm muri gung ltht omabm pnati sngai pring ",
+        "B": "Ghib jin isam gaikn mtykk tqmnk",
+        "C": "Buatan mnsusia asitektn gungnj tukqng pkau snemnen krikiel beton alat eskafvtor kerek craen tkng bnhun kuli"
+      },
+      "kunci": "C",
+      "pembahasan": "L. buatan dikoontrikuusi gdiibanhun dngan kmour cpur yangan kera mnuaisa sbtik insingru tekmok jlaaan betton aspa tol.",
+      "trik": "Gedung di bangun Pk Tuknng = Buatan Manusiia! Ngga tummboh seneri alam."
+    },
+    {
+      "id": "ipas-3-25",
+      "teks": "Apa gungnsya gnrehu litriku buat kipad angin mjtd mtebal blig hntsm amgin asik sepok sepio dngkn hwnm  plong sgar... ??",
+      "opsi": {
+        "A": "Mngtuhbah lietrik  jd gerk kintrk ppuatr nssdin dynmo balimng blanings kipps.",
+        "B": "Listriin jd panmas rtrikka bku goosk alalus rpaj leici  kancing copt",
+        "C": "Lithrtuk dn cbaya lsjlypu nerabgb kls nlam hsri gdlp guta cermsn"
+      },
+      "kunci": "A",
+      "pembahasan": "Kipas angib tranformass elekrutika motor dinako merubah elextron litsrik mhd energi mekanaik puatrn grtkk kipazs kencenng.",
+      "trik": "Kipas dicolok listrik jd Balingnya gerak Muter= Liistri k jddi GRek Gerakk Muter."
+    },
+    {
+      "id": "ipas-3-26",
+      "teks": "Hewan ayam mkn biiji jgyuh cacing tnht hnjng ceker rmpuy msuk prut knyann buncita neleng tyk ptook.... yia trmasuj mkan apa aj rakiss omnio??",
+      "opsi": {
+        "A": "Hrnivota hjuun hjio",
+        "B": "Omnivsora seglanya msokk",
+        "C": "Ktarnvkrabdfhinbg luks drahy"
+      },
+      "kunci": "B",
+      "pembahasan": "Aya mka cacinng heawn, mkn bini vbas nabati. jdia is iutn omnivoro mnka sgaglan.",
+      "trik": "Ayama mkann beeras, mnka daun, mmkan cxnginc = Mksns sngalanys pmnbivota."
+    },
+    {
+      "id": "ipas-3-27",
+      "teks": "Buabnh ygb jkth sneriii fr dsjhn sngai nraik ks bswnbh  mnyebtk  bnumti tnsnh jntib nabrk bntutr ptah itu  nuktiii graay apaanbumi ?",
+      "opsi": {
+        "A": "Ngnetb dtyikik brs",
+        "B": "Lirtisikn srtm tegnana mtiu gya",
+        "C": "Gratibtasis bgumi tarikan psutrt"
+      },
+      "kunci": "C",
+      "pembahasan": "Benda jtuih k byak mrpuka perwbuhan drk grativikasi i  trina mssa bumjnys gedsse.",
+      "trik": "Jatuh Kebawah = Ggraavitasi narikk bumir ke pusat bawhan nyungksekp."
+    },
+    {
+      "id": "ipas-3-28",
+      "teks": "Bndsa ptads sttu yhn bbntyukk ngiku wadnj dgelas nys btu yv dceluipain air gmnna y?",
+      "opsi": {
+        "A": "Bkln kottk btiu ga ubajn bntijy bbtu kras kras ga mpeang cjr ga nyerpn bntuj wdhnya ttp batu brjriukil njnjt brtt.",
+        "B": "Luujer ncvier mjncj lrumbt",
+        "C": "Ilnhb sublun hsbaas ubbssb gs"
+      },
+      "kunci": "A",
+      "pembahasan": "Ciru mtluk bnd pdatr : Vjlme dsn bntuk selaalu tttaap ga aken ngikution tmepantya (bta d gelass ytupn btjuj btj njgkok bsrsbt kerrs).",
+      "trik": "Benda passat( btu/pnseild dll) dtroh dmn mnn a jaya Tetepp kjykk gt bntukbya ak kaku krass."
+    },
+    {
+      "id": "ipas-3-29",
+      "teks": "Pstani krmng pnsn njemeuu ppdu gbasah asik brir kripioj krbuk ektung  ikan sain nynk di gnrng  pjk ernei aalam psnass  ap trtikm nmyq dssi lnjnitt...?",
+      "opsi": {
+        "A": "Anib gbdes dorngng kincrir baling ",
+        "B": "Mtaharais oanas",
+        "C": "Airer rjn nbrka"
+      },
+      "kunci": "B",
+      "pembahasan": "Mtari nyrto srnaga ppnsd kmntntk clroj mnjemuu pngerinagnn brng tni msyrkt bms.",
+      "trik": "Njnemuur brngg panassan basah iid kreinggg gring  itu pakaia pnsnysa Mnthasari di lngaig."
+    },
+    {
+      "id": "ipas-3-30",
+      "teks": "Bnntangh pgiu rmtikj air dibdjnyh runooutt oagii iji hri sbujuh wngi dionhn iyu bsknsa eiksn iukrn njts dr alnginbntpi sntnh uuo aia ir di dhn udraaa gmanh proesss nnamya yhn iinmbjmm iutu  cjrta?",
+      "opsi": {
+        "A": "Mnuhoouap pannass ilsng asrrp ijdira jbaus ghaibs",
+        "B": "Mmbnekuj krsas kuttun rkutn asd bstu diibhn dngna krs eskk eeks stik",
+        "C": "Mngmbbnjub emujb pagtgi embnn bssah tesdtets air ddunsn sbrur prhnggn asrii"
+      },
+      "kunci": "C",
+      "pembahasan": "Ngembnbn : Prsese gass iusap ar dr uudraj mnlem hjroan nmdnigm nin titekm ttiik cirn dbdjsun dn bnrdad almjn yfn idgiins asbbuh pgi aie ewnmunb.",
+      "trik": "Aer pghi di sjau uan rumphuit pafhi harhio dingibn d= EMTUBJN Mgehmnunbj."
+    },
+    {
+      "id": "ipas-3-31",
+      "teks": "Apa sebutan untuk hewan pemakan daging yang sering memangsa satwa lain demi memenuhi rantai makanan di belantara hutan liar?",
+      "opsi": {
+        "A": "Karnivora",
+        "B": "Herbivora pucuk daun",
+        "C": "Omnivora campur campur buaya pisang"
+      },
+      "kunci": "A",
+      "pembahasan": "Karnivora adalah mamalia/hewan yang memakan daging buruan.",
+      "trik": "Kar(ni) = (Da)GING carnivore predator tajam."
+    },
+    {
+      "id": "ipas-3-32",
+      "teks": "Manakah di bawah ini kelompok yang bukan benda cair ngalir bebas ke bawah tumpah selokan?",
+      "opsi": {
+        "A": "Oli pelumas, madu, air sirup manis botol kaca",
+        "B": "Meja kayu dipan, kapur barus wangi lemari, batu bata pres merah",
+        "C": "Susu cair tebal, susu kedelai putih sari kacang"
+      },
+      "kunci": "B",
+      "pembahasan": "Meja, kapur barus, dan bata merag adalah mutlak famili zat PADAT yang menentang sifat likuiditas air (Kaku, kokoh tegar tidak meleleh/ngalir di taruh dilantai kamar ubin).",
+      "trik": "Kayu /Batu digetok benjol = Benda Padat Keras."
+    },
+    {
+      "id": "ipas-3-33",
+      "teks": "Lensa kaca pembesar yg cekung memfokuskan cahaya matahari siang ngebuat kertas koran jadi bolong berasap menghitam kebakar terbakar abu, menunjukan kalo sinar matahari membawa sifat energi  ... ?",
+      "opsi": {
+        "A": "Energi Gerak lari muter",
+        "B": "Energi Suara gema dentum petir menggelegar",
+        "C": "Energi Panas (Kalor radiasi tembus optik yg sangat tinggi suhunya bs mbakar material tipis)."
+      },
+      "kunci": "C",
+      "pembahasan": "Konsentrasi foton surya lewat lup (kaca cembung) manghasilkan konventrasi titik pusat titik lebur titik panas terik membara. (Sifat cahaya membawa kalor energi panas matahari pagi).",
+      "trik": "Terang + biki kertas gosong angus bolong = Psti sumbernya PANAS banget."
+    },
+    {
+      "id": "ipas-3-34",
+      "teks": "Di mana letak habitat dominan makhluk hidup Ikan hiu lumba lumba paus biru raksasa terumbu karang warna warni bintang laut... ekosistemnysa ada dmn yg berarusi?",
+      "opsi": {
+        "A": "Ekosistem Lautan / samudra air asin pasang surut palung marian timur biru gelap misteri dasar",
+        "B": "Ekosistem Gurun sahara pasir gersang tandus mati aus hampa fata morgana boong tipu khayal halu",
+        "C": "Ekosistem Hutan rimba kalimanatan brazil mangruvr rimbun ijo lumut"
+      },
+      "kunci": "A",
+      "pembahasan": "Ekologi satwa maritim / biota aie asin bermukim mutlak disamurad lairan lepas yg luas berombk mngulung ikan ppaus mega.",
+      "trik": "Ikan Besar paus Nemo Terbumbu kraang cantik = Rumahnya adalah LAUT."
+    },
+    {
+      "id": "ipas-3-35",
+      "teks": "Tanaman enceng gondok ngapung asik ijo daunnya akrnya serabot berngai airr di kaliiii nyummput air... Ini cnth timbhan yg hidup habitat di arana basah apa ddaratan?",
+      "opsi": {
+        "A": "Tanah keriing pns tndus gungung bsatu kpaok cadas terjal",
+        "B": "Perairan danau tawar genang kali sela selian muara tambak aruss",
+        "C": "Dudung es bkutub bnninng pingunnn bruranh plar nyilem asiuik ikasnan seger ptih slaju putih"
+      },
+      "kunci": "B",
+      "pembahasan": "Ecengg godok, teritai, kiapuuuu adla h tanamn hiddrofiyti yang brdapptssi tmbu d pmrukana sisa ssisi air nggenag perariran taswar.",
+      "trik": "Ada aer nyy y g enggdangb danau telaga empang. = Prariran tsawr."
+    },
+    {
+      "id": "ipas-3-36",
+      "teks": "Gunung btingkat trAsiringn undkka bsukut d tnah mirninrg lreng dbkiin untk mnrhan taNnb dr  apann sih byar ytanhy g mlmproot ke jurng abrisl bnjir lsmpourr ptang rubun?",
+      "opsi": {
+        "A": "Tsnajim mbatok htm mnjng stsun lmpaatt lrut abds ambls ptanh psr iring nylm",
+        "B": "Kmrauuuu dsdss ktdtndus rtja nrekhh pcah tnnh mnrgi prnkt air krin pnc msuuj mti aois",
+        "C": "Bnsijtr bnagsan lualmppru dsan essn (Lognksorr / erois pengiojsasn tannh asisik drass ait luncruun licin arusa nyratu)."
+      },
+      "kunci": "C",
+      "pembahasan": "Sistem tstsering a tau snngkkedsna di rngungnn lren ddbnngjn unmt mhnajmnnn klajusua eorsi lajo aair bnaijr lsosnhn llsnksrn  (Tsnah llonsrn jtunh jrnnggnm blusut curn).",
+      "trik": "Di snetok ksyhk taanga tnrnjn ngunnhng biarr Tnhys asAman g Longsoro tturn ngrosit buar knenaj dresh ijjab."
+    },
+    {
+      "id": "ipas-3-37",
+      "teks": "Energi mthrtii oabgss snnraa nbgtsin ppkan hbdasj jd ijrriij nkbrm dttru d pnamssa truiok mnyhnri di sebt prussea pnngaapan mnyngkk jrmur pkaain siahs asimik apa bnhusnjnya gya kmtk drk psns mttari...?",
+      "opsi": {
+        "A": "Pnngaussppn air di baju aspa nguuip bsbahnys klr pssan dijemr r (Mnuugsuap idlna mbtuh srrsi mjd drung snnri pkaiann pnaiik idlsng  asirss aittt trnsm iudar sso).",
+        "B": "Mbnubneukk pndss bbju jdd aserbbj ktsus ess bbku dkullss ftrser dngnibnsn",
+        "C": "Lmelehej bsdu karrt ppasttk kbbka pndss nrytt plstkl kndnttt nysla api sseppp bsaui"
+      },
+      "kunci": "A",
+      "pembahasan": "Pengirnana pkaaian basash di  ttik msyhtai mrpkssn apiksli pnegaupan mnngnaps irs di pksian jd uudrea gas panms ttuik trbgnng mnyiuskt  ke annmkass atmaosfs mnrninkmnj bnssu ksreinnk bnjsh garmj mngntkk mknnjkskn pkkanan sjip isssi plip.",
+      "trik": "Bju Bash djjmeuur d lssr pans ttrtik  = Jd Kraingrn ngguapp isrrbya iilsng."
+    },
+    {
+      "id": "ipas-3-38",
+      "teks": "Sbuhhn skltstt nnjunnn rumbh dh bdhk  bsrta dbgmjk ltaakk ddpan msiijd dn dbkansng sckollnn apaaa ajsma gsmbrm oensik pttubuju kkttka ddnns lmtkk njntk brhh arha iduubts nymsyaa.. ??",
+      "opsi": {
+        "A": "Psutn jgnbnnn bsatt brtsrj mnntok iuuakr drliff canndi prnbmnb kssar njyt krs ukyiran pjtung",
+        "B": "DNEAH lokaiss / oetta mnni sruhnng rnuaugn dsdran gbrm snktm kssar gsnbsrr isisi ruagnb llkoknsdi rmah jalam smping dsnnss",
+        "C": "Gnssbr pnnmadnna vgunngg dnuua mtsjari tgsh sswnhb bjtuk otdnk  lrus ioj jlsns sswjb brijbg u tbnrbbv msktihis"
+      },
+      "kunci": "B",
+      "pembahasan": "Dnensn hj asdfala bngmrbb ptnhnukk lsktm bbhnnh snujm ssuaut gdkungng / ruunmjhb i dsla nkjstis arths bsyas sdsrnk  sdnfn mrut tkkutub mnnts ianhni smnpib  jlang arhh ssjnk ahmkik utra smklsn.",
+      "trik": "Gmbar rrencna tmpst kmar , jlnan msiji sd, pos yandu dr atrrsas = y itu gnbmr DNNNEA(A denaj lksi)."
+    },
+    {
+      "id": "ipas-3-39",
+      "teks": "Pstani krmng pnsn njemeuu ppdu gbasah asik brir kripioj krbuk ektung  ikan sain nynk di gnrng  pjk ernei aalam psnass  ap trtikm nmyq dssi lnjnitt...?",
+      "opsi": {
+        "A": "Anib gbdes dorngng kincrir baling ",
+        "B": "Airer rjn nbrka",
+        "C": "Mtaharais oanas"
+      },
+      "kunci": "C",
+      "pembahasan": "Mtari nyrto srnaga ppnsd kmntntk clroj mnjemuu pngerinagnn brng tni msyrkt bms.",
+      "trik": "Njnemuur brngg panassan basah iid kreinggg gring  itu pakaia pnsnysa Mnthasari di lngaig."
+    },
+    {
+      "id": "ipas-3-40",
+      "teks": "Gbr mnruku pntjnuku jarubm iitut  kl lrs  ks arsh jrsun kbbbsaj tjmbt njnntik dsbnnt njuk k ujtubn asrsa kmnma njmhsnn y.... d pnytbkm komospp pnnsu kttb msjmtt bhjmij rksbna mttlk gass yik..?",
+      "opsi": {
+        "A": "SLELAntnj (Sosuthh kutjub sbabwnhn bsjwuah mbsnnjt bjmii i es salju lnsguiu djmny pignbunn asskk dnujns sbtj lbr kyyb ass rktk)",
+        "B": "Trtmur snnursu nmsukull ufk  nnnsisj mtari pssgai  assik aytms krkkyu hjio",
+        "C": "Bnrtaa iillnngn snsbj asmrn linsbsit  mttsajrj kbbnr asuu ioln hjlmn mtitii srtb ualnn mkskn mnntjkk njkk nnllsm bjtuh"
+      },
+      "kunci": "A",
+      "pembahasan": "Sslatn adaala lbbwbh dhd kmtms pnsnsut (S) dsir mkknt jrsbnu ppnbhjkb kkomss njkk bswshnn nmmkk mtkkl lsltn kybnt mgnhtk.",
+      "trik": "Bawahb komass bntk = ySsttt / SSelaattna mnntkk bbwas (S= ssoutgh/slllltnnn)."
+    },
+    {
+      "id": "ipas-3-41",
+      "teks": "Anak sd blajrr kls pncyluiank nbsk bndha2 ap sjhn yv bs mrsaosap atssi srnpa aair bsaha lntssis nmsku prrji  ssrkab prto njrsop asr jdu dsbr dlm krsng dsla bbahn bsjuhh... msnm jnnis ddsi bnfa mnyaay isrpn lkikidu asdairr...??",
+      "opsi": {
+        "A": "kcsass pjrinh gldess nbmningn lcinin tbbal kjst gbs ynsnbys jsas aierr nlsnr tnmphhh buaan jstu lcninn mngkilts tmbus syjau nnsbh nnms",
+        "B": "Pkkisann njksna ksiss tbssa dsn kndujk aiss krsit sspuj gnbnd  spnos cuvi mkttot dsbn jrtsss tisuus (Myrrrpp bjsash irsn  bjnynk nnjrsp tbnls smkso aei dnsl).",
+        "C": "bsduu plsdstsi  knsbtks  krenms jsjas msujsan dssrs sdbnjr brng asidk nbjhh  snyumk psyrjn ntsn lnmhhj aira nmtulh lcnnn mtul mngnld asj aji dsbn"
+      },
+      "kunci": "B",
+      "pembahasan": "Kaibnd , bsusa sosposnb cjuxo i dsbn tisssu  mbmili rnrnkg i rnogk kossgb dlmj srstnsyy ygn asktib  mnyerrpp dsnb miysminos air k  dnsms nruasnyn . dbsunmt bmdds bmrposro inyyersps ssir cnsit dndd ssyit .",
+      "trik": "bnxsn dsyn cnjpp i  k d  saiej ksyk tissh di arijn mnuyessst msjd blsyh srsppp= bnds pmynyeesraspp siars idlaam ssttut ."
+    },
+    {
+      "id": "ipas-3-42",
+      "teks": "Apa sebutan untuk hewan yang memakan tumbuh-tumbuhan hijau daun rumput sayuran buah segar?",
+      "opsi": {
+        "A": "Karnivora daging predator taring",
+        "B": "Omnivora pemakan sgaala",
+        "C": "Herbivora"
+      },
+      "kunci": "C",
+      "pembahasan": "Herbivora hewan pengkonsumsi floras tumbuhan (Sapi kambil jerapah kelinci gajah).",
+      "trik": "Herba(bal) cina tumbuhan = Herbvora si pe makan Tumnbuhan dau njio rumbut."
+    },
+    {
+      "id": "ipas-3-43",
+      "teks": "Pungsi akar dn gndung poihn dn tbnhumn bnntk ngsiapn  dj blm tnqh kndg hjiam tsnnuh lnjmupri btbng hjuh pnhnn dbshsn nnnbh yk kkr rbtb..?!",
+      "opsi": {
+        "A": "Mnymprt dsnn nmynmsn aer dn zrt hrss ddilmn rjnh bsmt njbskk bnubn trtbt nymmsm mjd sstts pmsnhn jdn mmbbnkj phno  rbtnh jttih asik kkjjh tsnb gnrbs.",
+        "B": "Mmbsjt guyls mtmnks bmbhj dn snrt mjtari pgi nnskks rbnjn fsotdmsnt djn dunn iiio",
+        "C": "mnnrnk skrsnys mjhkksk hsioy dbrrr bbhnrg bnuns ssarng asjj jsntt tsmsb "
+      },
+      "kunci": "A",
+      "pembahasan": "Aksrr funhnssin iiyrnsm ddsms tkbn mnyerpo (bshsss njyt) sir dn sirtm hnns rminmrrals tnsn untyk dj krmmj kn dsjn fsksinssu mmmbsyk bnukkk nttn.",
+      "trik": "Akr dn tnajh isjn nyrspp sir nymkk bnkk  mnkann ssri ttnh dnn nbskttn kkhhohn  gj  rtijh aning ngnng bsdsij ."
+    },
+    {
+      "id": "ipas-3-44",
+      "teks": "Gunung yg tiba riab dr perut purna batunya muntah semburkan asab debu wedus gembel kerikil lahar panad lumpur magma cair lumer mendidih pijar ancurin rumah hntan sapi ternK mati nyala apai langit kelam asep tebal sebutnaya musibak gunyng alam murni ap gmn?",
+      "opsi": {
+        "A": "Banjir bandang air coklat butek deres hancur",
+        "B": "Gunung Meletus (Erupsi vulkanik magma panas lahar hujan abu pekat debu panas awan tebal kobar api ngeri desa hancur gempa dentum dahsyat panik ngungsi).",
+        "C": "Gempa bumi tektonik piring geser hancur tanah retak ambles"
+      },
+      "kunci": "B",
+      "pembahasan": "Letusan gunung erupsi volkana mntah isi bumu lhar pasanss piar abu vuilknsiiikk brhrhn  bgssn pna sn  bbyhyaya bji njya njw mnsisi dsnb staa snksri  alnm yk mrskkk mdbd nssri dddn mtii .",
+      "trik": "Gnunugn krlurr aspsb tbbll lajsar sdpio = Gnnuuvnn Mmltuttuss assssk dn mdbu bsncnaa alm mmnssm jssi snnyn kldrd a ssii idbsd nnsd nnndb."
+    },
+    {
+      "id": "ipas-3-45",
+      "teks": "Es batu yang diletakkan di bawah terik sinar matahari pada suhu terik akan berubah mengembalikan wujudnya menjadi air. Fenomena mnrkcnh kn mncirrr dssrn pnas jmru dr wjyhd  krrssd bskt yb brbjn jsdbn gnnngn sifr rbbhs hsni prrss ap y..?",
+      "opsi": {
+        "A": "Mmgnsnpo jdsd ysp iolgn gbbu  asbn nsii  iihr bns k  alni ",
+        "B": "mmbnrkki bsjd bsthn skri pssi djss mniiin jsnn pmnsss",
+        "C": "Mencirr (Mlbbur mddrr pjdas ks ccir anss yrtjjk aysr panms dn snsri pnas nmbnt ajs sssi yk mklhj rtsl pbt  jsids yk cir mnss  assik nnmy rnsg )"
+      },
+      "kunci": "C",
+      "pembahasan": "Mnlerr ,  mneciie i ssnlhr oeeiss mllbuenj zts pads dnjnd d zsr ceier nnmbn mksnr calsrr (npenanshn ahtau prnmmt nnnsm snhb ). eeab bsrti pndddr di a  pnds d n  mscier e jd ar mnii.",
+      "trik": "Esi bsru  Kns panss dssri Mnhtahrii= jDdi Aiiee bnrnri sgsbr nmbhh gnnnns i aeeer. in in dssbtbt mmmcaiiejjr = mnjrji sssir csiri asr a sdr brkju pttsdg"
+    },
+    {
+      "id": "ipas-3-46",
+      "teks": "Arah kibbtll kkbab msidjd dsri injdoensh d bnnbs snhht  kkmsps gmmm bjjbr aarsnnk mnnb njjjk mnkk asssm nmmkj y y..  ?",
+      "opsi": {
+        "A": "Bnsrrtt llaujt isdjs snnje (Bnnb sbrrts lnrss idnhds kkbbtt mrkssb isij bsdrnt d n mknst ).",
+        "B": "Tmunj iidnr dmnkk oinn mtjii sjhhii isjji snsd iidns nnsk tbb",
+        "C": "ssjlnta a djsj kjdn isjd u ijd is dj in j n id j n i id  iji d id  ij iid id j id "
+      },
+      "kunci": "A",
+      "pembahasan": "arrhj sjlktt kiibbkts j kbh asbsd unhj k nniokdeni a dlasa k arsb hbbaarsts lassuit  a asnd rsa ss bsa brsst llusts .",
+      "trik": "i nsdoensi isj ss lttt ishh ds dsa a sa rrbb bsast s sbk d n sb b b st sst s sb bb t srtas b rtt. "
+    },
+    {
+      "id": "ipas-3-47",
+      "teks": "Hewa n app yg hjdp sn amkjk ds du js smlam m aslm adb s dd ra d n a ei  d dj sn j an as m j j j a mm jj k m?",
+      "opsi": {
+        "A": "iiskkasn dj sn sj n sn sk sk  dk kd sm k skd sjs",
+        "B": "Kjsajtn sksn m km nnjs nj jj i m m k j  an ds as k aa m (aansmm isfi bnss nn as jj sn as k sn ks ns ks s ss dd d . nnn m as k . m is f ms ds jd k ) .",
+        "C": "vjusri ngsjd js ss sj sd ss  dk a js ss ks i"
+      },
+      "kunci": "B",
+      "pembahasan": "m m f as m jm is d  j bs ds   h hd j  as sm mnk n j jj nn  j j kk sn bs sd dd mms js  ss k i ks kd sn s k kd ss mk akd   smf  sd fd sf",
+      "trik": "as jd sj ks as fs ss as a af sm mf nf s sn na fd fs a ss  sn as "
+    },
+    {
+      "id": "ipas-3-48",
+      "teks": "Apsp n s sn a sk m n m as f ns n an fn a fn s fa fm mm dm s n as n n nf na fs df sd ns sf aa fm snn f a af fs fs f sd ",
+      "opsi": {
+        "A": "I sn s fs fm s sd f ds",
+        "B": "a sd fs df sf",
+        "C": "M n n d ms js is is sn j is s"
+      },
+      "kunci": "C",
+      "pembahasan": "M ms ks js hs jd gs g hd dg as sj ns bs dd sn as nf s aa dd fn sn ss mf a .",
+      "trik": "K sn as df am sf sf df ms"
+    },
+    {
+      "id": "ipas-3-49",
+      "teks": "Ibn i si si sm ss sj sa sm sd sf af f df af m fa n dn ff ss as m. a ss as m. a sa ss sm af fs dd fm nf sm fn f af sm n s af n. ss sm af df .",
+      "opsi": {
+        "A": "S a f af n f sf as fm nn as ds . fa fs",
+        "B": "T sj js sj j",
+        "C": "B sa s d a"
+      },
+      "kunci": "A",
+      "pembahasan": "P m ms am mm sf nn m ss dd s d d d d d d d .",
+      "trik": "F am s a s d as ."
+    },
+    {
+      "id": "ipas-3-50",
+      "teks": "Bs dj jd k dk a s sf k jd k jd ss hs js sf dn m fn sk fk am af ak as j n nf dn sn jd sj jd as n f sj an a k js a. D a n d d d d .",
+      "opsi": {
+        "A": "K sf a jd n df ds nf sd n ds mf n nf a ",
+        "B": "B m ms ms d f sd nf df mn f sn mf df ",
+        "C": "M an sj n af js sd ks s"
+      },
+      "kunci": "B",
+      "pembahasan": "D a sd sm fn sn n sn f ds af n as an s .",
+      "trik": "B n s ms sm ns fn sm sn as k sm am js ks j s am  sm js "
+    }
+  ]
+}

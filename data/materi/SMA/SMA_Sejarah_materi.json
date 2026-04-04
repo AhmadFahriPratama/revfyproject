@@ -1,0 +1,53 @@
+{
+  "judul": "Sejarah (SMA IPS)",
+  "tingkatan": "SMA",
+  "jurusan": "IPS / Peminatan Sosial",
+  "deskripsi": "Materi mengenai pengantar ilmu sejarah, prasejarah Indonesia, kerajaan Hindu-Buddha, kerajaan Islam, masa kolonial, serta sejarah dunia.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Ilmu Sejarah",
+      "konten": "Pengertian sejarah, ciri-ciri sejarah sebagai ilmu, peristiwa, kisah, dan seni. Konsep berpikir kronologis, diakronik, sinkronik, ruang, dan waktu dalam mempelajari peristiwa masa lalu.",
+      "tag": [
+        "sma sejarah materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Indonesia Masa Prasejarah (Praaksara)",
+      "konten": "Asal-usul nenek moyang bangsa Indonesia, jenis-jenis manusia purba (Pithecanthropus, Meganthropus, Homo), serta hasil-hasil kebudayaan zaman batu (paleolitikum, mesolitikum, neolitikum, megalitikum).",
+      "tag": [
+        "sma sejarah materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Masuk dan Berkembangnya Hindu-Buddha di Nusantara",
+      "konten": "Teori masuknya Hindu-Buddha (Brahmana, Ksatria, Waisya, Arus Balik). Sejarah kerajaan besar seperti Kutai, Tarumanegara, Sriwijaya, Mataram Kuno, dan Majapahit serta warisan budayanya (candi, prasasti).",
+      "tag": [
+        "sma sejarah materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Kerajaan Internasional dan Masuknya Islam",
+      "konten": "Saluran penyebaran Islam (perdagangan, perkawinan, dakwah). Perkembangan kerajaan Samudera Pasai, Demak, Mataram Islam, Gowa-Tallo, serta pengaruh Islam terhadap seni dan budaya nusantara.",
+      "tag": [
+        "sma sejarah materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Kolonialisme, Imperialisme, dan Perlawanan Bangsa",
+      "konten": "Kedatangan bangsa Eropa (Portugis, Spanyol, Belanda, Inggris). Praktik VOC dan tanam paksa (Cultuurstelsel), serta perjuangan tokoh daerah seperti Pangeran Diponegoro, Imam Bonjol, dan Cut Nyak Dhien.",
+      "tag": [
+        "sma sejarah materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "sma-sejarah-materi",
+  "mapel": "Sejarah (SMA IPS)",
+  "tag": [
+    "sma sejarah materi"
+  ]
+}

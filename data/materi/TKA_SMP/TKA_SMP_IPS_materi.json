@@ -1,0 +1,71 @@
+{
+  "id": "TKA_SMP_IPS",
+  "mapel": "TKA SMP IPS 2025",
+  "tingkatan": "SMP",
+  "materiKategori": "pilihan",
+  "tag": [
+    "tka",
+    "smp",
+    "ips",
+    "geografi",
+    "sejarah",
+    "ekonomi",
+    "sosiologi"
+  ],
+  "deskripsi": "Panduan materi IPS untuk TKA SMP 2025 yang mencakup geografi, sejarah, ekonomi, dan interaksi sosial dengan fokus pada pemahaman konsep dasar dan penerapan kontekstual.",
+  "daftarMateri": [
+    {
+      "sub": "Bab 1: Kondisi Geografis Indonesia",
+      "isi": "Siswa perlu memahami letak astronomis dan geografis Indonesia, pengaruh posisi strategis, iklim, potensi sumber daya alam, dan bentuk muka bumi. Soal geografi SMP sering menghubungkan kondisi wilayah dengan aktivitas penduduk.",
+      "tag": [
+        "tka smp ips materi",
+        "bab-1"
+      ]
+    },
+    {
+      "sub": "Bab 2: Interaksi Sosial dan Kehidupan Masyarakat",
+      "isi": "Materi ini membahas syarat interaksi sosial, bentuk kerja sama, persaingan, konflik, serta pengaruh lembaga sosial dalam kehidupan sehari-hari. Siswa perlu mampu mengenali contoh nyata dari tiap bentuk interaksi tersebut.",
+      "tag": [
+        "tka smp ips materi",
+        "bab-2"
+      ]
+    },
+    {
+      "sub": "Bab 3: Sejarah Indonesia Awal",
+      "isi": "Topik sejarah mencakup masa praaksara, masuknya pengaruh Hindu-Buddha dan Islam, serta kerajaan-kerajaan penting di Nusantara. Soal sering menilai urutan peristiwa, peninggalan sejarah, dan pengaruhnya terhadap kehidupan masyarakat.",
+      "tag": [
+        "tka smp ips materi",
+        "bab-3"
+      ]
+    },
+    {
+      "sub": "Bab 4: Ekonomi Dasar dan Kelangkaan",
+      "isi": "Siswa harus memahami kebutuhan, keinginan, kelangkaan, tindakan ekonomi, kegiatan produksi, distribusi, dan konsumsi. Banyak soal menekankan pengambilan keputusan ekonomi yang rasional berdasarkan kondisi terbatas.",
+      "tag": [
+        "tka smp ips materi",
+        "bab-4"
+      ]
+    },
+    {
+      "sub": "Bab 5: Dinamika Penduduk dan Pembangunan",
+      "isi": "Materi ini membahas pertumbuhan penduduk, mobilitas, komposisi penduduk, dan dampaknya terhadap pembangunan. Siswa perlu menghubungkan data kependudukan dengan masalah sosial dan ekonomi secara sederhana tetapi logis.",
+      "tag": [
+        "tka smp ips materi",
+        "bab-5"
+      ]
+    },
+    {
+      "sub": "Bab 6: Strategi Soal IPS",
+      "isi": "Saat mengerjakan soal IPS, tentukan dulu apakah soalnya termasuk geografi, sejarah, ekonomi, atau sosial. Setelah itu, cari konsep dasar dan hubungan sebab-akibat agar tidak terkecoh oleh opsi yang mirip secara istilah tetapi salah konteks.",
+      "tag": [
+        "tka smp ips materi",
+        "bab-6"
+      ]
+    }
+  ],
+  "ringkasan": [
+    "IPS SMP menggabungkan konsep geografi, sejarah, ekonomi, dan sosial secara terpadu.",
+    "Kemampuan membaca hubungan sebab-akibat sangat penting dalam soal IPS.",
+    "Topik kelangkaan, kerajaan, dan interaksi sosial adalah materi yang sering muncul."
+  ]
+}

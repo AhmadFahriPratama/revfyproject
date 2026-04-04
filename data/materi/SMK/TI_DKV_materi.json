@@ -1,0 +1,53 @@
+{
+  "judul": "Desain Komunikasi Visual (DKV)",
+  "tingkatan": "SMK",
+  "jurusan": "TI / DKV",
+  "deskripsi": "Materi mengenai dasar seni rupa, tipografi, ilustrasi, desain grafis (vektor/bitmap), fotografi, serta desain identitas visual.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar Seni Rupa dan Desain",
+      "konten": "Elemen desain (garis, bentuk, warna, tekstur, ruang) dan prinsip desain (keseimbangan, kesatuan, penekanan, irama, proporsi). Pengenalan psikologi warna dan komposisi gambar.",
+      "tag": [
+        "ti dkv materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Tipografi dan Tata Letak",
+      "konten": "Pengenalan anatomi huruf, jenis-jenis font (Serif, Sans Serif, Script, Decorative). Prinsip layout (tata letak) media cetak dan digital, serta penggunaan grid system.",
+      "tag": [
+        "ti dkv materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Grafis Vektor dan Bitmap",
+      "konten": "Perbedaan mendasar antara gambar vektor (skalabel) dan bitmap (pixel-based). Pengenalan perangkat lunak standar industri seperti Adobe Illustrator (vektor) dan Adobe Photoshop (bitmap).",
+      "tag": [
+        "ti dkv materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Ilustrasi dan Gambar Sketsa",
+      "konten": "Teknik menggambar manual dan digital. Pembuatan karakter (character design), storyboard, serta teknik pewarnaan ilustrasi untuk media publikasi.",
+      "tag": [
+        "ti dkv materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Fotografi Dasar",
+      "konten": "Pengenalan kamera DSLR/Mirrorless, teknik pencahayaan (lighting), pengaturan segitiga eksposur (shutter speed, aperture, ISO), serta teknik sudut pandang pengambilan gambar (angle).",
+      "tag": [
+        "ti dkv materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "ti-dkv-materi",
+  "mapel": "Desain Komunikasi Visual (DKV)",
+  "tag": [
+    "ti dkv materi"
+  ]
+}

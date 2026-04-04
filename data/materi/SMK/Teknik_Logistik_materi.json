@@ -1,0 +1,53 @@
+{
+  "judul": "Teknik Logistik dan Rantai Pasok",
+  "tingkatan": "SMK",
+  "jurusan": "Teknik Logistik",
+  "deskripsi": "Materi kejuruan SMK mengenai manajemen pergudangan, pengendalian inventaris, transportasi barang, serta administrasi logistik.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Logistik dan Warehouse",
+      "konten": "Definisi logistik, peran gudang dalam rantai pasok, tata letak (layout) gudang, serta jenis-jenis alat angkut (Forklift, Hand Pallet).",
+      "tag": [
+        "teknik logistik materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Manajemen Inventaris dan Stok",
+      "konten": "Metode pencatatan barang (FIFO, LIFO, Average), penghitungan stok fisik (Stock Opname), serta penggunaan sistem barcode/RFID.",
+      "tag": [
+        "teknik logistik materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Administrasi dan Dokumen Logistik",
+      "konten": "Alur dokumen penerimaan (Receiving), penyimpanan (Put-away), pengambilan (Picking), dan pengiriman (Shipping) barang.",
+      "tag": [
+        "teknik logistik materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Distribusi dan Transportasi",
+      "konten": "Pemilihan moda transportasi (darat, laut, udara), perencanaan rute pengiriman, serta manajemen biaya pengiriman (freight costing).",
+      "tag": [
+        "teknik logistik materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: K3LH dan Budaya Kerja 5R",
+      "konten": "Keselamatan dan kesehatan kerja di gudang, penggunaan APD, serta implementasi budaya 5R (Ringkas, Rapi, Resik, Rawat, Rajin).",
+      "tag": [
+        "teknik logistik materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "teknik-logistik-materi",
+  "mapel": "Teknik Logistik dan Rantai Pasok",
+  "tag": [
+    "teknik logistik materi"
+  ]
+}

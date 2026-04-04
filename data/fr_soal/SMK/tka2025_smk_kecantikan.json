@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_KEC_01",
+    "pertanyaan": "FR BNSP: Apa yang harus dilakukan terapis jika menemukan klien memiliki penyakit kulit menular (misal: kurap) di area yang akan dirawat?",
+    "opsi": [
+      "Menjelaskan dengan sopan bahwa perawatan tidak bisa dilakukan saat ini dan menyarankan konsultasi ke dokter kulit",
+      "Tetap merawatnya diam-diam",
+      "Menertawakan klien",
+      "Memberikan obat sembarang",
+      "Mengusir klien dengan kasar"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KEC_02",
+    "pertanyaan": "FR Makeup: Untuk wajah yang berbentuk 'Bulat', pemberian shading/contour sebaiknya dilakukan pada area...",
+    "opsi": [
+      "Puncak dahi saja",
+      "Bagian pipi (Bawah tulang pipi) dan garis rahang untuk memberikan kesan lebih tirus",
+      "Di atas alis",
+      "Hanya di dagu",
+      "Seluruh wajah warna gelap"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KEC_03",
+    "pertanyaan": "FR Salon: Apa manfaat pemberian pijatan (Massage) pada punggung saat proses creambath?",
+    "opsi": [
+      "Hanya membuang waktu",
+      "Biar kotorannya hilang",
+      "Membantu relaksasi dan melancarkan peredaran darah bagi klien",
+      "Mengurangi biaya listrik",
+      "Sebagai hukuman"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KEC_04",
+    "pertanyaan": "FR Industri: Apa perbedaan utama antara 'Smoothing' dan 'Bonding'?",
+    "opsi": [
+      "Sama saja",
+      "Smoothing pakai air es",
+      "Bonding pakai lem",
+      "Bonding hasilnya jauh lebih kaku dan permanen, Smoothing hasilnya terlihat lebih jatuh alami",
+      "Smoothing dilarang untuk rambut pendek"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KEC_05",
+    "pertanyaan": "FR Penataan: Sanggul 'Semi-Formal' biasanya cocok digunakan untuk acara...",
+    "opsi": [
+      "Pesta pernikahan adat",
+      "Olahraga rutin",
+      "Tidur malam",
+      "Membersihkan rumah",
+      "Acara wisuda atau dinner party"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

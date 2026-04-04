@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Perhotelan",
+  "tingkatan": "SMK",
+  "jurusan": "Perhotelan",
+  "deskripsi": "Materi mengenai industri perhotelan, layanan front office, housekeeping, food & beverage service, serta etika profesi di industri hospitality.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Industri Perhotelan dan Pariwisata",
+      "konten": "Pengertian hotel, klasifikasi hotel (berdasarkan bintang, lokasi, dan ukuran). Hubungan antara hotel dan industri pariwisata secara luas, serta kontribusi sektor perhotelan terhadap ekonomi.",
+      "tag": [
+        "par perhotelan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Layanan Front Office (Kantor Depan)",
+      "konten": "Fungsi departemen Front Office sebagai pusat informasi dan layanan tamu. Prosedur reservasi, check-in, penanganan tamu selama menginap, hingga proses check-out dan pembayaran (billing).",
+      "tag": [
+        "par perhotelan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Layanan Housekeeping (Tata Graha)",
+      "konten": "Tugas dan tanggung jawab departemen Housekeeping dalam menjaga kebersihan, kerapihan, dan kenyamanan seluruh area hotel, terutama kamar tamu (guest rooms) dan area publik.",
+      "tag": [
+        "par perhotelan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Food and Beverage Service",
+      "konten": "Dasar-dasar pelayanan makanan dan minuman di restoran hotel. Pengenalan peralatan makan (chinaware, silverware, glassware), teknik table setting, serta etika melayani tamu di meja makan.",
+      "tag": [
+        "par perhotelan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Grooming dan Etika Profesi",
+      "konten": "Standar penampilan (grooming) di industri perhotelan, kemampuan komunikasi interpersonal, bahasa tubuh, serta pentingnya sikap ramah (hospitality) dalam melayani tamu dari berbagai latar belakang budaya.",
+      "tag": [
+        "par perhotelan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "par-perhotelan-materi",
+  "mapel": "Dasar-Dasar Perhotelan",
+  "tag": [
+    "par perhotelan materi"
+  ]
+}

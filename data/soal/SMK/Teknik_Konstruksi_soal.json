@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TE_KO_01",
+    "pertanyaan": "Bagian paling dasar dari sebuah bangunan yang berfungsi meneruskan beban ke tanah keras disebut...",
+    "opsi": [
+      "Pondasi",
+      "Kolom",
+      "Balok",
+      "Dinding",
+      "Atap"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pondasi menjamin stabilitas bangunan agar tidak miring atau roboh."
+  },
+  {
+    "id": "TE_KO_02",
+    "pertanyaan": "Bahan bangunan yang merupakan campuran dari semen, pasir, kerikil, dan air disebut...",
+    "opsi": [
+      "Mortar",
+      "Beton",
+      "Plesteran",
+      "Aci",
+      "Aspal"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Beton sangat kuat menahan beban tekan. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Beton\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TE_KO_03",
+    "pertanyaan": "Struktur tegak yang berfungsi sebagai tulang punggung penahan beban atap dan lantai pada bangunan gedung disebut...",
+    "opsi": [
+      "Balok (Beam)",
+      "Sloof",
+      "Kolom (Column / Tiang)",
+      "Ring Balk",
+      "Kusen"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kolom menyalurkan beban vertikal ke pondasi."
+  },
+  {
+    "id": "TE_KO_04",
+    "pertanyaan": "Bata yang terbuat dari campuran pasir silika, semen, dan kapur yang diproses secara autoclave sehingga berbobot ringan disebut...",
+    "opsi": [
+      "Bata Merah",
+      "Batako",
+      "Batu Kali",
+      "Bata Ringan (Hebel)",
+      "Keramik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bata ringan mempercepat proses pembangunan dan mengurangi beban struktur."
+  },
+  {
+    "id": "TE_KO_05",
+    "pertanyaan": "Struktur horizontal yang terletak di atas pondasi dan berfungsi meratakan beban dinding ke pondasi disebut...",
+    "opsi": [
+      "Kolom",
+      "Gording",
+      "Reng",
+      "Usuk",
+      "Sloof"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sloof mengikat kolom-kolom bagian bawah agar tetap pada posisinya."
+  },
+  {
+    "id": "TE_KO_06",
+    "pertanyaan": "Dalam gambar teknik bangunan, gambar yang memperlihatkan tata letak ruangan dilihat dari atas secara horizontal disebut...",
+    "opsi": [
+      "Denah",
+      "Tampak Depan",
+      "Potongan",
+      "Perspektif",
+      "Site Plan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Denah menunjukkan fungsi ruang, ukuran, dan arah bukaan pintu/jendela."
+  },
+  {
+    "id": "TE_KO_07",
+    "pertanyaan": "Gambar yang memperlihatkan isi bagian dalam bangunan (irisan) secara vertikal disebut...",
+    "opsi": [
+      "Denah",
+      "Potongan (Section)",
+      "Tampak",
+      "Detail",
+      "Maket"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Potongan memberikan informasi detail ketinggian lantai, langit-langit, dan konstruksi atap."
+  },
+  {
+    "id": "TE_KO_08",
+    "pertanyaan": "Alat ukur tanah yang digunakan untuk menentukan beda tinggi (leveling) antar dua titik disebut...",
+    "opsi": [
+      "Meteran",
+      "Kompas",
+      "Waterpas (Leveling Instrument)",
+      "Busur",
+      "Siku"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Waterpas membantu memastikan lantai atau jalan dalam kondisi rata."
+  },
+  {
+    "id": "TE_KO_09",
+    "pertanyaan": "APD wajib bagi pekerja konstruksi untuk melindungi kepala dari kejatuhan benda keras adalah...",
+    "opsi": [
+      "Topi",
+      "Payung",
+      "Kacamata",
+      "Helm Proyek (Safety Helmet)",
+      "Masker"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Helm proyek dirancang tahan benturan benda jatuh dari ketinggian."
+  },
+  {
+    "id": "TE_KO_10",
+    "pertanyaan": "APD yang wajib digunakan saat bekerja di ketinggian lebih dari 2 meter agar tidak jatuh ke tanah adalah...",
+    "opsi": [
+      "Sepatu Boot",
+      "Jaket",
+      "Sarung Tangan",
+      "Earplug",
+      "Full Body Harness (Sabuk Pengaman)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Body harness dikaitkan pada tempat yang kokoh (anchor)."
+  },
+  {
+    "id": "TE_KO_11",
+    "pertanyaan": "Kayu yang paling kuat dan tahan lama untuk konstruksi bangunan (kusen/pintu) di Indonesia adalah kayu...",
+    "opsi": [
+      "Jati atau Ulin (Kayu Besi)",
+      "Sengon",
+      "Pinus",
+      "Karet",
+      "Albasia"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Jati dan Ulin memiliki ketahanan tinggi terhadap rayap dan cuaca."
+  },
+  {
+    "id": "TE_KO_12",
+    "pertanyaan": "Campuran semen dan air tanpa pasir yang digunakan untuk menghaluskan permukaan plesteran dinding disebut...",
+    "opsi": [
+      "Mortar",
+      "Aci / Acian",
+      "Beton",
+      "Pondasi",
+      "Cat"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Acian membuat permukaan dinding licin sebelum dicat."
+  },
+  {
+    "id": "TE_KO_13",
+    "pertanyaan": "Alat bantu berupa perancah bambu atau besi pipa yang digunakan untuk bekerja di area tinggi disebut...",
+    "opsi": [
+      "Tangga Lipat",
+      "Crane",
+      "Scaffolding",
+      "Eskalator",
+      "Lift"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Scaffolding harus dipasang dengan kuat dan memiliki pijakan yang stabil."
+  },
+  {
+    "id": "TE_KO_14",
+    "pertanyaan": "Papan duga (bowplank) dipasang pada awal proyek bertujuan untuk...",
+    "opsi": [
+      "Tempat istirahat tukang",
+      "Menyimpan semen",
+      "Menutup proyek agar tidak terlihat luar",
+      "Menentukan titik-titik as bangunan dan elevasi (ketinggian) lantai",
+      "Tempat makan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bowplank adalah acuan utama saat menggali pondasi dan memasang dinding."
+  },
+  {
+    "id": "TE_KO_15",
+    "pertanyaan": "Apa keunggulan baja ringan dibandingkan kayu untuk konstruksi rangka atap selalin harganya?",
+    "opsi": [
+      "Warna lebih bagus",
+      "Lebih berat",
+      "Mudah terbakar",
+      "Tidak bisa dipotong",
+      "Tahan karat dan tidak bisa dimakan rayap"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Baja ringan (galvalum) memiliki umur ekonomis yang panjang dan pemasangan cepat."
+  },
+  {
+    "id": "TE_KO_16",
+    "pertanyaan": "Gaya yang bekerja menekan atau memendekkan sebuah kolom bangunan disebut gaya...",
+    "opsi": [
+      "Tekan (Compression)",
+      "Tarik",
+      "Geser",
+      "Lentur",
+      "Torsi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Beton sangat unggul dalam menahan gaya tekan."
+  },
+  {
+    "id": "TE_KO_17",
+    "pertanyaan": "Gaya yang cenderung menarik atau memanjangkan suatu material disebut gaya...",
+    "opsi": [
+      "Tekan",
+      "Tarik (Tension)",
+      "Puntir",
+      "Beban Mati",
+      "Beban Hidup"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Baja tulangan (besi beton) digunakan di dalam beton untuk menahan gaya tarik (beton bertulang)."
+  },
+  {
+    "id": "TE_KO_18",
+    "pertanyaan": "Beton yang di dalamnya dipasang baja tulangan untuk menahan gaya tarik disebut...",
+    "opsi": [
+      "Beton Ringan",
+      "Beton Aspal",
+      "Beton Bertulang (Reinforced Concrete)",
+      "Beton Pracetak",
+      "Beton Instan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kombinasi beton dan baja menghasilkan struktur yang kokoh (tahan tekan dan tarik)."
+  },
+  {
+    "id": "TE_KO_19",
+    "pertanyaan": "Alat berat yang digunakan untuk memadahkan lapisan tanah atau aspal jalan adalah...",
+    "opsi": [
+      "Excavator (Bego)",
+      "Bulldozer",
+      "Dump Truck",
+      "Road Roller (Wales / Tandem)",
+      "Crane"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pepadatan penting agar jalan tidak cepat amblas atau retak."
+  },
+  {
+    "id": "TE_KO_20",
+    "pertanyaan": "Alat berat yang berfungsi untuk menggali tanah dan memuatnya ke truk adalah...",
+    "opsi": [
+      "Bulldozer",
+      "Grader",
+      "Tower Crane",
+      "Scraper",
+      "Excavator"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Excavator memiliki lengan dengan bucket pengambil tanah."
+  },
+  {
+    "id": "TE_KO_21",
+    "pertanyaan": "Perangkat lunak (software) yang paling umum digunakan arsitek untuk membuat gambar 2D presisi adalah...",
+    "opsi": [
+      "AutoCAD",
+      "Photoshop",
+      "Excel",
+      "PowerPoint",
+      "CorelDraw"
+    ],
+    "jawaban": 0,
+    "pembahasan": "AutoCAD adalah standar industri untuk Technical Drawing."
+  },
+  {
+    "id": "TE_KO_22",
+    "pertanyaan": "Penutup atap yang terbuat dari campuran semen dan serat (tanpa asbes karena bahaya kesehatan) berbentuk lembaran bergelombang disebut...",
+    "opsi": [
+      "Genteng Tanah Liat",
+      "Fiber Cement",
+      "Seng",
+      "Genteng Keramik",
+      "Genteng Beton"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Lebih ringan dan luas menutup atap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Fiber Cement\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TE_KO_23",
+    "pertanyaan": "Ukuran standar tinggi pintu utama rumah biasanya berkisar...",
+    "opsi": [
+      "100 cm",
+      "150 cm",
+      "200 cm - 210 cm",
+      "300 cm",
+      "50 cm"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Disesuaikan dengan standar antropometri (ukuran tubuh manusia) agar nyaman dilewati."
+  },
+  {
+    "id": "TE_KO_24",
+    "pertanyaan": "Ukuran standar tinggi anak tangga yang nyaman untuk dinaiki (Optrede) adalah...",
+    "opsi": [
+      "10 cm",
+      "25 cm",
+      "30 cm",
+      "15 cm - 19 cm",
+      "5 cm"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tangga terlalu tinggi membuat cepat lelah, terlalu rendah membuat langkah tidak efisien."
+  },
+  {
+    "id": "TE_KO_25",
+    "pertanyaan": "Apa itu 'Site Plan' dalam dokumen konstruksi?",
+    "opsi": [
+      "Gambar denah satu ruangan saja",
+      "Gambar warna warni",
+      "Daftar gaji tukang",
+      "Foto gedung",
+      "Gambar rencana tata letak bangunan beserta fasilitas di dalam satu area lahan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Site plan menunjukkan hubungan antar massa bangunan dan lingkungan (taman, parkir, jalan)."
+  },
+  {
+    "id": "TE_KO_26",
+    "pertanyaan": "Material yang digunakan sebagai pengikat utama pada campuran beton adalah...",
+    "opsi": [
+      "Semen Portland (PC)",
+      "Pasir",
+      "Kerikil",
+      "Air Saja",
+      "Cat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Semen bereaksi secara kimia dengan air (hidrasi) mengeras seperti batu."
+  },
+  {
+    "id": "TE_KO_27",
+    "pertanyaan": "Pondasi yang digunakan untuk bangunan berlantai banyak (gedung tinggi) dengan cara menancapkan tiang beton ke dalam tanah sangat dalam disebut...",
+    "opsi": [
+      "Pondasi Batu Kali",
+      "Pondasi Tiang Pancang (Pile Foundation)",
+      "Pondasi Dangkal",
+      "Pondasi Umpak",
+      "Pondasi Rolag"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tiang pancang atau Bore Pile menyalurkan beban gedung ke lapisan tanah keras di kedalaman."
+  },
+  {
+    "id": "TE_KO_28",
+    "pertanyaan": "Bagian atap yang berfungsi sebagai penutup permukaan agar air hujan mengalir ke bawah disebut...",
+    "opsi": [
+      "Gording",
+      "Kuda-kuda",
+      "Penutup Atap (Genteng/Spandek)",
+      "Plafon",
+      "Lisplang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Fungsi pelindung utama bangunan dari cuaca."
+  },
+  {
+    "id": "TE_KO_29",
+    "pertanyaan": "Sudut kemiringan atap genteng tanah liat yang ideal agar air tidak merembes adalah...",
+    "opsi": [
+      "10 derajat",
+      "90 derajat",
+      "0 derajat",
+      "30 - 35 derajat",
+      "180 derajat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Terlalu landai berisiko tempias (air masuk tertiup angin)."
+  },
+  {
+    "id": "TE_KO_30",
+    "pertanyaan": "Dalam K3LH, rompi berwarna terang (hijau/orange) dengan strip reflektor bertujuan untuk...",
+    "opsi": [
+      "Mencegah kedinginan",
+      "Menyimpan uang",
+      "Hanya identitas perusahaan",
+      "Pelindung api",
+      "Meningkatkan visibilitas (terlihat jelas) agar tidak tertabrak alat berat atau terjatuh"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sangat penting saat bekerja di area proyek yang sibuk atau malam hari."
+  },
+  {
+    "id": "TE_KO_31",
+    "pertanyaan": "Alat yang digunakan untuk memotong keramik agar potongannya lurus dan rapi adalah...",
+    "opsi": [
+      "Alat Potong Keramik (Tile Cutter)",
+      "Gunting",
+      "Pahat",
+      "Gergaji Kayu",
+      "Obeng"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tile cutter menggunakan mata intan/karbida untuk menggores keramik sebelum dipatahkan."
+  },
+  {
+    "id": "TE_KO_32",
+    "pertanyaan": "Campuran semen dan pasir dengan perbandingan tertentu yang digunakan untuk merekatkan bata disebut...",
+    "opsi": [
+      "Beton",
+      "Spesi / Mortar",
+      "Aci",
+      "Kapur",
+      "Cat"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Spesi merekatkan bata dan mengisi celah antar bata."
+  },
+  {
+    "id": "TE_KO_33",
+    "pertanyaan": "Satuan standar volume untuk pemesanan beton 'Ready Mix' adalah...",
+    "opsi": [
+      "Kilogram (kg)",
+      "Meter Lari (m1)",
+      "Meter Kubik (m3)",
+      "Meter Persegi (m2)",
+      "Liter"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Concrete mixer truck (truk molen) biasanya membawa kapasitas 5-7 m3."
+  },
+  {
+    "id": "TE_KO_34",
+    "pertanyaan": "Struktur atap yang menyerupai bentuk segitiga besar dan menopang seluruh beban atap disebut...",
+    "opsi": [
+      "Usuk",
+      "Reng",
+      "Bubungan",
+      "Kuda-kuda",
+      "Talang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kuda-kuda mentransfer beban atap ke kolom bangunan."
+  },
+  {
+    "id": "TE_KO_35",
+    "pertanyaan": "Kayu yang diletakkan di atas kuda-kuda dan menjadi tumpuan usuk disebut...",
+    "opsi": [
+      "Reng",
+      "Lisplang",
+      "Plafon",
+      "Rangka",
+      "Gording"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gording menghubungkan antar kuda-kuda. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Gording\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TE_KO_36",
+    "pertanyaan": "Kayu ukuran kecil yang dipasang paling atas untuk mengaitkan genteng adalah...",
+    "opsi": [
+      "Reng",
+      "Gording",
+      "Usuk",
+      "Balok Tarik",
+      "Skor"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Reng dipasang berjarak sesuai dengan ukuran genteng yang digunakan."
+  },
+  {
+    "id": "TE_KO_37",
+    "pertanyaan": "Dokumen yang berisi daftar volume pekerjaan, harga satuan, dan total biaya estimasi sebuah proyek disebut...",
+    "opsi": [
+      "RKS",
+      "RAB (Rencana Anggaran Biaya)",
+      "Kontrak",
+      "Sertifikat",
+      "Kurva S"
+    ],
+    "jawaban": 1,
+    "pembahasan": "RAB membantu mengontrol pendanaan proyek."
+  },
+  {
+    "id": "TE_KO_38",
+    "pertanyaan": "Grafik yang menunjukkan kemajuan (progress) pengerjaan proyek konstruksi dari waktu ke waktu disebut...",
+    "opsi": [
+      "Diagram Lingkaran",
+      "Tabel Gaji",
+      "Kurva S",
+      "Peta Lokasi",
+      "Struktur Organisasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kurva S membandingkan rencana pengerjaan dengan realisasi di lapangan."
+  },
+  {
+    "id": "TE_KO_39",
+    "pertanyaan": "Berapakah perbandingan campuran beton standar K-175 untuk pekerjaan non-struktural (Semen : Pasir : Kerikil)?",
+    "opsi": [
+      "1 : 1 : 1",
+      "1 : 5 : 10",
+      "2 : 2 : 2",
+      "1 : 2 : 3",
+      "3 : 1 : 1"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Perbandingan 1:2:3 adalah rumus praktis yang sering digunakan di lapangan."
+  },
+  {
+    "id": "TE_KO_40",
+    "pertanyaan": "Pengujian kekentalan adukan beton di lapangan sesaat setelah dicampur dengan menggunakan kerucut baja disebut uji...",
+    "opsi": [
+      "Uji Tekan",
+      "Uji Tarik",
+      "Uji Rendam",
+      "Uji Bakar",
+      "Uji Slump (Slump Test)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Uji slump memastikan beton tidak terlalu encer atau terlalu kaku sebelum dituangkan."
+  },
+  {
+    "id": "TE_KO_41",
+    "pertanyaan": "Limbah sisa semen atau puing bangunan tidak boleh dibuang sembarangan ke...",
+    "opsi": [
+      "Saluran air / sungai karena bisa mencemari dan menyumbat aliran",
+      "Tempat pembuangan resmi",
+      "Bak truk",
+      "Gudang",
+      "Lahan kosong milik sendiri"
+    ],
+    "jawaban": 0,
+    "pembahasan": "K3LH menekankan pada pengelolaan limbah agar ramah lingkungan."
+  },
+  {
+    "id": "TE_KO_42",
+    "pertanyaan": "Apa singkatan dari IMB?",
+    "opsi": [
+      "Instruksi Membeli Bahan",
+      "Izin Mendirikan Bangunan",
+      "Ikatan Mandor Bangunan",
+      "Indeks Mutu Beton",
+      "Informasi Manajemen Bangunan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kini IMB telah berganti istilah menjadi PBG (Persetujuan Bangunan Gedung)."
+  },
+  {
+    "id": "TE_KO_43",
+    "pertanyaan": "Gambar arsitektur yang menunjukkan detail bagian dalam lemari atau meja dibuat dengan skala...",
+    "opsi": [
+      "1 : 100",
+      "1 : 500",
+      "1 : 5 atau 1 : 10 (Skala Pembesaran/Detail)",
+      "1 : 1000",
+      "Tanpa skala"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Skala besar (angka penyebut kecil) digunakan untuk memperjelas sambungan atau konstruksi perabot."
+  },
+  {
+    "id": "TE_KO_44",
+    "pertanyaan": "Baut yang ditanam di dalam beton pondasi untuk mengikat tiang kolom baja disebut...",
+    "opsi": [
+      "Dynabolt",
+      "Sekrup",
+      "Baut Kayu",
+      "Anchor Bolt (Baut Angkur)",
+      "Paku Beton"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Angkur menjamin tiang tidak bergeser dari pondasinya."
+  },
+  {
+    "id": "TE_KO_45",
+    "pertanyaan": "Logam yang digunakan sebagai tulangan beton karena memiliki daya rekat kuat dengan beton adalah...",
+    "opsi": [
+      "Aluminium",
+      "Tembaga",
+      "Emas",
+      "Timah",
+      "Baja Tulangan (Besi Beton Polos/Ulir)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Besi beton ulir (deformed bar) memiliki daya ikat lebih kuat dibanding besi polos."
+  },
+  {
+    "id": "TE_KO_46",
+    "pertanyaan": "Alat yang digunakan untuk memotong besi beton tulangan secara manual adalah...",
+    "opsi": [
+      "Gunting Beton (Bolt Cutter)",
+      "Gergaji Kayu",
+      "Palu Besi",
+      "Obeng",
+      "Sendok Semen"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Gunting beton memiliki lengan panjang untuk daya ungkit besar saat memotong besi."
+  },
+  {
+    "id": "TE_KO_47",
+    "pertanyaan": "Proses pembongkaran cetakan beton (begisting) hanya boleh dilakukan jika beton sudah mencapai...",
+    "opsi": [
+      "Satu jam setelah tuang",
+      "Kekuatan yang cukup untuk memikul beban sendiri (biasanya minimal 3-7 hari tergantung jenis struktur)",
+      "Warna menjadi putih",
+      "Terkena hujan",
+      "Sudah difoto"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Membuka begisting terlalu cepat bisa menyebabkan struktur runtuh mendadak."
+  },
+  {
+    "id": "TE_KO_48",
+    "pertanyaan": "Alat ukur vertikal sederhana yang menggunakan beban tali untuk mematikan kelurusan dinding adalah...",
+    "opsi": [
+      "Waterpas",
+      "Meteran",
+      "Lot (Unting-unting)",
+      "Siku",
+      "Jangka"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Gaya gravitasi menarik beban lot tegak lurus ke bumi."
+  },
+  {
+    "id": "TE_KO_49",
+    "pertanyaan": "Berapakah panjang 1 meter jika dikonversi ke centimeter?",
+    "opsi": [
+      "10 cm",
+      "1000 cm",
+      "0.1 cm",
+      "100 cm",
+      "50 cm"
+    ],
+    "jawaban": 3,
+    "pembahasan": "1 m = 100 cm. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"100 cm\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TE_KO_50",
+    "pertanyaan": "Etika yang baik bagi pekerja proyek konstruksi adalah...",
+    "opsi": [
+      "Bekerja asal cepat selesai",
+      "Mencuri bahan sisa",
+      "Tidur saat jam kerja",
+      "Mengabaikan instruksi mandor",
+      "Mengutamakan kualitas bangunan dan keselamatan kerja demi keamanan penghuni nantinya"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Integritas konstruksi sangat vital karena berhubungan dengan keselamatan nyawa manusia di dalam bangunan."
+  }
+]

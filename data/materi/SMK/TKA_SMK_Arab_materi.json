@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Bahasa Arab",
+  "tingkatan": "SMK",
+  "jurusan": "Pilihan",
+  "deskripsi": "Materi persiapan TKA Bahasa Arab untuk siswa SMK yang berfokus pada pengenalan huruf hijaiyah, kosa kata dasar, tata bahasa (Nahwu & Shorof dasar), dan percakapan praktis.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Huruf Hijaiyah dan Maharijul Huruf",
+      "konten": "Mengenal 28 huruf hijaiyah, harakat (Fathah, Kasroh, Dommah, Tanwin), tanda sukun dan tasydid, serta aturan penulisan huruf di awal, tengah, dan akhir kata.",
+      "tag": [
+        "tka smk arab materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Kosakata (Mufrodat) dan Salam",
+      "konten": "Salam sehari-hari (Assalamu'alaikum, Kaifa Haluk), angka (wahid-mi'ah), anggota keluarga (Ab, Umm), serta benda-benda di sekolah dan bengkel.",
+      "tag": [
+        "tka smk arab materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Kata Ganti (Dhomir) dan Isim",
+      "konten": "Kata ganti orang (Ana, Anta, Huwa), Isim Isyaroh (Hadza, Hadzihi), serta perbedaan kata benda Muzakkar (laki-laki) dan Muannas (perempuan).",
+      "tag": [
+        "tka smk arab materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Kata Kerja (Fi'il) Dasar",
+      "konten": "Mengenal Fi'il Madhi (masa lampau), Fi'il Mudhari' (sedang/akan datang), serta perubahan kata kerja dasar dalam kalimat sederhana.",
+      "tag": [
+        "tka smk arab materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Percakapan dan Budaya Timur Tengah",
+      "konten": "Perkenalan diri (At-Ta'aruf), menanyakan arah, belanja di pasar, serta etiket pergaulan dan bisnis di negara-negara Timur Tengah.",
+      "tag": [
+        "tka smk arab materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-arab-materi",
+  "mapel": "TKA SMK: Bahasa Arab",
+  "tag": [
+    "tka smk arab materi"
+  ]
+}

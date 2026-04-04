@@ -1,0 +1,10 @@
+{
+  "id": "sync-job-index",
+  "jobs": [
+    "generate",
+    "normalize",
+    "quality_fix",
+    "index_refresh",
+    "validate"
+  ]
+}

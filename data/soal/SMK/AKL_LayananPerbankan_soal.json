@@ -1,0 +1,652 @@
+[
+  {
+    "id": "AKL_LP_01",
+    "pertanyaan": "Undang-undang Republik Indonesia yang mengatur tentang perbankan adalah...",
+    "opsi": [
+      "UU No. 7 Tahun 1992 Jo No. 10 Tahun 1998",
+      "UU No. 17 Tahun 2003",
+      "UU No. 1 Tahun 2004",
+      "UU No. 23 Tahun 1999",
+      "UU No. 8 Tahun 1995"
+    ],
+    "jawaban": 0,
+    "pembahasan": "UU No. 7 Tahun 1992 yang kemudian diubah dengan UU No. 10 Tahun 1998 adalah landasan hukum utama perbankan di Indonesia."
+  },
+  {
+    "id": "AKL_LP_02",
+    "pertanyaan": "Bank yang melaksanakan kegiatan usaha secara konvensional dan atau berdasarkan Prinsip Syariah yang memberikan jasa dalam lalu lintas pembayaran disebut...",
+    "opsi": [
+      "Bank Sentral",
+      "Bank Umum",
+      "Bank Perkreditan Rakyat",
+      "Bank Syariah saja",
+      "Otoritas Jasa Keuangan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Definisi tersebut merujuk pada Bank Umum sesuai UU Perbankan."
+  },
+  {
+    "id": "AKL_LP_03",
+    "pertanyaan": "Simpanan yang penarikannya hanya dapat dilakukan menurut syarat tertentu yang disepakati, tetapi tidak dapat ditarik dengan cek disebut...",
+    "opsi": [
+      "Giro",
+      "Kredit",
+      "Tabungan",
+      "Deposito",
+      "Inkaso"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tabungan adalah simpanan masyarakat yang penarikannya fleksibel namun tidak menggunakan instrumen cek/bilyet giro."
+  },
+  {
+    "id": "AKL_LP_04",
+    "pertanyaan": "Surat perintah tidak bersyarat dari nasabah kepada bank penyimpan dana untuk membayar sejumlah uang kepada orang yang namanya tertulis disebut...",
+    "opsi": [
+      "Bilyet Giro",
+      "Nota Debet",
+      "Nota Kredit",
+      "Cek",
+      "Kwitansi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Cek adalah perintah bayar tunai atau pemindahbukuan dari nasabah pemilik rekening giro."
+  },
+  {
+    "id": "AKL_LP_05",
+    "pertanyaan": "Perbedaan utama antara cek dan bilyet giro adalah...",
+    "opsi": [
+      "Cek hanya untuk bank umum",
+      "Bilyet Giro tidak punya tanggal kadaluarsa",
+      "Cek harus ditandatangani direktur bank",
+      "Bilyet Giro bisa digunakan untuk belanja di pasar",
+      "Cek bisa dicairkan tunai, Bilyet Giro hanya pemindahbukuan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Cek dapat dicairkan langsung dalam bentuk uang tunai di kasir bank, sedangkan bilyet giro hanya untuk memindahkan dana antar rekening."
+  },
+  {
+    "id": "AKL_LP_06",
+    "pertanyaan": "Bank yang dilarang menerima simpanan berupa giro adalah...",
+    "opsi": [
+      "Bank Perkreditan Rakyat (BPR)",
+      "Bank Mandiri",
+      "Bank BCA",
+      "Bank Indonesia",
+      "Bank Pembangunan Daerah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "BPR memiliki keterbatasan operasional, salah satunya dilarang memberikan jasa dalam lalu lintas pembayaran seperti giro."
+  },
+  {
+    "id": "AKL_LP_07",
+    "pertanyaan": "Lembaga yang bertugas mengawasi seluruh kegiatan di sektor jasa keuangan di Indonesia adalah...",
+    "opsi": [
+      "Bank Indonesia",
+      "Otoritas Jasa Keuangan (OJK)",
+      "Lembaga Penjamin Simpanan (LPS)",
+      "Kementerian Keuangan",
+      "Badan Pemeriksa Keuangan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "OJK adalah lembaga independen yang mengatur dan mengawasi industri jasa keuangan (Bank, Pasar Modal, IKNB)."
+  },
+  {
+    "id": "AKL_LP_08",
+    "pertanyaan": "Fungsi utama Bank Indonesia sebagai bank sentral adalah...",
+    "opsi": [
+      "Memberikan kredit kepada masyarakat",
+      "Menerima tabungan dari PNS",
+      "Mencapai dan memelihara kestabilan nilai rupiah",
+      "Mengaudit laporan keuangan perusahaan",
+      "Membayar gaji tentara"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tujuan tunggal BI adalah menjaga kestabilan nilai rupiah (inflasi dan kurs)."
+  },
+  {
+    "id": "AKL_LP_09",
+    "pertanyaan": "Jasa bank untuk menagih warkat (cek/BG) yang berasal dari luar kota atau luar negeri disebut...",
+    "opsi": [
+      "Kliring",
+      "Transfer",
+      "Safe Deposit Box",
+      "Inkaso (Collection)",
+      "Delegasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Inkaso adalah jasa penagihan warkat antar kota/wilayah melalui jaringan antar bank."
+  },
+  {
+    "id": "AKL_LP_10",
+    "pertanyaan": "Sistem kliring nasional yang digunakan untuk transfer dana bernilai besar dan bersifat segera (real time) adalah...",
+    "opsi": [
+      "SKNBI",
+      "BI-FAST",
+      "Kliring Manual",
+      "Western Union",
+      "RTGS (Real Time Gross Settlement)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "RTGS digunakan untuk transaksi bernilai tinggi (>100jt) dengan penyelesaian seketika."
+  },
+  {
+    "id": "AKL_LP_11",
+    "pertanyaan": "Simpanan pihak ketiga yang penarikannya memiliki jangka waktu tertentu (misal 1, 3, 6, 12 bulan) disebut...",
+    "opsi": [
+      "Deposito Berjangka",
+      "Simpanan Giro",
+      "Tabungan Berencana",
+      "Sertifikat Bank",
+      "Obligasi Negara"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Time Deposit atau Deposito Berjangka hanya bisa diambil sesuai jatuh tempo yang dipilih nasabah."
+  },
+  {
+    "id": "AKL_LP_12",
+    "pertanyaan": "Prinsip bagi hasil dalam bank syariah di mana bank dan nasabah berbagi keuntungan dan kerugian disebut...",
+    "opsi": [
+      "Wadiah",
+      "Mudharabah",
+      "Murabahah",
+      "Ijarah",
+      "Hawalah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mudharabah adalah akad kerja sama usaha di mana pemilik modal memberikan modal 100% dan pengelola memberikan keahlian."
+  },
+  {
+    "id": "AKL_LP_13",
+    "pertanyaan": "Dalam perbankan syariah, titipan murni dari satu pihak ke pihak lain yang harus dijaga disebut...",
+    "opsi": [
+      "Musyarakah",
+      "Istishna",
+      "Wadiah",
+      "Salam",
+      "Qardh"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Wadiah adalah akad titipan di mana bank berkewajiban menjaga dana nasabah."
+  },
+  {
+    "id": "AKL_LP_14",
+    "pertanyaan": "Lembaga yang menjamin simpanan nasabah di bank apabila bank tersebut dilikuidasi adalah...",
+    "opsi": [
+      "OJK",
+      "Bank Indonesia",
+      "Bursa Efek Indonesia",
+      "LPS (Lembaga Penjamin Simpanan)",
+      "Kementerian BUMN"
+    ],
+    "jawaban": 3,
+    "pembahasan": "LPS berfungsi menjamin simpanan nasabah hingga batas tertentu (saat ini 2 Miliar) per nasabah per bank."
+  },
+  {
+    "id": "AKL_LP_15",
+    "pertanyaan": "Berapakah saldo maksimal simpanan nasabah yang dijamin oleh LPS?",
+    "opsi": [
+      "Rp 500 Juta",
+      "Rp 1 Miliar",
+      "Rp 5 Miliar",
+      "Rp 10 Miliar",
+      "Rp 2 Miliar"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sesuai ketentuan, LPS menjamin simpanan nasabah maksimal Rp 2.000.000.000."
+  },
+  {
+    "id": "AKL_LP_16",
+    "pertanyaan": "Kredit yang diberikan untuk membiayai kebutuhan operasional perusahaan (beli bahan baku, upah) disebut...",
+    "opsi": [
+      "Kredit Modal Kerja",
+      "Kredit Investasi",
+      "Kredit Konsumsi",
+      "Kredit Pemilikan Rumah",
+      "Kredit Profesi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kredit Modal Kerja ditujukan untuk memutar roda bisnis dalam jangka pendek."
+  },
+  {
+    "id": "AKL_LP_17",
+    "pertanyaan": "Unsur 5C dalam pemberian kredit mencakup hal-hal berikut, KECUALI...",
+    "opsi": [
+      "Character",
+      "Consumptive",
+      "Capacity",
+      "Collateral",
+      "Condition of Economy"
+    ],
+    "jawaban": 1,
+    "pembahasan": "5C adalah Character, Capacity, Capital, Collateral, dan Condition of Economy."
+  },
+  {
+    "id": "AKL_LP_18",
+    "pertanyaan": "Collateral dalam prinsip pemberian kredit berarti...",
+    "opsi": [
+      "Watak nasabah",
+      "Kemampuan membayar",
+      "Jaminan/Agunan",
+      "Kesehatan ekonomi",
+      "Modal sendiri nasabah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Collateral adalah aset yang dijadikan jaminan apabila nasabah gagal bayar."
+  },
+  {
+    "id": "AKL_LP_19",
+    "pertanyaan": "Sarana pelayanan perbankan yang memungkinkan nasabah bertransaksi via internet disebut...",
+    "opsi": [
+      "Mobile Banking",
+      "SMS Banking",
+      "Phone Banking",
+      "Internet Banking",
+      "ATM Banking"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Internet Banking diakses melalui browser web menggunakan jaringan internet."
+  },
+  {
+    "id": "AKL_LP_20",
+    "pertanyaan": "Metode pembayaran internasional yang menggunakan surat jaminan bank untuk eksportir disebut...",
+    "opsi": [
+      "Cash in Advance",
+      "Open Account",
+      "Consignment",
+      "Collection",
+      "Letter of Credit (L/C)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "L/C adalah instrumen pembayaran paling aman dalam perdagangan internasional karena dijamin oleh bank."
+  },
+  {
+    "id": "AKL_LP_21",
+    "pertanyaan": "Warkat luar kliring yang tidak dapat diproses (misal tanda tangan tidak cocok) akan dikenakan...",
+    "opsi": [
+      "Tolakan Kliring",
+      "Nota Kredit",
+      "Bonus Bunga",
+      "Biaya Transfer",
+      "Pencabutan Izin"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tolakan kliring terjadi jika instrumen pembayaran (cek/BG) tidak memenuhi syarat formal atau dana tidak cukup."
+  },
+  {
+    "id": "AKL_LP_22",
+    "pertanyaan": "Istilah KYC dalam perbankan adalah singkatan dari...",
+    "opsi": [
+      "Keep Your Customer",
+      "Know Your Customer",
+      "Kill Your Competitor",
+      "Kind Yield Count",
+      "Key Your Credit"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Know Your Customer adalah prinsip pengenalan nasabah untuk mencegah pencucian uang dan pendanaan terorisme."
+  },
+  {
+    "id": "AKL_LP_23",
+    "pertanyaan": "Bank yang dimiliki oleh pemerintah daerah provinsi/kabupaten/kota disebut...",
+    "opsi": [
+      "BUMN",
+      "Bank Swasta Nasional",
+      "BUMD / Bank Pembangunan Daerah (BPD)",
+      "Bank Asing",
+      "Koperasi Simpan Pinjam"
+    ],
+    "jawaban": 2,
+    "pembahasan": "BPD seperti Bank DKI, Bank Jabar Banten, dll adalah bank milik pemerintah daerah."
+  },
+  {
+    "id": "AKL_LP_24",
+    "pertanyaan": "Berapa lama masa berlaku warkat cek sejak tanggal pengeluaran (masa unjuk)?",
+    "opsi": [
+      "30 Hari",
+      "90 Hari",
+      "180 Hari",
+      "70 Hari",
+      "1 Tahun"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sesuai aturan BI, masa unjuk cek adalah 70 hari kalender."
+  },
+  {
+    "id": "AKL_LP_25",
+    "pertanyaan": "Alat komunikasi elektronik di bank yang berfungsi mencetak transaksi di buku tabungan adalah...",
+    "opsi": [
+      "Printer Dot Matrix",
+      "EDC Machine",
+      "Scanner",
+      "Calculator",
+      "Passbook Printer"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Passbook printer khusus digunakan untuk mencetak mutasi transaksi pada buku tabungan fisik."
+  },
+  {
+    "id": "AKL_LP_26",
+    "pertanyaan": "Pelayanan di bank yang bersifat proaktif, akurat, dan peduli kepada nasabah disebut...",
+    "opsi": [
+      "Service Excellence / Pelayanan Prima",
+      "Standard Operating Procedure",
+      "Quality Control",
+      "Customer Relationship",
+      "Front Office System"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Service Excellence bertujuan memberikan kepuasan melebihi ekspektasi nasabah."
+  },
+  {
+    "id": "AKL_LP_27",
+    "pertanyaan": "Petugas bank yang bertugas menerima setoran, melayani penarikan, dan melakukan transaksi tunai disebut...",
+    "opsi": [
+      "Customer Service",
+      "Teller",
+      "Back Office",
+      "Account Officer",
+      "Security"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Teller adalah ujung tombak pelayanan transaksi finansial tunai di kantor cabang bank."
+  },
+  {
+    "id": "AKL_LP_28",
+    "pertanyaan": "Akun di bank yang mencatat seluruh mutasi dana nasabah disebut...",
+    "opsi": [
+      "Buku Besar",
+      "Jurnal Umum",
+      "Rekening Koran (Statement of Account)",
+      "Neraca Bank",
+      "Daftar Hadir"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rekening koran memberikan rincian transaksi debit dan kredit pada satu periode tertentu."
+  },
+  {
+    "id": "AKL_LP_29",
+    "pertanyaan": "Dalam bank syariah, prinsip 'Murabahah' berarti...",
+    "opsi": [
+      "Sewa menyewa aset",
+      "Pinjaman tanpa bunga",
+      "Bagi hasil keuntungan",
+      "Jual beli dengan menyatakan harga perolehan dan keuntungan (margin)",
+      "Gadai emas"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Murabahah adalah akad jual beli di mana bank membelikan barang yang dibutuhkan nasabah dan menjualnya ke nasabah dengan mark-up."
+  },
+  {
+    "id": "AKL_LP_30",
+    "pertanyaan": "Waktu yang diperlukan oleh bank untuk mencairkan warkat kliring (cek antar bank) biasanya adalah...",
+    "opsi": [
+      "Seketika (Instan)",
+      "7 Hari Kerja",
+      "1 Bulan",
+      "Tergantung cuaca",
+      "1 Hari Kerja (T+1)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Penyelesaian kliring reguler biasanya membutuhkan 1 hari kerja kerja (Next Day Service)."
+  },
+  {
+    "id": "AKL_LP_31",
+    "pertanyaan": "Apa kepanjangan dari ATM?",
+    "opsi": [
+      "Anjungan Tunai Mandiri / Automated Teller Machine",
+      "Automated Transaction Machine",
+      "All Transfer Money",
+      "Automatic Time Management",
+      "Auto Terminal Money"
+    ],
+    "jawaban": 0,
+    "pembahasan": "ATM adalah mesin otomatis yang menjalankan fungsi teller untuk penarikan, setoran, dan transfer."
+  },
+  {
+    "id": "AKL_LP_32",
+    "pertanyaan": "Kartu yang memungkinkan nasabah mengambil uang di ATM namun memotong dana di rekening saat itu juga adalah...",
+    "opsi": [
+      "Kartu Kredit",
+      "Kartu Debit",
+      "Kartu Member",
+      "Kartu Garansi",
+      "E-Wallet"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kartu debit terhubung langsung dengan saldo tabungan nasabah."
+  },
+  {
+    "id": "AKL_LP_33",
+    "pertanyaan": "Bank umum dilarang melakukan kegiatan berikut, KECUALI...",
+    "opsi": [
+      "Melakukan penyertaan modal",
+      "Melakukan usaha perasuransian",
+      "Menerima simpanan giro",
+      "Melakukan spekulasi valuta asing",
+      "Membuka kantor cabang tanpa izin BI/OJK"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Menerima giro adalah fungsi utama bank umum. Kegiatan lain seperti asuransi dan penyertaan modal sangat dibatasi oleh aturan."
+  },
+  {
+    "id": "AKL_LP_34",
+    "pertanyaan": "Dalam perbankan, istilah 'Spread' berarti...",
+    "opsi": [
+      "Biaya administrasi bulanan",
+      "Total aset bank",
+      "Jumlah cabang bank",
+      "Selisih antara bunga kredit dan bunga simpanan",
+      "Promosi besar-besaran"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Spread adalah keuntungan utama bank (Net Interest Margin) yang berasal dari selisih bunga."
+  },
+  {
+    "id": "AKL_LP_35",
+    "pertanyaan": "Jasa penyewaan kotak besi penyimpanan surat berharga di bank disebut...",
+    "opsi": [
+      "Safe Box Money",
+      "Locker Bank",
+      "Hidden Box",
+      "Security Deposit",
+      "Safe Deposit Box (SDB)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "SDB digunakan nasabah untuk menyimpan emas, dokumen tanah, atau barang berharga lainnya dengan tingkat keamanan tinggi."
+  },
+  {
+    "id": "AKL_LP_36",
+    "pertanyaan": "Prinsip bank syariah 'Riba' sangat dilarang. Riba berarti...",
+    "opsi": [
+      "Tambahan/bunga yang dipersyaratkan dalam pinjaman",
+      "Keuntungan dagang",
+      "Biaya admin tetap",
+      "Zakat perusahaan",
+      "Donasi sukarela"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Riba adalah tambahan yang diambil secara tidak adil dalam transaksi hutang piutang."
+  },
+  {
+    "id": "AKL_LP_37",
+    "pertanyaan": "Apa risiko utama bank jika nasabah kredit banyak yang gagal bayar?",
+    "opsi": [
+      "Risiko Pasar",
+      "Risiko Kredit / Macet",
+      "Risiko Operasional",
+      "Risiko Likuiditas",
+      "Risiko Nama Baik"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Risiko kredit muncul jika debitur tidak mampu mengembalikan pokok dan bunga pinjaman."
+  },
+  {
+    "id": "AKL_LP_38",
+    "pertanyaan": "Warkat debet kliring yang ditolak karena 'Saldo Tidak Cukup' akan masuk dalam daftar...",
+    "opsi": [
+      "Daftar Nasabah Prioritas",
+      "Daftar Putih Bank",
+      "Daftar Hitam Nasional (DHN)",
+      "Daftar Nama Direksi",
+      "Daftar Pemegang Saham"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Nasabah yang menarik cek kosong berulang kali akan masuk DHN dan dikenakan sanksi perbankan."
+  },
+  {
+    "id": "AKL_LP_39",
+    "pertanyaan": "Perintah pemindahbukuan sejumlah dana dari satu bank ke bank lain oleh nasabah disebut...",
+    "opsi": [
+      "Setoran Tunai",
+      "Penarikan Tunai",
+      "Pembayaran Tagihan",
+      "Transfer",
+      "Overbooking"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Transfer adalah jasa pengiriman uang antar rekening/bank."
+  },
+  {
+    "id": "AKL_LP_40",
+    "pertanyaan": "Prinsip kerahasiaan bank meliputi perlindungan terhadap data...",
+    "opsi": [
+      "Nasabah debitur (peminjam)",
+      "Jumlah karyawan bank",
+      "Lokasi kantor pusat",
+      "Warna seragam teller",
+      "Nasabah penyimpan (tabungan/deposito/giro)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "UU Perbankan mewajibkan bank merahasiakan identitas dan keterangan nasabah penyimpan (kecuali untuk pajak/hukum tertentu)."
+  },
+  {
+    "id": "AKL_LP_41",
+    "pertanyaan": "Metode perhitungan bunga bank yang didasarkan pada saldo terendah setiap bulan disebut...",
+    "opsi": [
+      "Bunga Saldo Terendah",
+      "Bunga Flat",
+      "Bunga Saldo Rata-rata",
+      "Bunga Saldo Harian",
+      "Bunga Majemuk"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Metode ini memberikan bunga berdasarkan nominal terkecil yang pernah ada di rekening pada bulan tersebut."
+  },
+  {
+    "id": "AKL_LP_42",
+    "pertanyaan": "Bank yang dimiliki oleh warga negara asing melalui badan hukum luar negeri disebut...",
+    "opsi": [
+      "Bank Campuran",
+      "Bank Asing",
+      "Bank Internasional",
+      "Bank Kedutaan",
+      "Bank Ekspor Impor"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Bank Asing adalah cabang bank yang pusatnya berada di luar negeri."
+  },
+  {
+    "id": "AKL_LP_43",
+    "pertanyaan": "Aspek kebersihan tubuh, seragam, dan penampilan menarik petugas bank disebut...",
+    "opsi": [
+      "Etiket",
+      "Product Knowledge",
+      "Grooming",
+      "Handling Complaint",
+      "Cross Selling"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Grooming adalah standar penampilan profesional petugas frontliner bank."
+  },
+  {
+    "id": "AKL_LP_44",
+    "pertanyaan": "Prinsip pemberian kredit 'Capital' menilai nasabah dari...",
+    "opsi": [
+      "Kejujuran",
+      "Pengalaman bisnis",
+      "Jaminan tanah",
+      "Besarnya kekayaan bersih/modal sendiri",
+      "Kondisi politik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Capital melihat struktur keuangan nasabah, apakah mereka juga memiliki modal sendiri untuk menjalankan bisnisnya."
+  },
+  {
+    "id": "AKL_LP_45",
+    "pertanyaan": "Apa yang dimaksud dengan kartu kredit?",
+    "opsi": [
+      "Kartu untuk tarik tunai saldo sendiri",
+      "Kartu indentitas nasabah",
+      "Kartu untuk menabung",
+      "Kartu diskon belanja di bank",
+      "Kartu pembayaran di mana bank memberi talangan (pinjaman) lebih dulu"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kartu kredit adalah instrumen 'Buy Now Pay Later' di mana bank menyediakan limit kredit."
+  },
+  {
+    "id": "AKL_LP_46",
+    "pertanyaan": "Suku bunga yang ditetapkan oleh Bank Indonesia dan menjadi acuan bank-bank umum disebut...",
+    "opsi": [
+      "BI Rate / BI 7-Day Reverse Repo Rate",
+      "Bunga Pinjaman",
+      "Bunga Pasar",
+      "Bunga Tabungan",
+      "Bunga Tunggal"
+    ],
+    "jawaban": 0,
+    "pembahasan": "BI Rate adalah instrumen kebijakan moneter BI untuk mengatur likuiditas dan suku bunga di pasar."
+  },
+  {
+    "id": "AKL_LP_47",
+    "pertanyaan": "Tindakan mencuci uang hasil kejahatan agar terlihat seolah-olah sah disebut...",
+    "opsi": [
+      "Audit",
+      "Money Laundering",
+      "Investment",
+      "Securitization",
+      "Franchising"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pencucian uang adalah tindak pidana yang sangat diawasi dalam industri perbankan."
+  },
+  {
+    "id": "AKL_LP_48",
+    "pertanyaan": "Prosedur pembukaan rekening bagi nasabah baru dilakukan oleh petugas...",
+    "opsi": [
+      "Security",
+      "Manager",
+      "Customer Service",
+      "Teller",
+      "Auditor"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Customer Service menangani administrasi pembukaan, penutupan, dan keluhan nasabah."
+  },
+  {
+    "id": "AKL_LP_49",
+    "pertanyaan": "Syarat pengukuhan sebagai Bank Syariah adalah adanya pengawasan dari...",
+    "opsi": [
+      "Dewan Ekonomi Nasional",
+      "Majelis Ulama Indonesia saja",
+      "Dinas Sosial",
+      "Dewan Pengawas Syariah (DPS)",
+      "Badan Pusat Statistik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "DPS memastikan seluruh produk dan operasional bank tidak bertentangan dengan prinsip syariah."
+  },
+  {
+    "id": "AKL_LP_50",
+    "pertanyaan": "Layanan perbankan yang beroperasi 24 jam tanpa harus ke bank secara fisik meliputi...",
+    "opsi": [
+      "Tatap muka di kantor cabang",
+      "Surat menyurat lewat pos",
+      "Penarikan tunai lewat Teller",
+      "Pengajuan kredit lewat satpam",
+      "ATM, Mobile Banking, Internet Banking"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Digital banking memungkinkan transaksi kapan saja dan di mana saja."
+  }
+]

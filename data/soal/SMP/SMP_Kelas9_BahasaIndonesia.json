@@ -1,0 +1,658 @@
+{
+  "id": "smp-9-bindo",
+  "tingkat": "SMP",
+  "mapel": "Bahasa Indonesia",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "bi9-1",
+      "teks": "Manakah yang merupakan tujuan utama dari teks laporan percobaan?",
+      "opsi": {
+        "A": "Memberikan informasi hasil sebuah praktik eksperimen ilmiah",
+        "B": "Menghibur pembaca",
+        "C": "Menjelaskan opini pribadi tentang suatu masalah",
+        "D": "Membujuk orang lain untuk membeli alat laboratorium"
+      },
+      "kunci": "A",
+      "pembahasan": "Teks laporan percobaan bertujuan memberikan informasi hasil praktik eksperimen.",
+      "trik": "Laporan = informasi faktual hasil kerja."
+    },
+    {
+      "id": "bi9-2",
+      "teks": "Fungsi teks pidato persuasif adalah...",
+      "opsi": {
+        "A": "Menjelaskan cerita dongeng masa lalu",
+        "B": "Mengajak atau membujuk pendengar untuk melakukan sesuatu",
+        "C": "Melaporkan kejadian alam",
+        "D": "Mengkritik tanpa memberi solusi"
+      },
+      "kunci": "B",
+      "pembahasan": "Persuasif artinya membujuk / mengajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengajak atau membujuk pendengar untuk melakukan sesuatu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Persuasi identik dengan ajakan."
+    },
+    {
+      "id": "bi9-3",
+      "teks": "Kata tugas yang menunjukkan hubungan sebab akibat dalam teks diskusi adalah...",
+      "opsi": {
+        "A": "Meskipun begitu",
+        "B": "Tetapi",
+        "C": "Oleh karena itu",
+        "D": "Kemudian"
+      },
+      "kunci": "C",
+      "pembahasan": "Kata 'Oleh karena itu' adalah konjungsi kausalitas (sebab akibat).",
+      "trik": "Oleh karena (sebab) -> itu (akibat)."
+    },
+    {
+      "id": "bi9-4",
+      "teks": "Kritik santun dalam teks tanggapan harus dilengkapi dengan...",
+      "opsi": {
+        "A": "Hinaan fisik",
+        "B": "Kemarahan emosional",
+        "C": "Ancaman pidana",
+        "D": "Alasan dan bukti logis yang objektif"
+      },
+      "kunci": "D",
+      "pembahasan": "Kritik yang baik bersifat membangun dengan bukti logis objektif.",
+      "trik": "Tanggap = argumen logis."
+    },
+    {
+      "id": "bi9-5",
+      "teks": "Alur cerita cerpen di mana kisahnya tidak berurutan dan sering melompat ke masa lalu disebut alur...",
+      "opsi": {
+        "A": "Regresif (mundur)",
+        "B": "Progresif (maju)",
+        "C": "Campuran",
+        "D": "Statis"
+      },
+      "kunci": "A",
+      "pembahasan": "Alur regresif atau mundur artinya menceritakan flashback.",
+      "trik": "Regresi = kembali ke belakang."
+    },
+    {
+      "id": "smp-9-bindo-6",
+      "teks": "Manakah yang merupakan tujuan utama dari teks laporan percobaan? (Latihan Intensif #6)",
+      "opsi": {
+        "A": "Menghibur pembaca",
+        "B": "Memberikan informasi hasil sebuah praktik eksperimen ilmiah",
+        "C": "Menjelaskan opini pribadi tentang suatu masalah",
+        "D": "Membujuk orang lain untuk membeli alat laboratorium"
+      },
+      "kunci": "B",
+      "pembahasan": "Teks laporan percobaan bertujuan memberikan informasi hasil praktik eksperimen.",
+      "trik": "Laporan = informasi faktual hasil kerja."
+    },
+    {
+      "id": "smp-9-bindo-7",
+      "teks": "Manakah yang merupakan tujuan utama dari teks laporan percobaan? (Latihan Intensif #7)",
+      "opsi": {
+        "A": "Menghibur pembaca",
+        "B": "Menjelaskan opini pribadi tentang suatu masalah",
+        "C": "Memberikan informasi hasil sebuah praktik eksperimen ilmiah",
+        "D": "Membujuk orang lain untuk membeli alat laboratorium"
+      },
+      "kunci": "C",
+      "pembahasan": "Teks laporan percobaan bertujuan memberikan informasi hasil praktik eksperimen.",
+      "trik": "Laporan = informasi faktual hasil kerja."
+    },
+    {
+      "id": "smp-9-bindo-8",
+      "teks": "Kritik santun dalam teks tanggapan harus dilengkapi dengan... (Latihan Intensif #8)",
+      "opsi": {
+        "A": "Hinaan fisik",
+        "B": "Kemarahan emosional",
+        "C": "Ancaman pidana",
+        "D": "Alasan dan bukti logis yang objektif"
+      },
+      "kunci": "D",
+      "pembahasan": "Kritik yang baik bersifat membangun dengan bukti logis objektif.",
+      "trik": "Tanggap = argumen logis."
+    },
+    {
+      "id": "smp-9-bindo-9",
+      "teks": "Kata tugas yang menunjukkan hubungan sebab akibat dalam teks diskusi adalah... (Latihan Intensif #9)",
+      "opsi": {
+        "A": "Oleh karena itu",
+        "B": "Meskipun begitu",
+        "C": "Tetapi",
+        "D": "Kemudian"
+      },
+      "kunci": "A",
+      "pembahasan": "Kata 'Oleh karena itu' adalah konjungsi kausalitas (sebab akibat).",
+      "trik": "Oleh karena (sebab) -> itu (akibat)."
+    },
+    {
+      "id": "smp-9-bindo-10",
+      "teks": "Manakah yang merupakan tujuan utama dari teks laporan percobaan? (Latihan Intensif #10)",
+      "opsi": {
+        "A": "Menghibur pembaca",
+        "B": "Memberikan informasi hasil sebuah praktik eksperimen ilmiah",
+        "C": "Menjelaskan opini pribadi tentang suatu masalah",
+        "D": "Membujuk orang lain untuk membeli alat laboratorium"
+      },
+      "kunci": "B",
+      "pembahasan": "Teks laporan percobaan bertujuan memberikan informasi hasil praktik eksperimen.",
+      "trik": "Laporan = informasi faktual hasil kerja."
+    },
+    {
+      "id": "smp-9-bindo-11",
+      "teks": "Manakah yang merupakan tujuan utama dari teks laporan percobaan? (Latihan Intensif #11)",
+      "opsi": {
+        "A": "Menghibur pembaca",
+        "B": "Menjelaskan opini pribadi tentang suatu masalah",
+        "C": "Memberikan informasi hasil sebuah praktik eksperimen ilmiah",
+        "D": "Membujuk orang lain untuk membeli alat laboratorium"
+      },
+      "kunci": "C",
+      "pembahasan": "Teks laporan percobaan bertujuan memberikan informasi hasil praktik eksperimen.",
+      "trik": "Laporan = informasi faktual hasil kerja."
+    },
+    {
+      "id": "smp-9-bindo-12",
+      "teks": "Alur cerita cerpen di mana kisahnya tidak berurutan dan sering melompat ke masa lalu disebut alur... (Latihan Intensif #12)",
+      "opsi": {
+        "A": "Progresif (maju)",
+        "B": "Campuran",
+        "C": "Statis",
+        "D": "Regresif (mundur)"
+      },
+      "kunci": "D",
+      "pembahasan": "Alur regresif atau mundur artinya menceritakan flashback.",
+      "trik": "Regresi = kembali ke belakang."
+    },
+    {
+      "id": "smp-9-bindo-13",
+      "teks": "Manakah yang merupakan tujuan utama dari teks laporan percobaan? (Latihan Intensif #13)",
+      "opsi": {
+        "A": "Memberikan informasi hasil sebuah praktik eksperimen ilmiah",
+        "B": "Menghibur pembaca",
+        "C": "Menjelaskan opini pribadi tentang suatu masalah",
+        "D": "Membujuk orang lain untuk membeli alat laboratorium"
+      },
+      "kunci": "A",
+      "pembahasan": "Teks laporan percobaan bertujuan memberikan informasi hasil praktik eksperimen.",
+      "trik": "Laporan = informasi faktual hasil kerja."
+    },
+    {
+      "id": "smp-9-bindo-14",
+      "teks": "Kata tugas yang menunjukkan hubungan sebab akibat dalam teks diskusi adalah... (Latihan Intensif #14)",
+      "opsi": {
+        "A": "Meskipun begitu",
+        "B": "Oleh karena itu",
+        "C": "Tetapi",
+        "D": "Kemudian"
+      },
+      "kunci": "B",
+      "pembahasan": "Kata 'Oleh karena itu' adalah konjungsi kausalitas (sebab akibat).",
+      "trik": "Oleh karena (sebab) -> itu (akibat)."
+    },
+    {
+      "id": "smp-9-bindo-15",
+      "teks": "Kata tugas yang menunjukkan hubungan sebab akibat dalam teks diskusi adalah... (Latihan Intensif #15)",
+      "opsi": {
+        "A": "Meskipun begitu",
+        "B": "Tetapi",
+        "C": "Oleh karena itu",
+        "D": "Kemudian"
+      },
+      "kunci": "C",
+      "pembahasan": "Kata 'Oleh karena itu' adalah konjungsi kausalitas (sebab akibat).",
+      "trik": "Oleh karena (sebab) -> itu (akibat)."
+    },
+    {
+      "id": "smp-9-bindo-16",
+      "teks": "Alur cerita cerpen di mana kisahnya tidak berurutan dan sering melompat ke masa lalu disebut alur... (Latihan Intensif #16)",
+      "opsi": {
+        "A": "Progresif (maju)",
+        "B": "Campuran",
+        "C": "Statis",
+        "D": "Regresif (mundur)"
+      },
+      "kunci": "D",
+      "pembahasan": "Alur regresif atau mundur artinya menceritakan flashback.",
+      "trik": "Regresi = kembali ke belakang."
+    },
+    {
+      "id": "smp-9-bindo-17",
+      "teks": "Fungsi teks pidato persuasif adalah... (Latihan Intensif #17)",
+      "opsi": {
+        "A": "Mengajak atau membujuk pendengar untuk melakukan sesuatu",
+        "B": "Menjelaskan cerita dongeng masa lalu",
+        "C": "Melaporkan kejadian alam",
+        "D": "Mengkritik tanpa memberi solusi"
+      },
+      "kunci": "A",
+      "pembahasan": "Persuasif artinya membujuk / mengajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengajak atau membujuk pendengar untuk melakukan sesuatu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Persuasi identik dengan ajakan."
+    },
+    {
+      "id": "smp-9-bindo-18",
+      "teks": "Kritik santun dalam teks tanggapan harus dilengkapi dengan... (Latihan Intensif #18)",
+      "opsi": {
+        "A": "Hinaan fisik",
+        "B": "Alasan dan bukti logis yang objektif",
+        "C": "Kemarahan emosional",
+        "D": "Ancaman pidana"
+      },
+      "kunci": "B",
+      "pembahasan": "Kritik yang baik bersifat membangun dengan bukti logis objektif.",
+      "trik": "Tanggap = argumen logis."
+    },
+    {
+      "id": "smp-9-bindo-19",
+      "teks": "Fungsi teks pidato persuasif adalah... (Latihan Intensif #19)",
+      "opsi": {
+        "A": "Menjelaskan cerita dongeng masa lalu",
+        "B": "Melaporkan kejadian alam",
+        "C": "Mengajak atau membujuk pendengar untuk melakukan sesuatu",
+        "D": "Mengkritik tanpa memberi solusi"
+      },
+      "kunci": "C",
+      "pembahasan": "Persuasif artinya membujuk / mengajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengajak atau membujuk pendengar untuk melakukan sesuatu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Persuasi identik dengan ajakan."
+    },
+    {
+      "id": "smp-9-bindo-20",
+      "teks": "Fungsi teks pidato persuasif adalah... (Latihan Intensif #20)",
+      "opsi": {
+        "A": "Menjelaskan cerita dongeng masa lalu",
+        "B": "Melaporkan kejadian alam",
+        "C": "Mengkritik tanpa memberi solusi",
+        "D": "Mengajak atau membujuk pendengar untuk melakukan sesuatu"
+      },
+      "kunci": "D",
+      "pembahasan": "Persuasif artinya membujuk / mengajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengajak atau membujuk pendengar untuk melakukan sesuatu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Persuasi identik dengan ajakan."
+    },
+    {
+      "id": "smp-9-bindo-21",
+      "teks": "Alur cerita cerpen di mana kisahnya tidak berurutan dan sering melompat ke masa lalu disebut alur... (Latihan Intensif #21)",
+      "opsi": {
+        "A": "Regresif (mundur)",
+        "B": "Progresif (maju)",
+        "C": "Campuran",
+        "D": "Statis"
+      },
+      "kunci": "A",
+      "pembahasan": "Alur regresif atau mundur artinya menceritakan flashback.",
+      "trik": "Regresi = kembali ke belakang."
+    },
+    {
+      "id": "smp-9-bindo-22",
+      "teks": "Alur cerita cerpen di mana kisahnya tidak berurutan dan sering melompat ke masa lalu disebut alur... (Latihan Intensif #22)",
+      "opsi": {
+        "A": "Progresif (maju)",
+        "B": "Regresif (mundur)",
+        "C": "Campuran",
+        "D": "Statis"
+      },
+      "kunci": "B",
+      "pembahasan": "Alur regresif atau mundur artinya menceritakan flashback.",
+      "trik": "Regresi = kembali ke belakang."
+    },
+    {
+      "id": "smp-9-bindo-23",
+      "teks": "Kata tugas yang menunjukkan hubungan sebab akibat dalam teks diskusi adalah... (Latihan Intensif #23)",
+      "opsi": {
+        "A": "Meskipun begitu",
+        "B": "Tetapi",
+        "C": "Oleh karena itu",
+        "D": "Kemudian"
+      },
+      "kunci": "C",
+      "pembahasan": "Kata 'Oleh karena itu' adalah konjungsi kausalitas (sebab akibat).",
+      "trik": "Oleh karena (sebab) -> itu (akibat)."
+    },
+    {
+      "id": "smp-9-bindo-24",
+      "teks": "Kritik santun dalam teks tanggapan harus dilengkapi dengan... (Latihan Intensif #24)",
+      "opsi": {
+        "A": "Hinaan fisik",
+        "B": "Kemarahan emosional",
+        "C": "Ancaman pidana",
+        "D": "Alasan dan bukti logis yang objektif"
+      },
+      "kunci": "D",
+      "pembahasan": "Kritik yang baik bersifat membangun dengan bukti logis objektif.",
+      "trik": "Tanggap = argumen logis."
+    },
+    {
+      "id": "smp-9-bindo-25",
+      "teks": "Manakah yang merupakan tujuan utama dari teks laporan percobaan? (Latihan Intensif #25)",
+      "opsi": {
+        "A": "Memberikan informasi hasil sebuah praktik eksperimen ilmiah",
+        "B": "Menghibur pembaca",
+        "C": "Menjelaskan opini pribadi tentang suatu masalah",
+        "D": "Membujuk orang lain untuk membeli alat laboratorium"
+      },
+      "kunci": "A",
+      "pembahasan": "Teks laporan percobaan bertujuan memberikan informasi hasil praktik eksperimen.",
+      "trik": "Laporan = informasi faktual hasil kerja."
+    },
+    {
+      "id": "smp-9-bindo-26",
+      "teks": "Fungsi teks pidato persuasif adalah... (Latihan Intensif #26)",
+      "opsi": {
+        "A": "Menjelaskan cerita dongeng masa lalu",
+        "B": "Mengajak atau membujuk pendengar untuk melakukan sesuatu",
+        "C": "Melaporkan kejadian alam",
+        "D": "Mengkritik tanpa memberi solusi"
+      },
+      "kunci": "B",
+      "pembahasan": "Persuasif artinya membujuk / mengajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengajak atau membujuk pendengar untuk melakukan sesuatu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Persuasi identik dengan ajakan."
+    },
+    {
+      "id": "smp-9-bindo-27",
+      "teks": "Alur cerita cerpen di mana kisahnya tidak berurutan dan sering melompat ke masa lalu disebut alur... (Latihan Intensif #27)",
+      "opsi": {
+        "A": "Progresif (maju)",
+        "B": "Campuran",
+        "C": "Regresif (mundur)",
+        "D": "Statis"
+      },
+      "kunci": "C",
+      "pembahasan": "Alur regresif atau mundur artinya menceritakan flashback.",
+      "trik": "Regresi = kembali ke belakang."
+    },
+    {
+      "id": "smp-9-bindo-28",
+      "teks": "Alur cerita cerpen di mana kisahnya tidak berurutan dan sering melompat ke masa lalu disebut alur... (Latihan Intensif #28)",
+      "opsi": {
+        "A": "Progresif (maju)",
+        "B": "Campuran",
+        "C": "Statis",
+        "D": "Regresif (mundur)"
+      },
+      "kunci": "D",
+      "pembahasan": "Alur regresif atau mundur artinya menceritakan flashback.",
+      "trik": "Regresi = kembali ke belakang."
+    },
+    {
+      "id": "smp-9-bindo-29",
+      "teks": "Kata tugas yang menunjukkan hubungan sebab akibat dalam teks diskusi adalah... (Latihan Intensif #29)",
+      "opsi": {
+        "A": "Oleh karena itu",
+        "B": "Meskipun begitu",
+        "C": "Tetapi",
+        "D": "Kemudian"
+      },
+      "kunci": "A",
+      "pembahasan": "Kata 'Oleh karena itu' adalah konjungsi kausalitas (sebab akibat).",
+      "trik": "Oleh karena (sebab) -> itu (akibat)."
+    },
+    {
+      "id": "smp-9-bindo-30",
+      "teks": "Kritik santun dalam teks tanggapan harus dilengkapi dengan... (Latihan Intensif #30)",
+      "opsi": {
+        "A": "Hinaan fisik",
+        "B": "Alasan dan bukti logis yang objektif",
+        "C": "Kemarahan emosional",
+        "D": "Ancaman pidana"
+      },
+      "kunci": "B",
+      "pembahasan": "Kritik yang baik bersifat membangun dengan bukti logis objektif.",
+      "trik": "Tanggap = argumen logis."
+    },
+    {
+      "id": "smp-9-bindo-31",
+      "teks": "Alur cerita cerpen di mana kisahnya tidak berurutan dan sering melompat ke masa lalu disebut alur... (Latihan Intensif #31)",
+      "opsi": {
+        "A": "Progresif (maju)",
+        "B": "Campuran",
+        "C": "Regresif (mundur)",
+        "D": "Statis"
+      },
+      "kunci": "C",
+      "pembahasan": "Alur regresif atau mundur artinya menceritakan flashback.",
+      "trik": "Regresi = kembali ke belakang."
+    },
+    {
+      "id": "smp-9-bindo-32",
+      "teks": "Fungsi teks pidato persuasif adalah... (Latihan Intensif #32)",
+      "opsi": {
+        "A": "Menjelaskan cerita dongeng masa lalu",
+        "B": "Melaporkan kejadian alam",
+        "C": "Mengkritik tanpa memberi solusi",
+        "D": "Mengajak atau membujuk pendengar untuk melakukan sesuatu"
+      },
+      "kunci": "D",
+      "pembahasan": "Persuasif artinya membujuk / mengajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengajak atau membujuk pendengar untuk melakukan sesuatu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Persuasi identik dengan ajakan."
+    },
+    {
+      "id": "smp-9-bindo-33",
+      "teks": "Kata tugas yang menunjukkan hubungan sebab akibat dalam teks diskusi adalah... (Latihan Intensif #33)",
+      "opsi": {
+        "A": "Oleh karena itu",
+        "B": "Meskipun begitu",
+        "C": "Tetapi",
+        "D": "Kemudian"
+      },
+      "kunci": "A",
+      "pembahasan": "Kata 'Oleh karena itu' adalah konjungsi kausalitas (sebab akibat).",
+      "trik": "Oleh karena (sebab) -> itu (akibat)."
+    },
+    {
+      "id": "smp-9-bindo-34",
+      "teks": "Fungsi teks pidato persuasif adalah... (Latihan Intensif #34)",
+      "opsi": {
+        "A": "Menjelaskan cerita dongeng masa lalu",
+        "B": "Mengajak atau membujuk pendengar untuk melakukan sesuatu",
+        "C": "Melaporkan kejadian alam",
+        "D": "Mengkritik tanpa memberi solusi"
+      },
+      "kunci": "B",
+      "pembahasan": "Persuasif artinya membujuk / mengajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengajak atau membujuk pendengar untuk melakukan sesuatu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Persuasi identik dengan ajakan."
+    },
+    {
+      "id": "smp-9-bindo-35",
+      "teks": "Fungsi teks pidato persuasif adalah... (Latihan Intensif #35)",
+      "opsi": {
+        "A": "Menjelaskan cerita dongeng masa lalu",
+        "B": "Melaporkan kejadian alam",
+        "C": "Mengajak atau membujuk pendengar untuk melakukan sesuatu",
+        "D": "Mengkritik tanpa memberi solusi"
+      },
+      "kunci": "C",
+      "pembahasan": "Persuasif artinya membujuk / mengajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengajak atau membujuk pendengar untuk melakukan sesuatu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Persuasi identik dengan ajakan."
+    },
+    {
+      "id": "smp-9-bindo-36",
+      "teks": "Kata tugas yang menunjukkan hubungan sebab akibat dalam teks diskusi adalah... (Latihan Intensif #36)",
+      "opsi": {
+        "A": "Meskipun begitu",
+        "B": "Tetapi",
+        "C": "Kemudian",
+        "D": "Oleh karena itu"
+      },
+      "kunci": "D",
+      "pembahasan": "Kata 'Oleh karena itu' adalah konjungsi kausalitas (sebab akibat).",
+      "trik": "Oleh karena (sebab) -> itu (akibat)."
+    },
+    {
+      "id": "smp-9-bindo-37",
+      "teks": "Kritik santun dalam teks tanggapan harus dilengkapi dengan... (Latihan Intensif #37)",
+      "opsi": {
+        "A": "Alasan dan bukti logis yang objektif",
+        "B": "Hinaan fisik",
+        "C": "Kemarahan emosional",
+        "D": "Ancaman pidana"
+      },
+      "kunci": "A",
+      "pembahasan": "Kritik yang baik bersifat membangun dengan bukti logis objektif.",
+      "trik": "Tanggap = argumen logis."
+    },
+    {
+      "id": "smp-9-bindo-38",
+      "teks": "Kritik santun dalam teks tanggapan harus dilengkapi dengan... (Latihan Intensif #38)",
+      "opsi": {
+        "A": "Hinaan fisik",
+        "B": "Alasan dan bukti logis yang objektif",
+        "C": "Kemarahan emosional",
+        "D": "Ancaman pidana"
+      },
+      "kunci": "B",
+      "pembahasan": "Kritik yang baik bersifat membangun dengan bukti logis objektif.",
+      "trik": "Tanggap = argumen logis."
+    },
+    {
+      "id": "smp-9-bindo-39",
+      "teks": "Kritik santun dalam teks tanggapan harus dilengkapi dengan... (Latihan Intensif #39)",
+      "opsi": {
+        "A": "Hinaan fisik",
+        "B": "Kemarahan emosional",
+        "C": "Alasan dan bukti logis yang objektif",
+        "D": "Ancaman pidana"
+      },
+      "kunci": "C",
+      "pembahasan": "Kritik yang baik bersifat membangun dengan bukti logis objektif.",
+      "trik": "Tanggap = argumen logis."
+    },
+    {
+      "id": "smp-9-bindo-40",
+      "teks": "Alur cerita cerpen di mana kisahnya tidak berurutan dan sering melompat ke masa lalu disebut alur... (Latihan Intensif #40)",
+      "opsi": {
+        "A": "Progresif (maju)",
+        "B": "Campuran",
+        "C": "Statis",
+        "D": "Regresif (mundur)"
+      },
+      "kunci": "D",
+      "pembahasan": "Alur regresif atau mundur artinya menceritakan flashback.",
+      "trik": "Regresi = kembali ke belakang."
+    },
+    {
+      "id": "smp-9-bindo-41",
+      "teks": "Fungsi teks pidato persuasif adalah... (Latihan Intensif #41)",
+      "opsi": {
+        "A": "Mengajak atau membujuk pendengar untuk melakukan sesuatu",
+        "B": "Menjelaskan cerita dongeng masa lalu",
+        "C": "Melaporkan kejadian alam",
+        "D": "Mengkritik tanpa memberi solusi"
+      },
+      "kunci": "A",
+      "pembahasan": "Persuasif artinya membujuk / mengajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengajak atau membujuk pendengar untuk melakukan sesuatu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Persuasi identik dengan ajakan."
+    },
+    {
+      "id": "smp-9-bindo-42",
+      "teks": "Kata tugas yang menunjukkan hubungan sebab akibat dalam teks diskusi adalah... (Latihan Intensif #42)",
+      "opsi": {
+        "A": "Meskipun begitu",
+        "B": "Oleh karena itu",
+        "C": "Tetapi",
+        "D": "Kemudian"
+      },
+      "kunci": "B",
+      "pembahasan": "Kata 'Oleh karena itu' adalah konjungsi kausalitas (sebab akibat).",
+      "trik": "Oleh karena (sebab) -> itu (akibat)."
+    },
+    {
+      "id": "smp-9-bindo-43",
+      "teks": "Alur cerita cerpen di mana kisahnya tidak berurutan dan sering melompat ke masa lalu disebut alur... (Latihan Intensif #43)",
+      "opsi": {
+        "A": "Progresif (maju)",
+        "B": "Campuran",
+        "C": "Regresif (mundur)",
+        "D": "Statis"
+      },
+      "kunci": "C",
+      "pembahasan": "Alur regresif atau mundur artinya menceritakan flashback.",
+      "trik": "Regresi = kembali ke belakang."
+    },
+    {
+      "id": "smp-9-bindo-44",
+      "teks": "Fungsi teks pidato persuasif adalah... (Latihan Intensif #44)",
+      "opsi": {
+        "A": "Menjelaskan cerita dongeng masa lalu",
+        "B": "Melaporkan kejadian alam",
+        "C": "Mengkritik tanpa memberi solusi",
+        "D": "Mengajak atau membujuk pendengar untuk melakukan sesuatu"
+      },
+      "kunci": "D",
+      "pembahasan": "Persuasif artinya membujuk / mengajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengajak atau membujuk pendengar untuk melakukan sesuatu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Persuasi identik dengan ajakan."
+    },
+    {
+      "id": "smp-9-bindo-45",
+      "teks": "Fungsi teks pidato persuasif adalah... (Latihan Intensif #45)",
+      "opsi": {
+        "A": "Mengajak atau membujuk pendengar untuk melakukan sesuatu",
+        "B": "Menjelaskan cerita dongeng masa lalu",
+        "C": "Melaporkan kejadian alam",
+        "D": "Mengkritik tanpa memberi solusi"
+      },
+      "kunci": "A",
+      "pembahasan": "Persuasif artinya membujuk / mengajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengajak atau membujuk pendengar untuk melakukan sesuatu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Persuasi identik dengan ajakan."
+    },
+    {
+      "id": "smp-9-bindo-46",
+      "teks": "Kritik santun dalam teks tanggapan harus dilengkapi dengan... (Latihan Intensif #46)",
+      "opsi": {
+        "A": "Hinaan fisik",
+        "B": "Alasan dan bukti logis yang objektif",
+        "C": "Kemarahan emosional",
+        "D": "Ancaman pidana"
+      },
+      "kunci": "B",
+      "pembahasan": "Kritik yang baik bersifat membangun dengan bukti logis objektif.",
+      "trik": "Tanggap = argumen logis."
+    },
+    {
+      "id": "smp-9-bindo-47",
+      "teks": "Kritik santun dalam teks tanggapan harus dilengkapi dengan... (Latihan Intensif #47)",
+      "opsi": {
+        "A": "Hinaan fisik",
+        "B": "Kemarahan emosional",
+        "C": "Alasan dan bukti logis yang objektif",
+        "D": "Ancaman pidana"
+      },
+      "kunci": "C",
+      "pembahasan": "Kritik yang baik bersifat membangun dengan bukti logis objektif.",
+      "trik": "Tanggap = argumen logis."
+    },
+    {
+      "id": "smp-9-bindo-48",
+      "teks": "Fungsi teks pidato persuasif adalah... (Latihan Intensif #48)",
+      "opsi": {
+        "A": "Menjelaskan cerita dongeng masa lalu",
+        "B": "Melaporkan kejadian alam",
+        "C": "Mengkritik tanpa memberi solusi",
+        "D": "Mengajak atau membujuk pendengar untuk melakukan sesuatu"
+      },
+      "kunci": "D",
+      "pembahasan": "Persuasif artinya membujuk / mengajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengajak atau membujuk pendengar untuk melakukan sesuatu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Persuasi identik dengan ajakan."
+    },
+    {
+      "id": "smp-9-bindo-49",
+      "teks": "Alur cerita cerpen di mana kisahnya tidak berurutan dan sering melompat ke masa lalu disebut alur... (Latihan Intensif #49)",
+      "opsi": {
+        "A": "Regresif (mundur)",
+        "B": "Progresif (maju)",
+        "C": "Campuran",
+        "D": "Statis"
+      },
+      "kunci": "A",
+      "pembahasan": "Alur regresif atau mundur artinya menceritakan flashback.",
+      "trik": "Regresi = kembali ke belakang."
+    },
+    {
+      "id": "smp-9-bindo-50",
+      "teks": "Alur cerita cerpen di mana kisahnya tidak berurutan dan sering melompat ke masa lalu disebut alur... (Latihan Intensif #50)",
+      "opsi": {
+        "A": "Progresif (maju)",
+        "B": "Regresif (mundur)",
+        "C": "Campuran",
+        "D": "Statis"
+      },
+      "kunci": "B",
+      "pembahasan": "Alur regresif atau mundur artinya menceritakan flashback.",
+      "trik": "Regresi = kembali ke belakang."
+    }
+  ]
+}

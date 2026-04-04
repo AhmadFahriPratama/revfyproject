@@ -1,0 +1,53 @@
+{
+  "judul": "Akuntansi Lembaga / Instansi Pemerintah",
+  "tingkatan": "SMK",
+  "jurusan": "Akuntansi dan Keuangan Lembaga",
+  "deskripsi": "Materi mengenai akuntansi sektor publik, pengelolaan keuangan desa, laporan keuangan pemerintah daerah, dan siklus akuntansi pada instansi pemerintah.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Karakteristik Akuntansi Pemerintah",
+      "konten": "Akuntansi Pemerintah bertujuan untuk pertanggungjawaban publik (akuntabilitas). Fokus pada penggunaan Standar Akuntansi Pemerintahan (SAP), basis kas menuju akrual, serta perbedaan mendasar dengan akuntansi bisnis (profit vs service).",
+      "tag": [
+        "akl akuntansilembaga materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Akuntansi Keuangan Desa",
+      "konten": "Struktur Anggaran Pendapatan dan Belanja Desa (APBDes). Pengenalan asas pengelolaan keuangan desa: transparan, akuntabel, partisipatif, serta tertib dan disiplin anggaran. Peran bendahara desa dalam pencatatan penerimaan dan pengeluaran.",
+      "tag": [
+        "akl akuntansilembaga materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Sistem Akuntansi Pemerintah Daerah (SAPD)",
+      "konten": "Siklus akuntansi pada Satuan Kerja Perangkat Daerah (SKPD) dan Pejabat Pengelola Keuangan Daerah (PPKD). Pencatatan jurnal finansial dan jurnal pelaksanaan anggaran (LRA) menggunakan sistem pembukuan berpasangan.",
+      "tag": [
+        "akl akuntansilembaga materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Laporan Keuangan Pemerintah",
+      "konten": "Penyusunan Laporan Realisasi Anggaran (LRA), Laporan Perubahan Saldo Anggaran Lebih (LPSAL), Neraca, Laporan Operasional (LO), Laporan Arus Kas (LAK), dan Catatan atas Laporan Keuangan (CaLK).",
+      "tag": [
+        "akl akuntansilembaga materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pengelolaan Barang Milik Negara/Daerah",
+      "konten": "Teknik inventarisasi aset publik, kodefikasi barang, penghapusan aset negara, serta pelaporan kekayaan milik pemerintah daerah agar sesuai dengan prinsip tata kelola yang baik.",
+      "tag": [
+        "akl akuntansilembaga materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "akl-akuntansilembaga-materi",
+  "mapel": "Akuntansi Lembaga / Instansi Pemerintah",
+  "tag": [
+    "akl akuntansilembaga materi"
+  ]
+}

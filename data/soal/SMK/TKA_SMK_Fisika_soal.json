@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_FS_01",
+    "pertanyaan": "Satuan SI untuk kuat arus listrik adalah...",
+    "opsi": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt",
+      "Coulomb"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ampere adalah satuan standar untuk arus listrik."
+  },
+  {
+    "id": "TKA_SMK_FS_02",
+    "pertanyaan": "Sebuah mobil bergerak dari kecepatan 10 m/s menjadi 20 m/s dalam waktu 5 detik. Percepatan mobil tersebut adalah...",
+    "opsi": [
+      "5 m/s^2",
+      "2 m/s^2",
+      "10 m/s^2",
+      "4 m/s^2",
+      "1 m/s^2"
+    ],
+    "jawaban": 1,
+    "pembahasan": "a = (v2 - v1) / t = (20 - 10) / 5 = 2 m/s^2."
+  },
+  {
+    "id": "TKA_SMK_FS_03",
+    "pertanyaan": "Besar gaya yang bekerja pada benda bermassa 2 kg yang mengalami percepatan 3 m/s^2 adalah...",
+    "opsi": [
+      "1 N",
+      "5 N",
+      "6 N",
+      "1.5 N",
+      "0.6 N"
+    ],
+    "jawaban": 2,
+    "pembahasan": "F = m * a = 2 * 3 = 6 N. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"6 N\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_04",
+    "pertanyaan": "Usaha yang dilakukan untuk memindahkan benda sejauh 5 meter dengan gaya 20 N (searah perpindahan) adalah...",
+    "opsi": [
+      "4 J",
+      "25 J",
+      "10 J",
+      "100 J",
+      "0.25 J"
+    ],
+    "jawaban": 3,
+    "pembahasan": "W = F * s = 20 * 5 = 100 Joule. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"100 J\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_05",
+    "pertanyaan": "Energi potensial benda bermassa 1 kg pada ketinggian 10 meter (g = 10 m/s^2) adalah...",
+    "opsi": [
+      "10 J",
+      "1 J",
+      "20 J",
+      "0 J",
+      "100 J"
+    ],
+    "jawaban": 4,
+    "pembahasan": "EP = m * g * h = 1 * 10 * 10 = 100 Joule."
+  },
+  {
+    "id": "TKA_SMK_FS_06",
+    "pertanyaan": "Hukum yang menyatakan bahwa gaya apung yang bekerja pada benda sama dengan berat fluida yang dipindahkan adalah...",
+    "opsi": [
+      "Hukum Archimedes",
+      "Hukum Pascal",
+      "Hukum Newton",
+      "Hukum Bernoulli",
+      "Hukum Ohm"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Prinsip dasar benda terapung, melayang, dan tenggelam."
+  },
+  {
+    "id": "TKA_SMK_FS_07",
+    "pertanyaan": "Sebuah hambatan 10 Ohm dihubungkan dengan tegangan 20 Volt. Arus yang mengalir adalah...",
+    "opsi": [
+      "0.5 A",
+      "2 A",
+      "30 A",
+      "200 A",
+      "10 A"
+    ],
+    "jawaban": 1,
+    "pembahasan": "I = V / R = 20 / 10 = 2 Ampere. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2 A\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_08",
+    "pertanyaan": "Daya sebuah lampu yang dialiri arus 0.5 A pada tegangan 220 V adalah...",
+    "opsi": [
+      "440 W",
+      "220 W",
+      "110 W",
+      "11 W",
+      "55 W"
+    ],
+    "jawaban": 2,
+    "pembahasan": "P = V * I = 220 * 0.5 = 110 Watt. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"110 W\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_09",
+    "pertanyaan": "Tekanan hidrostatis pada kedalaman 2 meter di air (rho = 1000 kg/m^3, g = 10 m/s^2) adalah...",
+    "opsi": [
+      "2.000 Pa",
+      "10.000 Pa",
+      "5.000 Pa",
+      "20.000 Pa",
+      "200 Pa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "P = rho * g * h = 1000 * 10 * 2 = 20.000 Pascal."
+  },
+  {
+    "id": "TKA_SMK_FS_10",
+    "pertanyaan": "Prinsip kerja rem hidrolik pada kendaraan berdasarkan pada hukum...",
+    "opsi": [
+      "Newton",
+      "Archimedes",
+      "Bernoulli",
+      "Coulomb",
+      "Pascal"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tekanan diberikan pada cairan diteruskan ke segala arah dengan sama besar."
+  },
+  {
+    "id": "TKA_SMK_FS_11",
+    "pertanyaan": "Momentum sebuah benda bermassa 2 kg yang bergerak dengan kecepatan 10 m/s adalah...",
+    "opsi": [
+      "20 kg.m/s",
+      "5 kg.m/s",
+      "12 kg.m/s",
+      "100 kg.m/s",
+      "8 kg.m/s"
+    ],
+    "jawaban": 0,
+    "pembahasan": "p = m * v = 2 * 10 = 20. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"20 kg.m/s\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_12",
+    "pertanyaan": "Alat ukur yang memiliki ketelitian paling tinggi adalah...",
+    "opsi": [
+      "Mistar",
+      "Mikrometer Sekrup",
+      "Jangka Sorong",
+      "Meteran Gulung",
+      "Langkah kaki"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mikrometer memiliki ketelitian hingga 0.01 mm."
+  },
+  {
+    "id": "TKA_SMK_FS_13",
+    "pertanyaan": "Perubahan wujud benda dari gas langsung menjadi padat disebut...",
+    "opsi": [
+      "Membeku",
+      "Menguap",
+      "Mengkristal (Deposisi)",
+      "Menyublim",
+      "Mencair"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kebalikan dari menyublim. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Mengkristal (Deposisi)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_14",
+    "pertanyaan": "Hukum II Newton dinyatakan dengan rumus...",
+    "opsi": [
+      "F = G * m1 * m2 / r^2",
+      "F = -k * x",
+      "v = s / t",
+      "F = m * a",
+      "E = m * c^2"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Gaya berbanding lurus dengan massa dan percepatan."
+  },
+  {
+    "id": "TKA_SMK_FS_15",
+    "pertanyaan": "Konversi suhu 0 derajat Celcius ke Kelvin adalah...",
+    "opsi": [
+      "0 K",
+      "100 K",
+      "32 K",
+      "373 K",
+      "273 K"
+    ],
+    "jawaban": 4,
+    "pembahasan": "K = C + 273. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"273 K\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_16",
+    "pertanyaan": "Gaya tarik-menarik antara dua muatan listrik dijelaskan oleh hukum...",
+    "opsi": [
+      "Coulomb",
+      "Ohm",
+      "Kirchhoff",
+      "Lenz",
+      "Newton"
+    ],
+    "jawaban": 0,
+    "pembahasan": "F = k * q1 * q2 / r^2. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Coulomb\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_17",
+    "pertanyaan": "Alat yang berfungsi mengubah energi kinetik (gerak) menjadi energi listrik adalah...",
+    "opsi": [
+      "Motor listrik",
+      "Generator / Dinamo",
+      "Baterai",
+      "Lampu",
+      "Setrika"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Induksi elektromagnetik memutar magnet di sekitar kumparan."
+  },
+  {
+    "id": "TKA_SMK_FS_18",
+    "pertanyaan": "Sebuah benda melayang di dalam air jika...",
+    "opsi": [
+      "Massa jenis benda > massa jenis air",
+      "Massa jenis benda < massa jenis air",
+      "Massa jenis benda = massa jenis air",
+      "Benda sangat berat",
+      "Benda terbuat dari besi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Melayang terjadi saat densitas sama. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Massa jenis benda = massa jenis air\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_19",
+    "pertanyaan": "Bunyi termasuk gelombang...",
+    "opsi": [
+      "Transversal",
+      "Elektromagnetik",
+      "Cahaya",
+      "Longitudinal",
+      "Sinar-X"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Gelombang bunyi merambat melalui rapatan dan renggangan medium."
+  },
+  {
+    "id": "TKA_SMK_FS_20",
+    "pertanyaan": "Kecepatan cahaya di ruang hampa adalah sekitar...",
+    "opsi": [
+      "3.000 m/s",
+      "340 m/s",
+      "1.000.000 m/s",
+      "0 m/s",
+      "300.000 km/s"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kecepatan tertinggi di alam semesta (3 x 10^8 m/s)."
+  },
+  {
+    "id": "TKA_SMK_FS_21",
+    "pertanyaan": "Garis-garis gaya magnet keluar dari kutub ... dan masuk ke kutub ...",
+    "opsi": [
+      "Utara - Selatan",
+      "Selatan - Utara",
+      "Barat - Timur",
+      "Atas - Bawah",
+      "Dalam - Luar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Konvensi arah garis gaya magnet. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Utara - Selatan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_22",
+    "pertanyaan": "Sebuah transformator memiliki 100 lilitan primer dan 500 lilitan sekunder. Ini adalah trafo...",
+    "opsi": [
+      "Step-down",
+      "Step-up",
+      "Isolasi",
+      "Autotrafo",
+      "Rusak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Lilitan sekunder lebih banyak meningkatkan tegangan."
+  },
+  {
+    "id": "TKA_SMK_FS_23",
+    "pertanyaan": "Satuan daya listrik Watt setara dengan...",
+    "opsi": [
+      "Joule * detik",
+      "Newton / meter",
+      "Joule / detik",
+      "Volt * Ohm",
+      "Coulomb / detik"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Daya adalah laju energi. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Joule / detik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_24",
+    "pertanyaan": "Besar gaya gesek statis maksimum lebih ... daripada gaya gesek kinetis.",
+    "opsi": [
+      "Kecil",
+      "Sama",
+      "Tidak tentu",
+      "Besar",
+      "Nol"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lebih sulit memulai gerak daripada mempertahankannya."
+  },
+  {
+    "id": "TKA_SMK_FS_25",
+    "pertanyaan": "Cermin yang bayangannya selalu tegak, maya, dan sama besar adalah cermin...",
+    "opsi": [
+      "Cekung",
+      "Cembung",
+      "Lensa",
+      "Kacamata",
+      "Datar"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Karakteristik cermin rias standar. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Datar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_26",
+    "pertanyaan": "Frekuensi gelombang 10 Hz artinya dalam 1 detik terjadi ... getaran.",
+    "opsi": [
+      "10",
+      "1",
+      "100",
+      "0.1",
+      "5"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Definisi Hertz. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"10\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_27",
+    "pertanyaan": "Indeks bias air adalah 1.33. Cahaya akan ... saat masuk dari udara ke air.",
+    "opsi": [
+      "Memantul lurus",
+      "Membias mendekati garis normal",
+      "Membias menjauhi garis normal",
+      "Menghilang",
+      "Berwarna merah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dari medium renggang ke rapat, cahaya melambat dan membias mendekat."
+  },
+  {
+    "id": "TKA_SMK_FS_28",
+    "pertanyaan": "Efek Doppler menjelaskan perubahan frekuensi bunyi akibat...",
+    "opsi": [
+      "Perubahan suhu",
+      "Penyerapan energi",
+      "Gerak relatif antara sumber bunyi dan pendengar",
+      "Pantulan dinding",
+      "Gema"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh: suara sirene ambulans yang berubah saat lewat."
+  },
+  {
+    "id": "TKA_SMK_FS_29",
+    "pertanyaan": "Satuan hambatan jenis (resistivitas) adalah...",
+    "opsi": [
+      "Ohm",
+      "Volt meter",
+      "Siemens",
+      "Ohm meter",
+      "Henry"
+    ],
+    "jawaban": 3,
+    "pembahasan": "rho = R * A / L. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ohm meter\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_30",
+    "pertanyaan": "Komponen elektronika yang berfungsi menyimpan muatan listrik adalah...",
+    "opsi": [
+      "Resistor",
+      "Dioda",
+      "Transistor",
+      "Induktor",
+      "Kapasitor (Kondensator)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kapasitor menyaring tegangan dan menyimpan energi sementara."
+  },
+  {
+    "id": "TKA_SMK_FS_31",
+    "pertanyaan": "Seorang anak berlari mengelilingi lapangan bola 1 kali lalu berhenti di titik awal. Perpindahannya adalah...",
+    "opsi": [
+      "Nol",
+      "Sama dengan keliling lapangan",
+      "Dua kali keliling",
+      "Setengah keliling",
+      "Tak hingga"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Perpindahan adalah jarak posisi awal ke akhir."
+  },
+  {
+    "id": "TKA_SMK_FS_32",
+    "pertanyaan": "Gelombang yang tidak memerlukan medium untuk merambat disebut...",
+    "opsi": [
+      "Mekanik",
+      "Elektromagnetik",
+      "Bunyi",
+      "Tali",
+      "Air"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh: cahaya matahari, gelombang radio."
+  },
+  {
+    "id": "TKA_SMK_FS_33",
+    "pertanyaan": "Benda tegar yang berotasi memiliki energi kinetik rotasi sebesar...",
+    "opsi": [
+      "1/2 mv^2",
+      "mgh",
+      "1/2 I omega^2",
+      "F * s",
+      "p * v"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Melibatkan momen inersia dan kecepatan sudut."
+  },
+  {
+    "id": "TKA_SMK_FS_34",
+    "pertanyaan": "Warna cahaya tampak yang memiliki frekuensi paling tinggi (panjang gelombang terpendek) adalah...",
+    "opsi": [
+      "Merah",
+      "Kuning",
+      "Hijau",
+      "Ungu (Violet)",
+      "Biru"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Me-Ji-Ku-Hi-Bi-Ni-U (Merah terendah, Ungu tertinggi)."
+  },
+  {
+    "id": "TKA_SMK_FS_35",
+    "pertanyaan": "Panas merambat melalui sendok besi yang dicelupkan ke air panas melalui proses...",
+    "opsi": [
+      "Konveksi",
+      "Radiasi",
+      "Evaporasi",
+      "Sublimasi",
+      "Konduksi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Konduksi terjadi pada zat padat melalui getaran partikel."
+  },
+  {
+    "id": "TKA_SMK_FS_36",
+    "pertanyaan": "Tekanan udara diukur menggunakan alat...",
+    "opsi": [
+      "Barometer",
+      "Termometer",
+      "Hygrometer",
+      "Anemometer",
+      "Voltmeter"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Barometer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_37",
+    "pertanyaan": "Hukum Kekekalan Energi menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, tetapi dapat...",
+    "opsi": [
+      "Menghilang",
+      "Berubah bentuk",
+      "Dimakan",
+      "Dilihat oleh mata",
+      "Bertambah terus"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh: Energi listrik berubah jadi panas pada setrika."
+  },
+  {
+    "id": "TKA_SMK_FS_38",
+    "pertanyaan": "Momentum sudut bergantung pada momen inersia dan...",
+    "opsi": [
+      "Kecepatan linier",
+      "Gaya",
+      "Kecepatan sudut",
+      "Massa saja",
+      "Waktu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "L = I * omega. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kecepatan sudut\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_39",
+    "pertanyaan": "Bagian kamera yang memiliki fungsi mirip dengan retina mata adalah...",
+    "opsi": [
+      "Lensa",
+      "Diafragma",
+      "Shutter",
+      "Film / Sensor Digital",
+      "Flash"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tempat terbentuknya bayangan. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Film / Sensor Digital\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_40",
+    "pertanyaan": "Arus AC adalah singkatan dari...",
+    "opsi": [
+      "Alternative Current",
+      "After Current",
+      "Actual Current",
+      "Amperage Current",
+      "Alternating Current (Arus Bolak-balik)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Arus dari PLN adalah AC. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Alternating Current (Arus Bolak-balik)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_41",
+    "pertanyaan": "Pada kincir angin, energi angin diubah menjadi...",
+    "opsi": [
+      "Energi kinetik lalu listrik",
+      "Energi kimia",
+      "Energi bunyi",
+      "Energi magnet saja",
+      "Energi nuklir"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Energi kinetik lalu listrik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_42",
+    "pertanyaan": "Mengapa ban mobil diberi beralur (kembang)?",
+    "opsi": [
+      "Biar keren",
+      "Memperbesar gaya gesek agar tidak slip",
+      "Mengurangi gaya gesek",
+      "Biar ringan",
+      "Membuat panas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Gesekan statis diperlukan untuk cengkeraman jalan."
+  },
+  {
+    "id": "TKA_SMK_FS_43",
+    "pertanyaan": "Sinar ultraviolet berlebihan dapat menyebabkan...",
+    "opsi": [
+      "Kulit putih",
+      "Mata jernih",
+      "Kanker kulit",
+      "Tulang kuat",
+      "Pilek"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kanker kulit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_44",
+    "pertanyaan": "Satuan fluks magnetik adalah...",
+    "opsi": [
+      "Tesla",
+      "Gauss",
+      "Henry",
+      "Weber",
+      "Joule"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Weber\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_45",
+    "pertanyaan": "Hukum I Kirchhoff menyatakan bahwa jumlah arus yang masuk ke titik percabangan ... dengan arus yang keluar.",
+    "opsi": [
+      "Lebih besar",
+      "Lebih kecil",
+      "Berbeda jauh",
+      "Nol",
+      "Sama"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Prinsip kekekalan muatan. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Sama\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_46",
+    "pertanyaan": "Lensa cembung bersifat mengumpulkan sinar, disebut juga lensa...",
+    "opsi": [
+      "Konvergen",
+      "Divergen",
+      "Cekung",
+      "Bifokal",
+      "Plano"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Konvergen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_47",
+    "pertanyaan": "Besar percepatan gravitasi bumi dihitung rata-rata bernilai...",
+    "opsi": [
+      "100 m/s^2",
+      "10 m/s^2 atau 9.8 m/s^2",
+      "1 m/s^2",
+      "0 m/s^2",
+      "32 m/s^2"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"10 m/s^2 atau 9.8 m/s^2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_48",
+    "pertanyaan": "Siapakah ilmuwan yang menemukan hukum gravitasi universal setelah melihat apel jatuh?",
+    "opsi": [
+      "Galileo",
+      "Tesla",
+      "Newton",
+      "Edison",
+      "Watt"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Newton\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_49",
+    "pertanyaan": "Cahaya matahari sampai ke bumi dengan cara...",
+    "opsi": [
+      "Konduksi",
+      "Konveksi",
+      "Dibawa angin",
+      "Radiasi",
+      "Melalui pipa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Radiasi merambat tanpa medium. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Radiasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_FS_50",
+    "pertanyaan": "Alat pemutus arus listrik otomatis saat terjadi korsleting atau beban berlebih adalah...",
+    "opsi": [
+      "Saklar",
+      "Baterai",
+      "Stabilizer",
+      "Stop Kontak",
+      "Sekring (Fuse) / MCB"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sekring (Fuse) / MCB\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

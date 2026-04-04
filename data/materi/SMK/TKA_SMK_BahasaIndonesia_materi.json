@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Bahasa Indonesia",
+  "tingkatan": "SMK",
+  "jurusan": "Semua Jurusan",
+  "deskripsi": "Materi persiapan Tes Kemampuan Akademik (TKA) jenjang SMK yang berfokus pada komunikasi bisnis, teknis, dan literasi media digital.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Komunikasi Efektif di Dunia Kerja",
+      "konten": "Etika berkomunikasi lisan dan tulis, menyusun memo, email formal, serta memahami instruksi kerja (SOP) secara akurat.",
+      "tag": [
+        "tka smk bahasaindonesia materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Analisis Teks Prosedur Kompleks",
+      "konten": "Membaca manual alat teknik, memahami diagram alir (flowchart), serta menyusun panduan penggunaan produk kreatif.",
+      "tag": [
+        "tka smk bahasaindonesia materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Argumentasi dan Negosiasi",
+      "konten": "Menyusun teks negosiasi bisnis, memahami teknik debu, serta menganalisis teks eksposisi dan opini dalam media massa.",
+      "tag": [
+        "tka smk bahasaindonesia materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Penulisan Laporan dan Korespondensi",
+      "konten": "Format laporan prakerin, surat lamaran pekerjaan, kurikulum vitae (CV) yang ATS-friendly, serta surat penawaran barang/jasa.",
+      "tag": [
+        "tka smk bahasaindonesia materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Literasi Informasi dan Anti-Hoaks",
+      "konten": "Teknik verifikasi data, membedakan fakta dan opini di dunia digital, serta etika berinternet (Netiket) dalam lingkungan profesional.",
+      "tag": [
+        "tka smk bahasaindonesia materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-bahasaindonesia-materi",
+  "mapel": "TKA SMK: Bahasa Indonesia",
+  "tag": [
+    "tka smk bahasaindonesia materi"
+  ]
+}

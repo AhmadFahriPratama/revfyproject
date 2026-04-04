@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_KR_01",
+    "pertanyaan": "Huruf 'Hangeul' diciptakan oleh...",
+    "opsi": [
+      "Raja Sejong yang Agung",
+      "Raja Yi Sun-shin",
+      "Presiden Park",
+      "Raja Gwanggaeto",
+      "BTS"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Diciptakan pada tahun 1443 agar rakyat mudah membaca."
+  },
+  {
+    "id": "TKA_SMK_KR_02",
+    "pertanyaan": "Ucapan 'Halo / Apa kabar' yang paling umum adalah...",
+    "opsi": [
+      "Kamsahamnida",
+      "Annyeong haseyo",
+      "Mianhamnida",
+      "Saranghaeyo",
+      "Yoboseyo"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Annyeong haseyo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_03",
+    "pertanyaan": "Bahasa Korea dari 'Terima kasih' secara sopan adalah...",
+    "opsi": [
+      "Gwaenchanayo",
+      "Mianhe",
+      "Kamsahamnida",
+      "Joha-yo",
+      "Arigatou"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kamsahamnida\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_04",
+    "pertanyaan": "Konsonan akhir dalam sebuah suku kata hangeul disebut...",
+    "opsi": [
+      "Hanja",
+      "Hangeul",
+      "Banmal",
+      "Batchim",
+      "Jondaetmal"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Batchim memengaruhi pelafalan kata berikutnya."
+  },
+  {
+    "id": "TKA_SMK_KR_05",
+    "pertanyaan": "Angka 'Sino-Korea' (1, 2, 3...) digunakan untuk...",
+    "opsi": [
+      "Menghitung jumlah benda",
+      "Menghitung umur",
+      "Menghitung jam",
+      "Hanya untuk main game",
+      "Menyebutkan nomor telepon, harga, dan menit"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Il, i, sam... (Sino). Hana, dul, set... (Korea Asli)."
+  },
+  {
+    "id": "TKA_SMK_KR_06",
+    "pertanyaan": "Arti dari 'Mianhamnida' adalah...",
+    "opsi": [
+      "Maaf",
+      "Permisi",
+      "Halo",
+      "Sama-sama",
+      "Tolong"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Maaf\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_07",
+    "pertanyaan": "Sapaan 'Annyeong-hi gyeseyo' diucapkan oleh...",
+    "opsi": [
+      "Orang yang tinggal (stay)",
+      "Orang yang pergi (leaving)",
+      "Siapa saja boleh",
+      "Hanya murid kepada guru",
+      "Hanya di telepon"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Artinya: Selamat tinggal (lepada yang tinggal)."
+  },
+  {
+    "id": "TKA_SMK_KR_08",
+    "pertanyaan": "Partikel tempat 'di/ke' dalam Bahasa Korea adalah...",
+    "opsi": [
+      "~ga",
+      "~un",
+      "~e",
+      "~ul",
+      "~no"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"~e\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_09",
+    "pertanyaan": "Arti dari 'Hagsaeng' (학생) adalah...",
+    "opsi": [
+      "Guru",
+      "Dokter",
+      "Polisi",
+      "Pelajar / Siswa",
+      "Koki"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pelajar / Siswa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_10",
+    "pertanyaan": "Bahasa Korea dari 'Makan' adalah...",
+    "opsi": [
+      "Masida",
+      "Gada",
+      "Oda",
+      "Ikda",
+      "Mogda"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mogda\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_11",
+    "pertanyaan": "Huruf vokal 'A' dalam Hangeul adalah...",
+    "opsi": [
+      "ㅏ",
+      "ㅑ",
+      "ㅓ",
+      "ㅕ",
+      "ㅗ"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"ㅏ\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_12",
+    "pertanyaan": "Bahasa Korea dari 'Sekolah' adalah...",
+    "opsi": [
+      "Jip",
+      "Haggyo",
+      "Sijang",
+      "Yog",
+      "Gongjang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Haggyo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_13",
+    "pertanyaan": "Angka '5' dalam Sino-Korea adalah...",
+    "opsi": [
+      "Il",
+      "I",
+      "O",
+      "Sam",
+      "Sa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi E karena sesuai dengan konsep utama pada soal, yaitu \"O\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_14",
+    "pertanyaan": "Arti dari 'Saranghae' adalah...",
+    "opsi": [
+      "Halo",
+      "Terima kasih",
+      "Apa kabar",
+      "Aku cinta kamu",
+      "Benci kamu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Aku cinta kamu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_15",
+    "pertanyaan": "Panggilan untuk 'Kakak Laki-laki' oleh laki-laki adalah...",
+    "opsi": [
+      "Oppa",
+      "Noona",
+      "Eonni",
+      "Dongsaeng",
+      "Hyung"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Oppa (Kakak Laki-laki panggil oleh Perempuan)."
+  },
+  {
+    "id": "TKA_SMK_KR_16",
+    "pertanyaan": "Negara 'Korea Selatan' secara resmi disebut...",
+    "opsi": [
+      "Hanguk",
+      "Ilbon",
+      "Jungguk",
+      "Miguk",
+      "Indonesiya"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Hanguk\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_17",
+    "pertanyaan": "Kata tunjuk 'Igot' berarti...",
+    "opsi": [
+      "Itu",
+      "Ini",
+      "Itu (jauh)",
+      "Mana",
+      "Kapan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Ini\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_18",
+    "pertanyaan": "Arti dari 'Sajangnim' adalah...",
+    "opsi": [
+      "Karyawan",
+      "Manajer",
+      "Direktur / Bos",
+      "Siswa",
+      "Satpam"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Direktur / Bos\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_19",
+    "pertanyaan": "Ucapan selamat tidur 'Selamat Malam' yang sopan adalah...",
+    "opsi": [
+      "Oyasumi",
+      "Wan an",
+      "Good night",
+      "Annyeong-hi jumuseyo",
+      "Makan yuk"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Annyeong-hi jumuseyo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_20",
+    "pertanyaan": "Angka '100' diucapkan...",
+    "opsi": [
+      "Man",
+      "Chon",
+      "Ship",
+      "O",
+      "Baek"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Baek\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_21",
+    "pertanyaan": "Bahasa Korea dari 'Air' adalah...",
+    "opsi": [
+      "Mul",
+      "Bap",
+      "Uyu",
+      "Cha",
+      "Sul"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mul\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_22",
+    "pertanyaan": "Arti dari 'Gwaenchanayo' adalah...",
+    "opsi": [
+      "Maaf",
+      "Tidak apa-apa",
+      "Lapar",
+      "Haus",
+      "Senang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tidak apa-apa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_23",
+    "pertanyaan": "Minuman 'Susu' diucapkan...",
+    "opsi": [
+      "Mul",
+      "Kopi",
+      "Uyu",
+      "Kola",
+      "Ju-seu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Uyu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_24",
+    "pertanyaan": "Kata kerja 'Gada' berarti...",
+    "opsi": [
+      "Datang",
+      "Tidur",
+      "Belanja",
+      "Pergi",
+      "Belajar"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pergi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_25",
+    "pertanyaan": "Sapaan 'Yoboseyo' digunakan saat...",
+    "opsi": [
+      "Bertemu teman",
+      "Marah",
+      "Berdoa",
+      "Makan",
+      "Menelepon"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menelepon\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_26",
+    "pertanyaan": "Mata uang Korea adalah...",
+    "opsi": [
+      "Won",
+      "Yen",
+      "Yuan",
+      "Ringgit",
+      "Baht"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Won\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_27",
+    "pertanyaan": "Ucapan 'Hajimemashite' (Senang bertemu Anda) versi Korea adalah...",
+    "opsi": [
+      "Kamsahamnida",
+      "Bangapseumnida",
+      "Mianhamnida",
+      "Joha-yo",
+      "Shirho-yo"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Bangapseumnida\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_28",
+    "pertanyaan": "Sebutan untuk 'Ibu' adalah...",
+    "opsi": [
+      "Appa",
+      "Hyung",
+      "Eomma",
+      "Noona",
+      "Eonni"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Eomma\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_29",
+    "pertanyaan": "Arti dari 'Duguseyo?' adalah...",
+    "opsi": [
+      "Lagi apa?",
+      "Ke mana?",
+      "Berapa?",
+      "Siapa ya?",
+      "Kapan?"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Siapa ya?\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_30",
+    "pertanyaan": "Budaya membungkuk di Korea menunjukkan...",
+    "opsi": [
+      "Rasa takut",
+      "Lagi cari barang hilang",
+      "Olahraga",
+      "Lagi ngantuk",
+      "Rasa hormat dan sopan santun"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rasa hormat dan sopan santun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_31",
+    "pertanyaan": "Huruf vokal 'U' dalam Hangeul adalah...",
+    "opsi": [
+      "ㅜ",
+      "ㅗ",
+      "ㅡ",
+      "ㅣ",
+      "ㅛ"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"ㅜ\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_32",
+    "pertanyaan": "Arti dari 'Chaeg' (책) adalah...",
+    "opsi": [
+      "Pensil",
+      "Buku",
+      "Tas",
+      "Meja",
+      "Kursi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Buku\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_33",
+    "pertanyaan": "Bilangan '1.000' disebut...",
+    "opsi": [
+      "Man",
+      "Baek",
+      "Chon",
+      "Ship",
+      "Il"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Chon\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_34",
+    "pertanyaan": "Kata ganti 'Kalian' adalah...",
+    "opsi": [
+      "Uri",
+      "Ta-deul",
+      "Wo-deul",
+      "Nideul",
+      "Ni"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Nideul\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_35",
+    "pertanyaan": "Partikel objek adalah...",
+    "opsi": [
+      "~i / ~ga",
+      "~un / ~nun",
+      "~e",
+      "~no",
+      "~ul / ~rul"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"~ul / ~rul\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_36",
+    "pertanyaan": "Sebutan untuk 'Kakak Perempuan' oleh Perempuan adalah...",
+    "opsi": [
+      "Eonni",
+      "Noona",
+      "Oppa",
+      "Hyung",
+      "Dongsaeng"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Eonni\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_37",
+    "pertanyaan": "Arti dari 'Gongbu-hada' adalah...",
+    "opsi": [
+      "Bermain",
+      "Belajar",
+      "Bekerja",
+      "Berbelanja",
+      "Berjalan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Belajar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_38",
+    "pertanyaan": "Makanan khas Korea yang berupa fermentasi sawi putih pedas adalah...",
+    "opsi": [
+      "Sushi",
+      "Bulgogi",
+      "Kimchi",
+      "Ramyeon",
+      "Bibimbap"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kimchi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_39",
+    "pertanyaan": "Pakaian tradisional Korea disebut...",
+    "opsi": [
+      "Kimono",
+      "Batik",
+      "Cheongsam",
+      "Hanbok",
+      "Ao dai"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hanbok\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_40",
+    "pertanyaan": "Ibu Kota Korea Selatan adalah...",
+    "opsi": [
+      "Busan",
+      "Jeju",
+      "Incheon",
+      "Daegu",
+      "Seoul"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Seoul\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_41",
+    "pertanyaan": "Arti dari 'Mashita' dalam konteks rasa adalah...",
+    "opsi": [
+      "Enak / Lezat",
+      "Pedas",
+      "Asin",
+      "Manis",
+      "Pahit"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Enak / Lezat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_42",
+    "pertanyaan": "Penggunaan akhiran '~imnida' diletakkan pada kalimat...",
+    "opsi": [
+      "Pertanyaan",
+      "Pernyataan Formal",
+      "Perintah",
+      "Larangan",
+      "Ajakan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pernyataan Formal\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_43",
+    "pertanyaan": "Kata tunjuk 'Jogot' berarti...",
+    "opsi": [
+      "Ini",
+      "Itu",
+      "Itu (jauh sana)",
+      "Mana",
+      "Siapa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Itu (jauh sana)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_44",
+    "pertanyaan": "Sapaan 'Oraenman-iyeyo' artinya...",
+    "opsi": [
+      "Lagi apa?",
+      "Mau ke mana?",
+      "Siapa ini?",
+      "Lama tidak bertemu",
+      "Selamat siang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Lama tidak bertemu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_45",
+    "pertanyaan": "Arti dari 'Imair-iyeyo?' adalah...",
+    "opsi": [
+      "Berapa jumlahnya?",
+      "Siapa Anda?",
+      "Kapan datang?",
+      "Di mana barangnya?",
+      "Berapa harganya?"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Berapa harganya?\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_46",
+    "pertanyaan": "Kata kerja bentuk masa lalu dalam bahasa informal sopan biasanya berakhir dengan...",
+    "opsi": [
+      "~ossoyo",
+      "~oyo",
+      "~hada",
+      "~imnida",
+      "~shi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"~ossoyo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_47",
+    "pertanyaan": "Drama Korea sering disebut dengan istilah...",
+    "opsi": [
+      "C-Drama",
+      "K-Drama",
+      "J-Drama",
+      "T-Drama",
+      "I-Drama"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"K-Drama\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_48",
+    "pertanyaan": "Arti dari 'Odigaseyo?' adalah...",
+    "opsi": [
+      "Lagi apa?",
+      "Sudah makan?",
+      "Mau ke mana?",
+      "Siapa nama kamu?",
+      "Berapa umur kamu?"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mau ke mana?\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_49",
+    "pertanyaan": "Angka 'Sam-ship o' adalah...",
+    "opsi": [
+      "15",
+      "53",
+      "305",
+      "35",
+      "503"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"35\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KR_50",
+    "pertanyaan": "Keunggulan menguasai Bahasa Korea bagi siswa SMK Pariwisata adalah...",
+    "opsi": [
+      "Biar bisa dengerin K-Pop tanpa teks",
+      "Supaya jago Taekwondo",
+      "Cuma gaya-gayaan",
+      "Tidak ada gunanya",
+      "Melayani wisatawan Korea yang jumlahnya meningkat dan peluang kerja di perusahaan multinasional Korea (Samsung, Hyundai, dll)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Melayani wisatawan Korea yang jumlahnya meningkat dan peluang kerja di perusahaan multinasional Korea (Samsung, Hyundai,\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

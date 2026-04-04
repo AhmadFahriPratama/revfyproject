@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_BI_01",
+    "pertanyaan": "FR Industri Modern: HRD sering menanyakan 'Apa kelebihan dan kekurangan Anda?'. Cara menjawab yang paling bijak adalah...",
+    "opsi": [
+      "Menyebutkan kelebihan yang relevan dan kekurangan yang disertai upaya perbaikan",
+      "Mengatakan tidak punya kekurangan",
+      "Menyebutkan semua kelemahan tanpa solusi",
+      "Diam saja",
+      "Menagih gaji tinggi"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Menunjukkan kesadaran diri (self-awareness) dan keinginan berkembang.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_BI_02",
+    "pertanyaan": "FR Literasi Digital: Banyak informasi tawaran kerja melalui Telegram/WhatsApp yang meminta biaya pendaftaran. Sikap Anda...",
+    "opsi": [
+      "Langsung bayar supaya keterima",
+      "Waspada dan cek kredibilitas perusahaan (biasanya lowongan resmi tidak memungut biaya)",
+      "Marah-marah di grup",
+      "Hapus pesannya saja",
+      "Ikut-ikutan share berita tersebut"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Pentingnya literasi untuk menghindari penipuan rekrutmen.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_BI_03",
+    "pertanyaan": "FR Korespondensi: Dalam menulis email lamaran, bagian 'Subject' sebaiknya diisi...",
+    "opsi": [
+      "Lamaran",
+      "Andi Lamaran",
+      "Posisi yang Dilamar - Nama Lengkap",
+      "(Kosongkan saja)",
+      "Saya butuh kerja"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Memudahkan rekruter mengklasifikasi email secara rapi.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_BI_04",
+    "pertanyaan": "FR Presentasi: 'Body Language' atau bahasa tubuh yang baik saat presentasi adalah...",
+    "opsi": [
+      "Melihat ke lantai",
+      "Tangan di dalam saku",
+      "Membelakangi audiens",
+      "Kontak mata dengan audiens dan berdiri tegak",
+      "Terus menerus membaca slide"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Bahasa tubuh mendukung kepercayaan diri dan keterlibatan audiens.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_BI_05",
+    "pertanyaan": "FR Ujian Nasional: Kalimat 'Pemerintah menetapkan kebijakan tersebut guna menyukseskan swasembada pangan'. Kata 'guna' berarti...",
+    "opsi": [
+      "Manfaat",
+      "Alat",
+      "Cara",
+      "Barang",
+      "Untuk / Agar"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Guna sebagai konjungsi tujuan. Jawaban yang paling tepat adalah opsi E karena sesuai dengan konsep utama pada soal, yaitu \"Untuk / Agar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

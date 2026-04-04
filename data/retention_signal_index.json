@@ -1,0 +1,10 @@
+{
+  "id": "retention-signal-index",
+  "signals": [
+    "last_active_days",
+    "unfinished_roadmap_stage",
+    "low_tryout_frequency",
+    "weak_topic_repeated",
+    "short_session_pattern"
+  ]
+}

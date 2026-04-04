@@ -1,0 +1,9 @@
+{
+  "id": "webhook-event-schema",
+  "events": [
+    "content_generated",
+    "content_validated",
+    "index_refreshed",
+    "roadmap_updated"
+  ]
+}

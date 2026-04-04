@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Perhotelan",
+  "tingkatan": "SMK",
+  "jurusan": "Pariwisata / Perhotelan",
+  "deskripsi": "Materi mengenai industri perhotelan, operasional kantor depan (Front Office), layanan pembersihan kamar (Housekeeping), laundry, serta layanan makanan dan minuman (F&B Service).",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Industri Perhotelan",
+      "konten": "Pengertian hotel, klasifikasi hotel (bintang 1-5, resort, city hotel), struktur organisasi hotel secara umum, serta etika dan penampilan diri (grooming) staf hotel.",
+      "tag": [
+        "pariwisata perhotelan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Operasional Kantor Depan (Front Office)",
+      "konten": "Alur reservasi (pemesanan kamar), proses check-in dan check-out, pelayanan tamu (concierge), penanganan keluhan tamu, serta sistem informasi hotel.",
+      "tag": [
+        "pariwisata perhotelan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Layanan Tata Graha (Housekeeping)",
+      "konten": "Tugas dan tanggung jawab room attendant, teknik pembersihan kamar tamu (making bed), pembersihan area umum (public area), serta pengenalan bahan pembersih kimia (cleaning chemical).",
+      "tag": [
+        "pariwisata perhotelan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Layanan Laundry dan Dry Cleaning",
+      "konten": "Prosedur penanganan pakaian tamu, pencucian linen hotel (sprei, handuk), pengenalan mesin laundry, serta teknik menyetrika (pressing) dan pelipatan.",
+      "tag": [
+        "pariwisata perhotelan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Layanan Makanan dan Minuman (F&B)",
+      "konten": "Pengenalan jenis restoran, teknik pelayanan meja (table service), tata krama makan (table manner), pelayanan kamar (room service), serta dasar-dasar sanitasi makanan.",
+      "tag": [
+        "pariwisata perhotelan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "pariwisata-perhotelan-materi",
+  "mapel": "Dasar-Dasar Perhotelan",
+  "tag": [
+    "pariwisata perhotelan materi"
+  ]
+}

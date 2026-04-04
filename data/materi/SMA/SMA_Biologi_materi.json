@@ -1,0 +1,53 @@
+{
+  "judul": "Biologi",
+  "tingkatan": "SMA",
+  "jurusan": "MIPA",
+  "deskripsi": "Materi mengenai sel, jaringan, sistem organ manusia, genetika, evolusi, dan ekosistem.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Biologi Sel dan Molekuler",
+      "konten": "Sel adalah unit terkecil kehidupan. Komponen sel meliputi Membran Sel, Sitoplasma, dan Organel (Nukleus, Mitokondria, Ribosom, Retikulum Endoplasma, Badan Golgi, Lisosom, dan Kloroplas pada tumbuhan). Pembahasan meliputi transpor membran (difusi/osmosis) dan sintesis protein.",
+      "tag": [
+        "sma biologi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Struktur dan Fungsi Jaringan",
+      "konten": "Jaringan Tumbuhan (Meristem, Epidermis, Parenkim, Penyokong, Pengangkut/Xilem-Floem). Jaringan Hewan (Epitel, Otot, Saraf, Penyokong/Ikat). Organ tubuh terbentuk dari kumpulan jaringan yang bekerja sama.",
+      "tag": [
+        "sma biologi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Sistem Organ Manusia",
+      "konten": "Sistem Pencernaan (mulut ke anus), Sistem Pernapasan (paru-paru/alveolus), Sistem Peredaran Darah (jantung/pembuluh), Sistem Ekskresi (ginjal/kulit), Sistem Koordinasi (saraf/hormon), dan Sistem Reproduksi.",
+      "tag": [
+        "sma biologi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Genetika dan Hereditas",
+      "konten": "Materi genetik DNA dan RNA. Hukum Mendel I dan II tentang pewarisan sifat. Pembelahan sel (Mitosis dan Meiosis). Kelainan genetik pada manusia dan rekayasa genetika (Bioteknologi) seperti kloning dan tanaman transgenik.",
+      "tag": [
+        "sma biologi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Ekologi dan Evolusi",
+      "konten": "Interaksi makhluk hidup dengan lingkungan (Rantai makanan, Simbiosis, Daur Biogeokimia). Teori Evolusi Darwin (Seleksi Alam) dan bukti-bukti evolusi. Perlindungan keanekaragaman hayati (Konservasi in-situ dan ex-situ).",
+      "tag": [
+        "sma biologi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "sma-biologi-materi",
+  "mapel": "Biologi",
+  "tag": [
+    "sma biologi materi"
+  ]
+}

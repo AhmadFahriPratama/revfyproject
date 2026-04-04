@@ -1,0 +1,53 @@
+{
+  "judul": "Kuliner (Tata Boga)",
+  "tingkatan": "SMK",
+  "jurusan": "Kuliner",
+  "deskripsi": "Materi mengenai pengolahan makanan, dasar-dasar patiseri, ilmu gizi, keamanan pangan (HACCP), serta manajemen operasional dapur profesional.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar-Dasar Pengolahan Makanan",
+      "konten": "Pengenalan teknik memotong (cutting skills), teknik memasak panas basah (moist heat) dan panas kering (dry heat). Penggunaan bumbu dan rempah dasar Indonesia serta internasional.",
+      "tag": [
+        "par kuliner materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Ilmu Gizi dan Bahan Makanan",
+      "konten": "Pemahaman mengenai zat gizi makro dan mikro. Karakteristik bahan makanan (daging, unggas, ikan, sayuran, buah) serta cara penyimpanan yang tepat untuk menjaga kualitas bahan.",
+      "tag": [
+        "par kuliner materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Sanitasi dan Keamanan Pangan",
+      "konten": "Prinsip kebersihan dapur, kebersihan diri (personal hygiene), serta pengenalan sistem HACCP (Hazard Analysis Critical Control Point) untuk mencegah kontaminasi pada makanan.",
+      "tag": [
+        "par kuliner materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Dasar-Dasar Patiseri dan Bakery",
+      "konten": "Teknik pembuatan roti (bread), kue (cakes), pastri, dan cokelat. Pengenalan bahan dasar baking seperti tepung, ragi, lemak, dan gula serta cara menghitung resep (baker's percentage).",
+      "tag": [
+        "par kuliner materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Manajemen Operasional Dapur",
+      "konten": "Struktur organisasi dapur (Kitchen Brigade), perencanaan menu (Menu Planning), penghitungan harga pokok produksi (Food Costing), serta teknik penyajian makanan (Plating).",
+      "tag": [
+        "par kuliner materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "par-kuliner-materi",
+  "mapel": "Kuliner (Tata Boga)",
+  "tag": [
+    "par kuliner materi"
+  ]
+}

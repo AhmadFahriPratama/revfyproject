@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Kuliner",
+  "tingkatan": "SMK",
+  "jurusan": "Pariwisata / Kuliner",
+  "deskripsi": "Materi mengenai pengenalan industri kuliner, kebersihan dan sanitasi (HACCP), teknik dasar memasak (moist heat, dry heat), pengenalan bumbu, serta manajemen dapur.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Industri Kuliner",
+      "konten": "Sejarah perkembangan dunia kuliner, jenis-jenis restoran (Fine dining, Fast food, Cafeteria), struktur organisasi dapur (Brigade de Cuisine), serta etika profesional seorang Chef.",
+      "tag": [
+        "pariwisata kuliner materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Keamanan Pangan, Sanitasi, dan K3",
+      "konten": "Prinsip personal hygiene, pencegahan kontaminasi silang, sistem penyimpanan bahan makanan (FIFO), serta keselamatan kerja di area dapur yang panas dan tajam.",
+      "tag": [
+        "pariwisata kuliner materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Peralatan dan Bahan Makanan",
+      "konten": "Pengenalan alat pengolah (oven, stove, griller) dan alat pemotong (pisau chef, paring knife). Pengetahuan bahan: Sayuran, daging, ikan, unggas, telur, dan susu.",
+      "tag": [
+        "pariwisata kuliner materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Teknik Dasar Memasak",
+      "konten": "Metode memasak panas basah (Boiling, Steaming, Poaching, Braising) dan panas kering (Baking, Roasting, Grilling, Searing). Teknik memotong sayuran (Julienne, Brunoise, Macedoine).",
+      "tag": [
+        "pariwisata kuliner materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Bumbu dan Saus Dasar (Mother Sauces)",
+      "konten": "Pengenalan bumbu dasar Nusantara (Merah, Putih, Kuning) serta 5 saus dasar klasik dunia (Bechamel, Veloute, Espagnole, Tomato, Hollandaise).",
+      "tag": [
+        "pariwisata kuliner materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "pariwisata-kuliner-materi",
+  "mapel": "Dasar-Dasar Kuliner",
+  "tag": [
+    "pariwisata kuliner materi"
+  ]
+}

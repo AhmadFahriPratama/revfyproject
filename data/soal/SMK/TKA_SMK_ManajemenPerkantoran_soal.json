@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_MP_01",
+    "pertanyaan": "Kegiatan mencatat, menyatukan, mengolah, menggandakan, mengirim, dan menyimpan informasi disebut...",
+    "opsi": [
+      "Administrasi Perkantoran",
+      "Produksi",
+      "Pemasaran",
+      "Distribusi",
+      "Konsumsi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Administrasi adalah inti dari kegiatan operasional kantor."
+  },
+  {
+    "id": "TKA_SMK_MP_02",
+    "pertanyaan": "Pihak yang memberikan instruksi dan mengarahkan jalannya kegiatan kantor disebut...",
+    "opsi": [
+      "Staf",
+      "Manajer / Pimpinan",
+      "Pelanggan",
+      "Kurir",
+      "Satpam"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Manajer / Pimpinan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_03",
+    "pertanyaan": "Bagian surat yang berisi alamat tujuan surat disebut...",
+    "opsi": [
+      "Kepala Surat (Kop)",
+      "Nomor Surat",
+      "Alamat Dalam",
+      "Salam Pembuka",
+      "Isi Surat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Alat dalam berada di bawah nomor/tanggal surat."
+  },
+  {
+    "id": "TKA_SMK_MP_04",
+    "pertanyaan": "Sistem kearsipan yang menyusun dokumen berdasarkan nama orang atau badan disebut sistem...",
+    "opsi": [
+      "Subjek",
+      "Tanggal (Chronological)",
+      "Wilayah (Geografis)",
+      "Abjad (Alphabetical System)",
+      "Nomor"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Abjad (Alphabetical System)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_05",
+    "pertanyaan": "Prinsip pelayanan prima yang menekankan pada tindakan nyata membantu pelanggan adalah...",
+    "opsi": [
+      "Attitude (Sikap)",
+      "Attention (Perhatian)",
+      "Accountability",
+      "Appearance",
+      "Action (Tindakan)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Action mencakup pencatatan pesanan dan solusi cepat."
+  },
+  {
+    "id": "TKA_SMK_MP_06",
+    "pertanyaan": "Alat komunikasi internal di kantor yang menghubungkan antar ruangan disebut...",
+    "opsi": [
+      "Intercom / PABX",
+      "Smartphone",
+      "Handy Talky",
+      "Email",
+      "Memo"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Intercom / PABX\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_07",
+    "pertanyaan": "Surat yang dikirimkan oleh pihak perusahaan kepada pihak lain untuk menawarkan barang disebut...",
+    "opsi": [
+      "Surat Lamaran",
+      "Surat Penawaran (Quotation)",
+      "Surat Keputusan",
+      "Surat Izin",
+      "Surat Kuasa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Surat Penawaran (Quotation)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_08",
+    "pertanyaan": "Fungsi utama filter udara/AC di ruang kantor yang tertutup adalah...",
+    "opsi": [
+      "Mendinginkan mesin",
+      "Hiasan dinding",
+      "Menjaga kenyamanan dan produktivitas karyawan (K3 Perkantoran)",
+      "Menghemat listrik",
+      "Penerangan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menjaga kenyamanan dan produktivitas karyawan (K3 Perkantoran)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_09",
+    "pertanyaan": "Penyimpanan arsip digital menggunakan layanan Google Drive atau OneDrive disebut penyimpanan...",
+    "opsi": [
+      "Flashdisk",
+      "Harddisk Internal",
+      "Disket",
+      "Cloud Storage (Awan)",
+      "CD-ROM"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Cloud Storage (Awan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_10",
+    "pertanyaan": "Kata 'Agenda' dalam administrasi perkantoran merujuk pada...",
+    "opsi": [
+      "Daftar menu makanan",
+      "Jadwal libur",
+      "Laporan keuangan",
+      "Buku tamu",
+      "Buku untuk mencatat surat masuk dan keluar"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Buku untuk mencatat surat masuk dan keluar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_11",
+    "pertanyaan": "Etika menelepon yang benar saat menerima telepon kantor adalah...",
+    "opsi": [
+      "Mengangkat telepon maksimal pada dering ke-3 dan memberi salam",
+      "Menunggu sampai 10 kali dering",
+      "Langsung menanyakan maksud tanpa salam",
+      "Menyapa dengan 'Halo siapa ini?'",
+      "Menutup telepon jika tidak kenal"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengangkat telepon maksimal pada dering ke-3 dan memberi salam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_12",
+    "pertanyaan": "Singkatan dari SOP adalah...",
+    "opsi": [
+      "System Of Planning",
+      "Standard Operating Procedure",
+      "Special Office Program",
+      "Service On Point",
+      "Simple Office Project"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Standard Operating Procedure\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_13",
+    "pertanyaan": "Arsip yang digunakan secara terus menerus dalam kegiatan perkantoran disebut arsip...",
+    "opsi": [
+      "Inaktif",
+      "Statis",
+      "Aktif",
+      "Vital",
+      "Abadi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Arsip inaktif frekuensi penggunaannya sudah menurun."
+  },
+  {
+    "id": "TKA_SMK_MP_14",
+    "pertanyaan": "Salah satu ciri kantor masa depan (Digital Office) adalah berkurangnya penggunaan kertas, istilahnya...",
+    "opsi": [
+      "Wireless",
+      "Cashless",
+      "Borderless",
+      "Paperless",
+      "Handless"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Paperless\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_15",
+    "pertanyaan": "Mesin yang digunakan untuk memproses dokumen menjadi potongan-potongan kecil agar aman disebut...",
+    "opsi": [
+      "Scanner",
+      "Laminating",
+      "Fotokopi",
+      "Stempel",
+      "Shredder (Penghancur Kertas)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Shredder (Penghancur Kertas)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_16",
+    "pertanyaan": "Bagian surat resmi yang berisi maksud atau inti dari dikirimnya surat tersebut adalah...",
+    "opsi": [
+      "Perihal / Hal",
+      "Inisial",
+      "Lampiran",
+      "Tembusan",
+      "Kaki Surat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Perihal / Hal\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_17",
+    "pertanyaan": "Berikut ini merupakan contoh peralatan kantor (Office Supplies/Consumables) adalah...",
+    "opsi": [
+      "Meja Kursi",
+      "Kertas, Tinta, Klip",
+      "Gedung Kantor",
+      "Mobil Dinas",
+      "AC"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Office supplies adalah barang yang habis pakai."
+  },
+  {
+    "id": "TKA_SMK_MP_18",
+    "pertanyaan": "Sikap profesional saat menghadapi komplain pelanggan adalah...",
+    "opsi": [
+      "Ikut marah agar tidak dianggap lemah",
+      "Menyalahkan bagian lain",
+      "Mendengarkan dengan sabar dan memberikan solusi terbaik",
+      "Menghindar dan tidak mau menjawab",
+      "Menangis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mendengarkan dengan sabar dan memberikan solusi terbaik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_19",
+    "pertanyaan": "Warna biru pada map folder biasanya digunakan untuk menyimpan dokumen bersifat...",
+    "opsi": [
+      "Sangat rahasia",
+      "Penting",
+      "Rahasia negara",
+      "Biasa / Umum (tergantung kesepakatan kantor)",
+      "Sampah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Warna map sering sebagai pengkodean subjek (Color coding)."
+  },
+  {
+    "id": "TKA_SMK_MP_20",
+    "pertanyaan": "Tata letak kantor (Office Layout) yang mengelompokkan karyawan berdasarkan divisi di satu ruangan besar tanpa sekat disebut...",
+    "opsi": [
+      "Layout Kamar",
+      "Layout Tertutup",
+      "Layout Kelas",
+      "Layout Lab",
+      "Layout Terbuka (Open Plan)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Layout Terbuka (Open Plan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_21",
+    "pertanyaan": "Apa kelemahan layout kantor terbuka?",
+    "opsi": [
+      "Gangguan kebisingan dan kurangnya privasi antar karyawan",
+      "Biaya mahal",
+      "Sirkulasi udara buruk",
+      "Komunikasi sulit",
+      "Ruangan terlihat sempit"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Gangguan kebisingan dan kurangnya privasi antar karyawan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_22",
+    "pertanyaan": "Surat yang isinya memindahkan hak atau wewenang kepada orang lain disebut...",
+    "opsi": [
+      "Surat Perjanjian",
+      "Surat Kuasa",
+      "Surat Keputusan",
+      "Surat Jalan",
+      "Surat Edaran"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Surat Kuasa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_23",
+    "pertanyaan": "Aplikasi perkantoran pengolah angka untuk menghitung laporan data statistik adalah...",
+    "opsi": [
+      "Microsoft Word",
+      "Microsoft PowerPoint",
+      "Microsoft Excel",
+      "Notepad",
+      "Paint"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Microsoft Excel\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_24",
+    "pertanyaan": "Penomoran surat dinas 005/SMK/X/2023. Angka 'X' melambangkan...",
+    "opsi": [
+      "Tahun",
+      "Kode Sekolah",
+      "Jumlah lampiran",
+      "Bulan pembuatan (Oktober)",
+      "Tanda tangan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Bulan pembuatan (Oktober)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_25",
+    "pertanyaan": "Salah satu syarat penulisan surat yang baik adalah 'Concise', artinya...",
+    "opsi": [
+      "Bahasa yang bertele-tele",
+      "Sangat panjang lebar",
+      "Penuh hiasan",
+      "Menggunakan bahasa daerah",
+      "Singkat, padat, dan jelas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Singkat, padat, dan jelas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_26",
+    "pertanyaan": "Apa manfaat penggunaan scanner di kantor modern?",
+    "opsi": [
+      "Digitalisasi dokumen fisik menjadi file komputer",
+      "Untuk mencetak foto",
+      "Menghancurkan kertas",
+      "Menghitung uang",
+      "Membuat kopi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Digitalisasi dokumen fisik menjadi file komputer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_27",
+    "pertanyaan": "Lemari kabinet yang berisi laci-laci untuk menyimpan map (hanging folder) disebut...",
+    "opsi": [
+      "Locker",
+      "Filing Cabinet",
+      "Rak Buku",
+      "Meja Kerja",
+      "Brankas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Filing Cabinet\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_28",
+    "pertanyaan": "Tembusan surat (Carbon Copy) berfungsi untuk...",
+    "opsi": [
+      "Menunjukkan nama penulis surat",
+      "Menunjukkan alamat pengirim",
+      "Memberitahu pihak lain yang terkait dengan isi surat tersebut",
+      "Sebagai hiasan di bawah",
+      "Merekam suara"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Memberitahu pihak lain yang terkait dengan isi surat tersebut\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_29",
+    "pertanyaan": "Pekerjaan kantor yang bersifat rutin setiap hari contohnya adalah...",
+    "opsi": [
+      "Rapat pemegang saham tahunan",
+      "Renovasi gedung",
+      "Piknik kantor",
+      "Melayani telepon masuk dan pengarsipan harian",
+      "Pelatihan besar"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Melayani telepon masuk dan pengarsipan harian\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_30",
+    "pertanyaan": "Seorang staf kantor harus memiliki penampilan 'Grooming' yang baik, artinya...",
+    "opsi": [
+      "Memakai perhiasan berlebihan",
+      "Selalu bawa cermin ke mana-mana",
+      "Pakai parfum sangat menyengat",
+      "Tidak perlu mandi",
+      "Berpakaian rapi, bersih, sopan, dan sesuai standar perusahaan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Berpakaian rapi, bersih, sopan, dan sesuai standar perusahaan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_31",
+    "pertanyaan": "Peralatan kantor 'Stapler' berfungsi untuk...",
+    "opsi": [
+      "Menyatukan beberapa lembaran kertas dengan kawat jepret",
+      "Mecap dokumen",
+      "Melubangi kertas",
+      "Memotong kertas",
+      "Mengukur kertas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menyatukan beberapa lembaran kertas dengan kawat jepret\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_32",
+    "pertanyaan": "Istilah 'Petty Cash' dalam administrasi perkantoran berarti...",
+    "opsi": [
+      "Kas besar",
+      "Kas kecil (untuk pengeluaran operasional ringan dan mendesak)",
+      "Uang palsu",
+      "Hutang bank",
+      "Bonus tahunan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kas kecil (untuk pengeluaran operasional ringan dan mendesak)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_33",
+    "pertanyaan": "Salah satu kelebihan kantor virtual (Virtual Office) adalah...",
+    "opsi": [
+      "Karyawan harus datang pagi",
+      "Tidak perlu internet",
+      "Efisiensi biaya sewa gedung dan fleksibilitas kerja",
+      "Bisa tidur sepuasnya",
+      "Pasti sukses"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Efisiensi biaya sewa gedung dan fleksibilitas kerja\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_34",
+    "pertanyaan": "Sekretaris kantor yang profesional harus bisa menjaga 'Confidentiality', artinya...",
+    "opsi": [
+      "Suka bocorkan rahasia pimpinan",
+      "Selalu bicara jujur pada siapa saja",
+      "Ramah sekali",
+      "Menjaga kerahasiaan dokumen dan informasi perusahaan",
+      "Suka gosip"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menjaga kerahasiaan dokumen dan informasi perusahaan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_35",
+    "pertanyaan": "Format surat di mana seluruh bagian surat mulai dari kepala sampai kaki rata kiri disebut...",
+    "opsi": [
+      "Semi Block Style",
+      "Indented Style",
+      "Hanging Paragraph",
+      "Official Style",
+      "Full Block Style"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Full Block Style\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_36",
+    "pertanyaan": "Sarana kearsipan berupa kartu kecil yang berisi informasi ringkas mengenai arsip disebut...",
+    "opsi": [
+      "Kartu Kendali",
+      "Kartu Nama",
+      "Kartu Kredit",
+      "Kartu Keluarga",
+      "Kartu Pelajar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Kartu Kendali\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_37",
+    "pertanyaan": "Berapakah lama waktu simpan minimal dokumen keuangan perusahaan menurut UU?",
+    "opsi": [
+      "1 tahun",
+      "10 tahun",
+      "3 tahun",
+      "30 tahun",
+      "Selamanya"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biasanya dokumen penting keuangan disimpan selama 10 tahun (Retensi)."
+  },
+  {
+    "id": "TKA_SMK_MP_38",
+    "pertanyaan": "Alat melubangi kertas untuk dimasukkan ke dalam map snelhecter disebut...",
+    "opsi": [
+      "Stapler",
+      "Gunting",
+      "Perforator / Pelubang Kertas",
+      "Pisau cutter",
+      "Penggaris"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Perforator / Pelubang Kertas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_39",
+    "pertanyaan": "Kegiatan penerimaan tamu (Receptionist) harus menerapkan 3S, yaitu...",
+    "opsi": [
+      "Sinis, Sadis, Seram",
+      "Sakit, Sedih, Susah",
+      "Satu, Sapi, Sate",
+      "Senyum, Sapa, Salam",
+      "Sore, Siang, Subuh"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Senyum, Sapa, Salam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_40",
+    "pertanyaan": "Apa itu 'Inisial' di bagian kaki surat?",
+    "opsi": [
+      "Singkatan nama penandatangan surat",
+      "Alamat pengirim",
+      "Nomor telepon",
+      "Slogan perusahaan",
+      "Singkatan nama pengonsep dan pengetik surat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Singkatan nama pengonsep dan pengetik surat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_41",
+    "pertanyaan": "Teknologi 'Cloud Computing' memungkinkan staf kantor untuk...",
+    "opsi": [
+      "Bekerja dan mengakses data dari mana saja asalkan ada internet",
+      "Melihat awan",
+      "Terbang",
+      "Menghemat kertas saja",
+      "Tidak perlu laptop"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Bekerja dan mengakses data dari mana saja asalkan ada internet\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_42",
+    "pertanyaan": "Kegiatan rapat / meeting bertujuan untuk...",
+    "opsi": [
+      "Buang-buang waktu",
+      "Koordinasi, pemecahan masalah (Problem Solving), dan pengambilan keputusan",
+      "Makan snack bersama",
+      "Berdebat tanpa henti",
+      "Hanya formalitas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Koordinasi, pemecahan masalah (Problem Solving), dan pengambilan keputusan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_43",
+    "pertanyaan": "Buku yang berisi catatan kronologis surat keluar disebut...",
+    "opsi": [
+      "Buku Agenda Masuk",
+      "Buku Kas",
+      "Buku Agenda Keluar",
+      "Buku Induk Karyawan",
+      "Buku Kliping"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Buku Agenda Keluar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_44",
+    "pertanyaan": "Fungsi jabatan 'Office Girl / Boy' adalah...",
+    "opsi": [
+      "Pimpinan kantor",
+      "Mengelola keuangan besar",
+      "Menandatangani surat keputusan",
+      "Menjaga kebersihan dan membantu kelancaran operasional ringan kantor",
+      "Audit perusahaan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menjaga kebersihan dan membantu kelancaran operasional ringan kantor\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_45",
+    "pertanyaan": "Map yang terbuat dari plastik atau karton tebal dengan penjepit di dalamnya disebut...",
+    "opsi": [
+      "Amplop",
+      "Tas kertas",
+      "Odner",
+      "Box file",
+      "Snelhecter"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Snelhecter\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_46",
+    "pertanyaan": "Cara melipat surat yang membagi kertas menjadi tiga bagian sama besar lalu dilipat adalah lipatan...",
+    "opsi": [
+      "Standard Fold",
+      "Accordion Fold",
+      "Parallel Double Fold",
+      "French Fold",
+      "Baronial Fold"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Standard Fold\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_47",
+    "pertanyaan": "Ruang kantor yang sehat harus memiliki sirkulasi udara yang baik, tujuannya...",
+    "opsi": [
+      "Biar dingin",
+      "Mencegah penularan penyakit dan menjaga konsentrasi (K3)",
+      "Agar kertas tidak basah",
+      "Biar suaranya tidak bergema",
+      "Main angin-anginan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mencegah penularan penyakit dan menjaga konsentrasi (K3)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_48",
+    "pertanyaan": "Kegiatan menyusutkan arsip yang sudah tidak bernilai guna disebut...",
+    "opsi": [
+      "Penciptaan Arsip",
+      "Peminjaman Arsip",
+      "Pemusnahan / Penyusutan Arsip",
+      "Digitalisasi Arsip",
+      "Penemuan Kembali Arsip"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Pemusnahan / Penyusutan Arsip\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_49",
+    "pertanyaan": "Apa itu 'Minutes of Meeting' (Notulen)?",
+    "opsi": [
+      "Daftar hadir peserta rapat",
+      "Video rekaman rapat",
+      "Undangan rapat",
+      "Catatan ringkas mengenai jalannya rapat dan kesepakatan yang diambil",
+      "Menu makanan rapat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Catatan ringkas mengenai jalannya rapat dan kesepakatan yang diambil\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MP_50",
+    "pertanyaan": "Mengapa penguasaan Manajemen Perkantoran penting di semua jenis industri?",
+    "opsi": [
+      "Agar semua orang jadi sekretaris",
+      "Hanya untuk SMK jurusan MP saja",
+      "Supaya jago mengetik",
+      "Tidak penting",
+      "Karena setiap organisasi butuh administrasi yang tertata rapi untuk efisiensi operasional dan layanan prima"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Karena setiap organisasi butuh administrasi yang tertata rapi untuk efisiensi operasional dan layanan prima\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

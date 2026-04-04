@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls8-bing",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "Bahasa Inggris",
+  "materi": "Attention, Ability, Prohibitions, Obligations, dan Recount Text",
+  "deskripsi": "Bahasa Inggris Kelas 8 memfokuskan pada percakapan intrapersonal mengenai kemampuan (ability), kewajiban/larangan (obligations/prohibitions), serta menceritakan pengalaman lampau (recount text).",
+  "konten": [
+    {
+      "bab": "1. It's English Time!",
+      "teks": "Meminta perhatian (asking attention), mengecek pemahaman (checking understanding), menghargai kinerja, dan meminta pandangan (asking opinion)."
+    },
+    {
+      "bab": "2. We Can Do It, and We Will Do It",
+      "teks": "Menyatakan dan menanyakan tentang kemampuan (can/could) dan kemauan (will/would) melakukan suatu tindakan."
+    },
+    {
+      "bab": "3. We Know What to Do",
+      "teks": "Memberi keharusan (must/obligation), larangan (mustn't/prohibition), dan imbauan (should/advice)."
+    },
+    {
+      "bab": "4. Come to My Birthday, Please!",
+      "teks": "Membuat, menerima, dan menolak undangan (invitations) serta meminta/memberi izin (asking/giving permission)."
+    },
+    {
+      "bab": "5. Yes, We Made It! (Recount Text)",
+      "teks": "Membaca dan menyusun teks personal recount tentang pengalaman atau kegiatan di waktu lampau."
+    }
+  ],
+  "tag": ["smp-8", "bahasa-inggris", "attention", "ability", "recount-text", "obligation"]
+}

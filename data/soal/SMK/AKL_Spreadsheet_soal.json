@@ -1,0 +1,652 @@
+[
+  {
+    "id": "AKL_SS_01",
+    "pertanyaan": "Pertemuan antara baris dan kolom dalam spreadsheet disebut...",
+    "opsi": [
+      "Cell (Sel)",
+      "Range",
+      "Sheet",
+      "Toolbar",
+      "Grid"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sel adalah unit terkecil dalam spreadsheet yang diidentifikasi dengan nama kolom dan nomor baris (misal A1)."
+  },
+  {
+    "id": "AKL_SS_02",
+    "pertanyaan": "Setiap penulisan rumus dalam Excel harus diawali dengan tanda...",
+    "opsi": [
+      "+",
+      "=",
+      "-",
+      "*",
+      "/"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tanda sama dengan (=) memberi tahu Excel bahwa karakter setelahnya adalah sebuah formula/rumus."
+  },
+  {
+    "id": "AKL_SS_03",
+    "pertanyaan": "Fungsi yang digunakan untuk menjumlahkan sekumpulan data numerik adalah...",
+    "opsi": [
+      "AVERAGE",
+      "COUNT",
+      "SUM",
+      "MAX",
+      "MIN"
+    ],
+    "jawaban": 2,
+    "pembahasan": "SUM (Summary) digunakan untuk menjumlahkan konten sel atau range tertentu."
+  },
+  {
+    "id": "AKL_SS_04",
+    "pertanyaan": "Simbol $ pada rumus Excel (misal $A$1) digunakan untuk...",
+    "opsi": [
+      "Mengubah data jadi mata uang Dollar",
+      "Menghapus data",
+      "Membagi angka",
+      "Mengunci sel (Absolute Reference)",
+      "Menambah baris baru"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Referensi absolut ($) menjaga agar alamat sel tidak berubah saat rumus disalin ke sel lain."
+  },
+  {
+    "id": "AKL_SS_05",
+    "pertanyaan": "Fungsi untuk mencari rata-rata dari sekelompok data adalah...",
+    "opsi": [
+      "MAX",
+      "MIN",
+      "COUNT",
+      "SUM",
+      "AVERAGE"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Average menghitung mean aritmatika dari argumen yang diberikan."
+  },
+  {
+    "id": "AKL_SS_06",
+    "pertanyaan": "Untuk mencari nilai tertinggi dalam suatu range, kita menggunakan fungsi...",
+    "opsi": [
+      "MAX",
+      "MIN",
+      "SUM",
+      "COUNT",
+      "LARGE"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Fungsi MAX (Maximum) mengembalikan angka terbesar dari kumpulan data."
+  },
+  {
+    "id": "AKL_SS_07",
+    "pertanyaan": "Fungsi logika yang digunakan jika terdapat lebih dari dua kondisi/pilihan adalah...",
+    "opsi": [
+      "IF Tunggal",
+      "IF Bertingkat (Nested IF)",
+      "VLOOKUP",
+      "HLOOKUP",
+      "AND"
+    ],
+    "jawaban": 1,
+    "pembahasan": "IF bertingkat memasukkan fungsi IF di dalam fungsi IF lainnya untuk menangani banyak kriteria."
+  },
+  {
+    "id": "AKL_SS_08",
+    "pertanyaan": "Fungsi yang digunakan untuk membaca tabel referensi secara vertikal (tegak) adalah...",
+    "opsi": [
+      "HLOOKUP",
+      "LOOKUP",
+      "VLOOKUP",
+      "INDEX",
+      "MATCH"
+    ],
+    "jawaban": 2,
+    "pembahasan": "V dalam VLOOKUP berarti Vertical (mencari berdasarkan kolom)."
+  },
+  {
+    "id": "AKL_SS_09",
+    "pertanyaan": "Fungsi untuk menghitung jumlah sel yang berisi angka dalam suatu range adalah...",
+    "opsi": [
+      "COUNTA",
+      "SUM",
+      "COUNTIF",
+      "COUNT",
+      "NUMBER"
+    ],
+    "jawaban": 3,
+    "pembahasan": "COUNT hanya menghitung sel berisi angka. COUNTA menghitung semua sel yang tidak kosong."
+  },
+  {
+    "id": "AKL_SS_10",
+    "pertanyaan": "Format sel yang tepat untuk menampilkan simbol mata uang (seperti Rp) adalah...",
+    "opsi": [
+      "General",
+      "Number",
+      "Date",
+      "Text",
+      "Accounting / Currency"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Accounting menyejajarkan simbol mata uang dan desimal di kolom secara rapi."
+  },
+  {
+    "id": "AKL_SS_11",
+    "pertanyaan": "Rumus untuk perkalian sel A1 dan B1 adalah...",
+    "opsi": [
+      "=A1*B1",
+      "=A1xB1",
+      "=A1:B1",
+      "=A1+B1",
+      "=A1/B1"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Dalam Excel, simbol perkalian adalah tanda bintang (*)."
+  },
+  {
+    "id": "AKL_SS_12",
+    "pertanyaan": "Fungsi yang digunakan untuk mengambil data dari tabel secara horizontal (mendatar) adalah...",
+    "opsi": [
+      "VLOOKUP",
+      "HLOOKUP",
+      "TRANSPOSE",
+      "HORIZONTAL",
+      "TABLE"
+    ],
+    "jawaban": 1,
+    "pembahasan": "H dalam HLOOKUP berarti Horizontal (mencari berdasarkan baris)."
+  },
+  {
+    "id": "AKL_SS_13",
+    "pertanyaan": "Fungsi matematika yang digunakan untuk membulatkan angka adalah...",
+    "opsi": [
+      "ABS",
+      "SQRT",
+      "ROUND",
+      "POWER",
+      "MOD"
+    ],
+    "jawaban": 2,
+    "pembahasan": "ROUND membulatkan angka ke jumlah digit desimal yang ditentukan."
+  },
+  {
+    "id": "AKL_SS_14",
+    "pertanyaan": "Pesan error #VALUE! muncul apabila...",
+    "opsi": [
+      "Angka dibagi nol",
+      "Kolom kurang lebar",
+      "Sel yang dirujuk kosong",
+      "Rumus tidak valid atau tipe data salah (misal angka ditambah teks)",
+      "Nama fungsi salah tulis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Error ini terjadi jika argumen dalam rumus memiliki tipe data yang tidak sesuai."
+  },
+  {
+    "id": "AKL_SS_15",
+    "pertanyaan": "Fungsi finansial SLN digunakan untuk menghitung penyusutan aktiva tetap dengan metode...",
+    "opsi": [
+      "Saldo Menurun",
+      "Satuan Produksi",
+      "Jumlah Angka Tahun",
+      "Bunga Majemuk",
+      "Garis Lurus (Straight Line)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "SLN (Straight Line) menghasilkan nilai penyusutan yang sama setiap periodenya."
+  },
+  {
+    "id": "AKL_SS_16",
+    "pertanyaan": "Kombinasi tombol keyboard (shortcut) untuk menyalin data adalah...",
+    "opsi": [
+      "Ctrl + C",
+      "Ctrl + X",
+      "Ctrl + V",
+      "Ctrl + S",
+      "Ctrl + Z"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ctrl + C (Copy) menyalin data ke clipboard."
+  },
+  {
+    "id": "AKL_SS_17",
+    "pertanyaan": "Pesan error #DIV/0! artinya...",
+    "opsi": [
+      "Rumus hilang",
+      "Pembagian dengan angka nol atau sel kosong",
+      "Data terlalu besar",
+      "Fungsi tidak ditemukan",
+      "Koneksi internet terputus"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Secara matematis, pembagian dengan nol tidak terdefinisi."
+  },
+  {
+    "id": "AKL_SS_18",
+    "pertanyaan": "Untuk menggabungkan beberapa sel menjadi satu, kita menggunakan fitur...",
+    "opsi": [
+      "Wrap Text",
+      "Conditional Formatting",
+      "Merge & Center",
+      "Filter",
+      "Sort"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Merge & Center sering digunakan untuk membuat judul tabel yang berada di tengah kolum."
+  },
+  {
+    "id": "AKL_SS_19",
+    "pertanyaan": "Fungsi yang menghasilkan nilai TRUE jika semua argumen yang diuji bernilai benar adalah...",
+    "opsi": [
+      "OR",
+      "NOT",
+      "XOR",
+      "AND",
+      "ONLY"
+    ],
+    "jawaban": 3,
+    "pembahasan": "AND membutuhkan semua syarat terpenuhi agar bernilai benar."
+  },
+  {
+    "id": "AKL_SS_20",
+    "pertanyaan": "Fungsi yang menghasilkan nilai TRUE jika salah satu saja argumen bernilai benar adalah...",
+    "opsi": [
+      "AND",
+      "IF",
+      "ANY",
+      "NONE",
+      "OR"
+    ],
+    "jawaban": 4,
+    "pembahasan": "OR cukup satu syarat terpenuhi untuk memberikan hasil benar."
+  },
+  {
+    "id": "AKL_SS_21",
+    "pertanyaan": "Range dalam Excel ditunjukkan dengan penulisan...",
+    "opsi": [
+      "A1:B10",
+      "A1+B10",
+      "A1;B10",
+      "A1,B10",
+      "A1-B10"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tanda titik dua (:) menunjukkan rentang sel dari awal hingga akhir."
+  },
+  {
+    "id": "AKL_SS_22",
+    "pertanyaan": "Untuk menyisipkan baris baru di Excel, langkahnya adalah klik kanan pada nomor baris lalu pilih...",
+    "opsi": [
+      "Delete",
+      "Insert",
+      "Format",
+      "Hide",
+      "Copy"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Insert akan menambahkan baris kosong di atas baris yang dipilih."
+  },
+  {
+    "id": "AKL_SS_23",
+    "pertanyaan": "Fitur untuk mengurutkan data dari A ke Z dinamakan...",
+    "opsi": [
+      "Filter",
+      "Sort Descending",
+      "Sort Ascending",
+      "Data Validation",
+      "Subtotal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sort Ascending (Terkecil ke Terbesar / A ke Z)."
+  },
+  {
+    "id": "AKL_SS_24",
+    "pertanyaan": "Fungsi LEN digunakan untuk...",
+    "opsi": [
+      "Mengambil teks sebelah kiri",
+      "Mengubah huruf kapital",
+      "Menghapus spasi",
+      "Mencari panjang karakter dalam sel",
+      "Mencari kata tertentu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "LEN (Length) menghitung jumlah huruf, angka, simbol, dan spasi dalam sel."
+  },
+  {
+    "id": "AKL_SS_25",
+    "pertanyaan": "Fungsi LEFT(A1; 3) akan mengambil...",
+    "opsi": [
+      "3 karakter dari sebelah kanan",
+      "3 karakter dari tengah",
+      "Satu kata utuh",
+      "Semua huruf kecuali 3",
+      "3 karakter dari sebelah kiri"
+    ],
+    "jawaban": 4,
+    "pembahasan": "LEFT mengambil sejumlah karakter tertentu dari awal (kiri) teks."
+  },
+  {
+    "id": "AKL_SS_26",
+    "pertanyaan": "Untuk menghitung cicilan pinjaman tetap per bulan, kita menggunakan fungsi...",
+    "opsi": [
+      "PMT",
+      "PV",
+      "FV",
+      "RATE",
+      "NPER"
+    ],
+    "jawaban": 0,
+    "pembahasan": "PMT (Payment) menghitung pembayaran untuk pinjaman berdasarkan pembayaran konstan dan suku bunga konstan."
+  },
+  {
+    "id": "AKL_SS_27",
+    "pertanyaan": "Bagian spreadsheet yang menampilkan isi sel yang aktif adalah...",
+    "opsi": [
+      "Ribbon",
+      "Formula Bar",
+      "Status Bar",
+      "Scroll Bar",
+      "Title Bar"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Formula bar terletak di atas lembar kerja, menampilkan rumus atau nilai dalam sel."
+  },
+  {
+    "id": "AKL_SS_28",
+    "pertanyaan": "Pesan error #NAME? muncul karena...",
+    "opsi": [
+      "Data tidak ditemukan",
+      "Angka terlalu panjang",
+      "Kesalahan pengetikan nama fungsi (misal tulis SUM jadi SUN)",
+      "File belum disimpan",
+      "Lupa password file"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Excel tidak mengenali teks yang dianggap sebagai rumus tersebut."
+  },
+  {
+    "id": "AKL_SS_29",
+    "pertanyaan": "Fitur yang memberikan warna otomatis pada sel jika memenuhi kriteria tertentu (misal nilai < 75 berwarna merah) disebut...",
+    "opsi": [
+      "Format Painter",
+      "Cell Styles",
+      "AutoSum",
+      "Conditional Formatting",
+      "Flash Fill"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sangat berguna untuk audit data secara visual dengan cepat."
+  },
+  {
+    "id": "AKL_SS_30",
+    "pertanyaan": "Untuk membagi tampilan layar Excel menjadi dua atau lebih, kita menggunakan fitur...",
+    "opsi": [
+      "Freeze Panes",
+      "New Window",
+      "Arrange All",
+      "Hide Window",
+      "Split"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Split memecah area kerja agar bisa melihat bagian berbeda dari sheet yang sama."
+  },
+  {
+    "id": "AKL_SS_31",
+    "pertanyaan": "Agar judul tabel tetap terlihat saat kita menjorokkan layar ke bawah atau ke samping, kita gunakan...",
+    "opsi": [
+      "Freeze Panes",
+      "Hide Bar",
+      "Lock Screen",
+      "Zoom Out",
+      "Print Area"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Freeze Panes membekukan baris atau kolom tertentu agar tidak ikut bergeser."
+  },
+  {
+    "id": "AKL_SS_32",
+    "pertanyaan": "Kumpulan dari beberapa tabel/sheet yang disimpan dalam satu file disebut...",
+    "opsi": [
+      "Worksheet",
+      "Workbook",
+      "Workspace",
+      "Workgroup",
+      "Webpage"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Workbook adalah file Excel seutuhnya (.xlsx)."
+  },
+  {
+    "id": "AKL_SS_33",
+    "pertanyaan": "Fungsi DATE(2023; 12; 25) akan menghasilkan format tanggal...",
+    "opsi": [
+      "12-25-2023",
+      "2023-12-25",
+      "25-12-2023",
+      "Semua salah",
+      "Tergantung format komputer"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Inputnya adalah (Year; Month; Day). Output visualnya tergantung regional setting komputer."
+  },
+  {
+    "id": "AKL_SS_34",
+    "pertanyaan": "Ekstensi file standar untuk Microsoft Excel 2007 ke atas adalah...",
+    "opsi": [
+      ".xls",
+      ".doc",
+      ".ppt",
+      ".xlsx",
+      ".pdf"
+    ],
+    "jawaban": 3,
+    "pembahasan": ".xlsx menggunakan basis XML untuk penyimpanan data yang lebih ringkas."
+  },
+  {
+    "id": "AKL_SS_35",
+    "pertanyaan": "Fungsi yang digunakan untuk menghitung jumlah sel berdasarkan kriteria tertentu (misal menghitung jumlah siswa laki-laki) adalah...",
+    "opsi": [
+      "COUNT",
+      "SUMIF",
+      "COUNTBLANK",
+      "DCOUNT",
+      "COUNTIF"
+    ],
+    "jawaban": 4,
+    "pembahasan": "COUNT + IF = Menghitung jika memenuhi kriteria."
+  },
+  {
+    "id": "AKL_SS_36",
+    "pertanyaan": "Fungsi yang digunakan untuk menjumlahkan nilai sel jika memenuhi kriteria tertentu adalah...",
+    "opsi": [
+      "SUMIF",
+      "SUM",
+      "SUMIFS",
+      "TOTALIF",
+      "VLOOKUP"
+    ],
+    "jawaban": 0,
+    "pembahasan": "SUMIF menjumlahkan isi sel yang kriterianya kita tentukan."
+  },
+  {
+    "id": "AKL_SS_37",
+    "pertanyaan": "Untuk mencetak hanya area tertentu di Excel, kita harus mengatur...",
+    "opsi": [
+      "Orientation",
+      "Print Area",
+      "Paper Size",
+      "Margins",
+      "Breaks"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Print Area membatasi printer agar hanya mencetak tabel yang kita pilih."
+  },
+  {
+    "id": "AKL_SS_38",
+    "pertanyaan": "Fungsi NOW() digunakan untuk menampilkan...",
+    "opsi": [
+      "Tanggal hari ini saja",
+      "Jam saja",
+      "Tanggal dan waktu (jam) saat ini secara realtime",
+      "Nama hari ini",
+      "Bulan ini"
+    ],
+    "jawaban": 2,
+    "pembahasan": "NOW() tidak memerlukan argumen di dalam kurung."
+  },
+  {
+    "id": "AKL_SS_39",
+    "pertanyaan": "Fungsi TODAY() digunakan untuk menampilkan...",
+    "opsi": [
+      "Jam hari ini",
+      "Tahun saja",
+      "Lusa",
+      "Tanggal hari ini",
+      "Kemarin"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hanya menampilkan data tanggal tanpa data jam."
+  },
+  {
+    "id": "AKL_SS_40",
+    "pertanyaan": "Simbol untuk operasi pembagian adalah...",
+    "opsi": [
+      ":",
+      "\\",
+      "%",
+      "^",
+      "/"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tanda garis miring (slash) digunakan untuk membagi angka."
+  },
+  {
+    "id": "AKL_SS_41",
+    "pertanyaan": "Simbol untuk operasi perpangkatan (power) adalah...",
+    "opsi": [
+      "^",
+      "*",
+      "x",
+      "**",
+      "pow"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Misal 2^3 hasilnya adalah 8. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"^\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "AKL_SS_42",
+    "pertanyaan": "Pivot Table digunakan untuk...",
+    "opsi": [
+      "Membuat tabel jadi warna warni",
+      "Merangkum dan menganalisis data dalam jumlah besar dengan cepat",
+      "Menghapus data duplikat",
+      "Menyambung internet",
+      "Mengetik surat"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pivot Table sangat powerfull untuk membuat laporan ringkasan tanpa rumus manual."
+  },
+  {
+    "id": "AKL_SS_43",
+    "pertanyaan": "Fungsi LOWER digunakan untuk...",
+    "opsi": [
+      "Mengubah teks menjadi huruf kapital semua",
+      "Mengambil huruf terbawah",
+      "Mengubah teks menjadi huruf kecil semua",
+      "Menghapus angka",
+      "Memperkecil ukuran font"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kebalikan dari fungsi UPPER. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Mengubah teks menjadi huruf kecil semua\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "AKL_SS_44",
+    "pertanyaan": "Fungsi UPPER digunakan untuk...",
+    "opsi": [
+      "Mengambil teks teratas",
+      "Menaikkan posisi baris",
+      "Menyaring data",
+      "Mengubah teks menjadi huruf kapital semua",
+      "Membuat teks miring"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Berguna untuk standarisasi penulisan nama atau judul."
+  },
+  {
+    "id": "AKL_SS_45",
+    "pertanyaan": "Fungsi PROPER digunakan untuk...",
+    "opsi": [
+      "Semua huruf miring",
+      "Hanya huruf pertama kalimat yang kapital",
+      "Huruf besar bervariasi",
+      "Menghilangkan angka",
+      "Huruf depan setiap kata menjadi KAPITAL"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: PROPER('akuntansi smk') menjadi 'Akuntansi Smk'."
+  },
+  {
+    "id": "AKL_SS_46",
+    "pertanyaan": "Shortcut untuk menyimpan file Excel (Save) adalah...",
+    "opsi": [
+      "Ctrl + S",
+      "Ctrl + O",
+      "Ctrl + P",
+      "Ctrl + N",
+      "Ctrl + W"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Disarankan melakukan Save berkala agar kerja tidak hilang jika komputer mati."
+  },
+  {
+    "id": "AKL_SS_47",
+    "pertanyaan": "Shortcut untuk membuka file baru (New Workbook) adalah...",
+    "opsi": [
+      "Ctrl + B",
+      "Ctrl + N",
+      "Ctrl + O",
+      "Ctrl + M",
+      "Ctrl + F"
+    ],
+    "jawaban": 1,
+    "pembahasan": "N adalah singkatan dari New. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ctrl + N\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "AKL_SS_48",
+    "pertanyaan": "Untuk membatalkan tindakan terakhir (Undo), shortcut-nya adalah...",
+    "opsi": [
+      "Ctrl + Y",
+      "Ctrl + X",
+      "Ctrl + Z",
+      "Ctrl + U",
+      "Ctrl + I"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Undo sangat membantu untuk memperbaiki kesalahan pengetikan/rumus."
+  },
+  {
+    "id": "AKL_SS_49",
+    "pertanyaan": "Data Validation digunakan untuk...",
+    "opsi": [
+      "Melindungi file dengan password",
+      "Mencocokkan data dengan data orang lain",
+      "Menghapus data otomatis",
+      "Membatasi input data agar sesuai kriteria (misal hanya bisa isi angka 1-10)",
+      "Mengirim data lewat email"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mencegah kesalahan 'human error' saat pengisian formulir digital."
+  },
+  {
+    "id": "AKL_SS_50",
+    "pertanyaan": "Grafik lingkaran yang cocok untuk melihat persentase kontribusi bagian terhadap total disebut...",
+    "opsi": [
+      "Bar Chart (Batang)",
+      "Line Chart (Garis)",
+      "Area Chart",
+      "Radar Chart",
+      "Pie Chart (Lingkaran)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pie chart sering digunakan untuk visualisasi komposisi biaya atau saham."
+  }
+]

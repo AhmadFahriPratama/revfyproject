@@ -1,0 +1,708 @@
+{
+  "id": "sd-6-mat",
+  "tingkat": "SD Kelas 6",
+  "mapel": "Matematika",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "mat6-1",
+      "teks": "Luas lingkaran dengan jari-jari 21 cm (π = 22/7) adalah...",
+      "opsi": {
+        "A": "1386 cm²",
+        "B": "2772 cm²",
+        "C": "132 cm²",
+        "D": "693 cm²",
+        "E": "1396 cm²"
+      },
+      "kunci": "A",
+      "pembahasan": "L = π x r x r = 22/7 x 21 x 21 = 1386 cm².",
+      "trik": "L = πr². Jika r kelipatan 7, coret r dengan 7 dari penyebut 22/7."
+    },
+    {
+      "id": "mat6-2",
+      "teks": "Volume tabung dengan jari-jari alas 7 cm dan tinggi 5 cm adalah...",
+      "opsi": {
+        "A": "385 cm³",
+        "B": "770 cm³",
+        "C": "1540 cm³",
+        "D": "220 cm³",
+        "E": "780 cm³"
+      },
+      "kunci": "B",
+      "pembahasan": "V = Luas Alas x Tinggi = π x r² x t = 22/7 x 7 x 7 x 5 = 770 cm³.",
+      "trik": "V = πr²t. Hitung luas lingkaran dasar terlebih dahulu."
+    },
+    {
+      "id": "mat6-3",
+      "teks": "Nilai ulangan Andi adalah 73, 67, 60, dan 78. Rata-rata nilai Andi adalah...",
+      "opsi": {
+        "A": "69",
+        "B": "71.5",
+        "C": "69.5",
+        "D": "278",
+        "E": "67.5"
+      },
+      "kunci": "C",
+      "pembahasan": "Mean = Jumlah data / Banyak data = 278 / 4 = 69.5.",
+      "trik": "Tambahkan semuanya, lalu bagi dengan jumlah angkanya."
+    },
+    {
+      "id": "mat6-4",
+      "teks": "Hasil dari 4 + 5 x 6 adalah...",
+      "opsi": {
+        "A": "54",
+        "B": "36",
+        "C": "26",
+        "D": "34",
+        "E": "30"
+      },
+      "kunci": "D",
+      "pembahasan": "Aturan KaBaTaKu (Kali Bagi Tambah Kurang). Kerjakan perkalian dulu: 5x6=30, lalu + 4 = 34.",
+      "trik": "Perkalian dan pembagian lebih kuat dari penjumlahan dan pengurangan."
+    },
+    {
+      "id": "mat6-5",
+      "teks": "Hasil dari -24 + 19 adalah...",
+      "opsi": {
+        "A": "5",
+        "B": "-43",
+        "C": "43",
+        "D": "-3",
+        "E": "-5"
+      },
+      "kunci": "E",
+      "pembahasan": "Penjumlahan bilangan bulat beda tanda: cari selisih angka besar dan kecil, tanda ikuti angka besar. 19 + (-24) = -5.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil akhirnya."
+    },
+    {
+      "id": "mat6-6",
+      "teks": "Luas lingkaran dengan jari-jari 7 cm (π = 22/7) adalah...",
+      "opsi": {
+        "A": "154 cm²",
+        "B": "308 cm²",
+        "C": "44 cm²",
+        "D": "77 cm²",
+        "E": "164 cm²"
+      },
+      "kunci": "A",
+      "pembahasan": "L = π x r x r = 22/7 x 7 x 7 = 154 cm². Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"154 cm²\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "L = πr². Jika r kelipatan 7, coret r dengan 7 dari penyebut 22/7."
+    },
+    {
+      "id": "mat6-7",
+      "teks": "Volume tabung dengan jari-jari alas 7 cm dan tinggi 12 cm adalah...",
+      "opsi": {
+        "A": "924 cm³",
+        "B": "1848 cm³",
+        "C": "3696 cm³",
+        "D": "528 cm³",
+        "E": "1858 cm³"
+      },
+      "kunci": "B",
+      "pembahasan": "V = Luas Alas x Tinggi = π x r² x t = 22/7 x 7 x 7 x 12 = 1848 cm³.",
+      "trik": "V = πr²t. Hitung luas lingkaran dasar terlebih dahulu."
+    },
+    {
+      "id": "mat6-8",
+      "teks": "Nilai ulangan Andi adalah 72, 69, 71, dan 79. Rata-rata nilai Andi adalah...",
+      "opsi": {
+        "A": "72",
+        "B": "74.75",
+        "C": "72.75",
+        "D": "291",
+        "E": "70.75"
+      },
+      "kunci": "C",
+      "pembahasan": "Mean = Jumlah data / Banyak data = 291 / 4 = 72.75.",
+      "trik": "Tambahkan semuanya, lalu bagi dengan jumlah angkanya."
+    },
+    {
+      "id": "mat6-9",
+      "teks": "Hasil dari 3 + 3 x 5 adalah...",
+      "opsi": {
+        "A": "30",
+        "B": "20",
+        "C": "14",
+        "D": "18",
+        "E": "15"
+      },
+      "kunci": "D",
+      "pembahasan": "Aturan KaBaTaKu (Kali Bagi Tambah Kurang). Kerjakan perkalian dulu: 3x5=15, lalu + 3 = 18.",
+      "trik": "Perkalian dan pembagian lebih kuat dari penjumlahan dan pengurangan."
+    },
+    {
+      "id": "mat6-10",
+      "teks": "Hasil dari -26 + 31 adalah...",
+      "opsi": {
+        "A": "-5",
+        "B": "-57",
+        "C": "57",
+        "D": "7",
+        "E": "5"
+      },
+      "kunci": "E",
+      "pembahasan": "Penjumlahan bilangan bulat beda tanda: cari selisih angka besar dan kecil, tanda ikuti angka besar. 31 + (-26) = 5.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil akhirnya."
+    },
+    {
+      "id": "mat6-11",
+      "teks": "Luas lingkaran dengan jari-jari 35 cm (π = 22/7) adalah...",
+      "opsi": {
+        "A": "3850 cm²",
+        "B": "7700 cm²",
+        "C": "220 cm²",
+        "D": "1925 cm²",
+        "E": "3860 cm²"
+      },
+      "kunci": "A",
+      "pembahasan": "L = π x r x r = 22/7 x 35 x 35 = 3850 cm².",
+      "trik": "L = πr². Jika r kelipatan 7, coret r dengan 7 dari penyebut 22/7."
+    },
+    {
+      "id": "mat6-12",
+      "teks": "Volume tabung dengan jari-jari alas 7 cm dan tinggi 6 cm adalah...",
+      "opsi": {
+        "A": "462 cm³",
+        "B": "924 cm³",
+        "C": "1848 cm³",
+        "D": "264 cm³",
+        "E": "934 cm³"
+      },
+      "kunci": "B",
+      "pembahasan": "V = Luas Alas x Tinggi = π x r² x t = 22/7 x 7 x 7 x 6 = 924 cm³.",
+      "trik": "V = πr²t. Hitung luas lingkaran dasar terlebih dahulu."
+    },
+    {
+      "id": "mat6-13",
+      "teks": "Nilai ulangan Andi adalah 61, 70, 75, dan 76. Rata-rata nilai Andi adalah...",
+      "opsi": {
+        "A": "70",
+        "B": "72.5",
+        "C": "70.5",
+        "D": "282",
+        "E": "68.5"
+      },
+      "kunci": "C",
+      "pembahasan": "Mean = Jumlah data / Banyak data = 282 / 4 = 70.5.",
+      "trik": "Tambahkan semuanya, lalu bagi dengan jumlah angkanya."
+    },
+    {
+      "id": "mat6-14",
+      "teks": "Hasil dari 5 + 2 x 4 adalah...",
+      "opsi": {
+        "A": "28",
+        "B": "15",
+        "C": "14",
+        "D": "13",
+        "E": "8"
+      },
+      "kunci": "D",
+      "pembahasan": "Aturan KaBaTaKu (Kali Bagi Tambah Kurang). Kerjakan perkalian dulu: 2x4=8, lalu + 5 = 13.",
+      "trik": "Perkalian dan pembagian lebih kuat dari penjumlahan dan pengurangan."
+    },
+    {
+      "id": "mat6-15",
+      "teks": "Hasil dari -22 + 20 adalah...",
+      "opsi": {
+        "A": "2",
+        "B": "-42",
+        "C": "42",
+        "D": "0",
+        "E": "-2"
+      },
+      "kunci": "E",
+      "pembahasan": "Penjumlahan bilangan bulat beda tanda: cari selisih angka besar dan kecil, tanda ikuti angka besar. 20 + (-22) = -2.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil akhirnya."
+    },
+    {
+      "id": "mat6-16",
+      "teks": "Luas lingkaran dengan jari-jari 21 cm (π = 22/7) adalah...",
+      "opsi": {
+        "A": "1386 cm²",
+        "B": "2772 cm²",
+        "C": "132 cm²",
+        "D": "693 cm²",
+        "E": "1396 cm²"
+      },
+      "kunci": "A",
+      "pembahasan": "L = π x r x r = 22/7 x 21 x 21 = 1386 cm².",
+      "trik": "L = πr². Jika r kelipatan 7, coret r dengan 7 dari penyebut 22/7."
+    },
+    {
+      "id": "mat6-17",
+      "teks": "Volume tabung dengan jari-jari alas 7 cm dan tinggi 11 cm adalah...",
+      "opsi": {
+        "A": "847 cm³",
+        "B": "1694 cm³",
+        "C": "3388 cm³",
+        "D": "484 cm³",
+        "E": "1704 cm³"
+      },
+      "kunci": "B",
+      "pembahasan": "V = Luas Alas x Tinggi = π x r² x t = 22/7 x 7 x 7 x 11 = 1694 cm³.",
+      "trik": "V = πr²t. Hitung luas lingkaran dasar terlebih dahulu."
+    },
+    {
+      "id": "mat6-18",
+      "teks": "Nilai ulangan Andi adalah 69, 67, 78, dan 60. Rata-rata nilai Andi adalah...",
+      "opsi": {
+        "A": "68",
+        "B": "70.5",
+        "C": "68.5",
+        "D": "274",
+        "E": "66.5"
+      },
+      "kunci": "C",
+      "pembahasan": "Mean = Jumlah data / Banyak data = 274 / 4 = 68.5.",
+      "trik": "Tambahkan semuanya, lalu bagi dengan jumlah angkanya."
+    },
+    {
+      "id": "mat6-19",
+      "teks": "Hasil dari 6 + 6 x 2 adalah...",
+      "opsi": {
+        "A": "24",
+        "B": "20",
+        "C": "38",
+        "D": "18",
+        "E": "12"
+      },
+      "kunci": "D",
+      "pembahasan": "Aturan KaBaTaKu (Kali Bagi Tambah Kurang). Kerjakan perkalian dulu: 6x2=12, lalu + 6 = 18.",
+      "trik": "Perkalian dan pembagian lebih kuat dari penjumlahan dan pengurangan."
+    },
+    {
+      "id": "mat6-20",
+      "teks": "Hasil dari -21 + 12 adalah...",
+      "opsi": {
+        "A": "9",
+        "B": "-33",
+        "C": "33",
+        "D": "-7",
+        "E": "-9"
+      },
+      "kunci": "E",
+      "pembahasan": "Penjumlahan bilangan bulat beda tanda: cari selisih angka besar dan kecil, tanda ikuti angka besar. 12 + (-21) = -9.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil akhirnya."
+    },
+    {
+      "id": "mat6-21",
+      "teks": "Luas lingkaran dengan jari-jari 35 cm (π = 22/7) adalah...",
+      "opsi": {
+        "A": "3850 cm²",
+        "B": "7700 cm²",
+        "C": "220 cm²",
+        "D": "1925 cm²",
+        "E": "3860 cm²"
+      },
+      "kunci": "A",
+      "pembahasan": "L = π x r x r = 22/7 x 35 x 35 = 3850 cm².",
+      "trik": "L = πr². Jika r kelipatan 7, coret r dengan 7 dari penyebut 22/7."
+    },
+    {
+      "id": "mat6-22",
+      "teks": "Volume tabung dengan jari-jari alas 7 cm dan tinggi 13 cm adalah...",
+      "opsi": {
+        "A": "1001 cm³",
+        "B": "2002 cm³",
+        "C": "4004 cm³",
+        "D": "572 cm³",
+        "E": "2012 cm³"
+      },
+      "kunci": "B",
+      "pembahasan": "V = Luas Alas x Tinggi = π x r² x t = 22/7 x 7 x 7 x 13 = 2002 cm³.",
+      "trik": "V = πr²t. Hitung luas lingkaran dasar terlebih dahulu."
+    },
+    {
+      "id": "mat6-23",
+      "teks": "Nilai ulangan Andi adalah 69, 62, 77, dan 66. Rata-rata nilai Andi adalah...",
+      "opsi": {
+        "A": "68",
+        "B": "70.5",
+        "C": "68.5",
+        "D": "274",
+        "E": "66.5"
+      },
+      "kunci": "C",
+      "pembahasan": "Mean = Jumlah data / Banyak data = 274 / 4 = 68.5.",
+      "trik": "Tambahkan semuanya, lalu bagi dengan jumlah angkanya."
+    },
+    {
+      "id": "mat6-24",
+      "teks": "Hasil dari 5 + 5 x 5 adalah...",
+      "opsi": {
+        "A": "50",
+        "B": "32",
+        "C": "30",
+        "D": "30",
+        "E": "25"
+      },
+      "kunci": "D",
+      "pembahasan": "Aturan KaBaTaKu (Kali Bagi Tambah Kurang). Kerjakan perkalian dulu: 5x5=25, lalu + 5 = 30.",
+      "trik": "Perkalian dan pembagian lebih kuat dari penjumlahan dan pengurangan."
+    },
+    {
+      "id": "mat6-25",
+      "teks": "Hasil dari -18 + 14 adalah...",
+      "opsi": {
+        "A": "4",
+        "B": "-32",
+        "C": "32",
+        "D": "-2",
+        "E": "-4"
+      },
+      "kunci": "E",
+      "pembahasan": "Penjumlahan bilangan bulat beda tanda: cari selisih angka besar dan kecil, tanda ikuti angka besar. 14 + (-18) = -4.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil akhirnya."
+    },
+    {
+      "id": "mat6-26",
+      "teks": "Luas lingkaran dengan jari-jari 28 cm (π = 22/7) adalah...",
+      "opsi": {
+        "A": "2464 cm²",
+        "B": "4928 cm²",
+        "C": "176 cm²",
+        "D": "1232 cm²",
+        "E": "2474 cm²"
+      },
+      "kunci": "A",
+      "pembahasan": "L = π x r x r = 22/7 x 28 x 28 = 2464 cm².",
+      "trik": "L = πr². Jika r kelipatan 7, coret r dengan 7 dari penyebut 22/7."
+    },
+    {
+      "id": "mat6-27",
+      "teks": "Volume tabung dengan jari-jari alas 14 cm dan tinggi 12 cm adalah...",
+      "opsi": {
+        "A": "3696 cm³",
+        "B": "7392 cm³",
+        "C": "14784 cm³",
+        "D": "1056 cm³",
+        "E": "7402 cm³"
+      },
+      "kunci": "B",
+      "pembahasan": "V = Luas Alas x Tinggi = π x r² x t = 22/7 x 14 x 14 x 12 = 7392 cm³.",
+      "trik": "V = πr²t. Hitung luas lingkaran dasar terlebih dahulu."
+    },
+    {
+      "id": "mat6-28",
+      "teks": "Nilai ulangan Andi adalah 67, 77, 70, dan 74. Rata-rata nilai Andi adalah...",
+      "opsi": {
+        "A": "72",
+        "B": "74",
+        "C": "72",
+        "D": "288",
+        "E": "70"
+      },
+      "kunci": "C",
+      "pembahasan": "Mean = Jumlah data / Banyak data = 288 / 4 = 72.",
+      "trik": "Tambahkan semuanya, lalu bagi dengan jumlah angkanya."
+    },
+    {
+      "id": "mat6-29",
+      "teks": "Hasil dari 9 + 5 x 3 adalah...",
+      "opsi": {
+        "A": "42",
+        "B": "26",
+        "C": "48",
+        "D": "24",
+        "E": "15"
+      },
+      "kunci": "D",
+      "pembahasan": "Aturan KaBaTaKu (Kali Bagi Tambah Kurang). Kerjakan perkalian dulu: 5x3=15, lalu + 9 = 24.",
+      "trik": "Perkalian dan pembagian lebih kuat dari penjumlahan dan pengurangan."
+    },
+    {
+      "id": "mat6-30",
+      "teks": "Hasil dari -15 + 12 adalah...",
+      "opsi": {
+        "A": "3",
+        "B": "-27",
+        "C": "27",
+        "D": "-1",
+        "E": "-3"
+      },
+      "kunci": "E",
+      "pembahasan": "Penjumlahan bilangan bulat beda tanda: cari selisih angka besar dan kecil, tanda ikuti angka besar. 12 + (-15) = -3.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil akhirnya."
+    },
+    {
+      "id": "mat6-31",
+      "teks": "Luas lingkaran dengan jari-jari 28 cm (π = 22/7) adalah...",
+      "opsi": {
+        "A": "2464 cm²",
+        "B": "4928 cm²",
+        "C": "176 cm²",
+        "D": "1232 cm²",
+        "E": "2474 cm²"
+      },
+      "kunci": "A",
+      "pembahasan": "L = π x r x r = 22/7 x 28 x 28 = 2464 cm².",
+      "trik": "L = πr². Jika r kelipatan 7, coret r dengan 7 dari penyebut 22/7."
+    },
+    {
+      "id": "mat6-32",
+      "teks": "Volume tabung dengan jari-jari alas 14 cm dan tinggi 5 cm adalah...",
+      "opsi": {
+        "A": "1540 cm³",
+        "B": "3080 cm³",
+        "C": "6160 cm³",
+        "D": "440 cm³",
+        "E": "3090 cm³"
+      },
+      "kunci": "B",
+      "pembahasan": "V = Luas Alas x Tinggi = π x r² x t = 22/7 x 14 x 14 x 5 = 3080 cm³.",
+      "trik": "V = πr²t. Hitung luas lingkaran dasar terlebih dahulu."
+    },
+    {
+      "id": "mat6-33",
+      "teks": "Nilai ulangan Andi adalah 60, 73, 63, dan 62. Rata-rata nilai Andi adalah...",
+      "opsi": {
+        "A": "64",
+        "B": "66.5",
+        "C": "64.5",
+        "D": "258",
+        "E": "62.5"
+      },
+      "kunci": "C",
+      "pembahasan": "Mean = Jumlah data / Banyak data = 258 / 4 = 64.5.",
+      "trik": "Tambahkan semuanya, lalu bagi dengan jumlah angkanya."
+    },
+    {
+      "id": "mat6-34",
+      "teks": "Hasil dari 7 + 2 x 2 adalah...",
+      "opsi": {
+        "A": "18",
+        "B": "13",
+        "C": "16",
+        "D": "11",
+        "E": "4"
+      },
+      "kunci": "D",
+      "pembahasan": "Aturan KaBaTaKu (Kali Bagi Tambah Kurang). Kerjakan perkalian dulu: 2x2=4, lalu + 7 = 11.",
+      "trik": "Perkalian dan pembagian lebih kuat dari penjumlahan dan pengurangan."
+    },
+    {
+      "id": "mat6-35",
+      "teks": "Hasil dari -27 + 20 adalah...",
+      "opsi": {
+        "A": "7",
+        "B": "-47",
+        "C": "47",
+        "D": "-5",
+        "E": "-7"
+      },
+      "kunci": "E",
+      "pembahasan": "Penjumlahan bilangan bulat beda tanda: cari selisih angka besar dan kecil, tanda ikuti angka besar. 20 + (-27) = -7.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil akhirnya."
+    },
+    {
+      "id": "mat6-36",
+      "teks": "Luas lingkaran dengan jari-jari 35 cm (π = 22/7) adalah...",
+      "opsi": {
+        "A": "3850 cm²",
+        "B": "7700 cm²",
+        "C": "220 cm²",
+        "D": "1925 cm²",
+        "E": "3860 cm²"
+      },
+      "kunci": "A",
+      "pembahasan": "L = π x r x r = 22/7 x 35 x 35 = 3850 cm².",
+      "trik": "L = πr². Jika r kelipatan 7, coret r dengan 7 dari penyebut 22/7."
+    },
+    {
+      "id": "mat6-37",
+      "teks": "Volume tabung dengan jari-jari alas 7 cm dan tinggi 5 cm adalah...",
+      "opsi": {
+        "A": "385 cm³",
+        "B": "770 cm³",
+        "C": "1540 cm³",
+        "D": "220 cm³",
+        "E": "780 cm³"
+      },
+      "kunci": "B",
+      "pembahasan": "V = Luas Alas x Tinggi = π x r² x t = 22/7 x 7 x 7 x 5 = 770 cm³.",
+      "trik": "V = πr²t. Hitung luas lingkaran dasar terlebih dahulu."
+    },
+    {
+      "id": "mat6-38",
+      "teks": "Nilai ulangan Andi adalah 66, 68, 69, dan 64. Rata-rata nilai Andi adalah...",
+      "opsi": {
+        "A": "66",
+        "B": "68.75",
+        "C": "66.75",
+        "D": "267",
+        "E": "64.75"
+      },
+      "kunci": "C",
+      "pembahasan": "Mean = Jumlah data / Banyak data = 267 / 4 = 66.75.",
+      "trik": "Tambahkan semuanya, lalu bagi dengan jumlah angkanya."
+    },
+    {
+      "id": "mat6-39",
+      "teks": "Hasil dari 3 + 5 x 3 adalah...",
+      "opsi": {
+        "A": "24",
+        "B": "20",
+        "C": "18",
+        "D": "18",
+        "E": "15"
+      },
+      "kunci": "D",
+      "pembahasan": "Aturan KaBaTaKu (Kali Bagi Tambah Kurang). Kerjakan perkalian dulu: 5x3=15, lalu + 3 = 18.",
+      "trik": "Perkalian dan pembagian lebih kuat dari penjumlahan dan pengurangan."
+    },
+    {
+      "id": "mat6-40",
+      "teks": "Hasil dari -16 + 8 adalah...",
+      "opsi": {
+        "A": "8",
+        "B": "-24",
+        "C": "24",
+        "D": "-6",
+        "E": "-8"
+      },
+      "kunci": "E",
+      "pembahasan": "Penjumlahan bilangan bulat beda tanda: cari selisih angka besar dan kecil, tanda ikuti angka besar. 8 + (-16) = -8.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil akhirnya."
+    },
+    {
+      "id": "mat6-41",
+      "teks": "Luas lingkaran dengan jari-jari 35 cm (π = 22/7) adalah...",
+      "opsi": {
+        "A": "3850 cm²",
+        "B": "7700 cm²",
+        "C": "220 cm²",
+        "D": "1925 cm²",
+        "E": "3860 cm²"
+      },
+      "kunci": "A",
+      "pembahasan": "L = π x r x r = 22/7 x 35 x 35 = 3850 cm².",
+      "trik": "L = πr². Jika r kelipatan 7, coret r dengan 7 dari penyebut 22/7."
+    },
+    {
+      "id": "mat6-42",
+      "teks": "Volume tabung dengan jari-jari alas 7 cm dan tinggi 11 cm adalah...",
+      "opsi": {
+        "A": "847 cm³",
+        "B": "1694 cm³",
+        "C": "3388 cm³",
+        "D": "484 cm³",
+        "E": "1704 cm³"
+      },
+      "kunci": "B",
+      "pembahasan": "V = Luas Alas x Tinggi = π x r² x t = 22/7 x 7 x 7 x 11 = 1694 cm³.",
+      "trik": "V = πr²t. Hitung luas lingkaran dasar terlebih dahulu."
+    },
+    {
+      "id": "mat6-43",
+      "teks": "Nilai ulangan Andi adalah 79, 78, 75, dan 66. Rata-rata nilai Andi adalah...",
+      "opsi": {
+        "A": "74",
+        "B": "76.5",
+        "C": "74.5",
+        "D": "298",
+        "E": "72.5"
+      },
+      "kunci": "C",
+      "pembahasan": "Mean = Jumlah data / Banyak data = 298 / 4 = 74.5.",
+      "trik": "Tambahkan semuanya, lalu bagi dengan jumlah angkanya."
+    },
+    {
+      "id": "mat6-44",
+      "teks": "Hasil dari 7 + 6 x 5 adalah...",
+      "opsi": {
+        "A": "65",
+        "B": "39",
+        "C": "47",
+        "D": "37",
+        "E": "30"
+      },
+      "kunci": "D",
+      "pembahasan": "Aturan KaBaTaKu (Kali Bagi Tambah Kurang). Kerjakan perkalian dulu: 6x5=30, lalu + 7 = 37.",
+      "trik": "Perkalian dan pembagian lebih kuat dari penjumlahan dan pengurangan."
+    },
+    {
+      "id": "mat6-45",
+      "teks": "Hasil dari -20 + 17 adalah...",
+      "opsi": {
+        "A": "3",
+        "B": "-37",
+        "C": "37",
+        "D": "-1",
+        "E": "-3"
+      },
+      "kunci": "E",
+      "pembahasan": "Penjumlahan bilangan bulat beda tanda: cari selisih angka besar dan kecil, tanda ikuti angka besar. 17 + (-20) = -3.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil akhirnya."
+    },
+    {
+      "id": "mat6-46",
+      "teks": "Luas lingkaran dengan jari-jari 28 cm (π = 22/7) adalah...",
+      "opsi": {
+        "A": "2464 cm²",
+        "B": "4928 cm²",
+        "C": "176 cm²",
+        "D": "1232 cm²",
+        "E": "2474 cm²"
+      },
+      "kunci": "A",
+      "pembahasan": "L = π x r x r = 22/7 x 28 x 28 = 2464 cm².",
+      "trik": "L = πr². Jika r kelipatan 7, coret r dengan 7 dari penyebut 22/7."
+    },
+    {
+      "id": "mat6-47",
+      "teks": "Volume tabung dengan jari-jari alas 14 cm dan tinggi 14 cm adalah...",
+      "opsi": {
+        "A": "4312 cm³",
+        "B": "8624 cm³",
+        "C": "17248 cm³",
+        "D": "1232 cm³",
+        "E": "8634 cm³"
+      },
+      "kunci": "B",
+      "pembahasan": "V = Luas Alas x Tinggi = π x r² x t = 22/7 x 14 x 14 x 14 = 8624 cm³.",
+      "trik": "V = πr²t. Hitung luas lingkaran dasar terlebih dahulu."
+    },
+    {
+      "id": "mat6-48",
+      "teks": "Nilai ulangan Andi adalah 66, 61, 68, dan 62. Rata-rata nilai Andi adalah...",
+      "opsi": {
+        "A": "64",
+        "B": "66.25",
+        "C": "64.25",
+        "D": "257",
+        "E": "62.25"
+      },
+      "kunci": "C",
+      "pembahasan": "Mean = Jumlah data / Banyak data = 257 / 4 = 64.25.",
+      "trik": "Tambahkan semuanya, lalu bagi dengan jumlah angkanya."
+    },
+    {
+      "id": "mat6-49",
+      "teks": "Hasil dari 9 + 5 x 4 adalah...",
+      "opsi": {
+        "A": "56",
+        "B": "31",
+        "C": "49",
+        "D": "29",
+        "E": "20"
+      },
+      "kunci": "D",
+      "pembahasan": "Aturan KaBaTaKu (Kali Bagi Tambah Kurang). Kerjakan perkalian dulu: 5x4=20, lalu + 9 = 29.",
+      "trik": "Perkalian dan pembagian lebih kuat dari penjumlahan dan pengurangan."
+    },
+    {
+      "id": "mat6-50",
+      "teks": "Hasil dari -27 + 7 adalah...",
+      "opsi": {
+        "A": "20",
+        "B": "-34",
+        "C": "34",
+        "D": "-18",
+        "E": "-20"
+      },
+      "kunci": "E",
+      "pembahasan": "Penjumlahan bilangan bulat beda tanda: cari selisih angka besar dan kecil, tanda ikuti angka besar. 7 + (-27) = -20.",
+      "trik": "Punya utang (-) dibayar dengan (+). Sisanya adalah hasil akhirnya."
+    }
+  ]
+}

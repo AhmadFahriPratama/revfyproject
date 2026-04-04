@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_JP_01",
+    "pertanyaan": "FR Magang (Ginou Jisshuu): Saat memasuki ruangan bengkel atau kantor di Jepang, ucapan permisi yang paling tepat adalah...",
+    "opsi": [
+      "Shitsurei shimasu",
+      "Hello!",
+      "Irrashaimase",
+      "Ohayou",
+      "Omedetou"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Artinya: Permisi (saya akan melakukan hal yang 'mengganggu' ketenangan).",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_JP_02",
+    "pertanyaan": "FR Industri: Konsep 'Kai-zen' (改善) dalam industri Jepang berarti...",
+    "opsi": [
+      "Kekuatan fisik",
+      "Perbaikan terus-menerus (Continuos Improvement)",
+      "Kesempurnaan instan",
+      "Pemecatan karyawan",
+      "Hari libur nasional"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_JP_03",
+    "pertanyaan": "FR Etika: Memberikan barang kepada orang Jepang sebaiknya menggunakan...",
+    "opsi": [
+      "Tangan kiri saja",
+      "Dilempar",
+      "Dua tangan sebagai tanda hormat",
+      "Satu jari saja",
+      "Menitipkan ke orang lain"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_JP_04",
+    "pertanyaan": "FR Teknis: Di pabrik Jepang, jika terjadi kesalahan mesin, tindakan pertama adalah meneriakkan...",
+    "opsi": [
+      "Kaji! (Api!)",
+      "Enjinia! (Insinyur!)",
+      "Itadakimasu!",
+      "Abunai! (Bahaya!)",
+      "Omedetou!"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_JP_05",
+    "pertanyaan": "FR Transportasi: Kereta cepat legendaris di Jepang adalah...",
+    "opsi": [
+      "Subway",
+      "Tuk-tuk",
+      "Becak",
+      "Busway",
+      "Shinkansen"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

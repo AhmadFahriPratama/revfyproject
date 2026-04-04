@@ -1,0 +1,13 @@
+{
+  "id": "localization-index",
+  "supportedLabels": [
+    "id-ID"
+  ],
+  "readyDomains": [
+    "materi",
+    "soal",
+    "fr",
+    "tryout",
+    "roadmap"
+  ]
+}

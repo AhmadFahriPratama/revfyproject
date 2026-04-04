@@ -1,0 +1,334 @@
+{
+  "id": "cpns-mini-tiu-v01",
+  "judul": "CPNS Mini Drill TIU V01",
+  "mode": "mini_drill",
+  "focus": "TIU",
+  "durasiMenit": 25,
+  "soal": [
+    {
+      "id": "cpns-mini-tiu-01",
+      "pertanyaan": "Premis 1: Semua mahasiswa Akuntansi belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras lulus dengan pujian. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Akuntansi pasti lulus dengan pujian.",
+        "C": "Semua mahasiswa Akuntansi lulus dengan pujian.",
+        "D": "Semua yang lulus dengan pujian adalah mahasiswa Akuntansi.",
+        "E": "Sebagian mahasiswa Akuntansi tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Akuntansi pasti lulus dengan pujian. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "cpns-mini-tiu-02",
+      "pertanyaan": "Deret angka 2, 5, 8, 11, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "11",
+        "B": "14",
+        "C": "17",
+        "D": "20",
+        "E": "12"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pola deret bertambah tetap 3 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 3 dari angka terakhir menjadi 14."
+    },
+    {
+      "id": "cpns-mini-tiu-03",
+      "pertanyaan": "Analogi: dokter : pasien = guru : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "murid",
+        "D": "jadwal",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "dokter berhubungan langsung dengan pasien sebagai objek kerja utama. Hubungan setara terjadi antara guru dan murid."
+    },
+    {
+      "id": "cpns-mini-tiu-04",
+      "pertanyaan": "Jika y = 3x dan x = 12, nilai y adalah?",
+      "opsi": {
+        "A": "33",
+        "B": "48",
+        "C": "15",
+        "D": "36",
+        "E": "9"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 12 ke persamaan y = 3x sehingga diperoleh y = 36."
+    },
+    {
+      "id": "cpns-mini-tiu-05",
+      "pertanyaan": "Premis 1: Semua mahasiswa Manajemen tekun membaca referensi. Premis 2: Beberapa mahasiswa yang tekun membaca referensi mendapat nilai tertinggi. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Sebagian mahasiswa Manajemen tidak tekun membaca referensi.",
+        "B": "Beberapa mahasiswa Manajemen pasti mendapat nilai tertinggi.",
+        "C": "Semua mahasiswa Manajemen mendapat nilai tertinggi.",
+        "D": "Semua yang mendapat nilai tertinggi adalah mahasiswa Manajemen.",
+        "E": "Tidak dapat ditarik kesimpulan pasti dari kedua premis."
+      },
+      "jawaban": "E",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Manajemen pasti mendapat nilai tertinggi. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "cpns-mini-tiu-06",
+      "pertanyaan": "Deret angka 3, 7, 11, 15, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "19",
+        "B": "15",
+        "C": "23",
+        "D": "27",
+        "E": "17"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pola deret bertambah tetap 4 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 4 dari angka terakhir menjadi 19."
+    },
+    {
+      "id": "cpns-mini-tiu-07",
+      "pertanyaan": "Analogi: arsitek : bangunan = editor : ...",
+      "opsi": {
+        "A": "agenda",
+        "B": "naskah",
+        "C": "ruangan",
+        "D": "catatan",
+        "E": "jadwal"
+      },
+      "jawaban": "B",
+      "pembahasan": "arsitek berhubungan langsung dengan bangunan sebagai objek kerja utama. Hubungan setara terjadi antara editor dan naskah."
+    },
+    {
+      "id": "cpns-mini-tiu-08",
+      "pertanyaan": "Jika y = 4x dan x = 15, nilai y adalah?",
+      "opsi": {
+        "A": "11",
+        "B": "56",
+        "C": "60",
+        "D": "75",
+        "E": "19"
+      },
+      "jawaban": "C",
+      "pembahasan": "Substitusikan x = 15 ke persamaan y = 4x sehingga diperoleh y = 60."
+    },
+    {
+      "id": "cpns-mini-tiu-09",
+      "pertanyaan": "Premis 1: Semua mahasiswa Arsitektur rutin mengikuti bimbingan. Premis 2: Beberapa mahasiswa yang rutin mengikuti bimbingan menjadi finalis lomba. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Semua yang menjadi finalis lomba adalah mahasiswa Arsitektur.",
+        "B": "Sebagian mahasiswa Arsitektur tidak rutin mengikuti bimbingan.",
+        "C": "Beberapa mahasiswa Arsitektur pasti menjadi finalis lomba.",
+        "D": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "E": "Semua mahasiswa Arsitektur menjadi finalis lomba."
+      },
+      "jawaban": "D",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Arsitektur pasti menjadi finalis lomba. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "cpns-mini-tiu-10",
+      "pertanyaan": "Deret angka 4, 9, 14, 19, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "22",
+        "B": "19",
+        "C": "29",
+        "D": "34",
+        "E": "24"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pola deret bertambah tetap 5 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 5 dari angka terakhir menjadi 24."
+    },
+    {
+      "id": "cpns-mini-tiu-11",
+      "pertanyaan": "Analogi: hakim : putusan = analis : ...",
+      "opsi": {
+        "A": "laporan",
+        "B": "agenda",
+        "C": "ruangan",
+        "D": "catatan",
+        "E": "jadwal"
+      },
+      "jawaban": "A",
+      "pembahasan": "hakim berhubungan langsung dengan putusan sebagai objek kerja utama. Hubungan setara terjadi antara analis dan laporan."
+    },
+    {
+      "id": "cpns-mini-tiu-12",
+      "pertanyaan": "Jika y = 5x dan x = 18, nilai y adalah?",
+      "opsi": {
+        "A": "23",
+        "B": "90",
+        "C": "13",
+        "D": "85",
+        "E": "108"
+      },
+      "jawaban": "B",
+      "pembahasan": "Substitusikan x = 18 ke persamaan y = 5x sehingga diperoleh y = 90."
+    },
+    {
+      "id": "cpns-mini-tiu-13",
+      "pertanyaan": "Premis 1: Semua mahasiswa Ilmu Komunikasi tepat waktu mengumpulkan tugas. Premis 2: Beberapa mahasiswa yang tepat waktu mengumpulkan tugas menyelesaikan proyek tepat waktu. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Semua mahasiswa Ilmu Komunikasi menyelesaikan proyek tepat waktu.",
+        "B": "Semua yang menyelesaikan proyek tepat waktu adalah mahasiswa Ilmu Komunikasi.",
+        "C": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "D": "Sebagian mahasiswa Ilmu Komunikasi tidak tepat waktu mengumpulkan tugas.",
+        "E": "Beberapa mahasiswa Ilmu Komunikasi pasti menyelesaikan proyek tepat waktu."
+      },
+      "jawaban": "C",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Ilmu Komunikasi pasti menyelesaikan proyek tepat waktu. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "cpns-mini-tiu-14",
+      "pertanyaan": "Deret angka 5, 11, 17, 23, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "41",
+        "B": "27",
+        "C": "23",
+        "D": "29",
+        "E": "35"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pola deret bertambah tetap 6 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 6 dari angka terakhir menjadi 29."
+    },
+    {
+      "id": "cpns-mini-tiu-15",
+      "pertanyaan": "Analogi: nahkoda : kapal = pilot : ...",
+      "opsi": {
+        "A": "jadwal",
+        "B": "agenda",
+        "C": "ruangan",
+        "D": "catatan",
+        "E": "pesawat"
+      },
+      "jawaban": "E",
+      "pembahasan": "nahkoda berhubungan langsung dengan kapal sebagai objek kerja utama. Hubungan setara terjadi antara pilot dan pesawat."
+    },
+    {
+      "id": "cpns-mini-tiu-16",
+      "pertanyaan": "Jika y = 6x dan x = 21, nilai y adalah?",
+      "opsi": {
+        "A": "126",
+        "B": "27",
+        "C": "15",
+        "D": "120",
+        "E": "147"
+      },
+      "jawaban": "A",
+      "pembahasan": "Substitusikan x = 21 ke persamaan y = 6x sehingga diperoleh y = 126."
+    },
+    {
+      "id": "cpns-mini-tiu-17",
+      "pertanyaan": "Premis 1: Semua mahasiswa Akuntansi aktif berlatih soal. Premis 2: Beberapa mahasiswa yang aktif berlatih soal mendapat beasiswa. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Beberapa mahasiswa Akuntansi pasti mendapat beasiswa.",
+        "B": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "C": "Semua mahasiswa Akuntansi mendapat beasiswa.",
+        "D": "Semua yang mendapat beasiswa adalah mahasiswa Akuntansi.",
+        "E": "Sebagian mahasiswa Akuntansi tidak aktif berlatih soal."
+      },
+      "jawaban": "B",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Akuntansi pasti mendapat beasiswa. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "cpns-mini-tiu-18",
+      "pertanyaan": "Deret angka 6, 13, 20, 27, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "41",
+        "B": "48",
+        "C": "34",
+        "D": "32",
+        "E": "27"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pola deret bertambah tetap 7 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 7 dari angka terakhir menjadi 34."
+    },
+    {
+      "id": "cpns-mini-tiu-19",
+      "pertanyaan": "Analogi: kurator : koleksi = pustakawan : ...",
+      "opsi": {
+        "A": "catatan",
+        "B": "jadwal",
+        "C": "agenda",
+        "D": "katalog",
+        "E": "ruangan"
+      },
+      "jawaban": "D",
+      "pembahasan": "kurator berhubungan langsung dengan koleksi sebagai objek kerja utama. Hubungan setara terjadi antara pustakawan dan katalog."
+    },
+    {
+      "id": "cpns-mini-tiu-20",
+      "pertanyaan": "Jika y = 7x dan x = 24, nilai y adalah?",
+      "opsi": {
+        "A": "192",
+        "B": "31",
+        "C": "17",
+        "D": "161",
+        "E": "168"
+      },
+      "jawaban": "E",
+      "pembahasan": "Substitusikan x = 24 ke persamaan y = 7x sehingga diperoleh y = 168."
+    },
+    {
+      "id": "cpns-mini-tiu-21",
+      "pertanyaan": "Premis 1: Semua mahasiswa Manajemen rajin berdiskusi. Premis 2: Beberapa mahasiswa yang rajin berdiskusi menjadi asisten praktikum. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Manajemen pasti menjadi asisten praktikum.",
+        "C": "Semua mahasiswa Manajemen menjadi asisten praktikum.",
+        "D": "Semua yang menjadi asisten praktikum adalah mahasiswa Manajemen.",
+        "E": "Sebagian mahasiswa Manajemen tidak rajin berdiskusi."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Manajemen pasti menjadi asisten praktikum. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "cpns-mini-tiu-22",
+      "pertanyaan": "Deret angka 7, 15, 23, 31, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "31",
+        "B": "39",
+        "C": "47",
+        "D": "55",
+        "E": "37"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pola deret bertambah tetap 8 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 8 dari angka terakhir menjadi 39."
+    },
+    {
+      "id": "cpns-mini-tiu-23",
+      "pertanyaan": "Analogi: programer : kode = akuntan : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "laporan",
+        "D": "jadwal",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "programer berhubungan langsung dengan kode sebagai objek kerja utama. Hubungan setara terjadi antara akuntan dan laporan."
+    },
+    {
+      "id": "cpns-mini-tiu-24",
+      "pertanyaan": "Jika y = 8x dan x = 27, nilai y adalah?",
+      "opsi": {
+        "A": "208",
+        "B": "243",
+        "C": "35",
+        "D": "216",
+        "E": "19"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 27 ke persamaan y = 8x sehingga diperoleh y = 216."
+    },
+    {
+      "id": "cpns-mini-tiu-25",
+      "pertanyaan": "Premis 1: Semua mahasiswa Arsitektur belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras lulus dengan pujian. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Sebagian mahasiswa Arsitektur tidak belajar keras.",
+        "B": "Beberapa mahasiswa Arsitektur pasti lulus dengan pujian.",
+        "C": "Semua mahasiswa Arsitektur lulus dengan pujian.",
+        "D": "Semua yang lulus dengan pujian adalah mahasiswa Arsitektur.",
+        "E": "Tidak dapat ditarik kesimpulan pasti dari kedua premis."
+      },
+      "jawaban": "E",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Arsitektur pasti lulus dengan pujian. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    }
+  ]
+}

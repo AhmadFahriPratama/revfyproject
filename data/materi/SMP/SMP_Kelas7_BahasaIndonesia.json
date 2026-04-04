@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls7-bi",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "Bahasa Indonesia",
+  "materi": "Teks Deskripsi, Narasi Imajinasi, Prosedur, dan Observasi",
+  "deskripsi": "Materi Bahasa Indonesia Kelas 7 berfokus pada pengenalan dan penyusunan berbagai jenis teks dasar untuk meningkatkan kemampuan literasi.",
+  "konten": [
+    {
+      "bab": "1. Belajar Mendeskripsikan",
+      "teks": "Mengenali ciri, tujuan, dan struktur teks deskripsi. Menuliskan teks deskripsi tentang objek wisata, tempat bersejarah, atau suasana daerah."
+    },
+    {
+      "bab": "2. Memahami dan Mencipta Cerita Fantasi",
+      "teks": "Mengidentifikasi unsur instrinsik cerita imajinasi/fantasi. Menulis dan menceritakan kembali cerita fantasi dengan kreativitas."
+    },
+    {
+      "bab": "3. Mewariskan Budaya Melalui Teks Prosedur",
+      "teks": "Mengidentifikasi ciri kebahasaan teks prosedur. Membaca dan menulis teks prosedur tentang cara melakukan, membuat, atau memainkan sesuatu."
+    },
+    {
+      "bab": "4. Menyibak Ilmu dalam Laporan Hasil Observasi",
+      "teks": "Mengenali teks laporan hasil observasi, strukturnya, dan ciri kebahasaannya. Menyusun ringkasan dan teks LHO berdasarkan pengamatan lingkungan."
+    },
+    {
+      "bab": "5. Berkorespondensi dengan Surat Pribadi dan Dinas",
+      "teks": "Membedakan surat pribadi dan surat dinas. Menulis surat berdasarkan konteks dan tujuan yang tepat."
+    }
+  ],
+  "tag": ["smp-7", "bahasa-indonesia", "teks-deskripsi", "teks-prosedur", "cerita-fantasi"]
+}

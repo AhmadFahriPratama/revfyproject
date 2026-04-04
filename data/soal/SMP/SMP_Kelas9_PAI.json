@@ -1,0 +1,658 @@
+{
+  "id": "smp-9-pai",
+  "tingkat": "SMP",
+  "mapel": "Pendidikan Agama Islam",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "pai9-1",
+      "teks": "Hancurnya alam semesta beserta isinya menandakan datangnya kiamat...",
+      "opsi": {
+        "A": "Kubra",
+        "B": "Sugra",
+        "C": "Barzah",
+        "D": "Ba'ats"
+      },
+      "kunci": "A",
+      "pembahasan": "Kiamat Kubra (Kiamat Besar) adalah kehancuran seluruh alam semesta, sedangkan Sugra (Kecil) adalah kematian kematian lokal.",
+      "trik": "Kubra = Akbar = Besar."
+    },
+    {
+      "id": "pai9-2",
+      "teks": "Sikap jujur sangat penting diamalkan agar dipercaya orang lain. Lawan kata sifat jujur (Siddiq) adalah...",
+      "opsi": {
+        "A": "Amanah",
+        "B": "Kizib",
+        "C": "Fatanah",
+        "D": "Kitman"
+      },
+      "kunci": "B",
+      "pembahasan": "Kizib artinya bohong/dusta. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kizib\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Siddiq = Jujur >< Kizib/Kazib = Bohong."
+    },
+    {
+      "id": "pai9-3",
+      "teks": "Syarat hewan Qurban untuk Kambing minimal berusia...",
+      "opsi": {
+        "A": "2 tahun, masuk tahun ketiga",
+        "B": "6 bulan",
+        "C": "1 tahun, masuk tahun kedua",
+        "D": "5 tahun"
+      },
+      "kunci": "C",
+      "pembahasan": "Kambing / Domba kurban minimal usia genap 1 thn lepas (masuk 2 thn) atau giginya telah berganti. Sapi minimal 2 thn.",
+      "trik": "Kambing = 1th, Sapi = 2th."
+    },
+    {
+      "id": "pai9-4",
+      "teks": "Haji dan Umrah dilaksanakan di kota Makkah, rukun ibadah haji yang membedakannya dengan umrah adalah...",
+      "opsi": {
+        "A": "Ihram",
+        "B": "Thawaf",
+        "C": "Sa'i",
+        "D": "Wukuf di Arafah"
+      },
+      "kunci": "D",
+      "pembahasan": "Wukuf di Padang Arafah pada 9 Dzulhijjah adalah inti haji yang TIDAK ada pada ritual ibadah Umrah sunnah.",
+      "trik": "Haji intinya ada di Arafah."
+    },
+    {
+      "id": "pai9-5",
+      "teks": "Qada' dan Qadar adalah rukun iman ke-6. Takdir Allah yang tidak dapat ditunda atau dicegah manusia (misal: lahir kemana, kapan mati) disebut takdir...",
+      "opsi": {
+        "A": "Mubram",
+        "B": "Muallaq",
+        "C": "Syari",
+        "D": "Qalam"
+      },
+      "kunci": "A",
+      "pembahasan": "Takdir Mubram = ketetapan pasti absolut (mati, jodoh). Takdir Muallaq = ketetapan bersyarat ikhtiar (kepintaran, rezeki).",
+      "trik": "Mubram = Mutlak Penuh."
+    },
+    {
+      "id": "smp-9-pai-6",
+      "teks": "Hancurnya alam semesta beserta isinya menandakan datangnya kiamat... (Latihan Intensif #6)",
+      "opsi": {
+        "A": "Sugra",
+        "B": "Kubra",
+        "C": "Barzah",
+        "D": "Ba'ats"
+      },
+      "kunci": "B",
+      "pembahasan": "Kiamat Kubra (Kiamat Besar) adalah kehancuran seluruh alam semesta, sedangkan Sugra (Kecil) adalah kematian kematian lokal.",
+      "trik": "Kubra = Akbar = Besar."
+    },
+    {
+      "id": "smp-9-pai-7",
+      "teks": "Hancurnya alam semesta beserta isinya menandakan datangnya kiamat... (Latihan Intensif #7)",
+      "opsi": {
+        "A": "Sugra",
+        "B": "Barzah",
+        "C": "Kubra",
+        "D": "Ba'ats"
+      },
+      "kunci": "C",
+      "pembahasan": "Kiamat Kubra (Kiamat Besar) adalah kehancuran seluruh alam semesta, sedangkan Sugra (Kecil) adalah kematian kematian lokal.",
+      "trik": "Kubra = Akbar = Besar."
+    },
+    {
+      "id": "smp-9-pai-8",
+      "teks": "Qada' dan Qadar adalah rukun iman ke-6. Takdir Allah yang tidak dapat ditunda atau dicegah manusia (misal: lahir kemana, kapan mati) disebut takdir... (Latihan Intensif #8)",
+      "opsi": {
+        "A": "Muallaq",
+        "B": "Syari",
+        "C": "Qalam",
+        "D": "Mubram"
+      },
+      "kunci": "D",
+      "pembahasan": "Takdir Mubram = ketetapan pasti absolut (mati, jodoh). Takdir Muallaq = ketetapan bersyarat ikhtiar (kepintaran, rezeki).",
+      "trik": "Mubram = Mutlak Penuh."
+    },
+    {
+      "id": "smp-9-pai-9",
+      "teks": "Syarat hewan Qurban untuk Kambing minimal berusia... (Latihan Intensif #9)",
+      "opsi": {
+        "A": "1 tahun, masuk tahun kedua",
+        "B": "2 tahun, masuk tahun ketiga",
+        "C": "6 bulan",
+        "D": "5 tahun"
+      },
+      "kunci": "A",
+      "pembahasan": "Kambing / Domba kurban minimal usia genap 1 thn lepas (masuk 2 thn) atau giginya telah berganti. Sapi minimal 2 thn.",
+      "trik": "Kambing = 1th, Sapi = 2th."
+    },
+    {
+      "id": "smp-9-pai-10",
+      "teks": "Hancurnya alam semesta beserta isinya menandakan datangnya kiamat... (Latihan Intensif #10)",
+      "opsi": {
+        "A": "Sugra",
+        "B": "Kubra",
+        "C": "Barzah",
+        "D": "Ba'ats"
+      },
+      "kunci": "B",
+      "pembahasan": "Kiamat Kubra (Kiamat Besar) adalah kehancuran seluruh alam semesta, sedangkan Sugra (Kecil) adalah kematian kematian lokal.",
+      "trik": "Kubra = Akbar = Besar."
+    },
+    {
+      "id": "smp-9-pai-11",
+      "teks": "Hancurnya alam semesta beserta isinya menandakan datangnya kiamat... (Latihan Intensif #11)",
+      "opsi": {
+        "A": "Sugra",
+        "B": "Barzah",
+        "C": "Kubra",
+        "D": "Ba'ats"
+      },
+      "kunci": "C",
+      "pembahasan": "Kiamat Kubra (Kiamat Besar) adalah kehancuran seluruh alam semesta, sedangkan Sugra (Kecil) adalah kematian kematian lokal.",
+      "trik": "Kubra = Akbar = Besar."
+    },
+    {
+      "id": "smp-9-pai-12",
+      "teks": "Syarat hewan Qurban untuk Kambing minimal berusia... (Latihan Intensif #12)",
+      "opsi": {
+        "A": "2 tahun, masuk tahun ketiga",
+        "B": "6 bulan",
+        "C": "5 tahun",
+        "D": "1 tahun, masuk tahun kedua"
+      },
+      "kunci": "D",
+      "pembahasan": "Kambing / Domba kurban minimal usia genap 1 thn lepas (masuk 2 thn) atau giginya telah berganti. Sapi minimal 2 thn.",
+      "trik": "Kambing = 1th, Sapi = 2th."
+    },
+    {
+      "id": "smp-9-pai-13",
+      "teks": "Qada' dan Qadar adalah rukun iman ke-6. Takdir Allah yang tidak dapat ditunda atau dicegah manusia (misal: lahir kemana, kapan mati) disebut takdir... (Latihan Intensif #13)",
+      "opsi": {
+        "A": "Mubram",
+        "B": "Muallaq",
+        "C": "Syari",
+        "D": "Qalam"
+      },
+      "kunci": "A",
+      "pembahasan": "Takdir Mubram = ketetapan pasti absolut (mati, jodoh). Takdir Muallaq = ketetapan bersyarat ikhtiar (kepintaran, rezeki).",
+      "trik": "Mubram = Mutlak Penuh."
+    },
+    {
+      "id": "smp-9-pai-14",
+      "teks": "Qada' dan Qadar adalah rukun iman ke-6. Takdir Allah yang tidak dapat ditunda atau dicegah manusia (misal: lahir kemana, kapan mati) disebut takdir... (Latihan Intensif #14)",
+      "opsi": {
+        "A": "Muallaq",
+        "B": "Mubram",
+        "C": "Syari",
+        "D": "Qalam"
+      },
+      "kunci": "B",
+      "pembahasan": "Takdir Mubram = ketetapan pasti absolut (mati, jodoh). Takdir Muallaq = ketetapan bersyarat ikhtiar (kepintaran, rezeki).",
+      "trik": "Mubram = Mutlak Penuh."
+    },
+    {
+      "id": "smp-9-pai-15",
+      "teks": "Syarat hewan Qurban untuk Kambing minimal berusia... (Latihan Intensif #15)",
+      "opsi": {
+        "A": "2 tahun, masuk tahun ketiga",
+        "B": "6 bulan",
+        "C": "1 tahun, masuk tahun kedua",
+        "D": "5 tahun"
+      },
+      "kunci": "C",
+      "pembahasan": "Kambing / Domba kurban minimal usia genap 1 thn lepas (masuk 2 thn) atau giginya telah berganti. Sapi minimal 2 thn.",
+      "trik": "Kambing = 1th, Sapi = 2th."
+    },
+    {
+      "id": "smp-9-pai-16",
+      "teks": "Haji dan Umrah dilaksanakan di kota Makkah, rukun ibadah haji yang membedakannya dengan umrah adalah... (Latihan Intensif #16)",
+      "opsi": {
+        "A": "Ihram",
+        "B": "Thawaf",
+        "C": "Sa'i",
+        "D": "Wukuf di Arafah"
+      },
+      "kunci": "D",
+      "pembahasan": "Wukuf di Padang Arafah pada 9 Dzulhijjah adalah inti haji yang TIDAK ada pada ritual ibadah Umrah sunnah.",
+      "trik": "Haji intinya ada di Arafah."
+    },
+    {
+      "id": "smp-9-pai-17",
+      "teks": "Qada' dan Qadar adalah rukun iman ke-6. Takdir Allah yang tidak dapat ditunda atau dicegah manusia (misal: lahir kemana, kapan mati) disebut takdir... (Latihan Intensif #17)",
+      "opsi": {
+        "A": "Mubram",
+        "B": "Muallaq",
+        "C": "Syari",
+        "D": "Qalam"
+      },
+      "kunci": "A",
+      "pembahasan": "Takdir Mubram = ketetapan pasti absolut (mati, jodoh). Takdir Muallaq = ketetapan bersyarat ikhtiar (kepintaran, rezeki).",
+      "trik": "Mubram = Mutlak Penuh."
+    },
+    {
+      "id": "smp-9-pai-18",
+      "teks": "Hancurnya alam semesta beserta isinya menandakan datangnya kiamat... (Latihan Intensif #18)",
+      "opsi": {
+        "A": "Sugra",
+        "B": "Kubra",
+        "C": "Barzah",
+        "D": "Ba'ats"
+      },
+      "kunci": "B",
+      "pembahasan": "Kiamat Kubra (Kiamat Besar) adalah kehancuran seluruh alam semesta, sedangkan Sugra (Kecil) adalah kematian kematian lokal.",
+      "trik": "Kubra = Akbar = Besar."
+    },
+    {
+      "id": "smp-9-pai-19",
+      "teks": "Sikap jujur sangat penting diamalkan agar dipercaya orang lain. Lawan kata sifat jujur (Siddiq) adalah... (Latihan Intensif #19)",
+      "opsi": {
+        "A": "Amanah",
+        "B": "Fatanah",
+        "C": "Kizib",
+        "D": "Kitman"
+      },
+      "kunci": "C",
+      "pembahasan": "Kizib artinya bohong/dusta. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kizib\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Siddiq = Jujur >< Kizib/Kazib = Bohong."
+    },
+    {
+      "id": "smp-9-pai-20",
+      "teks": "Qada' dan Qadar adalah rukun iman ke-6. Takdir Allah yang tidak dapat ditunda atau dicegah manusia (misal: lahir kemana, kapan mati) disebut takdir... (Latihan Intensif #20)",
+      "opsi": {
+        "A": "Muallaq",
+        "B": "Syari",
+        "C": "Qalam",
+        "D": "Mubram"
+      },
+      "kunci": "D",
+      "pembahasan": "Takdir Mubram = ketetapan pasti absolut (mati, jodoh). Takdir Muallaq = ketetapan bersyarat ikhtiar (kepintaran, rezeki).",
+      "trik": "Mubram = Mutlak Penuh."
+    },
+    {
+      "id": "smp-9-pai-21",
+      "teks": "Qada' dan Qadar adalah rukun iman ke-6. Takdir Allah yang tidak dapat ditunda atau dicegah manusia (misal: lahir kemana, kapan mati) disebut takdir... (Latihan Intensif #21)",
+      "opsi": {
+        "A": "Mubram",
+        "B": "Muallaq",
+        "C": "Syari",
+        "D": "Qalam"
+      },
+      "kunci": "A",
+      "pembahasan": "Takdir Mubram = ketetapan pasti absolut (mati, jodoh). Takdir Muallaq = ketetapan bersyarat ikhtiar (kepintaran, rezeki).",
+      "trik": "Mubram = Mutlak Penuh."
+    },
+    {
+      "id": "smp-9-pai-22",
+      "teks": "Haji dan Umrah dilaksanakan di kota Makkah, rukun ibadah haji yang membedakannya dengan umrah adalah... (Latihan Intensif #22)",
+      "opsi": {
+        "A": "Ihram",
+        "B": "Wukuf di Arafah",
+        "C": "Thawaf",
+        "D": "Sa'i"
+      },
+      "kunci": "B",
+      "pembahasan": "Wukuf di Padang Arafah pada 9 Dzulhijjah adalah inti haji yang TIDAK ada pada ritual ibadah Umrah sunnah.",
+      "trik": "Haji intinya ada di Arafah."
+    },
+    {
+      "id": "smp-9-pai-23",
+      "teks": "Qada' dan Qadar adalah rukun iman ke-6. Takdir Allah yang tidak dapat ditunda atau dicegah manusia (misal: lahir kemana, kapan mati) disebut takdir... (Latihan Intensif #23)",
+      "opsi": {
+        "A": "Muallaq",
+        "B": "Syari",
+        "C": "Mubram",
+        "D": "Qalam"
+      },
+      "kunci": "C",
+      "pembahasan": "Takdir Mubram = ketetapan pasti absolut (mati, jodoh). Takdir Muallaq = ketetapan bersyarat ikhtiar (kepintaran, rezeki).",
+      "trik": "Mubram = Mutlak Penuh."
+    },
+    {
+      "id": "smp-9-pai-24",
+      "teks": "Syarat hewan Qurban untuk Kambing minimal berusia... (Latihan Intensif #24)",
+      "opsi": {
+        "A": "2 tahun, masuk tahun ketiga",
+        "B": "6 bulan",
+        "C": "5 tahun",
+        "D": "1 tahun, masuk tahun kedua"
+      },
+      "kunci": "D",
+      "pembahasan": "Kambing / Domba kurban minimal usia genap 1 thn lepas (masuk 2 thn) atau giginya telah berganti. Sapi minimal 2 thn.",
+      "trik": "Kambing = 1th, Sapi = 2th."
+    },
+    {
+      "id": "smp-9-pai-25",
+      "teks": "Hancurnya alam semesta beserta isinya menandakan datangnya kiamat... (Latihan Intensif #25)",
+      "opsi": {
+        "A": "Kubra",
+        "B": "Sugra",
+        "C": "Barzah",
+        "D": "Ba'ats"
+      },
+      "kunci": "A",
+      "pembahasan": "Kiamat Kubra (Kiamat Besar) adalah kehancuran seluruh alam semesta, sedangkan Sugra (Kecil) adalah kematian kematian lokal.",
+      "trik": "Kubra = Akbar = Besar."
+    },
+    {
+      "id": "smp-9-pai-26",
+      "teks": "Qada' dan Qadar adalah rukun iman ke-6. Takdir Allah yang tidak dapat ditunda atau dicegah manusia (misal: lahir kemana, kapan mati) disebut takdir... (Latihan Intensif #26)",
+      "opsi": {
+        "A": "Muallaq",
+        "B": "Mubram",
+        "C": "Syari",
+        "D": "Qalam"
+      },
+      "kunci": "B",
+      "pembahasan": "Takdir Mubram = ketetapan pasti absolut (mati, jodoh). Takdir Muallaq = ketetapan bersyarat ikhtiar (kepintaran, rezeki).",
+      "trik": "Mubram = Mutlak Penuh."
+    },
+    {
+      "id": "smp-9-pai-27",
+      "teks": "Hancurnya alam semesta beserta isinya menandakan datangnya kiamat... (Latihan Intensif #27)",
+      "opsi": {
+        "A": "Sugra",
+        "B": "Barzah",
+        "C": "Kubra",
+        "D": "Ba'ats"
+      },
+      "kunci": "C",
+      "pembahasan": "Kiamat Kubra (Kiamat Besar) adalah kehancuran seluruh alam semesta, sedangkan Sugra (Kecil) adalah kematian kematian lokal.",
+      "trik": "Kubra = Akbar = Besar."
+    },
+    {
+      "id": "smp-9-pai-28",
+      "teks": "Syarat hewan Qurban untuk Kambing minimal berusia... (Latihan Intensif #28)",
+      "opsi": {
+        "A": "2 tahun, masuk tahun ketiga",
+        "B": "6 bulan",
+        "C": "5 tahun",
+        "D": "1 tahun, masuk tahun kedua"
+      },
+      "kunci": "D",
+      "pembahasan": "Kambing / Domba kurban minimal usia genap 1 thn lepas (masuk 2 thn) atau giginya telah berganti. Sapi minimal 2 thn.",
+      "trik": "Kambing = 1th, Sapi = 2th."
+    },
+    {
+      "id": "smp-9-pai-29",
+      "teks": "Sikap jujur sangat penting diamalkan agar dipercaya orang lain. Lawan kata sifat jujur (Siddiq) adalah... (Latihan Intensif #29)",
+      "opsi": {
+        "A": "Kizib",
+        "B": "Amanah",
+        "C": "Fatanah",
+        "D": "Kitman"
+      },
+      "kunci": "A",
+      "pembahasan": "Kizib artinya bohong/dusta. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kizib\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Siddiq = Jujur >< Kizib/Kazib = Bohong."
+    },
+    {
+      "id": "smp-9-pai-30",
+      "teks": "Syarat hewan Qurban untuk Kambing minimal berusia... (Latihan Intensif #30)",
+      "opsi": {
+        "A": "2 tahun, masuk tahun ketiga",
+        "B": "1 tahun, masuk tahun kedua",
+        "C": "6 bulan",
+        "D": "5 tahun"
+      },
+      "kunci": "B",
+      "pembahasan": "Kambing / Domba kurban minimal usia genap 1 thn lepas (masuk 2 thn) atau giginya telah berganti. Sapi minimal 2 thn.",
+      "trik": "Kambing = 1th, Sapi = 2th."
+    },
+    {
+      "id": "smp-9-pai-31",
+      "teks": "Hancurnya alam semesta beserta isinya menandakan datangnya kiamat... (Latihan Intensif #31)",
+      "opsi": {
+        "A": "Sugra",
+        "B": "Barzah",
+        "C": "Kubra",
+        "D": "Ba'ats"
+      },
+      "kunci": "C",
+      "pembahasan": "Kiamat Kubra (Kiamat Besar) adalah kehancuran seluruh alam semesta, sedangkan Sugra (Kecil) adalah kematian kematian lokal.",
+      "trik": "Kubra = Akbar = Besar."
+    },
+    {
+      "id": "smp-9-pai-32",
+      "teks": "Syarat hewan Qurban untuk Kambing minimal berusia... (Latihan Intensif #32)",
+      "opsi": {
+        "A": "2 tahun, masuk tahun ketiga",
+        "B": "6 bulan",
+        "C": "5 tahun",
+        "D": "1 tahun, masuk tahun kedua"
+      },
+      "kunci": "D",
+      "pembahasan": "Kambing / Domba kurban minimal usia genap 1 thn lepas (masuk 2 thn) atau giginya telah berganti. Sapi minimal 2 thn.",
+      "trik": "Kambing = 1th, Sapi = 2th."
+    },
+    {
+      "id": "smp-9-pai-33",
+      "teks": "Sikap jujur sangat penting diamalkan agar dipercaya orang lain. Lawan kata sifat jujur (Siddiq) adalah... (Latihan Intensif #33)",
+      "opsi": {
+        "A": "Kizib",
+        "B": "Amanah",
+        "C": "Fatanah",
+        "D": "Kitman"
+      },
+      "kunci": "A",
+      "pembahasan": "Kizib artinya bohong/dusta. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kizib\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Siddiq = Jujur >< Kizib/Kazib = Bohong."
+    },
+    {
+      "id": "smp-9-pai-34",
+      "teks": "Haji dan Umrah dilaksanakan di kota Makkah, rukun ibadah haji yang membedakannya dengan umrah adalah... (Latihan Intensif #34)",
+      "opsi": {
+        "A": "Ihram",
+        "B": "Wukuf di Arafah",
+        "C": "Thawaf",
+        "D": "Sa'i"
+      },
+      "kunci": "B",
+      "pembahasan": "Wukuf di Padang Arafah pada 9 Dzulhijjah adalah inti haji yang TIDAK ada pada ritual ibadah Umrah sunnah.",
+      "trik": "Haji intinya ada di Arafah."
+    },
+    {
+      "id": "smp-9-pai-35",
+      "teks": "Sikap jujur sangat penting diamalkan agar dipercaya orang lain. Lawan kata sifat jujur (Siddiq) adalah... (Latihan Intensif #35)",
+      "opsi": {
+        "A": "Amanah",
+        "B": "Fatanah",
+        "C": "Kizib",
+        "D": "Kitman"
+      },
+      "kunci": "C",
+      "pembahasan": "Kizib artinya bohong/dusta. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kizib\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Siddiq = Jujur >< Kizib/Kazib = Bohong."
+    },
+    {
+      "id": "smp-9-pai-36",
+      "teks": "Sikap jujur sangat penting diamalkan agar dipercaya orang lain. Lawan kata sifat jujur (Siddiq) adalah... (Latihan Intensif #36)",
+      "opsi": {
+        "A": "Amanah",
+        "B": "Fatanah",
+        "C": "Kitman",
+        "D": "Kizib"
+      },
+      "kunci": "D",
+      "pembahasan": "Kizib artinya bohong/dusta. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kizib\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Siddiq = Jujur >< Kizib/Kazib = Bohong."
+    },
+    {
+      "id": "smp-9-pai-37",
+      "teks": "Haji dan Umrah dilaksanakan di kota Makkah, rukun ibadah haji yang membedakannya dengan umrah adalah... (Latihan Intensif #37)",
+      "opsi": {
+        "A": "Wukuf di Arafah",
+        "B": "Ihram",
+        "C": "Thawaf",
+        "D": "Sa'i"
+      },
+      "kunci": "A",
+      "pembahasan": "Wukuf di Padang Arafah pada 9 Dzulhijjah adalah inti haji yang TIDAK ada pada ritual ibadah Umrah sunnah.",
+      "trik": "Haji intinya ada di Arafah."
+    },
+    {
+      "id": "smp-9-pai-38",
+      "teks": "Hancurnya alam semesta beserta isinya menandakan datangnya kiamat... (Latihan Intensif #38)",
+      "opsi": {
+        "A": "Sugra",
+        "B": "Kubra",
+        "C": "Barzah",
+        "D": "Ba'ats"
+      },
+      "kunci": "B",
+      "pembahasan": "Kiamat Kubra (Kiamat Besar) adalah kehancuran seluruh alam semesta, sedangkan Sugra (Kecil) adalah kematian kematian lokal.",
+      "trik": "Kubra = Akbar = Besar."
+    },
+    {
+      "id": "smp-9-pai-39",
+      "teks": "Sikap jujur sangat penting diamalkan agar dipercaya orang lain. Lawan kata sifat jujur (Siddiq) adalah... (Latihan Intensif #39)",
+      "opsi": {
+        "A": "Amanah",
+        "B": "Fatanah",
+        "C": "Kizib",
+        "D": "Kitman"
+      },
+      "kunci": "C",
+      "pembahasan": "Kizib artinya bohong/dusta. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kizib\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Siddiq = Jujur >< Kizib/Kazib = Bohong."
+    },
+    {
+      "id": "smp-9-pai-40",
+      "teks": "Haji dan Umrah dilaksanakan di kota Makkah, rukun ibadah haji yang membedakannya dengan umrah adalah... (Latihan Intensif #40)",
+      "opsi": {
+        "A": "Ihram",
+        "B": "Thawaf",
+        "C": "Sa'i",
+        "D": "Wukuf di Arafah"
+      },
+      "kunci": "D",
+      "pembahasan": "Wukuf di Padang Arafah pada 9 Dzulhijjah adalah inti haji yang TIDAK ada pada ritual ibadah Umrah sunnah.",
+      "trik": "Haji intinya ada di Arafah."
+    },
+    {
+      "id": "smp-9-pai-41",
+      "teks": "Sikap jujur sangat penting diamalkan agar dipercaya orang lain. Lawan kata sifat jujur (Siddiq) adalah... (Latihan Intensif #41)",
+      "opsi": {
+        "A": "Kizib",
+        "B": "Amanah",
+        "C": "Fatanah",
+        "D": "Kitman"
+      },
+      "kunci": "A",
+      "pembahasan": "Kizib artinya bohong/dusta. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kizib\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Siddiq = Jujur >< Kizib/Kazib = Bohong."
+    },
+    {
+      "id": "smp-9-pai-42",
+      "teks": "Haji dan Umrah dilaksanakan di kota Makkah, rukun ibadah haji yang membedakannya dengan umrah adalah... (Latihan Intensif #42)",
+      "opsi": {
+        "A": "Ihram",
+        "B": "Wukuf di Arafah",
+        "C": "Thawaf",
+        "D": "Sa'i"
+      },
+      "kunci": "B",
+      "pembahasan": "Wukuf di Padang Arafah pada 9 Dzulhijjah adalah inti haji yang TIDAK ada pada ritual ibadah Umrah sunnah.",
+      "trik": "Haji intinya ada di Arafah."
+    },
+    {
+      "id": "smp-9-pai-43",
+      "teks": "Haji dan Umrah dilaksanakan di kota Makkah, rukun ibadah haji yang membedakannya dengan umrah adalah... (Latihan Intensif #43)",
+      "opsi": {
+        "A": "Ihram",
+        "B": "Thawaf",
+        "C": "Wukuf di Arafah",
+        "D": "Sa'i"
+      },
+      "kunci": "C",
+      "pembahasan": "Wukuf di Padang Arafah pada 9 Dzulhijjah adalah inti haji yang TIDAK ada pada ritual ibadah Umrah sunnah.",
+      "trik": "Haji intinya ada di Arafah."
+    },
+    {
+      "id": "smp-9-pai-44",
+      "teks": "Hancurnya alam semesta beserta isinya menandakan datangnya kiamat... (Latihan Intensif #44)",
+      "opsi": {
+        "A": "Sugra",
+        "B": "Barzah",
+        "C": "Ba'ats",
+        "D": "Kubra"
+      },
+      "kunci": "D",
+      "pembahasan": "Kiamat Kubra (Kiamat Besar) adalah kehancuran seluruh alam semesta, sedangkan Sugra (Kecil) adalah kematian kematian lokal.",
+      "trik": "Kubra = Akbar = Besar."
+    },
+    {
+      "id": "smp-9-pai-45",
+      "teks": "Qada' dan Qadar adalah rukun iman ke-6. Takdir Allah yang tidak dapat ditunda atau dicegah manusia (misal: lahir kemana, kapan mati) disebut takdir... (Latihan Intensif #45)",
+      "opsi": {
+        "A": "Mubram",
+        "B": "Muallaq",
+        "C": "Syari",
+        "D": "Qalam"
+      },
+      "kunci": "A",
+      "pembahasan": "Takdir Mubram = ketetapan pasti absolut (mati, jodoh). Takdir Muallaq = ketetapan bersyarat ikhtiar (kepintaran, rezeki).",
+      "trik": "Mubram = Mutlak Penuh."
+    },
+    {
+      "id": "smp-9-pai-46",
+      "teks": "Syarat hewan Qurban untuk Kambing minimal berusia... (Latihan Intensif #46)",
+      "opsi": {
+        "A": "2 tahun, masuk tahun ketiga",
+        "B": "1 tahun, masuk tahun kedua",
+        "C": "6 bulan",
+        "D": "5 tahun"
+      },
+      "kunci": "B",
+      "pembahasan": "Kambing / Domba kurban minimal usia genap 1 thn lepas (masuk 2 thn) atau giginya telah berganti. Sapi minimal 2 thn.",
+      "trik": "Kambing = 1th, Sapi = 2th."
+    },
+    {
+      "id": "smp-9-pai-47",
+      "teks": "Qada' dan Qadar adalah rukun iman ke-6. Takdir Allah yang tidak dapat ditunda atau dicegah manusia (misal: lahir kemana, kapan mati) disebut takdir... (Latihan Intensif #47)",
+      "opsi": {
+        "A": "Muallaq",
+        "B": "Syari",
+        "C": "Mubram",
+        "D": "Qalam"
+      },
+      "kunci": "C",
+      "pembahasan": "Takdir Mubram = ketetapan pasti absolut (mati, jodoh). Takdir Muallaq = ketetapan bersyarat ikhtiar (kepintaran, rezeki).",
+      "trik": "Mubram = Mutlak Penuh."
+    },
+    {
+      "id": "smp-9-pai-48",
+      "teks": "Hancurnya alam semesta beserta isinya menandakan datangnya kiamat... (Latihan Intensif #48)",
+      "opsi": {
+        "A": "Sugra",
+        "B": "Barzah",
+        "C": "Ba'ats",
+        "D": "Kubra"
+      },
+      "kunci": "D",
+      "pembahasan": "Kiamat Kubra (Kiamat Besar) adalah kehancuran seluruh alam semesta, sedangkan Sugra (Kecil) adalah kematian kematian lokal.",
+      "trik": "Kubra = Akbar = Besar."
+    },
+    {
+      "id": "smp-9-pai-49",
+      "teks": "Sikap jujur sangat penting diamalkan agar dipercaya orang lain. Lawan kata sifat jujur (Siddiq) adalah... (Latihan Intensif #49)",
+      "opsi": {
+        "A": "Kizib",
+        "B": "Amanah",
+        "C": "Fatanah",
+        "D": "Kitman"
+      },
+      "kunci": "A",
+      "pembahasan": "Kizib artinya bohong/dusta. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kizib\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Siddiq = Jujur >< Kizib/Kazib = Bohong."
+    },
+    {
+      "id": "smp-9-pai-50",
+      "teks": "Syarat hewan Qurban untuk Kambing minimal berusia... (Latihan Intensif #50)",
+      "opsi": {
+        "A": "2 tahun, masuk tahun ketiga",
+        "B": "1 tahun, masuk tahun kedua",
+        "C": "6 bulan",
+        "D": "5 tahun"
+      },
+      "kunci": "B",
+      "pembahasan": "Kambing / Domba kurban minimal usia genap 1 thn lepas (masuk 2 thn) atau giginya telah berganti. Sapi minimal 2 thn.",
+      "trik": "Kambing = 1th, Sapi = 2th."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Agribisnis Tanaman",
+  "tingkatan": "SMK",
+  "jurusan": "Agribisnis / Pertanian",
+  "deskripsi": "Materi mengenai teknik budidaya tanaman (pangan, hortikultura, perkebunan), kebutuhan nutrisi tanaman (pupuk), pengendalian hama penyakit, serta agribisnis modern.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Agribisnis Tanaman",
+      "konten": "Pengertian agribisnis dari hulu ke hilir. Peran sektor pertanian dalam ketahanan pangan nasional serta peluang wirausaha di bidang pertanian (agropreneur).",
+      "tag": [
+        "agribisnis tanaman materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Teknik Budidaya Tanaman Dasar",
+      "konten": "Persiapan lahan (pengolahan tanah), pemilihan benih unggul, teknik persemaian, penanaman, pemeliharaan (penyiraman, penyiangan), hingga pemanenan.",
+      "tag": [
+        "agribisnis tanaman materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Nutrisi Tanaman dan Pemupukan",
+      "konten": "Jenis-jenis unsur hara makro (N, P, K) dan mikro. Pengenalan pupuk organik (kompos, pupuk kandang) dan pupuk anorganik serta cara aplikasinya pada tanaman.",
+      "tag": [
+        "agribisnis tanaman materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Pengendalian Hama dan Penyakit Tanaman",
+      "konten": "Identifikasi jenis hama (serangga, tikus) dan penyakit (jamur, bakteri, virus). Teknik pengendalian secara biologi, fisik, dan kimiawi (pestisida) yang ramah lingkungan.",
+      "tag": [
+        "agribisnis tanaman materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pertanian Modern dan Berkelanjutan",
+      "konten": "Pengenalan teknologi hidroponik, akuaponik, vertikultura, serta penggunaan alat mesin pertanian (alsintan) modern untuk meningkatkan produktivitas lahan.",
+      "tag": [
+        "agribisnis tanaman materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "agribisnis-tanaman-materi",
+  "mapel": "Dasar-Dasar Agribisnis Tanaman",
+  "tag": [
+    "agribisnis tanaman materi"
+  ]
+}

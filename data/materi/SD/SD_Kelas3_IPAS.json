@@ -1,0 +1,26 @@
+{
+  "id": "materi-sd-kls3-ipas",
+  "tingkat": "SD Kelas 3",
+  "mapel": "IPAS",
+  "materi": "Lingkungan Alam, Wujud Benda, dan Peta Denah Wilayah",
+  "deskripsi": "Materi IPAS (Ilmu Pengetahuan Alam dan Sosial) Kelas 3 SD Kurikulum Merdeka yang membahas pengenalan makhluk hidup, perubahan wujud benda, energi sederhana, serta pemahaman kompas dan denah tata letak di lingkungan sekitar.",
+  "konten": [
+    {
+      "bab": "1. Makhluk Hidup dan Lingkungannya",
+      "teks": "Mengidentifikasi ciri-ciri makhluk hidup (tumbuh, bernapas, butuh makan) dan membedakannya dengan benda mati. Membedakan lingkungan alam (hutan, gunung) dan lingkungan buatan (taman, gedung)."
+    },
+    {
+      "bab": "2. Wujud Benda Benda di Sekitar",
+      "teks": "Mempelajari sifat-sifat 3 wujud dasar: Padat (bentuk tetap), Cair (menyesuaikan wadah), dan Gas (mengisi ruang). Mengenal proses mencair, membeku, dan menguap akibat panas dingin."
+    },
+    {
+      "bab": "3. Energi Matahari",
+      "teks": "Mengenal matahari sebagai sumber energi panas dan cahaya terbesar bagi bumi, yang berguna bagi proses fotosintesis tumbuhan, menjemur pakaian, dan menerangi bumi di siang hari."
+    },
+    {
+      "bab": "4. Denah dan Arah Mata Angin",
+      "teks": "Membaca denah gambar lokasi sederhana menggunakan kompas mata angin dasar: Utara (Atas), Selatan (Bawah), Timur (Kanan/Matahari terbit), dan Barat (Kiri/Matahari terbenam)."
+    }
+  ],
+  "tag": ["sd-3", "ipas", "alam-buatan", "wujud-benda", "energi-matahari", "arah-mata-angin"]
+}

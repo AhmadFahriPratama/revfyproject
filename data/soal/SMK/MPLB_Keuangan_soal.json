@@ -1,0 +1,652 @@
+[
+  {
+    "id": "MPLB_KEU_01",
+    "pertanyaan": "Dana yang disediakan untuk membayar pengeluaran-pengeluaran kantor yang jumlahnya relatif kecil disebut...",
+    "opsi": [
+      "Dana Kas Kecil (Petty Cash)",
+      "Kas Besar",
+      "Modal Kerja",
+      "Piutang Dagang",
+      "Investasi Tetap"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kas kecil digunakan untuk belanja rutin seperti ATK, konsumsi rapat, atau ongkos kurir."
+  },
+  {
+    "id": "MPLB_KEU_02",
+    "pertanyaan": "Sistem dana kas kecil di mana jumlah saldonya selalu tetap pada saat pengisian kembali disebut...",
+    "opsi": [
+      "Sistem Fluktuasi",
+      "Sistem Imprest (Dana Tetap)",
+      "Sistem Periodik",
+      "Sistem Stok",
+      "Sistem Kredit"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dalam sistem Imprest, pengisian dilakukan sebesar jumlah total pengeluaran yang telah dilakukan."
+  },
+  {
+    "id": "MPLB_KEU_03",
+    "pertanyaan": "Bukti penerimaan uang yang ditandatangani oleh penerima dan diserahkan kepada pembayar harganya disebut...",
+    "opsi": [
+      "Nota",
+      "Faktur",
+      "Kuitansi",
+      "Cek",
+      "Memo"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kuitansi adalah bukti hukum paling umum untuk transaksi penerimaan kas."
+  },
+  {
+    "id": "MPLB_KEU_04",
+    "pertanyaan": "Surat perintah tertulis dari nasabah kepada bank untuk membayar sejumlah uang kepada orang yang namanya tertera disebut...",
+    "opsi": [
+      "Kuitansi",
+      "Nota Debet",
+      "Bilyet Giro",
+      "Cek",
+      "Polis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Cek adalah alat pembayaran tunai melalui jasa perbankan."
+  },
+  {
+    "id": "MPLB_KEU_05",
+    "pertanyaan": "Petugas yang bertanggung jawab mengelola dana kas kecil disebut...",
+    "opsi": [
+      "Manajer",
+      "Direktur Utama",
+      "Cleaning Service",
+      "Kurir",
+      "Sekretaris / Kasir Kas Kecil"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Biasanya dipegang oleh sekretaris atau staf administrasi di masing-masing departemen."
+  },
+  {
+    "id": "MPLB_KEU_06",
+    "pertanyaan": "Jurnal pencatatan pengeluaran kas kecil pada sistem Dana Tetap (Imprest) dilakukan pada saat...",
+    "opsi": [
+      "Pengisian kembali dana kas kecil",
+      "Terjadi transaksi pengeluaran",
+      "Setiap sore hari",
+      "Awal tahun saja",
+      "Saat audit saja"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pada sistem Imprest, transaksi harian hanya dicatat di buku kas kecil manual, jurnal akuntansi baru dibuat saat saldo diisi kembali."
+  },
+  {
+    "id": "MPLB_KEU_07",
+    "pertanyaan": "Bukti transaksi pembelian atau penjualan barang secara kredit disebut...",
+    "opsi": [
+      "Kuitansi",
+      "Faktur (Invoice)",
+      "Nota Kontan",
+      "Cek",
+      "Buku Kas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Faktur berisi rincian barang, harga, dan termin pembayaran."
+  },
+  {
+    "id": "MPLB_KEU_08",
+    "pertanyaan": "Fungsi dari 'Voucher Kas Kecil' adalah...",
+    "opsi": [
+      "Sebagai pengganti uang tunai",
+      "Kupon belanja diskon",
+      "Bukti internal permintaan atau pemakaian dana kas kecil",
+      "Kartu nama perusahaan",
+      "Tiket parkir"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Voucher merupakan kendali internal agar setiap pengeluaran kas memiliki dasar yang kuat."
+  },
+  {
+    "id": "MPLB_KEU_09",
+    "pertanyaan": "Sistem dana kas kecil di mana saldo kas kecil berubah-ubah pada setiap pengisian disebut...",
+    "opsi": [
+      "Sistem Imprest",
+      "Sistem FIFO",
+      "Sistem LIFO",
+      "Sistem Fluktuasi (Dana Tidak Tetap)",
+      "Sistem Saldo Menurun"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sistem ini menjurnal setiap pengeluaran kas kecil saat transaksi itu terjadi."
+  },
+  {
+    "id": "MPLB_KEU_10",
+    "pertanyaan": "Pihak yang memberikan otorisasi (persetujuan) pengeluaran uang di kantor biasanya dilakukan oleh...",
+    "opsi": [
+      "Pemegang Kas Kecil",
+      "Penerima uang",
+      "Pemasok barang",
+      "Customer",
+      "Pimpinan / Kepala Bagian"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Otorisasi pimpinan memastikan pengeluaran tersebut memang diperlukan untuk kepentingan kantor."
+  },
+  {
+    "id": "MPLB_KEU_11",
+    "pertanyaan": "Apa itu 'Reconcile' dalam perbankan kantor?",
+    "opsi": [
+      "Menyesuaikan catatan kas perusahaan dengan catatan bank di rekening koran",
+      "Membuang uang rusak",
+      "Meminjam uang ke bank",
+      "Menutup akun bank",
+      "Mengganti password ATM"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penting untuk memastikan tidak ada kesalahan pencatatan atau transaksi yang terlewat."
+  },
+  {
+    "id": "MPLB_KEU_12",
+    "pertanyaan": "Selisih kas (Cash Shortage/Overage) terjadi apabila...",
+    "opsi": [
+      "Warna uang berbeda",
+      "Saldo fisik uang tidak sama dengan saldo yang tertera di buku catatan",
+      "Harga barang naik",
+      "Gaji pegawai terlambat",
+      "Uang sobek sedikit"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Selisih harus ditelusuri penyebabnya (kesalahan hitung atau transaksi lupa dicatat)."
+  },
+  {
+    "id": "MPLB_KEU_13",
+    "pertanyaan": "Laporan yang menunjukkan posisi harta, utang, dan modal pada tanggal tertentu disebut...",
+    "opsi": [
+      "Laporan Laba Rugi",
+      "Laporan Arus Kas",
+      "Neraca",
+      "Laporan Perubahan Modal",
+      "Daftar Gaji"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Neraca memberikan gambaran kondisi keuangan perusahaan secara keseluruhan."
+  },
+  {
+    "id": "MPLB_KEU_14",
+    "pertanyaan": "Pajak Penghasilan (PPh) Pasal 21 dikenakan atas...",
+    "opsi": [
+      "Pembelian barang impor",
+      "Sewa gedung",
+      "Bunga bank",
+      "Penghasilan berupa gaji, upah, honorarium dari pekerjaan/jasa",
+      "Penjualan tanah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bendahara kantor wajib memotong PPh 21 dari gaji karyawan."
+  },
+  {
+    "id": "MPLB_KEU_15",
+    "pertanyaan": "Nilai nominal pajak PPN (Pajak Pertambahan Nilai) di Indonesia saat ini umumnya adalah...",
+    "opsi": [
+      "1%",
+      "5%",
+      "10%",
+      "20%",
+      "11%"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tarif PPN naik menjadi 11% sejak 1 April 2022 sesuai UU HPP."
+  },
+  {
+    "id": "MPLB_KEU_16",
+    "pertanyaan": "Buku yang berisi rincian pengeluaran kas kecil dengan kolom-kolom beban disebut...",
+    "opsi": [
+      "Buku Jurnal Kas Kecil",
+      "Buku Agenda",
+      "Buku Besar",
+      "Buku Induk",
+      "Buku Tamu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mempermudah klasifikasi biaya (biaya ATK, biaya transport, biaya kurir, dll)."
+  },
+  {
+    "id": "MPLB_KEU_17",
+    "pertanyaan": "Slip Penarikan digunakan untuk...",
+    "opsi": [
+      "Menyetor uang ke keryawan",
+      "Mengambil uang tunai dari tabungan di bank melalui teller",
+      "Mengirim email",
+      "Membayar belanja online",
+      "Mendaftarkan akun baru"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dokumen standar perbankan untuk transaksi luring (offline)."
+  },
+  {
+    "id": "MPLB_KEU_18",
+    "pertanyaan": "Apa arti 'Current Period' dalam laporan keuangan?",
+    "opsi": [
+      "Masa lalu",
+      "Periode tahun depan",
+      "Periode akuntansi yang sedang berjalan",
+      "Hanya hari Sabtu saja",
+      "Masa libur nasional"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Fokus pada data transaksi tahun/bulan ini."
+  },
+  {
+    "id": "MPLB_KEU_19",
+    "pertanyaan": "Berikut ini yang termasuk pengeluaran rutin kantor yang dibayar pakai kas kecil adalah...",
+    "opsi": [
+      "Membeli gedung kantor baru",
+      "Membeli mobil dinas",
+      "Membangun gudang",
+      "Membayar langganan koran/majalah kantor",
+      "Penelitian pasar skala internasional"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Nilainya kecil dan terjadi secara rutin."
+  },
+  {
+    "id": "MPLB_KEU_20",
+    "pertanyaan": "Dokumen yang menunjukkan rincian gaji yang diterima pegawai beserta potongannya disebut...",
+    "opsi": [
+      "Kuitansi Gaji",
+      "Faktur Gaji",
+      "Nota Gaji",
+      "Buku Gaji",
+      "Slip Gaji / Payroll Slip"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Slip gaji berfungsi sebagai transparansi rincian penghasilan bagi pegawai."
+  },
+  {
+    "id": "MPLB_KEU_21",
+    "pertanyaan": "Bentuk formulir yang digunakan untuk mencatat pengeluaran kas kecil adalah...",
+    "opsi": [
+      "Bukti Kas Keluar (BKK)",
+      "Surat Pesanan",
+      "Bukti Kas Masuk (BKM)",
+      "Nota Debet",
+      "Surat Jalan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "BKK dilampiri dengan struk/nota pembelian sebagai bukti pendukung."
+  },
+  {
+    "id": "MPLB_KEU_22",
+    "pertanyaan": "Apa fungsi Materai pada dokumen keuangan (seperti kuitansi nominal besar)?",
+    "opsi": [
+      "Sebagai lem perekat",
+      "Sebagai pajak atas dokumen hukum (Bea Meterai)",
+      "Sebagai hiasan agar cantik",
+      "Sebagai bukti sudah lunas",
+      "Sebagai tanda tangan pimpinan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Memberikan aspek hukum yang lebih kuat pada dokumen perdata."
+  },
+  {
+    "id": "MPLB_KEU_23",
+    "pertanyaan": "Berapa nominal Bea Meterai tunggal yang berlaku di Indonesia saat ini?",
+    "opsi": [
+      "Rp 3.000",
+      "Rp 6.000",
+      "Rp 10.000",
+      "Rp 2.000",
+      "Rp 500"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pemerintah memberlakukan tarif tunggal materai Rp 10.000 sejak tahun 2021."
+  },
+  {
+    "id": "MPLB_KEU_24",
+    "pertanyaan": "Audit Keuangan Perkantoran bertujuan untuk...",
+    "opsi": [
+      "Menghabiskan waktu luang",
+      "Membeli barang mewah",
+      "Mempromosikan keryawan",
+      "Memastikan kebenaran, kepatuhan, dan efisiensi penggunaan dana kantor",
+      "Menghapus data penting"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Audit mencegah terjadinya penyimpangan atau kebocoran dana perusahaan."
+  },
+  {
+    "id": "MPLB_KEU_25",
+    "pertanyaan": "Laporan yang menunjukkan hasil usaha (pendapatan vs beban) perusahaan selama satu periode disebut...",
+    "opsi": [
+      "Neraca",
+      "Laporan Persediaan",
+      "Buku Pembantu",
+      "Jurnal Umum",
+      "Laporan Laba Rugi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jika pendapatan > beban maka Laba, jika sebaliknya maka Rugi."
+  },
+  {
+    "id": "MPLB_KEU_26",
+    "pertanyaan": "Apa kelemahan utama sistem kas kecil Dana Berubah (Fluktuasi)?",
+    "opsi": [
+      "Membutuhkan ketelitian tinggi karena sering menjurnal",
+      "Saldonya tidak pernah ganti",
+      "Saldo kas di buku besar tidak mencerminkan saldo uang di tangan",
+      "Saldonya sulit diketahui setiap saat karena tidak dijurnal rutin",
+      "Hanya boleh pakai koin"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Karena setiap pengeluaran harus langsung dijurnal, admin harus bekerja lebih sering."
+  },
+  {
+    "id": "MPLB_KEU_27",
+    "pertanyaan": "Pihak yang memberikan dana kas kecil kepada sekretaris adalah...",
+    "opsi": [
+      "Customer",
+      "Bendahara Umum / Kasir Pusat",
+      "Direktur",
+      "Pemasok ATK",
+      "Petugas Pajak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kas pusat mencairkan dana awal bagi kas kecil departemen."
+  },
+  {
+    "id": "MPLB_KEU_28",
+    "pertanyaan": "Istilah 'Petty Cash' berasal dari bahasa Inggris yang berarti...",
+    "opsi": [
+      "Uang Besar",
+      "Uang Kertas",
+      "Uang Kecil",
+      "Uang Logam",
+      "Uang Haram"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Petty berarti kecil atau sepele. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Uang Kecil\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "MPLB_KEU_29",
+    "pertanyaan": "Pengeluaran kas kecil untuk pembelian perangko dan materai dicatat pada akun...",
+    "opsi": [
+      "Beban Gaji",
+      "Beban Air",
+      "Beban Sewa",
+      "Beban Pos dan Materai",
+      "Pendapatan Lain"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ini termasuk dalam biaya korespondensi kantor."
+  },
+  {
+    "id": "MPLB_KEU_30",
+    "pertanyaan": "Pemeriksaan kas secara mendadak (Cash Opname) dilakukan untuk...",
+    "opsi": [
+      "Mencuri uang",
+      "Menghias kantor",
+      "Membayar iuran bulanan",
+      "Menemukan dompet hilang",
+      "Mencocokkan kebenaran saldo buku dengan saldo fisik uang tunai"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sangat efektif untuk menjaga integritas pemegang kas agar tidak menyalahgunakan dana."
+  },
+  {
+    "id": "MPLB_KEU_31",
+    "pertanyaan": "Rekening Koran (Bank Statement) adalah catatan transaksi yang dikeluarkan oleh...",
+    "opsi": [
+      "Bank",
+      "Perusahaan",
+      "Kantor Pajak",
+      "Polisi",
+      "Karyawan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Nasabah bisa memintanya setiap bulan untuk keperluan rekonsiliasi."
+  },
+  {
+    "id": "MPLB_KEU_32",
+    "pertanyaan": "Pengisian saldo awal kas kecil pada sistem Dana Tetap menggunakan jurnal...",
+    "opsi": [
+      "Beban (D), Kas (K)",
+      "Kas Kecil (D), Kas (K)",
+      "Kas (D), Kas Kecil (K)",
+      "Laba (D), Rugi (K)",
+      "Modal (D), Kas Kecil (K)"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Ini adalah tahap pembentukan (creation) dana kas kecil."
+  },
+  {
+    "id": "MPLB_KEU_33",
+    "pertanyaan": "Alat bantu hitung yang wajib ada di meja administrator keuangan adalah...",
+    "opsi": [
+      "Penggaris",
+      "Pensil Warna",
+      "Kalkulator",
+      "Gunting",
+      "Lem"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Untuk memastikan akurasi perhitungan angka-angka nominal besar."
+  },
+  {
+    "id": "MPLB_KEU_34",
+    "pertanyaan": "Sikap utama yang harus dimiliki administrator keuangan adalah...",
+    "opsi": [
+      "Boros",
+      "Pemberani tapi ceroboh",
+      "Pemalas",
+      "Jujur dan Teliti",
+      "Suka foya-foya"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Keuangan bersifat sensitif, satu angka salah berakibat fatal (error)."
+  },
+  {
+    "id": "MPLB_KEU_35",
+    "pertanyaan": "Penyimpanan arsip bukti transaksi sebaiknya disusun secara...",
+    "opsi": [
+      "Acak (Sembarang)",
+      "Berdasarkan warna kertas",
+      "Berdasarkan berat kertas",
+      "Berdasarkan perasaan admin",
+      "Kronologis (Berdasarkan urutan tanggal)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Urutan tanggal memudahkan pencarian kembali saat diperlukan."
+  },
+  {
+    "id": "MPLB_KEU_36",
+    "pertanyaan": "NPWP adalah identitas yang diperlukan untuk urusan...",
+    "opsi": [
+      "Perpajakan",
+      "Kesehatan",
+      "Pendidikan",
+      "Transportasi",
+      "Olahraga"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Nomor Pokok Wajib Pajak. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Perpajakan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "MPLB_KEU_37",
+    "pertanyaan": "Apa itu 'Cash Flow'?",
+    "opsi": [
+      "Uang yang membeku",
+      "Aliran masuk dan keluarnya kas di perusahaan",
+      "Uang yang hilang",
+      "Pinjaman bank",
+      "Harga emas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Manajemen cash flow yang baik menjaga likuiditas perusahaan tetap aman."
+  },
+  {
+    "id": "MPLB_KEU_38",
+    "pertanyaan": "Budgeting (Penganggaran) kantor dilakukan agar...",
+    "opsi": [
+      "Supaya uang cepat habis",
+      "Pimpinan bisa belanja pribadi",
+      "Penggunaan dana terencana, terukur, dan tidak boros",
+      "Mencegah admin bekerja",
+      "Menghapus data keryawan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Anggaran menjadi acuan plafon pengeluaran maksimal."
+  },
+  {
+    "id": "MPLB_KEU_39",
+    "pertanyaan": "Penggunaan internet banking untuk transfer antar rekening bisnis sangat efisien karena...",
+    "opsi": [
+      "Tidak bisa dilacak",
+      "Uang bisa berlipat ganda",
+      "Bisa dapat hadiah undian setiap hari",
+      "Hemat waktu, biaya, dan transaksi bisa dilakukan kapan saja",
+      "Tidak perlu sinyal internet"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Digitalisasi mempercepat siklus transaksi bisnis."
+  },
+  {
+    "id": "MPLB_KEU_40",
+    "pertanyaan": "Dokumen pendukung (Source Documents) bagi faktur penjualan adalah...",
+    "opsi": [
+      "Ijazah direktur",
+      "Foto produk",
+      "Buku tamu",
+      "Koran hari ini",
+      "Surat Jalan dan Surat Pesanan (PO)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Membuktikan bahwa barang benar-benar dikirim dan ada pesanan sebelumnya."
+  },
+  {
+    "id": "MPLB_KEU_41",
+    "pertanyaan": "Akun 'Bank Charge' di laporan bank merujuk pada...",
+    "opsi": [
+      "Biaya administrasi bank atas layanan yang diberikan",
+      "Bunga bank",
+      "Hadiah dari bank",
+      "Saldo minimal",
+      "Denda pajak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Biasanya didebet otomatis oleh bank setiap bulan."
+  },
+  {
+    "id": "MPLB_KEU_42",
+    "pertanyaan": "Akun 'Interest Revenue' di laporan bank merujuk pada...",
+    "opsi": [
+      "Biaya kartu kredit",
+      "Pendapatan bunga dari saldo yang mengendap",
+      "Denda telat bayar",
+      "Gaji pegawai bank",
+      "Biaya cetak buku"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Uang perusahaan di bank menghasilkan jasa giro atau bunga."
+  },
+  {
+    "id": "MPLB_KEU_43",
+    "pertanyaan": "Apa itu 'Inflow' dalam manajemen kas?",
+    "opsi": [
+      "Uang keluar",
+      "Uang yang dipinjamkan",
+      "Uang masuk ke perusahaan",
+      "Uang yang dibuang",
+      "Uang palsu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Inflow berasal dari penjualan, pelunasan piutang, atau investasi masuk."
+  },
+  {
+    "id": "MPLB_KEU_44",
+    "pertanyaan": "Apa itu 'Outflow' dalam manajemen kas?",
+    "opsi": [
+      "Uang masuk",
+      "Uang yang disimpan di brankas",
+      "Uang yang bertambah",
+      "Uang keluar dari perusahaan",
+      "Uang bantuan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Outflow digunakan untuk beli barang, bayar gaji, biaya operasional, dan cicilan utang."
+  },
+  {
+    "id": "MPLB_KEU_45",
+    "pertanyaan": "Penyimpanan uang tunai dalam jumlah besar di kantor sebaiknya menggunakan...",
+    "opsi": [
+      "Laci meja biasa",
+      "Amplop kertas",
+      "Dibawah bantal",
+      "Tas plastik",
+      "Brankas (Safety Box) yang kuat dan tahan api"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Untuk faktor keamanan dari pencurian dan risiko kebakaran."
+  },
+  {
+    "id": "MPLB_KEU_46",
+    "pertanyaan": "Kartu nama, penggaris, penghapus, dan stapler dalam administrasi keuangan kantor masuk dalam kategori...",
+    "opsi": [
+      "Perlengkapan Kantor (Supplies)",
+      "Aktiva Tetap",
+      "Peralatan Besar",
+      "Jasa Guru",
+      "Hasil Produksi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Barang habis pakai yang mendukung pekerjaan admin."
+  },
+  {
+    "id": "MPLB_KEU_47",
+    "pertanyaan": "Apa itu 'Imprest Fund'?",
+    "opsi": [
+      "Sistem undian berhadiah",
+      "Sistem kas kecil dengan saldo tetap",
+      "Suku bunga bank",
+      "Audit internal",
+      "Metode hitung cepat"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dana cadangan yang jumlahnya telah ditentukan pimpinan."
+  },
+  {
+    "id": "MPLB_KEU_48",
+    "pertanyaan": "Laporan pengeluaran kas kecil yang telah dibuat sekretaris harus diverifikasi oleh...",
+    "opsi": [
+      "Petugas Kebersihan",
+      "Siapapun yang lewat",
+      "Atasan Langsung atau Bagian Akuntansi",
+      "Customer",
+      "Keluarga"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Verifikasi untuk mencegah manipulasi angka pengeluaran."
+  },
+  {
+    "id": "MPLB_KEU_49",
+    "pertanyaan": "Jika saldo kas di buku besar Rp 2.000.000 tapi uang fisik Rp 1.950.000, maka terjadi...",
+    "opsi": [
+      "Selisih Kas Lebih",
+      "Saldo Normal",
+      "Laba Besar",
+      "Selisih Kas Kurang",
+      "Bonus Admin"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ada kekurangan uang fisik sebesar Rp 50.000."
+  },
+  {
+    "id": "MPLB_KEU_50",
+    "pertanyaan": "Bukti transaksi yang sah adalah yang memiliki...",
+    "opsi": [
+      "Warna warni",
+      "Hanya Nama",
+      "Hanya Angka",
+      "Foto Penjual",
+      "Nama, Tanggal, Nominal, Tujuan, dan Tanda Tangan/Stempel"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Syarat minimal agar transaksi dapat dipertanggungjawabkan keasliannya."
+  }
+]

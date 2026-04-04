@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMA_FIS_01",
+    "pertanyaan": "Sebuah benda bergerak dengan kecepatan tetap 10 m/s selama 5 detik. Jarak yang ditempuh adalah...",
+    "opsi": [
+      "50 m",
+      "2 m",
+      "15 m",
+      "100 m",
+      "25 m"
+    ],
+    "jawaban": 0,
+    "pembahasan": "s = v * t = 10 * 5 = 50 meter. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"50 m\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_FIS_02",
+    "pertanyaan": "Satuan dari gaya dalam Sistem Internasional (SI) adalah...",
+    "opsi": [
+      "Watt",
+      "Newton",
+      "Joule",
+      "Pascal",
+      "Volt"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Newton (N) adalah satuan gaya, didefinisikan sebagai kg m/s^2."
+  },
+  {
+    "id": "SMA_FIS_03",
+    "pertanyaan": "Hukum I Newton sering disebut juga sebagai hukum...",
+    "opsi": [
+      "Aksi Reaksi",
+      "F = m.a",
+      "Kelembaman (Inersia)",
+      "Gravitasi",
+      "Kekekalan Energi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hukum I Newton menyatakan benda cenderung mempertahankan keadaannya (diam atau bergerak lurus beraturan)."
+  },
+  {
+    "id": "SMA_FIS_04",
+    "pertanyaan": "Sebuah mobil bermassa 1000 kg dipercepat dengan percepatan 2 m/s^2. Gaya yang bekerja adalah...",
+    "opsi": [
+      "500 N",
+      "1000 N",
+      "3000 N",
+      "2000 N",
+      "4000 N"
+    ],
+    "jawaban": 3,
+    "pembahasan": "F = m * a = 1000 * 2 = 2000 Newton. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"2000 N\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_FIS_05",
+    "pertanyaan": "Energi yang dimiliki benda karena kedudukannya (ketinggian) disebut...",
+    "opsi": [
+      "Energi Kinetik",
+      "Energi Kalor",
+      "Energi Listrik",
+      "Energi Pegas",
+      "Energi Potensial"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ep = m * g * h, sangat bergantung pada ketinggian benda."
+  },
+  {
+    "id": "SMA_FIS_06",
+    "pertanyaan": "Usaha yang dilakukan untuk memindahkan benda sejauh 5 m dengan gaya 20 N searah perpindahan adalah...",
+    "opsi": [
+      "100 Joule",
+      "4 Joule",
+      "15 Joule",
+      "25 Joule",
+      "200 Joule"
+    ],
+    "jawaban": 0,
+    "pembahasan": "W = F * s = 20 * 5 = 100 Joule. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"100 Joule\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_FIS_07",
+    "pertanyaan": "Perpindahan kalor yang disertai dengan perpindahan partikel zatnya disebut...",
+    "opsi": [
+      "Konduksi",
+      "Konveksi",
+      "Radiasi",
+      "Evaporasi",
+      "Sublimasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Konveksi terjadi pada zat cair dan gas akibat aliran molekul."
+  },
+  {
+    "id": "SMA_FIS_08",
+    "pertanyaan": "Besarnya kalor yang diperlukan untuk menaikkan suhu 1 kg air sebesar 1 derajat Celcius disebut...",
+    "opsi": [
+      "Kapasitas Kalor",
+      "Kalor Lebur",
+      "Kalor Jenis",
+      "Kalor Uap",
+      "Asas Black"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kalor jenis air adalah energi spesifik per massa per kenaikan suhu."
+  },
+  {
+    "id": "SMA_FIS_09",
+    "pertanyaan": "Alat optik yang digunakan untuk melihat benda-benda yang sangat kecil adalah...",
+    "opsi": [
+      "Teleskop",
+      "Kamera",
+      "Lup (Kaca Pembesar)",
+      "Mikroskop",
+      "Periskop"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mikroskop menggunakan sistem lensa objektif dan okuler untuk perbesaran ekstrem."
+  },
+  {
+    "id": "SMA_FIS_10",
+    "pertanyaan": "Cermin yang sifatnya selalu menghasilkan bayangan maya, tegak, dan diperkecil adalah...",
+    "opsi": [
+      "Cermin Datar",
+      "Cermin Cekung",
+      "Cermin Ganda",
+      "Lensa Cekung",
+      "Cermin Cembung"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Cermin cembung (seperti spion mobil) memiliki sifat divergen dan memperkecil bayangan."
+  },
+  {
+    "id": "SMA_FIS_11",
+    "pertanyaan": "Bunyi tidak dapat merambat melalui...",
+    "opsi": [
+      "Ruang Hampa",
+      "Udara",
+      "Air",
+      "Besi",
+      "Kayu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bunyi adalah gelombang mekanik yang memerlukan medium (zat perantara) untuk merambat."
+  },
+  {
+    "id": "SMA_FIS_12",
+    "pertanyaan": "Perubahan frekuensi bunyi akibat gerak relatif antara sumber bunyi dan pendengar disebut...",
+    "opsi": [
+      "Efek Fotolistrik",
+      "Efek Doppler",
+      "Efek Rumah Kaca",
+      "Efek Tyndall",
+      "Resonansi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh: suara sirine ambulans yang terdengar lebih tinggi saat mendekat."
+  },
+  {
+    "id": "SMA_FIS_13",
+    "pertanyaan": "Hukum yang menyatakan bahwa gaya tarik-menarik antara dua muatan listrik sebanding dengan perkalian muatan dan berbanding terbalik dengan kuadrat jarak adalah...",
+    "opsi": [
+      "Hukum Ohm",
+      "Hukum Kirchhoff",
+      "Hukum Coulomb",
+      "Hukum Faraday",
+      "Hukum Lorentz"
+    ],
+    "jawaban": 2,
+    "pembahasan": "F = k * q1 * q2 / r^2. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Hukum Coulomb\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_FIS_14",
+    "pertanyaan": "Alat yang digunakan untuk mengukur kuat arus listrik adalah...",
+    "opsi": [
+      "Voltmeter",
+      "Ohmmeter",
+      "Barometer",
+      "Amperemeter",
+      "Termometer"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Amperemeter dipasang secara seri dalam rangkaian untuk mengukur arus (Ampere)."
+  },
+  {
+    "id": "SMA_FIS_15",
+    "pertanyaan": "Dalam rangkaian hambatan seri (R1 dan R2), hambatan penggantinya adalah...",
+    "opsi": [
+      "1/R1 + 1/R2",
+      "R1 * R2",
+      "R1 - R2",
+      "R1 / R2",
+      "R1 + R2"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Hambatan total seri adalah jumlahan langsung dari semua hambatan."
+  },
+  {
+    "id": "SMA_FIS_16",
+    "pertanyaan": "Lampu yang bertuliskan 220V, 40W memiliki hambatan sebesar...",
+    "opsi": [
+      "1210 Ohm",
+      "100 Ohm",
+      "5.5 Ohm",
+      "8800 Ohm",
+      "40 Ohm"
+    ],
+    "jawaban": 0,
+    "pembahasan": "P = V^2 / R -> R = V^2 / P = 220*220 / 40 = 1210 Ohm."
+  },
+  {
+    "id": "SMA_FIS_17",
+    "pertanyaan": "Penemu induksi elektromagnetik adalah...",
+    "opsi": [
+      "Albert Einstein",
+      "Michael Faraday",
+      "Isaac Newton",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Hukum Faraday menjelaskan bagaimana perubahan medan magnet menghasilkan arus listrik (GGL Induksi)."
+  },
+  {
+    "id": "SMA_FIS_18",
+    "pertanyaan": "Gaya magnetik yang bekerja pada kawat berarus dalam medan magnet disebut...",
+    "opsi": [
+      "Gaya Coulomb",
+      "Gaya Gravitasi",
+      "Gaya Lorentz",
+      "Gaya Gesek",
+      "Gaya Centripetal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "FL = B * I * L * sin(theta). Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Gaya Lorentz\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_FIS_19",
+    "pertanyaan": "Cahaya memiliki sifat sebagai partikel sekaligus gelombang, teori ini disebut...",
+    "opsi": [
+      "Relativitas",
+      "Radiasi Benda Hitam",
+      "Teori Big Bang",
+      "Dualisme Cahaya",
+      "Hukum Optik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Cahaya menunjukkan sifat gelombang (interferensi) dan partikel (efek fotolistrik)."
+  },
+  {
+    "id": "SMA_FIS_20",
+    "pertanyaan": "Waktu yang diperlukan untuk melakukan satu kali getaran penuh disebut...",
+    "opsi": [
+      "Frekuensi",
+      "Amplitudo",
+      "Panjang Gelombang",
+      "Cepat Rambat",
+      "Periode"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Periode (T) berbanding terbalik dengan frekuensi (f)."
+  },
+  {
+    "id": "SMA_FIS_21",
+    "pertanyaan": "Bagus sedang mendorong tembok rumahnya dengan gaya 500 N, namun tembok tidak bergerak. Usaha yang dilakukan Bagus adalah...",
+    "opsi": [
+      "0 Joule",
+      "500 Joule",
+      "250 Joule",
+      "5000 Joule",
+      "Tak terhingga"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Usaha (W) = Gaya * Perpindahan. Jika perpindahan 0, maka usaha 0."
+  },
+  {
+    "id": "SMA_FIS_22",
+    "pertanyaan": "Sebuah transformator step-up berfungsi untuk...",
+    "opsi": [
+      "Menurunkan tegangan",
+      "Menaikkan tegangan",
+      "Menyearahkan arus",
+      "Menyimpan energi",
+      "Mengukur hambatan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Step-up menaikkan tegangan AC dengan perbandingan jumlah lilitan sekunder > primer."
+  },
+  {
+    "id": "SMA_FIS_23",
+    "pertanyaan": "Planet yang memiliki periode revolusi paling lama adalah yang...",
+    "opsi": [
+      "Ukurannya paling besar",
+      "Paling dekat dengan matahari",
+      "Jaraknya paling jauh dari matahari",
+      "Banyak memiliki satelit",
+      "Berwarna merah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hukum III Kepler menyatakan kuadrat periode sebanding dengan pangkat tiga jarak rata-rata ke matahari."
+  },
+  {
+    "id": "SMA_FIS_24",
+    "pertanyaan": "Apa penyusun utama inti atom?",
+    "opsi": [
+      "Proton dan Elektron",
+      "Elektron dan Neutron",
+      "Hanya Proton",
+      "Proton dan Neutron",
+      "Molekul"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Inti atom (nukleus) terdiri dari proton (positif) dan neutron (netral)."
+  },
+  {
+    "id": "SMA_FIS_25",
+    "pertanyaan": "Logam memuai jika dipanaskan karena...",
+    "opsi": [
+      "Massa jenisnya bertambah",
+      "Beratnya bertambah",
+      "Warnanya berubah",
+      "Logam menjadi lunak",
+      "Partikelnya bergetar lebih hebat dan menjauh"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kenaikan suhu meningkatkan energi kinetik partikel sehingga menempati ruang lebih luas."
+  },
+  {
+    "id": "SMA_FIS_26",
+    "pertanyaan": "Berapakah percepatan gravitasi bumi yang sering digunakan dalam soal fisika SMA?",
+    "opsi": [
+      "9.8 m/s^2 atau 10 m/s^2",
+      "1 m/s^2",
+      "5 m/s^2",
+      "20 m/s^2",
+      "100 m/s^2"
+    ],
+    "jawaban": 0,
+    "pembahasan": "g standar adalah 9.8 m/s^2, dibulatkan menjadi 10 untuk kemudahan hitung."
+  },
+  {
+    "id": "SMA_FIS_27",
+    "pertanyaan": "Besaran yang hanya memiliki nilai (besar) tanpa arah disebut besaran...",
+    "opsi": [
+      "Vektor",
+      "Skalar",
+      "Turunan",
+      "Pokok",
+      "Dimensi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh besaran skalar: massa, waktu, suhu, energi."
+  },
+  {
+    "id": "SMA_FIS_28",
+    "pertanyaan": "Manakah yang merupakan besaran vektor?",
+    "opsi": [
+      "Massa",
+      "Waktu",
+      "Kecepatan",
+      "Suhu",
+      "Panjang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kecepatan memiliki besar dan arah (misal: 10 m/s ke utara)."
+  },
+  {
+    "id": "SMA_FIS_29",
+    "pertanyaan": "Alat ukur yang memiliki ketelitian 0.01 mm adalah...",
+    "opsi": [
+      "Mistar",
+      "Jangka Sorong",
+      "Neraca Ohauss",
+      "Mikrometer Sekrup",
+      "Stopwatch"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mikrometer sekrup digunakan untuk mengukur ketebalan benda tipis seperti kertas/kawat."
+  },
+  {
+    "id": "SMA_FIS_30",
+    "pertanyaan": "Tekanan hidrostatik pada suatu titik di dalam air bergantung pada...",
+    "opsi": [
+      "Luas alas wadah",
+      "Bentuk wadah",
+      "Warna air",
+      "Volume air total",
+      "Massa jenis, Gravitasi, dan Kedalaman"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ph = rho * g * h. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Massa jenis, Gravitasi, dan Kedalaman\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_FIS_31",
+    "pertanyaan": "Hukum Archimedes menyatakan bahwa gaya apung yang dialami benda di dalam zat cair sama dengan...",
+    "opsi": [
+      "Berat zat cair yang dipindahkan",
+      "Massa benda tersebut",
+      "Volume benda tersebut",
+      "Kerapatan zat cair",
+      "Berat benda di udara"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Gaya ke atas = Berat fluida yang terdesak."
+  },
+  {
+    "id": "SMA_FIS_32",
+    "pertanyaan": "Suatu termometer menunjukkan 40 derajat Celcius. Jika diukur dengan Reamur adalah...",
+    "opsi": [
+      "50 R",
+      "32 R",
+      "80 R",
+      "100 R",
+      "20 R"
+    ],
+    "jawaban": 1,
+    "pembahasan": "R = 4/5 * C = 4/5 * 40 = 32 R. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"32 R\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_FIS_33",
+    "pertanyaan": "Energi kinetik gas ideal berbanding lurus dengan...",
+    "opsi": [
+      "Volume gas",
+      "Tekanan gas",
+      "Suhu mutlak (Kelvin)",
+      "Massa gas",
+      "Jumlah partikel"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Ek = 3/2 * k * T. Jika suhu naik, energi gerak partikel gas naik."
+  },
+  {
+    "id": "SMA_FIS_34",
+    "pertanyaan": "Sebuah lensa cembung memiliki fokus 10 cm. Kekuatan lensanya adalah...",
+    "opsi": [
+      "1 Dioptri",
+      "0.1 Dioptri",
+      "100 Dioptri",
+      "10 Dioptri",
+      "5 Dioptri"
+    ],
+    "jawaban": 3,
+    "pembahasan": "P = 100/f(cm) = 100/10 = 10 Dioptri. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"10 Dioptri\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_FIS_35",
+    "pertanyaan": "Kacamata untuk penderita rabun jauh (Miopi) menggunakan lensa...",
+    "opsi": [
+      "Cembung (Positif)",
+      "Silindris",
+      "Datar",
+      "Ganda",
+      "Cekung (Negatif)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Lensa cekung membantu memindahkan bayangan yang jatuh di depan retina agar tepat di retina."
+  },
+  {
+    "id": "SMA_FIS_36",
+    "pertanyaan": "Indeks bias air adalah 1.33. Ini berarti cahaya di air bergerak...",
+    "opsi": [
+      "Lebih lambat dari di udara",
+      "Lebih cepat dari di udara",
+      "Sama cepat",
+      "Tidak bisa merambat",
+      "Berbelok 90 derajat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Semakin besar indeks bias (n), semakin rapat medium, dan semakin lambat kecepatan cahaya (v = c/n)."
+  },
+  {
+    "id": "SMA_FIS_37",
+    "pertanyaan": "Persamaan Gas Ideal adalah...",
+    "opsi": [
+      "F = ma",
+      "PV = nRT",
+      "V = IR",
+      "Ek = 1/2 mv^2",
+      "Ep = mgh"
+    ],
+    "jawaban": 1,
+    "pembahasan": "P (Tekanan), V (Volume), n (Mol), R (Konstanta), T (Suhu Kelvin)."
+  },
+  {
+    "id": "SMA_FIS_38",
+    "pertanyaan": "Mesin Carnot bekerja pada suhu tinggi 600K dan rendah 300K. Efisiensinya adalah...",
+    "opsi": [
+      "25%",
+      "75%",
+      "50%",
+      "100%",
+      "0%"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Efisiensi = (1 - Tr/Tt) * 100% = (1 - 300/600) * 100% = 50%."
+  },
+  {
+    "id": "SMA_FIS_39",
+    "pertanyaan": "Radiasi yang dipancarkan oleh benda hitam panas disebut...",
+    "opsi": [
+      "Sinar X",
+      "Sinar Gamma",
+      "Ultraviolet",
+      "Inframerah",
+      "Cahaya Tampak"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Setiap benda panas memancarkan energi gelombang elektromagnetik dalam bentuk panas (inframerah)."
+  },
+  {
+    "id": "SMA_FIS_40",
+    "pertanyaan": "Satu liter sama dengan...",
+    "opsi": [
+      "1 cm^3",
+      "1 m^3",
+      "100 ml",
+      "1000 dm^3",
+      "1 dm^3"
+    ],
+    "jawaban": 4,
+    "pembahasan": "1 Liter = 1 dm^3 = 1000 cm^3. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"1 dm^3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_FIS_41",
+    "pertanyaan": "Peristiwa perpaduan dua buah gelombang atau lebih disebut...",
+    "opsi": [
+      "Interferensi",
+      "Difraksi",
+      "Refraksi",
+      "Polarisasi",
+      "Dispersi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Interferensi dapat bersifat saling menguatkan (konstruktif) atau melemahkan (destruktif)."
+  },
+  {
+    "id": "SMA_FIS_42",
+    "pertanyaan": "Siapa fisikawan yang merumuskan E = mc^2?",
+    "opsi": [
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Stephen Hawking",
+      "Marie Curie",
+      "Ernest Rutherford"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Rumus ini menyatakan kesetaraan antara massa dan energi dalam teori relativitas."
+  },
+  {
+    "id": "SMA_FIS_43",
+    "pertanyaan": "Tegangan bolak-balik (AC) di rumah-rumah di Indonesia umumnya memiliki frekuensi...",
+    "opsi": [
+      "10 Hz",
+      "100 Hz",
+      "50 Hz",
+      "220 Hz",
+      "1000 Hz"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Standar kelistrikan PLN menggunakan 220V dan frekuensi 50 Hz."
+  },
+  {
+    "id": "SMA_FIS_44",
+    "pertanyaan": "Energi yang dihasilkan dari pemecahan inti atom berat (seperti Uranium) disebut...",
+    "opsi": [
+      "Fusi Nuklir",
+      "Reaksi Kimia",
+      "Energi Panas Bumi",
+      "Fisi Nuklir",
+      "Listrik Statis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Fisi adalah pembelahan inti, sedangkan Fusi adalah penggabungan inti (seperti di matahari)."
+  },
+  {
+    "id": "SMA_FIS_45",
+    "pertanyaan": "Apa itu 'Hambatan Jenis' suatu penghantar?",
+    "opsi": [
+      "Gaya hambat udara",
+      "Alat untuk memutus arus",
+      "Satuan dari tegangan",
+      "Sifat magnet kawat",
+      "Besaran yang bergantung pada jenis bahan penghantar"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Hambatan jenis (rho) menentukan seberapa baik suatu material menghantarkan listrik."
+  },
+  {
+    "id": "SMA_FIS_46",
+    "pertanyaan": "Suhu terendah yang mungkin dicapai (Nol Mutlak) adalah...",
+    "opsi": [
+      "0 derajat Kelvin (-273.15 C)",
+      "0 derajat Celcius",
+      "-100 derajat Celcius",
+      "0 derajat Fahrenheit",
+      "-273 derajat Kelvin"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pada 0 K, partikel dianggap berhenti bergerak secara total."
+  },
+  {
+    "id": "SMA_FIS_47",
+    "pertanyaan": "Sebuah benda jatuh bebas dari ketinggian 20 m. Kecepatannya saat menyentuh tanah adalah...",
+    "opsi": [
+      "10 m/s",
+      "20 m/s",
+      "30 m/s",
+      "40 m/s",
+      "200 m/s"
+    ],
+    "jawaban": 1,
+    "pembahasan": "v = sqrt(2gh) = sqrt(2 * 10 * 20) = sqrt(400) = 20 m/s."
+  },
+  {
+    "id": "SMA_FIS_48",
+    "pertanyaan": "Perpanjangan pegas sebanding dengan gaya yang diberikan. Ini adalah Hukum...",
+    "opsi": [
+      "Hukum Pascal",
+      "Hukum Bernoulli",
+      "Hukum Hooke",
+      "Hukum Kepler",
+      "Hukum Joule"
+    ],
+    "jawaban": 2,
+    "pembahasan": "F = k * delta_x. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hukum Hooke\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_FIS_49",
+    "pertanyaan": "Fluida yang mengalir pada pipa yang menyempit akan memiliki kecepatan yang...",
+    "opsi": [
+      "Lebih Lambat",
+      "Sama saja",
+      "Berhenti",
+      "Lebih Cepat",
+      "Berputar-putar"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Berdasarkan azas kontinuitas (A1.v1 = A2.v2), semakin kecil luas penampang, semakin besar kecepatannya."
+  },
+  {
+    "id": "SMA_FIS_50",
+    "pertanyaan": "Gaya total yang bekerja pada benda diam atau bergerak dengan kecepatan konstan adalah...",
+    "opsi": [
+      "Maksimum",
+      "Minimum",
+      "Sama dengan beratnya",
+      "Sama dengan gaya gesek",
+      "Nol"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sesuai Hukum I Newton, Sigma F = 0. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Nol\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

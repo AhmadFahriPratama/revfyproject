@@ -1,0 +1,652 @@
+[
+  {
+    "id": "BD_MD_01",
+    "pertanyaan": "Aktivitas menyampaikan pesan mengenai keunggulan produk kepada khalayak luas disebut...",
+    "opsi": [
+      "Promosi",
+      "Produksi",
+      "Distribusi",
+      "Konsumsi",
+      "Inventarisasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Promosi bertujuan menginformasikan dan membujuk konsumen agar tertarik membeli produk."
+  },
+  {
+    "id": "BD_MD_02",
+    "pertanyaan": "Elemen bauran pemasaran (Marketing Mix) yang berkaitan dengan jalur penyaluran produk dari produsen ke konsumen adalah...",
+    "opsi": [
+      "Product",
+      "Place",
+      "Price",
+      "Promotion",
+      "People"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Place (Tempat) mencakup lokasi penjualan dan saluran distribusi."
+  },
+  {
+    "id": "BD_MD_03",
+    "pertanyaan": "Analisis yang digunakan untuk memetakan kekuatan dan kelemahan internal perusahaan adalah...",
+    "opsi": [
+      "Analisis Pasar",
+      "Analisis Kredit",
+      "Analisis SWOT",
+      "Analisis Geografis",
+      "Analisis Jabatan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "SWOT (Strengths, Weaknesses, Opportunities, Threats) adalah alat perencanaan strategi dasar."
+  },
+  {
+    "id": "BD_MD_04",
+    "pertanyaan": "Membagi pasar menjadi kelompok berdasarkan usia, jenis kelamin, dan tingkat pendapatan disebut segmentasi...",
+    "opsi": [
+      "Geografis",
+      "Psikografis",
+      "Perilaku",
+      "Demografis",
+      "Internasional"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Demografi berkaitan dengan statistik kependudukan manusia."
+  },
+  {
+    "id": "BD_MD_05",
+    "pertanyaan": "Positioning dalam strategi pemasaran memiliki tujuan utama yaitu...",
+    "opsi": [
+      "Menurunkan harga produk semurah mungkin",
+      "Mencari bahan baku paling murah",
+      "Menghindari pajak perusahaan",
+      "Membayar gaji karyawan tepat waktu",
+      "Membangun citra atau identitas unik di benak konsumen"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Positioning membuat produk kita 'diingat' dengan cara tertentu oleh konsumen."
+  },
+  {
+    "id": "BD_MD_06",
+    "pertanyaan": "Targeting adalah proses...",
+    "opsi": [
+      "Memilih satu atau lebih segmen pasar untuk dimasuki",
+      "Memproduksi barang sebanyak-banyaknya",
+      "Menghukum karyawan yang gagal jualan",
+      "Menutup toko yang tidak laku",
+      "Melakukan survei kepuasan pelanggan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Setelah pasar disekat (segmentasi), perusahaan memilih segmen mana yang paling potensial (targeting)."
+  },
+  {
+    "id": "BD_MD_07",
+    "pertanyaan": "Promosi melalui media sosial seperti Instagram dan TikTok termasuk dalam strategi...",
+    "opsi": [
+      "Pemasaran Tradisional",
+      "Pemasaran Digital (Digital Marketing)",
+      "Pemasaran Langsung (Direct Marketing)",
+      "Pemasaran dari Pintu ke Pintu",
+      "Pemasaran Gelap"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Digital marketing memanfaatkan platform online dan perangkat teknologi untuk menjangkau audiens."
+  },
+  {
+    "id": "BD_MD_08",
+    "pertanyaan": "Salah satu kelebihan pemasaran online dibandingkan pemasaran offline adalah...",
+    "opsi": [
+      "Harus punya toko fisik yang besar",
+      "Tidak bisa diukur efektivitasnya",
+      "Jangkauan pasar lebih luas dan biaya lebih fleksibel",
+      "Membutuhkan banyak kertas brosur",
+      "Hanya untuk orang kaya"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Internet memungkinkan bisnis kecil menjangkau pasar nasional atau global dengan modal minim."
+  },
+  {
+    "id": "BD_MD_09",
+    "pertanyaan": "Zat yang diberikan sebagai bonus atau tambahan saat membeli produk tertentu untuk menarik minat disebut...",
+    "opsi": [
+      "Diskon",
+      "Cashback",
+      "Garansi",
+      "Premi (Premium)",
+      "Voucher"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penyertaan hadiah langsung (premi) adalah salah satu taktik promosi penjualan."
+  },
+  {
+    "id": "BD_MD_10",
+    "pertanyaan": "Hubungan jangka panjang dengan pelanggan agar mereka tetap setia menggunakan produk kita disebut...",
+    "opsi": [
+      "Hard Selling",
+      "Public Relations",
+      "Market Research",
+      "Mass Marketing",
+      "Customer Relationship Management (CRM)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "CRM fokus pada pengelolaan data dan interaksi nasabah untuk membangun loyalitas."
+  },
+  {
+    "id": "BD_MD_11",
+    "pertanyaan": "Strategi harga dengan menetapkan harga sangat rendah di awal produk diluncurkan untuk menguasai pasar disebut...",
+    "opsi": [
+      "Penetration Price",
+      "Skimming Price",
+      "Premium Price",
+      "Odd Price",
+      "Psychological Price"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penetrasi harga bertujuan mendapatkan volume penjualan tinggi di awal."
+  },
+  {
+    "id": "BD_MD_12",
+    "pertanyaan": "Skimming Price adalah strategi penetapan harga dengan cara...",
+    "opsi": [
+      "Memberikan harga gratis selamanya",
+      "Memasang harga tinggi di awal lalu perlahan turun",
+      "Meniru harga pesaing persis",
+      "Memakai harga ganjil (9.900)",
+      "Memberikan diskon setiap hari"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biasanya dilakukan untuk produk inovatif yang belum punya pesaing kuat."
+  },
+  {
+    "id": "BD_MD_13",
+    "pertanyaan": "Data primer dalam riset pasar diperoleh melalui...",
+    "opsi": [
+      "Internet",
+      "Buku di perpustakaan",
+      "Wawancara langsung atau Kuesioner ke konsumen",
+      "Data statistik pemerintah (BPS)",
+      "Laporan tahunan perusahaan lain"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Data primer diambil langsung dari sumber pertama (responden)."
+  },
+  {
+    "id": "BD_MD_14",
+    "pertanyaan": "Pihak yang membeli produk untuk dikonsumsi sendiri atau diberikan kepada orang lain disebut...",
+    "opsi": [
+      "Reseller",
+      "Agen",
+      "Distributor",
+      "Konsumen Akhir",
+      "Broker"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Konsumen akhir tidak menjual kembali barang tersebut untuk keuntungan."
+  },
+  {
+    "id": "BD_MD_15",
+    "pertanyaan": "Marketing Mix untuk kategori Jasa (Service) memiliki 7P. Apa saja 3P tambahannya?",
+    "opsi": [
+      "Power, Politics, Public",
+      "Planning, Production, Profit",
+      "Policy, Privacy, Partnership",
+      "Paper, Pencil, Printer",
+      "People, Process, Physical Evidence"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Karena jasa tidak berwujud, maka faktor orang, proses layanan, dan bukti fisik (gedung/fasilitas) sangat krusial."
+  },
+  {
+    "id": "BD_MD_16",
+    "pertanyaan": "Branding adalah proses...",
+    "opsi": [
+      "Menciptakan nama, simbol, dan desain yang membedakan produk",
+      "Membuat logo saja",
+      "Membungkus produk dengan plastik",
+      "Mengangkat barang ke gudang",
+      "Memberi diskon besar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Branding membangun identitas dan 'jiwa' sebuah merek agar punya nilai emosional bagi pembeli."
+  },
+  {
+    "id": "BD_MD_17",
+    "pertanyaan": "Tahap dalam siklus hidup produk (PLC) di mana keuntungan mencapai puncaknya namun persaingan mulai sangat ketat adalah...",
+    "opsi": [
+      "Introduction (Perkenalan)",
+      "Maturity (Kedewasaan)",
+      "Growth (Pertumbuhan)",
+      "Decline (Penurunan)",
+      "Death (Mati)"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Di tahap Maturity, pasar sudah jenuh dan efisiensi biaya jadi kunci bertahan."
+  },
+  {
+    "id": "BD_MD_18",
+    "pertanyaan": "Word of Mouth (WOM) Marketing berarti...",
+    "opsi": [
+      "Pemasaran lewat radio",
+      "Pemasaran menggunakan pengeras suara",
+      "Pemasaran dari mulut ke mulut (rekomendasi antar konsumen)",
+      "Pemasaran melalui koran",
+      "Pemasaran rahasia"
+    ],
+    "jawaban": 2,
+    "pembahasan": "WOM dianggap sebagai bentuk promosi paling terpercaya karena berdasarkan pengalaman nyata teman/keluarga."
+  },
+  {
+    "id": "BD_MD_19",
+    "pertanyaan": "Strategi menetapkan harga Rp 19.990 alih-alih Rp 20.000 disebut harga...",
+    "opsi": [
+      "Prestise",
+      "Obral",
+      "Grosir",
+      "Psikologis (Odd Pricing)",
+      "Pokok"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Angka ganjil di bawah angka bulat memberikan persepsi 'lebih murah' di mata pembeli."
+  },
+  {
+    "id": "BD_MD_20",
+    "pertanyaan": "Surplus konsumen terjadi apabila...",
+    "opsi": [
+      "Harga pasar lebih mahal dari kesediaan bayar",
+      "Barang tidak laku",
+      "Pemerintah menaikkan pajak",
+      "Konsumen tidak punya uang",
+      "Harga pasar lebih murah dari yang sanggup dibayar konsumen"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Konsumen merasa 'untung' karena mendapat nilai lebih tinggi dari harga yang dikeluarkan."
+  },
+  {
+    "id": "BD_MD_21",
+    "pertanyaan": "Usaha menciptakan kepuasan pelanggan dapat dilakukan dengan cara...",
+    "opsi": [
+      "Memberikan pelayanan prima dan respon cepat",
+      "Menaikkan harga mendadak",
+      "Mengabaikan komplain",
+      "Mengurangi kualitas bahan",
+      "Menutup layanan customer service"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Layanan purna jual yang baik menjaga hubungan positif dengan pelanggan."
+  },
+  {
+    "id": "BD_MD_22",
+    "pertanyaan": "Pemasaran yang ditujukan untuk organisasi/perusahaan yang akan menggunakan produk tersebut sebagai input produksi disebut...",
+    "opsi": [
+      "B2C (Business to Consumer)",
+      "B2B (Business to Business)",
+      "C2C (Consumer to Consumer)",
+      "C2B (Consumer to Business)",
+      "G2G"
+    ],
+    "jawaban": 1,
+    "pembahasan": "B2B biasanya melibatkan volume pembelian besar dan negosiasi teknis yang mendalam."
+  },
+  {
+    "id": "BD_MD_23",
+    "pertanyaan": "Platform marketplace seperti Shopee dan Tokopedia adalah contoh model bisnis...",
+    "opsi": [
+      "B2B",
+      "B2G",
+      "B2C atau C2C",
+      "E-Catalog",
+      "Broker Properti"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mereka memediasi transaksi antara penjual (toko/individu) dengan pembeli (individu)."
+  },
+  {
+    "id": "BD_MD_24",
+    "pertanyaan": "Faktor lingkungan makro yang mempengaruhi pemasaran, KECUALI...",
+    "opsi": [
+      "Politik dan Hukum",
+      "Ekonomi dan Sosial",
+      "Teknologi",
+      "Gaji Satpam Toko Sendiri",
+      "Alam"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Gaji karyawan intern termasuk lingkungan mikro/internal perusahaan."
+  },
+  {
+    "id": "BD_MD_25",
+    "pertanyaan": "Telemarketing adalah kegiatan pemasaran melalui...",
+    "opsi": [
+      "Televisi",
+      "Telegraf",
+      "Tatap muka",
+      "Surat kabar",
+      "Telepon"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Penawaran dilakukan melalui panggilan suara kepada calon nasabah."
+  },
+  {
+    "id": "BD_MD_26",
+    "pertanyaan": "Barang yang dibeli konsumen secara rutin tanpa banyak pertimbangan disebut...",
+    "opsi": [
+      "Barang Kebutuhan Sehari-hari (Convenience Goods)",
+      "Barang Mewah (Luxury)",
+      "Barang Spesial",
+      "Barang Industri",
+      "Barang Tahan Lama"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: sabun, pasta gigi, mie instan. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Barang Kebutuhan Sehari-hari (Convenience Goods)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "BD_MD_27",
+    "pertanyaan": "Promotion Mix (Bauran Promosi) terdiri dari Advertensi, Personal Selling, Sales Promotion, dan...",
+    "opsi": [
+      "Accounting",
+      "Public Relations (Humas)",
+      "Produksi",
+      "Purchasing",
+      "Recruiting"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Humas membantu menjaga reputasi positif perusahaan di mata publik."
+  },
+  {
+    "id": "BD_MD_28",
+    "pertanyaan": "Iklan berbayar di Google Search yang judulnya muncul paling atas disebut...",
+    "opsi": [
+      "SMM (Social Media Marketing)",
+      "SEO (Search Engine Optimization)",
+      "SEM (Search Engine Marketing)",
+      "Email Marketing",
+      "Content Marketing"
+    ],
+    "jawaban": 2,
+    "pembahasan": "SEM menggunakan Pay-Per-Click (PPC) agar website muncul di hasil pencarian teratas."
+  },
+  {
+    "id": "BD_MD_29",
+    "pertanyaan": "Upaya membuat website muncul di halaman pertama Google secara organik (gratis) disebut...",
+    "opsi": [
+      "SEM",
+      "Paypal",
+      "Logistik",
+      "SEO",
+      "Copywriting"
+    ],
+    "jawaban": 3,
+    "pembahasan": "SEO (Search Engine Optimization) melibatkan optimasi konten dan kata kunci."
+  },
+  {
+    "id": "BD_MD_30",
+    "pertanyaan": "Pihak ketiga yang menjembatani hubungan antara produsen dan konsumen disebut...",
+    "opsi": [
+      "Kompetitor",
+      "Supplier",
+      "Pemerintah",
+      "Masyarakat",
+      "Perantara Pemasaran (Intermediaries)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Termasuk grosir, pengecer, agen, dan logistik."
+  },
+  {
+    "id": "BD_MD_31",
+    "pertanyaan": "Dalam analisis SWOT, 'Threats' berarti...",
+    "opsi": [
+      "Ancaman eksternal",
+      "Kekuatan internal",
+      "Kelemahan internal",
+      "Peluang eksternal",
+      "Tujuan masa depan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ancaman bisa berupa munculnya pesaing baru atau perubahan regulasi pemerintah."
+  },
+  {
+    "id": "BD_MD_32",
+    "pertanyaan": "Taktik mengirimkan pesan penawaran ke kotak masuk surat elektronik konsumen disebut...",
+    "opsi": [
+      "Spam",
+      "Jawaban C dan D benar",
+      "Direct Mail",
+      "Email Marketing",
+      "Newsletter"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Email marketing adalah cara efektif menjaga engagement dengan basis pelanggan terdaftar."
+  },
+  {
+    "id": "BD_MD_33",
+    "pertanyaan": "Personal Selling adalah bentuk promosi melalui...",
+    "opsi": [
+      "Baliho di jalan raya",
+      "Iklan TV",
+      "Interaksi langsung secara tatap muka antara penjual dan pembeli",
+      "Sponsor kegiatan olahraga",
+      "Pemberian kupon undian"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sering digunakan untuk produk mahal atau teknis tinggi (seperti asuransi/alat berat)."
+  },
+  {
+    "id": "BD_MD_34",
+    "pertanyaan": "Apa kelemahan utama Promosi Penjualan (Diskon besar) jika dilakukan terlalu sering?",
+    "opsi": [
+      "Penjualan naik drastis",
+      "Stok cepat habis",
+      "Konsumen senang",
+      "Dapat merusak citra eksklusif produk dan menurunkan margin laba",
+      "Saingan bangkrut"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Konsumen akan terbiasa menunggu diskon dan menganggap harga normal terlalu mahal."
+  },
+  {
+    "id": "BD_MD_35",
+    "pertanyaan": "Gaya hidup, hobi, dan karakter kepribadian adalah dasar dari segmentasi...",
+    "opsi": [
+      "Geografis",
+      "Demografis",
+      "Ekonomis",
+      "Biologis",
+      "Psikografis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Psikografis mencoba memahami 'mengapa' orang membeli sesuatu berdasarkan minat mereka."
+  },
+  {
+    "id": "BD_MD_36",
+    "pertanyaan": "Barang yang dicari konsumen dengan membanding-bandingkan kualitas dan harga di beberapa toko disebut barang...",
+    "opsi": [
+      "Shopping Goods",
+      "Convenience Goods",
+      "Unsought Goods",
+      "Raw Materials",
+      "Fad Goods"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: baju, laptop, atau smartphone. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Shopping Goods\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "BD_MD_37",
+    "pertanyaan": "Saluran distribusi tingkat nol (Direct Channel) berarti...",
+    "opsi": [
+      "Produsen lewat Grosir lalu ke Konsumen",
+      "Produsen menjual langsung ke Konsumen",
+      "Produsen lewat Agen dan Pengecer",
+      "Daging yang dijual di pasar",
+      "Beli barang di luar negeri"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tanpa perantara manapun. Contoh: penjahit yang menjual langsung bajunya."
+  },
+  {
+    "id": "BD_MD_38",
+    "pertanyaan": "Salah satu etika dalam pemasaran adalah...",
+    "opsi": [
+      "Menjelekkan produk kompetitor habis-habisan",
+      "Menyembunyikan cacat barang agar laku",
+      "Memberikan informasi yang jujur mengenai spesifikasi produk",
+      "Memaksa orang membeli dengan ancaman",
+      "Mengambil data pribadi konsumen tanpa izin"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kejujuran membangun kepercayaan jangka panjang (Trust)."
+  },
+  {
+    "id": "BD_MD_39",
+    "pertanyaan": "Identitas visual berupa gambar atau tulisan unik yang mewakili perusahaan disebut...",
+    "opsi": [
+      "Sertifikat",
+      "Iklan",
+      "Sampul",
+      "Logo",
+      "Kwitansi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Logo mempermudah pengenalan merek secara instan."
+  },
+  {
+    "id": "BD_MD_40",
+    "pertanyaan": "Layanan keluhan pelanggan (Customer Service) sebaiknya memiliki sifat...",
+    "opsi": [
+      "Sombong",
+      "Lambat merespon",
+      "Marah-marah jika dikritik",
+      "Hanya melayani yang beli banyak",
+      "Empati dan Solutif"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Empati menenteramkan konsumen yang kecewa, solutif menyelesaikan masalah."
+  },
+  {
+    "id": "BD_MD_41",
+    "pertanyaan": "Strategi menetapkan harga di bawah harga pasar untuk menyingkirkan pesaing disebut...",
+    "opsi": [
+      "Predatory Pricing",
+      "Dynamic Pricing",
+      "Flat Pricing",
+      "Bonus Pricing",
+      "Value Pricing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sering dianggap ilegal di banyak negara karena menciptakan monopoli."
+  },
+  {
+    "id": "BD_MD_42",
+    "pertanyaan": "Barang yang tidak pernah dipikirkan untuk dibeli oleh konsumen (misal tanah makam/asuransi kematian) disebut...",
+    "opsi": [
+      "Convenience Goods",
+      "Unsought Goods",
+      "Specialty Goods",
+      "Impulse Goods",
+      "Basic Goods"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Produk ini butuh dorongan pemasaran yang kuat karena orang tidak sengaja mencarinya."
+  },
+  {
+    "id": "BD_MD_43",
+    "pertanyaan": "Apa kelebihan utama media promosi Video dibandingkan Gambar diam?",
+    "opsi": [
+      "Lebih murah biaya produksinya",
+      "Bisa dilihat tanpa internet",
+      "Lebih mampu menyampaikan alur cerita (storytelling) dan emosi",
+      "Ukurannya lebih kecil",
+      "Tidak membosankan bagi bayi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Video menggabungkan visual dan audio, sehingga lebih berpengaruh (influencing)."
+  },
+  {
+    "id": "BD_MD_44",
+    "pertanyaan": "Influencer marketing memanfaatkan...",
+    "opsi": [
+      "Pejabat pemerintah",
+      "Mesin cetak",
+      "Buruh pabrik",
+      "Orang yang memiliki pengaruh besar di media sosial",
+      "Ahli sejarah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Endorsement dari influencer meningkatkan kredibilitas produk di mata pengikutnya."
+  },
+  {
+    "id": "BD_MD_45",
+    "pertanyaan": "Copywriting dalam pemasaran adalah seni...",
+    "opsi": [
+      "Menghias kantor",
+      "Menghitung uang kembalian",
+      "Memfotokopi dokumen pajak",
+      "Mencuri desain orang lain",
+      "Menulis teks persuasif untuk tujuan promosi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Teks iklan harus menggugah rasa ingin tahu dan keinginan membeli (AIDA)."
+  },
+  {
+    "id": "BD_MD_46",
+    "pertanyaan": "Metode pembayaran COD (Cash on Delivery) berarti...",
+    "opsi": [
+      "Bayar tunai di tempat saat barang diterima",
+      "Bayar lewat ATM sebelum dikirim",
+      "Bayar menggunakan kartu kredit",
+      "Bayar nanti setelah satu bulan",
+      "Bayar menggunakan pulsa"
+    ],
+    "jawaban": 0,
+    "pembahasan": "COD memberikan rasa aman bagi pembeli yang ragu bertransaksi online."
+  },
+  {
+    "id": "BD_MD_47",
+    "pertanyaan": "Kebutuhan manusia yang bersifat unik dan ingin tampil beda masuk dalam tingkatan kebutuhan...",
+    "opsi": [
+      "Fisik",
+      "Harga Diri / Aktualisasi Diri",
+      "Keamanan",
+      "Sosial",
+      "Makan & Minum"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Berdasarkan Piramida Maslow, aktualisasi diri adalah puncak keinginan manusia."
+  },
+  {
+    "id": "BD_MD_48",
+    "pertanyaan": "Fungsi logistik dalam pemasaran mencakup kegiatan...",
+    "opsi": [
+      "Menghitung gaji",
+      "Membuat poster",
+      "Pengemasan dan Pengiriman (Warehousing & Transportation)",
+      "Melakukan audit",
+      "Merekrut sales"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Logistik menjamin ketersediaan produk di tempat dan waktu yang tepat."
+  },
+  {
+    "id": "BD_MD_49",
+    "pertanyaan": "Aspek legalitas merk dagang di Indonesia didaftarkan melalui...",
+    "opsi": [
+      "Kementerian Agama",
+      "Polsek terdekat",
+      "Dinas Pendidikan",
+      "Dirjen HAKI (Hak Kekayaan Intelektual)",
+      "Lembaga Sensor"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mendaftarkan merek melindungi hak cipta dan mencegah plagiarisme."
+  },
+  {
+    "id": "BD_MD_50",
+    "pertanyaan": "Pemasaran berkelanjutan (Green Marketing) berfokus pada...",
+    "opsi": [
+      "Produk yang warnanya hijau saja",
+      "Produk yang paling mahal",
+      "Pemasaran di hutan",
+      "Pemasaran bibit tanaman",
+      "Produk yang ramah lingkungan dan sosial"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Green marketing menonjolkan aspek kepedulian terhadap kelestarian bumi."
+  }
+]

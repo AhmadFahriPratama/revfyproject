@@ -1,0 +1,708 @@
+{
+  "id": "sd-5-bi",
+  "tingkat": "SD Kelas 5",
+  "mapel": "Bahasa Indonesia",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "bi5-1",
+      "teks": "Teks yang berisi penjelasan ilmiah tentang proses terjadinya suatu fenomena alam atau sosial disebut... (Soal Evaluasi #1)",
+      "opsi": {
+        "A": "Eksplanasi",
+        "B": "Deskripsi",
+        "C": "Narasi",
+        "D": "Persuasi",
+        "E": "Argumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Eksplanasi berasal dari kata 'explain', artinya teks yang menjelaskan proses mengapa dan bagaimana fenomena itu terjadi.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-2",
+      "teks": "Baris pertama dan kedua pada pantun disebut... (Soal Evaluasi #2)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Sampiran",
+        "C": "Bait",
+        "D": "Rima",
+        "E": "Rangkaian"
+      },
+      "kunci": "B",
+      "pembahasan": "Dalam pantun, baris 1-2 disebut sampiran (pengantar), baris 3-4 disebut isi (pesan).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-3",
+      "teks": "Berakit-rakit ke hulu, berenang-renang ke tepian. Pantun ini bersajak... (Soal Evaluasi #3)",
+      "opsi": {
+        "A": "a-a-a-a",
+        "B": "a-b-b-a",
+        "C": "a-b-a-b",
+        "D": "a-a-b-b",
+        "E": "b-b-a-a"
+      },
+      "kunci": "C",
+      "pembahasan": "Sajaknya a-b-a-b (hulu-tepian-dahulu-kemudian).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-4",
+      "teks": "Surat undangan yang mengatasnamakan instansi resmi disebut... (Soal Evaluasi #4)",
+      "opsi": {
+        "A": "Undangan Tak Resmi",
+        "B": "Undangan Setengah Resmi",
+        "C": "Undangan Pribadi",
+        "D": "Undangan Resmi",
+        "E": "Undangan Keluarga"
+      },
+      "kunci": "D",
+      "pembahasan": "Undangan resmi memakai kop surat dan stempel lembaga.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-5",
+      "teks": "Pertanyaan yang tepat untuk mengetahui waktu kejadian sebuah teks narasi sejarah adalah menggunakan kata tanya... (Soal Evaluasi #5)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Siapa",
+        "C": "Mengapa",
+        "D": "Bagaimana",
+        "E": "Kapan"
+      },
+      "kunci": "E",
+      "pembahasan": "'Kapan' digunakan untuk menanyakan waktu.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-6",
+      "teks": "Teks yang berisi penjelasan ilmiah tentang proses terjadinya suatu fenomena alam atau sosial disebut... (Soal Evaluasi #6)",
+      "opsi": {
+        "A": "Eksplanasi",
+        "B": "Deskripsi",
+        "C": "Narasi",
+        "D": "Persuasi",
+        "E": "Argumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Eksplanasi berasal dari kata 'explain', artinya teks yang menjelaskan proses mengapa dan bagaimana fenomena itu terjadi.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-7",
+      "teks": "Baris pertama dan kedua pada pantun disebut... (Soal Evaluasi #7)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Sampiran",
+        "C": "Bait",
+        "D": "Rima",
+        "E": "Rangkaian"
+      },
+      "kunci": "B",
+      "pembahasan": "Dalam pantun, baris 1-2 disebut sampiran (pengantar), baris 3-4 disebut isi (pesan).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-8",
+      "teks": "Berakit-rakit ke hulu, berenang-renang ke tepian. Pantun ini bersajak... (Soal Evaluasi #8)",
+      "opsi": {
+        "A": "a-a-a-a",
+        "B": "a-b-b-a",
+        "C": "a-b-a-b",
+        "D": "a-a-b-b",
+        "E": "b-b-a-a"
+      },
+      "kunci": "C",
+      "pembahasan": "Sajaknya a-b-a-b (hulu-tepian-dahulu-kemudian).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-9",
+      "teks": "Surat undangan yang mengatasnamakan instansi resmi disebut... (Soal Evaluasi #9)",
+      "opsi": {
+        "A": "Undangan Tak Resmi",
+        "B": "Undangan Setengah Resmi",
+        "C": "Undangan Pribadi",
+        "D": "Undangan Resmi",
+        "E": "Undangan Keluarga"
+      },
+      "kunci": "D",
+      "pembahasan": "Undangan resmi memakai kop surat dan stempel lembaga.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-10",
+      "teks": "Pertanyaan yang tepat untuk mengetahui waktu kejadian sebuah teks narasi sejarah adalah menggunakan kata tanya... (Soal Evaluasi #10)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Siapa",
+        "C": "Mengapa",
+        "D": "Bagaimana",
+        "E": "Kapan"
+      },
+      "kunci": "E",
+      "pembahasan": "'Kapan' digunakan untuk menanyakan waktu.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-11",
+      "teks": "Teks yang berisi penjelasan ilmiah tentang proses terjadinya suatu fenomena alam atau sosial disebut... (Soal Evaluasi #11)",
+      "opsi": {
+        "A": "Eksplanasi",
+        "B": "Deskripsi",
+        "C": "Narasi",
+        "D": "Persuasi",
+        "E": "Argumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Eksplanasi berasal dari kata 'explain', artinya teks yang menjelaskan proses mengapa dan bagaimana fenomena itu terjadi.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-12",
+      "teks": "Baris pertama dan kedua pada pantun disebut... (Soal Evaluasi #12)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Sampiran",
+        "C": "Bait",
+        "D": "Rima",
+        "E": "Rangkaian"
+      },
+      "kunci": "B",
+      "pembahasan": "Dalam pantun, baris 1-2 disebut sampiran (pengantar), baris 3-4 disebut isi (pesan).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-13",
+      "teks": "Berakit-rakit ke hulu, berenang-renang ke tepian. Pantun ini bersajak... (Soal Evaluasi #13)",
+      "opsi": {
+        "A": "a-a-a-a",
+        "B": "a-b-b-a",
+        "C": "a-b-a-b",
+        "D": "a-a-b-b",
+        "E": "b-b-a-a"
+      },
+      "kunci": "C",
+      "pembahasan": "Sajaknya a-b-a-b (hulu-tepian-dahulu-kemudian).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-14",
+      "teks": "Surat undangan yang mengatasnamakan instansi resmi disebut... (Soal Evaluasi #14)",
+      "opsi": {
+        "A": "Undangan Tak Resmi",
+        "B": "Undangan Setengah Resmi",
+        "C": "Undangan Pribadi",
+        "D": "Undangan Resmi",
+        "E": "Undangan Keluarga"
+      },
+      "kunci": "D",
+      "pembahasan": "Undangan resmi memakai kop surat dan stempel lembaga.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-15",
+      "teks": "Pertanyaan yang tepat untuk mengetahui waktu kejadian sebuah teks narasi sejarah adalah menggunakan kata tanya... (Soal Evaluasi #15)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Siapa",
+        "C": "Mengapa",
+        "D": "Bagaimana",
+        "E": "Kapan"
+      },
+      "kunci": "E",
+      "pembahasan": "'Kapan' digunakan untuk menanyakan waktu.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-16",
+      "teks": "Teks yang berisi penjelasan ilmiah tentang proses terjadinya suatu fenomena alam atau sosial disebut... (Soal Evaluasi #16)",
+      "opsi": {
+        "A": "Eksplanasi",
+        "B": "Deskripsi",
+        "C": "Narasi",
+        "D": "Persuasi",
+        "E": "Argumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Eksplanasi berasal dari kata 'explain', artinya teks yang menjelaskan proses mengapa dan bagaimana fenomena itu terjadi.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-17",
+      "teks": "Baris pertama dan kedua pada pantun disebut... (Soal Evaluasi #17)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Sampiran",
+        "C": "Bait",
+        "D": "Rima",
+        "E": "Rangkaian"
+      },
+      "kunci": "B",
+      "pembahasan": "Dalam pantun, baris 1-2 disebut sampiran (pengantar), baris 3-4 disebut isi (pesan).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-18",
+      "teks": "Berakit-rakit ke hulu, berenang-renang ke tepian. Pantun ini bersajak... (Soal Evaluasi #18)",
+      "opsi": {
+        "A": "a-a-a-a",
+        "B": "a-b-b-a",
+        "C": "a-b-a-b",
+        "D": "a-a-b-b",
+        "E": "b-b-a-a"
+      },
+      "kunci": "C",
+      "pembahasan": "Sajaknya a-b-a-b (hulu-tepian-dahulu-kemudian).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-19",
+      "teks": "Surat undangan yang mengatasnamakan instansi resmi disebut... (Soal Evaluasi #19)",
+      "opsi": {
+        "A": "Undangan Tak Resmi",
+        "B": "Undangan Setengah Resmi",
+        "C": "Undangan Pribadi",
+        "D": "Undangan Resmi",
+        "E": "Undangan Keluarga"
+      },
+      "kunci": "D",
+      "pembahasan": "Undangan resmi memakai kop surat dan stempel lembaga.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-20",
+      "teks": "Pertanyaan yang tepat untuk mengetahui waktu kejadian sebuah teks narasi sejarah adalah menggunakan kata tanya... (Soal Evaluasi #20)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Siapa",
+        "C": "Mengapa",
+        "D": "Bagaimana",
+        "E": "Kapan"
+      },
+      "kunci": "E",
+      "pembahasan": "'Kapan' digunakan untuk menanyakan waktu.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-21",
+      "teks": "Teks yang berisi penjelasan ilmiah tentang proses terjadinya suatu fenomena alam atau sosial disebut... (Soal Evaluasi #21)",
+      "opsi": {
+        "A": "Eksplanasi",
+        "B": "Deskripsi",
+        "C": "Narasi",
+        "D": "Persuasi",
+        "E": "Argumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Eksplanasi berasal dari kata 'explain', artinya teks yang menjelaskan proses mengapa dan bagaimana fenomena itu terjadi.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-22",
+      "teks": "Baris pertama dan kedua pada pantun disebut... (Soal Evaluasi #22)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Sampiran",
+        "C": "Bait",
+        "D": "Rima",
+        "E": "Rangkaian"
+      },
+      "kunci": "B",
+      "pembahasan": "Dalam pantun, baris 1-2 disebut sampiran (pengantar), baris 3-4 disebut isi (pesan).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-23",
+      "teks": "Berakit-rakit ke hulu, berenang-renang ke tepian. Pantun ini bersajak... (Soal Evaluasi #23)",
+      "opsi": {
+        "A": "a-a-a-a",
+        "B": "a-b-b-a",
+        "C": "a-b-a-b",
+        "D": "a-a-b-b",
+        "E": "b-b-a-a"
+      },
+      "kunci": "C",
+      "pembahasan": "Sajaknya a-b-a-b (hulu-tepian-dahulu-kemudian).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-24",
+      "teks": "Surat undangan yang mengatasnamakan instansi resmi disebut... (Soal Evaluasi #24)",
+      "opsi": {
+        "A": "Undangan Tak Resmi",
+        "B": "Undangan Setengah Resmi",
+        "C": "Undangan Pribadi",
+        "D": "Undangan Resmi",
+        "E": "Undangan Keluarga"
+      },
+      "kunci": "D",
+      "pembahasan": "Undangan resmi memakai kop surat dan stempel lembaga.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-25",
+      "teks": "Pertanyaan yang tepat untuk mengetahui waktu kejadian sebuah teks narasi sejarah adalah menggunakan kata tanya... (Soal Evaluasi #25)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Siapa",
+        "C": "Mengapa",
+        "D": "Bagaimana",
+        "E": "Kapan"
+      },
+      "kunci": "E",
+      "pembahasan": "'Kapan' digunakan untuk menanyakan waktu.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-26",
+      "teks": "Teks yang berisi penjelasan ilmiah tentang proses terjadinya suatu fenomena alam atau sosial disebut... (Soal Evaluasi #26)",
+      "opsi": {
+        "A": "Eksplanasi",
+        "B": "Deskripsi",
+        "C": "Narasi",
+        "D": "Persuasi",
+        "E": "Argumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Eksplanasi berasal dari kata 'explain', artinya teks yang menjelaskan proses mengapa dan bagaimana fenomena itu terjadi.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-27",
+      "teks": "Baris pertama dan kedua pada pantun disebut... (Soal Evaluasi #27)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Sampiran",
+        "C": "Bait",
+        "D": "Rima",
+        "E": "Rangkaian"
+      },
+      "kunci": "B",
+      "pembahasan": "Dalam pantun, baris 1-2 disebut sampiran (pengantar), baris 3-4 disebut isi (pesan).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-28",
+      "teks": "Berakit-rakit ke hulu, berenang-renang ke tepian. Pantun ini bersajak... (Soal Evaluasi #28)",
+      "opsi": {
+        "A": "a-a-a-a",
+        "B": "a-b-b-a",
+        "C": "a-b-a-b",
+        "D": "a-a-b-b",
+        "E": "b-b-a-a"
+      },
+      "kunci": "C",
+      "pembahasan": "Sajaknya a-b-a-b (hulu-tepian-dahulu-kemudian).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-29",
+      "teks": "Surat undangan yang mengatasnamakan instansi resmi disebut... (Soal Evaluasi #29)",
+      "opsi": {
+        "A": "Undangan Tak Resmi",
+        "B": "Undangan Setengah Resmi",
+        "C": "Undangan Pribadi",
+        "D": "Undangan Resmi",
+        "E": "Undangan Keluarga"
+      },
+      "kunci": "D",
+      "pembahasan": "Undangan resmi memakai kop surat dan stempel lembaga.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-30",
+      "teks": "Pertanyaan yang tepat untuk mengetahui waktu kejadian sebuah teks narasi sejarah adalah menggunakan kata tanya... (Soal Evaluasi #30)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Siapa",
+        "C": "Mengapa",
+        "D": "Bagaimana",
+        "E": "Kapan"
+      },
+      "kunci": "E",
+      "pembahasan": "'Kapan' digunakan untuk menanyakan waktu.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-31",
+      "teks": "Teks yang berisi penjelasan ilmiah tentang proses terjadinya suatu fenomena alam atau sosial disebut... (Soal Evaluasi #31)",
+      "opsi": {
+        "A": "Eksplanasi",
+        "B": "Deskripsi",
+        "C": "Narasi",
+        "D": "Persuasi",
+        "E": "Argumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Eksplanasi berasal dari kata 'explain', artinya teks yang menjelaskan proses mengapa dan bagaimana fenomena itu terjadi.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-32",
+      "teks": "Baris pertama dan kedua pada pantun disebut... (Soal Evaluasi #32)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Sampiran",
+        "C": "Bait",
+        "D": "Rima",
+        "E": "Rangkaian"
+      },
+      "kunci": "B",
+      "pembahasan": "Dalam pantun, baris 1-2 disebut sampiran (pengantar), baris 3-4 disebut isi (pesan).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-33",
+      "teks": "Berakit-rakit ke hulu, berenang-renang ke tepian. Pantun ini bersajak... (Soal Evaluasi #33)",
+      "opsi": {
+        "A": "a-a-a-a",
+        "B": "a-b-b-a",
+        "C": "a-b-a-b",
+        "D": "a-a-b-b",
+        "E": "b-b-a-a"
+      },
+      "kunci": "C",
+      "pembahasan": "Sajaknya a-b-a-b (hulu-tepian-dahulu-kemudian).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-34",
+      "teks": "Surat undangan yang mengatasnamakan instansi resmi disebut... (Soal Evaluasi #34)",
+      "opsi": {
+        "A": "Undangan Tak Resmi",
+        "B": "Undangan Setengah Resmi",
+        "C": "Undangan Pribadi",
+        "D": "Undangan Resmi",
+        "E": "Undangan Keluarga"
+      },
+      "kunci": "D",
+      "pembahasan": "Undangan resmi memakai kop surat dan stempel lembaga.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-35",
+      "teks": "Pertanyaan yang tepat untuk mengetahui waktu kejadian sebuah teks narasi sejarah adalah menggunakan kata tanya... (Soal Evaluasi #35)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Siapa",
+        "C": "Mengapa",
+        "D": "Bagaimana",
+        "E": "Kapan"
+      },
+      "kunci": "E",
+      "pembahasan": "'Kapan' digunakan untuk menanyakan waktu.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-36",
+      "teks": "Teks yang berisi penjelasan ilmiah tentang proses terjadinya suatu fenomena alam atau sosial disebut... (Soal Evaluasi #36)",
+      "opsi": {
+        "A": "Eksplanasi",
+        "B": "Deskripsi",
+        "C": "Narasi",
+        "D": "Persuasi",
+        "E": "Argumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Eksplanasi berasal dari kata 'explain', artinya teks yang menjelaskan proses mengapa dan bagaimana fenomena itu terjadi.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-37",
+      "teks": "Baris pertama dan kedua pada pantun disebut... (Soal Evaluasi #37)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Sampiran",
+        "C": "Bait",
+        "D": "Rima",
+        "E": "Rangkaian"
+      },
+      "kunci": "B",
+      "pembahasan": "Dalam pantun, baris 1-2 disebut sampiran (pengantar), baris 3-4 disebut isi (pesan).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-38",
+      "teks": "Berakit-rakit ke hulu, berenang-renang ke tepian. Pantun ini bersajak... (Soal Evaluasi #38)",
+      "opsi": {
+        "A": "a-a-a-a",
+        "B": "a-b-b-a",
+        "C": "a-b-a-b",
+        "D": "a-a-b-b",
+        "E": "b-b-a-a"
+      },
+      "kunci": "C",
+      "pembahasan": "Sajaknya a-b-a-b (hulu-tepian-dahulu-kemudian).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-39",
+      "teks": "Surat undangan yang mengatasnamakan instansi resmi disebut... (Soal Evaluasi #39)",
+      "opsi": {
+        "A": "Undangan Tak Resmi",
+        "B": "Undangan Setengah Resmi",
+        "C": "Undangan Pribadi",
+        "D": "Undangan Resmi",
+        "E": "Undangan Keluarga"
+      },
+      "kunci": "D",
+      "pembahasan": "Undangan resmi memakai kop surat dan stempel lembaga.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-40",
+      "teks": "Pertanyaan yang tepat untuk mengetahui waktu kejadian sebuah teks narasi sejarah adalah menggunakan kata tanya... (Soal Evaluasi #40)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Siapa",
+        "C": "Mengapa",
+        "D": "Bagaimana",
+        "E": "Kapan"
+      },
+      "kunci": "E",
+      "pembahasan": "'Kapan' digunakan untuk menanyakan waktu.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-41",
+      "teks": "Teks yang berisi penjelasan ilmiah tentang proses terjadinya suatu fenomena alam atau sosial disebut... (Soal Evaluasi #41)",
+      "opsi": {
+        "A": "Eksplanasi",
+        "B": "Deskripsi",
+        "C": "Narasi",
+        "D": "Persuasi",
+        "E": "Argumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Eksplanasi berasal dari kata 'explain', artinya teks yang menjelaskan proses mengapa dan bagaimana fenomena itu terjadi.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-42",
+      "teks": "Baris pertama dan kedua pada pantun disebut... (Soal Evaluasi #42)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Sampiran",
+        "C": "Bait",
+        "D": "Rima",
+        "E": "Rangkaian"
+      },
+      "kunci": "B",
+      "pembahasan": "Dalam pantun, baris 1-2 disebut sampiran (pengantar), baris 3-4 disebut isi (pesan).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-43",
+      "teks": "Berakit-rakit ke hulu, berenang-renang ke tepian. Pantun ini bersajak... (Soal Evaluasi #43)",
+      "opsi": {
+        "A": "a-a-a-a",
+        "B": "a-b-b-a",
+        "C": "a-b-a-b",
+        "D": "a-a-b-b",
+        "E": "b-b-a-a"
+      },
+      "kunci": "C",
+      "pembahasan": "Sajaknya a-b-a-b (hulu-tepian-dahulu-kemudian).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-44",
+      "teks": "Surat undangan yang mengatasnamakan instansi resmi disebut... (Soal Evaluasi #44)",
+      "opsi": {
+        "A": "Undangan Tak Resmi",
+        "B": "Undangan Setengah Resmi",
+        "C": "Undangan Pribadi",
+        "D": "Undangan Resmi",
+        "E": "Undangan Keluarga"
+      },
+      "kunci": "D",
+      "pembahasan": "Undangan resmi memakai kop surat dan stempel lembaga.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-45",
+      "teks": "Pertanyaan yang tepat untuk mengetahui waktu kejadian sebuah teks narasi sejarah adalah menggunakan kata tanya... (Soal Evaluasi #45)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Siapa",
+        "C": "Mengapa",
+        "D": "Bagaimana",
+        "E": "Kapan"
+      },
+      "kunci": "E",
+      "pembahasan": "'Kapan' digunakan untuk menanyakan waktu.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-46",
+      "teks": "Teks yang berisi penjelasan ilmiah tentang proses terjadinya suatu fenomena alam atau sosial disebut... (Soal Evaluasi #46)",
+      "opsi": {
+        "A": "Eksplanasi",
+        "B": "Deskripsi",
+        "C": "Narasi",
+        "D": "Persuasi",
+        "E": "Argumentasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Eksplanasi berasal dari kata 'explain', artinya teks yang menjelaskan proses mengapa dan bagaimana fenomena itu terjadi.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-47",
+      "teks": "Baris pertama dan kedua pada pantun disebut... (Soal Evaluasi #47)",
+      "opsi": {
+        "A": "Isi",
+        "B": "Sampiran",
+        "C": "Bait",
+        "D": "Rima",
+        "E": "Rangkaian"
+      },
+      "kunci": "B",
+      "pembahasan": "Dalam pantun, baris 1-2 disebut sampiran (pengantar), baris 3-4 disebut isi (pesan).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-48",
+      "teks": "Berakit-rakit ke hulu, berenang-renang ke tepian. Pantun ini bersajak... (Soal Evaluasi #48)",
+      "opsi": {
+        "A": "a-a-a-a",
+        "B": "a-b-b-a",
+        "C": "a-b-a-b",
+        "D": "a-a-b-b",
+        "E": "b-b-a-a"
+      },
+      "kunci": "C",
+      "pembahasan": "Sajaknya a-b-a-b (hulu-tepian-dahulu-kemudian).",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-49",
+      "teks": "Surat undangan yang mengatasnamakan instansi resmi disebut... (Soal Evaluasi #49)",
+      "opsi": {
+        "A": "Undangan Tak Resmi",
+        "B": "Undangan Setengah Resmi",
+        "C": "Undangan Pribadi",
+        "D": "Undangan Resmi",
+        "E": "Undangan Keluarga"
+      },
+      "kunci": "D",
+      "pembahasan": "Undangan resmi memakai kop surat dan stempel lembaga.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    },
+    {
+      "id": "bi5-50",
+      "teks": "Pertanyaan yang tepat untuk mengetahui waktu kejadian sebuah teks narasi sejarah adalah menggunakan kata tanya... (Soal Evaluasi #50)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Siapa",
+        "C": "Mengapa",
+        "D": "Bagaimana",
+        "E": "Kapan"
+      },
+      "kunci": "E",
+      "pembahasan": "'Kapan' digunakan untuk menanyakan waktu.",
+      "trik": "Fokus pada akar kata soal. Pantun = sampiran+isi, Eksplanasi = fenomena ilmiah."
+    }
+  ]
+}

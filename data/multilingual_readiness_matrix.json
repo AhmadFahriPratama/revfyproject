@@ -1,0 +1,9 @@
+{
+  "id": "multilingual-readiness-matrix",
+  "status": "foundation_ready",
+  "nextTargets": [
+    "en-US labels",
+    "bilingual metadata",
+    "localized roadmap descriptions"
+  ]
+}

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_AR_01",
+    "pertanyaan": "Arti dari salam 'Assalamu'alaikum' adalah...",
+    "opsi": [
+      "Semoga keselamatan terlimpah kepadamu",
+      "Selamat pagi",
+      "Ke mana kamu pergi",
+      "Terima kasih",
+      "Apa kabar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Salam pembuka yang hukumnya sunnah diucapkan dan wajib dijawab."
+  },
+  {
+    "id": "TKA_SMK_AR_02",
+    "pertanyaan": "Angka 'Wahid' dalam Bahasa Arab berarti...",
+    "opsi": [
+      "Dua",
+      "Satu",
+      "Tiga",
+      "Empat",
+      "Lima"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Satu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_03",
+    "pertanyaan": "Bahasa Arab dari 'Sekolah' adalah...",
+    "opsi": [
+      "Baitun",
+      "Masjidun",
+      "Madrasah",
+      "Suuqun",
+      "Maktabun"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Madrasah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_04",
+    "pertanyaan": "Kata ganti 'Saya' dalam Bahasa Arab adalah...",
+    "opsi": [
+      "Anta",
+      "Annti",
+      "Huwa",
+      "Ana",
+      "Hiya"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Ana\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_05",
+    "pertanyaan": "Arti dari 'Shukran' (شكرا) adalah...",
+    "opsi": [
+      "Maaf",
+      "Halo",
+      "Selamat tinggal",
+      "Tolong",
+      "Terima kasih"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Terima kasih\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_06",
+    "pertanyaan": "Isim Isyarah 'Hadza' (هذا) digunakan untuk menunjuk benda...",
+    "opsi": [
+      "Laki-laki (Muzakkar) dekat",
+      "Perempuan (Muannas) dekat",
+      "Laki-laki jauh",
+      "Perempuan jauh",
+      "Banyak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Artinya: Ini (untuk laki-laki). Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Laki-laki (Muzakkar) dekat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_07",
+    "pertanyaan": "Angka 'Khamsah' berarti...",
+    "opsi": [
+      "Tiga",
+      "Lima",
+      "Empat",
+      "Enam",
+      "Tujuh"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Lima\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_08",
+    "pertanyaan": "Kata 'Baitun' (بيت) berarti...",
+    "opsi": [
+      "Kantor",
+      "Pasar",
+      "Rumah",
+      "Masjid",
+      "Lapangan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rumah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_09",
+    "pertanyaan": "Ucapan untuk menanyakan kabar 'Bagaimana kabarmu?' adalah...",
+    "opsi": [
+      "Ma asmuka?",
+      "Aina taskunu?",
+      "Fi ayyi fashlin?",
+      "Kaifa haluka?",
+      "Kam 'umruka?"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kaifa haluka?\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_10",
+    "pertanyaan": "Bahasa Arab dari 'Guru' (Laki-laki) adalah...",
+    "opsi": [
+      "Tholibun",
+      "Thobibun",
+      "Muhandisun",
+      "Fallaahun",
+      "Mudarrisun / Ustadzun"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mudarrisun / Ustadzun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_11",
+    "pertanyaan": "Angka 'Salasah' adalah...",
+    "opsi": [
+      "3",
+      "2",
+      "4",
+      "5",
+      "1"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_12",
+    "pertanyaan": "Bahasa Arab dari 'Buku' adalah...",
+    "opsi": [
+      "Qolamun",
+      "Kitabun",
+      "Mirsamatun",
+      "Khizanatun",
+      "Babun"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Kitabun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_13",
+    "pertanyaan": "Jawaban dari 'Afwan' (terima kasih kembali/maaf) adalah...",
+    "opsi": [
+      "Ahlan wa sahlan",
+      "Laa basa",
+      "Shukran",
+      "Mafi mushkilah",
+      "Na'am"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Shukran\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_14",
+    "pertanyaan": "Kata ganti 'Kamu' (Laki-laki) adalah...",
+    "opsi": [
+      "Ana",
+      "Anti",
+      "Huwa",
+      "Anta",
+      "Nahnu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Anta\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_15",
+    "pertanyaan": "Arti dari 'Sabahul khair' adalah...",
+    "opsi": [
+      "Selamat siang",
+      "Selamat sore",
+      "Selamat malam",
+      "Halo",
+      "Selamat pagi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Selamat pagi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_16",
+    "pertanyaan": "Jawaban yang tepat untuk 'Sabahul khair' adalah...",
+    "opsi": [
+      "Sabahun nur",
+      "Masaul khair",
+      "Masau nur",
+      "Kaifa haluk",
+      "Alhamdulillah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sabahun nur\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_17",
+    "pertanyaan": "Bahasa Arab dari 'Ibu' adalah...",
+    "opsi": [
+      "Abun",
+      "Ummun",
+      "Akhun",
+      "Ukhtun",
+      "Jaddun"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ummun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_18",
+    "pertanyaan": "Kata benda yang berakhiran 'Ta Marbutoh' (ة) biasanya bersifat...",
+    "opsi": [
+      "Muzakkar (Laki-laki)",
+      "Netral",
+      "Muannas (Perempuan)",
+      "Jamak",
+      "Benda mati"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh: Mudarrisatun (Ibu Guru). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Muannas (Perempuan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_19",
+    "pertanyaan": "Angka 'Asyarah' adalah...",
+    "opsi": [
+      "5",
+      "7",
+      "100",
+      "10",
+      "1.000"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"10\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_20",
+    "pertanyaan": "Arti dari 'Masaul khair' adalah...",
+    "opsi": [
+      "Selamat pagi",
+      "Selamat jalan",
+      "Apa kabar",
+      "Halo",
+      "Selamat sore / Malam"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Selamat sore / Malam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_21",
+    "pertanyaan": "Bahasa Arab dari 'Air' adalah...",
+    "opsi": [
+      "Ma'un",
+      "Labun",
+      "Khubzun",
+      "Ruzzun",
+      "Lahamun"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ma'un\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_22",
+    "pertanyaan": "Arti dari 'Na'am' (نعم) adalah...",
+    "opsi": [
+      "Tidak",
+      "Ya",
+      "Mungkin",
+      "Bisa jadi",
+      "Siapa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_23",
+    "pertanyaan": "Angka 'Saba'ah' adalah...",
+    "opsi": [
+      "6",
+      "8",
+      "7",
+      "9",
+      "10"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"7\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_24",
+    "pertanyaan": "Kata benda 'Qolamun' berarti...",
+    "opsi": [
+      "Buku",
+      "Kertas",
+      "Tas",
+      "Pena / Pulpen",
+      "Penghapus"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pena / Pulpen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_25",
+    "pertanyaan": "Ucapan selamat datang 'Ahlan wa sahlan' dijawab dengan...",
+    "opsi": [
+      "Kaifa haluk",
+      "Masaun nur",
+      "Shukran",
+      "Afwan",
+      "Ahlan bika / biki"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Ahlan bika / biki\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_26",
+    "pertanyaan": "Bahasa Arab dari 'Meja' adalah...",
+    "opsi": [
+      "Maktabun",
+      "Kursiyyun",
+      "Babun",
+      "Nafidzatun",
+      "Sabburotun"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Maktabun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_27",
+    "pertanyaan": "Arti dari 'Aina taskunu?' adalah...",
+    "opsi": [
+      "Siapa namamu?",
+      "Di mana kamu tinggal?",
+      "Lagi apa?",
+      "Ke mana kamu pergi?",
+      "Berapa umurmu?"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Di mana kamu tinggal?\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_28",
+    "pertanyaan": "Kata ganti 'Dia' (Laki-laki) adalah...",
+    "opsi": [
+      "Hiya",
+      "Huma",
+      "Huwa",
+      "Hum",
+      "Anta"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Huwa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_29",
+    "pertanyaan": "Angka 'Ahad asyaro' adalah...",
+    "opsi": [
+      "1",
+      "10",
+      "21",
+      "11",
+      "101"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"11\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_30",
+    "pertanyaan": "Bahasa Arab dari 'Dokter' (Laki-laki) adalah...",
+    "opsi": [
+      "Muhandisun",
+      "Tholibun",
+      "Mudarrisun",
+      "Tajirun",
+      "Thobibun"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Thobibun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_31",
+    "pertanyaan": "Arti dari 'Laa' (لا) adalah...",
+    "opsi": [
+      "Tidak",
+      "Ya",
+      "Halo",
+      "Mungkin",
+      "Terima kasih"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tidak\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_32",
+    "pertanyaan": "Bahasa Arab dari 'Pasar' adalah...",
+    "opsi": [
+      "Syar'un",
+      "Suuqun",
+      "Baitun",
+      "Madinatun",
+      "Qoryatun"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Suuqun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_33",
+    "pertanyaan": "Angka 'Tis'ah' adalah...",
+    "opsi": [
+      "6",
+      "7",
+      "9",
+      "8",
+      "10"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"9\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_34",
+    "pertanyaan": "Arti dari 'Min aina anta?' adalah...",
+    "opsi": [
+      "Mau ke mana?",
+      "Kapan datang?",
+      "Siapa dia?",
+      "Dari mana asalmu?",
+      "Lagi apa?"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Dari mana asalmu?\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_35",
+    "pertanyaan": "Fi'il Madhi menunjukkan kata kerja dalam waktu...",
+    "opsi": [
+      "Sedang terjadi",
+      "Akan datang",
+      "Perintah",
+      "Larangan",
+      "Masa lampau"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Masa lampau\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_36",
+    "pertanyaan": "Bahasa Arab dari 'Bulan' (penunjuk waktu/satuan bulan) adalah...",
+    "opsi": [
+      "Syahrun",
+      "Yaumun",
+      "Usbu'un",
+      "Sanatun",
+      "Sa'atun"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Syahrun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_37",
+    "pertanyaan": "Arti dari 'Ilaal liqoo' (jawaban salam perpisahan) adalah...",
+    "opsi": [
+      "Halo",
+      "Sampai jumpa lagi",
+      "Terima kasih",
+      "Maaf",
+      "Sama-sama"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sampai jumpa lagi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_38",
+    "pertanyaan": "Angka 'Mi'ah' berarti...",
+    "opsi": [
+      "10",
+      "1.000",
+      "100",
+      "Panas",
+      "Dingin"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"100\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_39",
+    "pertanyaan": "Bahasa Arab dari 'Benda' (Barang/Sesuatu) adalah...",
+    "opsi": [
+      "Ismun",
+      "Fi'lun",
+      "Harfun",
+      "Shai'un",
+      "Suratun"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Shai'un\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_40",
+    "pertanyaan": "Kata ganti 'Kami / Kita' adalah...",
+    "opsi": [
+      "Ana",
+      "Hum",
+      "Antum",
+      "Huma",
+      "Nahnu"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Nahnu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_41",
+    "pertanyaan": "Arti dari 'Maza taf'alu?' adalah...",
+    "opsi": [
+      "Lagi apa (buat apa)?",
+      "Siapa kamu?",
+      "Ke mana?",
+      "Berapa harganya?",
+      "Kapan pergi?"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Lagi apa (buat apa)?\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_42",
+    "pertanyaan": "Isim Isyarah 'Hadzihi' (هذه) digunakan untuk benda...",
+    "opsi": [
+      "Laki-laki jauh",
+      "Perempuan (Muannas) dekat",
+      "Laki-laki dekat",
+      "Dua orang",
+      "Siapa saja"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Artinya: Ini (untuk perempuan). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Perempuan (Muannas) dekat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_43",
+    "pertanyaan": "Angka 'Arba'ah' adalah...",
+    "opsi": [
+      "3",
+      "5",
+      "4",
+      "6",
+      "1"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_44",
+    "pertanyaan": "Sapaan 'Laila sa'idah' artinya...",
+    "opsi": [
+      "Selamat siang",
+      "Selamat pagi",
+      "Selamat sore",
+      "Selamat malam",
+      "Halo"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Selamat malam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_45",
+    "pertanyaan": "Bahasa Arab dari 'Nasi' adalah...",
+    "opsi": [
+      "Khubzun",
+      "Lahamun",
+      "Samakun",
+      "Maa'un",
+      "Ruzzun"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ruzzun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_46",
+    "pertanyaan": "Fi'il Mudhari' menunjukkan kata kerja dalam waktu...",
+    "opsi": [
+      "Sedang/Akan datang",
+      "Lama",
+      "Kemarin",
+      "Perintah",
+      "Mati"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sedang/Akan datang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_47",
+    "pertanyaan": "Bahasa Arab dari 'Tolong / Silakan' adalah...",
+    "opsi": [
+      "Uskut",
+      "Tafaddol",
+      "Ijlis",
+      "Iqro",
+      "Idzhab"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Tafaddol\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_48",
+    "pertanyaan": "Arti dari 'Bikami hadza?' adalah...",
+    "opsi": [
+      "Lagi apa?",
+      "Siapa nama ini?",
+      "Berapa harga ini?",
+      "Sudah makan?",
+      "Kapan pulang?"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Berapa harga ini?\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_49",
+    "pertanyaan": "Angka 'Ithnani' berarti...",
+    "opsi": [
+      "1",
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AR_50",
+    "pertanyaan": "Manfaat menguasai Bahasa Arab bagi lulusan SMK di era global adalah...",
+    "opsi": [
+      "Biar bisa baca kitab saja",
+      "Supaya jago perang",
+      "Hanya untuk nilai rapor",
+      "Tidak ada gunanya",
+      "Membuka peluang kerja/bisnis di negara-negara Timur Tengah serta melayani jamaah umroh/haji dan pariwisata"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Membuka peluang kerja/bisnis di negara-negara Timur Tengah serta melayani jamaah umroh/haji dan pariwisata\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

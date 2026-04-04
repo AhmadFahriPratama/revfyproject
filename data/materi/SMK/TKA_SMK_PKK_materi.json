@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Produk Kreatif dan Kewirausahaan (PKK)",
+  "tingkatan": "SMK",
+  "jurusan": "Semua Jurusan / Pilihan",
+  "deskripsi": "Materi persiapan TKA PKK untuk siswa SMK yang berfokus pada sikap wirausaha, peluang usaha, perakitan produk, pengujian produk, pemasaran, dan laporan keuangan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Karakter dan Peluang Usaha",
+      "konten": "Sikap dan perilaku wirausahawan (disiplin, mandiri, kreatif), analisis peluang usaha (SWOT), serta teknik pengambilan keputusan dalam bisnis.",
+      "tag": [
+        "tka smk pkk materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Hak Atas Kekayaan Intelektual (HAKI)",
+      "konten": "Pengertian HAKI, jenis-beda hak cipta, paten, merek, serta pentingnya perlindungan hukum bagi produk kreatif siswa SMK.",
+      "tag": [
+        "tka smk pkk materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Konsep Desain dan Prototipe Produk",
+      "konten": "Tahapan pembuatan prototipe (awal ke akhir), sketsa produk, pemilihan material, serta estetika dan ergonomi produk industri.",
+      "tag": [
+        "tka smk pkk materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Proses Produksi Massal",
+      "konten": "Manajemen produksi, lini perakitan (Assembly line), kontrol kualitas (Quality Control), serta perhitungan biaya produksi (Break Even Point).",
+      "tag": [
+        "tka smk pkk materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pemasaran dan Laporan Keuangan",
+      "konten": "Strategi pemasaran (4P), pemasaran digital, teknik negosiasi, serta penyusunan laporan laba-rugi sederhana untuk usaha mandiri.",
+      "tag": [
+        "tka smk pkk materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-pkk-materi",
+  "mapel": "TKA SMK: Produk Kreatif dan Kewirausahaan (PKK)",
+  "tag": [
+    "tka smk pkk materi"
+  ]
+}

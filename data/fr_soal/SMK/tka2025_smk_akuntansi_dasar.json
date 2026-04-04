@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_AD_01",
+    "pertanyaan": "FR Perusahaan Jasa: Bengkel motor menerima pembayaran servis Rp200.000. Pencatatan yang benar adalah...",
+    "opsi": [
+      "Kas bertambah (D) dan Pendapatan Jasa bertambah (K)",
+      "Pendapatan bertambah (D) dan Kas bertambah (K)",
+      "Hutang bertambah (D) dan Kas berkurang (K)",
+      "Modal berkurang (D) dan Kas bertambah (K)",
+      "Beban bertambah (D) dan Kas bertambah (K)"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_AD_02",
+    "pertanyaan": "FR BNSP: Apa yang dimaksud dengan 'Balance Sheet'?",
+    "opsi": [
+      "Laporan Laba Rugi",
+      "Neraca (Laporan Posisi Keuangan)",
+      "Laporan Arus Kas",
+      "Jurnal Penyesuaian",
+      "Buku Besar"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_AD_03",
+    "pertanyaan": "FR Dokumen: Jika perusahaan mengembalikan barang yang rusak kepada penjual, dokumen pendukungnya adalah...",
+    "opsi": [
+      "Nota Kontan",
+      "Nota Kredit",
+      "Nota Debet",
+      "Memo",
+      "Faktur Penjualan"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Nota debet dikirim pembeli ke penjual (mengurangi hutang).",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_AD_04",
+    "pertanyaan": "FR Pajak: Pajak yang dipotong dari gaji karyawan oleh perusahaan disebut...",
+    "opsi": [
+      "PPN",
+      "PBB",
+      "Pajak Kendaraan",
+      "PPh Pasal 21",
+      "Bea Materai"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_AD_05",
+    "pertanyaan": "FR Auditing: Opini auditor yang menyatakan bahwa laporan keuangan disajikan secara wajar dalam semua hal yang material disebut...",
+    "opsi": [
+      "Wajar Dengan Pengecualian",
+      "Tidak Wajar",
+      "Menolak Memberikan Pendapat",
+      "Opini Buruk",
+      "Wajar Tanpa Pengecualian (Unqualified Opinion)"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

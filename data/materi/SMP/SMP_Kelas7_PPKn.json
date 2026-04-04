@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls7-ppkn",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "PPKn",
+  "materi": "Sejarah Perumusan Pancasila, Norma, dan Kebhinekaan Indonesia",
+  "deskripsi": "Pendidikan Pancasila dan Kewarganegaraan Kelas 7 membekali peserta didik dengan pemahaman dasar sejarah bangsa, aturan norma masyarakat, dan menghargai keragaman.",
+  "konten": [
+    {
+      "bab": "1. Perumusan dan Penetapan Pancasila sebagai Dasar Negara",
+      "teks": "Menelaah sejarah pembentukan BPUPKI dan PPKI, mendeskripsikan semangat komitmen para pendiri negara, serta rumusan dasar negara."
+    },
+    {
+      "bab": "2. Norma dan Keadilan",
+      "teks": "Mempelajari pengertian norma (agama, kesusilaan, kesopanan, dan hukum), sumbernya, sanksinya, dan arti penting keadilan dalam bermasyarakat."
+    },
+    {
+      "bab": "3. Perumusan UUD Negara Republik Indonesia Tahun 1945",
+      "teks": "Memahami sejarah perumusan UUD 1945 serta pentingnya UUD dalam sistem hukum Indonesia."
+    },
+    {
+      "bab": "4. Keberagaman Suku, Agama, Ras, dan Antargolongan (SARA)",
+      "teks": "Mengidentifikasi semboyan Bhinneka Tunggal Ika. Menjelaskan sikap toleran dan menghargai teman atau masyarakat yang berbeda SARA."
+    },
+    {
+      "bab": "5. Kerja Sama dalam Berbagai Bidang Kehidupan",
+      "teks": "Mengenal bentuk kerja sama (gotong royong) di lingkungan sekolah, keluarga, dan masyarakat untuk mewujudkan persatuan dan kesatuan bangsa."
+    }
+  ],
+  "tag": ["smp-7", "ppkn", "pancasila", "norma", "bhinneka-tunggal-ika"]
+}

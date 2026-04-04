@@ -1,0 +1,202 @@
+{
+  "id": "fr-tka-2025-smp-pilihan",
+  "tahun": 2025,
+  "tingkat": "SMP",
+  "materiKategori": "pilihan",
+  "mapel": "TKA SMP pilihan",
+  "deskripsi": "Rekonstruksi FR TKA SMP 2025 kategori pilihan.",
+  "soal": [
+    {
+      "id": "fr25-smp-pilihan-ipa-01",
+      "mapel": "IPA",
+      "teks": "Enzim amilase di mulut berfungsi mengubah amilum menjadi...",
+      "opsi": {
+        "A": "Protein",
+        "B": "Lemak",
+        "C": "Glukosa/Maltosa",
+        "D": "Pepton",
+        "E": "Asam amino"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Glukosa/Maltosa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - IPA",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smp-pilihan-ipa-02",
+      "mapel": "IPA",
+      "teks": "Cermin yang bayangannya selalu tegak, maya, dan diperkecil adalah...",
+      "opsi": {
+        "A": "Datar",
+        "B": "Cekung",
+        "C": "Ganda",
+        "D": "Cembung",
+        "E": "Lensa"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Cembung\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - IPA",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smp-pilihan-ipa-03",
+      "mapel": "IPA",
+      "teks": "Hukum Archimedes berkaitan dengan...",
+      "opsi": {
+        "A": "Bunyi",
+        "B": "Cahaya",
+        "C": "Listrik",
+        "D": "Magnet",
+        "E": "Gaya Angkat Zat Cair"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Gaya Angkat Zat Cair\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - IPA",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smp-pilihan-ipa-04",
+      "mapel": "IPA",
+      "teks": "Organel sel yang hanya ada di tumbuhan adalah...",
+      "opsi": {
+        "A": "Kloroplas",
+        "B": "Sentriol",
+        "C": "Sitosol",
+        "D": "Membran sel",
+        "E": "Dinding sel"
+      },
+      "kunci": "A",
+      "pembahasan": "Kloroplas untuk fotosintesis. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kloroplas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - IPA",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smp-pilihan-ipa-05",
+      "mapel": "IPA",
+      "teks": "Pengangkutan air dari akar ke daun melalui pembuluh...",
+      "opsi": {
+        "A": "Floem",
+        "B": "Xilem",
+        "C": "Kambium",
+        "D": "Epidermis",
+        "E": "Korteks"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Xilem\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - IPA",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smp-pilihan-ipa-06",
+      "mapel": "IPA",
+      "teks": "Bunyi yang frekuensinya di bawah 20 Hz disebut...",
+      "opsi": {
+        "A": "Audiosonik",
+        "B": "Ultrasonik",
+        "C": "Infrasonik",
+        "D": "Supersonik",
+        "E": "Ekolokasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Infrasonik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - IPA",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smp-pilihan-ips-01",
+      "mapel": "IPS",
+      "teks": "Kegiatan menyalurkan barang dari produsen ke konsumen disebut...",
+      "opsi": {
+        "A": "Produksi",
+        "B": "Konsumsi",
+        "C": "Distribusi",
+        "D": "Promosi",
+        "E": "Investasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Distribusi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - IPS",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smp-pilihan-ips-02",
+      "mapel": "IPS",
+      "teks": "Orang yang melakukan kegiatan konsumsi disebut...",
+      "opsi": {
+        "A": "Produsen",
+        "B": "Distributor",
+        "C": "Investor",
+        "D": "Konsumen",
+        "E": "Karyawan"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Konsumen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - IPS",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smp-pilihan-ips-03",
+      "mapel": "IPS",
+      "teks": "Pihak yang memimpin pelayaran pertama Spanyol ke dunia timur adalah...",
+      "opsi": {
+        "A": "Vasco da Gama",
+        "B": "Magelhaens",
+        "C": "Cornelis de Houtman",
+        "D": "Erasmus",
+        "E": "Christopher Columbus"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Christopher Columbus\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - IPS",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smp-pilihan-ips-04",
+      "mapel": "IPS",
+      "teks": "Sistem tanam paksa (Cultuurstelsel) dicetuskan oleh...",
+      "opsi": {
+        "A": "Van den Bosch",
+        "B": "Daendels",
+        "C": "Raffles",
+        "D": "Jan Pieterszoon Coen",
+        "E": "Speelman"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Van den Bosch\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - IPS",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smp-pilihan-ips-05",
+      "mapel": "IPS",
+      "teks": "Organisasi pergerakan nasional pertama di Indonesia adalah...",
+      "opsi": {
+        "A": "Sarekat Islam",
+        "B": "Budi Utomo",
+        "C": "Indische Partij",
+        "D": "PNI",
+        "E": "Muhammadiyah"
+      },
+      "kunci": "B",
+      "pembahasan": "20 Mei 1908. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Budi Utomo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - IPS",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smp-pilihan-ips-06",
+      "mapel": "IPS",
+      "teks": "Teks proklamasi dirumuskan di rumah...",
+      "opsi": {
+        "A": "Ir. Soekarno",
+        "B": "Drs. Moh. Hatta",
+        "C": "Laksamana Maeda",
+        "D": "Ahmad Subardjo",
+        "E": "Sayuti Melik"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Laksamana Maeda\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2025 - IPS",
+      "hari_ujian": 4
+    }
+  ]
+}

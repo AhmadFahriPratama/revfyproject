@@ -1,0 +1,30 @@
+{
+  "id": "materi-sd-kls4-bi",
+  "tingkat": "SD Kelas 4",
+  "mapel": "Bahasa Indonesia",
+  "materi": "Membaca Teks Menguraikan Gagasan, Menulis Puisi, Pendapat, dan Wawancara",
+  "deskripsi": "Materi Bahasa Indonesia Kelas 4 SD berfokus pada kemampuan menguraikan gagasan pokok dan pendukung dari teks, menulis laporan wawancara, memahami puisi, serta menyampaikan pendapat dengan jelas dan runtut.",
+  "konten": [
+    {
+      "bab": "1. Gagasan Pokok dan Gagasan Pendukung",
+      "teks": "Mengenali dan menguraikan gagasan pokok (ide utama) serta gagasan pendukung (informasi tambahan) dari paragraf teks tulis, lisan, maupun visual. Memahami bagaimana sebuah paragraf yang utuh dibentuk."
+    },
+    {
+      "bab": "2. Berbagai Jenis Paragraf",
+      "teks": "Mempelajari jenis-jenis paragraf berdasarkan letak kalimat utamanya: Deduktif (di awal), Induktif (di akhir), dan Campuran (awal & akhir). Mengembangkan kerangka karangan menjadi paragraf yang padu."
+    },
+    {
+      "bab": "3. Puisi dan Rima",
+      "teks": "Membaca dan membuat puisi anak dengan memperhatikan tema, rima (persajakan), dan pilihan kata (diksi). Memahami perbedaan antara teks puisi dan teks prosa (cerita biasa)."
+    },
+    {
+      "bab": "4. Wawancara",
+      "teks": "Menyusun peta pikiran, membuat daftar pertanyaan, serta melakukan wawancara dengan narasumber. Menuliskan laporan hasil wawancara menggunakan kosakata baku dan kalimat efektif."
+    },
+    {
+      "bab": "5. Mencermati Teks Petunjuk",
+      "teks": "Membaca dan membuat teks petunjuk (prosedur) penggunaan alat atau pembuatan sesuatu dengan langkah-langkah yang berurutan dan bahasa yang komunikatif."
+    }
+  ],
+  "tag": ["sd-4", "bahasa-indonesia", "gagasan-pokok", "puisi", "wawancara", "teks-petunjuk"]
+}

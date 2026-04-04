@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_MP_01",
+    "pertanyaan": "FR Administrasi: Jika Anda menerima surat masuk bertanda 'RAHASIA', apa yang seharusnya dilakukan?",
+    "opsi": [
+      "Memberikannya langsung kepada atasan yang dituju tanpa membuka amplopnya",
+      "Membukanya dan membacanya keras-keras",
+      "Memfotokopinya untuk arsip pribadi",
+      "Membuangnya karena rahasia",
+      "Menginfokan isinya ke teman kantor"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_MP_02",
+    "pertanyaan": "FR Teknologi: Kombinasi tombol shortcut pada keyboard untuk menyimpan (save) dokumen adalah...",
+    "opsi": [
+      "Ctrl + C",
+      "Ctrl + S",
+      "Ctrl + V",
+      "Ctrl + P",
+      "Alt + F4"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_MP_03",
+    "pertanyaan": "FR Pelayanan: Tamu datang tanpa janji saat pimpinan sedang sibuk rapat. Sikap Anda adalah...",
+    "opsi": [
+      "Menyuruh tamu pulang kasar",
+      "Membiarkan tamu menunggu tanpa menyapa",
+      "Menyambut ramah, menjelaskan pimpinan sedang rapat, dan menanyakan apakah bersedia menunggu atau meninggalkan pesan",
+      "Menginterupsi pimpinan di tengah rapat",
+      "Menangis bingung"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_MP_04",
+    "pertanyaan": "FR Arsip: Di lemari filing cabinet, papan pembatas antar folder disebut...",
+    "opsi": [
+      "Label",
+      "Drawer",
+      "Hanging Folder",
+      "Guide",
+      "Box file"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_MP_05",
+    "pertanyaan": "FR Komunikasi: Sifat pembicaraan di telepon kantor harus 'Brief' dan 'Clear', maksudnya...",
+    "opsi": [
+      "Panjang lebar dan samar",
+      "Singkat karena pulsa mahal saja",
+      "Bingung dan pelan",
+      "Hanya salam saja",
+      "Singkat dan jelas agar tidak menyita waktu dan menghindari miskomunikasi"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

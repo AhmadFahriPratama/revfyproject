@@ -1,0 +1,708 @@
+{
+  "id": "smp-8-ips",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "IPS",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-8-ips-01",
+      "teks": "Salah satu keuntungan letak geografis kawasan ASEAN yang berada di antara jalur persilangan dunia adalah... (Latihan #1)",
+      "opsi": {
+        "A": "Wilayah Asia Tenggara menjadi jalur strategis perdagangan internasional",
+        "B": "Rawan terjadi invasi oleh negara besar",
+        "C": "Mudah menjadi sasaran imigrasi liar",
+        "D": "Penyebab tingginya angka pengangguran terdidik",
+        "E": "Negara Eropa bebas membuang limbah industri"
+      },
+      "kunci": "A",
+      "pembahasan": "Letak silang menguntungkan posisi perekonomian global karena menjadi rute pelayaran dan perdagangan yang sangat padat (transit).",
+      "trik": "Posisi strategis = Pusat jalur dagang dunia."
+    },
+    {
+      "id": "smp-8-ips-02",
+      "teks": "Satu-satunya negara di kawasan ASEAN yang tidak berbatasan laut dengan samudra lepas (landlocked country) adalah... (Latihan #2)",
+      "opsi": {
+        "A": "Brunei Darussalam",
+        "B": "Laos",
+        "C": "Kamboja",
+        "D": "Myanmar",
+        "E": "Singapura"
+      },
+      "kunci": "B",
+      "pembahasan": "Laos dikelilingi daratan sepenuhnya (Vietnam, Thailand, Kamboja, Myanmar, Tiongkok) tanpa punya garis laut pesisir.",
+      "trik": "Laos = Terkunci daratan (Landlocked)."
+    },
+    {
+      "id": "smp-8-ips-03",
+      "teks": "Perpindahan status sosial seseorang atau sekelompok orang dari suatu lapisan ke lapisan sosial lain yang sederajat disebut mobilitas... (Latihan #3)",
+      "opsi": {
+        "A": "Vertikal naik (Climbing)",
+        "B": "Vertikal turun (Sinking)",
+        "C": "Horizontal",
+        "D": "Antargenerasi",
+        "E": "Intragenerasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Mobilitas horizontal adalah perpindahan status sosial namun masih dalam tingkat kesejahteraan / kasta yang sederajat/sama (contoh guru pindah mengajar ke sekolah lain).",
+      "trik": "Horizontal = Sejajar / Mendatar."
+    },
+    {
+      "id": "smp-8-ips-04",
+      "teks": "Andi yang dulunya seorang pedagang asongan kecil, kini sukses menjadi pemilik minimarket besar. Hal ini merupakan contoh dari... (Latihan #4)",
+      "opsi": {
+        "A": "Social Sinking",
+        "B": "Social Horizontal",
+        "C": "Konflik kelas sosial",
+        "D": "Social Climbing",
+        "E": "Integrasi vertikal"
+      },
+      "kunci": "D",
+      "pembahasan": "Mobilitas vertikal naik (Social Climbing) terjadi karena peningkatan status atau taraf hidup individu yang asalnya dari bawah ke atas.",
+      "trik": "Climb = Memanjat/Naik."
+    },
+    {
+      "id": "smp-8-ips-05",
+      "teks": "Pihak (kelompok/orang) yang melakukan kegiatan konsumsi dengan menghabiskan nilai guna barang disebut... (Latihan #5)",
+      "opsi": {
+        "A": "Rumah Tangga Produsen (RTP)",
+        "B": "Rumah Tangga Pemerintah",
+        "C": "Masyarakat Luar Negeri",
+        "D": "Distributor Utama",
+        "E": "Rumah Tangga Konsumen (RTK)"
+      },
+      "kunci": "E",
+      "pembahasan": "RTK / Konsumen bertindak selaku pemakai suatu barang/jasa hasil produksi.",
+      "trik": "Konsumsi = Konsumen (RTK)."
+    },
+    {
+      "id": "smp-8-ips-06",
+      "teks": "Tujuan bangsa-bangsa Barat (di antaranya Portugis, Spanyol, Belanda) awal mula datang ke Indonesia/Nusantara adalah... (Latihan #6)",
+      "opsi": {
+        "A": "Menguasai rempah-rempah yang nilainya tinggi di Eropa",
+        "B": "Penyebaran paham monarki",
+        "C": "Memberantas penyakit tropis",
+        "D": "Belajar bahasa Melayu",
+        "E": "Melakukan pertukaran pelajar"
+      },
+      "kunci": "A",
+      "pembahasan": "Motif kuno penjajahan (3G: Gold, Glory, Gospel) salah satu target ekonomi tertingginya (Gold) adalah monopoli perdagangan Rempah-Rempah.",
+      "trik": "Eropa butuh rempah untuk musim dingin dan harganya sangat mahal."
+    },
+    {
+      "id": "smp-8-ips-07",
+      "teks": "Sistem Tanam Paksa (Cultuurstelsel) yang diberlakukan di Indonesia sejak tahun 1830 dicetuskan oleh Gubernur Jenderal... (Latihan #7)",
+      "opsi": {
+        "A": "Herman Willem Daendels",
+        "B": "Johannes Van den Bosch",
+        "C": "Thomas Stamford Raffles",
+        "D": "Jan Pieterszoon Coen",
+        "E": "Cornelis de Houtman"
+      },
+      "kunci": "B",
+      "pembahasan": "Johannes van den Bosch adalah tokoh Belanda pencetus cultuurstelsel untuk mengisi kas negara Belanda yang kosong pasca perang.",
+      "trik": "Tanam Paksa = Van den Bosch."
+    },
+    {
+      "id": "smp-8-ips-08",
+      "teks": "Berdirinya organisasi pemuda yang modern pertama di Indonesia pada 20 Mei 1908 adalah... (Latihan #8)",
+      "opsi": {
+        "A": "Sarekat Islam",
+        "B": "Indische Partij",
+        "C": "Budi Utomo",
+        "D": "Muhammadiyah",
+        "E": "Jong Java"
+      },
+      "kunci": "C",
+      "pembahasan": "Budi Utomo (Boedi Oetomo) adalah pelopor pergerakan nasional yang pertama berdiri, diperingati sbg Hari Kebangkitan Nasional (20 Mei).",
+      "trik": "1908 = Budi Utomo (Awal Kebangkitan Nasional)."
+    },
+    {
+      "id": "smp-8-ips-09",
+      "teks": "Kongres Pemuda II yang menghasilkan rumusan ikrar kebangsaan (Sumpah Pemuda) terjadi pada tanggal... (Latihan #9)",
+      "opsi": {
+        "A": "2 Mei 1908",
+        "B": "1 Juni 1945",
+        "C": "17 Agustus 1945",
+        "D": "28 Oktober 1928",
+        "E": "10 November 1945"
+      },
+      "kunci": "D",
+      "pembahasan": "Sumpah Pemuda memuat 3 butir (bertumpah darah satu, berbangsa satu, berbahasa persatuan) disepakati 28 Oktober 1928.",
+      "trik": "28 Oktober = Sumpah Pemuda."
+    },
+    {
+      "id": "smp-8-ips-10",
+      "teks": "Konflik sosial di masyarakat seringkali dilatarbelakangi oleh... (Latihan #10)",
+      "opsi": {
+        "A": "Persamaan pandangan/pendapat",
+        "B": "Kesamaan ras",
+        "C": "Tingginya sikap toleransi antar warga",
+        "D": "Kesempurnaan hidup manusia",
+        "E": "Perbedaan kepentingan, kebudayaan, atau kesenjangan sosial"
+      },
+      "kunci": "E",
+      "pembahasan": "Konflik (benturan sosial) selalu dipicu karena adanya bentrokan beda pendapat, rebutan kuasa/kepentingan, maupun gap ketimpangan kekayaan.",
+      "trik": "Konflik = karena Berbeda dan Berselisih."
+    },
+    {
+      "id": "smp-8-ips-11",
+      "teks": "Salah satu keuntungan letak geografis kawasan ASEAN yang berada di antara jalur persilangan dunia adalah... (Latihan #11)",
+      "opsi": {
+        "A": "Wilayah Asia Tenggara menjadi jalur strategis perdagangan internasional",
+        "B": "Rawan terjadi invasi oleh negara besar",
+        "C": "Mudah menjadi sasaran imigrasi liar",
+        "D": "Penyebab tingginya angka pengangguran terdidik",
+        "E": "Negara Eropa bebas membuang limbah industri"
+      },
+      "kunci": "A",
+      "pembahasan": "Letak silang menguntungkan posisi perekonomian global karena menjadi rute pelayaran dan perdagangan yang sangat padat (transit).",
+      "trik": "Posisi strategis = Pusat jalur dagang dunia."
+    },
+    {
+      "id": "smp-8-ips-12",
+      "teks": "Satu-satunya negara di kawasan ASEAN yang tidak berbatasan laut dengan samudra lepas (landlocked country) adalah... (Latihan #12)",
+      "opsi": {
+        "A": "Brunei Darussalam",
+        "B": "Laos",
+        "C": "Kamboja",
+        "D": "Myanmar",
+        "E": "Singapura"
+      },
+      "kunci": "B",
+      "pembahasan": "Laos dikelilingi daratan sepenuhnya (Vietnam, Thailand, Kamboja, Myanmar, Tiongkok) tanpa punya garis laut pesisir.",
+      "trik": "Laos = Terkunci daratan (Landlocked)."
+    },
+    {
+      "id": "smp-8-ips-13",
+      "teks": "Perpindahan status sosial seseorang atau sekelompok orang dari suatu lapisan ke lapisan sosial lain yang sederajat disebut mobilitas... (Latihan #13)",
+      "opsi": {
+        "A": "Vertikal naik (Climbing)",
+        "B": "Vertikal turun (Sinking)",
+        "C": "Horizontal",
+        "D": "Antargenerasi",
+        "E": "Intragenerasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Mobilitas horizontal adalah perpindahan status sosial namun masih dalam tingkat kesejahteraan / kasta yang sederajat/sama (contoh guru pindah mengajar ke sekolah lain).",
+      "trik": "Horizontal = Sejajar / Mendatar."
+    },
+    {
+      "id": "smp-8-ips-14",
+      "teks": "Andi yang dulunya seorang pedagang asongan kecil, kini sukses menjadi pemilik minimarket besar. Hal ini merupakan contoh dari... (Latihan #14)",
+      "opsi": {
+        "A": "Social Sinking",
+        "B": "Social Horizontal",
+        "C": "Konflik kelas sosial",
+        "D": "Social Climbing",
+        "E": "Integrasi vertikal"
+      },
+      "kunci": "D",
+      "pembahasan": "Mobilitas vertikal naik (Social Climbing) terjadi karena peningkatan status atau taraf hidup individu yang asalnya dari bawah ke atas.",
+      "trik": "Climb = Memanjat/Naik."
+    },
+    {
+      "id": "smp-8-ips-15",
+      "teks": "Pihak (kelompok/orang) yang melakukan kegiatan konsumsi dengan menghabiskan nilai guna barang disebut... (Latihan #15)",
+      "opsi": {
+        "A": "Rumah Tangga Produsen (RTP)",
+        "B": "Rumah Tangga Pemerintah",
+        "C": "Masyarakat Luar Negeri",
+        "D": "Distributor Utama",
+        "E": "Rumah Tangga Konsumen (RTK)"
+      },
+      "kunci": "E",
+      "pembahasan": "RTK / Konsumen bertindak selaku pemakai suatu barang/jasa hasil produksi.",
+      "trik": "Konsumsi = Konsumen (RTK)."
+    },
+    {
+      "id": "smp-8-ips-16",
+      "teks": "Tujuan bangsa-bangsa Barat (di antaranya Portugis, Spanyol, Belanda) awal mula datang ke Indonesia/Nusantara adalah... (Latihan #16)",
+      "opsi": {
+        "A": "Menguasai rempah-rempah yang nilainya tinggi di Eropa",
+        "B": "Penyebaran paham monarki",
+        "C": "Memberantas penyakit tropis",
+        "D": "Belajar bahasa Melayu",
+        "E": "Melakukan pertukaran pelajar"
+      },
+      "kunci": "A",
+      "pembahasan": "Motif kuno penjajahan (3G: Gold, Glory, Gospel) salah satu target ekonomi tertingginya (Gold) adalah monopoli perdagangan Rempah-Rempah.",
+      "trik": "Eropa butuh rempah untuk musim dingin dan harganya sangat mahal."
+    },
+    {
+      "id": "smp-8-ips-17",
+      "teks": "Sistem Tanam Paksa (Cultuurstelsel) yang diberlakukan di Indonesia sejak tahun 1830 dicetuskan oleh Gubernur Jenderal... (Latihan #17)",
+      "opsi": {
+        "A": "Herman Willem Daendels",
+        "B": "Johannes Van den Bosch",
+        "C": "Thomas Stamford Raffles",
+        "D": "Jan Pieterszoon Coen",
+        "E": "Cornelis de Houtman"
+      },
+      "kunci": "B",
+      "pembahasan": "Johannes van den Bosch adalah tokoh Belanda pencetus cultuurstelsel untuk mengisi kas negara Belanda yang kosong pasca perang.",
+      "trik": "Tanam Paksa = Van den Bosch."
+    },
+    {
+      "id": "smp-8-ips-18",
+      "teks": "Berdirinya organisasi pemuda yang modern pertama di Indonesia pada 20 Mei 1908 adalah... (Latihan #18)",
+      "opsi": {
+        "A": "Sarekat Islam",
+        "B": "Indische Partij",
+        "C": "Budi Utomo",
+        "D": "Muhammadiyah",
+        "E": "Jong Java"
+      },
+      "kunci": "C",
+      "pembahasan": "Budi Utomo (Boedi Oetomo) adalah pelopor pergerakan nasional yang pertama berdiri, diperingati sbg Hari Kebangkitan Nasional (20 Mei).",
+      "trik": "1908 = Budi Utomo (Awal Kebangkitan Nasional)."
+    },
+    {
+      "id": "smp-8-ips-19",
+      "teks": "Kongres Pemuda II yang menghasilkan rumusan ikrar kebangsaan (Sumpah Pemuda) terjadi pada tanggal... (Latihan #19)",
+      "opsi": {
+        "A": "2 Mei 1908",
+        "B": "1 Juni 1945",
+        "C": "17 Agustus 1945",
+        "D": "28 Oktober 1928",
+        "E": "10 November 1945"
+      },
+      "kunci": "D",
+      "pembahasan": "Sumpah Pemuda memuat 3 butir (bertumpah darah satu, berbangsa satu, berbahasa persatuan) disepakati 28 Oktober 1928.",
+      "trik": "28 Oktober = Sumpah Pemuda."
+    },
+    {
+      "id": "smp-8-ips-20",
+      "teks": "Konflik sosial di masyarakat seringkali dilatarbelakangi oleh... (Latihan #20)",
+      "opsi": {
+        "A": "Persamaan pandangan/pendapat",
+        "B": "Kesamaan ras",
+        "C": "Tingginya sikap toleransi antar warga",
+        "D": "Kesempurnaan hidup manusia",
+        "E": "Perbedaan kepentingan, kebudayaan, atau kesenjangan sosial"
+      },
+      "kunci": "E",
+      "pembahasan": "Konflik (benturan sosial) selalu dipicu karena adanya bentrokan beda pendapat, rebutan kuasa/kepentingan, maupun gap ketimpangan kekayaan.",
+      "trik": "Konflik = karena Berbeda dan Berselisih."
+    },
+    {
+      "id": "smp-8-ips-21",
+      "teks": "Salah satu keuntungan letak geografis kawasan ASEAN yang berada di antara jalur persilangan dunia adalah... (Latihan #21)",
+      "opsi": {
+        "A": "Wilayah Asia Tenggara menjadi jalur strategis perdagangan internasional",
+        "B": "Rawan terjadi invasi oleh negara besar",
+        "C": "Mudah menjadi sasaran imigrasi liar",
+        "D": "Penyebab tingginya angka pengangguran terdidik",
+        "E": "Negara Eropa bebas membuang limbah industri"
+      },
+      "kunci": "A",
+      "pembahasan": "Letak silang menguntungkan posisi perekonomian global karena menjadi rute pelayaran dan perdagangan yang sangat padat (transit).",
+      "trik": "Posisi strategis = Pusat jalur dagang dunia."
+    },
+    {
+      "id": "smp-8-ips-22",
+      "teks": "Satu-satunya negara di kawasan ASEAN yang tidak berbatasan laut dengan samudra lepas (landlocked country) adalah... (Latihan #22)",
+      "opsi": {
+        "A": "Brunei Darussalam",
+        "B": "Laos",
+        "C": "Kamboja",
+        "D": "Myanmar",
+        "E": "Singapura"
+      },
+      "kunci": "B",
+      "pembahasan": "Laos dikelilingi daratan sepenuhnya (Vietnam, Thailand, Kamboja, Myanmar, Tiongkok) tanpa punya garis laut pesisir.",
+      "trik": "Laos = Terkunci daratan (Landlocked)."
+    },
+    {
+      "id": "smp-8-ips-23",
+      "teks": "Perpindahan status sosial seseorang atau sekelompok orang dari suatu lapisan ke lapisan sosial lain yang sederajat disebut mobilitas... (Latihan #23)",
+      "opsi": {
+        "A": "Vertikal naik (Climbing)",
+        "B": "Vertikal turun (Sinking)",
+        "C": "Horizontal",
+        "D": "Antargenerasi",
+        "E": "Intragenerasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Mobilitas horizontal adalah perpindahan status sosial namun masih dalam tingkat kesejahteraan / kasta yang sederajat/sama (contoh guru pindah mengajar ke sekolah lain).",
+      "trik": "Horizontal = Sejajar / Mendatar."
+    },
+    {
+      "id": "smp-8-ips-24",
+      "teks": "Andi yang dulunya seorang pedagang asongan kecil, kini sukses menjadi pemilik minimarket besar. Hal ini merupakan contoh dari... (Latihan #24)",
+      "opsi": {
+        "A": "Social Sinking",
+        "B": "Social Horizontal",
+        "C": "Konflik kelas sosial",
+        "D": "Social Climbing",
+        "E": "Integrasi vertikal"
+      },
+      "kunci": "D",
+      "pembahasan": "Mobilitas vertikal naik (Social Climbing) terjadi karena peningkatan status atau taraf hidup individu yang asalnya dari bawah ke atas.",
+      "trik": "Climb = Memanjat/Naik."
+    },
+    {
+      "id": "smp-8-ips-25",
+      "teks": "Pihak (kelompok/orang) yang melakukan kegiatan konsumsi dengan menghabiskan nilai guna barang disebut... (Latihan #25)",
+      "opsi": {
+        "A": "Rumah Tangga Produsen (RTP)",
+        "B": "Rumah Tangga Pemerintah",
+        "C": "Masyarakat Luar Negeri",
+        "D": "Distributor Utama",
+        "E": "Rumah Tangga Konsumen (RTK)"
+      },
+      "kunci": "E",
+      "pembahasan": "RTK / Konsumen bertindak selaku pemakai suatu barang/jasa hasil produksi.",
+      "trik": "Konsumsi = Konsumen (RTK)."
+    },
+    {
+      "id": "smp-8-ips-26",
+      "teks": "Tujuan bangsa-bangsa Barat (di antaranya Portugis, Spanyol, Belanda) awal mula datang ke Indonesia/Nusantara adalah... (Latihan #26)",
+      "opsi": {
+        "A": "Menguasai rempah-rempah yang nilainya tinggi di Eropa",
+        "B": "Penyebaran paham monarki",
+        "C": "Memberantas penyakit tropis",
+        "D": "Belajar bahasa Melayu",
+        "E": "Melakukan pertukaran pelajar"
+      },
+      "kunci": "A",
+      "pembahasan": "Motif kuno penjajahan (3G: Gold, Glory, Gospel) salah satu target ekonomi tertingginya (Gold) adalah monopoli perdagangan Rempah-Rempah.",
+      "trik": "Eropa butuh rempah untuk musim dingin dan harganya sangat mahal."
+    },
+    {
+      "id": "smp-8-ips-27",
+      "teks": "Sistem Tanam Paksa (Cultuurstelsel) yang diberlakukan di Indonesia sejak tahun 1830 dicetuskan oleh Gubernur Jenderal... (Latihan #27)",
+      "opsi": {
+        "A": "Herman Willem Daendels",
+        "B": "Johannes Van den Bosch",
+        "C": "Thomas Stamford Raffles",
+        "D": "Jan Pieterszoon Coen",
+        "E": "Cornelis de Houtman"
+      },
+      "kunci": "B",
+      "pembahasan": "Johannes van den Bosch adalah tokoh Belanda pencetus cultuurstelsel untuk mengisi kas negara Belanda yang kosong pasca perang.",
+      "trik": "Tanam Paksa = Van den Bosch."
+    },
+    {
+      "id": "smp-8-ips-28",
+      "teks": "Berdirinya organisasi pemuda yang modern pertama di Indonesia pada 20 Mei 1908 adalah... (Latihan #28)",
+      "opsi": {
+        "A": "Sarekat Islam",
+        "B": "Indische Partij",
+        "C": "Budi Utomo",
+        "D": "Muhammadiyah",
+        "E": "Jong Java"
+      },
+      "kunci": "C",
+      "pembahasan": "Budi Utomo (Boedi Oetomo) adalah pelopor pergerakan nasional yang pertama berdiri, diperingati sbg Hari Kebangkitan Nasional (20 Mei).",
+      "trik": "1908 = Budi Utomo (Awal Kebangkitan Nasional)."
+    },
+    {
+      "id": "smp-8-ips-29",
+      "teks": "Kongres Pemuda II yang menghasilkan rumusan ikrar kebangsaan (Sumpah Pemuda) terjadi pada tanggal... (Latihan #29)",
+      "opsi": {
+        "A": "2 Mei 1908",
+        "B": "1 Juni 1945",
+        "C": "17 Agustus 1945",
+        "D": "28 Oktober 1928",
+        "E": "10 November 1945"
+      },
+      "kunci": "D",
+      "pembahasan": "Sumpah Pemuda memuat 3 butir (bertumpah darah satu, berbangsa satu, berbahasa persatuan) disepakati 28 Oktober 1928.",
+      "trik": "28 Oktober = Sumpah Pemuda."
+    },
+    {
+      "id": "smp-8-ips-30",
+      "teks": "Konflik sosial di masyarakat seringkali dilatarbelakangi oleh... (Latihan #30)",
+      "opsi": {
+        "A": "Persamaan pandangan/pendapat",
+        "B": "Kesamaan ras",
+        "C": "Tingginya sikap toleransi antar warga",
+        "D": "Kesempurnaan hidup manusia",
+        "E": "Perbedaan kepentingan, kebudayaan, atau kesenjangan sosial"
+      },
+      "kunci": "E",
+      "pembahasan": "Konflik (benturan sosial) selalu dipicu karena adanya bentrokan beda pendapat, rebutan kuasa/kepentingan, maupun gap ketimpangan kekayaan.",
+      "trik": "Konflik = karena Berbeda dan Berselisih."
+    },
+    {
+      "id": "smp-8-ips-31",
+      "teks": "Salah satu keuntungan letak geografis kawasan ASEAN yang berada di antara jalur persilangan dunia adalah... (Latihan #31)",
+      "opsi": {
+        "A": "Wilayah Asia Tenggara menjadi jalur strategis perdagangan internasional",
+        "B": "Rawan terjadi invasi oleh negara besar",
+        "C": "Mudah menjadi sasaran imigrasi liar",
+        "D": "Penyebab tingginya angka pengangguran terdidik",
+        "E": "Negara Eropa bebas membuang limbah industri"
+      },
+      "kunci": "A",
+      "pembahasan": "Letak silang menguntungkan posisi perekonomian global karena menjadi rute pelayaran dan perdagangan yang sangat padat (transit).",
+      "trik": "Posisi strategis = Pusat jalur dagang dunia."
+    },
+    {
+      "id": "smp-8-ips-32",
+      "teks": "Satu-satunya negara di kawasan ASEAN yang tidak berbatasan laut dengan samudra lepas (landlocked country) adalah... (Latihan #32)",
+      "opsi": {
+        "A": "Brunei Darussalam",
+        "B": "Laos",
+        "C": "Kamboja",
+        "D": "Myanmar",
+        "E": "Singapura"
+      },
+      "kunci": "B",
+      "pembahasan": "Laos dikelilingi daratan sepenuhnya (Vietnam, Thailand, Kamboja, Myanmar, Tiongkok) tanpa punya garis laut pesisir.",
+      "trik": "Laos = Terkunci daratan (Landlocked)."
+    },
+    {
+      "id": "smp-8-ips-33",
+      "teks": "Perpindahan status sosial seseorang atau sekelompok orang dari suatu lapisan ke lapisan sosial lain yang sederajat disebut mobilitas... (Latihan #33)",
+      "opsi": {
+        "A": "Vertikal naik (Climbing)",
+        "B": "Vertikal turun (Sinking)",
+        "C": "Horizontal",
+        "D": "Antargenerasi",
+        "E": "Intragenerasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Mobilitas horizontal adalah perpindahan status sosial namun masih dalam tingkat kesejahteraan / kasta yang sederajat/sama (contoh guru pindah mengajar ke sekolah lain).",
+      "trik": "Horizontal = Sejajar / Mendatar."
+    },
+    {
+      "id": "smp-8-ips-34",
+      "teks": "Andi yang dulunya seorang pedagang asongan kecil, kini sukses menjadi pemilik minimarket besar. Hal ini merupakan contoh dari... (Latihan #34)",
+      "opsi": {
+        "A": "Social Sinking",
+        "B": "Social Horizontal",
+        "C": "Konflik kelas sosial",
+        "D": "Social Climbing",
+        "E": "Integrasi vertikal"
+      },
+      "kunci": "D",
+      "pembahasan": "Mobilitas vertikal naik (Social Climbing) terjadi karena peningkatan status atau taraf hidup individu yang asalnya dari bawah ke atas.",
+      "trik": "Climb = Memanjat/Naik."
+    },
+    {
+      "id": "smp-8-ips-35",
+      "teks": "Pihak (kelompok/orang) yang melakukan kegiatan konsumsi dengan menghabiskan nilai guna barang disebut... (Latihan #35)",
+      "opsi": {
+        "A": "Rumah Tangga Produsen (RTP)",
+        "B": "Rumah Tangga Pemerintah",
+        "C": "Masyarakat Luar Negeri",
+        "D": "Distributor Utama",
+        "E": "Rumah Tangga Konsumen (RTK)"
+      },
+      "kunci": "E",
+      "pembahasan": "RTK / Konsumen bertindak selaku pemakai suatu barang/jasa hasil produksi.",
+      "trik": "Konsumsi = Konsumen (RTK)."
+    },
+    {
+      "id": "smp-8-ips-36",
+      "teks": "Tujuan bangsa-bangsa Barat (di antaranya Portugis, Spanyol, Belanda) awal mula datang ke Indonesia/Nusantara adalah... (Latihan #36)",
+      "opsi": {
+        "A": "Menguasai rempah-rempah yang nilainya tinggi di Eropa",
+        "B": "Penyebaran paham monarki",
+        "C": "Memberantas penyakit tropis",
+        "D": "Belajar bahasa Melayu",
+        "E": "Melakukan pertukaran pelajar"
+      },
+      "kunci": "A",
+      "pembahasan": "Motif kuno penjajahan (3G: Gold, Glory, Gospel) salah satu target ekonomi tertingginya (Gold) adalah monopoli perdagangan Rempah-Rempah.",
+      "trik": "Eropa butuh rempah untuk musim dingin dan harganya sangat mahal."
+    },
+    {
+      "id": "smp-8-ips-37",
+      "teks": "Sistem Tanam Paksa (Cultuurstelsel) yang diberlakukan di Indonesia sejak tahun 1830 dicetuskan oleh Gubernur Jenderal... (Latihan #37)",
+      "opsi": {
+        "A": "Herman Willem Daendels",
+        "B": "Johannes Van den Bosch",
+        "C": "Thomas Stamford Raffles",
+        "D": "Jan Pieterszoon Coen",
+        "E": "Cornelis de Houtman"
+      },
+      "kunci": "B",
+      "pembahasan": "Johannes van den Bosch adalah tokoh Belanda pencetus cultuurstelsel untuk mengisi kas negara Belanda yang kosong pasca perang.",
+      "trik": "Tanam Paksa = Van den Bosch."
+    },
+    {
+      "id": "smp-8-ips-38",
+      "teks": "Berdirinya organisasi pemuda yang modern pertama di Indonesia pada 20 Mei 1908 adalah... (Latihan #38)",
+      "opsi": {
+        "A": "Sarekat Islam",
+        "B": "Indische Partij",
+        "C": "Budi Utomo",
+        "D": "Muhammadiyah",
+        "E": "Jong Java"
+      },
+      "kunci": "C",
+      "pembahasan": "Budi Utomo (Boedi Oetomo) adalah pelopor pergerakan nasional yang pertama berdiri, diperingati sbg Hari Kebangkitan Nasional (20 Mei).",
+      "trik": "1908 = Budi Utomo (Awal Kebangkitan Nasional)."
+    },
+    {
+      "id": "smp-8-ips-39",
+      "teks": "Kongres Pemuda II yang menghasilkan rumusan ikrar kebangsaan (Sumpah Pemuda) terjadi pada tanggal... (Latihan #39)",
+      "opsi": {
+        "A": "2 Mei 1908",
+        "B": "1 Juni 1945",
+        "C": "17 Agustus 1945",
+        "D": "28 Oktober 1928",
+        "E": "10 November 1945"
+      },
+      "kunci": "D",
+      "pembahasan": "Sumpah Pemuda memuat 3 butir (bertumpah darah satu, berbangsa satu, berbahasa persatuan) disepakati 28 Oktober 1928.",
+      "trik": "28 Oktober = Sumpah Pemuda."
+    },
+    {
+      "id": "smp-8-ips-40",
+      "teks": "Konflik sosial di masyarakat seringkali dilatarbelakangi oleh... (Latihan #40)",
+      "opsi": {
+        "A": "Persamaan pandangan/pendapat",
+        "B": "Kesamaan ras",
+        "C": "Tingginya sikap toleransi antar warga",
+        "D": "Kesempurnaan hidup manusia",
+        "E": "Perbedaan kepentingan, kebudayaan, atau kesenjangan sosial"
+      },
+      "kunci": "E",
+      "pembahasan": "Konflik (benturan sosial) selalu dipicu karena adanya bentrokan beda pendapat, rebutan kuasa/kepentingan, maupun gap ketimpangan kekayaan.",
+      "trik": "Konflik = karena Berbeda dan Berselisih."
+    },
+    {
+      "id": "smp-8-ips-41",
+      "teks": "Salah satu keuntungan letak geografis kawasan ASEAN yang berada di antara jalur persilangan dunia adalah... (Latihan #41)",
+      "opsi": {
+        "A": "Wilayah Asia Tenggara menjadi jalur strategis perdagangan internasional",
+        "B": "Rawan terjadi invasi oleh negara besar",
+        "C": "Mudah menjadi sasaran imigrasi liar",
+        "D": "Penyebab tingginya angka pengangguran terdidik",
+        "E": "Negara Eropa bebas membuang limbah industri"
+      },
+      "kunci": "A",
+      "pembahasan": "Letak silang menguntungkan posisi perekonomian global karena menjadi rute pelayaran dan perdagangan yang sangat padat (transit).",
+      "trik": "Posisi strategis = Pusat jalur dagang dunia."
+    },
+    {
+      "id": "smp-8-ips-42",
+      "teks": "Satu-satunya negara di kawasan ASEAN yang tidak berbatasan laut dengan samudra lepas (landlocked country) adalah... (Latihan #42)",
+      "opsi": {
+        "A": "Brunei Darussalam",
+        "B": "Laos",
+        "C": "Kamboja",
+        "D": "Myanmar",
+        "E": "Singapura"
+      },
+      "kunci": "B",
+      "pembahasan": "Laos dikelilingi daratan sepenuhnya (Vietnam, Thailand, Kamboja, Myanmar, Tiongkok) tanpa punya garis laut pesisir.",
+      "trik": "Laos = Terkunci daratan (Landlocked)."
+    },
+    {
+      "id": "smp-8-ips-43",
+      "teks": "Perpindahan status sosial seseorang atau sekelompok orang dari suatu lapisan ke lapisan sosial lain yang sederajat disebut mobilitas... (Latihan #43)",
+      "opsi": {
+        "A": "Vertikal naik (Climbing)",
+        "B": "Vertikal turun (Sinking)",
+        "C": "Horizontal",
+        "D": "Antargenerasi",
+        "E": "Intragenerasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Mobilitas horizontal adalah perpindahan status sosial namun masih dalam tingkat kesejahteraan / kasta yang sederajat/sama (contoh guru pindah mengajar ke sekolah lain).",
+      "trik": "Horizontal = Sejajar / Mendatar."
+    },
+    {
+      "id": "smp-8-ips-44",
+      "teks": "Andi yang dulunya seorang pedagang asongan kecil, kini sukses menjadi pemilik minimarket besar. Hal ini merupakan contoh dari... (Latihan #44)",
+      "opsi": {
+        "A": "Social Sinking",
+        "B": "Social Horizontal",
+        "C": "Konflik kelas sosial",
+        "D": "Social Climbing",
+        "E": "Integrasi vertikal"
+      },
+      "kunci": "D",
+      "pembahasan": "Mobilitas vertikal naik (Social Climbing) terjadi karena peningkatan status atau taraf hidup individu yang asalnya dari bawah ke atas.",
+      "trik": "Climb = Memanjat/Naik."
+    },
+    {
+      "id": "smp-8-ips-45",
+      "teks": "Pihak (kelompok/orang) yang melakukan kegiatan konsumsi dengan menghabiskan nilai guna barang disebut... (Latihan #45)",
+      "opsi": {
+        "A": "Rumah Tangga Produsen (RTP)",
+        "B": "Rumah Tangga Pemerintah",
+        "C": "Masyarakat Luar Negeri",
+        "D": "Distributor Utama",
+        "E": "Rumah Tangga Konsumen (RTK)"
+      },
+      "kunci": "E",
+      "pembahasan": "RTK / Konsumen bertindak selaku pemakai suatu barang/jasa hasil produksi.",
+      "trik": "Konsumsi = Konsumen (RTK)."
+    },
+    {
+      "id": "smp-8-ips-46",
+      "teks": "Tujuan bangsa-bangsa Barat (di antaranya Portugis, Spanyol, Belanda) awal mula datang ke Indonesia/Nusantara adalah... (Latihan #46)",
+      "opsi": {
+        "A": "Menguasai rempah-rempah yang nilainya tinggi di Eropa",
+        "B": "Penyebaran paham monarki",
+        "C": "Memberantas penyakit tropis",
+        "D": "Belajar bahasa Melayu",
+        "E": "Melakukan pertukaran pelajar"
+      },
+      "kunci": "A",
+      "pembahasan": "Motif kuno penjajahan (3G: Gold, Glory, Gospel) salah satu target ekonomi tertingginya (Gold) adalah monopoli perdagangan Rempah-Rempah.",
+      "trik": "Eropa butuh rempah untuk musim dingin dan harganya sangat mahal."
+    },
+    {
+      "id": "smp-8-ips-47",
+      "teks": "Sistem Tanam Paksa (Cultuurstelsel) yang diberlakukan di Indonesia sejak tahun 1830 dicetuskan oleh Gubernur Jenderal... (Latihan #47)",
+      "opsi": {
+        "A": "Herman Willem Daendels",
+        "B": "Johannes Van den Bosch",
+        "C": "Thomas Stamford Raffles",
+        "D": "Jan Pieterszoon Coen",
+        "E": "Cornelis de Houtman"
+      },
+      "kunci": "B",
+      "pembahasan": "Johannes van den Bosch adalah tokoh Belanda pencetus cultuurstelsel untuk mengisi kas negara Belanda yang kosong pasca perang.",
+      "trik": "Tanam Paksa = Van den Bosch."
+    },
+    {
+      "id": "smp-8-ips-48",
+      "teks": "Berdirinya organisasi pemuda yang modern pertama di Indonesia pada 20 Mei 1908 adalah... (Latihan #48)",
+      "opsi": {
+        "A": "Sarekat Islam",
+        "B": "Indische Partij",
+        "C": "Budi Utomo",
+        "D": "Muhammadiyah",
+        "E": "Jong Java"
+      },
+      "kunci": "C",
+      "pembahasan": "Budi Utomo (Boedi Oetomo) adalah pelopor pergerakan nasional yang pertama berdiri, diperingati sbg Hari Kebangkitan Nasional (20 Mei).",
+      "trik": "1908 = Budi Utomo (Awal Kebangkitan Nasional)."
+    },
+    {
+      "id": "smp-8-ips-49",
+      "teks": "Kongres Pemuda II yang menghasilkan rumusan ikrar kebangsaan (Sumpah Pemuda) terjadi pada tanggal... (Latihan #49)",
+      "opsi": {
+        "A": "2 Mei 1908",
+        "B": "1 Juni 1945",
+        "C": "17 Agustus 1945",
+        "D": "28 Oktober 1928",
+        "E": "10 November 1945"
+      },
+      "kunci": "D",
+      "pembahasan": "Sumpah Pemuda memuat 3 butir (bertumpah darah satu, berbangsa satu, berbahasa persatuan) disepakati 28 Oktober 1928.",
+      "trik": "28 Oktober = Sumpah Pemuda."
+    },
+    {
+      "id": "smp-8-ips-50",
+      "teks": "Konflik sosial di masyarakat seringkali dilatarbelakangi oleh... (Latihan #50)",
+      "opsi": {
+        "A": "Persamaan pandangan/pendapat",
+        "B": "Kesamaan ras",
+        "C": "Tingginya sikap toleransi antar warga",
+        "D": "Kesempurnaan hidup manusia",
+        "E": "Perbedaan kepentingan, kebudayaan, atau kesenjangan sosial"
+      },
+      "kunci": "E",
+      "pembahasan": "Konflik (benturan sosial) selalu dipicu karena adanya bentrokan beda pendapat, rebutan kuasa/kepentingan, maupun gap ketimpangan kekayaan.",
+      "trik": "Konflik = karena Berbeda dan Berselisih."
+    }
+  ]
+}

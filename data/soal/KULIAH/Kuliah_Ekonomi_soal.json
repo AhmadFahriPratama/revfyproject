@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_EK_01",
+    "pertanyaan": "Ilmu ekonomi yang mempelajari perilaku individu, rumah tangga, dan perusahaan dalam pengambilan keputusan ekonomi disebut...",
+    "opsi": [
+      "Mikroekonomi",
+      "Makroekonomi",
+      "Ekonomi Deskriptif",
+      "Ekonomi Politik",
+      "Ekonomi Teknik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mikroekonomi fokus pada unit-unit kecil dalam perekonomian."
+  },
+  {
+    "id": "KU_EK_02",
+    "pertanyaan": "Ilmu ekonomi yang mempelajari fenomena ekonomi secara keseluruhan (agregat), seperti inflasi, PDB, dan pengangguran disebut...",
+    "opsi": [
+      "Mikroekonomi",
+      "Makroekonomi",
+      "Akuntansi",
+      "Statistika",
+      "Ekonometrika"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Makroekonomi fokus pada tingkat nasional atau global."
+  },
+  {
+    "id": "KU_EK_03",
+    "pertanyaan": "Hukum permintaan (Law of Demand) menyatakan bahwa jika harga sebuah barang naik, maka jumlah barang yang diminta akan...",
+    "opsi": [
+      "Naik",
+      "Tetap",
+      "Turun",
+      "Tidak menentu",
+      "Hilang dari pasar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hubungan antara harga dan jumlah permintaan bersifat berbanding terbalik (ceteris paribus)."
+  },
+  {
+    "id": "KU_EK_04",
+    "pertanyaan": "Hukum penawaran (Law of Supply) menyatakan bahwa jika harga sebuah barang naik, maka jumlah barang yang ditawarkan oleh produsen akan...",
+    "opsi": [
+      "Turun",
+      "Tetap",
+      "Sama dengan nol",
+      "Naik",
+      "Tergantung musim"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Produsen cenderung menawarkan lebih banyak barang saat harga tinggi untuk mencari laba."
+  },
+  {
+    "id": "KU_EK_05",
+    "pertanyaan": "Sensitivitas perubahan jumlah barang yang diminta akibat perubahan harga barang itu sendiri disebut...",
+    "opsi": [
+      "Utilis",
+      "Pareto",
+      "Margin",
+      "Keseimbangan",
+      "Elastisitas Harga (Price Elasticity)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Elastisitas mengukur seberapa responsif konsumen terhadap perubahan harga."
+  },
+  {
+    "id": "KU_EK_06",
+    "pertanyaan": "Total nilai pasar semua barang dan jasa akhir yang diproduksi dalam suatu negara pada periode tertentu disebut...",
+    "opsi": [
+      "PDB (Produk Domestik Bruto)",
+      "PDRB",
+      "PDB Per Kapita",
+      "GNP",
+      "NNI"
+    ],
+    "jawaban": 0,
+    "pembahasan": "PDB (GDP) adalah indikator utama pertumbuhan ekonomi suatu negara."
+  },
+  {
+    "id": "KU_EK_07",
+    "pertanyaan": "Kenaikan harga barang-barang secara umum dan terus menerus dalam jangka waktu tertentu disebut...",
+    "opsi": [
+      "Deflasi",
+      "Inflasi",
+      "Resesi",
+      "Depresiasi",
+      "Devaluasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Inflasi yang tinggi menurunkan daya beli masyarakat."
+  },
+  {
+    "id": "KU_EK_08",
+    "pertanyaan": "Penurunan harga barang-barang secara umum dan terus menerus disebut...",
+    "opsi": [
+      "Inflasi",
+      "Stagflasi",
+      "Deflasi",
+      "Depresi",
+      "Apresiasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Deflasi yang berkepanjangan dapat menandakan kelesuan ekonomi."
+  },
+  {
+    "id": "KU_EK_09",
+    "pertanyaan": "Kombinasi antara strategi harga, produk, tempat, dan promosi dalam pemasaran dikenal dengan istilah...",
+    "opsi": [
+      "SWOT",
+      "STP",
+      "Blue Ocean",
+      "Bauran Pemasaran (Marketing Mix 4P)",
+      "Branding"
+    ],
+    "jawaban": 3,
+    "pembahasan": "4P: Product, Price, Place, Promotion. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Bauran Pemasaran (Marketing Mix 4P)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_EK_10",
+    "pertanyaan": "Proses membagi pasar menjadi kelompok-kelompok pembeli yang memiliki karakteristik serupa disebut...",
+    "opsi": [
+      "Targeting",
+      "Positioning",
+      "Produksi",
+      "Distribusi",
+      "Segmentasi (Segmentation)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Segmentasi membantu perusahaan fokus melayani kebutuhan spesifik konsumen."
+  },
+  {
+    "id": "KU_EK_11",
+    "pertanyaan": "Upaya perusahaan untuk menempatkan produk di benak konsumen agar memiliki citra unik dibanding pesaing disebut...",
+    "opsi": [
+      "Positioning",
+      "Segmentasi",
+      "Targeting",
+      "Direct Selling",
+      "Telemarketing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Positioning membangun identitas merk yang kuat."
+  },
+  {
+    "id": "KU_EK_12",
+    "pertanyaan": "Alat analisis untuk mengevaluasi kekuatan, kelemahan, peluang, dan ancaman sebuah bisnis disebut analisis...",
+    "opsi": [
+      "PESTEL",
+      "SWOT",
+      "BCG Matrix",
+      "Ansoff Matrix",
+      "Value Chain"
+    ],
+    "jawaban": 1,
+    "pembahasan": "SWOT: Strengths, Weaknesses, Opportunities, Threats."
+  },
+  {
+    "id": "KU_EK_13",
+    "pertanyaan": "Laporan keuangan yang menunjukkan posisi aset (kekayaan), utang, dan modal perusahaan pada tanggal tertentu disebut...",
+    "opsi": [
+      "Laporan Laba Rugi",
+      "Laporan Arus Kas",
+      "Neraca (Balance Sheet)",
+      "Buku Besar",
+      "Jurnal Umum"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Persamaan dasar: Aset = Liabilitas (Utang) + Ekuitas (Modal)."
+  },
+  {
+    "id": "KU_EK_14",
+    "pertanyaan": "Laporan keuangan yang menyajikan pendapatan dan beban perusahaan selama periode tertentu disebut...",
+    "opsi": [
+      "Neraca",
+      "Buku Kas",
+      "Laporan Perubahan Modal",
+      "Laporan Laba Rugi (Income Statement)",
+      "Daftar Gaji"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Laba/Rugi = Pendapatan - Beban (Expenses)."
+  },
+  {
+    "id": "KU_EK_15",
+    "pertanyaan": "Kemampuan perusahaan untuk memenuhi kewajiban hutang jangka pendeknya tepat waktu disebut...",
+    "opsi": [
+      "Solvabilitas",
+      "Profitabilitas",
+      "Rentabilitas",
+      "Fleksibilitas",
+      "Likuiditas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Likuiditas sering diukur dengan Current Ratio (Aset Lancar / Utang Lancar)."
+  },
+  {
+    "id": "KU_EK_16",
+    "pertanyaan": "Kemampuan perusahaan untuk membayar seluruh hutangnya (termasuk jangka panjang) jika perusahaan dilikuidasi disebut...",
+    "opsi": [
+      "Solvabilitas",
+      "Likuiditas",
+      "Efisiensi",
+      "Efektivitas",
+      "Grosir"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Solvabilitas mengukur kesehatan finansial jangka panjang."
+  },
+  {
+    "id": "KU_EK_17",
+    "pertanyaan": "Metode manajemen SDM dalam mencari dan menarik calon tenaga kerja yang kompeten disebut...",
+    "opsi": [
+      "Pelatihan",
+      "Rekrutmen",
+      "Seleksi",
+      "Mutasi",
+      "Promosi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Rekrutmen menghasilkan kumpulan pelamar yang nantinya akan diseleksi."
+  },
+  {
+    "id": "KU_EK_18",
+    "pertanyaan": "Kebijakan yang dilakukan pemerintah melalui pengaturan penerimaan (pajak) dan pengeluaran (belanja negara) disebut kebijakan...",
+    "opsi": [
+      "Kebijakan Moneter",
+      "Kebijakan Operasional",
+      "Kebijakan Fiskal",
+      "Kebijakan Impor",
+      "Kebijakan Harga"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kebijakan fiskal di Indonesia dikelola oleh Kementerian Keuangan."
+  },
+  {
+    "id": "KU_EK_19",
+    "pertanyaan": "Kebijakan yang dilakukan Bank Sentral untuk mengatur jumlah uang yang beredar dan suku bunga guna mencapai stabilitas ekonomi disebut kebijakan...",
+    "opsi": [
+      "Fiskal",
+      "Sosial",
+      "Pertanian",
+      "Moneter",
+      "Industri"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bank Indonesia (BI) adalah pemegang otoritas moneter di Indonesia."
+  },
+  {
+    "id": "KU_EK_20",
+    "pertanyaan": "Lembaga keuangan yang memiliki wewenang untuk menerbitkan uang kartal (kertas dan logam) di sebuah negara adalah...",
+    "opsi": [
+      "Bank Umum (Mandiri, BRI, dll)",
+      "Pegadaian",
+      "OJK",
+      "Bursa Efek",
+      "Bank Sentral (Bank Indonesia)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bank Indonesia memiliki tugas menjaga stabilitas nilai Rupiah."
+  },
+  {
+    "id": "KU_EK_21",
+    "pertanyaan": "Tempat bertemunya pihak yang memiliki kelebihan dana (investor) dengan pihak yang membutuhkan dana jangka panjang melalui instrumen saham/obligasi disebut...",
+    "opsi": [
+      "Pasar Modal (Bursa Efek)",
+      "Pasar Tradisional",
+      "Bank Perkreditan",
+      "Koperasi Simpan Pinjam",
+      "Pegadaian"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bursa Efek Indonesia (BEI) adalah tempat perdagangan efek di Indonesia."
+  },
+  {
+    "id": "KU_EK_22",
+    "pertanyaan": "Surat berharga yang menunjukkan kepemilikan seseorang atas sebuah perusahaan disebut...",
+    "opsi": [
+      "Cek",
+      "Saham (Stock)",
+      "Sertifikat Tanah",
+      "Obligasi",
+      "Promes"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pemegang saham berhak mendapatkan dividen (bagi hasil laba)."
+  },
+  {
+    "id": "KU_EK_23",
+    "pertanyaan": "Surat utang jangka panjang yang diterbitkan oleh perusahaan atau pemerintah kepada pemegang surat tersebut disebut...",
+    "opsi": [
+      "Saham",
+      "Option",
+      "Obligasi (Bond)",
+      "Waran",
+      "Deposito"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pemegang obligasi mendapatkan bunga (kupon) secara periodik."
+  },
+  {
+    "id": "KU_EK_24",
+    "pertanyaan": "Pasar di mana hanya terdapat satu produsen tunggal yang menguasai seluruh penawaran barang tanpa ada barang substitusi yang dekat disebut...",
+    "opsi": [
+      "Pasar Persaingan Sempurna",
+      "Pasar Oligopoli",
+      "Pasar Monopolistik",
+      "Pasar Monopoli",
+      "Pasar Bebas"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh monopoli di Indonesia: PT PLN untuk penyediaan listrik."
+  },
+  {
+    "id": "KU_EK_25",
+    "pertanyaan": "Pasar yang dikuasai oleh beberapa perusahaan besar (misal provider telekomunikasi) disebut pasar...",
+    "opsi": [
+      "Monopoli",
+      "Persaingan Sempurna",
+      "Monopsoni",
+      "Khusus",
+      "Oligopoli"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Persaingan di pasar oligopoli sangat ketat dalam hal promosi dan inovasi produk."
+  },
+  {
+    "id": "KU_EK_26",
+    "pertanyaan": "Biaya yang jumlahnya tetap dan tidak dipengaruhi oleh banyak sedikitnya barang yang diproduksi (misal sewa gedung) disebut...",
+    "opsi": [
+      "Biaya Tetap (Fixed Cost)",
+      "Biaya Variabel",
+      "Biaya Bahan Baku",
+      "Biaya Tenaga Kerja",
+      "Biaya Tak Terduga"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Fixed cost harus dibayar meski perusahaan tidak berproduksi sama sekali."
+  },
+  {
+    "id": "KU_EK_27",
+    "pertanyaan": "Biaya yang jumlahnya berubah-ubah sesuai dengan volume produksi (misal bahan baku) disebut...",
+    "opsi": [
+      "Fixed Cost",
+      "Variable Cost (Biaya Variabel)",
+      "Sunk Cost",
+      "Opportunity Cost",
+      "Overhead"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Makin banyak produksi, makin besar total biaya variabelnya."
+  },
+  {
+    "id": "KU_EK_28",
+    "pertanyaan": "Nilai dari pilihan terbaik yang dikorbankan ketika memilih suatu alternatif tindakan disebut...",
+    "opsi": [
+      "Biaya Produksi",
+      "Biaya Promosi",
+      "Biaya Peluang (Opportunity Cost)",
+      "Biaya Distribusi",
+      "Laba Kotor"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Biaya peluang muncul karena adanya kelangkaan sumber daya."
+  },
+  {
+    "id": "KU_EK_29",
+    "pertanyaan": "Kondisi di mana kebutuhan manusia tidak terbatas sementara alat pemuas kebutuhan (sumber daya) terbatas disebut...",
+    "opsi": [
+      "Kemakmuran",
+      "Kemiskinan",
+      "Kesenjangan",
+      "Kelangkaan (Scarcity)",
+      "Kelimpahan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kelangkaan adalah masalah inti dalam ilmu ekonomi."
+  },
+  {
+    "id": "KU_EK_30",
+    "pertanyaan": "Tindakan ekonomi yang dilakukan untuk mendapatkan hasil sebesar-besarnya dengan pengorbanan tertentu (atau hasil tertentu dengan pengorbanan sekecil-kecilnya) disebut...",
+    "opsi": [
+      "Motif Ekonomi",
+      "Hukum Ekonomi",
+      "Politik Ekonomi",
+      "Analisis Ekonomi",
+      "Prinsip Ekonomi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Prinsip ekonomi mengajarkan rasionalitas dalam bertindak."
+  },
+  {
+    "id": "KU_EK_31",
+    "pertanyaan": "Penerimaan yang diperoleh pemerintah dari rakyat tanpa adanya imbalan langsung (kontraprestasi) dan bersifat memaksa adalah...",
+    "opsi": [
+      "Pajak",
+      "Hibah",
+      "Retribusi (misal parkir)",
+      "Pinjaman Luar Negeri",
+      "Laba BUMN"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pajak digunakan untuk membiayai belanja publik (jalan, sekolah, pertahanan)."
+  },
+  {
+    "id": "KU_EK_32",
+    "pertanyaan": "E-commerce dengan model transaksi di mana sesama individu saling menjual barang (seperti di pasar barang bekas) disebut...",
+    "opsi": [
+      "B2B (Business to Business)",
+      "C2C (Consumer to Consumer)",
+      "B2C (Business to Consumer)",
+      "G2C (Government to Citizen)",
+      "C2B"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh C2C: Penjual individu di OLX, eBay, atau Tokopedia/Shopee (non-official store)."
+  },
+  {
+    "id": "KU_EK_33",
+    "pertanyaan": "Sistem ekonomi di mana pemerintah memiliki kendali penuh atas harga dan alokasi sumber daya disebut...",
+    "opsi": [
+      "Sistem Ekonomi Pasar (Liberal)",
+      "Sistem Ekonomi Campuran",
+      "Sistem Ekonomi Komando (Terpusat)",
+      "Sistem Ekonomi Tradisional",
+      "Sistem Ekonomi Kerakyatan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh klasik sistem komando adalah negara-negara sosialis/komunis."
+  },
+  {
+    "id": "KU_EK_34",
+    "pertanyaan": "Sistem ekonomi yang digunakan Indonesia adalah Sistem Ekonomi Pancasila yang berasaskan...",
+    "opsi": [
+      "Individualisme",
+      "Persaingan Bebas berdarah-darah",
+      "Monopoli penguasa",
+      "Keluargaan dan Gotong Royong",
+      "Nasib masing-masing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sesuai Pasal 33 UUD 1945, ekonomi disusun sebagai usaha bersama berdasar azas kekeluargaan."
+  },
+  {
+    "id": "KU_EK_35",
+    "pertanyaan": "Tingkat pengangguran yang terjadi karena seseorang sedang berpindah pekerjaan atau baru lulus mencari kerja disebut pengangguran...",
+    "opsi": [
+      "Struktural",
+      "Siklikal",
+      "Musiman",
+      "Teknologi",
+      "Friksional"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pengangguran friksional bersifat sementara dan normal dalam ekonomi."
+  },
+  {
+    "id": "KU_EK_36",
+    "pertanyaan": "Tingkat pengangguran yang terjadi akibat ketidaksesuaian antara keterampilan pekerja dengan kebutuhan lapangan kerja yang tersedia adalah...",
+    "opsi": [
+      "Struktural",
+      "Friksional",
+      "Siklikal",
+      "Tersembunyi",
+      "Setengah menganggur"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pengangguran struktural memerlukan pelatihan ulang (retraining) tenaga kerja."
+  },
+  {
+    "id": "KU_EK_37",
+    "pertanyaan": "Badan usaha yang seluruh atau sebagian modalnya dimiliki oleh negara melalui penyertaan secara langsung disebut...",
+    "opsi": [
+      "Koperasi",
+      "BUMN",
+      "PT Swasta",
+      "CV",
+      "Firma"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh BUMN: Pertamina, PLN, Telkom, Garuda Indonesia."
+  },
+  {
+    "id": "KU_EK_38",
+    "pertanyaan": "Perusahaan persekutuan yang didirikan oleh dua orang atau lebih dengan nama bersama dan tanggung jawab tak terbatas bagi tiap anggotanya disebut...",
+    "opsi": [
+      "Perseroan Terbatas (PT)",
+      "CV (Comanditaire Vennootschap)",
+      "Firma",
+      "Yayasan",
+      "BUMD"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dalam Firma, kekayaan pribadi pemilik dapat terseret jika perusahaan bangkrut/berhutang."
+  },
+  {
+    "id": "KU_EK_39",
+    "pertanyaan": "Gaya kepemimpinan yang memberikan kebebasan penuh kepada bawahan untuk mengambil keputusan sendiri tanpa campur tangan pemimpin (Laissez Faire) berisiko...",
+    "opsi": [
+      "Produktifitas sangat tinggi",
+      "Anggota tim takut",
+      "Gaji naik cepat",
+      "Kehilangan arah jika anggota tim tidak kompeten/kurang disiplin",
+      "Perusahaan jadi monopoli"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Gaya ini hanya cocok untuk tim yang sudah sangat ahli dan mandiri (expert)."
+  },
+  {
+    "id": "KU_EK_40",
+    "pertanyaan": "Teori motivasi 'Dua Faktor' (Hygienes dan Motivators) dikemukakan oleh...",
+    "opsi": [
+      "Abraham Maslow",
+      "Douglas McGregor",
+      "Henri Fayol",
+      "Adam Smith",
+      "Frederick Herzberg"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Faktor higiene (seperti gaji/suasana kerja) mencegah ketidakpuasan, tapi motivasi sejati lahir dari faktor motivator (seperti prestasi)."
+  },
+  {
+    "id": "KU_EK_41",
+    "pertanyaan": "Apa itu 'Logistik' dalam manajemen operasional?",
+    "opsi": [
+      "Manajemen aliran barang, informasi, dan sumber daya dari titik asal ke titik konsumsi",
+      "Hanya pengiriman barang",
+      "Menghitung uang",
+      "Mengecat gudang",
+      "Membayar pajak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Logistik memastikan barang tersedia di tempat yang tepat, waktu yang tepat, dan jumlah yang tepat."
+  },
+  {
+    "id": "KU_EK_42",
+    "pertanyaan": "Sistem inventori 'Just In Time' (JIT) bertujuan untuk...",
+    "opsi": [
+      "Menimbun barang sebanyak mungkin di gudang",
+      "Meminimalkan persediaan di gudang untuk mengurangi biaya penyimpanan",
+      "Membeli barang bekas",
+      "Memperlama waktu produksi",
+      "Menghindari pajak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "JIT dikembangkan oleh Toyota untuk efisiensi maksimal produksi."
+  },
+  {
+    "id": "KU_EK_43",
+    "pertanyaan": "Apa risiko utama dari strategi hutang (leverage) yang terlalu tinggi bagi perusahaan?",
+    "opsi": [
+      "Perusahaan jadi makin kaya",
+      "Karyawan berhenti kerja",
+      "Risiko kebangkrutan (default) jika arus kas tidak mampu membayar bunga dan pokok hutang",
+      "Pemerintah memberikan subsidi",
+      "Saham jadi murah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hutang adalah pedang bermata dua; memperbesar laba saat sukses, mempercepat kehancuran saat gagal."
+  },
+  {
+    "id": "KU_EK_44",
+    "pertanyaan": "Lembaga negara yang bertugas melakukan pengawasan terhadap kegiatan di sektor jasa keuangan (Bank, Pasar Modal, Asuransi) adalah...",
+    "opsi": [
+      "Bank Indonesia",
+      "KPK",
+      "Bursa Efek",
+      "OJK (Otoritas Jasa Keuangan)",
+      "Kementerian Perdagangan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "OJK melindungi konsumen dari penipuan investasi dan kegagalan lembaga keuangan."
+  },
+  {
+    "id": "KU_EK_45",
+    "pertanyaan": "Dalam analisis pasar modal, singkatan 'IPO' (Initial Public Offering) berarti...",
+    "opsi": [
+      "Penjualan barang oleh individu",
+      "Pemberian bonus kepada direktur",
+      "Pelunasan hutang luar negeri",
+      "Pencairan dana darurat",
+      "Penawaran saham pertama kali oleh perusahaan kepada masyarakat umum (go-public)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "IPO memungkinkan perusahaan mendapatkan modal besar dari publik."
+  },
+  {
+    "id": "KU_EK_46",
+    "pertanyaan": "Istilah profesional bagi proses pemeriksaan laporan keuangan oleh pihak independen untuk memastikan kewajarannya disebut...",
+    "opsi": [
+      "Audit",
+      "Accounting",
+      "Invoicing",
+      "Budgeting",
+      "Booking"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Auditor memberikan opini (misal Wajar Tanpa Pengecualian / WTP)."
+  },
+  {
+    "id": "KU_EK_47",
+    "pertanyaan": "Pihak yang memimpin sebuah perusahaan dan bertanggung jawab kepada pemegang saham disebut...",
+    "opsi": [
+      "Manajer Lini",
+      "Direktur Utama (CEO)",
+      "Staf Administrasi",
+      "Buruh",
+      "Satpam"
+    ],
+    "jawaban": 1,
+    "pembahasan": "CEO (Chief Executive Officer) menetapkan arah strategis perusahaan."
+  },
+  {
+    "id": "KU_EK_48",
+    "pertanyaan": "Asas koperasi yang paling mendasar menurut UU No. 25 Tahun 1992 adalah...",
+    "opsi": [
+      "Azas Mencari Keuntungan",
+      "Azas Persaingan",
+      "Azas Kekeluargaan",
+      "Azas Kapitalis",
+      "Azas Monopoli"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Koperasi bertujuan menyejahterakan anggota pada khususnya dan masyarakat pada umumnya."
+  },
+  {
+    "id": "KU_EK_49",
+    "pertanyaan": "Pembagian laba hasil usaha koperasi yang dibagikan kepada anggota sebanding dengan jasa usahanya disebut...",
+    "opsi": [
+      "Dividen",
+      "Bunga",
+      "Gaji",
+      "SHU (Sisa Hasil Usaha)",
+      "Bonus"
+    ],
+    "jawaban": 3,
+    "pembahasan": "SHU dibagikan setahun sekali setelah Rapat Anggota Tahunan (RAT)."
+  },
+  {
+    "id": "KU_EK_50",
+    "pertanyaan": "Gelar akademik bagi lulusan program sarjana ekonomi di Indonesia meliputi...",
+    "opsi": [
+      "S.H",
+      "S.Pd",
+      "S.Sos",
+      "S.Pi",
+      "S.E (Sarjana Ekonomi) atau S.M (Sarjana Manajemen)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gelar disesuaikan dengan program studi spesifik (Akuntansi, Manajemen, atau Ekonomi Pembangunan)."
+  }
+]

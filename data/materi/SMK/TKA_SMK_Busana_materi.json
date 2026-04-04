@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Busana (Tata Busana)",
+  "tingkatan": "SMK",
+  "jurusan": "Busana / Tata Busana / Pilihan",
+  "deskripsi": "Materi persiapan TKA Busana untuk siswa SMK yang berfokus pada desain busana, pola konstruksi, teknik menjahit, pengetahuan tekstil, serta industri fashion.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar-Dasar Desain Busana",
+      "konten": "Unsur desain (garis, siluet, warna, tekstur), prinsip desain (keseimbangan, proporsi, aksen), sketsa mode (Fashion Illustration), serta teknik mewarnai desain.",
+      "tag": [
+        "tka smk busana materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Pengetahuan Tekstil dan Bahan",
+      "konten": "Jenis serat (alam, buatan), karakteristik kain (katun, sutra, wol, poliester), uji pembakaran serat, serta pemilihan bahan sesuai desain busana.",
+      "tag": [
+        "tka smk busana materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Pembuatan Pola Busana",
+      "konten": "Teknik mengambil ukuran tubuh, pembuatan pola dasar (badan, lengan, rok), teknik pecah pola sesuai desain, serta penggunaan alat ukur (Pita Ukur).",
+      "tag": [
+        "tka smk busana materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Teknologi Menjahit dan Produksi",
+      "konten": "Jenis-jenis mesin jahit (High speed, manual, obras), teknik menjahit kampuh, proses penggabungan bagian busana, serta langkah-langkah penyelesaian (Finishing).",
+      "tag": [
+        "tka smk busana materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Industri Fashion dan Custom Made",
+      "konten": "Sejarah busana, manajemen produksi busana massal (Garment) vs butik, perhitungan harga jual (Costing), serta etika profesi desainer dan penjahit.",
+      "tag": [
+        "tka smk busana materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-busana-materi",
+  "mapel": "TKA SMK: Busana (Tata Busana)",
+  "tag": [
+    "tka smk busana materi"
+  ]
+}

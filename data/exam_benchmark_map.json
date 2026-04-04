@@ -1,0 +1,35 @@
+{
+  "id": "exam-benchmark-map",
+  "benchmarks": [
+    {
+      "exam": "UTBK",
+      "keyMetrics": [
+        "subtest_accuracy",
+        "time_control",
+        "literacy_consistency"
+      ]
+    },
+    {
+      "exam": "CPNS",
+      "keyMetrics": [
+        "tiu_accuracy",
+        "twk_accuracy",
+        "tkp_consistency"
+      ]
+    },
+    {
+      "exam": "TKA_SMP",
+      "keyMetrics": [
+        "wajib_mastery",
+        "pilihan_focus"
+      ]
+    },
+    {
+      "exam": "TKA_SMK",
+      "keyMetrics": [
+        "wajib_mastery",
+        "pilihan_stream_accuracy"
+      ]
+    }
+  ]
+}

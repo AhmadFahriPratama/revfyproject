@@ -1,0 +1,54 @@
+{
+  "id": "FR_SMP_MAT_2025",
+  "mapel": "FR TKA SMP Matematika",
+  "tingkat": "SMP",
+  "soal": [
+    {
+      "id": "FR_SMP_MT_01",
+      "pertanyaan": "FIELD REPORT 2025: Muncul soal tentang pola bilangan yang melibatkan gambar (pola persegi). Jika pola ke-1 ada 1 titik, pola ke-2 ada 4 titik, pola ke-3 ada 9 titik. Maka pola ke-10 ada...",
+      "opsi": [
+        "100 titik",
+        "20 titik",
+        "80 titik",
+        "110 titik",
+        "121 titik"
+      ],
+      "jawaban": "A",
+      "pembahasan": "Ini adalah pola bilangan kuadrat (n^2). Pola ke-10 = 10^2 = 100.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    },
+    {
+      "id": "FR_SMP_MT_02",
+      "pertanyaan": "FR 2025: Diberikan soal perbandingan berbalik nilai tentang pembangunan gedung. 15 pekerja selesai dalam 20 hari. Jika ingin selesai dalam 12 hari, butuh tambahan pekerja sebanyak...",
+      "opsi": [
+        "5 orang",
+        "10 orang",
+        "25 orang",
+        "40 orang",
+        "8 orang"
+      ],
+      "jawaban": "B",
+      "pembahasan": "15x20 = nx12 -> 300 = 12n -> n = 25. Tambahan = 25 - 15 = 10 orang.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    },
+    {
+      "id": "FR_SMP_MT_03",
+      "pertanyaan": "FR 2025: Soal himpunan menanyakan jumlah siswa yang TIDAK menyukai keduanya. Dari 40 siswa, 25 suka basket, 20 suka voli, 10 suka keduanya. Maka yang tidak suka keduanya...",
+      "opsi": [
+        "10 siswa",
+        "15 siswa",
+        "5 siswa",
+        "20 siswa",
+        "0 siswa"
+      ],
+      "jawaban": "C",
+      "pembahasan": "Siswa suka basket saja = 15. Voli saja = 10. Keduanya = 10. Total suka = 15+10+10 = 35. Tidak suka = 40 - 35 = 5.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    }
+  ],
+  "tahun": 2025,
+  "deskripsi": "Arsip rekonstruksi berdasarkan pola soal pada file tka2025_smp_matematika.json."
+}

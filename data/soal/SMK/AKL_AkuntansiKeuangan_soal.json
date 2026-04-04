@@ -1,0 +1,652 @@
+[
+  {
+    "id": "AKL_AK_01",
+    "pertanyaan": "Dana kas kecil yang jumlahnya selalu tetap pada setiap pembentukan kembali merupakan ciri metode...",
+    "opsi": [
+      "Metode Imprest (Dana Tetap)",
+      "Metode Fluktuasi",
+      "Metode FIFO",
+      "Metode Rata-rata",
+      "Metode Akrual"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Dalam sistem Imprest, pengisian kembali dilakukan sebesar jumlah yang telah dikeluarkan sehingga saldo kembali ke jumlah semula."
+  },
+  {
+    "id": "AKL_AK_02",
+    "pertanyaan": "Berikut ini yang termasuk aktiva paling lancar adalah...",
+    "opsi": [
+      "Persediaan",
+      "Kas",
+      "Mesin",
+      "Piutang",
+      "Tanah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kas adalah alat pembayaran sah yang siap digunakan kapan saja tanpa perlu dikonversi."
+  },
+  {
+    "id": "AKL_AK_03",
+    "pertanyaan": "Penyebab perbedaan saldo kas di bank dengan di buku perusahaan karena ada setoran yang belum dicatat bank disebut...",
+    "opsi": [
+      "Cek Kosong",
+      "Outstanding Check (Cek Masih Beredar)",
+      "Deposit in Transit (Setoran dalam Perjalanan)",
+      "Biaya Administrasi Bank",
+      "Jasa Giro"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Setoran yang sudah dikirim perusahaan tapi belum diproses oleh bank saat penutupan laporan."
+  },
+  {
+    "id": "AKL_AK_04",
+    "pertanyaan": "Metode penghapusan piutang yang dilakukan tepat saat piutang tersebut benar-benar tidak dapat ditagih disebut...",
+    "opsi": [
+      "Allowance Method",
+      "FIFO Method",
+      "Net Present Value",
+      "Direct Write-off Method",
+      "LIFO Method"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penghapusan langsung mencatat kerugian piutang hanya saat debitur dinyatakan pailit atau tidak mampu bayar."
+  },
+  {
+    "id": "AKL_AK_05",
+    "pertanyaan": "Metode penilaian persediaan di mana barang yang pertama kali masuk dianggap yang pertama keluar adalah...",
+    "opsi": [
+      "LIFO (Last In First Out)",
+      "Average (Rata-rata)",
+      "Moving Average",
+      "Specific Identification",
+      "FIFO (First In First Out)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "FIFO mencerminkan arus fisik barang pada umumnya di gudang retail."
+  },
+  {
+    "id": "AKL_AK_06",
+    "pertanyaan": "Yang tidak termasuk harga perolehan sebuah mesin adalah...",
+    "opsi": [
+      "Biaya Pemeliharaan Rutin setelah pemakaian",
+      "Harga Faktur",
+      "Biaya Angkut",
+      "Biaya Pasang / Instalasi",
+      "Pajak Pertambahan Nilai"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Biaya pemeliharaan rutin setelah operasional masuk ke beban operasional, bukan harga perolehan aset."
+  },
+  {
+    "id": "AKL_AK_07",
+    "pertanyaan": "Metode penyusutan aktiva tetap dengan jumlah yang sama setiap tahun disebut metode...",
+    "opsi": [
+      "Saldo Menurun Teratur",
+      "Garis Lurus (Straight Line)",
+      "Jumlah Angka Tahun",
+      "Satuan Hasil Produksi",
+      "Anuitas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Rumusnya: (Harga Perolehan - Nilai Residu) / Umur Ekonomis."
+  },
+  {
+    "id": "AKL_AK_08",
+    "pertanyaan": "Penghapusan aktiva tetap karena habis umur ekonomisnya dan dibuang tanpa nilai sisa dicatat pada sisi debit akun...",
+    "opsi": [
+      "Beban Penyusutan",
+      "Aktiva Tetap",
+      "Akumulasi Penyusutan",
+      "Kas",
+      "Laba Penjualan Aktiva"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Akumulasi didebit untuk menutup akun kontra aset tersebut saat aset dilepas."
+  },
+  {
+    "id": "AKL_AK_09",
+    "pertanyaan": "Utang yang jangka waktu pelunasannya kurang dari satu tahun disebut...",
+    "opsi": [
+      "Utang Jangka Panjang",
+      "Utang Hipotek",
+      "Utang Obligasi",
+      "Utang Lancar (Kewajiban Jangka Pendek)",
+      "Modal"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Termasuk utang dagang, utang biaya, dan utang bank jangka pendek."
+  },
+  {
+    "id": "AKL_AK_10",
+    "pertanyaan": "Surat pernyataan janji tertulis dari debitur untuk membayar sejumlah uang pada tanggal tertentu disebut...",
+    "opsi": [
+      "Kuitansi",
+      "Faktur",
+      "Nota Debet",
+      "Cek",
+      "Wesel (Promes)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Wesel memiliki kekuatan hukum sebagai alat bukti utang piutang."
+  },
+  {
+    "id": "AKL_AK_11",
+    "pertanyaan": "Nilai buku aktiva tetap adalah...",
+    "opsi": [
+      "Harga Perolehan dikurangi Akumulasi Penyusutan",
+      "Harga Beli",
+      "Harga Pasar saat ini",
+      "Nilai Residu",
+      "Estimasi harga jual"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Book Value menunjukkan nilai bersih aset yang tersisa di dalam laporan keuangan."
+  },
+  {
+    "id": "AKL_AK_12",
+    "pertanyaan": "Jika perusahaan mencatat persediaan dengan sistem perpetual, maka setiap transaksi penjualan akan memengaruhi akun...",
+    "opsi": [
+      "Pembelian",
+      "Harga Pokok Penjualan (HPP)",
+      "Retur Penjualan",
+      "Beban Angkut",
+      "Potongan Pembelian"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sistem perpetual mencatat mutasi stok dan HPP secara real-time saat transaksi terjadi."
+  },
+  {
+    "id": "AKL_AK_13",
+    "pertanyaan": "Beban penyusutan untuk tahun pertama metode saldo menurun ganda jika HP=100jt, Umur=5th adalah...",
+    "opsi": [
+      "20jt",
+      "10jt",
+      "40jt",
+      "25jt",
+      "5jt"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Persentase = 2 * (100%/5) = 40%. Tahun 1 = 40% * 100jt = 40jt."
+  },
+  {
+    "id": "AKL_AK_14",
+    "pertanyaan": "Cek yang sudah ditulis perusahaan tapi belum dicairkan oleh pemegang cek di bank disebut...",
+    "opsi": [
+      "Deposit in transit",
+      "Cek Kosong",
+      "Bank Charge",
+      "Outstanding Check",
+      "Inkaso"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ini akan mengurangi saldo bank dalam proses rekonsiliasi."
+  },
+  {
+    "id": "AKL_AK_15",
+    "pertanyaan": "Apa itu nilai residu?",
+    "opsi": [
+      "Harga beli pertama kali",
+      "Biaya pemeliharaan",
+      "Jumlah penyusutan tiap tahun",
+      "Keuntungan penjualan barang",
+      "Nilai sisa aktiva setelah umur ekonomisnya habis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Estimasi nilai jual kembali aset di akhir masa manfaatnya."
+  },
+  {
+    "id": "AKL_AK_16",
+    "pertanyaan": "Kartu persediaan digunakan sebagai buku pembantu untuk mencatat...",
+    "opsi": [
+      "Mutasi keluar masuknya satu jenis barang dagang",
+      "Seluruh utang perusahaan",
+      "Laporan laba rugi",
+      "Daftar gaji karyawan",
+      "Data pelanggan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Satu kartu persediaan mewakili satu item/SKU barang."
+  },
+  {
+    "id": "AKL_AK_17",
+    "pertanyaan": "Syarat pembayaran 2/10, n/30 artinya...",
+    "opsi": [
+      "Potongan 10% jika bayar dalam 2 hari",
+      "Potongan 2% jika bayar dalam 10 hari, jatuh tempo 30 hari",
+      "Bayar 2 kali dalam 10 bulan",
+      "Bunga 2% per bulan",
+      "Diskon 30% untuk member"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Merupakan insentif agar debitur melunasi utangnya lebih cepat."
+  },
+  {
+    "id": "AKL_AK_18",
+    "pertanyaan": "Dalam rekonsiliasi bank, biaya administrasi bank bulanan akan...",
+    "opsi": [
+      "Menambah saldo bank",
+      "Menambah saldo buku perusahaan",
+      "Mengurangi saldo kas di buku perusahaan",
+      "Mengurangi saldo bank",
+      "Tidak berpengaruh"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Perusahaan baru mengetahui biaya ini setelah menerima rekening koran (debet memo)."
+  },
+  {
+    "id": "AKL_AK_19",
+    "pertanyaan": "Jurnal pencatatan kerugian piutang jika menggunakan metode cadangan adalah...",
+    "opsi": [
+      "Beban Kerugian Piutang (D), Piutang Dagang (K)",
+      "Piutang Dagang (D), Kas (K)",
+      "Kas (D), Piutang Dagang (K)",
+      "Beban Kerugian Piutang (D), Cadangan Kerugian Piutang (K)",
+      "Cadangan Kerugian Piutang (D), Beban Kerugian Piutang (K)"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Cadangan bertindak sebagai akun kontra piutang untuk menaksir nilai yang tidak tertagih."
+  },
+  {
+    "id": "AKL_AK_20",
+    "pertanyaan": "Metode persediaan yang menghasilkan nilai laba kotor paling tinggi saat harga barang cenderung naik adalah...",
+    "opsi": [
+      "LIFO",
+      "Average",
+      "Identifikasi Khusus",
+      "Sama saja",
+      "FIFO"
+    ],
+    "jawaban": 4,
+    "pembahasan": "FIFO mengeluarkan stok harga lama (murah) sehingga HPP rendah dan laba tinggi."
+  },
+  {
+    "id": "AKL_AK_21",
+    "pertanyaan": "Aktiva yang secara fisik tidak ada namun memberikan manfaat ekonomi disebut...",
+    "opsi": [
+      "Aktiva Tidak Berwujud (Intangible Assets)",
+      "Aktiva Tetap",
+      "Aktiva Lancar",
+      "Investasi",
+      "Beban Dibayar Dimuka"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: Goodwill, Hak Paten, Hak Cipta, Merek Dagang."
+  },
+  {
+    "id": "AKL_AK_22",
+    "pertanyaan": "Apa itu Goodwill?",
+    "opsi": [
+      "Sisa barang di gudang",
+      "Nama baik perusahaan yang memiliki nilai lebih",
+      "Utang yang dimaafkan",
+      "Uang muka pembelian",
+      "Biaya pendirian gedung"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Goodwill muncul saat pembelian perusahaan di atas nilai pasar aset bersihnya."
+  },
+  {
+    "id": "AKL_AK_23",
+    "pertanyaan": "Penyusutan aktiva sumber daya alam (seperti tambang/hutan) disebut...",
+    "opsi": [
+      "Depresiasi",
+      "Amortisasi",
+      "Deplesi",
+      "Akumulasi",
+      "Alokasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Deplesi dihitung berdasarkan jumlah unit yang dieksploitasi/diambil."
+  },
+  {
+    "id": "AKL_AK_24",
+    "pertanyaan": "Penyusutan aktiva tidak berwujud disebut...",
+    "opsi": [
+      "Depresiasi",
+      "Deplesi",
+      "Revaluasi",
+      "Amortisasi",
+      "Eliminasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Amortisasi biasanya menggunakan metode garis lurus selama masa manfaat hukum."
+  },
+  {
+    "id": "AKL_AK_25",
+    "pertanyaan": "Wesel Tagih yang terdapat janji pembayaran bunga disebut...",
+    "opsi": [
+      "Wesel Tanpa Bunga",
+      "Wesel Bayar",
+      "Cek Mundur",
+      "Giro",
+      "Wesel Berbunga"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bunga dihitung dari Nilai Nominal * Suku Bunga * Waktu."
+  },
+  {
+    "id": "AKL_AK_26",
+    "pertanyaan": "Alat pembayaran yang ditolak bank karena saldo penarik tidak mencukupi disebut...",
+    "opsi": [
+      "Cek Kosong (Non-Sufficient Fund)",
+      "Cek Bersilang",
+      "Wesel",
+      "Giro",
+      "Nota Kredit"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Cek kosong mengakibatkan pembatalan penerimaan kas di buku perusahaan."
+  },
+  {
+    "id": "AKL_AK_27",
+    "pertanyaan": "Dana Kas Kecil diisi kembali setiap terjadi pengeluaran tanpa menunggu jadwal tertentu merupakan ciri sistem...",
+    "opsi": [
+      "Dana Tetap",
+      "Fluktuasi",
+      "Perpetual",
+      "Periodik",
+      "Langsung"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sistem fluktuasi menjurnal setiap pengeluaran kas kecil saat itu juga."
+  },
+  {
+    "id": "AKL_AK_28",
+    "pertanyaan": "Saldo normal akun Cadangan Kerugian Piutang adalah...",
+    "opsi": [
+      "Debit",
+      "Tergantung transaksi",
+      "Kredit",
+      "Nol",
+      "Satu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Karena merupakan akun kontra untuk Piutang (Aktiva), maka saldo normalnya di Kredit."
+  },
+  {
+    "id": "AKL_AK_29",
+    "pertanyaan": "Akun yang digunakan untuk mencatat pengembalian barang yang telah terjual adalah...",
+    "opsi": [
+      "Retur Pembelian",
+      "Potongan Penjualan",
+      "Beban Angkut",
+      "Retur Penjualan",
+      "HPP"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Retur penjualan mengurangi piutang (kredit) atau menuntut pengembalian kas."
+  },
+  {
+    "id": "AKL_AK_30",
+    "pertanyaan": "Nilai tukar wesel ( maturity value ) didefinisikan sebagai...",
+    "opsi": [
+      "Nilai Nominal x Bunga",
+      "Nilai Nominal - Bunga",
+      "Hanya Bunga saja",
+      "Hanya Nominal saja",
+      "Nilai Nominal + Bunga"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jumlah total yang harus dibayar lunas pada saat tanggal jatuh tempo wesel."
+  },
+  {
+    "id": "AKL_AK_31",
+    "pertanyaan": "Akuntansi yang berkaitan dengan pengakuan dan pelaporan kewajiban perpajakan disebut...",
+    "opsi": [
+      "Akuntansi Perpajakan",
+      "Akuntansi Keuangan",
+      "Akuntansi Biaya",
+      "Akuntansi Manajemen",
+      "Auditing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Fokus pada kepatuhan terhadap undang-undang perpajakan."
+  },
+  {
+    "id": "AKL_AK_32",
+    "pertanyaan": "Apa fungsi Rekening Koran Bank bagi perusahaan?",
+    "opsi": [
+      "Sebagai dasar pencatatan pembantu piutang",
+      "Alat kontrol untuk melakukan rekonsiliasi kas",
+      "Daftar nama pemegang saham",
+      "Bukti pembelian barang",
+      "Laporan gaji"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Berisi catatan detail mutasi debit dan kredit akun perusahaan di bank."
+  },
+  {
+    "id": "AKL_AK_33",
+    "pertanyaan": "Metode penyusutan yang beban penyusutannya semakin mengecil setiap tahun adalah...",
+    "opsi": [
+      "Garis Lurus",
+      "Unit Produksi",
+      "Saldo Menurun Berganda",
+      "Anuitas",
+      "Jam Kerja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Karena persentase tetap dikalikan dengan nilai buku yang terus mengecil."
+  },
+  {
+    "id": "AKL_AK_34",
+    "pertanyaan": "Berapa lama masa manfaat umum gedung permanen menurut ketentuan perpajakan di Indonesia (Kelompok Bangunan)?",
+    "opsi": [
+      "5 tahun",
+      "10 tahun",
+      "4 tahun",
+      "20 tahun",
+      "8 tahun"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bangunan permanen disusutkan selama 20 tahun dengan tarif 5% (garis lurus)."
+  },
+  {
+    "id": "AKL_AK_35",
+    "pertanyaan": "Piutang wesel yang dipindah tangankan kepada pihak lain (biasanya bank) sebelum jatuh tempo disebut...",
+    "opsi": [
+      "Pelunasan Wesel",
+      "Wesel Bayar",
+      "Protes Wesel",
+      "Likuidasi",
+      "Pendiskontoan Wesel"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Perusahaan mendapatkan dana lebih awal dengan potongan bunga (diskonto)."
+  },
+  {
+    "id": "AKL_AK_36",
+    "pertanyaan": "Metode pencatatan persediaan yang tidak memperbarui saldo persediaan setiap ada transaksi adalah...",
+    "opsi": [
+      "Periodik (Fisik)",
+      "Perpetual",
+      "Kronologis",
+      "Sistematis",
+      "Otomatis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Saldo persediaan akhir ditentukan melalui perhitungan fisik (stock opname) di akhir periode."
+  },
+  {
+    "id": "AKL_AK_37",
+    "pertanyaan": "Hasil dari (Persediaan Awal + Pembelian Bersih - Persediaan Akhir) adalah rumus...",
+    "opsi": [
+      "Laba Kotor",
+      "Harga Pokok Penjualan (HPP)",
+      "Laba Bersih",
+      "Penjualan Bersih",
+      "Pokok Utang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Formula dasar perhitungan biaya barang yang terjual dalam sistem periodik."
+  },
+  {
+    "id": "AKL_AK_38",
+    "pertanyaan": "Berikut ini yang termasuk Utang Jangka Panjang adalah...",
+    "opsi": [
+      "Utang Usaha",
+      "Utang Gaji",
+      "Utang Hipotek (Mortgage)",
+      "Utang Bunga",
+      "Utang Pajak"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Utang hipotek adalah pinjaman jangka panjang dengan jaminan aset tetap."
+  },
+  {
+    "id": "AKL_AK_39",
+    "pertanyaan": "Hak tunggal yang diberikan pemerintah kepada seseorang atas sebuah karya seni atau tulisan disebut...",
+    "opsi": [
+      "Paten",
+      "Merek Dagang",
+      "Franchise",
+      "Hak Cipta (Copyright)",
+      "Leasing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hak cipta dilindungi selama seumur hidup pencipta ditambah 70 tahun."
+  },
+  {
+    "id": "AKL_AK_40",
+    "pertanyaan": "Istilah 'Bad Debt Expense' artinya...",
+    "opsi": [
+      "Beban Bunga",
+      "Beban Gaji",
+      "Beban Air dan Listrik",
+      "Beban Kerusakan Mesin",
+      "Beban Kerugian Piutang Tak Tertagih"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pengakuan beban atas taksiran piutang yang tidak bisa dilunasi debitur."
+  },
+  {
+    "id": "AKL_AK_41",
+    "pertanyaan": "Metode kas kecil yang tidak melakukan penjurnalan saat terjadi pengeluaran operasional sehari-hari adalah...",
+    "opsi": [
+      "Imprest System",
+      "Fluctuating System",
+      "Accrual System",
+      "Cash System",
+      "Mixed System"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pengeluaran hanya dicatat dalam buku kas kecil manual dan baru dijurnal saat pengisian kembali."
+  },
+  {
+    "id": "AKL_AK_42",
+    "pertanyaan": "Jurnal pengisian kembali kas kecil sistem Imprest adalah...",
+    "opsi": [
+      "Kas Kecil (D), Kas (K)",
+      "Macam-macam Beban (D), Kas (K)",
+      "Macam-macam Beban (D), Kas Kecil (K)",
+      "Kas (D), Kas Kecil (K)",
+      "Kas Kecil (D), Macam-macam Beban (K)"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Karena saldo kas kecil di buku besar tidak pernah berubah, maka pengeluaran langsung didebit ke beban dan dikredit ke kas besar."
+  },
+  {
+    "id": "AKL_AK_43",
+    "pertanyaan": "Akun yang digunakan bank untuk mencatat utang bank kepada nasabahnya adalah...",
+    "opsi": [
+      "Piutang Bank",
+      "Modal Bank",
+      "Tabungan/Giro Nasabah",
+      "Beban Bank",
+      "Pendapatan Bank"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Bagi nasabah itu aset, tapi bagi bank itu kewajiban (liabilitas) karena uang tersebut milik nasabah."
+  },
+  {
+    "id": "AKL_AK_44",
+    "pertanyaan": "Aset Tetap digolongkan dalam neraca di bawah kategori...",
+    "opsi": [
+      "Current Assets",
+      "Other Assets",
+      "Intangible Assets",
+      "Fixed Assets (Non-Current Assets)",
+      "Liabilities"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Memiliki masa manfaat lebih dari satu siklus akuntansi normal."
+  },
+  {
+    "id": "AKL_AK_45",
+    "pertanyaan": "Rekonsiliasi bank diperlukan karena adanya 'Timelag' yang artinya...",
+    "opsi": [
+      "Bank tutup libur",
+      "Komputer bank error",
+      "Saldo perusahaan habis",
+      "Pencurian uang",
+      "Perbedaan waktu pencatatan antara perusahaan dan bank"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Beberapa transaksi sudah dicatat satu pihak tapi belum diketahui pihak lainnya."
+  },
+  {
+    "id": "AKL_AK_46",
+    "pertanyaan": "Metode rata-rata tertimbang (Weighted Average) dalam persediaan dihitung dengan cara...",
+    "opsi": [
+      "Total Biaya Barang Tersedia Dijual dibagi Total Unit Tersedia Dijual",
+      "Menjumlahkan semua harga beli lalu dibagi jumlah transaksi",
+      "Mengambil harga paling tinggi",
+      "Mengambil harga paling rendah",
+      "Mengabaikan persediaan awal"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Menghasilkan satu nilai harga pokok rata-rata per unit barang."
+  },
+  {
+    "id": "AKL_AK_47",
+    "pertanyaan": "Metode penyusutan yang paling sesuai untuk kendaraan berdasarkan jarak tempuh adalah...",
+    "opsi": [
+      "Garis Lurus",
+      "Unit Produksi (Service-Hours / Output)",
+      "Saldo Menurun Berganda",
+      "Anuitas",
+      "Jumlah Angka Tahun"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Beban penyusutan sebanding dengan pemakaian fisis kendaraan tersebut."
+  },
+  {
+    "id": "AKL_AK_48",
+    "pertanyaan": "Sewa diterima di muka (Unearned Revenue) termasuk kategori...",
+    "opsi": [
+      "Pendapatan",
+      "Aktiva Lancar",
+      "Utang (Kewajiban)",
+      "Modal",
+      "Beban"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Diterima uangnya tapi jasanya belum diberikan, sehingga menjadi kewajiban."
+  },
+  {
+    "id": "AKL_AK_49",
+    "pertanyaan": "Apa yang dimaksud dengan Diskon Penjualan?",
+    "opsi": [
+      "Potongan harga karena barang cacat",
+      "Penghapusan bunga",
+      "Denda keterlambatan",
+      "Potongan harga karena pembayaran dilakukan lebih awal dari jatuh tempo",
+      "Pemberian kupon undian"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Dicatat dalam akun 'Sales Discount' yang mengurangi nilai penjualan bruto."
+  },
+  {
+    "id": "AKL_AK_50",
+    "pertanyaan": "Laba bersih perusahaan didapatkan dari...",
+    "opsi": [
+      "Aktiva - Utang",
+      "Penjualan - HPP",
+      "Modal Awal + Investasi",
+      "Total Kas Masuk - Total Kas Keluar",
+      "Total Pendapatan - Total Beban"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Merupakan angka final di Laporan Laba Rugi setelah pajak."
+  }
+]

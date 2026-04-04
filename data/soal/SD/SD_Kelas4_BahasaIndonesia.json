@@ -1,0 +1,708 @@
+{
+  "id": "sd-4-bi",
+  "tingkat": "SD Kelas 4",
+  "mapel": "Bahasa Indonesia",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "bi4-01",
+      "teks": "Kalimat yang berisi inti pembahasan sebuah paragraf disebut setelah membaca cerita tentang pasar pagi.",
+      "opsi": {
+        "A": "kalimat utama",
+        "B": "kalimat penjelas",
+        "C": "kalimat tanya",
+        "D": "kata hubung",
+        "E": "judul sampingan"
+      },
+      "kunci": "A",
+      "pembahasan": "Kalimat utama memuat pokok pikiran yang kemudian dijelaskan oleh kalimat lain dalam paragraf. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-02",
+      "teks": "Ide pokok dari sebuah paragraf disebut setelah membaca cerita tentang pasar pagi.",
+      "opsi": {
+        "A": "kalimat perintah",
+        "B": "gagasan pokok",
+        "C": "tokoh utama",
+        "D": "amanat cerita",
+        "E": "latar tempat"
+      },
+      "kunci": "B",
+      "pembahasan": "Gagasan pokok adalah inti pembahasan yang menjadi dasar seluruh isi paragraf. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-03",
+      "teks": "Paragraf yang kalimat utamanya terletak di awal disebut paragraf setelah membaca cerita tentang pasar pagi.",
+      "opsi": {
+        "A": "dialog",
+        "B": "naratif",
+        "C": "deduktif",
+        "D": "persuasif",
+        "E": "induktif"
+      },
+      "kunci": "C",
+      "pembahasan": "Paragraf deduktif dimulai dengan kalimat umum atau kalimat utama di bagian awal. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-04",
+      "teks": "Kegiatan bertanya kepada narasumber untuk memperoleh informasi disebut setelah membaca cerita tentang pasar pagi.",
+      "opsi": {
+        "A": "ringkasan",
+        "B": "pengumuman",
+        "C": "diskusi",
+        "D": "wawancara",
+        "E": "membaca nyaring"
+      },
+      "kunci": "D",
+      "pembahasan": "Wawancara dilakukan dengan mengajukan pertanyaan terarah kepada narasumber. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-05",
+      "teks": "Persamaan bunyi di akhir baris puisi disebut setelah membaca cerita tentang pasar pagi.",
+      "opsi": {
+        "A": "tema",
+        "B": "bait",
+        "C": "larik",
+        "D": "majas",
+        "E": "rima"
+      },
+      "kunci": "E",
+      "pembahasan": "Rima adalah pengulangan bunyi yang menimbulkan keindahan dalam puisi. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-06",
+      "teks": "Lawan kata dari “rajin” adalah setelah membaca cerita tentang pasar pagi.",
+      "opsi": {
+        "A": "malas",
+        "B": "cepat",
+        "C": "ramah",
+        "D": "sehat",
+        "E": "hemat"
+      },
+      "kunci": "A",
+      "pembahasan": "Antonim “rajin” adalah “malas” karena maknanya berlawanan. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-07",
+      "teks": "Kata yang tepat untuk melengkapi kalimat “Ibu pergi ke pasar untuk membeli ...” adalah setelah membaca cerita tentang pasar pagi.",
+      "opsi": {
+        "A": "berlari",
+        "B": "sayur",
+        "C": "mendengar",
+        "D": "tersenyum",
+        "E": "bermain"
+      },
+      "kunci": "B",
+      "pembahasan": "Yang dibeli di pasar adalah benda, sehingga kata benda “sayur” paling tepat. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-08",
+      "teks": "Tokoh yang menjadi pusat cerita dalam cerita fiksi disebut setelah membaca cerita tentang pasar pagi.",
+      "opsi": {
+        "A": "tema",
+        "B": "alur",
+        "C": "tokoh utama",
+        "D": "amanat",
+        "E": "latar"
+      },
+      "kunci": "C",
+      "pembahasan": "Tokoh utama adalah tokoh yang paling banyak diceritakan dan berperan penting dalam alur. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-09",
+      "teks": "Kalimat perintah biasanya diakhiri dengan tanda baca setelah membaca cerita tentang pasar pagi.",
+      "opsi": {
+        "A": "tanda kurung",
+        "B": "tanda petik",
+        "C": "tanda koma",
+        "D": "tanda seru",
+        "E": "tanda hubung"
+      },
+      "kunci": "D",
+      "pembahasan": "Kalimat perintah umumnya diakhiri dengan tanda seru untuk menegaskan maksud. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-10",
+      "teks": "Tujuan membuat ringkasan bacaan adalah setelah membaca cerita tentang pasar pagi.",
+      "opsi": {
+        "A": "mengganti semua kata",
+        "B": "menambah tokoh baru",
+        "C": "mengubah akhir cerita",
+        "D": "membuat bacaan lebih panjang",
+        "E": "menyajikan isi penting secara singkat"
+      },
+      "kunci": "E",
+      "pembahasan": "Ringkasan berisi inti bacaan dalam bentuk yang lebih padat dan mudah dipahami. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-11",
+      "teks": "Kalimat yang berisi inti pembahasan sebuah paragraf disebut dalam teks tentang kebersihan sekolah.",
+      "opsi": {
+        "A": "kalimat utama",
+        "B": "kalimat penjelas",
+        "C": "kalimat tanya",
+        "D": "kata hubung",
+        "E": "judul sampingan"
+      },
+      "kunci": "A",
+      "pembahasan": "Kalimat utama memuat pokok pikiran yang kemudian dijelaskan oleh kalimat lain dalam paragraf. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-12",
+      "teks": "Ide pokok dari sebuah paragraf disebut dalam teks tentang kebersihan sekolah.",
+      "opsi": {
+        "A": "kalimat perintah",
+        "B": "gagasan pokok",
+        "C": "tokoh utama",
+        "D": "amanat cerita",
+        "E": "latar tempat"
+      },
+      "kunci": "B",
+      "pembahasan": "Gagasan pokok adalah inti pembahasan yang menjadi dasar seluruh isi paragraf. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-13",
+      "teks": "Paragraf yang kalimat utamanya terletak di awal disebut paragraf dalam teks tentang kebersihan sekolah.",
+      "opsi": {
+        "A": "dialog",
+        "B": "naratif",
+        "C": "deduktif",
+        "D": "persuasif",
+        "E": "induktif"
+      },
+      "kunci": "C",
+      "pembahasan": "Paragraf deduktif dimulai dengan kalimat umum atau kalimat utama di bagian awal. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-14",
+      "teks": "Kegiatan bertanya kepada narasumber untuk memperoleh informasi disebut dalam teks tentang kebersihan sekolah.",
+      "opsi": {
+        "A": "ringkasan",
+        "B": "pengumuman",
+        "C": "diskusi",
+        "D": "wawancara",
+        "E": "membaca nyaring"
+      },
+      "kunci": "D",
+      "pembahasan": "Wawancara dilakukan dengan mengajukan pertanyaan terarah kepada narasumber. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-15",
+      "teks": "Persamaan bunyi di akhir baris puisi disebut dalam teks tentang kebersihan sekolah.",
+      "opsi": {
+        "A": "tema",
+        "B": "bait",
+        "C": "larik",
+        "D": "majas",
+        "E": "rima"
+      },
+      "kunci": "E",
+      "pembahasan": "Rima adalah pengulangan bunyi yang menimbulkan keindahan dalam puisi. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-16",
+      "teks": "Lawan kata dari “rajin” adalah dalam teks tentang kebersihan sekolah.",
+      "opsi": {
+        "A": "malas",
+        "B": "cepat",
+        "C": "ramah",
+        "D": "sehat",
+        "E": "hemat"
+      },
+      "kunci": "A",
+      "pembahasan": "Antonim “rajin” adalah “malas” karena maknanya berlawanan. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-17",
+      "teks": "Kata yang tepat untuk melengkapi kalimat “Ibu pergi ke pasar untuk membeli ...” adalah dalam teks tentang kebersihan sekolah.",
+      "opsi": {
+        "A": "berlari",
+        "B": "sayur",
+        "C": "mendengar",
+        "D": "tersenyum",
+        "E": "bermain"
+      },
+      "kunci": "B",
+      "pembahasan": "Yang dibeli di pasar adalah benda, sehingga kata benda “sayur” paling tepat. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-18",
+      "teks": "Tokoh yang menjadi pusat cerita dalam cerita fiksi disebut dalam teks tentang kebersihan sekolah.",
+      "opsi": {
+        "A": "tema",
+        "B": "alur",
+        "C": "tokoh utama",
+        "D": "amanat",
+        "E": "latar"
+      },
+      "kunci": "C",
+      "pembahasan": "Tokoh utama adalah tokoh yang paling banyak diceritakan dan berperan penting dalam alur. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-19",
+      "teks": "Kalimat perintah biasanya diakhiri dengan tanda baca dalam teks tentang kebersihan sekolah.",
+      "opsi": {
+        "A": "tanda kurung",
+        "B": "tanda petik",
+        "C": "tanda koma",
+        "D": "tanda seru",
+        "E": "tanda hubung"
+      },
+      "kunci": "D",
+      "pembahasan": "Kalimat perintah umumnya diakhiri dengan tanda seru untuk menegaskan maksud. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-20",
+      "teks": "Tujuan membuat ringkasan bacaan adalah dalam teks tentang kebersihan sekolah.",
+      "opsi": {
+        "A": "mengganti semua kata",
+        "B": "menambah tokoh baru",
+        "C": "mengubah akhir cerita",
+        "D": "membuat bacaan lebih panjang",
+        "E": "menyajikan isi penting secara singkat"
+      },
+      "kunci": "E",
+      "pembahasan": "Ringkasan berisi inti bacaan dalam bentuk yang lebih padat dan mudah dipahami. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-21",
+      "teks": "Kalimat yang berisi inti pembahasan sebuah paragraf disebut pada bacaan mengenai taman kota.",
+      "opsi": {
+        "A": "kalimat utama",
+        "B": "kalimat penjelas",
+        "C": "kalimat tanya",
+        "D": "kata hubung",
+        "E": "judul sampingan"
+      },
+      "kunci": "A",
+      "pembahasan": "Kalimat utama memuat pokok pikiran yang kemudian dijelaskan oleh kalimat lain dalam paragraf. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-22",
+      "teks": "Ide pokok dari sebuah paragraf disebut pada bacaan mengenai taman kota.",
+      "opsi": {
+        "A": "kalimat perintah",
+        "B": "gagasan pokok",
+        "C": "tokoh utama",
+        "D": "amanat cerita",
+        "E": "latar tempat"
+      },
+      "kunci": "B",
+      "pembahasan": "Gagasan pokok adalah inti pembahasan yang menjadi dasar seluruh isi paragraf. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-23",
+      "teks": "Paragraf yang kalimat utamanya terletak di awal disebut paragraf pada bacaan mengenai taman kota.",
+      "opsi": {
+        "A": "dialog",
+        "B": "naratif",
+        "C": "deduktif",
+        "D": "persuasif",
+        "E": "induktif"
+      },
+      "kunci": "C",
+      "pembahasan": "Paragraf deduktif dimulai dengan kalimat umum atau kalimat utama di bagian awal. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-24",
+      "teks": "Kegiatan bertanya kepada narasumber untuk memperoleh informasi disebut pada bacaan mengenai taman kota.",
+      "opsi": {
+        "A": "ringkasan",
+        "B": "pengumuman",
+        "C": "diskusi",
+        "D": "wawancara",
+        "E": "membaca nyaring"
+      },
+      "kunci": "D",
+      "pembahasan": "Wawancara dilakukan dengan mengajukan pertanyaan terarah kepada narasumber. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-25",
+      "teks": "Persamaan bunyi di akhir baris puisi disebut pada bacaan mengenai taman kota.",
+      "opsi": {
+        "A": "tema",
+        "B": "bait",
+        "C": "larik",
+        "D": "majas",
+        "E": "rima"
+      },
+      "kunci": "E",
+      "pembahasan": "Rima adalah pengulangan bunyi yang menimbulkan keindahan dalam puisi. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-26",
+      "teks": "Lawan kata dari “rajin” adalah pada bacaan mengenai taman kota.",
+      "opsi": {
+        "A": "malas",
+        "B": "cepat",
+        "C": "ramah",
+        "D": "sehat",
+        "E": "hemat"
+      },
+      "kunci": "A",
+      "pembahasan": "Antonim “rajin” adalah “malas” karena maknanya berlawanan. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-27",
+      "teks": "Kata yang tepat untuk melengkapi kalimat “Ibu pergi ke pasar untuk membeli ...” adalah pada bacaan mengenai taman kota.",
+      "opsi": {
+        "A": "berlari",
+        "B": "sayur",
+        "C": "mendengar",
+        "D": "tersenyum",
+        "E": "bermain"
+      },
+      "kunci": "B",
+      "pembahasan": "Yang dibeli di pasar adalah benda, sehingga kata benda “sayur” paling tepat. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-28",
+      "teks": "Tokoh yang menjadi pusat cerita dalam cerita fiksi disebut pada bacaan mengenai taman kota.",
+      "opsi": {
+        "A": "tema",
+        "B": "alur",
+        "C": "tokoh utama",
+        "D": "amanat",
+        "E": "latar"
+      },
+      "kunci": "C",
+      "pembahasan": "Tokoh utama adalah tokoh yang paling banyak diceritakan dan berperan penting dalam alur. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-29",
+      "teks": "Kalimat perintah biasanya diakhiri dengan tanda baca pada bacaan mengenai taman kota.",
+      "opsi": {
+        "A": "tanda kurung",
+        "B": "tanda petik",
+        "C": "tanda koma",
+        "D": "tanda seru",
+        "E": "tanda hubung"
+      },
+      "kunci": "D",
+      "pembahasan": "Kalimat perintah umumnya diakhiri dengan tanda seru untuk menegaskan maksud. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-30",
+      "teks": "Tujuan membuat ringkasan bacaan adalah pada bacaan mengenai taman kota.",
+      "opsi": {
+        "A": "mengganti semua kata",
+        "B": "menambah tokoh baru",
+        "C": "mengubah akhir cerita",
+        "D": "membuat bacaan lebih panjang",
+        "E": "menyajikan isi penting secara singkat"
+      },
+      "kunci": "E",
+      "pembahasan": "Ringkasan berisi inti bacaan dalam bentuk yang lebih padat dan mudah dipahami. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-31",
+      "teks": "Kalimat yang berisi inti pembahasan sebuah paragraf disebut saat mengamati pengumuman kelas.",
+      "opsi": {
+        "A": "kalimat utama",
+        "B": "kalimat penjelas",
+        "C": "kalimat tanya",
+        "D": "kata hubung",
+        "E": "judul sampingan"
+      },
+      "kunci": "A",
+      "pembahasan": "Kalimat utama memuat pokok pikiran yang kemudian dijelaskan oleh kalimat lain dalam paragraf. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-32",
+      "teks": "Ide pokok dari sebuah paragraf disebut saat mengamati pengumuman kelas.",
+      "opsi": {
+        "A": "kalimat perintah",
+        "B": "gagasan pokok",
+        "C": "tokoh utama",
+        "D": "amanat cerita",
+        "E": "latar tempat"
+      },
+      "kunci": "B",
+      "pembahasan": "Gagasan pokok adalah inti pembahasan yang menjadi dasar seluruh isi paragraf. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-33",
+      "teks": "Paragraf yang kalimat utamanya terletak di awal disebut paragraf saat mengamati pengumuman kelas.",
+      "opsi": {
+        "A": "dialog",
+        "B": "naratif",
+        "C": "deduktif",
+        "D": "persuasif",
+        "E": "induktif"
+      },
+      "kunci": "C",
+      "pembahasan": "Paragraf deduktif dimulai dengan kalimat umum atau kalimat utama di bagian awal. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-34",
+      "teks": "Kegiatan bertanya kepada narasumber untuk memperoleh informasi disebut saat mengamati pengumuman kelas.",
+      "opsi": {
+        "A": "ringkasan",
+        "B": "pengumuman",
+        "C": "diskusi",
+        "D": "wawancara",
+        "E": "membaca nyaring"
+      },
+      "kunci": "D",
+      "pembahasan": "Wawancara dilakukan dengan mengajukan pertanyaan terarah kepada narasumber. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-35",
+      "teks": "Persamaan bunyi di akhir baris puisi disebut saat mengamati pengumuman kelas.",
+      "opsi": {
+        "A": "tema",
+        "B": "bait",
+        "C": "larik",
+        "D": "majas",
+        "E": "rima"
+      },
+      "kunci": "E",
+      "pembahasan": "Rima adalah pengulangan bunyi yang menimbulkan keindahan dalam puisi. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-36",
+      "teks": "Lawan kata dari “rajin” adalah saat mengamati pengumuman kelas.",
+      "opsi": {
+        "A": "malas",
+        "B": "cepat",
+        "C": "ramah",
+        "D": "sehat",
+        "E": "hemat"
+      },
+      "kunci": "A",
+      "pembahasan": "Antonim “rajin” adalah “malas” karena maknanya berlawanan. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-37",
+      "teks": "Kata yang tepat untuk melengkapi kalimat “Ibu pergi ke pasar untuk membeli ...” adalah saat mengamati pengumuman kelas.",
+      "opsi": {
+        "A": "berlari",
+        "B": "sayur",
+        "C": "mendengar",
+        "D": "tersenyum",
+        "E": "bermain"
+      },
+      "kunci": "B",
+      "pembahasan": "Yang dibeli di pasar adalah benda, sehingga kata benda “sayur” paling tepat. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-38",
+      "teks": "Tokoh yang menjadi pusat cerita dalam cerita fiksi disebut saat mengamati pengumuman kelas.",
+      "opsi": {
+        "A": "tema",
+        "B": "alur",
+        "C": "tokoh utama",
+        "D": "amanat",
+        "E": "latar"
+      },
+      "kunci": "C",
+      "pembahasan": "Tokoh utama adalah tokoh yang paling banyak diceritakan dan berperan penting dalam alur. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-39",
+      "teks": "Kalimat perintah biasanya diakhiri dengan tanda baca saat mengamati pengumuman kelas.",
+      "opsi": {
+        "A": "tanda kurung",
+        "B": "tanda petik",
+        "C": "tanda koma",
+        "D": "tanda seru",
+        "E": "tanda hubung"
+      },
+      "kunci": "D",
+      "pembahasan": "Kalimat perintah umumnya diakhiri dengan tanda seru untuk menegaskan maksud. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-40",
+      "teks": "Tujuan membuat ringkasan bacaan adalah saat mengamati pengumuman kelas.",
+      "opsi": {
+        "A": "mengganti semua kata",
+        "B": "menambah tokoh baru",
+        "C": "mengubah akhir cerita",
+        "D": "membuat bacaan lebih panjang",
+        "E": "menyajikan isi penting secara singkat"
+      },
+      "kunci": "E",
+      "pembahasan": "Ringkasan berisi inti bacaan dalam bentuk yang lebih padat dan mudah dipahami. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-41",
+      "teks": "Kalimat yang berisi inti pembahasan sebuah paragraf disebut dalam paragraf tentang gotong royong.",
+      "opsi": {
+        "A": "kalimat utama",
+        "B": "kalimat penjelas",
+        "C": "kalimat tanya",
+        "D": "kata hubung",
+        "E": "judul sampingan"
+      },
+      "kunci": "A",
+      "pembahasan": "Kalimat utama memuat pokok pikiran yang kemudian dijelaskan oleh kalimat lain dalam paragraf. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-42",
+      "teks": "Ide pokok dari sebuah paragraf disebut dalam paragraf tentang gotong royong.",
+      "opsi": {
+        "A": "kalimat perintah",
+        "B": "gagasan pokok",
+        "C": "tokoh utama",
+        "D": "amanat cerita",
+        "E": "latar tempat"
+      },
+      "kunci": "B",
+      "pembahasan": "Gagasan pokok adalah inti pembahasan yang menjadi dasar seluruh isi paragraf. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-43",
+      "teks": "Paragraf yang kalimat utamanya terletak di awal disebut paragraf dalam paragraf tentang gotong royong.",
+      "opsi": {
+        "A": "dialog",
+        "B": "naratif",
+        "C": "deduktif",
+        "D": "persuasif",
+        "E": "induktif"
+      },
+      "kunci": "C",
+      "pembahasan": "Paragraf deduktif dimulai dengan kalimat umum atau kalimat utama di bagian awal. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-44",
+      "teks": "Kegiatan bertanya kepada narasumber untuk memperoleh informasi disebut dalam paragraf tentang gotong royong.",
+      "opsi": {
+        "A": "ringkasan",
+        "B": "pengumuman",
+        "C": "diskusi",
+        "D": "wawancara",
+        "E": "membaca nyaring"
+      },
+      "kunci": "D",
+      "pembahasan": "Wawancara dilakukan dengan mengajukan pertanyaan terarah kepada narasumber. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-45",
+      "teks": "Persamaan bunyi di akhir baris puisi disebut dalam paragraf tentang gotong royong.",
+      "opsi": {
+        "A": "tema",
+        "B": "bait",
+        "C": "larik",
+        "D": "majas",
+        "E": "rima"
+      },
+      "kunci": "E",
+      "pembahasan": "Rima adalah pengulangan bunyi yang menimbulkan keindahan dalam puisi. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-46",
+      "teks": "Lawan kata dari “rajin” adalah dalam paragraf tentang gotong royong.",
+      "opsi": {
+        "A": "malas",
+        "B": "cepat",
+        "C": "ramah",
+        "D": "sehat",
+        "E": "hemat"
+      },
+      "kunci": "A",
+      "pembahasan": "Antonim “rajin” adalah “malas” karena maknanya berlawanan. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-47",
+      "teks": "Kata yang tepat untuk melengkapi kalimat “Ibu pergi ke pasar untuk membeli ...” adalah dalam paragraf tentang gotong royong.",
+      "opsi": {
+        "A": "berlari",
+        "B": "sayur",
+        "C": "mendengar",
+        "D": "tersenyum",
+        "E": "bermain"
+      },
+      "kunci": "B",
+      "pembahasan": "Yang dibeli di pasar adalah benda, sehingga kata benda “sayur” paling tepat. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-48",
+      "teks": "Tokoh yang menjadi pusat cerita dalam cerita fiksi disebut dalam paragraf tentang gotong royong.",
+      "opsi": {
+        "A": "tema",
+        "B": "alur",
+        "C": "tokoh utama",
+        "D": "amanat",
+        "E": "latar"
+      },
+      "kunci": "C",
+      "pembahasan": "Tokoh utama adalah tokoh yang paling banyak diceritakan dan berperan penting dalam alur. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-49",
+      "teks": "Kalimat perintah biasanya diakhiri dengan tanda baca dalam paragraf tentang gotong royong.",
+      "opsi": {
+        "A": "tanda kurung",
+        "B": "tanda petik",
+        "C": "tanda koma",
+        "D": "tanda seru",
+        "E": "tanda hubung"
+      },
+      "kunci": "D",
+      "pembahasan": "Kalimat perintah umumnya diakhiri dengan tanda seru untuk menegaskan maksud. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    },
+    {
+      "id": "bi4-50",
+      "teks": "Tujuan membuat ringkasan bacaan adalah dalam paragraf tentang gotong royong.",
+      "opsi": {
+        "A": "mengganti semua kata",
+        "B": "menambah tokoh baru",
+        "C": "mengubah akhir cerita",
+        "D": "membuat bacaan lebih panjang",
+        "E": "menyajikan isi penting secara singkat"
+      },
+      "kunci": "E",
+      "pembahasan": "Ringkasan berisi inti bacaan dalam bentuk yang lebih padat dan mudah dipahami. Konteks pada soal tidak mengubah konsep dasar yang ditanyakan.",
+      "trik": "Tentukan dulu jenis informasi yang dicari, lalu eliminasi opsi yang tidak sejenis."
+    }
+  ]
+}

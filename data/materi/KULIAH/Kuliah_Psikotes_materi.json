@@ -1,0 +1,53 @@
+{
+  "judul": "Psikotes dan Tes Bakat (Aptitude Test)",
+  "tingkatan": "KULIAH",
+  "jurusan": "Karir / Psikotes",
+  "deskripsi": "Materi persiapan psikotes kerja meliputi tes logika, numerik, figural, spasial, serta tes kepribadian untuk rekrutmen perusahaan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Tes Kemampuan Numerik",
+      "konten": "Operasi hitung cepat, deret angka logis, persentase, perbandingan senilai/berbalik nilai, serta interpretasi data tabel dan grafik.",
+      "tag": [
+        "kuliah psikotes materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Tes Logika Verbal dan Silogisme",
+      "konten": "Analogi kata, sinonim/antonim, penarikan kesimpulan logis (premis), serta pemahaman wacana kritis.",
+      "tag": [
+        "kuliah psikotes materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Tes Figural dan Spasial",
+      "konten": "Analogi gambar, klasifikasi gambar, serial gambar, pencerminan gambar, serta rotasi mental objek 3D.",
+      "tag": [
+        "kuliah psikotes materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Tes Kraepelin dan Pauli (Koran)",
+      "konten": "Teknik menjumlahkan angka secara cepat dan konsisten, cara menjaga fokus, serta pemahaman grafik performa (ketelitian vs kecepatan).",
+      "tag": [
+        "kuliah psikotes materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Tes Kepribadian (EPPS, Wartegg, DISC)",
+      "konten": "Mengenal profil kepribadian kerja, cara menyelesaikan tes gambar Wartegg, serta pemahaman kecenderungan perilaku dalam lingkungan kerja.",
+      "tag": [
+        "kuliah psikotes materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-psikotes-materi",
+  "mapel": "Psikotes dan Tes Bakat (Aptitude Test)",
+  "tag": [
+    "kuliah psikotes materi"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Seni Budaya",
+  "tingkatan": "SMK",
+  "jurusan": "Semua Jurusan / Pilihan",
+  "deskripsi": "Materi persiapan TKA Seni Budaya untuk siswa SMK yang berfokus pada seni rupa, seni musik, seni tari, seni teater, serta apresiasi budaya nusantara.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar-Dasar Seni Rupa",
+      "konten": "Unsur seni rupa (titik, garis, bidang, warna), prinsip desain, seni rupa murni vs terapan (Applied Art), serta teknik menggambar perspektif dan arsir.",
+      "tag": [
+        "tka smk senibudaya materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Seni Musik Nusantara dan Modern",
+      "konten": "Alat musik tradisional (idiofon, kordofon), tangga nada (pentatonis, diatonis), apresiasi musik populer, serta teknik vokal dasar.",
+      "tag": [
+        "tka smk senibudaya materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Seni Tari Kebangsaan",
+      "konten": "Unsur tari (wiraga, wirama, wirasa), jenis tari tradisional (kerakyatan, istana), tari kreasi baru, serta tata rias dan busana tari.",
+      "tag": [
+        "tka smk senibudaya materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Seni Teater dan Akting",
+      "konten": "Sejarah teater, unsur drama (naskah, sutradara, pemain), teknik olah vokal dan tubuh, serta perbedaan teater tradisional (Lenong, Wayang) dan modern.",
+      "tag": [
+        "tka smk senibudaya materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Industri Kreatif dan Pameran",
+      "konten": "Penyelenggaraan pameran seni, manajemen pertunjukan, ekonomi kreatif di Indonesia, serta peran teknologi digital dalam karya seni modern di SMK.",
+      "tag": [
+        "tka smk senibudaya materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-senibudaya-materi",
+  "mapel": "TKA SMK: Seni Budaya",
+  "tag": [
+    "tka smk senibudaya materi"
+  ]
+}

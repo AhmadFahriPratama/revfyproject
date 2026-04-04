@@ -1,0 +1,529 @@
+{
+  "id": "utbk-section-literasi-v01",
+  "judul": "UTBK Section Test Literasi V01",
+  "mode": "section_test",
+  "focus": "Literasi",
+  "durasiMenit": 45,
+  "soal": [
+    {
+      "id": "utbk-sec-lit-01",
+      "pertanyaan": "Dinas perpustakaan menata ulang program usaha mikro melalui evaluasi terbuka selama satu semester. Program itu tidak hanya berfokus pada ketepatan layanan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada periode pertama, partisipasi masih naik turun karena komunikasi belum merata. Pada akhir periode, keterlibatan relawan bertambah 8 orang dan capaian utama dinilai dari stabilitas keterlibatan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "dapat dinilai dengan jelas",
+        "B": "dipaksakan tanpa persiapan",
+        "C": "dilaksanakan secara terpisah",
+        "D": "dijalankan dengan terburu-buru",
+        "E": "disembunyikan dari publik"
+      },
+      "jawaban": "A",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian."
+    },
+    {
+      "id": "utbk-sec-lit-02",
+      "pertanyaan": "Sekolah negeri meluncurkan program pelestarian sungai dengan sistem umpan balik singkat selama enam bulan. Program itu tidak hanya berfokus pada kebiasaan membaca, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Awalnya, pelaksana lebih fokus pada jumlah kegiatan daripada mutu pelaksanaan. Pada akhir periode, tingkat penyelesaian program naik 17 persen dan capaian utama dinilai dari mutu pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "B": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari mutu pelaksanaan yang semakin stabil.",
+        "C": "Pelaksana program menolak semua bentuk pengukuran dampak.",
+        "D": "Evaluasi tidak diperlukan selama kebiasaan membaca sudah tercatat.",
+        "E": "Keberhasilan program tidak berkaitan dengan mutu pelaksanaan."
+      },
+      "jawaban": "B",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks."
+    },
+    {
+      "id": "utbk-sec-lit-03",
+      "pertanyaan": "Sekolah negeri meluncurkan program pelestarian sungai dengan sistem umpan balik singkat selama enam bulan. Program itu tidak hanya berfokus pada kebiasaan membaca, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Awalnya, pelaksana lebih fokus pada jumlah kegiatan daripada mutu pelaksanaan. Pada akhir periode, tingkat penyelesaian program naik 17 persen dan capaian utama dinilai dari mutu pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi hanya berguna jika kebiasaan membaca menurun tajam.",
+        "B": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan.",
+        "C": "Evaluasi yang baik membantu penilai melihat dampak program pelestarian sungai secara lebih akurat.",
+        "D": "Evaluasi tidak berkaitan dengan pengukuran dampak program.",
+        "E": "Evaluasi menyebabkan mutu pelaksanaan pasti memburuk."
+      },
+      "jawaban": "C",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai."
+    },
+    {
+      "id": "utbk-sec-lit-04",
+      "pertanyaan": "Sekolah negeri meluncurkan program pelestarian sungai dengan sistem umpan balik singkat selama enam bulan. Program itu tidak hanya berfokus pada kebiasaan membaca, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Awalnya, pelaksana lebih fokus pada jumlah kegiatan daripada mutu pelaksanaan. Pada akhir periode, tingkat penyelesaian program naik 17 persen dan capaian utama dinilai dari mutu pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "dijalankan dengan terburu-buru",
+        "B": "disembunyikan dari publik",
+        "C": "dilaksanakan secara terpisah",
+        "D": "dapat dinilai dengan jelas",
+        "E": "dipaksakan tanpa persiapan"
+      },
+      "jawaban": "D",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian."
+    },
+    {
+      "id": "utbk-sec-lit-05",
+      "pertanyaan": "Pemerintah kota menjalankan program keamanan data melalui lokakarya mingguan selama empat bulan. Program itu tidak hanya berfokus pada partisipasi warga, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada awalnya, sebagian peserta menganggap prosedur baru terlalu rumit. Pada akhir periode, jumlah peserta naik 28 persen dan capaian utama dinilai dari kualitas partisipasi yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Pelaksana program menolak semua bentuk pengukuran dampak.",
+        "B": "Keberhasilan program tidak berkaitan dengan kualitas partisipasi.",
+        "C": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "D": "Evaluasi tidak diperlukan selama partisipasi warga sudah tercatat.",
+        "E": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari kualitas partisipasi yang semakin stabil."
+      },
+      "jawaban": "E",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks."
+    },
+    {
+      "id": "utbk-sec-lit-06",
+      "pertanyaan": "Pemerintah kota menjalankan program keamanan data melalui lokakarya mingguan selama empat bulan. Program itu tidak hanya berfokus pada partisipasi warga, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada awalnya, sebagian peserta menganggap prosedur baru terlalu rumit. Pada akhir periode, jumlah peserta naik 28 persen dan capaian utama dinilai dari kualitas partisipasi yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi yang baik membantu penilai melihat dampak program keamanan data secara lebih akurat.",
+        "B": "Evaluasi hanya berguna jika partisipasi warga menurun tajam.",
+        "C": "Evaluasi tidak berkaitan dengan pengukuran dampak program.",
+        "D": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan.",
+        "E": "Evaluasi menyebabkan kualitas partisipasi pasti memburuk."
+      },
+      "jawaban": "A",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai."
+    },
+    {
+      "id": "utbk-sec-lit-07",
+      "pertanyaan": "Pemerintah kota menjalankan program keamanan data melalui lokakarya mingguan selama empat bulan. Program itu tidak hanya berfokus pada partisipasi warga, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada awalnya, sebagian peserta menganggap prosedur baru terlalu rumit. Pada akhir periode, jumlah peserta naik 28 persen dan capaian utama dinilai dari kualitas partisipasi yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "dilaksanakan secara terpisah",
+        "B": "dapat dinilai dengan jelas",
+        "C": "dipaksakan tanpa persiapan",
+        "D": "disembunyikan dari publik",
+        "E": "dijalankan dengan terburu-buru"
+      },
+      "jawaban": "B",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian."
+    },
+    {
+      "id": "utbk-sec-lit-08",
+      "pertanyaan": "Pemerintah kabupaten mengembangkan program disiplin berlalu lintas dengan pelatihan bertahap selama lima bulan. Program itu tidak hanya berfokus pada keterlibatan relawan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Di minggu-minggu pertama, tim pelaksana sempat menghadapi jadwal yang tidak konsisten. Pada akhir periode, waktu layanan turun 17 menit dan capaian utama dinilai dari konsistensi kehadiran yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "B": "Keberhasilan program tidak berkaitan dengan konsistensi kehadiran.",
+        "C": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari konsistensi kehadiran yang semakin stabil.",
+        "D": "Pelaksana program menolak semua bentuk pengukuran dampak.",
+        "E": "Evaluasi tidak diperlukan selama keterlibatan relawan sudah tercatat."
+      },
+      "jawaban": "C",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks."
+    },
+    {
+      "id": "utbk-sec-lit-09",
+      "pertanyaan": "Pemerintah kabupaten mengembangkan program disiplin berlalu lintas dengan pelatihan bertahap selama lima bulan. Program itu tidak hanya berfokus pada keterlibatan relawan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Di minggu-minggu pertama, tim pelaksana sempat menghadapi jadwal yang tidak konsisten. Pada akhir periode, waktu layanan turun 17 menit dan capaian utama dinilai dari konsistensi kehadiran yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi hanya berguna jika keterlibatan relawan menurun tajam.",
+        "B": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan.",
+        "C": "Evaluasi tidak berkaitan dengan pengukuran dampak program.",
+        "D": "Evaluasi yang baik membantu penilai melihat dampak program disiplin berlalu lintas secara lebih akurat.",
+        "E": "Evaluasi menyebabkan konsistensi kehadiran pasti memburuk."
+      },
+      "jawaban": "D",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai."
+    },
+    {
+      "id": "utbk-sec-lit-10",
+      "pertanyaan": "Pemerintah kabupaten mengembangkan program disiplin berlalu lintas dengan pelatihan bertahap selama lima bulan. Program itu tidak hanya berfokus pada keterlibatan relawan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Di minggu-minggu pertama, tim pelaksana sempat menghadapi jadwal yang tidak konsisten. Pada akhir periode, waktu layanan turun 17 menit dan capaian utama dinilai dari konsistensi kehadiran yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "dipaksakan tanpa persiapan",
+        "B": "dijalankan dengan terburu-buru",
+        "C": "dilaksanakan secara terpisah",
+        "D": "disembunyikan dari publik",
+        "E": "dapat dinilai dengan jelas"
+      },
+      "jawaban": "E",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian."
+    },
+    {
+      "id": "utbk-sec-lit-11",
+      "pertanyaan": "Komunitas warga menguji program ketahanan pangan melalui jadwal layanan baru selama dua triwulan. Program itu tidak hanya berfokus pada keaktifan peserta, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada tahap awal, pelaksana kesulitan menyatukan data dari beberapa sumber. Pada akhir periode, keluhan warga turun 13 laporan dan capaian utama dinilai dari ketepatan pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari ketepatan pelaksanaan yang semakin stabil.",
+        "B": "Keberhasilan program tidak berkaitan dengan ketepatan pelaksanaan.",
+        "C": "Evaluasi tidak diperlukan selama keaktifan peserta sudah tercatat.",
+        "D": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "E": "Pelaksana program menolak semua bentuk pengukuran dampak."
+      },
+      "jawaban": "A",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks."
+    },
+    {
+      "id": "utbk-sec-lit-12",
+      "pertanyaan": "Komunitas warga menguji program ketahanan pangan melalui jadwal layanan baru selama dua triwulan. Program itu tidak hanya berfokus pada keaktifan peserta, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada tahap awal, pelaksana kesulitan menyatukan data dari beberapa sumber. Pada akhir periode, keluhan warga turun 13 laporan dan capaian utama dinilai dari ketepatan pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi menyebabkan ketepatan pelaksanaan pasti memburuk.",
+        "B": "Evaluasi yang baik membantu penilai melihat dampak program ketahanan pangan secara lebih akurat.",
+        "C": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan.",
+        "D": "Evaluasi hanya berguna jika keaktifan peserta menurun tajam.",
+        "E": "Evaluasi tidak berkaitan dengan pengukuran dampak program."
+      },
+      "jawaban": "B",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai."
+    },
+    {
+      "id": "utbk-sec-lit-13",
+      "pertanyaan": "Komunitas warga menguji program ketahanan pangan melalui jadwal layanan baru selama dua triwulan. Program itu tidak hanya berfokus pada keaktifan peserta, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada tahap awal, pelaksana kesulitan menyatukan data dari beberapa sumber. Pada akhir periode, keluhan warga turun 13 laporan dan capaian utama dinilai dari ketepatan pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "disembunyikan dari publik",
+        "B": "dilaksanakan secara terpisah",
+        "C": "dapat dinilai dengan jelas",
+        "D": "dipaksakan tanpa persiapan",
+        "E": "dijalankan dengan terburu-buru"
+      },
+      "jawaban": "C",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian."
+    },
+    {
+      "id": "utbk-sec-lit-14",
+      "pertanyaan": "Puskesmas kecamatan memperluas program literasi digital dengan pendampingan rutin selama delapan bulan. Program itu tidak hanya berfokus pada kualitas evaluasi, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Sebelum evaluasi diperbaiki, banyak kegiatan belum memiliki indikator yang jelas. Pada akhir periode, kehadiran rutin naik 31 persen dan capaian utama dinilai dari kejelasan dampak yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Evaluasi tidak diperlukan selama kualitas evaluasi sudah tercatat.",
+        "B": "Pelaksana program menolak semua bentuk pengukuran dampak.",
+        "C": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "D": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari kejelasan dampak yang semakin stabil.",
+        "E": "Keberhasilan program tidak berkaitan dengan kejelasan dampak."
+      },
+      "jawaban": "D",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks."
+    },
+    {
+      "id": "utbk-sec-lit-15",
+      "pertanyaan": "Puskesmas kecamatan memperluas program literasi digital dengan pendampingan rutin selama delapan bulan. Program itu tidak hanya berfokus pada kualitas evaluasi, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Sebelum evaluasi diperbaiki, banyak kegiatan belum memiliki indikator yang jelas. Pada akhir periode, kehadiran rutin naik 31 persen dan capaian utama dinilai dari kejelasan dampak yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan.",
+        "B": "Evaluasi hanya berguna jika kualitas evaluasi menurun tajam.",
+        "C": "Evaluasi tidak berkaitan dengan pengukuran dampak program.",
+        "D": "Evaluasi menyebabkan kejelasan dampak pasti memburuk.",
+        "E": "Evaluasi yang baik membantu penilai melihat dampak program literasi digital secara lebih akurat."
+      },
+      "jawaban": "E",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai."
+    },
+    {
+      "id": "utbk-sec-lit-16",
+      "pertanyaan": "Puskesmas kecamatan memperluas program literasi digital dengan pendampingan rutin selama delapan bulan. Program itu tidak hanya berfokus pada kualitas evaluasi, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Sebelum evaluasi diperbaiki, banyak kegiatan belum memiliki indikator yang jelas. Pada akhir periode, kehadiran rutin naik 31 persen dan capaian utama dinilai dari kejelasan dampak yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "dapat dinilai dengan jelas",
+        "B": "dipaksakan tanpa persiapan",
+        "C": "dijalankan dengan terburu-buru",
+        "D": "dilaksanakan secara terpisah",
+        "E": "disembunyikan dari publik"
+      },
+      "jawaban": "A",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian."
+    },
+    {
+      "id": "utbk-sec-lit-17",
+      "pertanyaan": "Dinas perpustakaan menata ulang program pengelolaan sampah melalui evaluasi terbuka selama satu semester. Program itu tidak hanya berfokus pada ketepatan layanan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada periode pertama, partisipasi masih naik turun karena komunikasi belum merata. Pada akhir periode, keterlibatan relawan bertambah 26 orang dan capaian utama dinilai dari stabilitas keterlibatan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Pelaksana program menolak semua bentuk pengukuran dampak.",
+        "B": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari stabilitas keterlibatan yang semakin stabil.",
+        "C": "Keberhasilan program tidak berkaitan dengan stabilitas keterlibatan.",
+        "D": "Evaluasi tidak diperlukan selama ketepatan layanan sudah tercatat.",
+        "E": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis."
+      },
+      "jawaban": "B",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks."
+    },
+    {
+      "id": "utbk-sec-lit-18",
+      "pertanyaan": "Dinas perpustakaan menata ulang program pengelolaan sampah melalui evaluasi terbuka selama satu semester. Program itu tidak hanya berfokus pada ketepatan layanan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada periode pertama, partisipasi masih naik turun karena komunikasi belum merata. Pada akhir periode, keterlibatan relawan bertambah 26 orang dan capaian utama dinilai dari stabilitas keterlibatan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi menyebabkan stabilitas keterlibatan pasti memburuk.",
+        "B": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan.",
+        "C": "Evaluasi yang baik membantu penilai melihat dampak program pengelolaan sampah secara lebih akurat.",
+        "D": "Evaluasi tidak berkaitan dengan pengukuran dampak program.",
+        "E": "Evaluasi hanya berguna jika ketepatan layanan menurun tajam."
+      },
+      "jawaban": "C",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai."
+    },
+    {
+      "id": "utbk-sec-lit-19",
+      "pertanyaan": "Dinas perpustakaan menata ulang program pengelolaan sampah melalui evaluasi terbuka selama satu semester. Program itu tidak hanya berfokus pada ketepatan layanan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada periode pertama, partisipasi masih naik turun karena komunikasi belum merata. Pada akhir periode, keterlibatan relawan bertambah 26 orang dan capaian utama dinilai dari stabilitas keterlibatan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "dilaksanakan secara terpisah",
+        "B": "disembunyikan dari publik",
+        "C": "dipaksakan tanpa persiapan",
+        "D": "dapat dinilai dengan jelas",
+        "E": "dijalankan dengan terburu-buru"
+      },
+      "jawaban": "D",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian."
+    },
+    {
+      "id": "utbk-sec-lit-20",
+      "pertanyaan": "Sekolah negeri meluncurkan program ruang hijau kota dengan sistem umpan balik singkat selama enam bulan. Program itu tidak hanya berfokus pada kebiasaan membaca, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Awalnya, pelaksana lebih fokus pada jumlah kegiatan daripada mutu pelaksanaan. Pada akhir periode, tingkat penyelesaian program naik 9 persen dan capaian utama dinilai dari mutu pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Evaluasi tidak diperlukan selama kebiasaan membaca sudah tercatat.",
+        "B": "Pelaksana program menolak semua bentuk pengukuran dampak.",
+        "C": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "D": "Keberhasilan program tidak berkaitan dengan mutu pelaksanaan.",
+        "E": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari mutu pelaksanaan yang semakin stabil."
+      },
+      "jawaban": "E",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks."
+    },
+    {
+      "id": "utbk-sec-lit-21",
+      "pertanyaan": "A youth community tested a renewable energy program for two terms through a new service schedule. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve attendance consistency. At the beginning, the organizers had trouble combining data from multiple sources. By the end of the period, community complaints fell by 18 reports, program consistency became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "steady",
+        "B": "optional",
+        "C": "fragile",
+        "D": "sudden",
+        "E": "unclear"
+      },
+      "jawaban": "A",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning."
+    },
+    {
+      "id": "utbk-sec-lit-22",
+      "pertanyaan": "A district office revised a small business growth program for eight months with regular mentoring. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve community engagement. Before the evaluation system was improved, many activities lacked clear indicators. By the end of the period, attendance consistency rose by 37 percent, service clarity became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "Participants found the program harder to follow over time.",
+        "B": "The program improved community engagement by using clear targets and consistent routines.",
+        "C": "The program failed because it offered too few activities.",
+        "D": "The institution removed all feedback sessions from the program.",
+        "E": "Improvement only happened after a budget increase."
+      },
+      "jawaban": "B",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message."
+    },
+    {
+      "id": "utbk-sec-lit-23",
+      "pertanyaan": "A district office revised a small business growth program for eight months with regular mentoring. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve community engagement. Before the evaluation system was improved, many activities lacked clear indicators. By the end of the period, attendance consistency rose by 37 percent, service clarity became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because the program removed all targets and deadlines.",
+        "B": "Because the school stopped measuring participation.",
+        "C": "Because the routines were simpler and easier for participants to follow.",
+        "D": "Because teachers reduced all academic work.",
+        "E": "Because students were forced to join every activity."
+      },
+      "jawaban": "C",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable."
+    },
+    {
+      "id": "utbk-sec-lit-24",
+      "pertanyaan": "A district office revised a small business growth program for eight months with regular mentoring. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve community engagement. Before the evaluation system was improved, many activities lacked clear indicators. By the end of the period, attendance consistency rose by 37 percent, service clarity became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "optional",
+        "B": "sudden",
+        "C": "fragile",
+        "D": "steady",
+        "E": "unclear"
+      },
+      "jawaban": "D",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning."
+    },
+    {
+      "id": "utbk-sec-lit-25",
+      "pertanyaan": "A local clinic introduced a nutrition awareness program through one semester through open evaluation. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve service accuracy. In the first phase, participation changed sharply because communication was uneven. By the end of the period, volunteer involvement increased by 5 people, implementation quality became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "The program failed because it offered too few activities.",
+        "B": "Improvement only happened after a budget increase.",
+        "C": "The institution removed all feedback sessions from the program.",
+        "D": "Participants found the program harder to follow over time.",
+        "E": "The program improved service accuracy by using clear targets and consistent routines."
+      },
+      "jawaban": "E",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message."
+    },
+    {
+      "id": "utbk-sec-lit-26",
+      "pertanyaan": "A local clinic introduced a nutrition awareness program through one semester through open evaluation. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve service accuracy. In the first phase, participation changed sharply because communication was uneven. By the end of the period, volunteer involvement increased by 5 people, implementation quality became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because the routines were simpler and easier for participants to follow.",
+        "B": "Because the school stopped measuring participation.",
+        "C": "Because the program removed all targets and deadlines.",
+        "D": "Because teachers reduced all academic work.",
+        "E": "Because students were forced to join every activity."
+      },
+      "jawaban": "A",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable."
+    },
+    {
+      "id": "utbk-sec-lit-27",
+      "pertanyaan": "A local clinic introduced a nutrition awareness program through one semester through open evaluation. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve service accuracy. In the first phase, participation changed sharply because communication was uneven. By the end of the period, volunteer involvement increased by 5 people, implementation quality became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "fragile",
+        "B": "steady",
+        "C": "optional",
+        "D": "sudden",
+        "E": "unclear"
+      },
+      "jawaban": "B",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning."
+    },
+    {
+      "id": "utbk-sec-lit-28",
+      "pertanyaan": "A city library improved a traffic discipline program for six months with short feedback cycles. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve reading habits. Initially, the team focused more on the number of activities than on their quality. By the end of the period, completion rates improved by 16 percent, engagement depth became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "Improvement only happened after a budget increase.",
+        "B": "Participants found the program harder to follow over time.",
+        "C": "The program improved reading habits by using clear targets and consistent routines.",
+        "D": "The institution removed all feedback sessions from the program.",
+        "E": "The program failed because it offered too few activities."
+      },
+      "jawaban": "C",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message."
+    },
+    {
+      "id": "utbk-sec-lit-29",
+      "pertanyaan": "A city library improved a traffic discipline program for six months with short feedback cycles. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve reading habits. Initially, the team focused more on the number of activities than on their quality. By the end of the period, completion rates improved by 16 percent, engagement depth became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because students were forced to join every activity.",
+        "B": "Because the school stopped measuring participation.",
+        "C": "Because the program removed all targets and deadlines.",
+        "D": "Because the routines were simpler and easier for participants to follow.",
+        "E": "Because teachers reduced all academic work."
+      },
+      "jawaban": "D",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable."
+    },
+    {
+      "id": "utbk-sec-lit-30",
+      "pertanyaan": "A city library improved a traffic discipline program for six months with short feedback cycles. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve reading habits. Initially, the team focused more on the number of activities than on their quality. By the end of the period, completion rates improved by 16 percent, engagement depth became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "optional",
+        "B": "unclear",
+        "C": "sudden",
+        "D": "fragile",
+        "E": "steady"
+      },
+      "jawaban": "E",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning."
+    },
+    {
+      "id": "utbk-sec-lit-31",
+      "pertanyaan": "A public school launched a public transport program for four months through weekly workshops. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve student participation. At first, many participants thought the new procedure was too complicated. By the end of the period, participant numbers rose by 40 percent, participation quality became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "The program improved student participation by using clear targets and consistent routines.",
+        "B": "Participants found the program harder to follow over time.",
+        "C": "Improvement only happened after a budget increase.",
+        "D": "The program failed because it offered too few activities.",
+        "E": "The institution removed all feedback sessions from the program."
+      },
+      "jawaban": "A",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message."
+    },
+    {
+      "id": "utbk-sec-lit-32",
+      "pertanyaan": "A public school launched a public transport program for four months through weekly workshops. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve student participation. At first, many participants thought the new procedure was too complicated. By the end of the period, participant numbers rose by 40 percent, participation quality became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because teachers reduced all academic work.",
+        "B": "Because the routines were simpler and easier for participants to follow.",
+        "C": "Because the school stopped measuring participation.",
+        "D": "Because students were forced to join every activity.",
+        "E": "Because the program removed all targets and deadlines."
+      },
+      "jawaban": "B",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable."
+    },
+    {
+      "id": "utbk-sec-lit-33",
+      "pertanyaan": "A public school launched a public transport program for four months through weekly workshops. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve student participation. At first, many participants thought the new procedure was too complicated. By the end of the period, participant numbers rose by 40 percent, participation quality became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "unclear",
+        "B": "optional",
+        "C": "steady",
+        "D": "sudden",
+        "E": "fragile"
+      },
+      "jawaban": "C",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning."
+    },
+    {
+      "id": "utbk-sec-lit-34",
+      "pertanyaan": "A village learning center expanded a renewable energy program for five months with staged training. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve program follow-up. During the early weeks, the team struggled with an inconsistent schedule. By the end of the period, service time dropped by 14 minutes, attendance stability became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "The program failed because it offered too few activities.",
+        "B": "Improvement only happened after a budget increase.",
+        "C": "Participants found the program harder to follow over time.",
+        "D": "The program improved program follow-up by using clear targets and consistent routines.",
+        "E": "The institution removed all feedback sessions from the program."
+      },
+      "jawaban": "D",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message."
+    },
+    {
+      "id": "utbk-sec-lit-35",
+      "pertanyaan": "A village learning center expanded a renewable energy program for five months with staged training. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve program follow-up. During the early weeks, the team struggled with an inconsistent schedule. By the end of the period, service time dropped by 14 minutes, attendance stability became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because the school stopped measuring participation.",
+        "B": "Because the program removed all targets and deadlines.",
+        "C": "Because students were forced to join every activity.",
+        "D": "Because teachers reduced all academic work.",
+        "E": "Because the routines were simpler and easier for participants to follow."
+      },
+      "jawaban": "E",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable."
+    },
+    {
+      "id": "utbk-sec-lit-36",
+      "pertanyaan": "A village learning center expanded a renewable energy program for five months with staged training. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve program follow-up. During the early weeks, the team struggled with an inconsistent schedule. By the end of the period, service time dropped by 14 minutes, attendance stability became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "steady",
+        "B": "fragile",
+        "C": "optional",
+        "D": "unclear",
+        "E": "sudden"
+      },
+      "jawaban": "A",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning."
+    },
+    {
+      "id": "utbk-sec-lit-37",
+      "pertanyaan": "A youth community tested a small business growth program for two terms through a new service schedule. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve attendance consistency. At the beginning, the organizers had trouble combining data from multiple sources. By the end of the period, community complaints fell by 14 reports, program consistency became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "Participants found the program harder to follow over time.",
+        "B": "The program improved attendance consistency by using clear targets and consistent routines.",
+        "C": "The institution removed all feedback sessions from the program.",
+        "D": "The program failed because it offered too few activities.",
+        "E": "Improvement only happened after a budget increase."
+      },
+      "jawaban": "B",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message."
+    },
+    {
+      "id": "utbk-sec-lit-38",
+      "pertanyaan": "A youth community tested a small business growth program for two terms through a new service schedule. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve attendance consistency. At the beginning, the organizers had trouble combining data from multiple sources. By the end of the period, community complaints fell by 14 reports, program consistency became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because the school stopped measuring participation.",
+        "B": "Because teachers reduced all academic work.",
+        "C": "Because the routines were simpler and easier for participants to follow.",
+        "D": "Because students were forced to join every activity.",
+        "E": "Because the program removed all targets and deadlines."
+      },
+      "jawaban": "C",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable."
+    },
+    {
+      "id": "utbk-sec-lit-39",
+      "pertanyaan": "A youth community tested a small business growth program for two terms through a new service schedule. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve attendance consistency. At the beginning, the organizers had trouble combining data from multiple sources. By the end of the period, community complaints fell by 14 reports, program consistency became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "optional",
+        "B": "fragile",
+        "C": "unclear",
+        "D": "steady",
+        "E": "sudden"
+      },
+      "jawaban": "D",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning."
+    },
+    {
+      "id": "utbk-sec-lit-40",
+      "pertanyaan": "A district office revised a nutrition awareness program for eight months with regular mentoring. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve community engagement. Before the evaluation system was improved, many activities lacked clear indicators. By the end of the period, attendance consistency rose by 43 percent, service clarity became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "Participants found the program harder to follow over time.",
+        "B": "Improvement only happened after a budget increase.",
+        "C": "The program failed because it offered too few activities.",
+        "D": "The institution removed all feedback sessions from the program.",
+        "E": "The program improved community engagement by using clear targets and consistent routines."
+      },
+      "jawaban": "E",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message."
+    }
+  ]
+}

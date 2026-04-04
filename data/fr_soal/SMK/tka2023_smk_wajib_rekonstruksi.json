@@ -1,0 +1,266 @@
+{
+  "id": "fr-tka-2023-smk-wajib",
+  "tahun": 2023,
+  "tingkat": "SMK",
+  "materiKategori": "wajib",
+  "mapel": "TKA SMK wajib",
+  "deskripsi": "Rekonstruksi FR TKA SMK 2023 kategori wajib.",
+  "soal": [
+    {
+      "id": "fr23-smk-wajib-bi-01",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Teks yang berisi langkah-langkah sistematis untuk menggunakan sebuah mesin disebut...",
+      "opsi": {
+        "A": "Teks Prosedur",
+        "B": "Teks Deskripsi",
+        "C": "Teks Narasi",
+        "D": "Teks Eksposisi",
+        "E": "Teks Eksplanasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Teks prosedur menjelaskan cara melakukan sesuatu melalui serangkaian tindakan.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Bahasa Indonesia",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smk-wajib-bi-02",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Kata hubung yang tepat untuk menyatakan hubungan sebab-akibat dalam kalimat adalah...",
+      "opsi": {
+        "A": "Dan",
+        "B": "Oleh karena itu",
+        "C": "Atau",
+        "D": "Tetapi",
+        "E": "Bahwa"
+      },
+      "kunci": "B",
+      "pembahasan": "Oleh karena itu menunjukkan kesimpulan atau akibat dari peristiwa sebelumnya.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Bahasa Indonesia",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smk-wajib-bi-03",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Format surat lamaran pekerjaan yang baik harus mencantumkan hal berikut, kecuali...",
+      "opsi": {
+        "A": "Alamat yang dituju",
+        "B": "Salam pembuka",
+        "C": "Daftar hobi makan",
+        "D": "Pengalaman kerja / kualifikasi",
+        "E": "Salam penutup"
+      },
+      "kunci": "C",
+      "pembahasan": "Hobi makan tidak relevan dalam konteks profesional surat lamaran.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Bahasa Indonesia",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smk-wajib-bi-04",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Dalam negosiasi, hasil yang diharapkan adalah 'win-win solution', artinya...",
+      "opsi": {
+        "A": "Satu pihak menang mutlak",
+        "B": "Kedua pihak tidak mendapatkan apa-apa",
+        "C": "Salah satu pihak merasa dirugikan",
+        "D": "Keputusan yang menguntungkan kedua belah pihak secara adil",
+        "E": "Dibatalkannya perjanjian"
+      },
+      "kunci": "D",
+      "pembahasan": "Negosiasi bertujuan mencapai kesepakatan yang memuaskan kedua pihak.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Bahasa Indonesia",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smk-wajib-en-01",
+      "mapel": "Bahasa Inggris",
+      "teks": "Choose the most appropriate response. 'How do you do?'",
+      "opsi": {
+        "A": "How do you do?",
+        "B": "I am fine, thank you.",
+        "C": "Very well.",
+        "D": "Nice to meet you.",
+        "E": "Goodbye."
+      },
+      "kunci": "A",
+      "pembahasan": "'How do you do?' is a formal greeting used when meeting someone for the first time, and the response is also 'How do you do?'.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Bahasa Inggris",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smk-wajib-en-02",
+      "mapel": "Bahasa Inggris",
+      "teks": "First, plug in the cable. ..., turn on the power switch. What is the correct conjunction?",
+      "opsi": {
+        "A": "Finally",
+        "B": "Then",
+        "C": "But",
+        "D": "Because",
+        "E": "If"
+      },
+      "kunci": "B",
+      "pembahasan": "'Then' is a sequence adverb used to show the next step in a procedure.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Bahasa Inggris",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smk-wajib-en-03",
+      "mapel": "Bahasa Inggris",
+      "teks": "A person who designs, builds, or maintains engines, machines, or public works is called an...",
+      "opsi": {
+        "A": "Architect",
+        "B": "Manager",
+        "C": "Engineer",
+        "D": "Doctor",
+        "E": "Teacher"
+      },
+      "kunci": "C",
+      "pembahasan": "Description of the 'Engineer' profession.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Bahasa Inggris",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smk-wajib-en-04",
+      "mapel": "Bahasa Inggris",
+      "teks": "If I ... rich, I would buy a new car. (Conditional sentence type 2)",
+      "opsi": {
+        "A": "am",
+        "B": "was",
+        "C": "be",
+        "D": "were",
+        "E": "been"
+      },
+      "kunci": "D",
+      "pembahasan": "In conditional type 2, 'were' is used for all subjects in the 'if' clause.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Bahasa Inggris",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smk-wajib-mt-01",
+      "mapel": "Matematika",
+      "teks": "Bentuk sederhana dari (2^4 * 2^3) / 2^5 adalah...",
+      "opsi": {
+        "A": "4",
+        "B": "2",
+        "C": "8",
+        "D": "16",
+        "E": "32"
+      },
+      "kunci": "A",
+      "pembahasan": "2^(4+3-5) = 2^2 = 4. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Matematika",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smk-wajib-mt-02",
+      "mapel": "Matematika",
+      "teks": "Nilai dari log 1000 - log 10 adalah...",
+      "opsi": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "10",
+        "E": "100"
+      },
+      "kunci": "B",
+      "pembahasan": "log(1000/10) = log 100 = 2. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Matematika",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smk-wajib-mt-03",
+      "mapel": "Matematika",
+      "teks": "Suku ke-10 dari barisan aritmatika 5, 8, 11, ... adalah...",
+      "opsi": {
+        "A": "30",
+        "B": "35",
+        "C": "32",
+        "D": "38",
+        "E": "40"
+      },
+      "kunci": "C",
+      "pembahasan": "U10 = a + 9b = 5 + 9(3) = 5 + 27 = 32. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"32\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Matematika",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smk-wajib-mt-04",
+      "mapel": "Matematika",
+      "teks": "Jika suku pertama deret geometri adalah 4 dan rasionya 2, maka suku ke-5 adalah...",
+      "opsi": {
+        "A": "16",
+        "B": "32",
+        "C": "128",
+        "D": "64",
+        "E": "8"
+      },
+      "kunci": "D",
+      "pembahasan": "U5 = a * r^4 = 4 * 2^4 = 4 * 16 = 64. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"64\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Matematika",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smk-wajib-pp-01",
+      "mapel": "Pancasila",
+      "teks": "Rumusan Pancasila yang sah dan resmi terdapat dalam...",
+      "opsi": {
+        "A": "Pembukaan UUD 1945 Alinea IV",
+        "B": "Pidato Soekarno 1 Juni 1945",
+        "C": "Piagam Jakarta",
+        "D": "Dekrit Presiden",
+        "E": "Tap MPR"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembukaan UUD 1945 memuat rumusan Pancasila yang kita gunakan saat ini.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Pancasila",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smk-wajib-pp-02",
+      "mapel": "Pancasila",
+      "teks": "Pancasila sebagai 'Meja Statis' dan 'Leitstar Dinamis' dikemukakan oleh...",
+      "opsi": {
+        "A": "Moh. Hatta",
+        "B": "Ir. Soekarno",
+        "C": "Moh. Yamin",
+        "D": "Soepomo",
+        "E": "Notonagoro"
+      },
+      "kunci": "B",
+      "pembahasan": "Meja statis berarti pemersatu, Leitstar dinamis berarti bintang penuntun perubahan.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Pancasila",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smk-wajib-pp-03",
+      "mapel": "Pancasila",
+      "teks": "Berikut ini yang merupakan nilai instrumental dalam ideologi Pancasila adalah...",
+      "opsi": {
+        "A": "Keyakinan akan adanya Tuhan",
+        "B": "Sila Persatuan Indonesia",
+        "C": "Undang-Undang dan Peraturan Pemerintah",
+        "D": "Keadilan bagi seluruh rakyat",
+        "E": "Rasa kemanusiaan"
+      },
+      "kunci": "C",
+      "pembahasan": "Nilai instrumental adalah penjabaran nilai dasar dalam bentuk norma hukum/politik.",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Pancasila",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smk-wajib-pp-04",
+      "mapel": "Pancasila",
+      "teks": "Sistem pembagian kekuasaan di Indonesia membagi kekuasaan menjadi Eksekutif, Legislatif, dan...",
+      "opsi": {
+        "A": "Politik",
+        "B": "Militer",
+        "C": "Komersial",
+        "D": "Yudikatif",
+        "E": "Otonomi"
+      },
+      "kunci": "D",
+      "pembahasan": "Yudikatif bertugas mengadili pelanggaran hukum (MK, MA, KY).",
+      "sumber": "Rekonstruksi pola TKA SMK 2023 - Pancasila",
+      "hari_ujian": 2
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "judul": "Layanan Perbankan",
+  "tingkatan": "SMK",
+  "jurusan": "Akuntansi dan Keuangan Lembaga",
+  "deskripsi": "Materi tentang sistem perbankan di Indonesia, produk bank, jasa layanan, dan etika kerja di industri keuangan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar-Dasar Perbankan",
+      "konten": "Bank adalah badan usaha yang menghimpun dana dari masyarakat dalam bentuk simpanan dan menyalurkannya kepada masyarakat dalam bentuk kredit dan atau bentuk-bentuk lainnya dalam rangka meningkatkan taraf hidup rakyat banyak. Di Indonesia, bank diatur oleh UU No. 10 Tahun 1998.",
+      "tag": [
+        "akl layananperbankan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Jenis-Jenis Bank",
+      "konten": "Berdasarkan fungsinya, bank dibagi menjadi Bank Umum dan Bank Perkreditan Rakyat (BPR). Berdasarkan sistem operasional, terdapat Bank Konvensional (bunga) dan Bank Syariah (bagi hasil/mudharabah).",
+      "tag": [
+        "akl layananperbankan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Produk Simpanan Bank",
+      "konten": "Produk utama penghimpun dana meliputi Tabungan, Giro (simpanan yang penarikannya menggunakan cek/bilyet giro), dan Deposito Berjangka (simpanan dengan jangka waktu tertentu).",
+      "tag": [
+        "akl layananperbankan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Produk Kredit dan Jasa Lainnya",
+      "konten": "Kredit adalah penyediaan uang atau tagihan. Jasa perbankan lainnya meliputi transfer (Kliring, RTGS, BI-FAST), inkaso, kartu kredit/debit, dan Safe Deposit Box (SDB).",
+      "tag": [
+        "akl layananperbankan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Etika Pelayanan Nasabah (Customer Service)",
+      "konten": "Petugas bank harus menerapkan Service Excellence (Pelayanan Prima) dengan prinsip ramah, cepat, akurat, dan menjamin kerahasiaan data nasabah sesuai UU Perbankan.",
+      "tag": [
+        "akl layananperbankan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "akl-layananperbankan-materi",
+  "mapel": "Layanan Perbankan",
+  "tag": [
+    "akl layananperbankan materi"
+  ]
+}

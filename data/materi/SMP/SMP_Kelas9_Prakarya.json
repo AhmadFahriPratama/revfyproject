@@ -1,0 +1,26 @@
+{
+  "id": "materi-smp-kls9-prakarya",
+  "tingkat": "SMP Kelas 9",
+  "mapel": "Prakarya",
+  "materi": "Kerajinan Bahan Keras, Elektronika Kendali, Budidaya Ternak Hias, Pengolahan Hasil Peternakan",
+  "deskripsi": "Prakarya Kelas 9 mematangkan kompetensi penciptaan berbasis bahan keras (kayu, logam), rekayasa analog elektronika sederhana, beternak hias, serta kreasi olahan daging dan ikan.",
+  "konten": [
+    {
+      "bab": "1. Kerajinan Manca (Bahan Keras Alam & Buatan)",
+      "teks": "Karakteristik kayu jati, bambu, rotan (alam) vs Kaca, Logam besi/tembaga (buatan). Teknik bubut, ukir, patri solder, dan finishing melamin."
+    },
+    {
+      "bab": "2. Rekayasa Prinsip Kelistrikan",
+      "teks": "Wawasan kelistrikan AC/DC. Komponen instalasi rumah (MCB, Sakelar, Stop kontak, kabel fasa/netral) dng praktek rakitan papan hubung bagi sederhana (Aman)."
+    },
+    {
+      "bab": "3. Budi Daya Hewan Ternak Kesayangan / Hias",
+      "teks": "Manajemen pemeliharaan Hamster, Burung Kicau, Kelinci hias, Kucing. Pemilihan bibit, siklus pakan gizi, dan pembuatan kandang higienis sirkulasi."
+    },
+    {
+      "bab": "4. Pengolahan Bahan Pangan Hasil Peternakan dan Perikanan",
+      "teks": "Teknik merebus, mengukus, menggoreng deep frying bahan Daging Sapi Kambing Ayam maupun Ikan laut/tawar segar. Serta inovasi produk setengah jadi (Nugget, Sosis, Bakso)."
+    }
+  ],
+  "tag": ["smp-9", "prakarya", "bahan-keras", "kelistrikan", "ternak-hias", "olahan-daging"]
+}

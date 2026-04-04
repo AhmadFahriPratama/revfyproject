@@ -1,0 +1,787 @@
+{
+  "id": "tka_smk_wajib_tryout-v01",
+  "judul": "Try Out TKA SMK Wajib V01",
+  "durasiMenit": 60,
+  "soal": [
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-01",
+      "pertanyaan": "[Bahasa Indonesia] Teks yang berisi langkah-langkah sistematis untuk menggunakan sebuah mesin disebut...",
+      "opsi": {
+        "A": "Teks Prosedur",
+        "B": "Teks Deskripsi",
+        "C": "Teks Narasi",
+        "D": "Teks Eksposisi",
+        "E": "Teks Eksplanasi"
+      },
+      "jawaban": "A",
+      "pembahasan": "Teks prosedur menjelaskan cara melakukan sesuatu melalui serangkaian tindakan."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-02",
+      "pertanyaan": "[Bahasa Indonesia] Kata hubung yang tepat untuk menyatakan hubungan sebab-akibat dalam kalimat adalah...",
+      "opsi": {
+        "A": "Dan",
+        "B": "Oleh karena itu",
+        "C": "Atau",
+        "D": "Tetapi",
+        "E": "Bahwa"
+      },
+      "jawaban": "B",
+      "pembahasan": "Oleh karena itu menunjukkan kesimpulan atau akibat dari peristiwa sebelumnya."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-03",
+      "pertanyaan": "[Bahasa Indonesia] Format surat lamaran pekerjaan yang baik harus mencantumkan hal berikut, kecuali...",
+      "opsi": {
+        "A": "Alamat yang dituju",
+        "B": "Salam pembuka",
+        "C": "Daftar hobi makan",
+        "D": "Pengalaman kerja / kualifikasi",
+        "E": "Salam penutup"
+      },
+      "jawaban": "C",
+      "pembahasan": "Hobi makan tidak relevan dalam konteks profesional surat lamaran."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-04",
+      "pertanyaan": "[Bahasa Indonesia] Dalam negosiasi, hasil yang diharapkan adalah 'win-win solution', artinya...",
+      "opsi": {
+        "A": "Satu pihak menang mutlak",
+        "B": "Kedua pihak tidak mendapatkan apa-apa",
+        "C": "Salah satu pihak merasa dirugikan",
+        "D": "Keputusan yang menguntungkan kedua belah pihak secara adil",
+        "E": "Dibatalkannya perjanjian"
+      },
+      "jawaban": "D",
+      "pembahasan": "Negosiasi bertujuan mencapai kesepakatan yang memuaskan kedua pihak."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-05",
+      "pertanyaan": "[Bahasa Indonesia] Penggunaan bahasa dalam email bisnis kepada atasan sebaiknya bersifat...",
+      "opsi": {
+        "A": "Slang (Bahasa Gaul)",
+        "B": "Singkat dan tidak jelas",
+        "C": "Puitis",
+        "D": "Penuh teka-teki",
+        "E": "Formal dan sopan"
+      },
+      "jawaban": "E",
+      "pembahasan": "Komunikasi profesional menuntut bahasa standar yang hormat."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-06",
+      "pertanyaan": "[Bahasa Indonesia] Bagian CV yang berisi ringkasan singkat profil diri untuk menarik perhatian HRD disebut...",
+      "opsi": {
+        "A": "Personal Summary / Profile",
+        "B": "Portfolio",
+        "C": "Hobi",
+        "D": "Riwayat Pendidikan",
+        "E": "Konten"
+      },
+      "jawaban": "A",
+      "pembahasan": "Ringkasan profil membantu perekrut memahami kompetensi utama kandidat dengan cepat."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-07",
+      "pertanyaan": "[Bahasa Indonesia] Makna idiom 'Membanting tulang' adalah...",
+      "opsi": {
+        "A": "Berkelahi",
+        "B": "Bekerja keras",
+        "C": "Patah tulang",
+        "D": "Olahraga berat",
+        "E": "Putus asa"
+      },
+      "jawaban": "B",
+      "pembahasan": "Menunjukkan gigihnya seseorang dalam mencari nafkah."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-08",
+      "pertanyaan": "[Bahasa Indonesia] Kata serapan dari bahasa Inggris 'Management' yang baku adalah...",
+      "opsi": {
+        "A": "Managemen",
+        "B": "Manajement",
+        "C": "Manajemen",
+        "D": "Manajeman",
+        "E": "Management"
+      },
+      "jawaban": "C",
+      "pembahasan": "Sesuai KBBI adalah Manajemen. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Manajemen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-09",
+      "pertanyaan": "[Bahasa Indonesia] Kalimat yang menyatakan opini dalam artikel bisnis adalah...",
+      "opsi": {
+        "A": "IHSG turun 0.5% hari ini.",
+        "B": "Perusahaan itu berdiri tahun 1990.",
+        "C": "Harga emas mencapai Rp1.000.000 per gram.",
+        "D": "Menurut saya, inovasi adalah kunci sukses utama.",
+        "E": "Laporan tahunan telah dipublikasi."
+      },
+      "jawaban": "D",
+      "pembahasan": "Frasa 'Menurut saya' menunjukkan pandangan subjektif pengarang."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-10",
+      "pertanyaan": "[Bahasa Indonesia] Iklan lowongan kerja yang meminta pelamar datang langsung tanpa janji disebut...",
+      "opsi": {
+        "A": "Interview",
+        "B": "Workshop",
+        "C": "Seminar",
+        "D": "Webinar",
+        "E": "Walk-in Interview"
+      },
+      "jawaban": "E",
+      "pembahasan": "Walk-in interview memudahkan rekrutmen massal secara cepat."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-11",
+      "pertanyaan": "[Bahasa Indonesia] Kalimat mana yang menggunakan ejaan (huruf kapital) secara tepat?",
+      "opsi": {
+        "A": "Kita harus bangga sebagai bangsa Indonesia.",
+        "B": "saya lahir di desa sukamaju.",
+        "C": "Andi membeli Pisang Ambon.",
+        "D": "Ibu pergi ke pasar Senin semalam.",
+        "E": "Presiden jokowi sedang berpidato."
+      },
+      "jawaban": "A",
+      "pembahasan": "Opsi D benar. Opsi B salah (p dan a kecil jika nama buah), Opsi C pasar (p kecil), E (j harus kapital)."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-12",
+      "pertanyaan": "[Bahasa Indonesia] Laporan hasil prakerin (praktik kerja industri) biasanya disusun secara...",
+      "opsi": {
+        "A": "Fiktif",
+        "B": "Sistematis dan Berdasarkan Fakta Lapangan",
+        "C": "Subjektif",
+        "D": "Singkat saja",
+        "E": "Sesuka hati"
+      },
+      "jawaban": "B",
+      "pembahasan": "Laporan akademik harus mengikuti struktur yang ditentukan dan berbasis data nyata."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-13",
+      "pertanyaan": "[Bahasa Indonesia] Inti dari sebuah presentasi produk sebaiknya diletakkan pada bagian...",
+      "opsi": {
+        "A": "Prolog",
+        "B": "Orientasi",
+        "C": "Inti / Pembahasan",
+        "D": "Penutup",
+        "E": "Koda"
+      },
+      "jawaban": "C",
+      "pembahasan": "Bagian inti menyampaikan USP (Unique Selling Point) produk."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-14",
+      "pertanyaan": "[Bahasa Indonesia] Sinonim dari kata 'Inovasi' adalah...",
+      "opsi": {
+        "A": "Kemunduran",
+        "B": "Stagnasi",
+        "C": "Kuno",
+        "D": "Kebaruan",
+        "E": "Bosan"
+      },
+      "jawaban": "D",
+      "pembahasan": "Inovasi berkaitan dengan penemuan hal baru yang lebih baik."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-bi-15",
+      "pertanyaan": "[Bahasa Indonesia] Surat yang dikeluarkan oleh instansi untuk memanggil seseorang perihal pekerjaan disebut...",
+      "opsi": {
+        "A": "Surat Undangan",
+        "B": "Surat Cinta",
+        "C": "Surat Kaleng",
+        "D": "Surat Perjanjian",
+        "E": "Surat Panggilan Kerja / Panggilan Wawancara"
+      },
+      "jawaban": "E",
+      "pembahasan": "Langkah lanjutan setelah seleksi berkas."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-01",
+      "pertanyaan": "[Bahasa Inggris] Choose the most appropriate response. 'How do you do?'",
+      "opsi": {
+        "A": "How do you do?",
+        "B": "I am fine, thank you.",
+        "C": "Very well.",
+        "D": "Nice to meet you.",
+        "E": "Goodbye."
+      },
+      "jawaban": "A",
+      "pembahasan": "'How do you do?' is a formal greeting used when meeting someone for the first time, and the response is also 'How do you do?'."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-02",
+      "pertanyaan": "[Bahasa Inggris] First, plug in the cable. ..., turn on the power switch. What is the correct conjunction?",
+      "opsi": {
+        "A": "Finally",
+        "B": "Then",
+        "C": "But",
+        "D": "Because",
+        "E": "If"
+      },
+      "jawaban": "B",
+      "pembahasan": "'Then' is a sequence adverb used to show the next step in a procedure."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-03",
+      "pertanyaan": "[Bahasa Inggris] A person who designs, builds, or maintains engines, machines, or public works is called an...",
+      "opsi": {
+        "A": "Architect",
+        "B": "Manager",
+        "C": "Engineer",
+        "D": "Doctor",
+        "E": "Teacher"
+      },
+      "jawaban": "C",
+      "pembahasan": "Description of the 'Engineer' profession."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-04",
+      "pertanyaan": "[Bahasa Inggris] If I ... rich, I would buy a new car. (Conditional sentence type 2)",
+      "opsi": {
+        "A": "am",
+        "B": "was",
+        "C": "be",
+        "D": "were",
+        "E": "been"
+      },
+      "jawaban": "D",
+      "pembahasan": "In conditional type 2, 'were' is used for all subjects in the 'if' clause."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-05",
+      "pertanyaan": "[Bahasa Inggris] Which one is a formal closing for a business letter when you don't know the recipient's name?",
+      "opsi": {
+        "A": "Love,",
+        "B": "Best regards,",
+        "C": "Cheers,",
+        "D": "Bye,",
+        "E": "Yours faithfully,"
+      },
+      "jawaban": "E",
+      "pembahasan": "'Yours faithfully' is used when the name is unknown (Dear Sir/Madam)."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-06",
+      "pertanyaan": "[Bahasa Inggris] She ... a lot of experience in graphic design.",
+      "opsi": {
+        "A": "has",
+        "B": "have",
+        "C": "is",
+        "D": "am",
+        "E": "are"
+      },
+      "jawaban": "A",
+      "pembahasan": "Present tense for singular third person (She)."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-07",
+      "pertanyaan": "[Bahasa Inggris] The company ... new employees every year.",
+      "opsi": {
+        "A": "hire",
+        "B": "hires",
+        "C": "hiring",
+        "D": "hired",
+        "E": "is hire"
+      },
+      "jawaban": "B",
+      "pembahasan": "Present habit/routine uses V1 + s/es for singular subjects."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-08",
+      "pertanyaan": "[Bahasa Inggris] What does 'ASAP' stand for in communication?",
+      "opsi": {
+        "A": "Always Send A Package",
+        "B": "After Sunday At Principal",
+        "C": "As Soon As Possible",
+        "D": "As System As Process",
+        "E": "At Some Afternoon Point"
+      },
+      "jawaban": "C",
+      "pembahasan": "ASAP indicates urgency. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"As Soon As Possible\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-09",
+      "pertanyaan": "[Bahasa Inggris] The laptop is ... than the tablet.",
+      "opsi": {
+        "A": "expensive",
+        "B": "most expensive",
+        "C": "expensiver",
+        "D": "more expensive",
+        "E": "as expensive"
+      },
+      "jawaban": "D",
+      "pembahasan": "Comparative degree for adjectives with more than two syllables."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-10",
+      "pertanyaan": "[Bahasa Inggris] Could you please ... the document to me?",
+      "opsi": {
+        "A": "forwards",
+        "B": "forwarded",
+        "C": "forwarding",
+        "D": "to forward",
+        "E": "forward"
+      },
+      "jawaban": "E",
+      "pembahasan": "Modal 'could' is followed by a base verb (V1)."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-11",
+      "pertanyaan": "[Bahasa Inggris] The report ... by the manager yesterday.",
+      "opsi": {
+        "A": "was written",
+        "B": "is written",
+        "C": "written",
+        "D": "wrote",
+        "E": "writes"
+      },
+      "jawaban": "A",
+      "pembahasan": "Passive voice for past tense (was/were + V3)."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-12",
+      "pertanyaan": "[Bahasa Inggris] I look forward to ... you at the meeting.",
+      "opsi": {
+        "A": "see",
+        "B": "seeing",
+        "C": "seen",
+        "D": "saw",
+        "E": "be seeing"
+      },
+      "jawaban": "B",
+      "pembahasan": "'Look forward to' is followed by a gerund (V-ing)."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-13",
+      "pertanyaan": "[Bahasa Inggris] Wait a minute! I ... for a taxi.",
+      "opsi": {
+        "A": "wait",
+        "B": "waited",
+        "C": "am waiting",
+        "D": "waiting",
+        "E": "have wait"
+      },
+      "jawaban": "C",
+      "pembahasan": "Present continuous for actions happening at the moment."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-14",
+      "pertanyaan": "[Bahasa Inggris] Mr. Robert is the man ... owns this factory.",
+      "opsi": {
+        "A": "which",
+        "B": "whom",
+        "C": "whose",
+        "D": "who",
+        "E": "where"
+      },
+      "jawaban": "D",
+      "pembahasan": "Relative pronoun for a person as a subject."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-en-15",
+      "pertanyaan": "[Bahasa Inggris] Don't touch the wire! It's very ....",
+      "opsi": {
+        "A": "danger",
+        "B": "dangerously",
+        "C": "dangered",
+        "D": "safety",
+        "E": "dangerous"
+      },
+      "jawaban": "E",
+      "pembahasan": "Adjective to describe the condition of the wire."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-01",
+      "pertanyaan": "[Matematika] Bentuk sederhana dari (2^4 * 2^3) / 2^5 adalah...",
+      "opsi": {
+        "A": "4",
+        "B": "2",
+        "C": "8",
+        "D": "16",
+        "E": "32"
+      },
+      "jawaban": "A",
+      "pembahasan": "2^(4+3-5) = 2^2 = 4. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-02",
+      "pertanyaan": "[Matematika] Nilai dari log 1000 - log 10 adalah...",
+      "opsi": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "10",
+        "E": "100"
+      },
+      "jawaban": "B",
+      "pembahasan": "log(1000/10) = log 100 = 2. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-03",
+      "pertanyaan": "[Matematika] Suku ke-10 dari barisan aritmatika 5, 8, 11, ... adalah...",
+      "opsi": {
+        "A": "30",
+        "B": "35",
+        "C": "32",
+        "D": "38",
+        "E": "40"
+      },
+      "jawaban": "C",
+      "pembahasan": "U10 = a + 9b = 5 + 9(3) = 5 + 27 = 32. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"32\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-04",
+      "pertanyaan": "[Matematika] Jika suku pertama deret geometri adalah 4 dan rasionya 2, maka suku ke-5 adalah...",
+      "opsi": {
+        "A": "16",
+        "B": "32",
+        "C": "128",
+        "D": "64",
+        "E": "8"
+      },
+      "jawaban": "D",
+      "pembahasan": "U5 = a * r^4 = 4 * 2^4 = 4 * 16 = 64. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"64\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-05",
+      "pertanyaan": "[Matematika] Determinan dari matriks [[3, 1], [4, 2]] adalah...",
+      "opsi": {
+        "A": "10",
+        "B": "-2",
+        "C": "5",
+        "D": "0",
+        "E": "2"
+      },
+      "jawaban": "E",
+      "pembahasan": "(3*2) - (1*4) = 6 - 4 = 2. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-06",
+      "pertanyaan": "[Matematika] Nilai dari sin 30 derajat adalah...",
+      "opsi": {
+        "A": "1/2",
+        "B": "0",
+        "C": "1/2 sqrt(2)",
+        "D": "1/2 sqrt(3)",
+        "E": "1"
+      },
+      "jawaban": "A",
+      "pembahasan": "Sudut istimewa trigonometri. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"1/2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-07",
+      "pertanyaan": "[Matematika] Invers dari matriks [[2, 1], [3, 2]] adalah...",
+      "opsi": {
+        "A": "[[2, 1], [3, 2]]",
+        "B": "[[2, -1], [-3, 2]]",
+        "C": "[[-2, 1], [3, -2]]",
+        "D": "[[1, 0], [0, 1]]",
+        "E": "[[2, -2], [1, 1]]"
+      },
+      "jawaban": "B",
+      "pembahasan": "Det = 4-3=1. Adjoint = [[2, -1], [-3, 2]]. Invers = 1/1 * Adjoint."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-08",
+      "pertanyaan": "[Matematika] Rata-rata (mean) dari data 4, 6, 8, 10 adalah...",
+      "opsi": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8",
+        "E": "9"
+      },
+      "jawaban": "C",
+      "pembahasan": "(4+6+8+10)/4 = 28/4 = 7. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"7\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-09",
+      "pertanyaan": "[Matematika] Jika cos A = 4/5, maka tan A adalah...",
+      "opsi": {
+        "A": "3/5",
+        "B": "4/3",
+        "C": "1/2",
+        "D": "3/4",
+        "E": "1"
+      },
+      "jawaban": "D",
+      "pembahasan": "Samping=4, Miring=5, Depan=3. Tan = D/S = 3/4."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-10",
+      "pertanyaan": "[Matematika] Hasil perkalian matriks [[1, 2]] x [[3], [4]] adalah...",
+      "opsi": {
+        "A": "[[3, 8]]",
+        "B": "[[7]]",
+        "C": "[[12]]",
+        "D": "[[5]]",
+        "E": "[[11]]"
+      },
+      "jawaban": "E",
+      "pembahasan": "(1*3) + (2*4) = 3 + 8 = 11. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"[[11]]\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-11",
+      "pertanyaan": "[Matematika] Jumlah suku tak hingga dari deret geometri 16 + 8 + 4 + ... adalah...",
+      "opsi": {
+        "A": "32",
+        "B": "24",
+        "C": "48",
+        "D": "64",
+        "E": "Tak terhingga"
+      },
+      "jawaban": "A",
+      "pembahasan": "S = a / (1-r) = 16 / (1-0.5) = 16 / 0.5 = 32."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-12",
+      "pertanyaan": "[Matematika] Nilai x yang memenuhi 3^(2x-1) = 27 adalah...",
+      "opsi": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "jawaban": "B",
+      "pembahasan": "3^(2x-1) = 3^3 => 2x-1 = 3 => 2x = 4 => x = 2."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-13",
+      "pertanyaan": "[Matematika] Persamaan bayangan garis y = 2x + 1 oleh translasi T(3, 2) adalah...",
+      "opsi": {
+        "A": "y = 2x + 7",
+        "B": "y = 2x - 1",
+        "C": "y = 2x - 3",
+        "D": "y = 2x + 5",
+        "E": "y = 2x - 7"
+      },
+      "jawaban": "C",
+      "pembahasan": "y-2 = 2(x-3) + 1 => y-2 = 2x - 6 + 1 => y = 2x - 3."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-14",
+      "pertanyaan": "[Matematika] Nilai dari 5! / 3! adalah...",
+      "opsi": {
+        "A": "10",
+        "B": "120",
+        "C": "60",
+        "D": "20",
+        "E": "5"
+      },
+      "jawaban": "D",
+      "pembahasan": "(5 * 4 * 3!) / 3! = 20. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"20\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-mt-15",
+      "pertanyaan": "[Matematika] Modus dari data berkelompok dapat dicari menggunakan rumus yang melibatkan...",
+      "opsi": {
+        "A": "Frekuensi kumulatif",
+        "B": "Nilai rata-rata",
+        "C": "Akar kuadrat",
+        "D": "Median",
+        "E": "Selisih frekuensi kelas modus dengan kelas sebelumnya"
+      },
+      "jawaban": "E",
+      "pembahasan": "Modus = Tb + [d1 / (d1+d2] * p. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Selisih frekuensi kelas modus dengan kelas sebelumnya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-01",
+      "pertanyaan": "[Pancasila] Rumusan Pancasila yang sah dan resmi terdapat dalam...",
+      "opsi": {
+        "A": "Pembukaan UUD 1945 Alinea IV",
+        "B": "Pidato Soekarno 1 Juni 1945",
+        "C": "Piagam Jakarta",
+        "D": "Dekrit Presiden",
+        "E": "Tap MPR"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembukaan UUD 1945 memuat rumusan Pancasila yang kita gunakan saat ini."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-02",
+      "pertanyaan": "[Pancasila] Pancasila sebagai 'Meja Statis' dan 'Leitstar Dinamis' dikemukakan oleh...",
+      "opsi": {
+        "A": "Moh. Hatta",
+        "B": "Ir. Soekarno",
+        "C": "Moh. Yamin",
+        "D": "Soepomo",
+        "E": "Notonagoro"
+      },
+      "jawaban": "B",
+      "pembahasan": "Meja statis berarti pemersatu, Leitstar dinamis berarti bintang penuntun perubahan."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-03",
+      "pertanyaan": "[Pancasila] Berikut ini yang merupakan nilai instrumental dalam ideologi Pancasila adalah...",
+      "opsi": {
+        "A": "Keyakinan akan adanya Tuhan",
+        "B": "Sila Persatuan Indonesia",
+        "C": "Undang-Undang dan Peraturan Pemerintah",
+        "D": "Keadilan bagi seluruh rakyat",
+        "E": "Rasa kemanusiaan"
+      },
+      "jawaban": "C",
+      "pembahasan": "Nilai instrumental adalah penjabaran nilai dasar dalam bentuk norma hukum/politik."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-04",
+      "pertanyaan": "[Pancasila] Sistem pembagian kekuasaan di Indonesia membagi kekuasaan menjadi Eksekutif, Legislatif, dan...",
+      "opsi": {
+        "A": "Politik",
+        "B": "Militer",
+        "C": "Komersial",
+        "D": "Yudikatif",
+        "E": "Otonomi"
+      },
+      "jawaban": "D",
+      "pembahasan": "Yudikatif bertugas mengadili pelanggaran hukum (MK, MA, KY)."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-05",
+      "pertanyaan": "[Pancasila] Lembaga negara yang memiliki wewenang untuk mengubah dan menetapkan UUD adalah...",
+      "opsi": {
+        "A": "DPR",
+        "B": "Presiden",
+        "C": "DPD",
+        "D": "MK",
+        "E": "MPR"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"MPR\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-06",
+      "pertanyaan": "[Pancasila] Makna dari Bhinneka Tunggal Ika adalah...",
+      "opsi": {
+        "A": "Berbeda-beda tetapi satu jua",
+        "B": "Berbeda-beda tetapi tetap banyak",
+        "C": "Satu bangsa yang tidak boleh beda",
+        "D": "Banyak pulau banyak aturan",
+        "E": "Persatuan yang kaku"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Berbeda-beda tetapi satu jua\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-07",
+      "pertanyaan": "[Pancasila] Contoh pengamalan Pancasila sila ke-4 (Kerakyatan yang dipimpin oleh hikmat kebijaksanaan...) dalam lingkungan SMK adalah...",
+      "opsi": {
+        "A": "Menghormati guru",
+        "B": "Melakukan musyawarah untuk mencapai mufakat dalam organisasi siswa",
+        "C": "Melaksanakan piket kelas",
+        "D": "Membayar SPP tepat waktu",
+        "E": "Menjaga kebersihan bengkel"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Melakukan musyawarah untuk mencapai mufakat dalam organisasi siswa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-08",
+      "pertanyaan": "[Pancasila] Konstitusi pertama yang berlaku di Indonesia setelah kemerdekaan adalah...",
+      "opsi": {
+        "A": "Konstitusi RIS",
+        "B": "UUDS 1950",
+        "C": "UUD 1945",
+        "D": "UUD Amandemen 1",
+        "E": "Piagam HAM"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"UUD 1945\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-09",
+      "pertanyaan": "[Pancasila] Salah satu ciri ideologi terbuka adalah...",
+      "opsi": {
+        "A": "Bersifat kaku dan tidak bisa berubah",
+        "B": "Diciptakan oleh negara untuk dipaksakan",
+        "C": "Hanya membela satu golongan",
+        "D": "Nilai dan cita-citanya digali dari kekayaan rohani dan budaya masyarakat sendiri",
+        "E": "Anti kritik"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Nilai dan cita-citanya digali dari kekayaan rohani dan budaya masyarakat sendiri\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-10",
+      "pertanyaan": "[Pancasila] Tugas Mahkamah Konstitusi (MK) antara lain adalah...",
+      "opsi": {
+        "A": "Membuat undang-undang baru",
+        "B": "Memilih Presiden",
+        "C": "Mengatur keuangan negara",
+        "D": "Memimpin upacara bendera",
+        "E": "Menguji undang-undang terhadap UUD"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menguji undang-undang terhadap UUD\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-11",
+      "pertanyaan": "[Pancasila] Sila ke-2 Pancasila dilambangkan dengan...",
+      "opsi": {
+        "A": "Rantai",
+        "B": "Bintang",
+        "C": "Pohon Beringin",
+        "D": "Kepala Banteng",
+        "E": "Padi dan Kapas"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rantai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-12",
+      "pertanyaan": "[Pancasila] Peranan pemuda dalam kebangkitan nasional Indonesia dimulai secara terorganisir pada tahun 1908 melalui berdirinya...",
+      "opsi": {
+        "A": "Sarekat Islam",
+        "B": "Budi Utomo",
+        "C": "Indische Partij",
+        "D": "PKI",
+        "E": "Muhammadiyah"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Budi Utomo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-13",
+      "pertanyaan": "[Pancasila] Wawasan Nusantara sebagai visi bangsa Indonesia memandang wilayah daratan, lautan, dan udara sebagai...",
+      "opsi": {
+        "A": "Wilayah yang terpisah-pisah",
+        "B": "Hanya milik pemerintah",
+        "C": "Satu kesatuan politik, ekonomi, sosial budaya, dan pertahanan keamanan",
+        "D": "Area perdagangan bebas",
+        "E": "Beban negara"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Satu kesatuan politik, ekonomi, sosial budaya, dan pertahanan keamanan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-14",
+      "pertanyaan": "[Pancasila] Sistem pemerintahan Indonesia saat ini adalah...",
+      "opsi": {
+        "A": "Parlementer",
+        "B": "Monarki",
+        "C": "Oligarki",
+        "D": "Presidensial",
+        "E": "Anarki"
+      },
+      "jawaban": "D",
+      "pembahasan": "Presiden bertindak sebagai kepala negara sekaligus kepala pemerintahan."
+    },
+    {
+      "id": "tka_smk_wajib_tryout-v01-pp-15",
+      "pertanyaan": "[Pancasila] Upaya bela negara merupakan ... bagi setiap warga negara.",
+      "opsi": {
+        "A": "Hanya kewajiban tentara",
+        "B": "Hanya untuk warga dewasa",
+        "C": "Hanya tugas polisi",
+        "D": "Larangan",
+        "E": "Hak dan kewajiban"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hak dan kewajiban\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    }
+  ]
+}

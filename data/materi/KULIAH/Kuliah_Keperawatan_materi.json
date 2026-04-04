@@ -1,0 +1,53 @@
+{
+  "judul": "Keperawatan (Lanjut dan Ners)",
+  "tingkatan": "KULIAH",
+  "jurusan": "Kesehatan / Keperawatan",
+  "deskripsi": "Materi tingkat universitas mengenai proses keperawatan kritis, keperawatan medikal bedah (KMB), manajemen keperawatan, riset keperawatan, serta etika dan hukum kesehatan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Proses Keperawatan dan Berpikir Kritis",
+      "konten": "Tahapan asuhan keperawatan: Pengkajian, Diagnosis Keperawatan (NANDA/SDKI), Perencanaan (NOC/SLKI), Implementasi (NIC/SIKI), serta Evaluasi. Penerapan berpikir kritis dalam pengambilan keputusan klinis.",
+      "tag": [
+        "kuliah keperawatan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Keperawatan Medikal Bedah (KMB) Lanjut",
+      "konten": "Asuhan keperawatan pada pasien dengan gangguan sistem kardiovaskular (ACS), sistem pernapasan (COPD/Ventilator), serta pasien perioperatif (Pre, Intra, Post-operatif).",
+      "tag": [
+        "kuliah keperawatan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Keperawatan Maternitas dan Anak",
+      "konten": "Asuhan keperawatan antenatal, intranatal, dan postnatal. Keperawatan neonatus risiko tinggi, tumbuh kembang anak, serta manajemen penyakit infeksi pada anak.",
+      "tag": [
+        "kuliah keperawatan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Keperawatan Jiwa dan Komunitas",
+      "konten": "Terapi modalitas dalam keperawatan jiwa, asuhan pasien dengan gangguan konsep diri dan halusinasi. Konsep keperawatan keluarga, komunitas, dan kesehatan kerja.",
+      "tag": [
+        "kuliah keperawatan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Manajemen dan Riset Keperawatan",
+      "konten": "Gaya kepemimpinan dalam bangsal, kolaborasi interprofesional, keselamatan pasien (Patient Safety), serta langkah-langkah penelitian keperawatan berbasis bukti (EBP).",
+      "tag": [
+        "kuliah keperawatan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-keperawatan-materi",
+  "mapel": "Keperawatan (Lanjut dan Ners)",
+  "tag": [
+    "kuliah keperawatan materi"
+  ]
+}

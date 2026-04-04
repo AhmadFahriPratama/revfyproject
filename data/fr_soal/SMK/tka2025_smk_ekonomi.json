@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_EK_01",
+    "pertanyaan": "FR Akuntansi: Saldo normal akun 'Beban' dan 'Prive' dalam akuntansi adalah di sisi...",
+    "opsi": [
+      "Debit",
+      "Kredit",
+      "Imbang",
+      "Nol",
+      "Kanan"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Beban dan Prive bertambah di debit. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Debit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_EK_02",
+    "pertanyaan": "FR OJK: Mengapa investasi di Pinjaman Online ilegal berbahaya bagi masa depan keuangan?",
+    "opsi": [
+      "Harganya murah",
+      "Bunga sangat tinggi yang tidak masuk akal dan risiko penyalahgunaan data pribadi",
+      "Untungnya besar",
+      "Bisa dapat hadiah",
+      "Banyak diskon"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_EK_03",
+    "pertanyaan": "FR Pajak: NIK (Nomor Induk Kependudukan) sekarang sudah diintegrasikan dengan...",
+    "opsi": [
+      "Nomor Rekening Bank",
+      "Nomor HP",
+      "NPWP (Nomor Pokok Wajib Pajak)",
+      "Nomor Ijazah",
+      "STNK"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Reformasi perpajakan menyatukan NIK dan NPWP.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_EK_04",
+    "pertanyaan": "FR Perbankan: Tabungan yang hanya bisa diambil setelah jangka waktu tertentu disebut...",
+    "opsi": [
+      "Tabungan Biasa",
+      "Giro",
+      "Dompet Digital",
+      "Deposito",
+      "Celengan"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_EK_05",
+    "pertanyaan": "FR Global: Akibat dari melemahnya nilai tukar Rupiah terhadap Dollar AS bagi pengusaha yang impor bahan baku adalah...",
+    "opsi": [
+      "Biaya produksi menurun",
+      "Laba naik drastis",
+      "Hutang berkurang",
+      "Sama saja",
+      "Biaya produksi membengkak (naik)"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

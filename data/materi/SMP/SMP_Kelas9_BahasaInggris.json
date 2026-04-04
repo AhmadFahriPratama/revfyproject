@@ -1,0 +1,34 @@
+{
+  "id": "materi-smp-kls9-bing",
+  "tingkat": "SMP Kelas 9",
+  "mapel": "Bahasa Inggris",
+  "materi": "Expressions (Hope, Congrats), Labels, Procedure, Narrative, Present Perfect",
+  "deskripsi": "Bahasa Inggris Kelas 9 berisikan materi seputar percakapan ungkapan selamat dan harapan, membaca kemasan, prosedur pemakaian produk, cerita naratif fiksi, serta tenses lanjutan.",
+  "konten": [
+    {
+      "bab": "1. Congratulations and Hope",
+      "teks": "Mengucapkan selamat atas prestasi (Congratulations) dan menyatakan harapan/doa kesuksesan (Hope/Wish) kepada orang lain."
+    },
+    {
+      "bab": "2. Let's Live a Healthy Life (Agreement)",
+      "teks": "Menyatakan dan menanyakan persetujuan (Agreement) serta ketidaksetujuan (Disagreement), menggunakan conjungsi in order to, so that."
+    },
+    {
+      "bab": "3. Be Healthy, Be Happy (Food Labels)",
+      "teks": "Membaca, membandingkan, dan menangkap informasi spesifik rincian komposisi (nutrition facts) dari tabel kemasan makanan, minuman, dan obat."
+    },
+    {
+      "bab": "4. This is How You Do It (Procedure Text)",
+      "teks": "Menelaah dan mempraktikkan teks prosedur (resep makanan, manual langkah kerja) menggunakan adverbia konjungsi dng kaidah imperative verb."
+    },
+    {
+      "bab": "5. Sangkuriang (Narrative Text)",
+      "teks": "Membaca teks naratif (dongeng folktales/fabel) untuk mengambil pelajaran moral dng susunan Orientation, Complication, Resolution menggunakan Past Tense."
+    },
+    {
+      "bab": "6. We Have Been to an Orphanage (Present Perfect)",
+      "teks": "Menyatakan kegiatan/kejadian yang sudah selesai dikerjakan atau masih berlangsung hingga saat ini tanpa spesifikasi waktu pasti (Has/Have + V3)."
+    }
+  ],
+  "tag": ["smp-9", "bahasa-inggris", "hope", "agreement", "label", "procedure", "narrative", "grammar"]
+}

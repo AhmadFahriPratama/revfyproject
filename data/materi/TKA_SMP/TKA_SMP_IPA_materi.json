@@ -1,0 +1,70 @@
+{
+  "id": "TKA_SMP_IPA",
+  "mapel": "TKA SMP IPA 2025",
+  "tingkatan": "SMP",
+  "materiKategori": "pilihan",
+  "tag": [
+    "tka",
+    "smp",
+    "ipa",
+    "fisika",
+    "biologi",
+    "kimia"
+  ],
+  "deskripsi": "Panduan materi IPA untuk TKA SMP 2025 yang mencakup konsep dasar fisika, kimia, dan biologi pada level Fase D dengan fokus pada pemahaman konsep dan penerapan sederhana.",
+  "daftarMateri": [
+    {
+      "sub": "Bab 1: Pengukuran, Besaran, dan Satuan",
+      "isi": "Materi ini meliputi besaran pokok dan turunan, satuan SI, serta penggunaan alat ukur seperti penggaris, jangka sorong, dan mikrometer sekrup. Siswa harus peka terhadap satuan dan ketelitian pembacaan skala alat.",
+      "tag": [
+        "tka smp ipa materi",
+        "bab-1"
+      ]
+    },
+    {
+      "sub": "Bab 2: Zat, Partikel, dan Perubahannya",
+      "isi": "Siswa perlu memahami sifat zat, perubahan fisika dan kimia, wujud zat, massa jenis, serta konsep sederhana tentang partikel. Banyak soal meminta siswa membedakan perubahan yang mengubah sifat zat dengan yang hanya mengubah bentuknya.",
+      "tag": [
+        "tka smp ipa materi",
+        "bab-2"
+      ]
+    },
+    {
+      "sub": "Bab 3: Suhu, Kalor, dan Energi",
+      "isi": "Topik ini mencakup konversi suhu, perpindahan kalor, perubahan wujud, dan energi dalam kehidupan sehari-hari. Kunci pentingnya adalah memahami hubungan antara panas, perubahan suhu, dan perubahan keadaan benda.",
+      "tag": [
+        "tka smp ipa materi",
+        "bab-3"
+      ]
+    },
+    {
+      "sub": "Bab 4: Makhluk Hidup dan Klasifikasinya",
+      "isi": "Siswa harus memahami ciri makhluk hidup, klasifikasi sederhana, interaksi dalam ekosistem, dan rantai makanan. Soal TKA sering menilai hubungan antara peran organisme dengan keseimbangan lingkungan.",
+      "tag": [
+        "tka smp ipa materi",
+        "bab-4"
+      ]
+    },
+    {
+      "sub": "Bab 5: Sel, Organ, dan Sistem Tubuh",
+      "isi": "Materi ini membahas struktur sel, perbedaan sel hewan dan tumbuhan, serta sistem organ seperti pencernaan, pernapasan, peredaran darah, dan ekskresi. Pemahaman fungsi tiap organ sangat penting dalam soal pilihan ganda.",
+      "tag": [
+        "tka smp ipa materi",
+        "bab-5"
+      ]
+    },
+    {
+      "sub": "Bab 6: Strategi Soal IPA",
+      "isi": "Pisahkan terlebih dahulu apakah soal berada pada ranah fisika, kimia, atau biologi. Setelah itu, cari konsep inti yang diuji dan hindari memilih jawaban yang tampak ilmiah tetapi tidak sesuai dengan data atau gejala yang disebutkan dalam soal.",
+      "tag": [
+        "tka smp ipa materi",
+        "bab-6"
+      ]
+    }
+  ],
+  "ringkasan": [
+    "IPA SMP menuntut pemahaman konsep dasar yang terhubung dengan kehidupan sehari-hari.",
+    "Ketelitian membaca gejala, alat ukur, dan fungsi organ sangat penting.",
+    "Perbedaan perubahan fisika dan kimia serta fungsi sistem tubuh sering muncul di soal."
+  ]
+}

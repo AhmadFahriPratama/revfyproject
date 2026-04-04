@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Perhotelan",
+  "tingkatan": "SMK",
+  "jurusan": "Perhotelan / Pilihan",
+  "deskripsi": "Materi persiapan TKA Perhotelan untuk siswa SMK yang berfokus pada front office, housekeeping, laundry, food & beverage service, serta pelayanan prima industri jasa.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Front Office (Kantor Depan)",
+      "konten": "Penerimaan tamu (Reception), penanganan reservasi (pemesanan kamar), penanganan telepon (Telephone Operator), penanganan barang tamu (Bellboy/Concierge), serta administrasi tamu.",
+      "tag": [
+        "tka smk perhotelan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Housekeeping (Tata Graha)",
+      "konten": "Membersihkan area umum hotel, merapikan kamar (Making Bed), pemeliharaan furniture, serta penggunaan alat dan bahan kimia pembersih secara aman.",
+      "tag": [
+        "tka smk perhotelan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Laundry (Patuatu)",
+      "konten": "Proses pencucian pakaian tamu dan linen hotel (sprei, handuk), teknik setrika (Pressing), jenis serat kain, serta penanganan noda khusus.",
+      "tag": [
+        "tka smk perhotelan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Food & Beverage Service (Layanan Makanan)",
+      "konten": "Dasar-dasar pelayanan restoran, teknik Table Setting (menata meja), menyajikan makanan dan minuman, serta komunikasi dengan pelanggan (Grooming).",
+      "tag": [
+        "tka smk perhotelan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Industri Pariwisata dan Safety",
+      "konten": "Jenis-jenis hotel, struktur organisasi hotel, prosedur keselamatan dan kesehatan kerja (K3), serta penanganan komplain tamu secara profesional.",
+      "tag": [
+        "tka smk perhotelan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-perhotelan-materi",
+  "mapel": "TKA SMK: Perhotelan",
+  "tag": [
+    "tka smk perhotelan materi"
+  ]
+}

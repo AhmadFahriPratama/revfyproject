@@ -1,0 +1,41 @@
+{
+  "id": "mat-pbm",
+  "tingkat": "UTBK",
+  "mapel": "Pemahaman Bacaan dan Menulis",
+  "materi": "Pemahaman Bacaan dan Menulis",
+  "deskripsi": "Materi ini membahas cara memahami struktur paragraf, ide pokok, koherensi kalimat, dan revisi kalimat efektif.",
+  "konten": [
+    {
+      "bab": "1. Membaca Struktur Teks",
+      "teks": "Dalam subtes ini, peserta perlu mengenali fungsi tiap kalimat dalam paragraf, misalnya sebagai gagasan utama, penjelas, contoh, atau penegas. Kemampuan melihat struktur jauh lebih penting daripada membaca kata demi kata secara terpisah."
+    },
+    {
+      "bab": "2. Menentukan Ide Pokok dan Simpulan",
+      "teks": "Ide pokok biasanya menjadi pusat penjelasan semua kalimat lain, sedangkan simpulan merupakan hasil pengolahan isi paragraf secara utuh. Keduanya saling berkaitan, tetapi tidak selalu berbentuk kalimat yang sama persis dengan isi teks."
+    },
+    {
+      "bab": "3. Kalimat Efektif dan Diksi",
+      "teks": "Kalimat efektif harus hemat, logis, padu, dan tidak menimbulkan ambiguitas. Pada bagian ini peserta perlu peka terhadap pemborosan kata, ketidaksejajaran bentuk, pilihan kata yang tidak tepat, dan hubungan antargagasan yang kabur."
+    },
+    {
+      "bab": "4. Menyusun Paragraf Padu",
+      "teks": "Soal penyusunan paragraf menuntut kemampuan melihat urutan logis antarkalimat, misalnya dari sebab ke akibat atau dari pernyataan umum ke rincian. Penanda hubungan seperti kata rujukan, konjungsi, dan kesinambungan topik sangat membantu menentukan posisi kalimat."
+    },
+    {
+      "bab": "5. Revisi dan Penyuntingan",
+      "teks": "Soal revisi tidak hanya menanyakan benar-salah tata bahasa, tetapi juga apakah kalimat hasil perbaikan menjadi lebih jelas dan lebih sesuai konteks. Pilihan terbaik adalah yang memperbaiki kesalahan tanpa mengubah maksud pokok penulis."
+    },
+    {
+      "bab": "6. Strategi Belajar",
+      "teks": "Biasakan membaca artikel pendek lalu merangkum ide utama setiap paragraf dalam satu kalimat. Latihan ini melatih ketepatan memahami isi sekaligus membantu saat harus menilai kepaduan dan efektivitas tulisan."
+    }
+  ],
+  "tag": [
+    "utbk",
+    "pemahaman bacaan",
+    "menulis",
+    "kalimat efektif",
+    "paragraf",
+    "tps"
+  ]
+}

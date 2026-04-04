@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Seni Tari",
+  "tingkatan": "SMK",
+  "jurusan": "Seni / Tari",
+  "deskripsi": "Materi mengenai elemen dasar tari (ruang, waktu, tenaga), wiraga, wirama, wirasa, pengenalan tari tradisional dan modern, serta manajemen pertunjukan tari.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Elemen Dasar Tari",
+      "konten": "Pengenalan gerak sebagai elemen utama tari. Pemahaman tentang Ruang (level, arah, fokus), Waktu (tempo, ritme), dan Tenaga (intensitas, kualitas gerak).",
+      "tag": [
+        "seni tari materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Konsep Wiraga, Wirama, dan Wirasa",
+      "konten": "Wiraga (keterampilan gerak tubuh), Wirama (keselarasan gerak dengan musik), dan Wirasa (penjiwaan atau ekspresi karakter dalam tari).",
+      "tag": [
+        "seni tari materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Tari Tradisional Nusantara",
+      "konten": "Ciri khas tari tradisional (Kerakyatan, Klasik, Kreasi Baru). Contoh tari dari berbagai daerah (Sumatera, Jawa, Bali, Kalimantan, Papua) serta makna filosofisnya.",
+      "tag": [
+        "seni tari materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Tata Rias dan Tata Busana Tari",
+      "konten": "Fungsi rias karakter dan busana dalam mempertegas tema tarian. Pengenalan properti tari (sampur, kipas, keris, piring) serta teknik penggunaannya.",
+      "tag": [
+        "seni tari materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Produksi Pertunjukan Tari",
+      "konten": "Dasar-dasar koreografi (penciptaan gerak), eksplorasi dan improvisasi. Pengenalan manajemen panggung, tata lampu (lighting), serta etika penonton pertunjukan seni.",
+      "tag": [
+        "seni tari materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "seni-tari-materi",
+  "mapel": "Dasar-Dasar Seni Tari",
+  "tag": [
+    "seni tari materi"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Nautika Kapal Niaga",
+  "tingkatan": "SMK",
+  "jurusan": "Maritime / Pelayaran",
+  "deskripsi": "Materi mengenai pengenalan bagian-bagian kapal niaga, ilmu navigasi dasar, peraturan pencegahan tubrukan di laut (COLREG), serta keselamatan pelayaran (SOLAS).",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengenalan Kapal Niaga",
+      "konten": "Definisi kapal niaga, jenis-jenis kapal (Cargo ship, Tanker, Container ship, Passenger ship). Bagian-bagian kapal: Lambung (Hull), Geladak (Deck), Anjungan (Bridge), Haluan (Bow), dan Buritan (Stern).",
+      "tag": [
+        "maritime nautika materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Dasar Navigasi Kapal",
+      "konten": "Cara membaca peta laut, penggunaan kompas magnet dan gyro, pengenalan sistem koordinat (Lintang dan Bujur), serta pengenalan alat navigasi modern seperti GPS dan Radar.",
+      "tag": [
+        "maritime nautika materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Peraturan Pencegahan Tubrukan di Laut (P2TL/COLREG)",
+      "konten": "Aturan dasar pelayaran untuk menghindari tabrakan: Aturan berpapasan, menyusul, dan berpotongan. Arti simbol lampu navigasi dan bunyi isyarat suling kapal.",
+      "tag": [
+        "maritime nautika materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Komunikasi Maritim",
+      "konten": "Penggunaan radio VHF (Very High Frequency), isyarat bendera internasional, serta penggunaan bahasa Inggris maritim standar (IMO Standard Marine Communication Phrases).",
+      "tag": [
+        "maritime nautika materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Keselamatan dan Penyelamatan di Laut",
+      "konten": "Pengenalan alat keselamatan: Sekoci (Lifeboat), Rakit Penolong (Liferaft), Jaket Penolong (Lifejacket), dan pelampung (Lifebuoy). Prosedur darurat 'Man Overboard' dan kebakaran di kapal.",
+      "tag": [
+        "maritime nautika materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "maritime-nautika-materi",
+  "mapel": "Dasar-Dasar Nautika Kapal Niaga",
+  "tag": [
+    "maritime nautika materi"
+  ]
+}

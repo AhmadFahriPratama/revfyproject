@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_BSN_01",
+    "pertanyaan": "FR BNSP: Apa yang dimaksud dengan 'Zero Waste Pattern' dalam desain berkelanjutan?",
+    "opsi": [
+      "Teknik pembuatan pola yang dirancang agar tidak menyisakan potongan kain sisa sedikitpun (Ramah lingkungan)",
+      "Menjahit tanpa benang",
+      "Pola yang harganya nol",
+      "Membuat baju dari sampah",
+      "Pola tanpa ukuran"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_BSN_02",
+    "pertanyaan": "FR Garmen: Apa fungsi 'Quality Control' (QC) di bagian akhir lini produksi busana?",
+    "opsi": [
+      "Menambah kancing",
+      "Memastikan tidak ada cacat jahitan dan ukuran sesuai standar sebelum dikirim ke retailer",
+      "Mempacking baju",
+      "Mencuci baju",
+      "Menandatangani kontrak"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_BSN_03",
+    "pertanyaan": "FR Event: Manakah siluet busana yang paling cocok untuk orang yang bertubuh kurus tinggi agar terlihat lebih berisi?",
+    "opsi": [
+      "Siluet I (Lurus)",
+      "Siluet Slim Fit sangat ketat",
+      "Siluet H atau Siluet A (Melebar ke bawah)",
+      "Siluet Hitam saja",
+      "Tanpa siluet"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_BSN_04",
+    "pertanyaan": "FR Teknis: Mengapa saat menjahit kain sutra jarum mesin harus diganti dengan ukuran yang lebih kecil (nomor 9 atau 11)?",
+    "opsi": [
+      "Agar tidak patah",
+      "Biar jahitannya cepat",
+      "Hanya formalitas",
+      "Mencegah serat kain sutra yang halus tercabik atau berlubang besar akibat jarum tebal",
+      "Biar irit benang"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_BSN_05",
+    "pertanyaan": "FR Bisnis: Apa perbedaan utama antara 'Haute Couture' dan 'Ready to Wear'?",
+    "opsi": [
+      "Sama saja",
+      "Haute Couture khusus orang tua",
+      "RTW dilarang di mall",
+      "Hanya beda warna",
+      "Haute Couture adalah busana mewah eksklusif buatan tangan (High fashion), sedangkan RTW diproduksi massal"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

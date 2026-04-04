@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMK_LG_01",
+    "pertanyaan": "Proses aliran barang, informasi, dan sumber daya dari pemasok hingga ke pelanggan akhir disebut...",
+    "opsi": [
+      "Logistik / Rantai Pasok",
+      "Produksi",
+      "Promosi",
+      "Konsumsi",
+      "Akuntansi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Logistik memastikan barang tersedia di tempat yang tepat, waktu yang tepat, dan jumlah yang tepat."
+  },
+  {
+    "id": "SMK_LG_02",
+    "pertanyaan": "Alat angkut barang di gudang yang dijalankan secara manual dengan cara ditarik atau didorong adalah...",
+    "opsi": [
+      "Forklift",
+      "Hand Pallet",
+      "Crane",
+      "Excavator",
+      "Bulldozer"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Hand pallet digunakan untuk memindahkan palet barang dalam jarak pendek di area datar."
+  },
+  {
+    "id": "SMK_LG_03",
+    "pertanyaan": "Metode penyimpanan barang di mana barang yang pertama kali masuk harus pertama kali keluar disebut...",
+    "opsi": [
+      "LIFO (Last In First Out)",
+      "Average",
+      "FIFO (First In First Out)",
+      "FEFO",
+      "Random"
+    ],
+    "jawaban": 2,
+    "pembahasan": "FIFO sangat penting untuk barang yang memiliki masa kadaluarsa (seperti makanan/obat)."
+  },
+  {
+    "id": "SMK_LG_04",
+    "pertanyaan": "Kegiatan menghitung jumlah fisik barang di gudang secara berkala untuk dicocokkan dengan data pembukuan disebut...",
+    "opsi": [
+      "Picking",
+      "Packing",
+      "Shipping",
+      "Stock Opname",
+      "Recieving"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Stock opname bertujuan menemukan selisih stok dan menjaga akurasi data inventaris."
+  },
+  {
+    "id": "SMK_LG_05",
+    "pertanyaan": "Tempat penyimpanan barang sementara sebelum dikirim ke pelanggan disebut...",
+    "opsi": [
+      "Toko",
+      "Pabrik",
+      "Kantor",
+      "Pasar",
+      "Gudang (Warehouse)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gudang berfungsi sebagai penyangga (buffer) antara produksi dan distribusi."
+  },
+  {
+    "id": "SMK_LG_06",
+    "pertanyaan": "Alas tumpuan barang yang biasanya berbentuk kotak kayu atau plastik untuk mempermudah pengangkatan oleh forklift disebut...",
+    "opsi": [
+      "Palet (Pallet)",
+      "Rak",
+      "Kardus",
+      "Kontainer",
+      "Loker"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penggunaan palet membuat penataan barang di gudang lebih rapi dan efisien."
+  },
+  {
+    "id": "SMK_LG_07",
+    "pertanyaan": "Dokumen yang dibawa oleh pengemudi saat mengirimkan barang sebagai bukti penyerahan barang di lokasi tujuan adalah...",
+    "opsi": [
+      "KTP",
+      "Surat Jalan",
+      "Kuitansi Luar",
+      "Kartu Nama",
+      "Buku Tabungan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Surat jalan harus ditandatangani oleh penerima sebagai bukti sah transaksi pengiriman."
+  },
+  {
+    "id": "SMK_LG_08",
+    "pertanyaan": "Singkatan dari K3 dalam lingkungan kerja logistik adalah...",
+    "opsi": [
+      "Kebersihan & Keindahan Kota",
+      "Keamanan & Ketertiban Kantor",
+      "Keselamatan & Kesehatan Kerja",
+      "Kolektivitas Kerja Keras",
+      "Kualitas Komoditas Konsumen"
+    ],
+    "jawaban": 2,
+    "pembahasan": "K3 bertujuan melindungi pekerja dari kecelakaan kerja dan penyakit akibat kerja."
+  },
+  {
+    "id": "SMK_LG_09",
+    "pertanyaan": "Dalam budaya kerja 5R, 'Rawat' memiliki arti...",
+    "opsi": [
+      "Memilah barang",
+      "Membersihkan alat",
+      "Datang tepat waktu",
+      "Mempertahankan standar kebersihan dan kerapihan yang sudah dicapai",
+      "Mengecat tembok"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Rawat (Seiketsu) memastikan kondisi Ringkas, Rapi, dan Resik tetap terjaga secara berkelanjutan."
+  },
+  {
+    "id": "SMK_LG_10",
+    "pertanyaan": "Transportasi barang melalui laut biasanya menggunakan unit pengemas besar yang disebut...",
+    "opsi": [
+      "Bus",
+      "Helikopter",
+      "Tangki Air",
+      "Gerobak",
+      "Kontainer (Container)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kontainer standar berukuran 20 feet atau 40 feet memudahkan pengiriman antarpulau/antarnegara."
+  },
+  {
+    "id": "SMK_LG_11",
+    "pertanyaan": "Apa kelemahan utama transportasi udara (pesawat) untuk pengiriman logistik?",
+    "opsi": [
+      "Biaya (ongkos) sangat mahal",
+      "Lambat",
+      "Mudah dicuri",
+      "Hanya untuk barang cair",
+      "Kapasitasnya lebih besar dari kapal laut"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Udara dipilih untuk barang yang bernilai tinggi, mendesak, atau mudah basi."
+  },
+  {
+    "id": "SMK_LG_12",
+    "pertanyaan": "Proses mengambil barang dari lokasi penyimpanan di gudang sesuai dengan daftar pesanan (order) pelanggan disebut...",
+    "opsi": [
+      "Packing",
+      "Picking",
+      "Put-away",
+      "Loading",
+      "Sorting"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Akurasi picking sangat menentukan kepuasan pelanggan agar tidak salah kirim barang."
+  },
+  {
+    "id": "SMK_LG_13",
+    "pertanyaan": "Bagi barang yang sensitif terhadap suhu seperti es krim atau vaksin, logistik yang digunakan disebut...",
+    "opsi": [
+      "Hot Chain",
+      "Fast Moving",
+      "Cold Chain (Rantai Dingin)",
+      "Dangerous Goods",
+      "Dry Cargo"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Cold chain memerlukan pendingin (freezer) selama penyimpanan dan transportasi."
+  },
+  {
+    "id": "SMK_LG_14",
+    "pertanyaan": "Apa arti simbol 'Payung' pada kemasan kardus barang logistik?",
+    "opsi": [
+      "Boleh kehujanan",
+      "Isinya payung",
+      "Bisa ditaruh di pantai",
+      "Barang harus tetap kering (Jangan terkena air)",
+      "Simbol kebesaran"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Simbol instruksi penanganan (handling instruction) untuk menjaga keamanan barang."
+  },
+  {
+    "id": "SMK_LG_15",
+    "pertanyaan": "Simbol 'Dua Anak Panah ke Atas' pada kemasan berarti...",
+    "opsi": [
+      "Barang boleh dibalik",
+      "Barang bisa terbang",
+      "Jangan diinjak",
+      "Simbol daur ulang",
+      "Sisi ini harus menghadap ke atas (Keep Upright)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Mencegah barang rusak akibat posisi terbalik (misal barang cair atau elektronik)."
+  },
+  {
+    "id": "SMK_LG_16",
+    "pertanyaan": "Manakah yang merupakan barang berbahaya (Dangerous Goods) dalam pengiriman logistik?",
+    "opsi": [
+      "Baterai Lithium (mudah terbakar)",
+      "Buku tulis",
+      "Pakaian",
+      "Meja kayu",
+      "Sandal plastik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Barang DG memerlukan penanganan khusus dan label peringatan sesuai standar internasional."
+  },
+  {
+    "id": "SMK_LG_17",
+    "pertanyaan": "Teknologi pembaca kode yang berbentuk garis-garis hitam vertikal untuk identifikasi barang disebut...",
+    "opsi": [
+      "QR Code",
+      "Barcode",
+      "NFC",
+      "Bluetooth",
+      "GPS"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Barcode mempercepat proses pencatatan masuk-keluar barang di gudang."
+  },
+  {
+    "id": "SMK_LG_18",
+    "pertanyaan": "Sistem pergudangan otomatis yang dikendalikan komputer (AS/RS) bertujuan untuk...",
+    "opsi": [
+      "Agar banyak orang menganggur",
+      "Membuat gudang berisik",
+      "Meningkatkan efisiensi, akurasi, dan penghematan ruang gudang",
+      "Menghambur-hamburkan listrik",
+      "Mamerkan teknologi mesin"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Automated Storage and Retrieval System meminimalkan kesalahan manusia (human error)."
+  },
+  {
+    "id": "SMK_LG_19",
+    "pertanyaan": "Apa singkatan dari KPI dalam manajemen kinerja logistik?",
+    "opsi": [
+      "Kantor Pusat Informasi",
+      "Kartu Pesanan Internal",
+      "Kualitas Produk Inti",
+      "Key Performance Indicator",
+      "Komoditas Pangan Indonesia"
+    ],
+    "jawaban": 3,
+    "pembahasan": "KPI digunakan untuk mengukur efisiensi kerja (misal: kecepatan pengiriman atau tingkat kerusakan barang)."
+  },
+  {
+    "id": "SMK_LG_20",
+    "pertanyaan": "Proses pengembalian produk dari pelanggan kembali ke gudang (karena rusak atau salah kirim) disebut...",
+    "opsi": [
+      "Forward Logistics",
+      "E-Commerce",
+      "Wholesale",
+      "Dropshipping",
+      "Reverse Logistics"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Reverse logistics mencakup proses klaim garansi, servis, atau daur ulang."
+  },
+  {
+    "id": "SMK_LG_21",
+    "pertanyaan": "Model pengiriman di mana penjual tidak menyetok barang, tapi memesan ke supplier untuk langsung dikirim ke pembeli disebut...",
+    "opsi": [
+      "Dropshipping",
+      "Reseller",
+      "Import",
+      "Export",
+      "Retail"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Dropshipper bertindak sebagai perantara tanpa harus memiliki gudang fisik."
+  },
+  {
+    "id": "SMK_LG_22",
+    "pertanyaan": "Kegiatan membungkus atau mengemas barang agar aman selama perjalanan disebut...",
+    "opsi": [
+      "Sorting",
+      "Packing",
+      "Labelling",
+      "Invoicing",
+      "Inventorying"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Packing menggunakan bahan seperti bubble wrap, kardus, atau peti kayu."
+  },
+  {
+    "id": "SMK_LG_23",
+    "pertanyaan": "Apa risiko utama jika gudang tidak rapi dan kabel-kabel berserakan?",
+    "opsi": [
+      "Gudang kelebihan muatan",
+      "Gaji karyawan naik",
+      "Risiko kecelakaan kerja (tersandung/kebakaran)",
+      "Barang jadi mahal",
+      "AC lebih dingin"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kerapihan (Rapi) adalah bagian dari K3 untuk keselamatan pekerja."
+  },
+  {
+    "id": "SMK_LG_24",
+    "pertanyaan": "Singkatan dari WMS yang digunakan untuk mengelola aktivitas di gudang adalah...",
+    "opsi": [
+      "Water Management System",
+      "Wireless Mode Signal",
+      "World Marketing Service",
+      "Warehouse Management System",
+      "Website Menu Site"
+    ],
+    "jawaban": 3,
+    "pembahasan": "WMS mengatur lokasi penyimpanan, stok barang, dan pergerakan personil gudang."
+  },
+  {
+    "id": "SMK_LG_25",
+    "pertanyaan": "Istilah bagi stok barang yang sengaja disimpan lebih untuk mengantisipasi lonjakan permintaan mendadak adalah...",
+    "opsi": [
+      "Dead Stock",
+      "Overstock",
+      "Running Stock",
+      "Lost Stock",
+      "Safety Stock (Stok Pengaman)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Safety stock mencegah terjadinya kekosongan barang (out of stock)."
+  },
+  {
+    "id": "SMK_LG_26",
+    "pertanyaan": "Jarak waktu antara pemesanan barang hingga barang tersebut tiba di gudang disebut...",
+    "opsi": [
+      "Lead Time",
+      "Cycle Time",
+      "Real Time",
+      "Break Time",
+      "Sleep Time"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Semakin pendek lead time, semakin efisien operasional perusahaan."
+  },
+  {
+    "id": "SMK_LG_27",
+    "pertanyaan": "Manajer gudang harus memastikan 'Inventory Turnover' tetap tinggi. Artinya...",
+    "opsi": [
+      "Barang harus lama mengendap di gudang",
+      "Barang harus cepat terjual/keluar dan berganti dengan stok baru",
+      "Gudang harus sering ganti cat",
+      "Karyawan harus sering lembur",
+      "Pintu gudang harus terus ditutup"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Perputaran stok yang cepat menandakan aliran kas (cash flow) yang sehat."
+  },
+  {
+    "id": "SMK_LG_28",
+    "pertanyaan": "Petugas yang bertanggung jawab mengemudikan alat forklift di gudang harus memiliki...",
+    "opsi": [
+      "SIM A mobil pribadi",
+      "Ijazah Dokter",
+      "SIO (Surat Izin Operasional) Alat Berat",
+      "Kartu Keluarga",
+      "Buku Nikah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "SIO menjamin operator sudah terlatih dan paham standar keselamatan alat berat."
+  },
+  {
+    "id": "SMK_LG_29",
+    "pertanyaan": "Tindakan mencocokkan jumlah barang fisik dengan nota pesanan saat barang baru datang dari supplier disebut...",
+    "opsi": [
+      "Shipping",
+      "Put-away",
+      "Invoicing",
+      "Receiving (Penerimaan)",
+      "Advertising"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Barang yang rusak atau kurang saat penerimaan harus segera diklaim ke supplier."
+  },
+  {
+    "id": "SMK_LG_30",
+    "pertanyaan": "Sistem LIFO (Last In First Out) biasanya digunakan untuk barang yang...",
+    "opsi": [
+      "Mudah busuk",
+      "Obat-obatan penting",
+      "Barang elektronik mahal",
+      "Pakaian tren terbaru",
+      "Barang yang tumpukannya paling terakhir masuk justru paling mudah diambil (misal tumpukan pasir)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "LIFO jarang digunakan untuk barang ritel konsumsi karena berisiko barang lama rusak di bawah."
+  },
+  {
+    "id": "SMK_LG_31",
+    "pertanyaan": "Istilah bagi biaya yang timbul jika barang terlalu lama tertahan di pelabuhan (lewat masa free storage) adalah...",
+    "opsi": [
+      "Demurrage",
+      "Pajak",
+      "Bonus",
+      "Diskon",
+      "Hibah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Demurrage dihindari dengan mengurus dokumen kepabeanan secara cepat."
+  },
+  {
+    "id": "SMK_LG_32",
+    "pertanyaan": "Dalam istilah logistik internasional, 'FOB' adalah kependekan dari...",
+    "opsi": [
+      "Fast On Boat",
+      "Free On Board",
+      "Full On Box",
+      "Fresh On Bank",
+      "Follow On Brand"
+    ],
+    "jawaban": 1,
+    "pembahasan": "FOB menentukan batas tanggung jawab penjual dan pembeli atas biaya angkut dan risiko barang."
+  },
+  {
+    "id": "SMK_LG_33",
+    "pertanyaan": "Gudang yang dikelola oleh pihak ketiga untuk melayani kebutuhan logistik berbagai perusahaan disebut gudang...",
+    "opsi": [
+      "Private",
+      "Bonded (Berikat)",
+      "Public / Jasa Logistik (3PL)",
+      "Cool Storage",
+      "Cross-docking"
+    ],
+    "jawaban": 2,
+    "pembahasan": "3PL (Third Party Logistics) membantu perusahaan mengalihdayakan (outsource) urusan logistik mereka."
+  },
+  {
+    "id": "SMK_LG_34",
+    "pertanyaan": "Alat pelindung diri (APD) utama di area gudang yang rawan kejatuhan benda berat adalah...",
+    "opsi": [
+      "Sarung tangan kain",
+      "Topi pantai",
+      "Kacamata hitam",
+      "Safety Shoes (Sepatu pelindung berujung besi)",
+      "Jas hujan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Safety shoes melindungi jari kaki dari benturan atau tumpahan benda tajam."
+  },
+  {
+    "id": "SMK_LG_35",
+    "pertanyaan": "Manfaat utama dari label 'Fragile' (Pecah Belah) di dus barang adalah...",
+    "opsi": [
+      "Agar barang terlihat mahal",
+      "Menambah berat barang",
+      "Menghindari pajak",
+      "Simbol kebanggaan pabrik",
+      "Memberi tahu kurir agar menangani barang dengan ekstra hati-hati (tidak dilempar)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Barang pecah belah atau elektronik biasanya diberi label ini untuk keamanan."
+  },
+  {
+    "id": "SMK_LG_36",
+    "pertanyaan": "Kegiatan menggabungkan beberapa pesanan kecil menjadi satu pengiriman besar untuk menghemat biaya disebut...",
+    "opsi": [
+      "Consolidation (Konsolidasi)",
+      "Separation",
+      "Deletion",
+      "Production",
+      "Documentation"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Konsolidasi sangat umum dilakukan dalam jasa pengiriman ekspedisi."
+  },
+  {
+    "id": "SMK_LG_37",
+    "pertanyaan": "Istilah bagi persediaan barang yang sudah tidak laku lagi atau rusak di gudang sehingga merugikan perusahaan adalah...",
+    "opsi": [
+      "Active Stock",
+      "Dead Stock (Stok Mati)",
+      "Golden Stock",
+      "Buffer Stock",
+      "Fresh Stock"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dead stock harus segera diidentifikasi dan ditangani agar tidak memakan ruang gudang."
+  },
+  {
+    "id": "SMK_LG_38",
+    "pertanyaan": "Singkatan dari RFID yang digunakan untuk melacak barang di gudang tanpa kontak langsung adalah...",
+    "opsi": [
+      "Ready Frequency Identity",
+      "Rapid File Distribution",
+      "Radio Frequency Identification",
+      "Route Finding In Digital",
+      "Real Flow Information Data"
+    ],
+    "jawaban": 2,
+    "pembahasan": "RFID lebih canggih dari barcode karena mendukung pemindaian banyak barang sekaligus."
+  },
+  {
+    "id": "SMK_LG_39",
+    "pertanyaan": "Dalam manajemen gudang, istilah 'Cross-docking' berarti...",
+    "opsi": [
+      "Menyimpan barang lama di pojok gudang",
+      "Menanam sayur di atap gudang",
+      "Mengecat tiang gudang",
+      "Memindahkan barang langsung dari pintu bongkar ke pintu muat tanpa disimpan lama di gudang",
+      "Menutup gudang karena sepi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Cross-docking mempercepat aliran barang dan mengurangi biaya penyimpanan."
+  },
+  {
+    "id": "SMK_LG_40",
+    "pertanyaan": "Apa risiko jika barang tidak dikemas (packing) dengan benar sebelum dikirim?",
+    "opsi": [
+      "Barang jadi lebih ringan",
+      "Pemerintah memberikan subsidi",
+      "Kurir senang membawanya",
+      "Gudang jadi penuh",
+      "Kerusakan fisik barang akibat getaran, benturan, atau kelembaban selama perjalanan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Packing adalah perlindungan utama barang selama proses distribusi."
+  },
+  {
+    "id": "SMK_LG_41",
+    "pertanyaan": "Istilah perhotelan/retail untuk barang cepat laku (misal sabun, minyak goreng) adalah...",
+    "opsi": [
+      "Fast Moving Consumer Goods (FMCG)",
+      "Slow Moving",
+      "Luxury Goods",
+      "Dead Stock",
+      "Vintage"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Barang FMCG memerlukan manajemen perputaran stok yang sangat ketat."
+  },
+  {
+    "id": "SMK_LG_42",
+    "pertanyaan": "Kegiatan menurunkan barang dari truk ke area penerimaan gudang disebut...",
+    "opsi": [
+      "Loading",
+      "Unloading (Bongkar)",
+      "Picking",
+      "Invoicing",
+      "Labelling"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pekerjaan bongkar muat memerlukan alat bantu dan tenaga kerja yang sigap."
+  },
+  {
+    "id": "SMK_LG_43",
+    "pertanyaan": "Siapa yang bertanggung jawab melakukan evaluasi performa vendor atau supplier logistik?",
+    "opsi": [
+      "Satpam",
+      "Petugas kebersihan",
+      "Bagian Purchasing / Logistik Manager",
+      "Warga sekitar",
+      "Penerima paket"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Evaluasi vendor memastikan perusahaan mendapatkan harga dan layanan terbaik."
+  },
+  {
+    "id": "SMK_LG_44",
+    "pertanyaan": "Dalam K3, warna tabung pemadam api (APAR) yang paling umum ditemukan di gudang adalah...",
+    "opsi": [
+      "Hijau",
+      "Biru",
+      "Putih",
+      "Merah",
+      "Kuning"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Warna merah memudahkan identitas APAR saat terjadi situasi darurat kebakaran."
+  },
+  {
+    "id": "SMK_LG_45",
+    "pertanyaan": "Pentingnya administrasi logistik yang rapi bertujuan untuk...",
+    "opsi": [
+      "Memenuhi rak buku",
+      "Hanya mengikuti gaya",
+      "Agar printer sering dipakai",
+      "Membuat bingung karyawan",
+      "Memastikan aliran barang tercatat dengan benar sebagai dasar audit dan laporan keuangan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Setiap pergerakan barang harus memiliki jejak dokumen yang sah."
+  },
+  {
+    "id": "SMK_LG_46",
+    "pertanyaan": "Daftar rincian barang, jumlah, dan harga yang dikirimkan penjual kepada pembeli sebagai tagihan disebut...",
+    "opsi": [
+      "Faktur (Invoice)",
+      "Kuitansi",
+      "Surat Jalan",
+      "Katalog",
+      "Brosur"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Invoice menjadi dasar pembayaran bagi pihak pembeli."
+  },
+  {
+    "id": "SMK_LG_47",
+    "pertanyaan": "Apa manfaat penggunaan palet plastik dibandingkan palet kayu?",
+    "opsi": [
+      "Lebih berat",
+      "Lebih tahan lama, bersih dari serangga, dan mudah dicuci",
+      "Lebih mahal perawatannya",
+      "Lebih mudah terbakar",
+      "Mudah pecah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Palet plastik sering digunakan di industri makanan dan farmasi karena lebih higienis."
+  },
+  {
+    "id": "SMK_LG_48",
+    "pertanyaan": "Ruangan khusus dalam gudang untuk menyimpan dokumen penting atau barang berharga tinggi sering disebut...",
+    "opsi": [
+      "Lobi",
+      "Toilet",
+      "Vault (Brankas Raksasa) / Cage (Kandang)",
+      "Halaman",
+      "Kantin"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Barang bernilai tinggi (seperti HP atau perhiasan) memerlukan keamanan ekstra (Access Control)."
+  },
+  {
+    "id": "SMK_LG_49",
+    "pertanyaan": "Istilah bagi proses pengaturan letak barang agar memaksimalkan pemanfaatan ruang vertikal di gudang disebut...",
+    "opsi": [
+      "Throwing",
+      "Hiding",
+      "Burning",
+      "Stacking (Penumpukan)",
+      "Cleaning"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Stacking menggunakan rak bertingkat (Racking System) untuk hemat ruang."
+  },
+  {
+    "id": "SMK_LG_50",
+    "pertanyaan": "Gelar keahlian atau profesi lulusan SMK Teknik Logistik adalah...",
+    "opsi": [
+      "Sarjana Ekonomi",
+      "Sopir",
+      "Porter",
+      "Kuli angkut",
+      "Teknisi Logistik / Administrasi Pergudangan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Lulusan dibekali kemampuan manajerial dasar dan teknis operasional pergudangan."
+  }
+]

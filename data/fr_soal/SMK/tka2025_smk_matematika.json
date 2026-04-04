@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_MT_01",
+    "pertanyaan": "FR Industri: Sebuah mesin berputar 1200 RPM. Berapakah frekuensi putaran mesin tersebut dalam Hertz (Hz)?",
+    "opsi": [
+      "20 Hz",
+      "12 Hz",
+      "60 Hz",
+      "120 Hz",
+      "200 Hz"
+    ],
+    "jawaban": "A",
+    "pembahasan": "1200 putaran / 60 detik = 20 Hz. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"20 Hz\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_MT_02",
+    "pertanyaan": "FR Logika Kerja: Proyek selesai 20 hari oleh 10 orang. Jika ingin selesai 4 hari, butuh berapa orang?",
+    "opsi": [
+      "25 orang",
+      "50 orang",
+      "40 orang",
+      "80 orang",
+      "100 orang"
+    ],
+    "jawaban": "B",
+    "pembahasan": "20 * 10 = 4 * x => 200 = 4x => x = 50. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"50 orang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_MT_03",
+    "pertanyaan": "FR Akuntansi: Modal awal Rp10jt, bunga majemuk 10% per tahun. Setelah 2 tahun modal menjadi...",
+    "opsi": [
+      "Rp11.000.000",
+      "Rp11.100.000",
+      "Rp12.100.000",
+      "Rp12.000.000",
+      "Rp13.000.000"
+    ],
+    "jawaban": "C",
+    "pembahasan": "10 * (1,1)^2 = 10 * 1,21 = 12,1jt. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Rp12.100.000\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_MT_04",
+    "pertanyaan": "FR Teknik: Sebuah kawat panjang 100m memuai 0.1% saat dipanaskan. Panjang akhirnya adalah...",
+    "opsi": [
+      "101 m",
+      "100.01 m",
+      "110 m",
+      "100.1 m",
+      "100.001 m"
+    ],
+    "jawaban": "D",
+    "pembahasan": "100 + (0.001 * 100) = 100 + 0.1 = 100.1 m.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_MT_05",
+    "pertanyaan": "FR Kompetisi SMK: Digit terakhir dari 7^2025 adalah...",
+    "opsi": [
+      "9",
+      "3",
+      "1",
+      "0",
+      "7"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Pola 7, 9, 3, 1 (siklus 4). 2025 sisa 1 dibagi 4, maka digit terakhir adalah 7.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

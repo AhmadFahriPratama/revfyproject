@@ -1,0 +1,1407 @@
+{
+  "id": "kuliah_tpa_100",
+  "kategori": "Ujian Mandiri / TPA Kuliah",
+  "deskripsi": "100 soal latihan TPA kuliah yang mencakup logika, numerik, verbal, dan analisis data.",
+  "soal": [
+    {
+      "id": "kuliah_tpa_soal_1",
+      "pertanyaan": "Soal TPA Analitik #1: Premis 1: Semua mahasiswa Sistem Informasi belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Sistem Informasi pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Sistem Informasi mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Sistem Informasi.",
+        "E": "Sebagian mahasiswa Sistem Informasi tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_2",
+      "pertanyaan": "Soal TPA Numerik #2: Deret berikut adalah 4, 7, 10, 13, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "13",
+        "B": "16",
+        "C": "19",
+        "D": "22",
+        "E": "10"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_3",
+      "pertanyaan": "Soal TPA Verbal #3: Hubungan kata dokter : pasien setara dengan hubungan kata guru : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "murid",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "dokter berhubungan dengan pasien sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara guru dan murid.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_4",
+      "pertanyaan": "Soal TPA Kuantitatif #4: Jika y = 5x dan x = 13, maka nilai y adalah?",
+      "opsi": {
+        "A": "60",
+        "B": "78",
+        "C": "18",
+        "D": "65",
+        "E": "8"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 13 ke persamaan y = 5x sehingga diperoleh y = 5 x 13 = 65.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_5",
+      "pertanyaan": "Soal TPA Data #5: Nilai tiga tes berturut-turut adalah 80, 86, 80. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "83",
+        "B": "246",
+        "C": "86",
+        "D": "80",
+        "E": "82"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 82.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_6",
+      "pertanyaan": "Soal TPA Analitik #6: Premis 1: Semua mahasiswa Kedokteran belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Kedokteran pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Kedokteran mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Kedokteran.",
+        "E": "Sebagian mahasiswa Kedokteran tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_7",
+      "pertanyaan": "Soal TPA Numerik #7: Deret berikut adalah 9, 12, 15, 18, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "18",
+        "B": "21",
+        "C": "24",
+        "D": "27",
+        "E": "15"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_8",
+      "pertanyaan": "Soal TPA Verbal #8: Hubungan kata arsitek : bangunan setara dengan hubungan kata penulis : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "naskah",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "arsitek berhubungan dengan bangunan sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara penulis dan naskah.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_9",
+      "pertanyaan": "Soal TPA Kuantitatif #9: Jika y = 2x dan x = 18, maka nilai y adalah?",
+      "opsi": {
+        "A": "34",
+        "B": "54",
+        "C": "20",
+        "D": "36",
+        "E": "16"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 18 ke persamaan y = 2x sehingga diperoleh y = 2 x 18 = 36.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_10",
+      "pertanyaan": "Soal TPA Data #10: Nilai tiga tes berturut-turut adalah 75, 86, 83. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "80.5",
+        "B": "244",
+        "C": "86",
+        "D": "75",
+        "E": "81.33333333333333"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 81.33333333333333.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_11",
+      "pertanyaan": "Soal TPA Analitik #11: Premis 1: Semua mahasiswa Ilmu Hukum belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Ilmu Hukum pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Ilmu Hukum mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Ilmu Hukum.",
+        "E": "Sebagian mahasiswa Ilmu Hukum tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_12",
+      "pertanyaan": "Soal TPA Numerik #12: Deret berikut adalah 7, 10, 13, 16, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "16",
+        "B": "19",
+        "C": "22",
+        "D": "25",
+        "E": "13"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_13",
+      "pertanyaan": "Soal TPA Verbal #13: Hubungan kata hakim : putusan setara dengan hubungan kata editor : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "naskah",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "hakim berhubungan dengan putusan sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara editor dan naskah.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_14",
+      "pertanyaan": "Soal TPA Kuantitatif #14: Jika y = 3x dan x = 14, maka nilai y adalah?",
+      "opsi": {
+        "A": "39",
+        "B": "56",
+        "C": "17",
+        "D": "42",
+        "E": "11"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 14 ke persamaan y = 3x sehingga diperoleh y = 3 x 14 = 42.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_15",
+      "pertanyaan": "Soal TPA Data #15: Nilai tiga tes berturut-turut adalah 70, 86, 86. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "78",
+        "B": "242",
+        "C": "86",
+        "D": "70",
+        "E": "80.66666666666667"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 80.66666666666667.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_16",
+      "pertanyaan": "Soal TPA Analitik #16: Premis 1: Semua mahasiswa Manajemen belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Manajemen pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Manajemen mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Manajemen.",
+        "E": "Sebagian mahasiswa Manajemen tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_17",
+      "pertanyaan": "Soal TPA Numerik #17: Deret berikut adalah 5, 8, 11, 14, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "14",
+        "B": "17",
+        "C": "20",
+        "D": "23",
+        "E": "11"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_18",
+      "pertanyaan": "Soal TPA Verbal #18: Hubungan kata programer : kode setara dengan hubungan kata akuntan : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "laporan",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "programer berhubungan dengan kode sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara akuntan dan laporan.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_19",
+      "pertanyaan": "Soal TPA Kuantitatif #19: Jika y = 4x dan x = 10, maka nilai y adalah?",
+      "opsi": {
+        "A": "36",
+        "B": "50",
+        "C": "14",
+        "D": "40",
+        "E": "6"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 10 ke persamaan y = 4x sehingga diperoleh y = 4 x 10 = 40.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_20",
+      "pertanyaan": "Soal TPA Data #20: Nilai tiga tes berturut-turut adalah 65, 86, 89. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "75.5",
+        "B": "240",
+        "C": "89",
+        "D": "65",
+        "E": "80"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 80.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_21",
+      "pertanyaan": "Soal TPA Analitik #21: Premis 1: Semua mahasiswa Akuntansi belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Akuntansi pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Akuntansi mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Akuntansi.",
+        "E": "Sebagian mahasiswa Akuntansi tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_22",
+      "pertanyaan": "Soal TPA Numerik #22: Deret berikut adalah 3, 6, 9, 12, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "12",
+        "B": "15",
+        "C": "18",
+        "D": "21",
+        "E": "9"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_23",
+      "pertanyaan": "Soal TPA Verbal #23: Hubungan kata nahkoda : kapal setara dengan hubungan kata pilot : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "pesawat",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "nahkoda berhubungan dengan kapal sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara pilot dan pesawat.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_24",
+      "pertanyaan": "Soal TPA Kuantitatif #24: Jika y = 5x dan x = 15, maka nilai y adalah?",
+      "opsi": {
+        "A": "70",
+        "B": "90",
+        "C": "20",
+        "D": "75",
+        "E": "10"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 15 ke persamaan y = 5x sehingga diperoleh y = 5 x 15 = 75.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_25",
+      "pertanyaan": "Soal TPA Data #25: Nilai tiga tes berturut-turut adalah 60, 86, 80. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "73",
+        "B": "226",
+        "C": "86",
+        "D": "60",
+        "E": "75.33333333333333"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 75.33333333333333.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_26",
+      "pertanyaan": "Soal TPA Analitik #26: Premis 1: Semua mahasiswa Psikologi belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Psikologi pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Psikologi mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Psikologi.",
+        "E": "Sebagian mahasiswa Psikologi tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_27",
+      "pertanyaan": "Soal TPA Numerik #27: Deret berikut adalah 8, 11, 14, 17, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "17",
+        "B": "20",
+        "C": "23",
+        "D": "26",
+        "E": "14"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_28",
+      "pertanyaan": "Soal TPA Verbal #28: Hubungan kata dokter : pasien setara dengan hubungan kata guru : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "murid",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "dokter berhubungan dengan pasien sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara guru dan murid.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_29",
+      "pertanyaan": "Soal TPA Kuantitatif #29: Jika y = 2x dan x = 11, maka nilai y adalah?",
+      "opsi": {
+        "A": "20",
+        "B": "33",
+        "C": "13",
+        "D": "22",
+        "E": "9"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 11 ke persamaan y = 2x sehingga diperoleh y = 2 x 11 = 22.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_30",
+      "pertanyaan": "Soal TPA Data #30: Nilai tiga tes berturut-turut adalah 85, 86, 83. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "85.5",
+        "B": "254",
+        "C": "86",
+        "D": "83",
+        "E": "84.66666666666667"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 84.66666666666667.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_31",
+      "pertanyaan": "Soal TPA Analitik #31: Premis 1: Semua mahasiswa Teknik Sipil belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Teknik Sipil pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Teknik Sipil mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Teknik Sipil.",
+        "E": "Sebagian mahasiswa Teknik Sipil tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_32",
+      "pertanyaan": "Soal TPA Numerik #32: Deret berikut adalah 6, 9, 12, 15, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "15",
+        "B": "18",
+        "C": "21",
+        "D": "24",
+        "E": "12"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_33",
+      "pertanyaan": "Soal TPA Verbal #33: Hubungan kata arsitek : bangunan setara dengan hubungan kata penulis : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "naskah",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "arsitek berhubungan dengan bangunan sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara penulis dan naskah.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_34",
+      "pertanyaan": "Soal TPA Kuantitatif #34: Jika y = 3x dan x = 16, maka nilai y adalah?",
+      "opsi": {
+        "A": "45",
+        "B": "64",
+        "C": "19",
+        "D": "48",
+        "E": "13"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 16 ke persamaan y = 3x sehingga diperoleh y = 3 x 16 = 48.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_35",
+      "pertanyaan": "Soal TPA Data #35: Nilai tiga tes berturut-turut adalah 80, 86, 86. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "83",
+        "B": "252",
+        "C": "86",
+        "D": "80",
+        "E": "84"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 84.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_36",
+      "pertanyaan": "Soal TPA Analitik #36: Premis 1: Semua mahasiswa Teknik Industri belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Teknik Industri pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Teknik Industri mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Teknik Industri.",
+        "E": "Sebagian mahasiswa Teknik Industri tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_37",
+      "pertanyaan": "Soal TPA Numerik #37: Deret berikut adalah 4, 7, 10, 13, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "13",
+        "B": "16",
+        "C": "19",
+        "D": "22",
+        "E": "10"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_38",
+      "pertanyaan": "Soal TPA Verbal #38: Hubungan kata hakim : putusan setara dengan hubungan kata editor : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "naskah",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "hakim berhubungan dengan putusan sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara editor dan naskah.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_39",
+      "pertanyaan": "Soal TPA Kuantitatif #39: Jika y = 4x dan x = 12, maka nilai y adalah?",
+      "opsi": {
+        "A": "44",
+        "B": "60",
+        "C": "16",
+        "D": "48",
+        "E": "8"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 12 ke persamaan y = 4x sehingga diperoleh y = 4 x 12 = 48.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_40",
+      "pertanyaan": "Soal TPA Data #40: Nilai tiga tes berturut-turut adalah 75, 86, 89. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "80.5",
+        "B": "250",
+        "C": "89",
+        "D": "75",
+        "E": "83.33333333333333"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 83.33333333333333.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_41",
+      "pertanyaan": "Soal TPA Analitik #41: Premis 1: Semua mahasiswa Farmasi belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Farmasi pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Farmasi mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Farmasi.",
+        "E": "Sebagian mahasiswa Farmasi tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_42",
+      "pertanyaan": "Soal TPA Numerik #42: Deret berikut adalah 9, 12, 15, 18, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "18",
+        "B": "21",
+        "C": "24",
+        "D": "27",
+        "E": "15"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_43",
+      "pertanyaan": "Soal TPA Verbal #43: Hubungan kata programer : kode setara dengan hubungan kata akuntan : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "laporan",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "programer berhubungan dengan kode sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara akuntan dan laporan.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_44",
+      "pertanyaan": "Soal TPA Kuantitatif #44: Jika y = 5x dan x = 17, maka nilai y adalah?",
+      "opsi": {
+        "A": "80",
+        "B": "102",
+        "C": "22",
+        "D": "85",
+        "E": "12"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 17 ke persamaan y = 5x sehingga diperoleh y = 5 x 17 = 85.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_45",
+      "pertanyaan": "Soal TPA Data #45: Nilai tiga tes berturut-turut adalah 70, 86, 80. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "78",
+        "B": "236",
+        "C": "86",
+        "D": "70",
+        "E": "78.66666666666667"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 78.66666666666667.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_46",
+      "pertanyaan": "Soal TPA Analitik #46: Premis 1: Semua mahasiswa Arsitektur belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Arsitektur pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Arsitektur mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Arsitektur.",
+        "E": "Sebagian mahasiswa Arsitektur tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_47",
+      "pertanyaan": "Soal TPA Numerik #47: Deret berikut adalah 7, 10, 13, 16, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "16",
+        "B": "19",
+        "C": "22",
+        "D": "25",
+        "E": "13"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_48",
+      "pertanyaan": "Soal TPA Verbal #48: Hubungan kata nahkoda : kapal setara dengan hubungan kata pilot : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "pesawat",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "nahkoda berhubungan dengan kapal sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara pilot dan pesawat.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_49",
+      "pertanyaan": "Soal TPA Kuantitatif #49: Jika y = 2x dan x = 13, maka nilai y adalah?",
+      "opsi": {
+        "A": "24",
+        "B": "39",
+        "C": "15",
+        "D": "26",
+        "E": "11"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 13 ke persamaan y = 2x sehingga diperoleh y = 2 x 13 = 26.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_50",
+      "pertanyaan": "Soal TPA Data #50: Nilai tiga tes berturut-turut adalah 65, 86, 83. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "75.5",
+        "B": "234",
+        "C": "86",
+        "D": "65",
+        "E": "78"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 78.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_51",
+      "pertanyaan": "Soal TPA Analitik #51: Premis 1: Semua mahasiswa Sistem Informasi belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Sistem Informasi pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Sistem Informasi mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Sistem Informasi.",
+        "E": "Sebagian mahasiswa Sistem Informasi tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_52",
+      "pertanyaan": "Soal TPA Numerik #52: Deret berikut adalah 5, 8, 11, 14, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "14",
+        "B": "17",
+        "C": "20",
+        "D": "23",
+        "E": "11"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_53",
+      "pertanyaan": "Soal TPA Verbal #53: Hubungan kata dokter : pasien setara dengan hubungan kata guru : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "murid",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "dokter berhubungan dengan pasien sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara guru dan murid.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_54",
+      "pertanyaan": "Soal TPA Kuantitatif #54: Jika y = 3x dan x = 18, maka nilai y adalah?",
+      "opsi": {
+        "A": "51",
+        "B": "72",
+        "C": "21",
+        "D": "54",
+        "E": "15"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 18 ke persamaan y = 3x sehingga diperoleh y = 3 x 18 = 54.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_55",
+      "pertanyaan": "Soal TPA Data #55: Nilai tiga tes berturut-turut adalah 60, 86, 86. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "73",
+        "B": "232",
+        "C": "86",
+        "D": "60",
+        "E": "77.33333333333333"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 77.33333333333333.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_56",
+      "pertanyaan": "Soal TPA Analitik #56: Premis 1: Semua mahasiswa Kedokteran belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Kedokteran pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Kedokteran mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Kedokteran.",
+        "E": "Sebagian mahasiswa Kedokteran tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_57",
+      "pertanyaan": "Soal TPA Numerik #57: Deret berikut adalah 3, 6, 9, 12, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "12",
+        "B": "15",
+        "C": "18",
+        "D": "21",
+        "E": "9"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_58",
+      "pertanyaan": "Soal TPA Verbal #58: Hubungan kata arsitek : bangunan setara dengan hubungan kata penulis : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "naskah",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "arsitek berhubungan dengan bangunan sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara penulis dan naskah.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_59",
+      "pertanyaan": "Soal TPA Kuantitatif #59: Jika y = 4x dan x = 14, maka nilai y adalah?",
+      "opsi": {
+        "A": "52",
+        "B": "70",
+        "C": "18",
+        "D": "56",
+        "E": "10"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 14 ke persamaan y = 4x sehingga diperoleh y = 4 x 14 = 56.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_60",
+      "pertanyaan": "Soal TPA Data #60: Nilai tiga tes berturut-turut adalah 85, 86, 89. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "85.5",
+        "B": "260",
+        "C": "89",
+        "D": "85",
+        "E": "86.66666666666667"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 86.66666666666667.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_61",
+      "pertanyaan": "Soal TPA Analitik #61: Premis 1: Semua mahasiswa Ilmu Hukum belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Ilmu Hukum pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Ilmu Hukum mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Ilmu Hukum.",
+        "E": "Sebagian mahasiswa Ilmu Hukum tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_62",
+      "pertanyaan": "Soal TPA Numerik #62: Deret berikut adalah 8, 11, 14, 17, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "17",
+        "B": "20",
+        "C": "23",
+        "D": "26",
+        "E": "14"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_63",
+      "pertanyaan": "Soal TPA Verbal #63: Hubungan kata hakim : putusan setara dengan hubungan kata editor : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "naskah",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "hakim berhubungan dengan putusan sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara editor dan naskah.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_64",
+      "pertanyaan": "Soal TPA Kuantitatif #64: Jika y = 5x dan x = 10, maka nilai y adalah?",
+      "opsi": {
+        "A": "45",
+        "B": "60",
+        "C": "15",
+        "D": "50",
+        "E": "5"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 10 ke persamaan y = 5x sehingga diperoleh y = 5 x 10 = 50.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_65",
+      "pertanyaan": "Soal TPA Data #65: Nilai tiga tes berturut-turut adalah 80, 86, 80. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "83",
+        "B": "246",
+        "C": "86",
+        "D": "80",
+        "E": "82"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 82.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_66",
+      "pertanyaan": "Soal TPA Analitik #66: Premis 1: Semua mahasiswa Manajemen belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Manajemen pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Manajemen mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Manajemen.",
+        "E": "Sebagian mahasiswa Manajemen tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_67",
+      "pertanyaan": "Soal TPA Numerik #67: Deret berikut adalah 6, 9, 12, 15, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "15",
+        "B": "18",
+        "C": "21",
+        "D": "24",
+        "E": "12"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_68",
+      "pertanyaan": "Soal TPA Verbal #68: Hubungan kata programer : kode setara dengan hubungan kata akuntan : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "laporan",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "programer berhubungan dengan kode sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara akuntan dan laporan.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_69",
+      "pertanyaan": "Soal TPA Kuantitatif #69: Jika y = 2x dan x = 15, maka nilai y adalah?",
+      "opsi": {
+        "A": "28",
+        "B": "45",
+        "C": "17",
+        "D": "30",
+        "E": "13"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 15 ke persamaan y = 2x sehingga diperoleh y = 2 x 15 = 30.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_70",
+      "pertanyaan": "Soal TPA Data #70: Nilai tiga tes berturut-turut adalah 75, 86, 83. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "80.5",
+        "B": "244",
+        "C": "86",
+        "D": "75",
+        "E": "81.33333333333333"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 81.33333333333333.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_71",
+      "pertanyaan": "Soal TPA Analitik #71: Premis 1: Semua mahasiswa Akuntansi belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Akuntansi pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Akuntansi mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Akuntansi.",
+        "E": "Sebagian mahasiswa Akuntansi tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_72",
+      "pertanyaan": "Soal TPA Numerik #72: Deret berikut adalah 4, 7, 10, 13, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "13",
+        "B": "16",
+        "C": "19",
+        "D": "22",
+        "E": "10"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_73",
+      "pertanyaan": "Soal TPA Verbal #73: Hubungan kata nahkoda : kapal setara dengan hubungan kata pilot : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "pesawat",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "nahkoda berhubungan dengan kapal sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara pilot dan pesawat.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_74",
+      "pertanyaan": "Soal TPA Kuantitatif #74: Jika y = 3x dan x = 11, maka nilai y adalah?",
+      "opsi": {
+        "A": "30",
+        "B": "44",
+        "C": "14",
+        "D": "33",
+        "E": "8"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 11 ke persamaan y = 3x sehingga diperoleh y = 3 x 11 = 33.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_75",
+      "pertanyaan": "Soal TPA Data #75: Nilai tiga tes berturut-turut adalah 70, 86, 86. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "78",
+        "B": "242",
+        "C": "86",
+        "D": "70",
+        "E": "80.66666666666667"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 80.66666666666667.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_76",
+      "pertanyaan": "Soal TPA Analitik #76: Premis 1: Semua mahasiswa Psikologi belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Psikologi pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Psikologi mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Psikologi.",
+        "E": "Sebagian mahasiswa Psikologi tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_77",
+      "pertanyaan": "Soal TPA Numerik #77: Deret berikut adalah 9, 12, 15, 18, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "18",
+        "B": "21",
+        "C": "24",
+        "D": "27",
+        "E": "15"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_78",
+      "pertanyaan": "Soal TPA Verbal #78: Hubungan kata dokter : pasien setara dengan hubungan kata guru : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "murid",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "dokter berhubungan dengan pasien sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara guru dan murid.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_79",
+      "pertanyaan": "Soal TPA Kuantitatif #79: Jika y = 4x dan x = 16, maka nilai y adalah?",
+      "opsi": {
+        "A": "60",
+        "B": "80",
+        "C": "20",
+        "D": "64",
+        "E": "12"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 16 ke persamaan y = 4x sehingga diperoleh y = 4 x 16 = 64.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_80",
+      "pertanyaan": "Soal TPA Data #80: Nilai tiga tes berturut-turut adalah 65, 86, 89. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "75.5",
+        "B": "240",
+        "C": "89",
+        "D": "65",
+        "E": "80"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 80.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_81",
+      "pertanyaan": "Soal TPA Analitik #81: Premis 1: Semua mahasiswa Teknik Sipil belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Teknik Sipil pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Teknik Sipil mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Teknik Sipil.",
+        "E": "Sebagian mahasiswa Teknik Sipil tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_82",
+      "pertanyaan": "Soal TPA Numerik #82: Deret berikut adalah 7, 10, 13, 16, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "16",
+        "B": "19",
+        "C": "22",
+        "D": "25",
+        "E": "13"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_83",
+      "pertanyaan": "Soal TPA Verbal #83: Hubungan kata arsitek : bangunan setara dengan hubungan kata penulis : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "naskah",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "arsitek berhubungan dengan bangunan sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara penulis dan naskah.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_84",
+      "pertanyaan": "Soal TPA Kuantitatif #84: Jika y = 5x dan x = 12, maka nilai y adalah?",
+      "opsi": {
+        "A": "55",
+        "B": "72",
+        "C": "17",
+        "D": "60",
+        "E": "7"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 12 ke persamaan y = 5x sehingga diperoleh y = 5 x 12 = 60.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_85",
+      "pertanyaan": "Soal TPA Data #85: Nilai tiga tes berturut-turut adalah 60, 86, 80. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "73",
+        "B": "226",
+        "C": "86",
+        "D": "60",
+        "E": "75.33333333333333"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 75.33333333333333.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_86",
+      "pertanyaan": "Soal TPA Analitik #86: Premis 1: Semua mahasiswa Teknik Industri belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Teknik Industri pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Teknik Industri mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Teknik Industri.",
+        "E": "Sebagian mahasiswa Teknik Industri tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_87",
+      "pertanyaan": "Soal TPA Numerik #87: Deret berikut adalah 5, 8, 11, 14, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "14",
+        "B": "17",
+        "C": "20",
+        "D": "23",
+        "E": "11"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_88",
+      "pertanyaan": "Soal TPA Verbal #88: Hubungan kata hakim : putusan setara dengan hubungan kata editor : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "naskah",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "hakim berhubungan dengan putusan sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara editor dan naskah.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_89",
+      "pertanyaan": "Soal TPA Kuantitatif #89: Jika y = 2x dan x = 17, maka nilai y adalah?",
+      "opsi": {
+        "A": "32",
+        "B": "51",
+        "C": "19",
+        "D": "34",
+        "E": "15"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 17 ke persamaan y = 2x sehingga diperoleh y = 2 x 17 = 34.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_90",
+      "pertanyaan": "Soal TPA Data #90: Nilai tiga tes berturut-turut adalah 85, 86, 83. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "85.5",
+        "B": "254",
+        "C": "86",
+        "D": "83",
+        "E": "84.66666666666667"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 84.66666666666667.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_91",
+      "pertanyaan": "Soal TPA Analitik #91: Premis 1: Semua mahasiswa Farmasi belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Farmasi pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Farmasi mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Farmasi.",
+        "E": "Sebagian mahasiswa Farmasi tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_92",
+      "pertanyaan": "Soal TPA Numerik #92: Deret berikut adalah 3, 6, 9, 12, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "12",
+        "B": "15",
+        "C": "18",
+        "D": "21",
+        "E": "9"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_93",
+      "pertanyaan": "Soal TPA Verbal #93: Hubungan kata programer : kode setara dengan hubungan kata akuntan : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "laporan",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "programer berhubungan dengan kode sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara akuntan dan laporan.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_94",
+      "pertanyaan": "Soal TPA Kuantitatif #94: Jika y = 3x dan x = 13, maka nilai y adalah?",
+      "opsi": {
+        "A": "36",
+        "B": "52",
+        "C": "16",
+        "D": "39",
+        "E": "10"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 13 ke persamaan y = 3x sehingga diperoleh y = 3 x 13 = 39.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_95",
+      "pertanyaan": "Soal TPA Data #95: Nilai tiga tes berturut-turut adalah 80, 86, 86. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "83",
+        "B": "252",
+        "C": "86",
+        "D": "80",
+        "E": "84"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 84.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_96",
+      "pertanyaan": "Soal TPA Analitik #96: Premis 1: Semua mahasiswa Arsitektur belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras mendapat IPK 4.0. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Arsitektur pasti mendapat IPK 4.0.",
+        "C": "Semua mahasiswa Arsitektur mendapat IPK 4.0.",
+        "D": "Semua yang mendapat IPK 4.0 adalah mahasiswa Arsitektur.",
+        "E": "Sebagian mahasiswa Arsitektur tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa dari jurusan tertentu pasti termasuk kelompok yang mendapat IPK 4.0, sehingga simpulan paling aman adalah tidak ada kesimpulan pasti.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_97",
+      "pertanyaan": "Soal TPA Numerik #97: Deret berikut adalah 8, 11, 14, 17, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "17",
+        "B": "20",
+        "C": "23",
+        "D": "26",
+        "E": "14"
+      },
+      "jawaban": "B",
+      "pembahasan": "Deret bertambah tetap 3 setiap langkah. Karena itu suku berikutnya diperoleh dengan menambah 3 dari angka terakhir.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_98",
+      "pertanyaan": "Soal TPA Verbal #98: Hubungan kata nahkoda : kapal setara dengan hubungan kata pilot : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "pesawat",
+        "D": "penumpang",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "nahkoda berhubungan dengan kapal sebagai objek utama pekerjaannya. Hubungan yang sepadan terjadi antara pilot dan pesawat.",
+      "tingkatKesulitan": "Sedang"
+    },
+    {
+      "id": "kuliah_tpa_soal_99",
+      "pertanyaan": "Soal TPA Kuantitatif #99: Jika y = 4x dan x = 18, maka nilai y adalah?",
+      "opsi": {
+        "A": "68",
+        "B": "90",
+        "C": "22",
+        "D": "72",
+        "E": "14"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 18 ke persamaan y = 4x sehingga diperoleh y = 4 x 18 = 72.",
+      "tingkatKesulitan": "Mudah"
+    },
+    {
+      "id": "kuliah_tpa_soal_100",
+      "pertanyaan": "Soal TPA Data #100: Nilai tiga tes berturut-turut adalah 75, 86, 89. Rata-ratanya adalah?",
+      "opsi": {
+        "A": "80.5",
+        "B": "250",
+        "C": "89",
+        "D": "75",
+        "E": "83.33333333333333"
+      },
+      "jawaban": "E",
+      "pembahasan": "Jumlahkan ketiga nilai, lalu bagi 3. Hasilnya adalah 83.33333333333333.",
+      "tingkatKesulitan": "Sedang"
+    }
+  ]
+}

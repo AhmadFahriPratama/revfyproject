@@ -1,0 +1,53 @@
+{
+  "judul": "Kecantikan dan Spa",
+  "tingkatan": "SMK",
+  "jurusan": "Kecantikan dan Terapi Spa",
+  "deskripsi": "Materi mengenai dasar-dasar tata rias pelangi, pewarnaan rambut, perawatan kulit wajah, teknik pemijatan spa, serta sanitasi hygiene di salon.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Sanitasi, Hygiene, dan K3 di Salon",
+      "konten": "Prinsip kebersihan area kerja, sterilisasi alat kecantikan, serta penerapan Kesehatan dan Keselamatan Kerja (K3) untuk melindungi terapis dan pelanggan dari infeksi atau kecelakaan kerja.",
+      "tag": [
+        "par kecantikan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Perawatan Kulit Wajah (Skin Care)",
+      "konten": "Anatomi kulit, jenis-jenis kulit (kering, berminyak, kombinasi). Tahapan facial dasar: pembersihan (cleansing), penguapan (steaming), ekstraksi kotoran, massage wajah, dan pemakaian masker.",
+      "tag": [
+        "par kecantikan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Tata Rias Wajah (Make Up)",
+      "konten": "Pengenalan kosmetik penunjang riasan (foundation, powder, eyeshadow, lipstick). Teknik koreksi bentuk wajah (shading & highlighting) sesuai dengan bentuk wajah pelanggan.",
+      "tag": [
+        "par kecantikan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Penataan dan Pewarnaan Rambut",
+      "konten": "Struktur rambut, teknik pemotongan rambut dasar, teknik pewarnaan (coloring), serta perawatan rambut rusak melalui hair mask atau creambath.",
+      "tag": [
+        "par kecantikan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Terapi Spa dan Relaksasi",
+      "konten": "Sejarah spa, teknik pemijatan tubuh (body massage), pemakaian lulur (body scrub), serta manfaat aromaterapi dalam menciptakan suasana relaksasi yang maksimal.",
+      "tag": [
+        "par kecantikan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "par-kecantikan-materi",
+  "mapel": "Kecantikan dan Spa",
+  "tag": [
+    "par kecantikan materi"
+  ]
+}

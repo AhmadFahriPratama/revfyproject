@@ -1,0 +1,658 @@
+{
+  "id": "smp-9-pjok",
+  "tingkat": "SMP",
+  "mapel": "PJOK",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "pjok9-1",
+      "teks": "Pola penyerangan dalam sepakbola yang menggunakan strategi lemparan ke dalam atau bola mati (tendangan bebas/sudut) disebut pola...",
+      "opsi": {
+        "A": "Pola Penyerangan Bebas Terstruktur (Set-piece)",
+        "B": "Pola Man-to-man",
+        "C": "Pola Zone Defense",
+        "D": "Pola Bertahan Tersusun"
+      },
+      "kunci": "A",
+      "pembahasan": "Set-piece (bola mati) adalah salah satu skema / pola andalan untuk mencetak gol dari situasi tendangan bebas / pojok.",
+      "trik": "Bola mati = Set piece."
+    },
+    {
+      "id": "pjok9-2",
+      "teks": "Dalam pencak silat, gerakan memindahkan tubuh ke arah menghindar (samping/belakang) agar tidak terkena serangan lawan disebut...",
+      "opsi": {
+        "A": "Tangkisan",
+        "B": "Elakan (Hindaran)",
+        "C": "Pukulan",
+        "D": "Kuda-Kuda"
+      },
+      "kunci": "B",
+      "pembahasan": "Elakan atau hindaran adalah gerakan memindah tumpuan badan dari lintasan serangan musuh tanpa menyentuh (menangkis).",
+      "trik": "Menghindar lintasan = Elak."
+    },
+    {
+      "id": "pjok9-3",
+      "teks": "Program latihan kebugaran yang dikerjakan secara berkelanjutan dari satu stasiun (pos) ke stasiun lain tanpa istirahat panjang disebut...",
+      "opsi": {
+        "A": "Sprint",
+        "B": "Fartlek",
+        "C": "Circuit Training",
+        "D": "Interval Training"
+      },
+      "kunci": "C",
+      "pembahasan": "Circuit training adalah latihan sirkuit pos beruntun (misal: push up -> lari keliling -> squat jump).",
+      "trik": "Stasiun/Pos = Sikruit."
+    },
+    {
+      "id": "pjok9-4",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah...",
+      "opsi": {
+        "A": "Menghadap lurus ke depan",
+        "B": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "C": "Telentang menghadap langit",
+        "D": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas"
+      },
+      "kunci": "D",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "pjok9-5",
+      "teks": "Tindakan pertama (P3K) jika teman keracunan dari makanan atau sengatan kimia adalah...",
+      "opsi": {
+        "A": "Segera diberi air susu steril / air kelapa serta memaksa dimuntahkan sebelum dibawa ke RS",
+        "B": "Langsung dipijat saraf kepalanya",
+        "C": "Diolesi balsem",
+        "D": "Dimandikan air es"
+      },
+      "kunci": "A",
+      "pembahasan": "Susu bersifat menetralkan racun dalam perut. Jika masih baru meminumnya segera rangsang muntah basuh lendir.",
+      "trik": "Racun telan = Netralisir susu murni."
+    },
+    {
+      "id": "smp-9-pjok-6",
+      "teks": "Tindakan pertama (P3K) jika teman keracunan dari makanan atau sengatan kimia adalah... (Latihan Intensif #6)",
+      "opsi": {
+        "A": "Langsung dipijat saraf kepalanya",
+        "B": "Segera diberi air susu steril / air kelapa serta memaksa dimuntahkan sebelum dibawa ke RS",
+        "C": "Diolesi balsem",
+        "D": "Dimandikan air es"
+      },
+      "kunci": "B",
+      "pembahasan": "Susu bersifat menetralkan racun dalam perut. Jika masih baru meminumnya segera rangsang muntah basuh lendir.",
+      "trik": "Racun telan = Netralisir susu murni."
+    },
+    {
+      "id": "smp-9-pjok-7",
+      "teks": "Program latihan kebugaran yang dikerjakan secara berkelanjutan dari satu stasiun (pos) ke stasiun lain tanpa istirahat panjang disebut... (Latihan Intensif #7)",
+      "opsi": {
+        "A": "Sprint",
+        "B": "Fartlek",
+        "C": "Circuit Training",
+        "D": "Interval Training"
+      },
+      "kunci": "C",
+      "pembahasan": "Circuit training adalah latihan sirkuit pos beruntun (misal: push up -> lari keliling -> squat jump).",
+      "trik": "Stasiun/Pos = Sikruit."
+    },
+    {
+      "id": "smp-9-pjok-8",
+      "teks": "Pola penyerangan dalam sepakbola yang menggunakan strategi lemparan ke dalam atau bola mati (tendangan bebas/sudut) disebut pola... (Latihan Intensif #8)",
+      "opsi": {
+        "A": "Pola Man-to-man",
+        "B": "Pola Zone Defense",
+        "C": "Pola Bertahan Tersusun",
+        "D": "Pola Penyerangan Bebas Terstruktur (Set-piece)"
+      },
+      "kunci": "D",
+      "pembahasan": "Set-piece (bola mati) adalah salah satu skema / pola andalan untuk mencetak gol dari situasi tendangan bebas / pojok.",
+      "trik": "Bola mati = Set piece."
+    },
+    {
+      "id": "smp-9-pjok-9",
+      "teks": "Program latihan kebugaran yang dikerjakan secara berkelanjutan dari satu stasiun (pos) ke stasiun lain tanpa istirahat panjang disebut... (Latihan Intensif #9)",
+      "opsi": {
+        "A": "Circuit Training",
+        "B": "Sprint",
+        "C": "Fartlek",
+        "D": "Interval Training"
+      },
+      "kunci": "A",
+      "pembahasan": "Circuit training adalah latihan sirkuit pos beruntun (misal: push up -> lari keliling -> squat jump).",
+      "trik": "Stasiun/Pos = Sikruit."
+    },
+    {
+      "id": "smp-9-pjok-10",
+      "teks": "Dalam pencak silat, gerakan memindahkan tubuh ke arah menghindar (samping/belakang) agar tidak terkena serangan lawan disebut... (Latihan Intensif #10)",
+      "opsi": {
+        "A": "Tangkisan",
+        "B": "Elakan (Hindaran)",
+        "C": "Pukulan",
+        "D": "Kuda-Kuda"
+      },
+      "kunci": "B",
+      "pembahasan": "Elakan atau hindaran adalah gerakan memindah tumpuan badan dari lintasan serangan musuh tanpa menyentuh (menangkis).",
+      "trik": "Menghindar lintasan = Elak."
+    },
+    {
+      "id": "smp-9-pjok-11",
+      "teks": "Dalam pencak silat, gerakan memindahkan tubuh ke arah menghindar (samping/belakang) agar tidak terkena serangan lawan disebut... (Latihan Intensif #11)",
+      "opsi": {
+        "A": "Tangkisan",
+        "B": "Pukulan",
+        "C": "Elakan (Hindaran)",
+        "D": "Kuda-Kuda"
+      },
+      "kunci": "C",
+      "pembahasan": "Elakan atau hindaran adalah gerakan memindah tumpuan badan dari lintasan serangan musuh tanpa menyentuh (menangkis).",
+      "trik": "Menghindar lintasan = Elak."
+    },
+    {
+      "id": "smp-9-pjok-12",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #12)",
+      "opsi": {
+        "A": "Menghadap lurus ke depan",
+        "B": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "C": "Telentang menghadap langit",
+        "D": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas"
+      },
+      "kunci": "D",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-13",
+      "teks": "Pola penyerangan dalam sepakbola yang menggunakan strategi lemparan ke dalam atau bola mati (tendangan bebas/sudut) disebut pola... (Latihan Intensif #13)",
+      "opsi": {
+        "A": "Pola Penyerangan Bebas Terstruktur (Set-piece)",
+        "B": "Pola Man-to-man",
+        "C": "Pola Zone Defense",
+        "D": "Pola Bertahan Tersusun"
+      },
+      "kunci": "A",
+      "pembahasan": "Set-piece (bola mati) adalah salah satu skema / pola andalan untuk mencetak gol dari situasi tendangan bebas / pojok.",
+      "trik": "Bola mati = Set piece."
+    },
+    {
+      "id": "smp-9-pjok-14",
+      "teks": "Tindakan pertama (P3K) jika teman keracunan dari makanan atau sengatan kimia adalah... (Latihan Intensif #14)",
+      "opsi": {
+        "A": "Langsung dipijat saraf kepalanya",
+        "B": "Segera diberi air susu steril / air kelapa serta memaksa dimuntahkan sebelum dibawa ke RS",
+        "C": "Diolesi balsem",
+        "D": "Dimandikan air es"
+      },
+      "kunci": "B",
+      "pembahasan": "Susu bersifat menetralkan racun dalam perut. Jika masih baru meminumnya segera rangsang muntah basuh lendir.",
+      "trik": "Racun telan = Netralisir susu murni."
+    },
+    {
+      "id": "smp-9-pjok-15",
+      "teks": "Dalam pencak silat, gerakan memindahkan tubuh ke arah menghindar (samping/belakang) agar tidak terkena serangan lawan disebut... (Latihan Intensif #15)",
+      "opsi": {
+        "A": "Tangkisan",
+        "B": "Pukulan",
+        "C": "Elakan (Hindaran)",
+        "D": "Kuda-Kuda"
+      },
+      "kunci": "C",
+      "pembahasan": "Elakan atau hindaran adalah gerakan memindah tumpuan badan dari lintasan serangan musuh tanpa menyentuh (menangkis).",
+      "trik": "Menghindar lintasan = Elak."
+    },
+    {
+      "id": "smp-9-pjok-16",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #16)",
+      "opsi": {
+        "A": "Menghadap lurus ke depan",
+        "B": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "C": "Telentang menghadap langit",
+        "D": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas"
+      },
+      "kunci": "D",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-17",
+      "teks": "Dalam pencak silat, gerakan memindahkan tubuh ke arah menghindar (samping/belakang) agar tidak terkena serangan lawan disebut... (Latihan Intensif #17)",
+      "opsi": {
+        "A": "Elakan (Hindaran)",
+        "B": "Tangkisan",
+        "C": "Pukulan",
+        "D": "Kuda-Kuda"
+      },
+      "kunci": "A",
+      "pembahasan": "Elakan atau hindaran adalah gerakan memindah tumpuan badan dari lintasan serangan musuh tanpa menyentuh (menangkis).",
+      "trik": "Menghindar lintasan = Elak."
+    },
+    {
+      "id": "smp-9-pjok-18",
+      "teks": "Program latihan kebugaran yang dikerjakan secara berkelanjutan dari satu stasiun (pos) ke stasiun lain tanpa istirahat panjang disebut... (Latihan Intensif #18)",
+      "opsi": {
+        "A": "Sprint",
+        "B": "Circuit Training",
+        "C": "Fartlek",
+        "D": "Interval Training"
+      },
+      "kunci": "B",
+      "pembahasan": "Circuit training adalah latihan sirkuit pos beruntun (misal: push up -> lari keliling -> squat jump).",
+      "trik": "Stasiun/Pos = Sikruit."
+    },
+    {
+      "id": "smp-9-pjok-19",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #19)",
+      "opsi": {
+        "A": "Menghadap lurus ke depan",
+        "B": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "C": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas",
+        "D": "Telentang menghadap langit"
+      },
+      "kunci": "C",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-20",
+      "teks": "Program latihan kebugaran yang dikerjakan secara berkelanjutan dari satu stasiun (pos) ke stasiun lain tanpa istirahat panjang disebut... (Latihan Intensif #20)",
+      "opsi": {
+        "A": "Sprint",
+        "B": "Fartlek",
+        "C": "Interval Training",
+        "D": "Circuit Training"
+      },
+      "kunci": "D",
+      "pembahasan": "Circuit training adalah latihan sirkuit pos beruntun (misal: push up -> lari keliling -> squat jump).",
+      "trik": "Stasiun/Pos = Sikruit."
+    },
+    {
+      "id": "smp-9-pjok-21",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #21)",
+      "opsi": {
+        "A": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas",
+        "B": "Menghadap lurus ke depan",
+        "C": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "D": "Telentang menghadap langit"
+      },
+      "kunci": "A",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-22",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #22)",
+      "opsi": {
+        "A": "Menghadap lurus ke depan",
+        "B": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas",
+        "C": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "D": "Telentang menghadap langit"
+      },
+      "kunci": "B",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-23",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #23)",
+      "opsi": {
+        "A": "Menghadap lurus ke depan",
+        "B": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "C": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas",
+        "D": "Telentang menghadap langit"
+      },
+      "kunci": "C",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-24",
+      "teks": "Tindakan pertama (P3K) jika teman keracunan dari makanan atau sengatan kimia adalah... (Latihan Intensif #24)",
+      "opsi": {
+        "A": "Langsung dipijat saraf kepalanya",
+        "B": "Diolesi balsem",
+        "C": "Dimandikan air es",
+        "D": "Segera diberi air susu steril / air kelapa serta memaksa dimuntahkan sebelum dibawa ke RS"
+      },
+      "kunci": "D",
+      "pembahasan": "Susu bersifat menetralkan racun dalam perut. Jika masih baru meminumnya segera rangsang muntah basuh lendir.",
+      "trik": "Racun telan = Netralisir susu murni."
+    },
+    {
+      "id": "smp-9-pjok-25",
+      "teks": "Program latihan kebugaran yang dikerjakan secara berkelanjutan dari satu stasiun (pos) ke stasiun lain tanpa istirahat panjang disebut... (Latihan Intensif #25)",
+      "opsi": {
+        "A": "Circuit Training",
+        "B": "Sprint",
+        "C": "Fartlek",
+        "D": "Interval Training"
+      },
+      "kunci": "A",
+      "pembahasan": "Circuit training adalah latihan sirkuit pos beruntun (misal: push up -> lari keliling -> squat jump).",
+      "trik": "Stasiun/Pos = Sikruit."
+    },
+    {
+      "id": "smp-9-pjok-26",
+      "teks": "Dalam pencak silat, gerakan memindahkan tubuh ke arah menghindar (samping/belakang) agar tidak terkena serangan lawan disebut... (Latihan Intensif #26)",
+      "opsi": {
+        "A": "Tangkisan",
+        "B": "Elakan (Hindaran)",
+        "C": "Pukulan",
+        "D": "Kuda-Kuda"
+      },
+      "kunci": "B",
+      "pembahasan": "Elakan atau hindaran adalah gerakan memindah tumpuan badan dari lintasan serangan musuh tanpa menyentuh (menangkis).",
+      "trik": "Menghindar lintasan = Elak."
+    },
+    {
+      "id": "smp-9-pjok-27",
+      "teks": "Program latihan kebugaran yang dikerjakan secara berkelanjutan dari satu stasiun (pos) ke stasiun lain tanpa istirahat panjang disebut... (Latihan Intensif #27)",
+      "opsi": {
+        "A": "Sprint",
+        "B": "Fartlek",
+        "C": "Circuit Training",
+        "D": "Interval Training"
+      },
+      "kunci": "C",
+      "pembahasan": "Circuit training adalah latihan sirkuit pos beruntun (misal: push up -> lari keliling -> squat jump).",
+      "trik": "Stasiun/Pos = Sikruit."
+    },
+    {
+      "id": "smp-9-pjok-28",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #28)",
+      "opsi": {
+        "A": "Menghadap lurus ke depan",
+        "B": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "C": "Telentang menghadap langit",
+        "D": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas"
+      },
+      "kunci": "D",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-29",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #29)",
+      "opsi": {
+        "A": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas",
+        "B": "Menghadap lurus ke depan",
+        "C": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "D": "Telentang menghadap langit"
+      },
+      "kunci": "A",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-30",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #30)",
+      "opsi": {
+        "A": "Menghadap lurus ke depan",
+        "B": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas",
+        "C": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "D": "Telentang menghadap langit"
+      },
+      "kunci": "B",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-31",
+      "teks": "Dalam pencak silat, gerakan memindahkan tubuh ke arah menghindar (samping/belakang) agar tidak terkena serangan lawan disebut... (Latihan Intensif #31)",
+      "opsi": {
+        "A": "Tangkisan",
+        "B": "Pukulan",
+        "C": "Elakan (Hindaran)",
+        "D": "Kuda-Kuda"
+      },
+      "kunci": "C",
+      "pembahasan": "Elakan atau hindaran adalah gerakan memindah tumpuan badan dari lintasan serangan musuh tanpa menyentuh (menangkis).",
+      "trik": "Menghindar lintasan = Elak."
+    },
+    {
+      "id": "smp-9-pjok-32",
+      "teks": "Tindakan pertama (P3K) jika teman keracunan dari makanan atau sengatan kimia adalah... (Latihan Intensif #32)",
+      "opsi": {
+        "A": "Langsung dipijat saraf kepalanya",
+        "B": "Diolesi balsem",
+        "C": "Dimandikan air es",
+        "D": "Segera diberi air susu steril / air kelapa serta memaksa dimuntahkan sebelum dibawa ke RS"
+      },
+      "kunci": "D",
+      "pembahasan": "Susu bersifat menetralkan racun dalam perut. Jika masih baru meminumnya segera rangsang muntah basuh lendir.",
+      "trik": "Racun telan = Netralisir susu murni."
+    },
+    {
+      "id": "smp-9-pjok-33",
+      "teks": "Dalam pencak silat, gerakan memindahkan tubuh ke arah menghindar (samping/belakang) agar tidak terkena serangan lawan disebut... (Latihan Intensif #33)",
+      "opsi": {
+        "A": "Elakan (Hindaran)",
+        "B": "Tangkisan",
+        "C": "Pukulan",
+        "D": "Kuda-Kuda"
+      },
+      "kunci": "A",
+      "pembahasan": "Elakan atau hindaran adalah gerakan memindah tumpuan badan dari lintasan serangan musuh tanpa menyentuh (menangkis).",
+      "trik": "Menghindar lintasan = Elak."
+    },
+    {
+      "id": "smp-9-pjok-34",
+      "teks": "Tindakan pertama (P3K) jika teman keracunan dari makanan atau sengatan kimia adalah... (Latihan Intensif #34)",
+      "opsi": {
+        "A": "Langsung dipijat saraf kepalanya",
+        "B": "Segera diberi air susu steril / air kelapa serta memaksa dimuntahkan sebelum dibawa ke RS",
+        "C": "Diolesi balsem",
+        "D": "Dimandikan air es"
+      },
+      "kunci": "B",
+      "pembahasan": "Susu bersifat menetralkan racun dalam perut. Jika masih baru meminumnya segera rangsang muntah basuh lendir.",
+      "trik": "Racun telan = Netralisir susu murni."
+    },
+    {
+      "id": "smp-9-pjok-35",
+      "teks": "Tindakan pertama (P3K) jika teman keracunan dari makanan atau sengatan kimia adalah... (Latihan Intensif #35)",
+      "opsi": {
+        "A": "Langsung dipijat saraf kepalanya",
+        "B": "Diolesi balsem",
+        "C": "Segera diberi air susu steril / air kelapa serta memaksa dimuntahkan sebelum dibawa ke RS",
+        "D": "Dimandikan air es"
+      },
+      "kunci": "C",
+      "pembahasan": "Susu bersifat menetralkan racun dalam perut. Jika masih baru meminumnya segera rangsang muntah basuh lendir.",
+      "trik": "Racun telan = Netralisir susu murni."
+    },
+    {
+      "id": "smp-9-pjok-36",
+      "teks": "Program latihan kebugaran yang dikerjakan secara berkelanjutan dari satu stasiun (pos) ke stasiun lain tanpa istirahat panjang disebut... (Latihan Intensif #36)",
+      "opsi": {
+        "A": "Sprint",
+        "B": "Fartlek",
+        "C": "Interval Training",
+        "D": "Circuit Training"
+      },
+      "kunci": "D",
+      "pembahasan": "Circuit training adalah latihan sirkuit pos beruntun (misal: push up -> lari keliling -> squat jump).",
+      "trik": "Stasiun/Pos = Sikruit."
+    },
+    {
+      "id": "smp-9-pjok-37",
+      "teks": "Tindakan pertama (P3K) jika teman keracunan dari makanan atau sengatan kimia adalah... (Latihan Intensif #37)",
+      "opsi": {
+        "A": "Segera diberi air susu steril / air kelapa serta memaksa dimuntahkan sebelum dibawa ke RS",
+        "B": "Langsung dipijat saraf kepalanya",
+        "C": "Diolesi balsem",
+        "D": "Dimandikan air es"
+      },
+      "kunci": "A",
+      "pembahasan": "Susu bersifat menetralkan racun dalam perut. Jika masih baru meminumnya segera rangsang muntah basuh lendir.",
+      "trik": "Racun telan = Netralisir susu murni."
+    },
+    {
+      "id": "smp-9-pjok-38",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #38)",
+      "opsi": {
+        "A": "Menghadap lurus ke depan",
+        "B": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas",
+        "C": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "D": "Telentang menghadap langit"
+      },
+      "kunci": "B",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-39",
+      "teks": "Dalam pencak silat, gerakan memindahkan tubuh ke arah menghindar (samping/belakang) agar tidak terkena serangan lawan disebut... (Latihan Intensif #39)",
+      "opsi": {
+        "A": "Tangkisan",
+        "B": "Pukulan",
+        "C": "Elakan (Hindaran)",
+        "D": "Kuda-Kuda"
+      },
+      "kunci": "C",
+      "pembahasan": "Elakan atau hindaran adalah gerakan memindah tumpuan badan dari lintasan serangan musuh tanpa menyentuh (menangkis).",
+      "trik": "Menghindar lintasan = Elak."
+    },
+    {
+      "id": "smp-9-pjok-40",
+      "teks": "Tindakan pertama (P3K) jika teman keracunan dari makanan atau sengatan kimia adalah... (Latihan Intensif #40)",
+      "opsi": {
+        "A": "Langsung dipijat saraf kepalanya",
+        "B": "Diolesi balsem",
+        "C": "Dimandikan air es",
+        "D": "Segera diberi air susu steril / air kelapa serta memaksa dimuntahkan sebelum dibawa ke RS"
+      },
+      "kunci": "D",
+      "pembahasan": "Susu bersifat menetralkan racun dalam perut. Jika masih baru meminumnya segera rangsang muntah basuh lendir.",
+      "trik": "Racun telan = Netralisir susu murni."
+    },
+    {
+      "id": "smp-9-pjok-41",
+      "teks": "Tindakan pertama (P3K) jika teman keracunan dari makanan atau sengatan kimia adalah... (Latihan Intensif #41)",
+      "opsi": {
+        "A": "Segera diberi air susu steril / air kelapa serta memaksa dimuntahkan sebelum dibawa ke RS",
+        "B": "Langsung dipijat saraf kepalanya",
+        "C": "Diolesi balsem",
+        "D": "Dimandikan air es"
+      },
+      "kunci": "A",
+      "pembahasan": "Susu bersifat menetralkan racun dalam perut. Jika masih baru meminumnya segera rangsang muntah basuh lendir.",
+      "trik": "Racun telan = Netralisir susu murni."
+    },
+    {
+      "id": "smp-9-pjok-42",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #42)",
+      "opsi": {
+        "A": "Menghadap lurus ke depan",
+        "B": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas",
+        "C": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "D": "Telentang menghadap langit"
+      },
+      "kunci": "B",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-43",
+      "teks": "Dalam pencak silat, gerakan memindahkan tubuh ke arah menghindar (samping/belakang) agar tidak terkena serangan lawan disebut... (Latihan Intensif #43)",
+      "opsi": {
+        "A": "Tangkisan",
+        "B": "Pukulan",
+        "C": "Elakan (Hindaran)",
+        "D": "Kuda-Kuda"
+      },
+      "kunci": "C",
+      "pembahasan": "Elakan atau hindaran adalah gerakan memindah tumpuan badan dari lintasan serangan musuh tanpa menyentuh (menangkis).",
+      "trik": "Menghindar lintasan = Elak."
+    },
+    {
+      "id": "smp-9-pjok-44",
+      "teks": "Dalam pencak silat, gerakan memindahkan tubuh ke arah menghindar (samping/belakang) agar tidak terkena serangan lawan disebut... (Latihan Intensif #44)",
+      "opsi": {
+        "A": "Tangkisan",
+        "B": "Pukulan",
+        "C": "Kuda-Kuda",
+        "D": "Elakan (Hindaran)"
+      },
+      "kunci": "D",
+      "pembahasan": "Elakan atau hindaran adalah gerakan memindah tumpuan badan dari lintasan serangan musuh tanpa menyentuh (menangkis).",
+      "trik": "Menghindar lintasan = Elak."
+    },
+    {
+      "id": "smp-9-pjok-45",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #45)",
+      "opsi": {
+        "A": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas",
+        "B": "Menghadap lurus ke depan",
+        "C": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "D": "Telentang menghadap langit"
+      },
+      "kunci": "A",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-46",
+      "teks": "Posisi wajah bernapas mengambil oksigen yang benar saat melakukan Renang Gaya Bebas (Crawl) adalah... (Latihan Intensif #46)",
+      "opsi": {
+        "A": "Menghadap lurus ke depan",
+        "B": "Menolehkan wajah ke satu sisi arah samping saat tangan mengayun napas",
+        "C": "Menghadap ke bawah dasar kolam sambil buka mulut",
+        "D": "Telentang menghadap langit"
+      },
+      "kunci": "B",
+      "pembahasan": "Pada gaya bebas, cara nafas adalah dengan menoleh cepat seiring tarikan lengan ke samping.",
+      "trik": "Gaya bebas (Crawl) = Miringkan kepala."
+    },
+    {
+      "id": "smp-9-pjok-47",
+      "teks": "Tindakan pertama (P3K) jika teman keracunan dari makanan atau sengatan kimia adalah... (Latihan Intensif #47)",
+      "opsi": {
+        "A": "Langsung dipijat saraf kepalanya",
+        "B": "Diolesi balsem",
+        "C": "Segera diberi air susu steril / air kelapa serta memaksa dimuntahkan sebelum dibawa ke RS",
+        "D": "Dimandikan air es"
+      },
+      "kunci": "C",
+      "pembahasan": "Susu bersifat menetralkan racun dalam perut. Jika masih baru meminumnya segera rangsang muntah basuh lendir.",
+      "trik": "Racun telan = Netralisir susu murni."
+    },
+    {
+      "id": "smp-9-pjok-48",
+      "teks": "Program latihan kebugaran yang dikerjakan secara berkelanjutan dari satu stasiun (pos) ke stasiun lain tanpa istirahat panjang disebut... (Latihan Intensif #48)",
+      "opsi": {
+        "A": "Sprint",
+        "B": "Fartlek",
+        "C": "Interval Training",
+        "D": "Circuit Training"
+      },
+      "kunci": "D",
+      "pembahasan": "Circuit training adalah latihan sirkuit pos beruntun (misal: push up -> lari keliling -> squat jump).",
+      "trik": "Stasiun/Pos = Sikruit."
+    },
+    {
+      "id": "smp-9-pjok-49",
+      "teks": "Pola penyerangan dalam sepakbola yang menggunakan strategi lemparan ke dalam atau bola mati (tendangan bebas/sudut) disebut pola... (Latihan Intensif #49)",
+      "opsi": {
+        "A": "Pola Penyerangan Bebas Terstruktur (Set-piece)",
+        "B": "Pola Man-to-man",
+        "C": "Pola Zone Defense",
+        "D": "Pola Bertahan Tersusun"
+      },
+      "kunci": "A",
+      "pembahasan": "Set-piece (bola mati) adalah salah satu skema / pola andalan untuk mencetak gol dari situasi tendangan bebas / pojok.",
+      "trik": "Bola mati = Set piece."
+    },
+    {
+      "id": "smp-9-pjok-50",
+      "teks": "Pola penyerangan dalam sepakbola yang menggunakan strategi lemparan ke dalam atau bola mati (tendangan bebas/sudut) disebut pola... (Latihan Intensif #50)",
+      "opsi": {
+        "A": "Pola Man-to-man",
+        "B": "Pola Penyerangan Bebas Terstruktur (Set-piece)",
+        "C": "Pola Zone Defense",
+        "D": "Pola Bertahan Tersusun"
+      },
+      "kunci": "B",
+      "pembahasan": "Set-piece (bola mati) adalah salah satu skema / pola andalan untuk mencetak gol dari situasi tendangan bebas / pojok.",
+      "trik": "Bola mati = Set piece."
+    }
+  ]
+}

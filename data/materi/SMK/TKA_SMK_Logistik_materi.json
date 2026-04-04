@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Dasar-Dasar Logistik",
+  "tingkatan": "SMK",
+  "jurusan": "Logistik / Manajemen / Pilihan",
+  "deskripsi": "Materi persiapan TKA Logistik untuk siswa SMK yang berfokus pada manajemen rantai pasok (SCM), pergudangan (Warehousing), transportasi, dan pengiriman barang.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Logistik dan Rantai Pasok (SCM)",
+      "konten": "Pengertian logistik, konsep Supply Chain Management (SCM), aliran barang, informasi, dan uang, serta peran strategis logistik dalam industri global.",
+      "tag": [
+        "tka smk logistik materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Manajemen Pergudangan (Warehousing)",
+      "konten": "Jenis-jenis gudang, aktivitas penerimaan barang (Receiving), penyimpanan (Storage), pengambilan (Picking), pengepakan (Packing), serta peralatan gudang (Forklift, Pallet).",
+      "tag": [
+        "tka smk logistik materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Manajemen Inventori (Persediaan)",
+      "konten": "Pentingnya manajemen stok, metode pencatatan FIFO (First In First Out), LIFO (Last In First Out), FEFO (First Expired First Out), serta teknik Stock Opname.",
+      "tag": [
+        "tka smk logistik materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Transportasi dan Distribusi",
+      "konten": "Moda transportasi (Darat, Laut, Udara, Kereta api), dokumen pengiriman (Bill of Lading, Surat Jalan), pemilihan rute, serta konsep 'Last Mile Delivery'.",
+      "tag": [
+        "tka smk logistik materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Teknologi dan K3 dalam Logistik",
+      "konten": "Penggunaan Barcode dan RFID, sistem WMS (Warehouse Management System), keselamatan kerja di gudang (K3), serta etika kurir dan petugas logistik.",
+      "tag": [
+        "tka smk logistik materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-logistik-materi",
+  "mapel": "TKA SMK: Dasar-Dasar Logistik",
+  "tag": [
+    "tka smk logistik materi"
+  ]
+}

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_SB_01",
+    "pertanyaan": "Unsur seni rupa yang paling dasar adalah...",
+    "opsi": [
+      "Titik",
+      "Garis",
+      "Bidang",
+      "Warna",
+      "Tekstur"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Titik adalah awal dari segala coretan dan gambar."
+  },
+  {
+    "id": "TKA_SMK_SB_02",
+    "pertanyaan": "Karya seni rupa yang memiliki panjang, lebar, dan tinggi (volume) disebut karya...",
+    "opsi": [
+      "1 Dimensi",
+      "3 Dimensi",
+      "2 Dimensi",
+      "4 Dimensi",
+      "Tanpa Dimensi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh: Patung, kriya, gedung. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"3 Dimensi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_03",
+    "pertanyaan": "Alat musik tradisional 'Angklung' dimainkan dengan cara...",
+    "opsi": [
+      "Dipukul",
+      "Ditiup",
+      "Digoyang / Digetarkan",
+      "Dipetik",
+      "Digesek"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Digoyang / Digetarkan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_04",
+    "pertanyaan": "Tangga nada yang terdiri dari 5 nada utama disebut tangga nada...",
+    "opsi": [
+      "Diatonis",
+      "Kromatis",
+      "Harmonis",
+      "Pentatonis",
+      "Melodis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pentatonis lazim digunakan pada musik tradisional Nusantara (Slendro & Pelog)."
+  },
+  {
+    "id": "TKA_SMK_SB_05",
+    "pertanyaan": "Unsur tari yang berkaitan dengan penguasaan gerakan tubuh disebut...",
+    "opsi": [
+      "Wirama (Irama)",
+      "Wirasa (Rasa)",
+      "Wiwit",
+      "Wicara",
+      "Wiraga (Raga)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Wiraga (Raga)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_06",
+    "pertanyaan": "Teater tradisional asli dari Betawi (Jakarta) adalah...",
+    "opsi": [
+      "Lenong",
+      "Ludruk",
+      "Ketoprak",
+      "Mamanda",
+      "Wayang Orang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Lenong\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_07",
+    "pertanyaan": "Warna primer terdiri dari warna...",
+    "opsi": [
+      "Ungu, Hijau, Oranye",
+      "Merah, Kuning, Biru",
+      "Hitam dan Putih",
+      "Cokelat, Abu-abu, Pink",
+      "Emas dan Perak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Warna primer adalah warna dasar yang tidak bisa dihasilkan dari campuran warna lain."
+  },
+  {
+    "id": "TKA_SMK_SB_08",
+    "pertanyaan": "Seni rupa yang diciptakan untuk memenuhi kebutuhan praktis/fungsi tertentu disebut seni...",
+    "opsi": [
+      "Murni (Fine Art)",
+      "Instalasi",
+      "Terapan (Applied Art)",
+      "Digital",
+      "Pertunjukan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh: Kursi ukir, batik pakaian, poster."
+  },
+  {
+    "id": "TKA_SMK_SB_09",
+    "pertanyaan": "Alat musik 'Sasando' berasal dari daerah...",
+    "opsi": [
+      "Papua",
+      "Bali",
+      "Aceh",
+      "NTT (Nusa Tenggara Timur)",
+      "Maluku"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"NTT (Nusa Tenggara Timur)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_10",
+    "pertanyaan": "Teknik menyanyi serentak dengan satu suara disebut...",
+    "opsi": [
+      "Paduan Suara",
+      "Kanon",
+      "Solo",
+      "Vokal Grup",
+      "Unisono"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Unisono\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_11",
+    "pertanyaan": "Lagu daerah 'Apuse' berasal dari...",
+    "opsi": [
+      "Papua",
+      "Sulawesi",
+      "Sumatera Utara",
+      "Kalimantan",
+      "NTB"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Papua\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_12",
+    "pertanyaan": "Proses penciptaan karya seni tanpa persiapan sebelumnya dalam teater disebut...",
+    "opsi": [
+      "Blocking",
+      "Improvisasi",
+      "Eksposisi",
+      "Klimaks",
+      "Reading"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Improvisasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_13",
+    "pertanyaan": "Patung Garuda Wisnu Kencana (GWK) di Bali merupakan karya seni rupa...",
+    "opsi": [
+      "2 Dimensi",
+      "Fotografi",
+      "3 Dimensi",
+      "Tekstil",
+      "Grafis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"3 Dimensi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_14",
+    "pertanyaan": "Alat musik 'Kolintang' berasal dari...",
+    "opsi": [
+      "Minangkabau",
+      "Madura",
+      "Dayak",
+      "Minahasa (Sulawesi Utara)",
+      "Betawi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Minahasa (Sulawesi Utara)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_15",
+    "pertanyaan": "Dalam seni tari, pola lantai garis lurus memberikan kesan...",
+    "opsi": [
+      "Lemah gemulai",
+      "Labil",
+      "Takut",
+      "Sedih",
+      "Kuat dan Tegas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kuat dan Tegas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_16",
+    "pertanyaan": "Jenis reklame yang berupa selebaran kertas dibagikan di jalan adalah...",
+    "opsi": [
+      "Leaflet / Brosur",
+      "Baliho",
+      "Spanduk",
+      "Poster",
+      "Billboard"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Leaflet / Brosur\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_17",
+    "pertanyaan": "Instrumen musik 'Gamelan' didominasi oleh alat musik berbahan logam yang disebut...",
+    "opsi": [
+      "Kordofon",
+      "Saron / Pencon (Idiomfon)",
+      "Aerofon",
+      "Membranofon",
+      "Elektrofon"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Saron / Pencon (Idiomfon)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_18",
+    "pertanyaan": "Pemeran utama wanita dalam sebuah pertunjukan teater disebut...",
+    "opsi": [
+      "Aktor",
+      "Protagonis saja",
+      "Aktris",
+      "Antagonis saja",
+      "Figuran"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Aktris\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_19",
+    "pertanyaan": "Salah satu fungsi pameran seni rupa di sekolah adalah...",
+    "opsi": [
+      "Mencari uang jajan",
+      "Tempat berjualan makanan",
+      "Hanya formalitas",
+      "Media apresiasi dan edukasi bagi siswa",
+      "Mempersulit siswa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Media apresiasi dan edukasi bagi siswa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_20",
+    "pertanyaan": "Warna hijau merupakan campuran dari warna...",
+    "opsi": [
+      "Merah + Kuning",
+      "Merah + Biru",
+      "Hitam + Putih",
+      "Cokelat + Oranye",
+      "Biru + Kuning"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Biru + Kuning\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_21",
+    "pertanyaan": "Teknik melukis dengan tempelan potongan kertas atau bahan lain disebut...",
+    "opsi": [
+      "Mozaik / Kolase",
+      "Aquarel",
+      "Pointilis",
+      "Plakat",
+      "Dussel"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Mozaik / Kolase\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_22",
+    "pertanyaan": "Alat musik 'Tifa' berasal dari...",
+    "opsi": [
+      "Sumatera",
+      "Maluku dan Papua",
+      "Jawa",
+      "Kalimantan",
+      "Bali"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Maluku dan Papua\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_23",
+    "pertanyaan": "Lagu 'Indonesia Raya' diciptakan oleh...",
+    "opsi": [
+      "Ismail Marzuki",
+      "Ibu Sud",
+      "W.R. Supratman",
+      "Kusbini",
+      "C. Simanjuntak"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"W.R. Supratman\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_24",
+    "pertanyaan": "Tari 'Kecak' menggunakan suara manusia sebagai pengiringnya, berasal dari...",
+    "opsi": [
+      "Lombok",
+      "Madura",
+      "Banten",
+      "Bali",
+      "Ponorogo"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bali\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_25",
+    "pertanyaan": "Lembaga pemerintah yang mengurusi pengembangan karya kreatif di Indonesia adalah...",
+    "opsi": [
+      "Kemendikbudristek",
+      "Kemenpora",
+      "LIPI",
+      "BPOM",
+      "Bekraf / Kemenparekraf"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Bekraf / Kemenparekraf\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_26",
+    "pertanyaan": "Aspek 'Wirasa' dalam seni tari berkaitan dengan...",
+    "opsi": [
+      "Penghayatan dan ekspresi perasaan",
+      "Gerakan kaki",
+      "Ketepatan irama musik",
+      "Kostum yang mahal",
+      "Durasi tarian"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Penghayatan dan ekspresi perasaan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_27",
+    "pertanyaan": "Salah satu peninggalan seni rupa masa Islam adalah...",
+    "opsi": [
+      "Patung Budha",
+      "Kaligrafi",
+      "Candi",
+      "Mosaik Romawi",
+      "Lukisan dinding gua"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kaligrafi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_28",
+    "pertanyaan": "Properti utama dalam tari 'Piring' adalah...",
+    "opsi": [
+      "Payung",
+      "Kipas",
+      "Piring",
+      "Keris",
+      "Selendang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Piring\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_29",
+    "pertanyaan": "Jenis musik yang lahir dari percampuran budaya Portugis dan lokal Jakarta adalah...",
+    "opsi": [
+      "Dangdut",
+      "Campursari",
+      "Jazz",
+      "Kroncong",
+      "Rock"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kroncong\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_30",
+    "pertanyaan": "Tokoh 'Antagonis' dalam sebuah drama biasanya berperan sebagai...",
+    "opsi": [
+      "Pahlawan",
+      "Orang bijak",
+      "Pelawak",
+      "Narator",
+      "Penentang / Jahat / Penghambat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Penentang / Jahat / Penghambat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_31",
+    "pertanyaan": "Garis yang melengkung memberikan kesan...",
+    "opsi": [
+      "Luwu / Lemas / Dinamis",
+      "Kaku",
+      "Tegas",
+      "Stabil",
+      "Marah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Luwu / Lemas / Dinamis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_32",
+    "pertanyaan": "Teknik cetak pada seni grafis yang menggunakan klise timbul disebut cetak...",
+    "opsi": [
+      "Dalam",
+      "Tinggi (Relief)",
+      "Datar",
+      "Saring (Sablon)",
+      "Foto"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tinggi (Relief)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_33",
+    "pertanyaan": "Musik yang sangat populer di Indonesia dengan ciri khas kendang dan seruling adalah...",
+    "opsi": [
+      "Samba",
+      "Reggae",
+      "Dangdut",
+      "Blues",
+      "Metal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Dangdut\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_34",
+    "pertanyaan": "Tari 'Saman' berasal dari provinsi...",
+    "opsi": [
+      "Sumatera Barat",
+      "Riau",
+      "Jambi",
+      "Aceh",
+      "Sumatera Selatan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Aceh\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_35",
+    "pertanyaan": "Aspek terpenting dalam pameran seni rupa agar karya aman dan indah dilihat adalah...",
+    "opsi": [
+      "Lampu dekorasi saja",
+      "Banyaknya pengunjung",
+      "Harga tiket",
+      "Musik kencang",
+      "Tata letak (Layout) dan pencahayaan (Lighting)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tata letak (Layout) dan pencahayaan (Lighting)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_36",
+    "pertanyaan": "Simbol warna biru dalam seni rupa sering diasosiasikan dengan...",
+    "opsi": [
+      "Ketenangan / Kesedihan / Kedalaman",
+      "Keberanian",
+      "Kekayaan",
+      "Kemarahan",
+      "Suci"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ketenangan / Kesedihan / Kedalaman\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_37",
+    "pertanyaan": "Seni rupa yang proses pembuatannya menggunakan teknik gores, cukil, atau cetak adalah seni...",
+    "opsi": [
+      "Lukis",
+      "Grafis",
+      "Patung",
+      "Kriya",
+      "Arsitektur"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Grafis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_38",
+    "pertanyaan": "Suara tinggi pria dalam paduan suara disebut...",
+    "opsi": [
+      "Sopran",
+      "Alto",
+      "Tenor",
+      "Bass",
+      "Bariton"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sopran (tinggi wanita), Tenor (tinggi pria)."
+  },
+  {
+    "id": "TKA_SMK_SB_39",
+    "pertanyaan": "Latar belakang panggung dalam teater disebut...",
+    "opsi": [
+      "Properti",
+      "Kostum",
+      "Lighting",
+      "Setting / Dekorasi",
+      "Sound"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Setting / Dekorasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_40",
+    "pertanyaan": "Salah satu pelukis legendaris Indonesia dengan gaya ekspresionisme adalah...",
+    "opsi": [
+      "Raden Saleh",
+      "Basuki Abdullah",
+      "Sudjojono",
+      "Dullah",
+      "Affandi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Affandi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_41",
+    "pertanyaan": "Teknik pewarnaan gradasi bertujuan untuk menciptakan kesan...",
+    "opsi": [
+      "Dimensi dan pencahayaan (gelap terang)",
+      "Berwarna-warni",
+      "Rusak",
+      "Kotor",
+      "Rata"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Dimensi dan pencahayaan (gelap terang)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_42",
+    "pertanyaan": "Cara memainkan biola adalah...",
+    "opsi": [
+      "Ditiup",
+      "Digesek",
+      "Dipetik",
+      "Dipukul",
+      "Diguncang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Digesek\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_43",
+    "pertanyaan": "Tari 'Pendet' merupakan tari penyambutan tamu dari...",
+    "opsi": [
+      "Bangka Belitung",
+      "Gorontalo",
+      "Bali",
+      "Maluku",
+      "Lampung"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bali\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_44",
+    "pertanyaan": "Istilah 'Scenario' dalam teater berarti...",
+    "opsi": [
+      "Pemain cadangan",
+      "Lampu panggung",
+      "Alat musik pengiring",
+      "Naskah alur cerita",
+      "Gedung teater"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Naskah alur cerita\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_45",
+    "pertanyaan": "Contoh karya seni kriya (kerajinan) yang mendunia dari Indonesia adalah...",
+    "opsi": [
+      "Mobil listrik",
+      "Kamera",
+      "Laptop",
+      "Semen",
+      "Batik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Batik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_46",
+    "pertanyaan": "Warna tersier merupakan campuran dari...",
+    "opsi": [
+      "Warna primer + Warna sekunder",
+      "Warna primer + Warna primer",
+      "Hitam + Putih",
+      "Kuning + Biru",
+      "Semua warna"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Warna primer + Warna sekunder\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_47",
+    "pertanyaan": "Dalam apresiasi seni, tahapan 'Deskripsi' berarti...",
+    "opsi": [
+      "Menilai harga karya",
+      "Mencatat data fisik dan apa yang terlihat pada karya",
+      "Mengejek karya",
+      "Menyalin karya",
+      "Membuang karya"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mencatat data fisik dan apa yang terlihat pada karya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_48",
+    "pertanyaan": "Apa keunikan tari 'Saman' dibandingkan tarian lainnya?",
+    "opsi": [
+      "Menggunakan topeng",
+      "Hanya dilakukan satu orang",
+      "Kekompakan gerakan tepukan tangan dan badan penarinya yang sangat cepat",
+      "Pakai piring banyak",
+      "Dilakukan di air"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kekompakan gerakan tepukan tangan dan badan penarinya yang sangat cepat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_49",
+    "pertanyaan": "Nilai estetika sebuah karya seni berarti nilai...",
+    "opsi": [
+      "Ekonomi",
+      "Kekuatan",
+      "Kegunaan",
+      "Keindahan",
+      "Kebohongan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Keindahan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SB_50",
+    "pertanyaan": "Mengapa penting bagi siswa SMK mempelajari Seni Budaya nasional?",
+    "opsi": [
+      "Supaya tidak stres saja",
+      "Cuma pelengkap jam pelajaran",
+      "Agar jago menggambar saja",
+      "Tidak ada gunanya",
+      "Untuk melestarikan identitas bangsa dan menumbuhkan kreativitas yang berkarakter"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Untuk melestarikan identitas bangsa dan menumbuhkan kreativitas yang berkarakter\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

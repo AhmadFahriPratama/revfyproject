@@ -1,0 +1,9 @@
+{
+  "id": "autonomous-update-policy",
+  "policy": [
+    "Setiap batch baru harus melewati normalisasi, index refresh, dan validasi.",
+    "Generator besar harus menjaga distribusi jawaban tetap seimbang.",
+    "Konten baru wajib memiliki metadata minimal untuk pencarian dan relasi.",
+    "Perubahan besar dicatat di release notes data."
+  ]
+}

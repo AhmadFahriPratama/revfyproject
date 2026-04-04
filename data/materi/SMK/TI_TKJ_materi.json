@@ -1,0 +1,53 @@
+{
+  "judul": "Teknik Komputer dan Jaringan (TKJ)",
+  "tingkatan": "SMK",
+  "jurusan": "TI / TKJ",
+  "deskripsi": "Materi mengenai perakitan komputer, instalasi sistem operasi, dasar jaringan (LAN/WAN), administrasi server, serta keamanan jaringan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar Perakitan dan Perawatan Komputer",
+      "konten": "Pengenalan perangkat keras komputer (CPU, RAM, Motherboard, PSU, Storage). Prosedur perakitan yang aman, pengaturan BIOS/UEFI, serta teknik troubleshooting perangkat keras.",
+      "tag": [
+        "ti tkj materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Instalasi Sistem Operasi dan Perangkat Lunak",
+      "konten": "Langkah-langkah instalasi Sistem Operasi (Windows dan Linux). Pengelolaan partisi harddisk, driver perangkat, serta instalasi aplikasi standar perkantoran dan utilitas.",
+      "tag": [
+        "ti tkj materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Dasar-Dasar Jaringan Komputer",
+      "konten": "Pengenalan model OSI 7 Layer dan TCP/IP. Topologi jaringan (Star, Bus, Mesh), media transmisi (Kabel UTP, Fiber Optic, Wireless), serta pengalamatan IP Address (IPv4 dan IPv6).",
+      "tag": [
+        "ti tkj materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Administrasi Infrastruktur Jaringan",
+      "konten": "Konfigurasi perangkat jaringan seperti Switch dan Router. Manajemen bandwidth, pembuatan Virtual LAN (VLAN), routing statis dan dinamis, serta instalasi akses internet (Gateway).",
+      "tag": [
+        "ti tkj materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Administrasi Sistem Jaringan (Server)",
+      "konten": "Pengelolaan sistem operasi server. Konfigurasi layanan server standar seperti DHCP Server, DNS Server, Web Server (HTTP), FTP Server, serta Remote Server (SSH).",
+      "tag": [
+        "ti tkj materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "ti-tkj-materi",
+  "mapel": "Teknik Komputer dan Jaringan (TKJ)",
+  "tag": [
+    "ti tkj materi"
+  ]
+}

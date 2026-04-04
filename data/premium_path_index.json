@@ -1,0 +1,20 @@
+{
+  "id": "premium-path-index",
+  "paths": [
+    {
+      "name": "UTBK Intensive",
+      "mode": "intensive",
+      "roadmap": "roadmap/utbk_roadmap.json"
+    },
+    {
+      "name": "CPNS Sprint",
+      "mode": "sprint",
+      "roadmap": "roadmap/cpns_roadmap.json"
+    },
+    {
+      "name": "TKA School Exit",
+      "mode": "structured",
+      "roadmap": "roadmap/tka_smp_roadmap.json"
+    }
+  ]
+}

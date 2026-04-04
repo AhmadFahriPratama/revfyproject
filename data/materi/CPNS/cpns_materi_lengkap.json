@@ -1,0 +1,147 @@
+{
+  "id": "mat-cpns",
+  "judul": "Materi Lengkap CPNS",
+  "tingkat": "Karier / CPNS",
+  "kategori": "CPNS",
+  "deskripsi": "Materi lengkap persiapan seleksi CPNS yang mencakup TIU, TWK, TKP, dan strategi CAT.",
+  "tag": [
+    "cpns",
+    "casn",
+    "tiu",
+    "twk",
+    "tkp",
+    "cat"
+  ],
+  "daftarMateri": [
+    {
+      "id": "mat-cpns-tiu",
+      "judul": "Tes Intelegensia Umum (TIU)",
+      "deskripsi": "TIU mengukur kemampuan verbal, numerik, logika, dan analitis.",
+      "tag": [
+        "tiu",
+        "verbal",
+        "numerik",
+        "analogi",
+        "silogisme"
+      ],
+      "konten": [
+        {
+          "bab": "1. Verbal",
+          "teks": "Bagian verbal menguji analogi, sinonim, antonim, serta hubungan makna. Kunci utamanya adalah mengenali pola relasi kata, bukan sekadar bunyi atau bentuk kata."
+        },
+        {
+          "bab": "2. Logika dan Silogisme",
+          "teks": "Silogisme mengharuskan peserta menarik kesimpulan hanya dari premis yang tersedia. Jawaban yang benar harus sah secara logis dan tidak menambahkan asumsi baru."
+        },
+        {
+          "bab": "3. Numerik",
+          "teks": "Materi numerik mencakup deret, aritmetika dasar, persen, rasio, dan soal cerita. Fokus utama adalah ketepatan pola dan efisiensi perhitungan."
+        },
+        {
+          "bab": "4. Analitis",
+          "teks": "Soal analitis biasanya berbentuk pengelompokan, urutan, atau relasi kondisi. Kerjakan dengan memetakan aturan inti sebelum menilai tiap opsi."
+        },
+        {
+          "bab": "5. Strategi TIU",
+          "teks": "Mulailah dari soal yang prosesnya paling pendek, tandai soal yang memakan waktu, lalu kembali di akhir agar ritme pengerjaan tetap stabil."
+        }
+      ]
+    },
+    {
+      "id": "mat-cpns-twk",
+      "judul": "Tes Wawasan Kebangsaan (TWK)",
+      "deskripsi": "TWK menguji Pancasila, UUD 1945, NKRI, Bhinneka Tunggal Ika, sejarah, dan tata negara.",
+      "tag": [
+        "twk",
+        "pancasila",
+        "uud 1945",
+        "nkri",
+        "sejarah"
+      ],
+      "konten": [
+        {
+          "bab": "1. Pancasila",
+          "teks": "Peserta perlu memahami makna setiap sila, posisi Pancasila sebagai dasar negara, dan penerapannya dalam kehidupan berbangsa."
+        },
+        {
+          "bab": "2. UUD 1945",
+          "teks": "Bagian ini meliputi fungsi konstitusi, amandemen, serta peran lembaga negara menurut UUD 1945."
+        },
+        {
+          "bab": "3. NKRI dan Bhinneka",
+          "teks": "Fokus pada persatuan, integrasi nasional, bentuk negara, serta penghargaan terhadap keberagaman."
+        },
+        {
+          "bab": "4. Sejarah Nasional",
+          "teks": "Materi sejarah mencakup tokoh, peristiwa, dan tonggak penting yang membentuk perjalanan bangsa Indonesia."
+        },
+        {
+          "bab": "5. Strategi TWK",
+          "teks": "Pilih jawaban yang paling sejalan dengan semangat persatuan, demokrasi, hukum, etika publik, dan tanggung jawab warga negara."
+        }
+      ]
+    },
+    {
+      "id": "mat-cpns-tkp",
+      "judul": "Tes Karakteristik Pribadi (TKP)",
+      "deskripsi": "TKP mengukur orientasi pelayanan, profesionalisme, integritas, adaptasi, jejaring kerja, dan kepekaan sosial.",
+      "tag": [
+        "tkp",
+        "pelayanan publik",
+        "integritas",
+        "profesionalisme"
+      ],
+      "konten": [
+        {
+          "bab": "1. Pelayanan Publik",
+          "teks": "Jawaban terbaik biasanya menunjukkan kepedulian pada pengguna layanan, kesantunan, dan solusi yang tetap sesuai prosedur."
+        },
+        {
+          "bab": "2. Integritas dan Etika",
+          "teks": "Peserta perlu memilih respons yang jujur, bertanggung jawab, dan tidak mencari jalan pintas yang melanggar aturan."
+        },
+        {
+          "bab": "3. Kerja Sama",
+          "teks": "Pilihan terbaik dalam TKP umumnya mendukung koordinasi, komunikasi sehat, dan penyelesaian masalah bersama."
+        },
+        {
+          "bab": "4. Adaptasi dan TIK",
+          "teks": "ASN dituntut adaptif terhadap perubahan, mampu memanfaatkan teknologi dengan tepat, dan sensitif terhadap sosial budaya."
+        },
+        {
+          "bab": "5. Strategi TKP",
+          "teks": "Hindari jawaban yang emosional, pasif, atau menyalahkan pihak lain. Cari opsi yang paling menunjukkan pelayanan, ketenangan, dan tanggung jawab."
+        }
+      ]
+    },
+    {
+      "id": "mat-cpns-cat",
+      "judul": "Strategi CAT",
+      "deskripsi": "Materi strategi CAT untuk membangun ritme pengerjaan dan evaluasi hasil tryout.",
+      "tag": [
+        "cat",
+        "manajemen waktu",
+        "simulasi"
+      ],
+      "konten": [
+        {
+          "bab": "1. Manajemen Waktu",
+          "teks": "Bagi waktu berdasarkan jenis soal. Jangan biarkan satu soal menghabiskan waktu terlalu lama di awal tes."
+        },
+        {
+          "bab": "2. Teknik Eliminasi",
+          "teks": "Eliminasi membantu mempersempit opsi yang jelas salah, terutama pada TIU dan TWK."
+        },
+        {
+          "bab": "3. Simulasi Berkala",
+          "teks": "Tryout dengan waktu nyata membantu membangun daya tahan fokus dan memahami kelemahan utama."
+        },
+        {
+          "bab": "4. Evaluasi Hasil",
+          "teks": "Analisis kesalahan berdasarkan subtes dan pola kekeliruan, bukan hanya dari skor akhir."
+        }
+      ]
+    }
+  ],
+  "mapel": "Materi Lengkap CPNS"
+}

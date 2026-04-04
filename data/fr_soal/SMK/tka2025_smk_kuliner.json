@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_KLN_01",
+    "pertanyaan": "FIELD REPORT 2025 (Kuliner): Pada ujian praktik TKA SMK 2025, muncul pertanyaan mengenai efisiensi bahan. Apa yang dimaksud dengan konsep 'Zero Waste' dalam manajemen dapur industri modern?",
+    "opsi": [
+      "Meminimalkan sisa bahan (limbah) dengan optimalisasi penggunaan (misal: sisa lemak daging untuk kaldu/stock)",
+      "Memasak tanpa menggunakan bumbu sama sekali",
+      "Hanya menggunakan bahan organik impor",
+      "Membuang semua sisa bahan agar dapur tetap bersih",
+      "Mengurangi porsi makanan kepada konsumen"
+    ],
+    "jawaban": "A",
+    "pembahasan": "FR 2025 menekankan pada 'Sustainability'. Konsep Zero Waste bertujuan mengolah sisa bahan yang masih layak menjadi produk bernilai tambah (stock, garnish, dsb).",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KLN_02",
+    "pertanyaan": "FIELD REPORT 2025 (Higiene): Dalam prosedur sanitasi telur untuk industri bakery, mengapa dilarang keras menggunakan air panas saat pencucian?",
+    "opsi": [
+      "Menyebabkan cangkang menjadi rapuh dan mudah retak",
+      "Merusak lapisan pelindung alami (kutikula) dan memperbesar pori-pori, sehingga kuman mudah masuk ke dalam telur",
+      "Membuat telur menjadi matang sebagian (par-boiled)",
+      "Merusak kandungan protein albumin",
+      "Mengubah warna kuning telur menjadi kehijauan"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Sering muncul di FR 2024-2025. Air panas membuka pori-pori cangkang, meningkatkan risiko kontaminasi Salmonella.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KLN_03",
+    "pertanyaan": "FIELD REPORT 2025 (Industry Knowledge): Dalam manajemen banquet hotel bintang 5, seorang 'Saucier' bertanggung jawab secara khusus pada...",
+    "opsi": [
+      "Mengatur rotasi piring di meja buffet",
+      "Memotong sayuran untuk salad saja",
+      "Menyiapkan semua jenis saus dan olahan makanan berkuah (stews)",
+      "Membuat hidangan berbahan dasar telur",
+      "Mengelola inventaris gudang kering"
+    ],
+    "jawaban": "C",
+    "pembahasan": "FR 2025 menanyakan detail 'Brigade de Cuisine'. Saucier adalah posisi krusial untuk kualitas rasa hidangan utama.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KLN_04",
+    "pertanyaan": "FIELD REPORT 2025 (Teknik): Peserta melaporkan soal perbandingan teknik memasak. Teknik 'Braising' paling tepat digunakan untuk jenis bahan makanan...",
+    "opsi": [
+      "Potongan daging yang lunak (tenderloin)",
+      "Sayuran hijau seperti bayam",
+      "Ikan yang memiliki tekstur rapuh",
+      "Potongan daging yang keras dengan sedikit cairan dalam wadah tertutup",
+      "Buah-buahan segar untuk garnish"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Braising (Slow Cooking) efektif untuk melunakkan jaringan ikat pada daging yang keras.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KLN_05",
+    "pertanyaan": "FIELD REPORT 2025 (Teknis): Apa tujuan utama dari proses 'Resting' pada daging steak setelah dipanggang?",
+    "opsi": [
+      "Biar dagingnya jadi dingin",
+      "Hanya mengikuti prosedur standar tanpa alasan ilmiah",
+      "Agar bumbu bisa menguap",
+      "Memudahkan pemotongan agar tidak berdarah",
+      "Membiarkan serat otot relaksasi sehingga jus (cairan) daging terdistribusi merata dan tetap juicy"
+    ],
+    "jawaban": "E",
+    "pembahasan": "FR 2025 menuntut pemahaman teknis mendalam. Resting krusial agar steak tidak kering saat dipotong.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

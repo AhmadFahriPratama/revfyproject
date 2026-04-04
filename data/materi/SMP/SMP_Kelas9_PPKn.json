@@ -1,0 +1,34 @@
+{
+  "id": "materi-smp-kls9-ppkn",
+  "tingkat": "SMP Kelas 9",
+  "mapel": "PPKn",
+  "materi": "Dinamika Pancasila, Pokok pikiran UUD 1945, Kedaulatan Negara, Harmoni Keberagaman",
+  "deskripsi": "PPKn Kelas 9 berisikan materi ideologi kebangsaan tahap akhir, pemahaman konstitusi, kedaulatan NKRI, resolusi konflik keragaman SARA, hingga konsep bela negara.",
+  "konten": [
+    {
+      "bab": "1. Dinamika Perwujudan Pancasila sebagai Dasar Negara",
+      "teks": "Sejarah ancaman ideologi merubah Pancasila (DI/TII, PKI) masa lalu, dinamika Orde Lama/Baru/Reformasi, serta membuktikan bahwa nilai Pancasila itu ideologi Terbuka dng keluwesan zaman."
+    },
+    {
+      "bab": "2. Pokok Pikiran Pembukaan UUD NRI 1945",
+      "teks": "Makna alinea pertama (Kemerdekaan hak segala bangsa) hingga keempat (tujuan negara). Memahami 4 pokok pikiran dasar di dalamnya (Persatuan, Keadilan Kemanusiaan, Kedaulatan, dll)."
+    },
+    {
+      "bab": "3. Kedaulatan Negara Kesatuan Republik Indonesia",
+      "teks": "Teori kedaulatan mutlak negara (rakyat / raja / hukum / Tuhan). Indonesia menganut Kedaulatan Rakyat sesuai UUD NRI. Lembaga pelaksana negara pusat tingkat atas (MPR DPR Presiden MA MK dll)."
+    },
+    {
+      "bab": "4. Keberagaman Masyarakat Indonesia dlm Bingkai Bhinneka Tunggal Ika",
+      "teks": "Faktor rincian konkrit perbedaan suku/agama. Menangani konflik destruktif etnosentrisme radikalis. Integrasi kohesi harmoni dlm pembangunan kesejahteraan nasional."
+    },
+    {
+      "bab": "5. Harmoni Keberagaman dalam Bidang Sosial, Budaya, Ekonomi dan Gender",
+      "teks": "Menghargai emansipasi gender wanita dlm struktur sosial. Memahami realitas kesenjangan ekonomi. Permasalahan penyakit sosial di masa modern (Korupsi, Narkoba, Kemiskinan)."
+    },
+    {
+      "bab": "6. Bela Negara dalam NKRI",
+      "teks": "Subtansi UUD pasal soal Pertahanan Bela Negara. Kasus-kasus ancaman kedaulatan militer. Wujud cinta bela NKRI untuk seorang siswa/mahasiswa pelajar sipil."
+    }
+  ],
+  "tag": ["smp-9", "ppkn", "pancasila", "uud1945", "kedaulatan", "bela-negara", "keberagaman"]
+}

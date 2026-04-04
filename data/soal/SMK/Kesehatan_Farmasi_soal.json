@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KS_FR_01",
+    "pertanyaan": "Lambang farmasi bergambar cawan dan ular disebut dengan...",
+    "opsi": [
+      "Bowl of Hygieia",
+      "Staff of Asclepius",
+      "Red Cross",
+      "Caduceus",
+      "Green Cross"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Hygieia adalah dewi kesehatan dalam mitologi Yunani."
+  },
+  {
+    "id": "KS_FR_02",
+    "pertanyaan": "Obat yang dapat dibeli bebas di apotek tanpa resep dokter ditandai dengan lingkaran berwarna...",
+    "opsi": [
+      "Kuning",
+      "Hijau dengan garis tepi hitam",
+      "Biru dengan garis tepi hitam",
+      "Merah dengan huruf K",
+      "Putih Kelabu"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Lingkaran hijau adalah simbol obat bebas."
+  },
+  {
+    "id": "KS_FR_03",
+    "pertanyaan": "Obat Bebas Terbatas yang menyertakan tanda peringatan (P.No 1 - P.No 6) ditandai dengan lingkaran berwarna...",
+    "opsi": [
+      "Merah",
+      "Hijau",
+      "Biru dengan garis tepi hitam",
+      "Hitam Putih",
+      "Kuning"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Obat bebas terbatas boleh dibeli tanpa resep namun harus memperhatikan peringatan di kemasan."
+  },
+  {
+    "id": "KS_FR_04",
+    "pertanyaan": "Obat keras yang hanya boleh dibeli dengan resep dokter ditandai dengan lingkaran berwarna...",
+    "opsi": [
+      "Hijau",
+      "Biru",
+      "Kuning dengan gambar ular",
+      "Merah dengan huruf K (hitam) di tengahnya",
+      "Ungu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Simbol ini menunjukkan obat tersebut memiliki efek kuat dan risiko tinggi jika salah pakai."
+  },
+  {
+    "id": "KS_FR_05",
+    "pertanyaan": "Alat yang digunakan untuk menumbuk dan mencampur bahan obat secara manual di laboratorium farmasi disebut...",
+    "opsi": [
+      "Gelas Ukur",
+      "Erlenmeyer",
+      "Pipet Tetes",
+      "Cawan Penguap",
+      "Mortar dan Stempel"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Lumping (mortar) dan alu (stempel) adalah alat wajib peracik obat."
+  },
+  {
+    "id": "KS_FR_06",
+    "pertanyaan": "Obat dalam bentuk serbuk yang telah dibagi menjadi bagian-bagian kecil (biasanya dibungkus kertas perkamen) disebut...",
+    "opsi": [
+      "Pulveres (Puyer)",
+      "Kapsul",
+      "Tablet",
+      "Suppositoria",
+      "Sirup"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pulveres memudahkan pemberian obat dosis kecil terutama bagi anak-anak."
+  },
+  {
+    "id": "KS_FR_07",
+    "pertanyaan": "Bahan alamiah yang dipergunakan sebagai obat yang belum mengalami pengolahan apapun (kecuali pengeringan) disebut...",
+    "opsi": [
+      "Ekstrak",
+      "Simplisia",
+      "Infusa",
+      "Dekokta",
+      "Tingtur"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Simplisia dapat berasal dari nabati (tumbuhan), hewani (hewan), atau pelikan (mineral)."
+  },
+  {
+    "id": "KS_FR_08",
+    "pertanyaan": "Nama latin dari rimpang kunyit yang sering digunakan sebagai obat lambung adalah...",
+    "opsi": [
+      "Zingiberis Rhizoma",
+      "Kaempferiae Rhizoma",
+      "Curcumae Domesticae Rhizoma",
+      "Languatis Rhizoma",
+      "Boesenbergiae Rhizoma"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Curcuma domestica (Kunyit) berkhasiat sebagai kurkuminoid untuk pencernaan."
+  },
+  {
+    "id": "KS_FR_09",
+    "pertanyaan": "Singkatan 's.d.d' (semel de die) pada resep dokter berarti aturan pakai...",
+    "opsi": [
+      "Dua kali sehari",
+      "Tiga kali sehari",
+      "Empat kali sehari",
+      "Satu kali sehari",
+      "Setiap jam"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sering ditulis s.1.dd atau s.d.d saja. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Satu kali sehari\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KS_FR_10",
+    "pertanyaan": "Singkatan 't.d.d' (ter de die) pada resep dokter berarti aturan pakai...",
+    "opsi": [
+      "Satu kali sehari",
+      "Dua kali sehari",
+      "Segera",
+      "Sebelum makan",
+      "Tiga kali sehari"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Obat diminum tiga kali dalam rentang 24 jam."
+  },
+  {
+    "id": "KS_FR_11",
+    "pertanyaan": "Singkatan 'a.c' (ante coenam) dalam instruksi minum obat berarti...",
+    "opsi": [
+      "Sebelum makan",
+      "Setelah makan",
+      "Bersama makan",
+      "Sebelum tidur",
+      "Saat perut kosong"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Obat diminum sekitar 30-60 menit sebelum makan."
+  },
+  {
+    "id": "KS_FR_12",
+    "pertanyaan": "Singkatan 'p.c' (post coenam) dalam instruksi minum obat berarti...",
+    "opsi": [
+      "Sebelum makan",
+      "Setelah makan",
+      "Setiap hari",
+      "Pagi hari",
+      "Malam hari"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Obat diminum setelah perut terisi makanan."
+  },
+  {
+    "id": "KS_FR_13",
+    "pertanyaan": "Ilmu yang mempelajari tentang obat-obatan, asal, sifat, efek, dan kegunaannya dinamakan...",
+    "opsi": [
+      "Patologi",
+      "Anatomi",
+      "Farmakologi",
+      "Mikrobiologi",
+      "Radiologi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Farmakologi adalah inti dari pendidikan farmasi."
+  },
+  {
+    "id": "KS_FR_14",
+    "pertanyaan": "Rute pemberian obat yang dimasukkan di bawah lidah sampai larut disebut...",
+    "opsi": [
+      "Oral",
+      "Bukal",
+      "Rektal",
+      "Sublingual",
+      "Topikal"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Obat sublingual menyerap langsung ke pembuluh darah tanpa melewati saluran pencernaan."
+  },
+  {
+    "id": "KS_FR_15",
+    "pertanyaan": "Tempat penyimpanan obat yang menggunakan prinsip FIFO (First In First Out) artinya...",
+    "opsi": [
+      "Obat yang mahal dikeluarkan dulu",
+      "Obat yang baru datang dikeluarkan dulu",
+      "Obat disusun berdasarkan warna",
+      "Obat yang paling manjur di depan",
+      "Obat yang pertama kali masuk (stok lama) harus dikeluarkan/dijual terlebih dahulu"
+    ],
+    "jawaban": 4,
+    "pembahasan": "FIFO mencegah stok lama tertimbun dan kadaluarsa di gudang."
+  },
+  {
+    "id": "KS_FR_16",
+    "pertanyaan": "Sistem pengelolaan obat FEFO (First Expired First Out) artinya...",
+    "opsi": [
+      "Obat yang tanggal kadaluarsanya paling dekat dikeluarkan lebih dulu",
+      "Obat yang murah di depan",
+      "Obat yang ukurannya kecil di belakang",
+      "Obat cair diletakkan di bawah",
+      "Obat harus dikeluarkan setiap jam"
+    ],
+    "jawaban": 0,
+    "pembahasan": "FEFO lebih akurat mencegah obat kadaluarsa terbeli oleh pasien."
+  },
+  {
+    "id": "KS_FR_17",
+    "pertanyaan": "Sediaan obat berbentuk setengah padat yang mudah dioleskan pada kulit atau selaput lendir disebut...",
+    "opsi": [
+      "Tablet",
+      "Salep (Unguentum)",
+      "Emulsi",
+      "Injeksi",
+      "Larutan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Salep digunakan untuk pengobatan luar (topikal)."
+  },
+  {
+    "id": "KS_FR_18",
+    "pertanyaan": "Alat yang digunakan untuk mengukur volume cairan secara teliti di laboratorium adalah...",
+    "opsi": [
+      "Beaker Glass",
+      "Tabung Reaksi",
+      "Gelas Ukur",
+      "Corong",
+      "Rak Tabung"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Gelas ukur memiliki skala ml yang presisi."
+  },
+  {
+    "id": "KS_FR_19",
+    "pertanyaan": "Obat yang digunakan untuk menurunkan suhu tubuh (demam) disebut golongan...",
+    "opsi": [
+      "Analgetik",
+      "Antibiotik",
+      "Antasida",
+      "Antipiretik",
+      "Antiemetik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh antipiretik: Parasetamol. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Antipiretik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KS_FR_20",
+    "pertanyaan": "Obat yang digunakan untuk menghilangkan atau meredakan rasa nyeri disebut...",
+    "opsi": [
+      "Antibiotik",
+      "Vaksin",
+      "Stomakik",
+      "Laksatif",
+      "Analgetik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Analgetik bekerja menghambat sinyal nyeri ke otak."
+  },
+  {
+    "id": "KS_FR_21",
+    "pertanyaan": "Obat yang berfungsi membunuh atau menghambat pertumbuhan bakteri penyebab infeksi disebut...",
+    "opsi": [
+      "Antibiotik",
+      "Antipiretik",
+      "Antidepresan",
+      "Antihipertensi",
+      "Antihistamin"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Antibiotik harus diminum sampai habis sesuai anjuran dokter untuk mencegah resistensi."
+  },
+  {
+    "id": "KS_FR_22",
+    "pertanyaan": "Vitamin C memiliki nama kimia lain yaitu...",
+    "opsi": [
+      "Retinol",
+      "Asam Askorbat",
+      "Tiamin",
+      "Kalsiferol",
+      "Tokoferol"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penting untuk meningkatkan daya tahan tubuh (imunitas)."
+  },
+  {
+    "id": "KS_FR_23",
+    "pertanyaan": "Vitamin A sangat penting untuk menjaga kesehatan...",
+    "opsi": [
+      "Gigi",
+      "Lambung",
+      "Mata",
+      "Sendi",
+      "Telinga"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kekurangan vitamin A menyebabkan rabun senja."
+  },
+  {
+    "id": "KS_FR_24",
+    "pertanyaan": "Sediaan obat cair yang mengandung partikel padat halus yang tidak larut tetapi terdispersi dalam cairan pembawa disebut...",
+    "opsi": [
+      "Larutan (Solution)",
+      "Emulsi",
+      "Elixir",
+      "Suspensi",
+      "Injeksi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Suspensi harus dikocok terlebih dahulu (shake well) sebelum diminum."
+  },
+  {
+    "id": "KS_FR_25",
+    "pertanyaan": "Sediaan obat cair dua fase yang mengandung minyak dan air yang disatukan dengan zat pengemulsi disebut...",
+    "opsi": [
+      "Suspensi",
+      "Larutan",
+      "Gel",
+      "Pasta",
+      "Emulsi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh emulsi adalah minyak ikan. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Emulsi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KS_FR_26",
+    "pertanyaan": "Alat yang digunakan untuk menimbang bahan obat dengan ketelitian miligram disebut...",
+    "opsi": [
+      "Timbangan Digital / Gram Halus",
+      "Timbangan Dacin",
+      "Timbangan Badan",
+      "Timbangan Bayi",
+      "Timbangan Emas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Akurasi timbangan sangat krusial dalam farmasi agar tidak terjadi over-dosis."
+  },
+  {
+    "id": "KS_FR_27",
+    "pertanyaan": "Simplisia jahe yang berkhasiat menghangatkan tubuh disebut...",
+    "opsi": [
+      "Languatis Rhizoma",
+      "Zingiberis Rhizoma",
+      "Curcumae Rhizoma",
+      "Piperis Nigri Fructus",
+      "Caryophylli Flos"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Zingiber officinale (Jahe) mengandung gingerol."
+  },
+  {
+    "id": "KS_FR_28",
+    "pertanyaan": "Simplisia yang berasal dari daun kumis kucing (Orthosiphon stamineus) bermanfaat sebagai...",
+    "opsi": [
+      "Obat Batuk",
+      "Obat Peluruh Lemak",
+      "Diuretika (Peluruh Air Seni)",
+      "Obat Kuat",
+      "Obat Cacing"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sering digunakan untuk melancarkan pembuangan urin."
+  },
+  {
+    "id": "KS_FR_29",
+    "pertanyaan": "Apa singkatan dari PIO di apotek?",
+    "opsi": [
+      "Pusat Informasi Obat",
+      "Pemberian Izin Obat",
+      "Pemerolehan Intisari Obat",
+      "Pelayanan Informasi Obat",
+      "Petugas Instalasi Obat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "PIO memastikan pasien mengerti cara pakai, aturan dosis, dan penyimpanan obat."
+  },
+  {
+    "id": "KS_FR_30",
+    "pertanyaan": "Kadar obat yang paling rendah yang masih dapat memberikan efek terapi disebut...",
+    "opsi": [
+      "Dosis Letal",
+      "Dosis Toksik",
+      "Dosis Maksimal",
+      "Dosis Muatan",
+      "Dosis Ambang (Threshold)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Di bawah dosis ambang, obat tidak akan bekerja secara efektif."
+  },
+  {
+    "id": "KS_FR_31",
+    "pertanyaan": "Obat padat berbentuk bulat atau lonjong yang dimasukkan melalui rektum (anus) disebut...",
+    "opsi": [
+      "Suppositoria",
+      "Tablet",
+      "Kapsul",
+      "Ovula",
+      "Implan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Suppositoria akan meleleh pada suhu tubuh di dalam anus."
+  },
+  {
+    "id": "KS_FR_32",
+    "pertanyaan": "Wadah yang digunakan untuk menyimpan obat yang peka terhadap cahaya (mudah rusak terkena matahari) adalah...",
+    "opsi": [
+      "Botol Plastik Putih",
+      "Botol Cokelat (Amber Glass)",
+      "Botol Kaca Bening",
+      "Keresek Hitam",
+      "Kaleng Bekas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Warna cokelat menyaring sinar UV agar tidak merusak zat aktif obat."
+  },
+  {
+    "id": "KS_FR_33",
+    "pertanyaan": "Salah satu etika pelayanan di apotek yaitu melayani pasien dengan ramah dan sabar, disebut juga dengan...",
+    "opsi": [
+      "Profit Oriented",
+      "Slow Service",
+      "Service Excellence",
+      "Hidden Service",
+      "No Service"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pelayanan prima meningkatkan kepuasan dan kesembuhan pasien secara psikologis."
+  },
+  {
+    "id": "KS_FR_34",
+    "pertanyaan": "Apa maksud etiket obat berwarna putih?",
+    "opsi": [
+      "Untuk obat luar (salep/tetes telinga)",
+      "Obat kadaluarsa",
+      "Obat sangat mahal",
+      "Untuk obat dalam (diminum melalu mulut)",
+      "Obat gratis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Etiket putih khusus untuk sediaan yang masuk ke saluran pencernaan."
+  },
+  {
+    "id": "KS_FR_35",
+    "pertanyaan": "Apa maksud etiket obat berwarna biru?",
+    "opsi": [
+      "Untuk obat dalam",
+      "Untuk obat yang harus dikocok",
+      "Untuk obat mata saja",
+      "Obat racikan",
+      "Untuk obat luar (tidak boleh ditelan)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sangat penting agar pasien tidak salah menelan obat luar."
+  },
+  {
+    "id": "KS_FR_36",
+    "pertanyaan": "Bahan berkhasiat obat yang disalut (dimasukkan) ke dalam cangkang keras atau lunak yang dapat larut adalah...",
+    "opsi": [
+      "Kapsul",
+      "Tablet",
+      "Puyer",
+      "Krim",
+      "Pasta"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Cangkang kapsul biasanya terbuat dari gelatin."
+  },
+  {
+    "id": "KS_FR_37",
+    "pertanyaan": "Dalam resep dokter, tulisan 'Iter 2x' berarti resep tersebut...",
+    "opsi": [
+      "Dibuat dua kali lipat porsinya",
+      "Dapat diulang pengambilannya sebanyak dua kali",
+      "Hanya boleh dibuat satu kali",
+      "Diberikan gratis dua kali",
+      "Dihapus instruksinya"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Iterasi memungkinkan pasien kronis mengambil obat rutin tanpa resep baru setiap saat."
+  },
+  {
+    "id": "KS_FR_38",
+    "pertanyaan": "Instruksi 'Cito!' pada resep dokter berarti obat tersebut harus...",
+    "opsi": [
+      "Dibuat nanti saja",
+      "Disimpan di lemari es",
+      "Segera disiapkan (darurat/PENTING)",
+      "Dibuat oleh dokter sendiri",
+      "Dibuang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Resep cito mendapatkan prioritas pengerjaan terlebih dahulu."
+  },
+  {
+    "id": "KS_FR_39",
+    "pertanyaan": "Apa yang dimaksud dengan 'Resistensi Antibiotik'?",
+    "opsi": [
+      "Antibiotik menjadi sangat manjur",
+      "Antibiotik berubah rasa",
+      "Antibiotik sangat mahal",
+      "Kuman menjadi kebal terhadap antibiotik karena penggunaan yang tidak tepat",
+      "Bakteri menyukai antibiotik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Resistensi terjadi jika antibiotik diminum tidak teratur atau tidak habis."
+  },
+  {
+    "id": "KS_FR_40",
+    "pertanyaan": "Instansi pemerintah yang bertugas mengawasi peredaran obat dan makanan di Indonesia adalah...",
+    "opsi": [
+      "KPK",
+      "BNN",
+      "TNI",
+      "POLRI",
+      "BPOM (Badan Pengawas Obat dan Makanan)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "BPOM menjamin keamanan, khasiat, dan mutu produk obat-makanan."
+  },
+  {
+    "id": "KS_FR_41",
+    "pertanyaan": "Obat generik adalah obat dengan nama...",
+    "opsi": [
+      "Nama Zat Aktif resminya",
+      "Nama Pabrik",
+      "Nama Samaran",
+      "Nama Penemunya",
+      "Nama Pemilik Apotek"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Obat generik memiliki kandungan yang sama dengan obat bermerek (paten) namun lebih murah."
+  },
+  {
+    "id": "KS_FR_42",
+    "pertanyaan": "Salep yang memiliki kandungan serbuk padat yang sangat tinggi (lebih dari 50%) sehingga bertekstur kaku disebut...",
+    "opsi": [
+      "Krim",
+      "Pasta",
+      "Gel",
+      "Linimen",
+      "Lotion"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pasta tidak meleleh pada suhu badan dan memberikan perlindungan lapisan tebal."
+  },
+  {
+    "id": "KS_FR_43",
+    "pertanyaan": "Pemisahan bahan obat dari sediaan aslinya menggunakan pelarut (biasanya air atau alkohol) disebut proses...",
+    "opsi": [
+      "Filtrasi",
+      "Distilasi",
+      "Ekstraksi",
+      "Kristalisasi",
+      "Sublimasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh: Pembuatan ekstrak herbal. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ekstraksi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KS_FR_44",
+    "pertanyaan": "Sediaan obat cair yang manis dan mengandung gula (sukrosa) dengan kadar tinggi disebut...",
+    "opsi": [
+      "Infus",
+      "Serum",
+      "Alkohol",
+      "Sirup",
+      "Cuka"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sirup memudahkan anak-anak meminum obat karena rasanya enak."
+  },
+  {
+    "id": "KS_FR_45",
+    "pertanyaan": "Tanggal yang menunjukkan batas terakhir obat masih aman dan berkhasiat untuk dikonsumsi disebut...",
+    "opsi": [
+      "Birthday",
+      "Production Date",
+      "Batch Number",
+      "Reg Number",
+      "Expired Date (ED)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Dilarang keras menjual atau meminum obat yang telah melewati ED."
+  },
+  {
+    "id": "KS_FR_46",
+    "pertanyaan": "Obat anti-mabuk perjalanan sebaiknya diminum...",
+    "opsi": [
+      "30 menit sebelum memulai perjalanan",
+      "Setelah sampai tujuan",
+      "Saat sedang muntah",
+      "Malam hari sebelum tidur",
+      "Hanya jika ingat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Agar obat sudah terserap dan bekerja saat perjalanan dimulai."
+  },
+  {
+    "id": "KS_FR_47",
+    "pertanyaan": "Individu yang membantu Apoteker dalam mengerjakan pekerjaan kefarmasian di SMK Farmasi disebut...",
+    "opsi": [
+      "Dokter Mandiri",
+      "Tenaga Teknis Kefarmasian (Asisten Apoteker)",
+      "Resepsionis",
+      "Satpam Rumah Sakit",
+      "Perawat Junior"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Lulusan SMK Farmasi dipersiapkan menjadi TTK yang handal."
+  },
+  {
+    "id": "KS_FR_48",
+    "pertanyaan": "Obat golongan narkotika disimpan di dalam sebuah lemari khusus dengan ciri...",
+    "opsi": [
+      "Terbuka lebar",
+      "Terbuat dari kaca bening",
+      "Lemari kayu/besi dengan kunci ganda (double lock)",
+      "Meja kasir",
+      "Kulkas biasa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pengawasan ketat untuk mencegah penyalahgunaan obat bius/narkotika."
+  },
+  {
+    "id": "KS_FR_49",
+    "pertanyaan": "Apa risiko utama meminum obat dengan air teh atau susu bagi beberapa jenis obat (misal antibiotik)?",
+    "opsi": [
+      "Obat menjadi manis",
+      "Obat berubah warna saja",
+      "Obat menjadi berbusa",
+      "Zat dalam teh/susu (seperti tanin/kalsium) dapat menghambat penyerapan obat sehingga obat tidak berkhasiat",
+      "Tidak ada risiko sama sekali"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Air putih tetap merupakan pengantar obat paling netral dan terbaik."
+  },
+  {
+    "id": "KS_FR_50",
+    "pertanyaan": "Bagaimanakah sikap anda jika menemukan obat di rumah yang labelnya sudah lepas/hilang?",
+    "opsi": [
+      "Mencicipinya untuk menebak rasanya",
+      "Memberikannya kepada orang lain",
+      "Menyimpannya saja",
+      "Menulis label baru sembarangan",
+      "Membuangnya karena tidak tahu informasi dosis dan nama obatnya (berbahaya jika salah minum)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jangan pernah meminum obat tanpa keterangan label yang jelas."
+  }
+]

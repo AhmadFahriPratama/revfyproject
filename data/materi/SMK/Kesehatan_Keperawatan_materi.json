@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Keperawatan",
+  "tingkatan": "SMK",
+  "jurusan": "Kesehatan / Keperawatan",
+  "deskripsi": "Materi mengenai konsep dasar keperawatan, anatomi dan fisiologi tubuh manusia, pemenuhan kebutuhan dasar manusia, serta teknik komunikasi terapeutik.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Konsep Dasar Keperawatan",
+      "konten": "Sejarah keperawatan, peran dan fungsi perawat, etika keperawatan, serta pengenalan standar operasional prosedur (SOP) dalam pelayanan kesehatan di RS/Puskesmas.",
+      "tag": [
+        "kesehatan keperawatan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Anatomi dan Fisiologi Tubuh Manusia",
+      "konten": "Struktur sel, jaringan, dan sistem organ (Sistem pencernaan, pernapasan, jantung/peredaran darah, saraf, dan integumen/kulit).",
+      "tag": [
+        "kesehatan keperawatan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Pemenuhan Kebutuhan Dasar Manusia (KDM)",
+      "konten": "Teknik membantu pasien memenuhi kebutuhan oksigenasi, nutrisi, eliminasi (BAK/BAB), kebersihan diri (personal hygiene), serta istirahat dan tidur.",
+      "tag": [
+        "kesehatan keperawatan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Pengukuran Tanda-Tanda Vital (TTV)",
+      "konten": "Cara mengukur suhu tubuh, tekanan darah (tensimeter), nadi, dan frekuensi pernapasan. Pemahaman rentang nilai normal untuk anak-anak hingga lansia.",
+      "tag": [
+        "kesehatan keperawatan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Komunikasi Terapeutik",
+      "konten": "Teknik berkomunikasi yang bertujuan untuk penyembuhan pasien. Empati, mendengarkan aktif, serta fase-fase hubungan perawat-pasien (Pra-interaksi, Orientasi, Kerja, Terminasi).",
+      "tag": [
+        "kesehatan keperawatan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kesehatan-keperawatan-materi",
+  "mapel": "Dasar-Dasar Keperawatan",
+  "tag": [
+    "kesehatan keperawatan materi"
+  ]
+}

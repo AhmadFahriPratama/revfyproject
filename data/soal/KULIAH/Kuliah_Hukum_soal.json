@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_HK_01",
+    "pertanyaan": "Kumpulan peraturan yang bersifat memaksa, dibuat oleh lembaga berwenang, dan memiliki sanksi tegas bagi pelanggarnya disebut...",
+    "opsi": [
+      "Norma Hukum",
+      "Norma Kesopanan",
+      "Norma Agama",
+      "Norma Kesusilaan",
+      "Adat Istiadat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Norma hukum memiliki paksaan fisik melalui aparatur negara."
+  },
+  {
+    "id": "KU_HK_02",
+    "pertanyaan": "Asas yang menyatakan bahwa hukum harus memberikan kepastian bagi warga negara agar mereka tahu apa yang boleh dan dilarang disebut asas...",
+    "opsi": [
+      "Keadilan",
+      "Kepastian Hukum (Rechtssicherheit)",
+      "Kemanfaatan",
+      "Kepatuhan",
+      "Kekeluargaan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kepastian hukum adalah pilar utama negara hukum (Rechtsstaat)."
+  },
+  {
+    "id": "KU_HK_03",
+    "pertanyaan": "Sumber hukum tertinggi dalam tata urutan peraturan perundang-undangan di Indonesia adalah...",
+    "opsi": [
+      "Undang-Undang (UU)",
+      "Peraturan Pemerintah (PP)",
+      "UUD NRI Tahun 1945",
+      "Pancasila",
+      "Tap MPR"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Berdasarkan UU No. 12 Tahun 2011, UUD 1945 berada di puncak hierarki."
+  },
+  {
+    "id": "KU_HK_04",
+    "pertanyaan": "Subjek hukum dalam arti pendukung hak dan kewajiban terdiri dari dua jenis, yaitu...",
+    "opsi": [
+      "Pria dan Wanita",
+      "Anak dan Dewasa",
+      "Pemerintah dan Swasta",
+      "Manusia (Natuurlijk persoon) dan Badan Hukum (Rechtspersoon)",
+      "Polisi dan Jaksa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Badan hukum (PT, Yayasan, Koperasi) juga diakui sebagai subjek hukum."
+  },
+  {
+    "id": "KU_HK_05",
+    "pertanyaan": "Bidang hukum yang mengatur hubungan antara individu yang satu dengan individu yang lain secara privat adalah hukum...",
+    "opsi": [
+      "Pidana",
+      "Tata Negara",
+      "Administrasi Negara",
+      "Internasional",
+      "Perdata (Sipil)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Hukum perdata berfokus pada kepentingan perseorangan."
+  },
+  {
+    "id": "KU_HK_06",
+    "pertanyaan": "Asas dalam hukum perjanjian yang menyatakan bahwa perjanjian yang dibuat sah berlaku sebagai undang-undang bagi mereka yang membuatnya disebut...",
+    "opsi": [
+      "Asas Pacta Sunt Servanda",
+      "Asas Konsensualisme",
+      "Asas Itikad Baik",
+      "Asas Kebebasan Berkontrak",
+      "Asas Kepribadian"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Asas ini menjamin bahwa janji atau kontrak harus ditepati/diikat secara hukum."
+  },
+  {
+    "id": "KU_HK_07",
+    "pertanyaan": "Berapakah usia minimal seseorang dianggap cakap hukum untuk melakukan perbuatan hukum mandiri menurut KUHPerdata?",
+    "opsi": [
+      "12 tahun",
+      "21 tahun atau sudah menikah",
+      "17 tahun atau sudah menikah",
+      "25 tahun",
+      "40 tahun"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pasal 330 KUHPerdata menyebutkan kedewasaan pada usia 21 tahun (meskipun UU lain memiliki batas berbeda)."
+  },
+  {
+    "id": "KU_HK_08",
+    "pertanyaan": "Asas fundamental dalam hukum pidana yang menyatakan tidak ada perbuatan yang dapat dipidana kecuali atas kekuatan aturan pidana yang sudah ada sebelumnya adalah...",
+    "opsi": [
+      "Asas Praduga Tak Bersalah",
+      "Asas Retroaktif",
+      "Asas Legalitas (Nullum Delictum)",
+      "Asas Nebis in Idem",
+      "Asas Oportunitas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Nullum delictum nulla poena sine praevia lege poenali."
+  },
+  {
+    "id": "KU_HK_09",
+    "pertanyaan": "Dalam hukum pidana, niat jahat atau sikap batin pelaku saat melakukan tindak pidana disebut...",
+    "opsi": [
+      "Actus Reus",
+      "Alibi",
+      "Visum",
+      "Mens Rea",
+      "BAP"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tindak pidana umumnya memerlukan adanya perbuatan nyata (actus reus) dan niat jahat (mens rea)."
+  },
+  {
+    "id": "KU_HK_10",
+    "pertanyaan": "Lembaga negara yang memiliki tugas melakukan penuntutan terhadap terdakwa di persidangan adalah...",
+    "opsi": [
+      "Kepolisian",
+      "Hakim",
+      "Advokat",
+      "Panitera",
+      "Kejaksaan (Jaksa Penuntut Umum)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jaksa bertindak atas nama negara untuk menuntut keadilan."
+  },
+  {
+    "id": "KU_HK_11",
+    "pertanyaan": "Asas yang menyatakan bahwa seseorang tidak dapat dituntut kedua kalinya dalam perkara yang sama yang telah diputus oleh hakim disebut...",
+    "opsi": [
+      "Asas Nebis In Idem",
+      "Asas Legalitas",
+      "Asas Praduga Tak Bersalah",
+      "Asas Persamaan Hukum",
+      "Asas Teritorial"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mencegah penuntutan sewenang-wenang terhadap individu untuk kasus yang sudah inkrah."
+  },
+  {
+    "id": "KU_HK_12",
+    "pertanyaan": "Pembagian kekuasaan negara menjadi Legislatif, Eksekutif, dan Yudikatif dikenal dengan istilah...",
+    "opsi": [
+      "Dwifungsi",
+      "Trias Politika",
+      "Monarki Nomos",
+      "Oligarki",
+      "Teokrasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Konsep dari Montesquieu untuk mencegah kekuasaan absolut."
+  },
+  {
+    "id": "KU_HK_13",
+    "pertanyaan": "Lembaga negara di Indonesia yang memiliki wewenang menguji undang-undang terhadap UUD 1945 (Judicial Review) adalah...",
+    "opsi": [
+      "Mahkamah Agung (MA)",
+      "Komisi Yudisial (KY)",
+      "Mahkamah Konstitusi (MK)",
+      "DPR",
+      "KPK"
+    ],
+    "jawaban": 2,
+    "pembahasan": "MK menjaga konstitusionalitas peraturan perundang-undangan."
+  },
+  {
+    "id": "KU_HK_14",
+    "pertanyaan": "Lembaga negara yang memegang kekuasaan yudikatif tertinggi di lingkungan peradilan umum, agama, dan militer adalah...",
+    "opsi": [
+      "MK",
+      "Polres",
+      "Kejaksaan Agung",
+      "Mahkamah Agung (MA)",
+      "DPR"
+    ],
+    "jawaban": 3,
+    "pembahasan": "MA adalah puncak peradilan bagi perkara perdata, pidana, dan administrasi."
+  },
+  {
+    "id": "KU_HK_15",
+    "pertanyaan": "Hak membatalkan keputusan pemerintah yang dianggap merugikan warga negara melalui jalur pengadilan administrasi dilakukan di...",
+    "opsi": [
+      "Pengadilan Negeri",
+      "Pengadilan Agama",
+      "Mahkamah Militer",
+      "Polsek",
+      "PTUN (Pengadilan Tata Usaha Negara)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "PTUN mengadili sengketa tata usaha negara antara warga vs pemerintah."
+  },
+  {
+    "id": "KU_HK_16",
+    "pertanyaan": "Subjek utama hukum internasional yang memiliki kedaulatan penuh secara hukum adalah...",
+    "opsi": [
+      "Negara",
+      "Individu",
+      "Organisasi Internasional (misal PBB)",
+      "Vatikan",
+      "Pemberontak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Negara adalah 'original subject' dari hukum internasional."
+  },
+  {
+    "id": "KU_HK_17",
+    "pertanyaan": "Kesepakatan tertulis antar negara yang diatur oleh hukum internasional disebut...",
+    "opsi": [
+      "Kontrak Kerja",
+      "Perjanjian Internasional (Traktat)",
+      "Piagam Sekolah",
+      "Surat Keputusan",
+      "Memo"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Traktat atau konvensi mengikat negara-negara yang meratifikasinya."
+  },
+  {
+    "id": "KU_HK_18",
+    "pertanyaan": "Hak-hak dasar yang melekat pada diri manusia sejak lahir sebagai anugerah Tuhan YME dan tidak dapat dirampas disebut...",
+    "opsi": [
+      "Hak Politik",
+      "Hak Milik",
+      "Hak Asasi Manusia (HAM)",
+      "Hak Cipta",
+      "Hak Jawab"
+    ],
+    "jawaban": 2,
+    "pembahasan": "HAM diatur dalam UU No. 39 Tahun 1999 di Indonesia."
+  },
+  {
+    "id": "KU_HK_19",
+    "pertanyaan": "Pelaku tindak pidana yang terbukti melakukan kejahatan kemanusiaan atau genosida dapat diadili secara internasional di...",
+    "opsi": [
+      "PBB",
+      "ICJ",
+      "Interpol",
+      "ICC (International Criminal Court)",
+      "FBI"
+    ],
+    "jawaban": 3,
+    "pembahasan": "ICC berkedudukan di Den Haag, Belanda. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"ICC (International Criminal Court)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_HK_20",
+    "pertanyaan": "Ahli hukum yang memberikan jasa hukum, baik di dalam maupun di luar pengadilan sesuai UU No. 18 Tahun 2003 disebut...",
+    "opsi": [
+      "Notaris",
+      "Arsiparis",
+      "Kolektor",
+      "Sekretaris",
+      "Advokat / Pengacara"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Advokat bertugas membela hak-hak klien secara profesional."
+  },
+  {
+    "id": "KU_HK_21",
+    "pertanyaan": "Pejabat umum yang berwenang membuat akta autentik mengenai semua perbuatan, perjanjian, dan ketetapan adalah...",
+    "opsi": [
+      "Notaris",
+      "Polisi",
+      "Lurah",
+      "Camat",
+      "RT"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Akta notaris memiliki kekuatan pembuktian yang sangat kuat di pengadilan."
+  },
+  {
+    "id": "KU_HK_22",
+    "pertanyaan": "Hukum yang mengatur tentang harta kekayaan seseorang setelah ia meninggal dunia disebut hukum...",
+    "opsi": [
+      "Hukum Benda",
+      "Hukum Waris",
+      "Hukum Orang",
+      "Hukum Agraria",
+      "Hukum Pajak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Membasahas mengenai pewaris, ahli waris, dan harta warisan."
+  },
+  {
+    "id": "KU_HK_23",
+    "pertanyaan": "Asas kewarganegaraan berdasarkan tempat kelahiran disebut asass...",
+    "opsi": [
+      "Ius Sanguinis",
+      "Apatride",
+      "Ius Soli",
+      "Bipatride",
+      "Naturalisasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh negara penganut Ius Soli adalah Amerika Serikat."
+  },
+  {
+    "id": "KU_HK_24",
+    "pertanyaan": "Asas kewarganegaraan berdasarkan pertalian darah atau keturunan orang tua disebut asas...",
+    "opsi": [
+      "Ius Soli",
+      "Domisili",
+      "Opsi",
+      "Ius Sanguinis",
+      "Repudiasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Indonesia menganut asas Ius Sanguinis (keturunan)."
+  },
+  {
+    "id": "KU_HK_25",
+    "pertanyaan": "Sistem hukum yang berlaku di Indonesia dipengaruhi oleh...",
+    "opsi": [
+      "Hukum Amerika saja",
+      "Hukum Rimba",
+      "Hukum Komunis",
+      "Hukum Galaksi",
+      "Hukum Adat, Hukum Islam, dan Hukum Barat (Eropa Kontinental)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pluralisme hukum masih terjadi di Indonesia (terutama di bidang perdata/keluarga)."
+  },
+  {
+    "id": "KU_HK_26",
+    "pertanyaan": "Hukum pidana di Indonesia saat ini masih menggunakan peninggalan Belanda yang disebut...",
+    "opsi": [
+      "Wetboek van Strafrecht (WvS/KUHP)",
+      "Burgerlijk Wetboek (BW)",
+      "Herziene Inlandsch Reglement (HIR)",
+      "Staatsblad",
+      "Ordonansi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Meski sudah ada KUHP baru (UU 1/2023), masa transisi masih berlaku."
+  },
+  {
+    "id": "KU_HK_27",
+    "pertanyaan": "Hukum perdata peninggalan Belanda yang masih berlaku di Indonesia dikenal dengan...",
+    "opsi": [
+      "KUHP",
+      "BW (Burgerlijk Wetboek) / KUHPerdata",
+      "WvK (KUHD)",
+      "UU Pokok Agraria",
+      "Kompilasi Hukum Islam"
+    ],
+    "jawaban": 1,
+    "pembahasan": "BW mengatur mengenai orang, benda, perikatan, dan pembuktian."
+  },
+  {
+    "id": "KU_HK_28",
+    "pertanyaan": "Lembaga negara mandiri yang bebas dari campur tangan pihak manapun untuk memberantas korupsi di Indonesia adalah...",
+    "opsi": [
+      "BIN",
+      "Bareskrim",
+      "KPK (Komisi Pemberantasan Korupsi)",
+      "Komnas HAM",
+      "Bawaslu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "KPK memiliki tugas koordinasi, supervisi, monitor, penyelidikan, penyidikan, dan penuntutan."
+  },
+  {
+    "id": "KU_HK_29",
+    "pertanyaan": "Negara Indonesia adalah negara hukum (Rechtsstaat). Kalimat ini tertuang dalam UUD 1945 pasal...",
+    "opsi": [
+      "Pasal 1 ayat (1)",
+      "Pasal 27 ayat (1)",
+      "Pasal 28",
+      "Pasal 1 ayat (3)",
+      "Pasal 33"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Menegaskan konstitusionalisme dan supremasi hukum di Indonesia."
+  },
+  {
+    "id": "KU_HK_30",
+    "pertanyaan": "Apa maksud dari asas 'Equality Before the Law'?",
+    "opsi": [
+      "Semua orang bebas berbuat apa saja",
+      "Hukum hanya untuk rakyat miskin",
+      "Hukum bisa dibeli",
+      "Hukum mengikuti kemauan penguasa",
+      "Semua warga negara memiliki kedudukan yang sama di dalam hukum"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tidak ada diskriminasi hukum berdasarkan status sosial, ekonomi, atau jabatan."
+  },
+  {
+    "id": "KU_HK_31",
+    "pertanyaan": "Dalam hukum agraria (pertanahan), hak milik atas tanah hanya dapat dimiliki oleh...",
+    "opsi": [
+      "Warga Negara Indonesia (WNI)",
+      "Perusahaan Asing",
+      "Wisatawan Luar Negeri",
+      "Semua makhluk hidup",
+      "Hanya pemerintah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Berdasarkan UUPA (UU No. 5 Tahun 1960), hak milik bersifat eksklusif bagi WNI."
+  },
+  {
+    "id": "KU_HK_32",
+    "pertanyaan": "Tindakan mengambil nyawa orang lain dengan sengaja dan direncanakan terlebih dahulu diatur dalam KUHP pasal 340 dengan hukuman maksimal...",
+    "opsi": [
+      "Denda 1 juta",
+      "Penjara seumur hidup atau pidana mati",
+      "Hukuman cambuk",
+      "Kerja sosial",
+      "Diasingkan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pasal 340 adalah pasal tentang pembunuhan berencana."
+  },
+  {
+    "id": "KU_HK_33",
+    "pertanyaan": "Asas hukum yang menyatakan bahwa hukum yang lebih tinggi mengalahkan hukum yang lebih rendah disebut...",
+    "opsi": [
+      "Lex Specialis Derogat Legi Generali",
+      "Lex Posterior Derogat Legi Priori",
+      "Lex Superior Derogat Legi Inferiori",
+      "Lex Loci Delicti",
+      "Lex Fori"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hierarki peraturan harus dipatuhi; Perda tidak boleh bertentangan dengan UU."
+  },
+  {
+    "id": "KU_HK_34",
+    "pertanyaan": "Asas hukum yang menyatakan bahwa hukum yang khusus mengalahkan hukum yang umum disebut...",
+    "opsi": [
+      "Lex Superior",
+      "Lex Posterior",
+      "Restorative Justice",
+      "Lex Specialis Derogat Legi Generali",
+      "Azas Praduga"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: UU ITE (khusus) mengalahkan KUHP (umum) dalam kasus pencemaran nama baik di medsos."
+  },
+  {
+    "id": "KU_HK_35",
+    "pertanyaan": "Asas hukum yang menyatakan bahwa hukum yang baru mengalahkan hukum yang lama dalam materi yang sama disebut...",
+    "opsi": [
+      "Lex Superior",
+      "Lex Specialis",
+      "Legalitas",
+      "Res Judicata",
+      "Lex Posterior Derogat Legi Priori"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Digunakan untuk menghindari pertentangan norma antar dua aturan yang setingkat."
+  },
+  {
+    "id": "KU_HK_36",
+    "pertanyaan": "Keputusan hakim terdahulu yang dijadikan dasar hukum oleh hakim kemudian dalam memutus perkara serupa disebut...",
+    "opsi": [
+      "Yurisprudensi",
+      "Doktrin",
+      "Traktat",
+      "Undang-Undang",
+      "Filsafat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Yurisprudensi adalah salah satu sumber hukum formal di Indonesia."
+  },
+  {
+    "id": "KU_HK_37",
+    "pertanyaan": "Pendapat para ahli hukum terkemuka yang dijadikan referensi dalam memutus perkara atau menyusun pasal hukum disebut...",
+    "opsi": [
+      "Yurisprudensi",
+      "Doktrin",
+      "Adat",
+      "Kebiasaan",
+      "Undang-Undang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Doktrin memiliki otoritas intelektual meski bukan aturan mengikat secara langsung."
+  },
+  {
+    "id": "KU_HK_38",
+    "pertanyaan": "Hanya pihak yang membuat perjanjian yang terikat oleh isi perjanjian tersebut (tidak mengikat pihak ketiga) merupakan esensi dari asas...",
+    "opsi": [
+      "Iktikad Baik",
+      "Keseimbangan",
+      "Privity of Contract (Asas Kepribadian)",
+      "Kepatutan",
+      "Moralitas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pasal 1340 KUHPerdata menyatakan perjanjian hanya berlaku antara pihak yang membuatnya."
+  },
+  {
+    "id": "KU_HK_39",
+    "pertanyaan": "Kewenangan suatu negara untuk mengatur wilayahnya sendiri tanpa campur tangan negara lain disebut...",
+    "opsi": [
+      "Imperialisme",
+      "Kolonialisme",
+      "Intervensi",
+      "Kedaulatan (Sovereignty)",
+      "Ekspansi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kedaulatan adalah atribut mutlak bagi sebuah negara."
+  },
+  {
+    "id": "KU_HK_40",
+    "pertanyaan": "Metode penyelesaian sengketa di luar pengadilan melalui pihak ketiga yang netral untuk mencapai kesepakatan damai disebut...",
+    "opsi": [
+      "Litigasi",
+      "Arbitrase",
+      "Konsiliasi",
+      "Negosiasi",
+      "Mediasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Hasil mediasi dituangkan dalam akta perdamaian."
+  },
+  {
+    "id": "KU_HK_41",
+    "pertanyaan": "Lembaga peradilan yang khusus menangani sengketa waris, perkawinan, dan hibah bagi umat Islam di Indonesia adalah...",
+    "opsi": [
+      "Pengadilan Agama",
+      "Pengadilan Negeri",
+      "Pengadilan Militer",
+      "PTUN",
+      "KUA"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pengadilan Agama diatur dalam UU Peradilan Agama."
+  },
+  {
+    "id": "KU_HK_42",
+    "pertanyaan": "Tindak pidana pencurian dalam keadaan memberatkan (misalnya pencurian di malam hari atau dengan merusak pintu) diatur dalam pasal...",
+    "opsi": [
+      "362 KUHP",
+      "363 KUHP",
+      "365 KUHP",
+      "372 KUHP",
+      "378 KUHP"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pasal 363 mengenakan ancaman hukuman lebih berat daripada pencurian biasa (362)."
+  },
+  {
+    "id": "KU_HK_43",
+    "pertanyaan": "Tindak pidana penipuan dengan memakai nama palsu atau keadaan palsu diatur dalam pasal...",
+    "opsi": [
+      "362 KUHP",
+      "372 KUHP",
+      "378 KUHP",
+      "480 KUHP",
+      "531 KUHP"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pasal 378 adalah pasal populer untuk kasus penipuan."
+  },
+  {
+    "id": "KU_HK_44",
+    "pertanyaan": "Tindak pidana penggelapan (mengambil barang yang ada dalam kekuasaannya bukan karena kejahatan) diatur dalam pasal...",
+    "opsi": [
+      "378 KUHP",
+      "363 KUHP",
+      "303 KUHP",
+      "372 KUHP",
+      "351 KUHP"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh penggelapan: Tidak mengembalikan motor yang dipinjam kawan."
+  },
+  {
+    "id": "KU_HK_45",
+    "pertanyaan": "Pihak yang ditugaskan oleh pengadilan untuk mendampingi dan membela terdakwa yang tidak mampu membayar pengacara sendiri disebut...",
+    "opsi": [
+      "Hakim Anggota",
+      "Panitera",
+      "Saksi Ahli",
+      "Intelejen",
+      "Posbakum (Pos Bantuan Hukum)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Negara menjamin bantuan hukum cuma-cuma lewat Posbakum di setiap pengadilan negeri."
+  },
+  {
+    "id": "KU_HK_46",
+    "pertanyaan": "Kewajiban negara untuk memenuhi hak-hak warga negaranya merupakan perwujudan dari...",
+    "opsi": [
+      "Welfare State (Negara Kesejahteraan)",
+      "Negara Penjaga Malam",
+      "Negara Otoriter",
+      "Negara Boneka",
+      "Negara Kesultanan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Negara hukum modern (material) bertugas mewujudkan kesejahteraan rakyat."
+  },
+  {
+    "id": "KU_HK_47",
+    "pertanyaan": "Ujian yang wajib dilalui lulusan Sarjana Hukum (S.H) untuk menjadi Advokat adalah...",
+    "opsi": [
+      "CPNS",
+      "PKPA dan UPA",
+      "Ujian Nasional",
+      "SIM",
+      "TOEFL"
+    ],
+    "jawaban": 1,
+    "pembahasan": "PKPA (Pendidikan Khusus Profesi Advokat) dan UPA (Ujian Profesi Advokat)."
+  },
+  {
+    "id": "KU_HK_48",
+    "pertanyaan": "Hukuman denda masuk ke dalam kategori jenis pidana...",
+    "opsi": [
+      "Pidana Mati",
+      "Pidana Penjara",
+      "Pidana Pokok",
+      "Pidana Tambahan",
+      "Pidana Kurungan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pidana pokok: Mati, Penjara, Kurungan, Denda, Tutupan."
+  },
+  {
+    "id": "KU_HK_49",
+    "pertanyaan": "Penyelesaian masalah pidana ringan melalui jalur perdamaian antara pelaku, korban, dan tokoh masyarakat untuk memulihkan keadaan disebut...",
+    "opsi": [
+      "Penjara fisik",
+      "Hukuman gantung",
+      "Balas dendam",
+      "Restorative Justice (Keadilan Restoratif)",
+      "Ostrasisme"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Saat ini dikembangkan oleh Polri dan Kejaksaan untuk mengurangi beban penjara."
+  },
+  {
+    "id": "KU_HK_50",
+    "pertanyaan": "Gelar akademik bagi lulusan program sarjana hukum di Indonesia adalah...",
+    "opsi": [
+      "S.Pd",
+      "S.E",
+      "S.Kom",
+      "S.Psi",
+      "S.H (Sarjana Hukum)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Lulusan S.H memiliki prospek karir sebagai Hakim, Jaksa, Advokat, Notaris, atau In-house Counsel."
+  }
+]

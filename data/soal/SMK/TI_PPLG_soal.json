@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TI_PPLG_01",
+    "pertanyaan": "Langkah-langkah logis dan sistematis untuk menyelesaikan suatu masalah disebut...",
+    "opsi": [
+      "Algoritma",
+      "Variabel",
+      "Tipe Data",
+      "Operator",
+      "Sintaksis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Algoritma adalah fondasi utama dalam dunia pemrograman sebelum kode ditulis."
+  },
+  {
+    "id": "TI_PPLG_02",
+    "pertanyaan": "Simbol berbentuk belah ketupat pada flowchart digunakan untuk melambangkan...",
+    "opsi": [
+      "Input / Output",
+      "Keputusan (Decision / Branching)",
+      "Mulai / Selesai (Terminator)",
+      "Proses",
+      "Penghubung (Connector)"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Belah ketupat digunakan saat ada kondisi Ya atau Tidak (True/False)."
+  },
+  {
+    "id": "TI_PPLG_03",
+    "pertanyaan": "Tipe data yang digunakan untuk menyimpan karakter teks (misalnya 'Budi') adalah...",
+    "opsi": [
+      "Integer",
+      "Float / Double",
+      "String",
+      "Boolean",
+      "Char"
+    ],
+    "jawaban": 2,
+    "pembahasan": "String adalah kumpulan karakter yang dibungkus tanda kutip."
+  },
+  {
+    "id": "TI_PPLG_04",
+    "pertanyaan": "Tipe data yang hanya bernilai Benar (True) atau Salah (False) disebut...",
+    "opsi": [
+      "String",
+      "Integer",
+      "Void",
+      "Boolean",
+      "Array"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Boolean sangat penting untuk operasi logika dan kondisi."
+  },
+  {
+    "id": "TI_PPLG_05",
+    "pertanyaan": "Indeks pertama pada sebuah Array biasanya dimulai dari angka...",
+    "opsi": [
+      "1",
+      "-1",
+      "Sesuai jumlah elemen",
+      "Bebas",
+      "0"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sistem komputer (seperti pada C++, Java, JS) memulai pencacahan dari nol (zero-based indexing)."
+  },
+  {
+    "id": "TI_PPLG_06",
+    "pertanyaan": "Struktur kontrol yang digunakan untuk mengeksekusi blok kode berulang kali selama kondisi terpenuhi disebut...",
+    "opsi": [
+      "Perulangan (Looping)",
+      "If-Else",
+      "Switch-Case",
+      "Fungsi (Function)",
+      "Kelas (Class)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Looping (For, While) efisien untuk menangani tugas berulang."
+  },
+  {
+    "id": "TI_PPLG_07",
+    "pertanyaan": "Istilah OOP adalah singkatan dari...",
+    "opsi": [
+      "Online Operation Program",
+      "Object Oriented Programming",
+      "Official Office Provider",
+      "Object Optional Process",
+      "Operasi Otomatis Perangkat"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Paradigma pemrograman yang berfokus pada objek sebagai unit utama."
+  },
+  {
+    "id": "TI_PPLG_08",
+    "pertanyaan": "Cetak biru (blueprint) atau kerangka dasar dari sebuah objek dalam OOP disebut...",
+    "opsi": [
+      "Variabel",
+      "Method",
+      "Class",
+      "Inheritance",
+      "Property"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Class mendefinisikan atribut dan perilaku yang akan dimiliki oleh objek."
+  },
+  {
+    "id": "TI_PPLG_09",
+    "pertanyaan": "Konsep di mana sebuah kelas dapat menurunkan sifat dan metode kepada kelas lain disebut...",
+    "opsi": [
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction",
+      "Inheritance (Pewarisan)",
+      "Overloading"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Inheritance mendasari hubungan 'Parent' dan 'Child' pada kelas."
+  },
+  {
+    "id": "TI_PPLG_10",
+    "pertanyaan": "Menyembunyikan detail implementasi dan data di dalam sebuah objek agar tidak bisa diakses sembarangan disebut...",
+    "opsi": [
+      "Inheritance",
+      "Polymorphism",
+      "Array",
+      "Database",
+      "Encapsulation (Pengkapsulan)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Biasanya dilakukan dengan hak akses private dan menyediakan method getter/setter."
+  },
+  {
+    "id": "TI_PPLG_11",
+    "pertanyaan": "Tag HTML yang digunakan untuk membuat judul utama paling besar adalah...",
+    "opsi": [
+      "<h1>",
+      "<h6>",
+      "<title>",
+      "<head>",
+      "<header>"
+    ],
+    "jawaban": 0,
+    "pembahasan": "h1 memiliki hierarki tertinggi dan ukuran teks bawaan paling besar."
+  },
+  {
+    "id": "TI_PPLG_12",
+    "pertanyaan": "Bahasa yang digunakan untuk mengatur tampilan, warna, dan tata letak halaman web adalah...",
+    "opsi": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL",
+      "PHP"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Cascading Style Sheets (CSS) memisahkan konten (HTML) dengan desain."
+  },
+  {
+    "id": "TI_PPLG_13",
+    "pertanyaan": "Atribut HTML 'src' pada tag <img> digunakan untuk...",
+    "opsi": [
+      "Menentukan lebar gambar",
+      "Menentukan teks alternatif",
+      "Menentukan sumber atau path file gambar",
+      "Menentukan link gambar",
+      "Menentukan bingkai gambar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "src singkatan dari 'Source'. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menentukan sumber atau path file gambar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TI_PPLG_14",
+    "pertanyaan": "Pesan kesalahan '404 Not Found' pada browser artinya...",
+    "opsi": [
+      "Internet terputus",
+      "Server sedang sibuk",
+      "Akses dilarang",
+      "File atau halaman web tidak ditemukan di server",
+      "Salah ketik password"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Status code 404 menunjukkan URL yang diakses tidak valid."
+  },
+  {
+    "id": "TI_PPLG_15",
+    "pertanyaan": "SQL singkatan dari...",
+    "opsi": [
+      "Standard Query Language",
+      "Simple Question Line",
+      "Sequential Query Level",
+      "Sistem Query Lokal",
+      "Structured Query Language"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bahasa standar untuk mengelola basis data relasional."
+  },
+  {
+    "id": "TI_PPLG_16",
+    "pertanyaan": "Perintah SQL yang digunakan untuk mengambil data dari tabel adalah...",
+    "opsi": [
+      "SELECT",
+      "INSERT",
+      "UPDATE",
+      "DELETE",
+      "DROP"
+    ],
+    "jawaban": 0,
+    "pembahasan": "SELECT adalah perintah DML yang paling sering digunakan."
+  },
+  {
+    "id": "TI_PPLG_17",
+    "pertanyaan": "Kunci unik yang digunakan untuk mengidentifikasi setiap baris (record) secara unik di dalam sebuah tabel disebut...",
+    "opsi": [
+      "Foreign Key",
+      "Primary Key",
+      "Index Key",
+      "Unique Key",
+      "Candidate Key"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Primary Key tidak boleh memiliki nilai duplikat dan tidak boleh kosong (NULL)."
+  },
+  {
+    "id": "TI_PPLG_18",
+    "pertanyaan": "Bahasa pemrograman yang sering digunakan untuk pengembangan aplikasi Android secara native adalah...",
+    "opsi": [
+      "Swift",
+      "C++",
+      "Kotlin / Java",
+      "Ruby",
+      "Pascal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kotlin adalah bahasa resmi yang direkomendasikan Google untuk Android."
+  },
+  {
+    "id": "TI_PPLG_19",
+    "pertanyaan": "Perangkat lunak pengendali versi yang digunakan untuk melacak perubahan kode sumber adalah...",
+    "opsi": [
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "Git",
+      "Photoshop"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Git memungkinkan kolaborasi tim pengembang secara efisien."
+  },
+  {
+    "id": "TI_PPLG_20",
+    "pertanyaan": "Istilah 'Debugger' dalam pemrograman digunakan untuk...",
+    "opsi": [
+      "Membuat virus",
+      "Mempercepat internet",
+      "Menghapus data",
+      "Melakukan instalasi",
+      "Mencari dan memperbaiki kesalahan (bug) pada aplikasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Debugging adalah proses esensial dalam siklus pengembangan perangkat lunak."
+  },
+  {
+    "id": "TI_PPLG_21",
+    "pertanyaan": "Framework JavaScript yang dikembangkan oleh Facebook untuk membangun antarmuka pengguna adalah...",
+    "opsi": [
+      "React.js",
+      "Vue.js",
+      "Angular",
+      "jQuery",
+      "Svelte"
+    ],
+    "jawaban": 0,
+    "pembahasan": "React menggunakan komponen dan virtual DOM untuk efisiensi."
+  },
+  {
+    "id": "TI_PPLG_22",
+    "pertanyaan": "Apa itu CMS (Content Management System)?",
+    "opsi": [
+      "Sistem untuk mengelola server",
+      "Sistem untuk mengelola konten web tanpa harus coding dari nol (contoh: WordPress)",
+      "Sistem untuk mengelola kabel jaringan",
+      "Sistem untuk menelepon pelanggan",
+      "Sistem untuk mendesain logo"
+    ],
+    "jawaban": 1,
+    "pembahasan": "CMS memudahkan orang awam mengelola situs web."
+  },
+  {
+    "id": "TI_PPLG_23",
+    "pertanyaan": "Dalam pembuatan gim, istilah 'FPS' biasanya merujuk pada genre...",
+    "opsi": [
+      "Fast Player System",
+      "Fire Power Selection",
+      "First Person Shooter",
+      "Final Project Start",
+      "Free Play Simulation"
+    ],
+    "jawaban": 2,
+    "pembahasan": "FPS adalah genre di mana pemain melihat melalui mata karakter utama."
+  },
+  {
+    "id": "TI_PPLG_24",
+    "pertanyaan": "Apa itu Game Engine?",
+    "opsi": [
+      "Mesin fisik untuk menggerakkan komputer",
+      "Baterai laptop khusus game",
+      "Nama karakter utama",
+      "Lingkungan pengembangan perangkat lunak untuk membuat video gim (contoh: Unity, Unreal)",
+      "Keyboard khusus gamer"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Game engine menyediakan sistem fisika, grafik, dan suara siap pakai."
+  },
+  {
+    "id": "TI_PPLG_25",
+    "pertanyaan": "Istilah 'Assets' dalam pengembangan gim meliputi...",
+    "opsi": [
+      "Hanya gambar",
+      "Gaji pegawai",
+      "Gedung kantor",
+      "Kabel listrik",
+      "Model 3D, suara (sfx), musik, tekstur, dan animasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Aset adalah semua elemen multimedia yang menjadi bagian dari gim."
+  },
+  {
+    "id": "TI_PPLG_26",
+    "pertanyaan": "UX Design fokus pada...",
+    "opsi": [
+      "Pengalaman dan kenyamanan pengguna saat menggunakan aplikasi",
+      "Keindahan warna layar",
+      "Kecepatan server",
+      "Harga jual aplikasi",
+      "Keamanan data"
+    ],
+    "jawaban": 0,
+    "pembahasan": "UX (User Experience) memastikan aplikasi mudah dan logis digunakan."
+  },
+  {
+    "id": "TI_PPLG_27",
+    "pertanyaan": "Format file gambar yang mendukung transparansi (tanpa background) adalah...",
+    "opsi": [
+      "JPEG",
+      "PNG",
+      "BMP",
+      "TIFF",
+      "RAW"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Portable Network Graphics (PNG) sangat umum digunakan dalam web dan aset gim."
+  },
+  {
+    "id": "TI_PPLG_28",
+    "pertanyaan": "Bahasa pemrograman PHP biasanya digunakan pada sisi...",
+    "opsi": [
+      "Client-side (Browser)",
+      "Hardware",
+      "Server-side",
+      "Router",
+      "Monitor"
+    ],
+    "jawaban": 2,
+    "pembahasan": "PHP diproses di server untuk menghasilkan halaman HTML dinamis."
+  },
+  {
+    "id": "TI_PPLG_29",
+    "pertanyaan": "Proses mengubah kode sumber (source code) menjadi file yang dapat dieksekusi oleh mesin disebut...",
+    "opsi": [
+      "Editing",
+      "Saving",
+      "Copying",
+      "Compiling",
+      "Typing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bahasa seperti C++ dan Java memerlukan proses kompilasi."
+  },
+  {
+    "id": "TI_PPLG_30",
+    "pertanyaan": "Metode pengembangan perangkat lunak yang bersifat fleksibel dan iteratif disebut...",
+    "opsi": [
+      "Waterfall",
+      "Slow Motion",
+      "Standard",
+      "Manual",
+      "Agile"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Agile memungkinkan perubahan kebutuhan di tengah proses pengembangan."
+  },
+  {
+    "id": "TI_PPLG_31",
+    "pertanyaan": "Apa peran seorang 'Quality Assurance' (QA) dalam tim PPLG?",
+    "opsi": [
+      "Menguji aplikasi untuk mencari kesalahan dan memastikan standar kualitas",
+      "Menulis kode",
+      "Mendesain logo",
+      "Membeli komputer",
+      "Mencari investor"
+    ],
+    "jawaban": 0,
+    "pembahasan": "QA bertugas menjamin produk minim error sebelum dirilis."
+  },
+  {
+    "id": "TI_PPLG_32",
+    "pertanyaan": "API adalah singkatan dari...",
+    "opsi": [
+      "Automatic Program Information",
+      "Application Programming Interface",
+      "Access Point Internal",
+      "Application Private Item",
+      "Active Power Indicator"
+    ],
+    "jawaban": 1,
+    "pembahasan": "API memungkinkan dua aplikasi berbeda untuk saling berkomunikasi."
+  },
+  {
+    "id": "TI_PPLG_33",
+    "pertanyaan": "Basis data non-relasional yang menyimpan data dalam format seperti dokumen (JSON) disebut...",
+    "opsi": [
+      "SQL",
+      "MySQL",
+      "NoSQL",
+      "Excel",
+      "Oracle"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh NoSQL adalah MongoDB dan Firebase."
+  },
+  {
+    "id": "TI_PPLG_34",
+    "pertanyaan": "Layanan 'Cloud Computing' yang menyediakan infrastruktur seperti server virtual adalah...",
+    "opsi": [
+      "SaaS",
+      "PaaS",
+      "BaaS",
+      "IaaS",
+      "DaaS"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Infrastructure as a Service (IaaS) memberikan kendali penuh instalasi OS di cloud."
+  },
+  {
+    "id": "TI_PPLG_35",
+    "pertanyaan": "JavaScript pada awalnya dibuat untuk berjalan di...",
+    "opsi": [
+      "Server",
+      "Arduino",
+      "Android",
+      "Windows",
+      "Browser (Client-side)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kini JavaScript juga populer di server berkat Node.js."
+  },
+  {
+    "id": "TI_PPLG_36",
+    "pertanyaan": "Dalam struktur folder proyek web, folder 'public' atau 'dist' biasanya berisi...",
+    "opsi": [
+      "File hasil build yang siap dipublikasikan ke server",
+      "Kode sumber rahasia",
+      "Foto karyawan",
+      "Catatan meeting",
+      "Sampah kode"
+    ],
+    "jawaban": 0,
+    "pembahasan": "dist adalah singkatan dari 'distribution'."
+  },
+  {
+    "id": "TI_PPLG_37",
+    "pertanyaan": "Apa kegunaan dari media query pada CSS?",
+    "opsi": [
+      "Memutar musik",
+      "Membuat desain web responsif (menyesuaikan tampilan di hp, tablet, pc)",
+      "Menghapus gambar",
+      "Membuat tabel",
+      "Mengecek kecepatan internet"
+    ],
+    "jawaban": 1,
+    "pembahasan": "@media memungkinkan gaya berbeda diterapkan pada ukuran layar tertentu."
+  },
+  {
+    "id": "TI_PPLG_38",
+    "pertanyaan": "Tag HTML <form> digunakan untuk...",
+    "opsi": [
+      "Menampilkan gambar",
+      "Membuat garis bawah",
+      "Menerima input dari pengguna (seperti form login/pendaftaran)",
+      "Menghubungkan file JS",
+      "Membuat tabel data"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Form mengirimkan data pengguna ke server untuk diproses."
+  },
+  {
+    "id": "TI_PPLG_39",
+    "pertanyaan": "Istilah 'Fullstack Developer' merujuk pada pengembang yang menguasai...",
+    "opsi": [
+      "Hanya desain grafis",
+      "Hanya database",
+      "Hanya pemasaran aplikasi",
+      "Front-end dan Back-end development",
+      "Pemasangan hardware komputer"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mereka mampu membangun aplikasi utuh dari antarmuka hingga server."
+  },
+  {
+    "id": "TI_PPLG_40",
+    "pertanyaan": "Kecerdasan buatan dalam gim untuk mengontrol karakter non-pemain (NPC) disebut...",
+    "opsi": [
+      "UI",
+      "SFX",
+      "VFX",
+      "RAM",
+      "AI (Artificial Intelligence)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "AI membuat perilaku NPC tampak lebih realistis dan menantang."
+  },
+  {
+    "id": "TI_PPLG_41",
+    "pertanyaan": "Proses menghapus atribut atau metode dari 'Child Class' ke 'Parent Class' (dalam desain ulang) disebut...",
+    "opsi": [
+      "Refactoring",
+      "Re-engineering",
+      "Extending",
+      "Reverse Engineering",
+      "Redesign"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Refactoring memperbaiki struktur internal kode tanpa mengubah perilaku eksternal."
+  },
+  {
+    "id": "TI_PPLG_42",
+    "pertanyaan": "Apa itu 'Latency' dalam konteks aplikasi online?",
+    "opsi": [
+      "Keindahan warna",
+      "Waktu tunda atau jeda dalam pengiriman data (delay)",
+      "Kapasitas memori",
+      "Ukuran layar",
+      "Jumlah tombol"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Latency rendah sangat penting untuk aplikasi real-time atau gim online."
+  },
+  {
+    "id": "TI_PPLG_43",
+    "pertanyaan": "Domain Name System (DNS) berfungsi untuk...",
+    "opsi": [
+      "Membuat file HTML",
+      "Mengamankan wifi",
+      "Menerjemahkan nama domain (misal: google.com) menjadi alamat IP",
+      "Memutar video",
+      "Mencetak dokumen"
+    ],
+    "jawaban": 2,
+    "pembahasan": "DNS memudahkan manusia agar tidak perlu menghafal angka IP server."
+  },
+  {
+    "id": "TI_PPLG_44",
+    "pertanyaan": "Protokol aman yang digunakan untuk transfer dokumen web adalah...",
+    "opsi": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "HTTPS",
+      "TELNET"
+    ],
+    "jawaban": 3,
+    "pembahasan": "HTTPS menggunakan enkripsi (SSL/TLS) untuk melindungi data."
+  },
+  {
+    "id": "TI_PPLG_45",
+    "pertanyaan": "Dalam SQL, perintah 'DROP TABLE' digunakan untuk...",
+    "opsi": [
+      "Menghapus data baris",
+      "Mengosongkan isi tabel saja",
+      "Mengganti nama tabel",
+      "Menyiram air pada komputer",
+      "Menghapus seluruh tabel beserta strukturnya"
+    ],
+    "jawaban": 4,
+    "pembahasan": "DROP bersifat permanen dan berbahaya jika salah digunakan."
+  },
+  {
+    "id": "TI_PPLG_46",
+    "pertanyaan": "Apa kepanjangan dari JSON?",
+    "opsi": [
+      "JavaScript Object Notation",
+      "Java System Online Network",
+      "Join Simple Option Node",
+      "Just Standard Output Name",
+      "Java Syntax Oriented Note"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Format pertukaran data yang ringan dan mudah dibaca manusia serta mesin."
+  },
+  {
+    "id": "TI_PPLG_47",
+    "pertanyaan": "Sistem operasi yang bersifat 'Open Source' dan banyak digunakan sebagai server web adalah...",
+    "opsi": [
+      "Windows 11",
+      "Linux",
+      "macOS",
+      "iOS",
+      "DOS"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Linux (dengan distro seperti Ubuntu/CentOS) sangat stabil dan gratis."
+  },
+  {
+    "id": "TI_PPLG_48",
+    "pertanyaan": "Apa sapaan yang umum digunakan dalam komunitas developer saat mengawali belajar pemrograman?",
+    "opsi": [
+      "Good Morning!",
+      "Start Coding!",
+      "Hello World!",
+      "Program Ready!",
+      "Computer On!"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tradisi menampilkan teks 'Hello World' pada layar saat pertama kali menjalankan kode."
+  },
+  {
+    "id": "TI_PPLG_49",
+    "pertanyaan": "Tag HTML yang digunakan untuk membuat baris baru (line break) adalah...",
+    "opsi": [
+      "<lb>",
+      "<hr>",
+      "<newline>",
+      "<br>",
+      "<split>"
+    ],
+    "jawaban": 3,
+    "pembahasan": "br tidak memerlukan tag penutup (self-closing)."
+  },
+  {
+    "id": "TI_PPLG_50",
+    "pertanyaan": "Mengapa penggunaan komentar (comment) dalam kode sangat penting?",
+    "opsi": [
+      "Agar kode jadi lebih panjang",
+      "Supaya aplikasi jadi lebih cepat",
+      "Agar komputer tidak meledak",
+      "Hanya formalitas saja",
+      "Memberikan penjelasan agar kode mudah dipahami oleh pengembang lain atau diri sendiri di masa depan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Komentar membantu dokumentasi dan pemeliharaan kode (maintenance)."
+  }
+]

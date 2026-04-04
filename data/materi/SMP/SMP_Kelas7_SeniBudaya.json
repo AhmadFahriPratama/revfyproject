@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls7-seni",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "Seni Budaya",
+  "materi": "Menggambar Flora/Fauna, Seni Musik Daerah, Tari Tradisional, dan Teater",
+  "deskripsi": "Seni Budaya Kelas 7 mengenalkan keterampilan awal dalam seni rupa dasar, bernyanyi unisono lagu daerah, gerak tari tradisional, dan bermain peran.",
+  "konten": [
+    {
+      "bab": "1. Menggambar Flora, Fauna, dan Alam Benda",
+      "teks": "Mengenal berbagai teknik, alat, dan bahan untuk menggambar bentuk dasar alam sekitar."
+    },
+    {
+      "bab": "2. Menggambar Ragam Hias",
+      "teks": "Mempelajari pola ragam hias pada bahan buatan dan bahan alam, baik geometris maupun non-geometris."
+    },
+    {
+      "bab": "3. Menyanyi dengan Lebih Satu Suara",
+      "teks": "Mengenal teknik vokal dasar, pernapasan, dan praktik bernyanyi unisono lagu daerah."
+    },
+    {
+      "bab": "4. Ruang, Waktu, dan Tenaga pada Gerak Tari",
+      "teks": "Mengeksplorasi elemen dasar tari serta meragakan gerak tari tradisional sesuai iringan irama."
+    },
+    {
+      "bab": "5. Meragakan Adegan Fragmen",
+      "teks": "Mempelajari teknik dasar akting, pengolahan tubuh, dan vokal untuk persiapan teater sederhana."
+    }
+  ],
+  "tag": ["smp-7", "seni-budaya", "seni-rupa", "seni-musik", "seni-tari", "seni-teater"]
+}

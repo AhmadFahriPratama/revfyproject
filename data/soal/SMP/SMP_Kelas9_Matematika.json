@@ -1,0 +1,658 @@
+{
+  "id": "smp-9-mat",
+  "tingkat": "SMP",
+  "mapel": "Matematika",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "mat9-1",
+      "teks": "Hasil dari $2^{-3}$ adalah...",
+      "opsi": {
+        "A": "1/8",
+        "B": "-6",
+        "C": "-8",
+        "D": "1/6"
+      },
+      "kunci": "A",
+      "pembahasan": "$2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pangkat negatif turun jadi pecahan 1/."
+    },
+    {
+      "id": "mat9-2",
+      "teks": "Bentuk sederhana dari $\\sqrt{75}$ adalah...",
+      "opsi": {
+        "A": "$3\\sqrt{5}$",
+        "B": "$5\\sqrt{3}$",
+        "C": "$25\\sqrt{3}$",
+        "D": "$15\\sqrt{5}$"
+      },
+      "kunci": "B",
+      "pembahasan": "$\\sqrt{75} = \\sqrt{25 \\times 3} = 5\\sqrt{3}$.",
+      "trik": "Cari perkalian bilangan kuadrat terbesar penyusunnya."
+    },
+    {
+      "id": "mat9-3",
+      "teks": "Akar-akar dari persamaan kuadrat $x^2 + 5x + 6 = 0$ adalah...",
+      "opsi": {
+        "A": "2 dan 3",
+        "B": "-1 dan -6",
+        "C": "-2 dan -3",
+        "D": "1 dan 6"
+      },
+      "kunci": "C",
+      "pembahasan": "Dicari dua angka yang dijumlah 5 dan dikalikan 6, yaitu 2 dan 3. Pemfaktoran: $(x+2)(x+3)=0$, maka $x=-2, x=-3$.",
+      "trik": "Balik tanda hasil penjumlahannya."
+    },
+    {
+      "id": "mat9-4",
+      "teks": "Bayangan titik A(2, 5) jika dicerminkan terhadap sumbu x adalah...",
+      "opsi": {
+        "A": "(-2, 5)",
+        "B": "(-2, -5)",
+        "C": "(5, 2)",
+        "D": "(2, -5)"
+      },
+      "kunci": "D",
+      "pembahasan": "Refleksi terhadap sumbu X: $(x, y) \\rightarrow (x, -y)$. Maka $(2, 5) \\rightarrow (2, -5)$.",
+      "trik": "Sumbu x yang dicerminkan, maka y yang berubah tanda."
+    },
+    {
+      "id": "mat9-5",
+      "teks": "Volume tabung dengan jari-jari r=7 cm dan tinggi t=10 cm adalah... ($\\pi = 22/7$)",
+      "opsi": {
+        "A": "1540 cm³",
+        "B": "154 cm³",
+        "C": "3080 cm³",
+        "D": "700 cm³"
+      },
+      "kunci": "A",
+      "pembahasan": "$V = \\pi r^2 t = \\frac{22}{7} \\times 49 \\times 10 = 154 \\times 10 = 1540$ cm³.",
+      "trik": "Luas alas lingkaran dikali tinggi."
+    },
+    {
+      "id": "smp-9-mat-6",
+      "teks": "Volume tabung dengan jari-jari r=7 cm dan tinggi t=10 cm adalah... ($\\pi = 22/7$) (Latihan Intensif #6)",
+      "opsi": {
+        "A": "154 cm³",
+        "B": "1540 cm³",
+        "C": "3080 cm³",
+        "D": "700 cm³"
+      },
+      "kunci": "B",
+      "pembahasan": "$V = \\pi r^2 t = \\frac{22}{7} \\times 49 \\times 10 = 154 \\times 10 = 1540$ cm³.",
+      "trik": "Luas alas lingkaran dikali tinggi."
+    },
+    {
+      "id": "smp-9-mat-7",
+      "teks": "Bentuk sederhana dari $\\sqrt{75}$ adalah... (Latihan Intensif #7)",
+      "opsi": {
+        "A": "$3\\sqrt{5}$",
+        "B": "$25\\sqrt{3}$",
+        "C": "$5\\sqrt{3}$",
+        "D": "$15\\sqrt{5}$"
+      },
+      "kunci": "C",
+      "pembahasan": "$\\sqrt{75} = \\sqrt{25 \\times 3} = 5\\sqrt{3}$.",
+      "trik": "Cari perkalian bilangan kuadrat terbesar penyusunnya."
+    },
+    {
+      "id": "smp-9-mat-8",
+      "teks": "Akar-akar dari persamaan kuadrat $x^2 + 5x + 6 = 0$ adalah... (Latihan Intensif #8)",
+      "opsi": {
+        "A": "2 dan 3",
+        "B": "-1 dan -6",
+        "C": "1 dan 6",
+        "D": "-2 dan -3"
+      },
+      "kunci": "D",
+      "pembahasan": "Dicari dua angka yang dijumlah 5 dan dikalikan 6, yaitu 2 dan 3. Pemfaktoran: $(x+2)(x+3)=0$, maka $x=-2, x=-3$.",
+      "trik": "Balik tanda hasil penjumlahannya."
+    },
+    {
+      "id": "smp-9-mat-9",
+      "teks": "Bayangan titik A(2, 5) jika dicerminkan terhadap sumbu x adalah... (Latihan Intensif #9)",
+      "opsi": {
+        "A": "(2, -5)",
+        "B": "(-2, 5)",
+        "C": "(-2, -5)",
+        "D": "(5, 2)"
+      },
+      "kunci": "A",
+      "pembahasan": "Refleksi terhadap sumbu X: $(x, y) \\rightarrow (x, -y)$. Maka $(2, 5) \\rightarrow (2, -5)$.",
+      "trik": "Sumbu x yang dicerminkan, maka y yang berubah tanda."
+    },
+    {
+      "id": "smp-9-mat-10",
+      "teks": "Akar-akar dari persamaan kuadrat $x^2 + 5x + 6 = 0$ adalah... (Latihan Intensif #10)",
+      "opsi": {
+        "A": "2 dan 3",
+        "B": "-2 dan -3",
+        "C": "-1 dan -6",
+        "D": "1 dan 6"
+      },
+      "kunci": "B",
+      "pembahasan": "Dicari dua angka yang dijumlah 5 dan dikalikan 6, yaitu 2 dan 3. Pemfaktoran: $(x+2)(x+3)=0$, maka $x=-2, x=-3$.",
+      "trik": "Balik tanda hasil penjumlahannya."
+    },
+    {
+      "id": "smp-9-mat-11",
+      "teks": "Akar-akar dari persamaan kuadrat $x^2 + 5x + 6 = 0$ adalah... (Latihan Intensif #11)",
+      "opsi": {
+        "A": "2 dan 3",
+        "B": "-1 dan -6",
+        "C": "-2 dan -3",
+        "D": "1 dan 6"
+      },
+      "kunci": "C",
+      "pembahasan": "Dicari dua angka yang dijumlah 5 dan dikalikan 6, yaitu 2 dan 3. Pemfaktoran: $(x+2)(x+3)=0$, maka $x=-2, x=-3$.",
+      "trik": "Balik tanda hasil penjumlahannya."
+    },
+    {
+      "id": "smp-9-mat-12",
+      "teks": "Bayangan titik A(2, 5) jika dicerminkan terhadap sumbu x adalah... (Latihan Intensif #12)",
+      "opsi": {
+        "A": "(-2, 5)",
+        "B": "(-2, -5)",
+        "C": "(5, 2)",
+        "D": "(2, -5)"
+      },
+      "kunci": "D",
+      "pembahasan": "Refleksi terhadap sumbu X: $(x, y) \\rightarrow (x, -y)$. Maka $(2, 5) \\rightarrow (2, -5)$.",
+      "trik": "Sumbu x yang dicerminkan, maka y yang berubah tanda."
+    },
+    {
+      "id": "smp-9-mat-13",
+      "teks": "Akar-akar dari persamaan kuadrat $x^2 + 5x + 6 = 0$ adalah... (Latihan Intensif #13)",
+      "opsi": {
+        "A": "-2 dan -3",
+        "B": "2 dan 3",
+        "C": "-1 dan -6",
+        "D": "1 dan 6"
+      },
+      "kunci": "A",
+      "pembahasan": "Dicari dua angka yang dijumlah 5 dan dikalikan 6, yaitu 2 dan 3. Pemfaktoran: $(x+2)(x+3)=0$, maka $x=-2, x=-3$.",
+      "trik": "Balik tanda hasil penjumlahannya."
+    },
+    {
+      "id": "smp-9-mat-14",
+      "teks": "Bayangan titik A(2, 5) jika dicerminkan terhadap sumbu x adalah... (Latihan Intensif #14)",
+      "opsi": {
+        "A": "(-2, 5)",
+        "B": "(2, -5)",
+        "C": "(-2, -5)",
+        "D": "(5, 2)"
+      },
+      "kunci": "B",
+      "pembahasan": "Refleksi terhadap sumbu X: $(x, y) \\rightarrow (x, -y)$. Maka $(2, 5) \\rightarrow (2, -5)$.",
+      "trik": "Sumbu x yang dicerminkan, maka y yang berubah tanda."
+    },
+    {
+      "id": "smp-9-mat-15",
+      "teks": "Hasil dari $2^{-3}$ adalah... (Latihan Intensif #15)",
+      "opsi": {
+        "A": "-6",
+        "B": "-8",
+        "C": "1/8",
+        "D": "1/6"
+      },
+      "kunci": "C",
+      "pembahasan": "$2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pangkat negatif turun jadi pecahan 1/."
+    },
+    {
+      "id": "smp-9-mat-16",
+      "teks": "Akar-akar dari persamaan kuadrat $x^2 + 5x + 6 = 0$ adalah... (Latihan Intensif #16)",
+      "opsi": {
+        "A": "2 dan 3",
+        "B": "-1 dan -6",
+        "C": "1 dan 6",
+        "D": "-2 dan -3"
+      },
+      "kunci": "D",
+      "pembahasan": "Dicari dua angka yang dijumlah 5 dan dikalikan 6, yaitu 2 dan 3. Pemfaktoran: $(x+2)(x+3)=0$, maka $x=-2, x=-3$.",
+      "trik": "Balik tanda hasil penjumlahannya."
+    },
+    {
+      "id": "smp-9-mat-17",
+      "teks": "Hasil dari $2^{-3}$ adalah... (Latihan Intensif #17)",
+      "opsi": {
+        "A": "1/8",
+        "B": "-6",
+        "C": "-8",
+        "D": "1/6"
+      },
+      "kunci": "A",
+      "pembahasan": "$2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pangkat negatif turun jadi pecahan 1/."
+    },
+    {
+      "id": "smp-9-mat-18",
+      "teks": "Hasil dari $2^{-3}$ adalah... (Latihan Intensif #18)",
+      "opsi": {
+        "A": "-6",
+        "B": "1/8",
+        "C": "-8",
+        "D": "1/6"
+      },
+      "kunci": "B",
+      "pembahasan": "$2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pangkat negatif turun jadi pecahan 1/."
+    },
+    {
+      "id": "smp-9-mat-19",
+      "teks": "Volume tabung dengan jari-jari r=7 cm dan tinggi t=10 cm adalah... ($\\pi = 22/7$) (Latihan Intensif #19)",
+      "opsi": {
+        "A": "154 cm³",
+        "B": "3080 cm³",
+        "C": "1540 cm³",
+        "D": "700 cm³"
+      },
+      "kunci": "C",
+      "pembahasan": "$V = \\pi r^2 t = \\frac{22}{7} \\times 49 \\times 10 = 154 \\times 10 = 1540$ cm³.",
+      "trik": "Luas alas lingkaran dikali tinggi."
+    },
+    {
+      "id": "smp-9-mat-20",
+      "teks": "Akar-akar dari persamaan kuadrat $x^2 + 5x + 6 = 0$ adalah... (Latihan Intensif #20)",
+      "opsi": {
+        "A": "2 dan 3",
+        "B": "-1 dan -6",
+        "C": "1 dan 6",
+        "D": "-2 dan -3"
+      },
+      "kunci": "D",
+      "pembahasan": "Dicari dua angka yang dijumlah 5 dan dikalikan 6, yaitu 2 dan 3. Pemfaktoran: $(x+2)(x+3)=0$, maka $x=-2, x=-3$.",
+      "trik": "Balik tanda hasil penjumlahannya."
+    },
+    {
+      "id": "smp-9-mat-21",
+      "teks": "Bayangan titik A(2, 5) jika dicerminkan terhadap sumbu x adalah... (Latihan Intensif #21)",
+      "opsi": {
+        "A": "(2, -5)",
+        "B": "(-2, 5)",
+        "C": "(-2, -5)",
+        "D": "(5, 2)"
+      },
+      "kunci": "A",
+      "pembahasan": "Refleksi terhadap sumbu X: $(x, y) \\rightarrow (x, -y)$. Maka $(2, 5) \\rightarrow (2, -5)$.",
+      "trik": "Sumbu x yang dicerminkan, maka y yang berubah tanda."
+    },
+    {
+      "id": "smp-9-mat-22",
+      "teks": "Hasil dari $2^{-3}$ adalah... (Latihan Intensif #22)",
+      "opsi": {
+        "A": "-6",
+        "B": "1/8",
+        "C": "-8",
+        "D": "1/6"
+      },
+      "kunci": "B",
+      "pembahasan": "$2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pangkat negatif turun jadi pecahan 1/."
+    },
+    {
+      "id": "smp-9-mat-23",
+      "teks": "Bayangan titik A(2, 5) jika dicerminkan terhadap sumbu x adalah... (Latihan Intensif #23)",
+      "opsi": {
+        "A": "(-2, 5)",
+        "B": "(-2, -5)",
+        "C": "(2, -5)",
+        "D": "(5, 2)"
+      },
+      "kunci": "C",
+      "pembahasan": "Refleksi terhadap sumbu X: $(x, y) \\rightarrow (x, -y)$. Maka $(2, 5) \\rightarrow (2, -5)$.",
+      "trik": "Sumbu x yang dicerminkan, maka y yang berubah tanda."
+    },
+    {
+      "id": "smp-9-mat-24",
+      "teks": "Bentuk sederhana dari $\\sqrt{75}$ adalah... (Latihan Intensif #24)",
+      "opsi": {
+        "A": "$3\\sqrt{5}$",
+        "B": "$25\\sqrt{3}$",
+        "C": "$15\\sqrt{5}$",
+        "D": "$5\\sqrt{3}$"
+      },
+      "kunci": "D",
+      "pembahasan": "$\\sqrt{75} = \\sqrt{25 \\times 3} = 5\\sqrt{3}$.",
+      "trik": "Cari perkalian bilangan kuadrat terbesar penyusunnya."
+    },
+    {
+      "id": "smp-9-mat-25",
+      "teks": "Bentuk sederhana dari $\\sqrt{75}$ adalah... (Latihan Intensif #25)",
+      "opsi": {
+        "A": "$5\\sqrt{3}$",
+        "B": "$3\\sqrt{5}$",
+        "C": "$25\\sqrt{3}$",
+        "D": "$15\\sqrt{5}$"
+      },
+      "kunci": "A",
+      "pembahasan": "$\\sqrt{75} = \\sqrt{25 \\times 3} = 5\\sqrt{3}$.",
+      "trik": "Cari perkalian bilangan kuadrat terbesar penyusunnya."
+    },
+    {
+      "id": "smp-9-mat-26",
+      "teks": "Bentuk sederhana dari $\\sqrt{75}$ adalah... (Latihan Intensif #26)",
+      "opsi": {
+        "A": "$3\\sqrt{5}$",
+        "B": "$5\\sqrt{3}$",
+        "C": "$25\\sqrt{3}$",
+        "D": "$15\\sqrt{5}$"
+      },
+      "kunci": "B",
+      "pembahasan": "$\\sqrt{75} = \\sqrt{25 \\times 3} = 5\\sqrt{3}$.",
+      "trik": "Cari perkalian bilangan kuadrat terbesar penyusunnya."
+    },
+    {
+      "id": "smp-9-mat-27",
+      "teks": "Bentuk sederhana dari $\\sqrt{75}$ adalah... (Latihan Intensif #27)",
+      "opsi": {
+        "A": "$3\\sqrt{5}$",
+        "B": "$25\\sqrt{3}$",
+        "C": "$5\\sqrt{3}$",
+        "D": "$15\\sqrt{5}$"
+      },
+      "kunci": "C",
+      "pembahasan": "$\\sqrt{75} = \\sqrt{25 \\times 3} = 5\\sqrt{3}$.",
+      "trik": "Cari perkalian bilangan kuadrat terbesar penyusunnya."
+    },
+    {
+      "id": "smp-9-mat-28",
+      "teks": "Volume tabung dengan jari-jari r=7 cm dan tinggi t=10 cm adalah... ($\\pi = 22/7$) (Latihan Intensif #28)",
+      "opsi": {
+        "A": "154 cm³",
+        "B": "3080 cm³",
+        "C": "700 cm³",
+        "D": "1540 cm³"
+      },
+      "kunci": "D",
+      "pembahasan": "$V = \\pi r^2 t = \\frac{22}{7} \\times 49 \\times 10 = 154 \\times 10 = 1540$ cm³.",
+      "trik": "Luas alas lingkaran dikali tinggi."
+    },
+    {
+      "id": "smp-9-mat-29",
+      "teks": "Hasil dari $2^{-3}$ adalah... (Latihan Intensif #29)",
+      "opsi": {
+        "A": "1/8",
+        "B": "-6",
+        "C": "-8",
+        "D": "1/6"
+      },
+      "kunci": "A",
+      "pembahasan": "$2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pangkat negatif turun jadi pecahan 1/."
+    },
+    {
+      "id": "smp-9-mat-30",
+      "teks": "Bentuk sederhana dari $\\sqrt{75}$ adalah... (Latihan Intensif #30)",
+      "opsi": {
+        "A": "$3\\sqrt{5}$",
+        "B": "$5\\sqrt{3}$",
+        "C": "$25\\sqrt{3}$",
+        "D": "$15\\sqrt{5}$"
+      },
+      "kunci": "B",
+      "pembahasan": "$\\sqrt{75} = \\sqrt{25 \\times 3} = 5\\sqrt{3}$.",
+      "trik": "Cari perkalian bilangan kuadrat terbesar penyusunnya."
+    },
+    {
+      "id": "smp-9-mat-31",
+      "teks": "Hasil dari $2^{-3}$ adalah... (Latihan Intensif #31)",
+      "opsi": {
+        "A": "-6",
+        "B": "-8",
+        "C": "1/8",
+        "D": "1/6"
+      },
+      "kunci": "C",
+      "pembahasan": "$2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pangkat negatif turun jadi pecahan 1/."
+    },
+    {
+      "id": "smp-9-mat-32",
+      "teks": "Bentuk sederhana dari $\\sqrt{75}$ adalah... (Latihan Intensif #32)",
+      "opsi": {
+        "A": "$3\\sqrt{5}$",
+        "B": "$25\\sqrt{3}$",
+        "C": "$15\\sqrt{5}$",
+        "D": "$5\\sqrt{3}$"
+      },
+      "kunci": "D",
+      "pembahasan": "$\\sqrt{75} = \\sqrt{25 \\times 3} = 5\\sqrt{3}$.",
+      "trik": "Cari perkalian bilangan kuadrat terbesar penyusunnya."
+    },
+    {
+      "id": "smp-9-mat-33",
+      "teks": "Akar-akar dari persamaan kuadrat $x^2 + 5x + 6 = 0$ adalah... (Latihan Intensif #33)",
+      "opsi": {
+        "A": "-2 dan -3",
+        "B": "2 dan 3",
+        "C": "-1 dan -6",
+        "D": "1 dan 6"
+      },
+      "kunci": "A",
+      "pembahasan": "Dicari dua angka yang dijumlah 5 dan dikalikan 6, yaitu 2 dan 3. Pemfaktoran: $(x+2)(x+3)=0$, maka $x=-2, x=-3$.",
+      "trik": "Balik tanda hasil penjumlahannya."
+    },
+    {
+      "id": "smp-9-mat-34",
+      "teks": "Bayangan titik A(2, 5) jika dicerminkan terhadap sumbu x adalah... (Latihan Intensif #34)",
+      "opsi": {
+        "A": "(-2, 5)",
+        "B": "(2, -5)",
+        "C": "(-2, -5)",
+        "D": "(5, 2)"
+      },
+      "kunci": "B",
+      "pembahasan": "Refleksi terhadap sumbu X: $(x, y) \\rightarrow (x, -y)$. Maka $(2, 5) \\rightarrow (2, -5)$.",
+      "trik": "Sumbu x yang dicerminkan, maka y yang berubah tanda."
+    },
+    {
+      "id": "smp-9-mat-35",
+      "teks": "Bayangan titik A(2, 5) jika dicerminkan terhadap sumbu x adalah... (Latihan Intensif #35)",
+      "opsi": {
+        "A": "(-2, 5)",
+        "B": "(-2, -5)",
+        "C": "(2, -5)",
+        "D": "(5, 2)"
+      },
+      "kunci": "C",
+      "pembahasan": "Refleksi terhadap sumbu X: $(x, y) \\rightarrow (x, -y)$. Maka $(2, 5) \\rightarrow (2, -5)$.",
+      "trik": "Sumbu x yang dicerminkan, maka y yang berubah tanda."
+    },
+    {
+      "id": "smp-9-mat-36",
+      "teks": "Hasil dari $2^{-3}$ adalah... (Latihan Intensif #36)",
+      "opsi": {
+        "A": "-6",
+        "B": "-8",
+        "C": "1/6",
+        "D": "1/8"
+      },
+      "kunci": "D",
+      "pembahasan": "$2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pangkat negatif turun jadi pecahan 1/."
+    },
+    {
+      "id": "smp-9-mat-37",
+      "teks": "Akar-akar dari persamaan kuadrat $x^2 + 5x + 6 = 0$ adalah... (Latihan Intensif #37)",
+      "opsi": {
+        "A": "-2 dan -3",
+        "B": "2 dan 3",
+        "C": "-1 dan -6",
+        "D": "1 dan 6"
+      },
+      "kunci": "A",
+      "pembahasan": "Dicari dua angka yang dijumlah 5 dan dikalikan 6, yaitu 2 dan 3. Pemfaktoran: $(x+2)(x+3)=0$, maka $x=-2, x=-3$.",
+      "trik": "Balik tanda hasil penjumlahannya."
+    },
+    {
+      "id": "smp-9-mat-38",
+      "teks": "Akar-akar dari persamaan kuadrat $x^2 + 5x + 6 = 0$ adalah... (Latihan Intensif #38)",
+      "opsi": {
+        "A": "2 dan 3",
+        "B": "-2 dan -3",
+        "C": "-1 dan -6",
+        "D": "1 dan 6"
+      },
+      "kunci": "B",
+      "pembahasan": "Dicari dua angka yang dijumlah 5 dan dikalikan 6, yaitu 2 dan 3. Pemfaktoran: $(x+2)(x+3)=0$, maka $x=-2, x=-3$.",
+      "trik": "Balik tanda hasil penjumlahannya."
+    },
+    {
+      "id": "smp-9-mat-39",
+      "teks": "Hasil dari $2^{-3}$ adalah... (Latihan Intensif #39)",
+      "opsi": {
+        "A": "-6",
+        "B": "-8",
+        "C": "1/8",
+        "D": "1/6"
+      },
+      "kunci": "C",
+      "pembahasan": "$2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pangkat negatif turun jadi pecahan 1/."
+    },
+    {
+      "id": "smp-9-mat-40",
+      "teks": "Bayangan titik A(2, 5) jika dicerminkan terhadap sumbu x adalah... (Latihan Intensif #40)",
+      "opsi": {
+        "A": "(-2, 5)",
+        "B": "(-2, -5)",
+        "C": "(5, 2)",
+        "D": "(2, -5)"
+      },
+      "kunci": "D",
+      "pembahasan": "Refleksi terhadap sumbu X: $(x, y) \\rightarrow (x, -y)$. Maka $(2, 5) \\rightarrow (2, -5)$.",
+      "trik": "Sumbu x yang dicerminkan, maka y yang berubah tanda."
+    },
+    {
+      "id": "smp-9-mat-41",
+      "teks": "Bayangan titik A(2, 5) jika dicerminkan terhadap sumbu x adalah... (Latihan Intensif #41)",
+      "opsi": {
+        "A": "(2, -5)",
+        "B": "(-2, 5)",
+        "C": "(-2, -5)",
+        "D": "(5, 2)"
+      },
+      "kunci": "A",
+      "pembahasan": "Refleksi terhadap sumbu X: $(x, y) \\rightarrow (x, -y)$. Maka $(2, 5) \\rightarrow (2, -5)$.",
+      "trik": "Sumbu x yang dicerminkan, maka y yang berubah tanda."
+    },
+    {
+      "id": "smp-9-mat-42",
+      "teks": "Bayangan titik A(2, 5) jika dicerminkan terhadap sumbu x adalah... (Latihan Intensif #42)",
+      "opsi": {
+        "A": "(-2, 5)",
+        "B": "(2, -5)",
+        "C": "(-2, -5)",
+        "D": "(5, 2)"
+      },
+      "kunci": "B",
+      "pembahasan": "Refleksi terhadap sumbu X: $(x, y) \\rightarrow (x, -y)$. Maka $(2, 5) \\rightarrow (2, -5)$.",
+      "trik": "Sumbu x yang dicerminkan, maka y yang berubah tanda."
+    },
+    {
+      "id": "smp-9-mat-43",
+      "teks": "Bentuk sederhana dari $\\sqrt{75}$ adalah... (Latihan Intensif #43)",
+      "opsi": {
+        "A": "$3\\sqrt{5}$",
+        "B": "$25\\sqrt{3}$",
+        "C": "$5\\sqrt{3}$",
+        "D": "$15\\sqrt{5}$"
+      },
+      "kunci": "C",
+      "pembahasan": "$\\sqrt{75} = \\sqrt{25 \\times 3} = 5\\sqrt{3}$.",
+      "trik": "Cari perkalian bilangan kuadrat terbesar penyusunnya."
+    },
+    {
+      "id": "smp-9-mat-44",
+      "teks": "Bentuk sederhana dari $\\sqrt{75}$ adalah... (Latihan Intensif #44)",
+      "opsi": {
+        "A": "$3\\sqrt{5}$",
+        "B": "$25\\sqrt{3}$",
+        "C": "$15\\sqrt{5}$",
+        "D": "$5\\sqrt{3}$"
+      },
+      "kunci": "D",
+      "pembahasan": "$\\sqrt{75} = \\sqrt{25 \\times 3} = 5\\sqrt{3}$.",
+      "trik": "Cari perkalian bilangan kuadrat terbesar penyusunnya."
+    },
+    {
+      "id": "smp-9-mat-45",
+      "teks": "Hasil dari $2^{-3}$ adalah... (Latihan Intensif #45)",
+      "opsi": {
+        "A": "1/8",
+        "B": "-6",
+        "C": "-8",
+        "D": "1/6"
+      },
+      "kunci": "A",
+      "pembahasan": "$2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pangkat negatif turun jadi pecahan 1/."
+    },
+    {
+      "id": "smp-9-mat-46",
+      "teks": "Akar-akar dari persamaan kuadrat $x^2 + 5x + 6 = 0$ adalah... (Latihan Intensif #46)",
+      "opsi": {
+        "A": "2 dan 3",
+        "B": "-2 dan -3",
+        "C": "-1 dan -6",
+        "D": "1 dan 6"
+      },
+      "kunci": "B",
+      "pembahasan": "Dicari dua angka yang dijumlah 5 dan dikalikan 6, yaitu 2 dan 3. Pemfaktoran: $(x+2)(x+3)=0$, maka $x=-2, x=-3$.",
+      "trik": "Balik tanda hasil penjumlahannya."
+    },
+    {
+      "id": "smp-9-mat-47",
+      "teks": "Hasil dari $2^{-3}$ adalah... (Latihan Intensif #47)",
+      "opsi": {
+        "A": "-6",
+        "B": "-8",
+        "C": "1/8",
+        "D": "1/6"
+      },
+      "kunci": "C",
+      "pembahasan": "$2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pangkat negatif turun jadi pecahan 1/."
+    },
+    {
+      "id": "smp-9-mat-48",
+      "teks": "Bentuk sederhana dari $\\sqrt{75}$ adalah... (Latihan Intensif #48)",
+      "opsi": {
+        "A": "$3\\sqrt{5}$",
+        "B": "$25\\sqrt{3}$",
+        "C": "$15\\sqrt{5}$",
+        "D": "$5\\sqrt{3}$"
+      },
+      "kunci": "D",
+      "pembahasan": "$\\sqrt{75} = \\sqrt{25 \\times 3} = 5\\sqrt{3}$.",
+      "trik": "Cari perkalian bilangan kuadrat terbesar penyusunnya."
+    },
+    {
+      "id": "smp-9-mat-49",
+      "teks": "Bayangan titik A(2, 5) jika dicerminkan terhadap sumbu x adalah... (Latihan Intensif #49)",
+      "opsi": {
+        "A": "(2, -5)",
+        "B": "(-2, 5)",
+        "C": "(-2, -5)",
+        "D": "(5, 2)"
+      },
+      "kunci": "A",
+      "pembahasan": "Refleksi terhadap sumbu X: $(x, y) \\rightarrow (x, -y)$. Maka $(2, 5) \\rightarrow (2, -5)$.",
+      "trik": "Sumbu x yang dicerminkan, maka y yang berubah tanda."
+    },
+    {
+      "id": "smp-9-mat-50",
+      "teks": "Hasil dari $2^{-3}$ adalah... (Latihan Intensif #50)",
+      "opsi": {
+        "A": "-6",
+        "B": "1/8",
+        "C": "-8",
+        "D": "1/6"
+      },
+      "kunci": "B",
+      "pembahasan": "$2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/8\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Pangkat negatif turun jadi pecahan 1/."
+    }
+  ]
+}

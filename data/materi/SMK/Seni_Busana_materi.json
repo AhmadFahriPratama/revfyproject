@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Tata Busana",
+  "tingkatan": "SMK",
+  "jurusan": "Seni / Tata Busana",
+  "deskripsi": "Materi mengenai industri fashion, pengetahuan tekstil, teknik menjahit dasar, pembuatan pola, serta desain ilustrasi busana.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Industri Fashion",
+      "konten": "Sejarah perkembangan busana, siklus tren fashion, peran Fashion Designer, Merchandiser, dan Tailor di industri garmen dan konveksi.",
+      "tag": [
+        "seni busana materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Pengetahuan Tekstil dan Bahan",
+      "konten": "Jenis-jenis serat (serat alam, sintetis), karakteristik kain (katun, sutra, wol, polyester), serta teknik pemeliharaan kain berdasarkan simbol instruksi pencucian.",
+      "tag": [
+        "seni busana materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Teknik Menjahit Dasar",
+      "konten": "Pengenalan mesin jahit manual dan industri. Teknik tusuk dasar (tusuk jelujur, tikam jejak, feston), cara memasang kancing, ritsleting, serta pemeliharaan alat jahit.",
+      "tag": [
+        "seni busana materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Pembuatan Pola Busana",
+      "konten": "Teknik mengukur tubuh pelanggan, pembuatan pola dasar (rok, blus, celana), tanda-tanda pada pola, serta teknik meletakkan pola di atas kain (marker).",
+      "tag": [
+        "seni busana materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Desain Ilustrasi dan Fashion Drawing",
+      "konten": "Dasar proporsi tubuh fashion (9-10 kepala), teknik menggambar tekstur kain (lipatan, drape, motif), serta penggunaan warna dalam desain busana.",
+      "tag": [
+        "seni busana materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "seni-busana-materi",
+  "mapel": "Dasar-Dasar Tata Busana",
+  "tag": [
+    "seni busana materi"
+  ]
+}

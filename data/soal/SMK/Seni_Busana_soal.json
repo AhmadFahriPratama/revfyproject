@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SN_BS_01",
+    "pertanyaan": "Profesi yang bertugas merancang ide orisinal, menggambar sketsa, dan menentukan konsep sebuah produk pakaian disebut...",
+    "opsi": [
+      "Fashion Designer (Perancang Busana)",
+      "Tailor (Penjahit)",
+      "Model",
+      "Stylist",
+      "Spooler"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Designer adalah otak kreatif di balik sebuah koleksi busana."
+  },
+  {
+    "id": "SN_BS_02",
+    "pertanyaan": "Penjahit yang mampu membuat pakaian sesuai pesanan perorangan (custom-made) dengan teknik tinggi disebut...",
+    "opsi": [
+      "Operator Garmen",
+      "Tailor / Modiste",
+      "Desainer Grafis",
+      "Sales",
+      "Staf Administrasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tailor biasanya ahli dalam setelan jas, sedangkan Modiste ahli dalam busana wanita."
+  },
+  {
+    "id": "SN_BS_03",
+    "pertanyaan": "Serat yang berasal dari tumbuhan kapas dan memiliki sifat menyerap keringat serta nyaman dipakai adalah...",
+    "opsi": [
+      "Sutra",
+      "Poliester",
+      "Katun (Cotton)",
+      "Nilon",
+      "Wol"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Katun adalah serat alam yang paling populer untuk pakaian sehari-hari."
+  },
+  {
+    "id": "SN_BS_04",
+    "pertanyaan": "Serat mewah yang berasal dari kepompong ulat sutra dan memiliki kilau alami yang indah adalah...",
+    "opsi": [
+      "Wol",
+      "Linen",
+      "Rayon",
+      "Sutra (Silk)",
+      "Akrilik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sutra memiliki tekstur halus dan dingin saat menyentuh kulit."
+  },
+  {
+    "id": "SN_BS_05",
+    "pertanyaan": "Kain yang terbuat dari bulu domba dan berfungsi memberikan rasa hangat di cuaca dingin adalah...",
+    "opsi": [
+      "Spandeks",
+      "Sifon",
+      "Tulle",
+      "Denim",
+      "Wol (Wool)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Wol sering digunakan untuk pembuatan jaket, jas, dan sweater."
+  },
+  {
+    "id": "SN_BS_06",
+    "pertanyaan": "Serat buatan manusia (sintetis) yang kuat, tahan lama, dan tidak mudah kusut adalah...",
+    "opsi": [
+      "Poliester (Polyester)",
+      "Kapas",
+      "Serat Nanas",
+      "Kulit Kayu",
+      "Jerami"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Poliester sering dicampur dengan katun agar pakaian kuat dan mudah dirawat."
+  },
+  {
+    "id": "SN_BS_07",
+    "pertanyaan": "Alat jahit yang digunakan untuk menarik benang agar jahitan dapat mengunci di bagian bawah mesin jahit adalah...",
+    "opsi": [
+      "Jarum Tangan",
+      "Sekoci dan Spul (Bobbin)",
+      "Pendedel",
+      "Rader",
+      "Kapur Jahit"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Spul berisi benang bawah yang dipasang di dalam sekoci."
+  },
+  {
+    "id": "SN_BS_08",
+    "pertanyaan": "Teknik menjahit sementara dengan tangan untuk menyatukan potongan kain sebelum dijahit mesin disebut tusuk...",
+    "opsi": [
+      "Tusuk Feston",
+      "Tusuk Tikam Jejak",
+      "Tusuk Jelujur",
+      "Tusuk Rantai",
+      "Tusuk Silang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tusuk jelujur mudah dilepas setelah kain sudah dijahit permanen oleh mesin."
+  },
+  {
+    "id": "SN_BS_09",
+    "pertanyaan": "Tusuk jahitan tangan yang hasilnya menyerupai jahitan mesin (sangat kuat) disebut tusuk...",
+    "opsi": [
+      "Jelujur",
+      "Feston",
+      "Flanel",
+      "Tikam Jejak (Backstitch)",
+      "Piping"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Dulu digunakan untuk menjahit seluruh pakaian sebelum ada mesin jahit."
+  },
+  {
+    "id": "SN_BS_10",
+    "pertanyaan": "Tusuk hias yang sering digunakan untuk merapikan tepi kain flanel atau kerajinan tangan adalah tusuk...",
+    "opsi": [
+      "Jelujur",
+      "Tangkai",
+      "Silang",
+      "Bunga",
+      "Feston (Blanket Stitch)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tusuk feston membentuk pagar di pinggir kain agar tidak bertiras (mrudul)."
+  },
+  {
+    "id": "SN_BS_11",
+    "pertanyaan": "Alat yang digunakan untuk memotong sisa jahitan yang salah atau membongkar jahitan disebut...",
+    "opsi": [
+      "Pendedel (Seam Ripper)",
+      "Gunting kain",
+      "Pisau",
+      "Kikir",
+      "Tang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pendedel memiliki ujung tajam melengkung untuk memutus benang jahitan."
+  },
+  {
+    "id": "SN_BS_12",
+    "pertanyaan": "Alat yang ditempelkan di atas kain untuk menandai batas jahitan (berdasarkan pola) disebut...",
+    "opsi": [
+      "Cat Air",
+      "Kapur Jahit (Tailor’s Chalk)",
+      "Pinsil Warna",
+      "Spidol",
+      "Stiker"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kapur jahit mudah hilang saat dicuci dan tidak merusak serat kain."
+  },
+  {
+    "id": "SN_BS_13",
+    "pertanyaan": "Cetak biru atau gambar potongan baju yang digunakan sebagai panduan menggunting kain disebut...",
+    "opsi": [
+      "Foto",
+      "Poster",
+      "Pola (Pattern)",
+      "Pamflet",
+      "Sketsa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pola biasanya dibuat di kertas payung atau kertas sampul cokelat."
+  },
+  {
+    "id": "SN_BS_14",
+    "pertanyaan": "Bagian pakaian yang melingkar di leher tempat kerah menempel disebut...",
+    "opsi": [
+      "Lengan",
+      "Ban Pinggang",
+      "Saku",
+      "Lubang Leher",
+      "Kelim"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ukurannya harus pas agar baju nyaman dipakai dan tidak mencekik."
+  },
+  {
+    "id": "SN_BS_15",
+    "pertanyaan": "Bagian bawah pakaian (ujung rok/celana) yang dilipat ke dalam dan dijahit agar rapi disebut...",
+    "opsi": [
+      "Kerah",
+      "Manset",
+      "Depun",
+      "Serip",
+      "Kelim (Hem)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kelim bisa dijahit mesin atau dijahit tangan (tusuk som)."
+  },
+  {
+    "id": "SN_BS_16",
+    "pertanyaan": "Alat ukur fleksibel yang digunakan untuk mengukur lingkar tubuh manusia adalah...",
+    "opsi": [
+      "Pita Ukur (Metlin)",
+      "Mistar Baja",
+      "Jangka Sorong",
+      "Busur Derajat",
+      "Meteran Bangunan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pita ukur bisa mengikuti lekuk tubuh (pinggang, dada) dengan akurat."
+  },
+  {
+    "id": "SN_BS_17",
+    "pertanyaan": "Garis yang menunjukkan arah serat kain pada pola sangat penting diperhatikan agar...",
+    "opsi": [
+      "Pakaian berwarna cerah",
+      "Pakaian jatuh dengan bagus (drape) dan tidak melintir saat dipakai",
+      "Pakaian jadi murah",
+      "Pakaian wangi",
+      "Pola tidak hilang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Arah serat biasanya sejajar dengan pinggiran kain (selvedge)."
+  },
+  {
+    "id": "SN_BS_18",
+    "pertanyaan": "Proses menyatukan bagian-bagian kain yang sudah digunting menggunakan mesin jahit disebut...",
+    "opsi": [
+      "Cutting",
+      "Packing",
+      "Sewing (Assembly)",
+      "Washing",
+      "Styling"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sewing mengubah potongan puzzle kain menjadi pakaian utuh."
+  },
+  {
+    "id": "SN_BS_19",
+    "pertanyaan": "Teknik mengganti warna kain menggunakan zat pewarna tekstil (celup) disebut...",
+    "opsi": [
+      "Batik",
+      "Printing",
+      "Bordir",
+      "Dyeing (Pencelupan)",
+      "Payet"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Dyeing bisa dilakukan pada sediaan benang (yarn dyeing) atau kain (fabric dyeing)."
+  },
+  {
+    "id": "SN_BS_20",
+    "pertanyaan": "Seni menghias kain menggunakan lilin/malam panas sebagai perintang warna yang merupakan warisan budaya Indonesia adalah...",
+    "opsi": [
+      "Sulam",
+      "Sablon",
+      "Tenun",
+      "Songket",
+      "Batik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Batik diakui UNESCO sebagai Warisan Kemanusiaan untuk Budaya Lisan dan Nonbendawi."
+  },
+  {
+    "id": "SN_BS_21",
+    "pertanyaan": "Teknik menghias kain dengan membuat motif menggunakan benang warna-warni secara manual atau mesin disebut...",
+    "opsi": [
+      "Bordir / Sulam (Embroidery)",
+      "Sablon",
+      "Tenun",
+      "Rajut",
+      "Canting"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bordir menambah nilai estetika dan harga jual pakaian."
+  },
+  {
+    "id": "SN_BS_22",
+    "pertanyaan": "Dalam desain busana, proporsi tubuh ideal untuk ilustrasi fashion biasanya lebih panjang dibanding tubuh nyata, yaitu sebanyak...",
+    "opsi": [
+      "2-3 kali tinggi kepala",
+      "8 1/2-10 kali tinggi kepala",
+      "20 kali tinggi kepala",
+      "Sama dengan lebar bahu",
+      "Seukuran pensil"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Proporsi yang dipanjangkan membuat desain busana terlihat lebih elegan dan 'long-legged'."
+  },
+  {
+    "id": "SN_BS_23",
+    "pertanyaan": "Apa itu 'Sleeve' dalam istilah tata busana?",
+    "opsi": [
+      "Kerah",
+      "Kancing Depan",
+      "Lengan Baju",
+      "Kantung Celana",
+      "Sabuk"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Variasi lengan ada banyak, seperti lengan lonceng, lengan balon, atau lengan reglan."
+  },
+  {
+    "id": "SN_BS_24",
+    "pertanyaan": "Mesin jahit yang memiliki kecepatan sangat tinggi dan digunakan di pabrik konveksi disebut mesin...",
+    "opsi": [
+      "Mesin Manual (Engkol tangan)",
+      "Mesin Portable",
+      "Mesin Jahit Mainan",
+      "Mesin Industri (High Speed)",
+      "Mesin Tik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mesin ini digerakkan oleh dinamo besar dan pelumasan otomatis."
+  },
+  {
+    "id": "SN_BS_25",
+    "pertanyaan": "Apa fungsi mesin 'Obras' (Overlock Machine)?",
+    "opsi": [
+      "Membuat bordir",
+      "Membuat kancing",
+      "Mengukur baju",
+      "Mencuci baju",
+      "Merapikan tepi kain agar benang-benangnya tidak terurai/lepas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pinggiran baju (kampuh) di-obras agar awet dan rapi di bagian dalam."
+  },
+  {
+    "id": "SN_BS_26",
+    "pertanyaan": "Pakaian yang siap pakai (dibuat secara masal berdasarkan ukuran standar S, M, L, XL) disebut...",
+    "opsi": [
+      "Ready to Wear (Pret-a-Porter)",
+      "Haute Couture",
+      "Custom Made",
+      "Handmade",
+      "Fitting"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ready to wear diproduksi massal untuk pasar luas."
+  },
+  {
+    "id": "SN_BS_27",
+    "pertanyaan": "Tingkatan tertinggi dalam desain busana mewah (jahitan tangan, eksklusif, mahal) disebut...",
+    "opsi": [
+      "Ready to Wear",
+      "Haute Couture",
+      "Clothing Line",
+      "Thrift Shop",
+      "Distro"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Hanya beberapa rumah mode di Paris yang berhak menyandang istilah resmi Haute Couture."
+  },
+  {
+    "id": "SN_BS_28",
+    "pertanyaan": "Proses memeras sisa-sisa malam pada kain batik setelah pewarnaan dengan air mendidih disebut...",
+    "opsi": [
+      "Nyanting",
+      "Ngaplak",
+      "Nglorot",
+      "Nembok",
+      "Mewarnai"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Lilin malam akan mencair dan lepas dari kain dalam suhu panas."
+  },
+  {
+    "id": "SN_BS_29",
+    "pertanyaan": "Bagian keras pada kerah atau manset yang berfungsi sebagai pengaku lapisan dalam disebut kain...",
+    "opsi": [
+      "Flanel",
+      "Sutra",
+      "Perca",
+      "Interlining (Kain Keras / Trubenais)",
+      "Kassa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kain keras memberikan bentuk struktur yang tegas dan rapi."
+  },
+  {
+    "id": "SN_BS_30",
+    "pertanyaan": "Apa itu 'Fitting' dalam proses menjahit?",
+    "opsi": [
+      "Membuang baju",
+      "Memberi harga",
+      "Memanjangkan benang",
+      "Menyiram air",
+      "Mencoba baju pada tubuh pelanggan untuk dicek kesesuaian ukuran dan kenyamanannya"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Fitting dilakukan sebelum baju dijahit rapi agar masih bisa diperbaiki/dikecilkan."
+  },
+  {
+    "id": "SN_BS_31",
+    "pertanyaan": "Lipatan kain permanen yang dijahit pada bagian pinggang atau dada untuk membentuk lekuk tubuh disebut...",
+    "opsi": [
+      "Kupnat (Dart)",
+      "Kelim",
+      "Saku",
+      "Lengan",
+      "Kancing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kupnat mengubah kain datar menjadi bentuk 3D yang mengikuti bentuk tubuh."
+  },
+  {
+    "id": "SN_BS_32",
+    "pertanyaan": "Gunting yang matanya berbentuk gerigi trapesium digunakan untuk memotong pinggiran kain agar tidak mrudul disebut...",
+    "opsi": [
+      "Gunting Kertas",
+      "Gunting Zig-zag (Pinking Shears)",
+      "Gunting Benang",
+      "Gunting Kuku",
+      "Gunting Listrik"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sangat efektif untuk kain yang tidak akan diobras."
+  },
+  {
+    "id": "SN_BS_33",
+    "pertanyaan": "Alat yang digunakan untuk memindahkan tanda pola di kertas ke atas kain (menggunakan karbon jahit) adalah...",
+    "opsi": [
+      "Palu",
+      "Sikat",
+      "Rader",
+      "Amplas",
+      "Serutan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rader memiliki roda bergerigi kecil di ujungnya."
+  },
+  {
+    "id": "SN_BS_34",
+    "pertanyaan": "Kegiatan 'Draping' pada desain busana dilakukan dengan cara...",
+    "opsi": [
+      "Menggambar di komputer",
+      "Menjahit asal-asalan",
+      "Menjemur kain",
+      "Membentuk kain langsung pada manekin (dressform) tanpa pola kertas",
+      "Menyeterika lipatan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Draping memungkinkan desainer melihat aliran kain secara nyata di tubuh."
+  },
+  {
+    "id": "SN_BS_35",
+    "pertanyaan": "Bahan kain tebal yang biasanya digunakan untuk pembuatan celana jeans adalah...",
+    "opsi": [
+      "Brokat",
+      "Organdi",
+      "Tulle",
+      "Drill",
+      "Denim"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Denim sangat kuat karena menggunakan teknik tenunan twill."
+  },
+  {
+    "id": "SN_BS_36",
+    "pertanyaan": "Warna-warna netral dalam tata busana yang mudah dipadu-padankan adalah...",
+    "opsi": [
+      "Hitam, Putih, Abu-abu",
+      "Merah, Kuning, Hijau",
+      "Ungu, Jingga, Merah Muda",
+      "Emas dan Perak saja",
+      "Warna Pelangi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Warna netral menjadi dasar lemari pakaian (wardrobe staples)."
+  },
+  {
+    "id": "SN_BS_37",
+    "pertanyaan": "Penggunaan setrika panas saat proses menjahit sangat penting untuk...",
+    "opsi": [
+      "Membakar kain",
+      "Membuka kampuh/jahitan agar rapi, datar, dan tajam (pressing)",
+      "Mengeringkan air",
+      "Memberi pewarna",
+      "Biar baju wangi saja"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pressing (penyeterikaan sela jahitan) menentukan kualitas akhir baju."
+  },
+  {
+    "id": "SN_BS_38",
+    "pertanyaan": "Hiasan busana berupa manik-manik kecil mengkilap yang dijahitkan ke kain disebut...",
+    "opsi": [
+      "Kancing besar",
+      "Resleting",
+      "Payet (Sequin/Beads)",
+      "Gesper",
+      "Kabel"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Payet sering digunakan pada busana pesta atau kebaya pengantin."
+  },
+  {
+    "id": "SN_BS_39",
+    "pertanyaan": "Jenis bukaan pakaian yang menggunakan gerigi logam atau plastik yang saling mengunci disebut...",
+    "opsi": [
+      "Kancing jamur",
+      "Perekat (Velcro)",
+      "Tali kor",
+      "Ritsleting (Zipper)",
+      "Kancing jepret"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tersedia ritsleting biasa dan ritsleting jepang (sembunyi)."
+  },
+  {
+    "id": "SN_BS_40",
+    "pertanyaan": "Penempatan motif yang simetris (sama antara kiri dan kanan) pada sebuah busana memberikan kesan...",
+    "opsi": [
+      "Berantakan",
+      "Kanak-kanak",
+      "Gemuk",
+      "Aneh",
+      "Formal, stabil, dan berwibawa"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Keseimbangan (Balance) adalah prinsip dasar desain busana."
+  },
+  {
+    "id": "SN_BS_41",
+    "pertanyaan": "Bagian tajam pada mesin jahit yang harus diganti secara berkala jika sudah tumpul atau bengkok adalah...",
+    "opsi": [
+      "Jarum mesin",
+      "Meja mesin",
+      "Pedal",
+      "Kabel listrik",
+      "Roda putar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Jarum tumpul merusak serat kain dan menyebabkan jahitan melompat."
+  },
+  {
+    "id": "SN_BS_42",
+    "pertanyaan": "Sepatu mesin jahit (Presser Foot) berfungsi untuk...",
+    "opsi": [
+      "Melindungi kaki penjahit",
+      "Menekan kain agar stabil saat dijahit dan mempermudah jalannya kain",
+      "Memotong benang otomatis",
+      "Memutar lampu",
+      "Sebagai hiasan meja"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Macam-macam sepatu: sepatu ritsleting, sepatu kelim, sepatu lubang kancing."
+  },
+  {
+    "id": "SN_BS_43",
+    "pertanyaan": "Minyak mesin jahit (Leasing Oil) diberikan pada bagian mesin yang bergerak untuk...",
+    "opsi": [
+      "Memberi warna",
+      "Mengeraskan kain",
+      "Mencegah karat dan menjaga keausan komponen akibat gesekan (pelumasan)",
+      "Supaya tangan licin",
+      "Mencuci baju"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pelumasan rutin membuat suara mesin halus dan awet."
+  },
+  {
+    "id": "SN_BS_44",
+    "pertanyaan": "Teknik membedah ide dari benda lain (sejarah, alam, arsitektur) untuk dijadikan inspirasi desain busana disebut...",
+    "opsi": [
+      "Mencontek",
+      "Scanning",
+      "Printing",
+      "Eksplorasi Konsep (Moodboard)",
+      "Copy Paste"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Papan inspirasi (Moodboard) membantu desainer visualisasikan tema koleksinya."
+  },
+  {
+    "id": "SN_BS_45",
+    "pertanyaan": "Sisa-sisa kain dari proses pemotongan pola yang masih bisa dimanfaatkan untuk kerajinan tangan disebut kain...",
+    "opsi": [
+      "Kain mahal",
+      "Kain kotor",
+      "Kain lap",
+      "Kain pel",
+      "Kain Perca (Scrap fabric)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Dapat dibuat teknik patchwork, quilting, atau bros bunga."
+  },
+  {
+    "id": "SN_BS_46",
+    "pertanyaan": "Cara merawat pakaian berbahan sutra yang paling benar adalah...",
+    "opsi": [
+      "Dicuci lembut dengan tangan atau dry clean; jangan dijemur langsung di bawah terik matahari",
+      "Dicuci dengan sikat kasar",
+      "Dimasukkan ke mesin cuci putaran kencang",
+      "Dibiarkan basah terus",
+      "Direbus air panas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sutra sangat sensitif terhadap gesekan keras dan matahari langsung."
+  },
+  {
+    "id": "SN_BS_47",
+    "pertanyaan": "Berapakah jumlah benang yang umum digunakan pada mesin obras standar?",
+    "opsi": [
+      "1 benang",
+      "3 atau 4 benang",
+      "10 benang",
+      "Sesuai usia penjahit",
+      "Tanpa benang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kombinasi 3-4 benang menciptakan kuncian anyaman di tepi kain."
+  },
+  {
+    "id": "SN_BS_48",
+    "pertanyaan": "Lubang kancing pada kemeja umumnya dibuat secara otomatis menggunakan mesin khusus yang disebut...",
+    "opsi": [
+      "Mesin Obras",
+      "Mesin Bordir",
+      "Mesin Itik (Buttonhole machine)",
+      "Mesin Plisket",
+      "Mesin Rajut"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mesin itik menjahit pola lubang kecil lalu memotong sela-selanya."
+  },
+  {
+    "id": "SN_BS_49",
+    "pertanyaan": "Garis leher berbentuk huruf 'V' pada kaos atau blus disebut...",
+    "opsi": [
+      "Round Neck",
+      "Turtle Neck",
+      "Sabrina Neck",
+      "V-Neck",
+      "Crew Neck"
+    ],
+    "jawaban": 3,
+    "pembahasan": "V-neck memberikan kesan leher lebih jenjang."
+  },
+  {
+    "id": "SN_BS_50",
+    "pertanyaan": "Mempelajari tata busana mencakup kemampuan berikut, kecuali...",
+    "opsi": [
+      "Menggambar desain",
+      "Membuat pola",
+      "Menjahit pakaian",
+      "Memahami jenis kain",
+      "Mengendarai pesawat terbang"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Menerbangkan pesawat bukan kompetensi inti lulusan tata busana."
+  }
+]

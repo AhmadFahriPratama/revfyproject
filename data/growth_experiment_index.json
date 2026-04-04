@@ -1,0 +1,9 @@
+{
+  "id": "growth-experiment-index",
+  "experiments": [
+    "weak_topic_recommendation",
+    "final_sprint_boost",
+    "mini_drill_engagement",
+    "roadmap_completion_nudge"
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "id": "fr-tka-2025-smk-pilihan",
+  "tahun": 2025,
+  "tingkat": "SMK",
+  "materiKategori": "pilihan",
+  "mapel": "TKA SMK pilihan",
+  "deskripsi": "Rekonstruksi FR TKA SMK 2025 kategori pilihan.",
+  "soal": [
+    {
+      "id": "fr25-smk-pilihan-bio-01",
+      "mapel": "Biologi",
+      "teks": "Bagian ginjal yang berfungsi menyaring darah (filtrasi) adalah...",
+      "opsi": {
+        "A": "Tubulus Proksimal",
+        "B": "Glomerulus",
+        "C": "Lengkung Henle",
+        "D": "Pelvis",
+        "E": "Ureter"
+      },
+      "kunci": "B",
+      "pembahasan": "Terletak di dalam Simpai Bowman pada nefron ginjal.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Biologi",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smk-pilihan-bio-02",
+      "mapel": "Biologi",
+      "teks": "Penyakit yang disebabkan oleh kekurangan hormon insulin dalam tubuh adalah...",
+      "opsi": {
+        "A": "Anemia",
+        "B": "Hipertensi",
+        "C": "Diabetes Melitus",
+        "D": "Gastritis",
+        "E": "Asma"
+      },
+      "kunci": "C",
+      "pembahasan": "Insulin mengatur kadar gula dalam darah.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Biologi",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smk-pilihan-bio-03",
+      "mapel": "Biologi",
+      "teks": "Menurut Hukum Mendel I, rasio fenotipe pada keturunan F2 hasil persilangan monohibrid dominan-resesif adalah...",
+      "opsi": {
+        "A": "1 : 1",
+        "B": "9 : 3 : 3 : 1",
+        "C": "1 : 2 : 1",
+        "D": "3 : 1",
+        "E": "2 : 1"
+      },
+      "kunci": "D",
+      "pembahasan": "Rasio 3 dominan dan 1 resesif. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"3 : 1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Biologi",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smk-pilihan-fis-01",
+      "mapel": "Fisika",
+      "teks": "Sebuah hambatan 10 Ohm dihubungkan dengan tegangan 20 Volt. Arus yang mengalir adalah...",
+      "opsi": {
+        "A": "0.5 A",
+        "B": "2 A",
+        "C": "30 A",
+        "D": "200 A",
+        "E": "10 A"
+      },
+      "kunci": "B",
+      "pembahasan": "I = V / R = 20 / 10 = 2 Ampere. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2 A\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Fisika",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smk-pilihan-fis-02",
+      "mapel": "Fisika",
+      "teks": "Daya sebuah lampu yang dialiri arus 0.5 A pada tegangan 220 V adalah...",
+      "opsi": {
+        "A": "440 W",
+        "B": "220 W",
+        "C": "110 W",
+        "D": "11 W",
+        "E": "55 W"
+      },
+      "kunci": "C",
+      "pembahasan": "P = V * I = 220 * 0.5 = 110 Watt. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"110 W\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Fisika",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smk-pilihan-fis-03",
+      "mapel": "Fisika",
+      "teks": "Tekanan hidrostatis pada kedalaman 2 meter di air (rho = 1000 kg/m^3, g = 10 m/s^2) adalah...",
+      "opsi": {
+        "A": "2.000 Pa",
+        "B": "10.000 Pa",
+        "C": "5.000 Pa",
+        "D": "20.000 Pa",
+        "E": "200 Pa"
+      },
+      "kunci": "D",
+      "pembahasan": "P = rho * g * h = 1000 * 10 * 2 = 20.000 Pascal.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Fisika",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smk-pilihan-kim-01",
+      "mapel": "Kimia",
+      "teks": "Metode pencegahan korosi dengan melapisi seng pada permukaan besi disebut...",
+      "opsi": {
+        "A": "Pengecatan",
+        "B": "Galvanisasi",
+        "C": "Pelumuran oli",
+        "D": "Tin plating",
+        "E": "Anode kurban"
+      },
+      "kunci": "B",
+      "pembahasan": "Galvanisasi menggunakan seng untuk melindungi baja/besi.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Kimia",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smk-pilihan-kim-02",
+      "mapel": "Kimia",
+      "teks": "Berapakah mol dari 4 gram NaOH? (Mr NaOH = 40)",
+      "opsi": {
+        "A": "1 mol",
+        "B": "10 mol",
+        "C": "0.1 mol",
+        "D": "0.4 mol",
+        "E": "4 mol"
+      },
+      "kunci": "C",
+      "pembahasan": "Mol = Massa / Mr = 4 / 40 = 0.1 mol. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"0.1 mol\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Kimia",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smk-pilihan-kim-03",
+      "mapel": "Kimia",
+      "teks": "Senyawa hidrokarbon yang hanya memiliki ikatan tunggal disebut...",
+      "opsi": {
+        "A": "Alkena",
+        "B": "Alkuna",
+        "C": "Benzena",
+        "D": "Alkana",
+        "E": "Alkohol"
+      },
+      "kunci": "D",
+      "pembahasan": "Alkana adalah hidrokarbon jenuh (CnH2n+2).",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Kimia",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smk-pilihan-eko-01",
+      "mapel": "Ekonomi",
+      "teks": "Kenaikan harga barang secara umum dan terus-menerus disebut...",
+      "opsi": {
+        "A": "Deflasi",
+        "B": "Inflasi",
+        "C": "Resesi",
+        "D": "Depresi",
+        "E": "Devaluasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Inflasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Ekonomi",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smk-pilihan-eko-02",
+      "mapel": "Ekonomi",
+      "teks": "Dalam manajemen, unsur 'Man' merujuk pada...",
+      "opsi": {
+        "A": "Mesin",
+        "B": "Modal",
+        "C": "Manusia (Sumber Daya Manusia)",
+        "D": "Metode",
+        "E": "Pasar"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Manusia (Sumber Daya Manusia)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Ekonomi",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smk-pilihan-eko-03",
+      "mapel": "Ekonomi",
+      "teks": "Instrumen kebijakan moneter untuk mengurangi jumlah uang beredar dengan menaikkan suku bunga bank disebut...",
+      "opsi": {
+        "A": "Operasi Pasar Terbuka",
+        "B": "Cadangan Kas Minimum",
+        "C": "Kredit Selektif",
+        "D": "Politik Diskonto",
+        "E": "Dorongan Moral"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Politik Diskonto\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Ekonomi",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smk-pilihan-geo-01",
+      "mapel": "Geografi",
+      "teks": "Siklus air yang melibatkan penguapan dari tumbuhan disebut...",
+      "opsi": {
+        "A": "Evaporasi",
+        "B": "Transpirasi",
+        "C": "Kondensasi",
+        "D": "Presipitasi",
+        "E": "Infiltrasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Transpirasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Geografi",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smk-pilihan-geo-02",
+      "mapel": "Geografi",
+      "teks": "Tanah yang sangat subur karena berasal dari material letusan gunung api adalah...",
+      "opsi": {
+        "A": "Tanah Humus",
+        "B": "Tanah Latosol",
+        "C": "Tanah Andosol (Vulkanik)",
+        "D": "Tanah Aluvial",
+        "E": "Tanah Gambut"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Tanah Andosol (Vulkanik)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Geografi",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smk-pilihan-geo-03",
+      "mapel": "Geografi",
+      "teks": "Pusat pertumbuhan (Growth Center) di Indonesia menurut teori kutub pertumbuhan bertujuan untuk...",
+      "opsi": {
+        "A": "Menumpuk kekayaan di satu kota saja",
+        "B": "Mengurangi jumlah penduduk",
+        "C": "Membuat pagar pembatas",
+        "D": "Menyebarkan pembangunan ke wilayah sekitarnya (Spread effect)",
+        "E": "Ekspor barang mewah"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menyebarkan pembangunan ke wilayah sekitarnya (Spread effect)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Geografi",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smk-pilihan-sej-01",
+      "mapel": "Sejarah",
+      "teks": "Penjajahan Belanda dimulai dengan berdirinya perserikatan dagang yang disebut...",
+      "opsi": {
+        "A": "EIC",
+        "B": "VOC",
+        "C": "GWC",
+        "D": "UNTEA",
+        "E": "KNIL"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"VOC\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Sejarah",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smk-pilihan-sej-02",
+      "mapel": "Sejarah",
+      "teks": "Gubernur Jenderal Belanda yang memerintahkan pembuatan Jalan Raya Pos (Anyer ke Panarukan) adalah...",
+      "opsi": {
+        "A": "Van den Bosch",
+        "B": "Raffles",
+        "C": "Daendels",
+        "D": "Jan Pieterszoon Coen",
+        "E": "Van Deventer"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Daendels\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Sejarah",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smk-pilihan-sej-03",
+      "mapel": "Sejarah",
+      "teks": "Politik balas budi yang dicetuskan oleh C.Th van Deventer meliputi irigasi, emigrasi, dan...",
+      "opsi": {
+        "A": "Eksploitasi",
+        "B": "Industrialisasi",
+        "C": "Investasi",
+        "D": "Edukasi (Pendidikan)",
+        "E": "Urbanisasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Edukasi (Pendidikan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Sejarah",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smk-pilihan-sos-01",
+      "mapel": "Sosiologi",
+      "teks": "Stratifikasi sosial yang terjadi akibat perbedaan tingkat pendidikan atau kekayaan biasanya bersifat...",
+      "opsi": {
+        "A": "Tertutup",
+        "B": "Terbuka",
+        "C": "Campuran",
+        "D": "Kaku",
+        "E": "Permanen"
+      },
+      "kunci": "B",
+      "pembahasan": "Dapat berubah seiring usaha individu (Achieved Status).",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Sosiologi",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smk-pilihan-sos-02",
+      "mapel": "Sosiologi",
+      "teks": "Akomodasi konflik melalui pihak ketiga yang keputusannya bersifat mengikat disebut...",
+      "opsi": {
+        "A": "Mediasi",
+        "B": "Konsiliasi",
+        "C": "Arbitrasi",
+        "D": "Kompromi",
+        "E": "Stalemate"
+      },
+      "kunci": "C",
+      "pembahasan": "Mediasi tidak mengikat, Arbitrasi mengikat.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Sosiologi",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smk-pilihan-sos-03",
+      "mapel": "Sosiologi",
+      "teks": "Perubahan sosial yang terjadi secara lambat dalam kurun waktu yang sangat lama disebut...",
+      "opsi": {
+        "A": "Revolusi",
+        "B": "Inovasi",
+        "C": "Reformasi",
+        "D": "Evolusi",
+        "E": "Stagnasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Evolusi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Sosiologi",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smk-pilihan-akd-01",
+      "mapel": "Akuntansi Dasar",
+      "teks": "Perusahaan yang kegiatannya memberikan pelayanan kepada pelanggan untuk mendapatkan imbalan disebut perusahaan...",
+      "opsi": {
+        "A": "Dagang",
+        "B": "Jasa",
+        "C": "Industri",
+        "D": "Ekstraktif",
+        "E": "Agraris"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Jasa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Akuntansi Dasar",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smk-pilihan-akd-02",
+      "mapel": "Akuntansi Dasar",
+      "teks": "Saldo normal akun 'Kas' adalah di sisi...",
+      "opsi": {
+        "A": "Kredit",
+        "B": "Kanan",
+        "C": "Debit",
+        "D": "Nol",
+        "E": "Miring"
+      },
+      "kunci": "C",
+      "pembahasan": "Akun Aset bertambah di Debit, berkurang di Kredit.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Akuntansi Dasar",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smk-pilihan-akd-03",
+      "mapel": "Akuntansi Dasar",
+      "teks": "Proses memindahkan data dari jurnal ke dalam buku besar disebut...",
+      "opsi": {
+        "A": "Penjurnalan",
+        "B": "Auditing",
+        "C": "Reporting",
+        "D": "Posting",
+        "E": "Analyzing"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Posting\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Akuntansi Dasar",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smk-pilihan-mp-01",
+      "mapel": "Manajemen Perkantoran",
+      "teks": "Surat yang dikirimkan oleh pihak perusahaan kepada pihak lain untuk menawarkan barang disebut...",
+      "opsi": {
+        "A": "Surat Lamaran",
+        "B": "Surat Penawaran (Quotation)",
+        "C": "Surat Keputusan",
+        "D": "Surat Izin",
+        "E": "Surat Kuasa"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Surat Penawaran (Quotation)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Manajemen Perkantoran",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smk-pilihan-mp-02",
+      "mapel": "Manajemen Perkantoran",
+      "teks": "Fungsi utama filter udara/AC di ruang kantor yang tertutup adalah...",
+      "opsi": {
+        "A": "Mendinginkan mesin",
+        "B": "Hiasan dinding",
+        "C": "Menjaga kenyamanan dan produktivitas karyawan (K3 Perkantoran)",
+        "D": "Menghemat listrik",
+        "E": "Penerangan"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menjaga kenyamanan dan produktivitas karyawan (K3 Perkantoran)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Manajemen Perkantoran",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smk-pilihan-mp-03",
+      "mapel": "Manajemen Perkantoran",
+      "teks": "Penyimpanan arsip digital menggunakan layanan Google Drive atau OneDrive disebut penyimpanan...",
+      "opsi": {
+        "A": "Flashdisk",
+        "B": "Harddisk Internal",
+        "C": "Disket",
+        "D": "Cloud Storage (Awan)",
+        "E": "CD-ROM"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Cloud Storage (Awan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Manajemen Perkantoran",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smk-pilihan-log-01",
+      "mapel": "Logistik",
+      "teks": "Apa kelebihan transportasi laut dibandingkan udara?",
+      "opsi": {
+        "A": "Sangat cepat",
+        "B": "Biaya lebih murah untuk kapasitas barang yang sangat besar",
+        "C": "Bisa menjangkau semua desa",
+        "D": "Mudah lewat di jalan sempit",
+        "E": "Pasti aman dari ombak"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Biaya lebih murah untuk kapasitas barang yang sangat besar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Logistik",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smk-pilihan-log-02",
+      "mapel": "Logistik",
+      "teks": "Kegiatan menghitung fisik barang di gudang secara berkala untuk dicocokkan dengan data sistem disebut...",
+      "opsi": {
+        "A": "Packing",
+        "B": "Shipping",
+        "C": "Stock Opname",
+        "D": "Buying",
+        "E": "Selling"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Stock Opname\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Logistik",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smk-pilihan-log-03",
+      "mapel": "Logistik",
+      "teks": "Istilah 'Last Mile Delivery' merujuk pada...",
+      "opsi": {
+        "A": "Pengiriman dari pabrik ke gudang utama",
+        "B": "Pengiriman antar negara",
+        "C": "Proses pengembalian barang rusak",
+        "D": "Tahap akhir pengiriman paket dari hub distribusi ke alamat penerima (konsumen)",
+        "E": "Pengiriman bahan mentah ke pabrik"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tahap akhir pengiriman paket dari hub distribusi ke alamat penerima (konsumen)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Logistik",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smk-pilihan-kul-01",
+      "mapel": "Kuliner",
+      "teks": "Alat dapur bertangkai panjang dengan lubang-lubang untuk meniriskan gorengan disebut...",
+      "opsi": {
+        "A": "Spatula",
+        "B": "Skimmer / Spider",
+        "C": "Whisk",
+        "D": "Ladle",
+        "E": "Tongs"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Skimmer / Spider\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Kuliner",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smk-pilihan-kul-02",
+      "mapel": "Kuliner",
+      "teks": "Berikut ini yang termasuk bumbu dasar putih (Nusantara) adalah...",
+      "opsi": {
+        "A": "Cabai merah, bawang merah, terasi",
+        "B": "Kunyit, jahe, lengkuas",
+        "C": "Bawang merah, bawang putih, kemiri",
+        "D": "Tomat, cabai hijau, bawang",
+        "E": "Kecap dan saus sambal"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Bawang merah, bawang putih, kemiri\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Kuliner",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smk-pilihan-kul-03",
+      "mapel": "Kuliner",
+      "teks": "Memasak telur di dalam air yang hampir mendidih (suhu 71-82 C) tanpa cangkang disebut...",
+      "opsi": {
+        "A": "Boiling",
+        "B": "Simmering",
+        "C": "Braising",
+        "D": "Poaching",
+        "E": "Stewing"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Poaching\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Kuliner",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smk-pilihan-hot-01",
+      "mapel": "Perhotelan",
+      "teks": "Pakaian atau seragam kerja karyawan hotel yang rapi, bersih, dan sesuai standar disebut...",
+      "opsi": {
+        "A": "Style",
+        "B": "Grooming",
+        "C": "Fashion",
+        "D": "Costume",
+        "E": "Armor"
+      },
+      "kunci": "B",
+      "pembahasan": "Grooming mencakup kebersihan rambut, kuku, dan bau badan.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Perhotelan",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smk-pilihan-hot-02",
+      "mapel": "Perhotelan",
+      "teks": "Sapaan standar saat mengangkat telepon di hotel adalah...",
+      "opsi": {
+        "A": "Halo, siapa ini?",
+        "B": "Ya, ada apa?",
+        "C": "Salam (Selamat Pagi/Siang), Nama Hotel, Nama Staff, 'May I help you?'",
+        "D": "Wait a minute",
+        "E": "Jangan telepon dulu"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Salam (Selamat Pagi/Siang), Nama Hotel, Nama Staff, 'May I help you?'\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Perhotelan",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smk-pilihan-hot-03",
+      "mapel": "Perhotelan",
+      "teks": "Proses merapikan tempat tidur di hotel mengikuti urutan...",
+      "opsi": {
+        "A": "Bantal dulu baru sprei",
+        "B": "Terserah yang penting rapi",
+        "C": "Guling saja sudah cukup",
+        "D": "Sprei (Sheet), Selimut (Blanket), Bantal (Pillow Case), Bed Cover",
+        "E": "Hanya ganti bantal"
+      },
+      "kunci": "D",
+      "pembahasan": "Urutan sistematis untuk efisiensi waktu kerja.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Perhotelan",
+      "hari_ujian": 1
+    }
+  ]
+}

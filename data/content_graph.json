@@ -1,0 +1,127 @@
+{
+  "id": "content-graph",
+  "nodes": [
+    {
+      "id": "mat-cpns",
+      "type": "materi",
+      "path": "materi/CPNS/cpns_materi_lengkap.json"
+    },
+    {
+      "id": "soal-cpns",
+      "type": "soal",
+      "path": "soal/CPNS/cpns_latihan_lengkap.json"
+    },
+    {
+      "id": "fr-cpns",
+      "type": "fr",
+      "path": "fr_soal/CPNS/cpns2025_rekonstruksi.json"
+    },
+    {
+      "id": "to-cpns",
+      "type": "tryout",
+      "path": "tryout/CPNS/cpns_tryout_master.json"
+    },
+    {
+      "id": "mat-utbk",
+      "type": "materi",
+      "path": "materi/UTBK/utbk_materi_lengkap.json"
+    },
+    {
+      "id": "soal-utbk",
+      "type": "soal",
+      "path": "soal/UTBK/utbk_latihan_Penalaran_Umum.json"
+    },
+    {
+      "id": "fr-utbk",
+      "type": "fr",
+      "path": "fr_soal/UTBK/utbk2025_rekonstruksi_lintas_subtes.json"
+    },
+    {
+      "id": "to-utbk",
+      "type": "tryout",
+      "path": "tryout/UTBK/utbk_tryout_nasional.json"
+    },
+    {
+      "id": "mat-tka-smp",
+      "type": "materi",
+      "path": "materi/TKA_SMP/TKA_SMP_BahasaIndonesia_materi.json"
+    },
+    {
+      "id": "fr-tka-smp",
+      "type": "fr",
+      "path": "fr_soal/TKA_SMP/tka2025_smp_wajib_rekonstruksi.json"
+    },
+    {
+      "id": "to-tka-smp",
+      "type": "tryout",
+      "path": "tryout/TKA_SMP/tka_smp_wajib_tryout_v01.json"
+    },
+    {
+      "id": "soal-tka-smk",
+      "type": "soal",
+      "path": "soal/SMK/TKA_SMK_BahasaIndonesia_soal.json"
+    },
+    {
+      "id": "fr-tka-smk",
+      "type": "fr",
+      "path": "fr_soal/SMK/tka2025_smk_wajib_rekonstruksi.json"
+    },
+    {
+      "id": "to-tka-smk",
+      "type": "tryout",
+      "path": "tryout/TKA_SMK/tka_smk_wajib_tryout_v01.json"
+    }
+  ],
+  "edges": [
+    {
+      "from": "mat-cpns",
+      "to": "soal-cpns",
+      "relation": "prepares"
+    },
+    {
+      "from": "soal-cpns",
+      "to": "fr-cpns",
+      "relation": "compares_with"
+    },
+    {
+      "from": "fr-cpns",
+      "to": "to-cpns",
+      "relation": "feeds_simulation"
+    },
+    {
+      "from": "mat-utbk",
+      "to": "soal-utbk",
+      "relation": "prepares"
+    },
+    {
+      "from": "soal-utbk",
+      "to": "fr-utbk",
+      "relation": "compares_with"
+    },
+    {
+      "from": "fr-utbk",
+      "to": "to-utbk",
+      "relation": "feeds_simulation"
+    },
+    {
+      "from": "mat-tka-smp",
+      "to": "fr-tka-smp",
+      "relation": "supports"
+    },
+    {
+      "from": "fr-tka-smp",
+      "to": "to-tka-smp",
+      "relation": "feeds_simulation"
+    },
+    {
+      "from": "soal-tka-smk",
+      "to": "fr-tka-smk",
+      "relation": "supports"
+    },
+    {
+      "from": "fr-tka-smk",
+      "to": "to-tka-smk",
+      "relation": "feeds_simulation"
+    }
+  ]
+}

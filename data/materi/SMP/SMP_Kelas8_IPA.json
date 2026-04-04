@@ -1,0 +1,34 @@
+{
+  "id": "materi-smp-kls8-ipa",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "IPA",
+  "materi": "Gerak Benda, Sistem Pencernaan, Usaha & Pesawat Sederhana, Getaran & Gelombang",
+  "deskripsi": "IPA Kelas 8 mempelajari biologi tubuh manusia (pencernaan, peredaran darah) dan konsep fisika dasar seperti gerak, tekanan, serta getaran bunyi.",
+  "konten": [
+    {
+      "bab": "1. Gerak Benda dan Makhluk Hidup di Lingkungan Sekitar",
+      "teks": "Konsep Hukum Newton I, II, III, gerak lurus (GLB dan GLBB), serta sistem gerak pada manusia (tulang, sendi, otot)."
+    },
+    {
+      "bab": "2. Usaha dan Pesawat Sederhana",
+      "teks": "Menghitung usaha dan penerapan pesawat sederhana (tuas, katrol, bidang miring) dalam kehidupan sehari-hari."
+    },
+    {
+      "bab": "3. Struktur dan Fungsi Tumbuhan",
+      "teks": "Menganalisis jaringan penyusun organ tumbuhan (akar, batang, daun) serta proses fotosintesis."
+    },
+    {
+      "bab": "4. Sistem Pencernaan Manusia",
+      "teks": "Mempelajari nutrisi makanan, organ perencanaan mekanis & kimiawi, serta gangguan/penyakit sistem pencernaan."
+    },
+    {
+      "bab": "5. Tekanan Zat dan Penerapannya",
+      "teks": "Hukum Archimedes, Hukum Pascal, tekanan hidrostatis, dan aplikasinya pada kapal selam atau dongkrak."
+    },
+    {
+      "bab": "6. Getaran, Gelombang, dan Bunyi",
+      "teks": "Memahami konsep frekuensi, periode getaran, jenis gelombang, serta sifat bunyi (resonansi dan pemantulan)."
+    }
+  ],
+  "tag": ["smp-8", "ipa", "gerak-benda", "pesawat-sederhana", "pencernaan", "tekanan", "bunyi"]
+}

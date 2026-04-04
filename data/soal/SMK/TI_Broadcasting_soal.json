@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TI_BR_01",
+    "pertanyaan": "Proses pengiriman pesan (suara atau gambar) melalui gelombang elektromagnetik ke khalayak luas disebut...",
+    "opsi": [
+      "Broadcasting",
+      "Networking",
+      "Printing",
+      "Programming",
+      "Design"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Broadcasting atau penyiaran adalah penyampaian pesan ke audiens yang luas secara serentak."
+  },
+  {
+    "id": "TI_BR_02",
+    "pertanyaan": "Lembaga negara di Indonesia yang bertugas mengawasi jalannya konten siaran radio dan televisi agar sesuai etika adalah...",
+    "opsi": [
+      "KPK",
+      "KPI (Komisi Penyiaran Indonesia)",
+      "KPU",
+      "KOMNAS HAM",
+      "BKN"
+    ],
+    "jawaban": 1,
+    "pembahasan": "KPI mengawasi konten agar tidak mengandung SARA, kekerasan berlebih, atau asusila."
+  },
+  {
+    "id": "TI_BR_03",
+    "pertanyaan": "Pemimpin tertinggi dalam sebuah produksi film yang bertanggung jawab secara teknis dan artistik adalah...",
+    "opsi": [
+      "Produser",
+      "Kameramen",
+      "Sutradara (Director)",
+      "Editor",
+      "Scripwriter"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sutradara menerjemahkan naskah menjadi karya visual dan mengarahkan pemeran serta kru."
+  },
+  {
+    "id": "TI_BR_04",
+    "pertanyaan": "Orang yang bertanggung jawab mencari dana, mengelola biaya, dan mengurus perizinan produksi adalah...",
+    "opsi": [
+      "Sutradara",
+      "Artistik",
+      "Make up",
+      "Produser",
+      "Talent"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Produser mengelola aspek bisnis dan manajemen produksi."
+  },
+  {
+    "id": "TI_BR_05",
+    "pertanyaan": "Pergerakan kamera secara horizontal dari kiri ke kanan atau sebaliknya disebut...",
+    "opsi": [
+      "Tilt",
+      "Zoom",
+      "Dolly",
+      "Truck",
+      "Pan (Panning)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Panning berasal dari kata 'Panoramic' (gerak menyamping)."
+  },
+  {
+    "id": "TI_BR_06",
+    "pertanyaan": "Pergerakan kamera secara vertikal mendongak ke atas atau ke bawah disebut...",
+    "opsi": [
+      "Tilt (Tilting)",
+      "Pan",
+      "Zoom",
+      "Dolly",
+      "Pedestal"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tilt Up (mendongak) dan Tilt Down (menunduk)."
+  },
+  {
+    "id": "TI_BR_07",
+    "pertanyaan": "Teknik pencahayaan standar 'Three Point Lighting' terdiri dari...",
+    "opsi": [
+      "Sun Light, Moon Light, Star Light",
+      "Key Light, Fill Light, Back Light",
+      "Flash, Neon, Lamp",
+      "Red, Green, Blue",
+      "Top, Bottom, Middle Light"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Key Light (utama), Fill Light (pengisi bayangan), Back Light (pemisah objek dari background)."
+  },
+  {
+    "id": "TI_BR_08",
+    "pertanyaan": "Cahaya yang diletakkan di belakang objek untuk memberikan efek garis tepi (rim light) sehingga objek tidak menyatu dengan background disebut...",
+    "opsi": [
+      "Key Light",
+      "Fill Light",
+      "Back Light",
+      "Top Light",
+      "Soft Light"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Back light memberikan kesan kedalaman (3D) pada gambar video."
+  },
+  {
+    "id": "TI_BR_09",
+    "pertanyaan": "Teknik pengambilan gambar yang hanya memperlihatkan wajah dari dagu sampai dahi secara detail disebut...",
+    "opsi": [
+      "Extreme Close Up",
+      "Medium Shot",
+      "Long Shot",
+      "Big Close Up",
+      "Full Shot"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Big Close Up fokus pada ekspresi emosi wajah pemain."
+  },
+  {
+    "id": "TI_BR_10",
+    "pertanyaan": "Teknik pengambilan gambar dari kepala hingga lutut disebut...",
+    "opsi": [
+      "Extreme Close Up",
+      "Close Up",
+      "Establishing Shot",
+      "Wide Shot",
+      "Knee Shot"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Knee shot memperlihatkan gerak tubuh dan interaksi pemain."
+  },
+  {
+    "id": "TI_BR_11",
+    "pertanyaan": "Naskah berita televisi harus memenuhi unsur 5W+1H. Apa yang dimaksud dengan 'Who'?",
+    "opsi": [
+      "Siapa saja pihak yang terlibat",
+      "Kapan kejadian",
+      "Di mana lokasi",
+      "Mengapa terjadi",
+      "Bagaimana prosesnya"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Who menanyakan subjek atau narasumber berita."
+  },
+  {
+    "id": "TI_BR_12",
+    "pertanyaan": "Alat bantu di depan lensa kamera yang menampilkan teks naskah agar presenter bisa membaca sambil menatap kamera disebut...",
+    "opsi": [
+      "Monitor",
+      "Teleprompter",
+      "Tablet",
+      "Lensa",
+      "Microphone"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Teleprompter membantu presenter tetap terlihat natural menatap penonton."
+  },
+  {
+    "id": "TI_BR_13",
+    "pertanyaan": "Proses pengambilan suara ulang setelah syuting selesai karena suara asli kurang jelas disebut...",
+    "opsi": [
+      "Editing",
+      "Mixing",
+      "Dubbing / Foley",
+      "Rendering",
+      "Cutting"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dubbing dilakukan di studio rekaman suara."
+  },
+  {
+    "id": "TI_BR_14",
+    "pertanyaan": "Kualitas suara yang jernih dengan pengucapan kata yang jelas disebut...",
+    "opsi": [
+      "Intonasi",
+      "Power",
+      "Tempo",
+      "Artikulasi",
+      "Resonansi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Artikulasi yang baik sangat penting bagi penyiar agar pesan tersampaikan."
+  },
+  {
+    "id": "TI_BR_15",
+    "pertanyaan": "Naik turunnya nada suara saat berbicara agar tidak terdengar datar disebut...",
+    "opsi": [
+      "Artikulasi",
+      "Aksen",
+      "Dialek",
+      "Volume",
+      "Intonasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Intonasi memberikan penekanan dan perasaan pada kalimat."
+  },
+  {
+    "id": "TI_BR_16",
+    "pertanyaan": "Mic yang berbentuk bulat besar dan biasanya diletakkan menggunakan boom pole saat syuting film adalah...",
+    "opsi": [
+      "Shotgun mic",
+      "Clip-on mic",
+      "Handheld mic",
+      "Headset mic",
+      "Internal mic"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Shotgun mic memiliki pola penangkapan suara yang fokus ke satu arah."
+  },
+  {
+    "id": "TI_BR_17",
+    "pertanyaan": "Software editing video standar industri yang dikembangkan oleh Adobe adalah...",
+    "opsi": [
+      "Adobe Photoshop",
+      "Adobe Premiere Pro",
+      "Adobe Illustrator",
+      "Adobe Reader",
+      "Adobe Flash"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Premiere Pro digunakan untuk editing profesional non-linear."
+  },
+  {
+    "id": "TI_BR_18",
+    "pertanyaan": "Proses penggabungan semua elemen video, audio, dan efek menjadi satu file video utuh disebut...",
+    "opsi": [
+      "Cutting",
+      "Importing",
+      "Rendering / Exporting",
+      "Formatting",
+      "Deleting"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rendering adalah tahap akhir sebelum video disiarkan atau diunggah."
+  },
+  {
+    "id": "TI_BR_19",
+    "pertanyaan": "Latar belakang warna hijau atau biru yang digunakan saat syuting agar bisa diganti dengan background digital disebut...",
+    "opsi": [
+      "White Screen",
+      "Black Screen",
+      "Wall Paint",
+      "Green Screen / Chroma Key",
+      "Banner"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Chroma keying memungkinkan pembuatan lingkungan virtual."
+  },
+  {
+    "id": "TI_BR_20",
+    "pertanyaan": "Penyebaran berita bohong atau tidak benar disebut...",
+    "opsi": [
+      "Headline",
+      "Breaking News",
+      "Feature",
+      "Hard News",
+      "Hoaks"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Penyiar dan jurnalis harus melakukan cek fakta (fact check) untuk menghindari hoaks."
+  },
+  {
+    "id": "TI_BR_21",
+    "pertanyaan": "Wawancara singkat dengan orang di jalan untuk mendapatkan pendapat tentang suatu isu disebut teknik...",
+    "opsi": [
+      "Vox Pop",
+      "Talkshow",
+      "Press Conference",
+      "Investigasi",
+      "Debat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Vox Pop (Vox Populi) berarti suara rakyat."
+  },
+  {
+    "id": "TI_BR_22",
+    "pertanyaan": "Gambar yang diambil untuk menutupi kesalahan potong (jump cut) atau sebagai pelengkap berita televisi disebut...",
+    "opsi": [
+      "Opening",
+      "B-Roll / Footage",
+      "Closing",
+      "Credit Title",
+      "Script"
+    ],
+    "jawaban": 1,
+    "pembahasan": "B-roll memperkaya visual berita agar tidak hanya menampilkan wajah narasumber saja."
+  },
+  {
+    "id": "TI_BR_23",
+    "pertanyaan": "Urutan daftar acara beserta durasi detil waktu penayangannya dalam sebuah stasiun TV disebut...",
+    "opsi": [
+      "Script",
+      "Outline",
+      "Rundown",
+      "Menu",
+      "Katalog"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rundown memastikan siaran berjalan tepat waktu (on time)."
+  },
+  {
+    "id": "TI_BR_24",
+    "pertanyaan": "Perangkat yang berfungsi memilih dan menggabungkan gambar dari beberapa kamera saat siaran langsung (live) adalah...",
+    "opsi": [
+      "Camera",
+      "Monitor",
+      "Tripod",
+      "Video Switcher / Vision Mixer",
+      "Clapper"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Switcher dioperasikan oleh seorang Switcherman atas instruksi sutradara."
+  },
+  {
+    "id": "TI_BR_25",
+    "pertanyaan": "Alat yang berbunyi 'cetrek' berisi informasi scene dan take sebelum syuting dimulai disebut...",
+    "opsi": [
+      "Papan Tulis",
+      "Spidol",
+      "Gitar",
+      "Speaker",
+      "Clapper Board"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Clapper membantu menyelaraskan (sinkronisasi) audio dan video saat editing."
+  },
+  {
+    "id": "TI_BR_26",
+    "pertanyaan": "Jenis naskah yang hanya berisi garis besar poin-poin yang akan dibicarakan (biasanya untuk radio/talkshow) disebut...",
+    "opsi": [
+      "Naskah Outline",
+      "Naskah Drama",
+      "Naskah Full Script",
+      "Naskah Berita",
+      "Naskah Film"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Outline memberikan ruang improvisasi bagi penyiar."
+  },
+  {
+    "id": "TI_BR_27",
+    "pertanyaan": "Satuan durasi terkecil dalam sebuah video disebut...",
+    "opsi": [
+      "Second",
+      "Frame",
+      "Minute",
+      "Hour",
+      "Pixel"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Umumnya video memiliki 24, 30, atau 60 Frame Per Second (FPS)."
+  },
+  {
+    "id": "TI_BR_28",
+    "pertanyaan": "Gerakan kamera menjauhi objek seolah-olah penonton melihat gambaran yang lebih luas disebut...",
+    "opsi": [
+      "Zoom In",
+      "Pan Left",
+      "Zoom Out",
+      "Tilt Up",
+      "Dolly"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Zoom out memperluas sudut pandang lensa."
+  },
+  {
+    "id": "TI_BR_29",
+    "pertanyaan": "Sudut kamera yang diambil tepat di atas objek dengan kamera menghadap lurus ke bawah disebut...",
+    "opsi": [
+      "Eye Level",
+      "Low Angle",
+      "Frog Eye",
+      "Top Angle / Birds Eye View",
+      "Canted"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Memberikan perspektif denah atau pola lantai."
+  },
+  {
+    "id": "TI_BR_30",
+    "pertanyaan": "Apa itu 'Voice Over' (VO)?",
+    "opsi": [
+      "Suara penyanyi latar",
+      "Suara ledakan",
+      "Suara musik pembuka",
+      "Suara radio rusak",
+      "Suara narasi yang tidak memperlihatkan wajah orangnya di layar"
+    ],
+    "jawaban": 4,
+    "pembahasan": "VO sering digunakan pada dokumenter atau iklan TV."
+  },
+  {
+    "id": "TI_BR_31",
+    "pertanyaan": "Pekerjaan seorang 'Continuity Girl/Boy' saat syuting adalah...",
+    "opsi": [
+      "Menjaga konsistensi posisi barang, pakaian, dan gerakan antar take agar tidak bocor (jump cut)",
+      "Memasak makanan",
+      "Menyetir mobil",
+      "Membayar gaji",
+      "Mencuci kamera"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penting agar saat diedit, adegan terlihat menyambung secara logis."
+  },
+  {
+    "id": "TI_BR_32",
+    "pertanyaan": "Format aspek rasio standar untuk televisi layar lebar (Widescreen) saat ini adalah...",
+    "opsi": [
+      "4:3",
+      "16:9",
+      "21:9",
+      "1:1",
+      "9:16"
+    ],
+    "jawaban": 1,
+    "pembahasan": "16:9 adalah standar High Definition (HD)."
+  },
+  {
+    "id": "TI_BR_33",
+    "pertanyaan": "Resolusi video 'Full HD' memiliki ukuran...",
+    "opsi": [
+      "720p",
+      "4K",
+      "1080p (1920x1080)",
+      "240p",
+      "480p"
+    ],
+    "jawaban": 2,
+    "pembahasan": "1080 baris horizontal piksel. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"1080p (1920x1080)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TI_BR_34",
+    "pertanyaan": "Efek transisi di mana satu gambar perlahan menghilang dan gambar lain perlahan muncul menumpuk disebut...",
+    "opsi": [
+      "Cut To",
+      "Wipe",
+      "Slide",
+      "Dissolve / Cross-fade",
+      "Black out"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Dissolve memberikan kesan waktu yang berlalu atau suasana melankolis."
+  },
+  {
+    "id": "TI_BR_35",
+    "pertanyaan": "Alat penyangga kamera yang memiliki tiga kaki untuk menjaga kestabilan gambar disebut...",
+    "opsi": [
+      "Monopod",
+      "Stabilizer",
+      "Gimbal",
+      "Crane",
+      "Tripod"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tripod mencegah gambar goyang/shaky. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tripod\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TI_BR_36",
+    "pertanyaan": "Video yang diunggah ke internet secara terus menerus (seperti siaran TV lewat YouTube) disebut...",
+    "opsi": [
+      "Streaming / Live Streaming",
+      "Downloading",
+      "Browsing",
+      "Chatting",
+      "Gaming"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Streaming memungkinkan penonton menonton tanpa harus mengunduh file secara utuh terlebih dahulu."
+  },
+  {
+    "id": "TI_BR_37",
+    "pertanyaan": "Seseorang yang berbakat membawakan acara di depan umum dengan lancar disebut...",
+    "opsi": [
+      "Sutradara",
+      "Master of Ceremony (MC)",
+      "Editor",
+      "Clapper",
+      "Runner"
+    ],
+    "jawaban": 1,
+    "pembahasan": "MC bertugas memandu jalannya acara dari awal hingga akhir."
+  },
+  {
+    "id": "TI_BR_38",
+    "pertanyaan": "Proses menata letak lampu agar objek di depan kamera terlihat jelas dan berdimensi disebut...",
+    "opsi": [
+      "Coloring",
+      "Styling",
+      "Lighting",
+      "Editing",
+      "Posing"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tanpa tata cahaya yang baik, kualitas gambar video akan terlihat amatir."
+  },
+  {
+    "id": "TI_BR_39",
+    "pertanyaan": "Warna suara yang khas pada setiap individu disebut...",
+    "opsi": [
+      "Volume",
+      "Tempo",
+      "Pitch",
+      "Timber / Timbre",
+      "Dinamika"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Timbre membedakan suara satu orang dengan orang lain meskipun nadanya sama."
+  },
+  {
+    "id": "TI_BR_40",
+    "pertanyaan": "Latihan mengucapkan kata-kata sulit secara cepat untuk melatih kelancaran bicara disebut...",
+    "opsi": [
+      "Puisi",
+      "Bernyanyi",
+      "Berteriak",
+      "Berbisik",
+      "Tongue Twister"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: 'Ular lari lurus' diulang-ulang."
+  },
+  {
+    "id": "TI_BR_41",
+    "pertanyaan": "Istilah 'On Air' pada lampu di depan studio radio/TV berarti...",
+    "opsi": [
+      "Siaran sedang berlangsung/udara sedang digunakan",
+      "AC sedang menyala",
+      "Lantai sedang dipel",
+      "Silakan masuk",
+      "Listrik sedang padam"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Semua orang di sekitar studio harus tenang (tidak berisik) saat lampu On Air menyala."
+  },
+  {
+    "id": "TI_BR_42",
+    "pertanyaan": "Bagian akhir sebuah film yang menampilkan daftar nama semua kru dan pemain disebut...",
+    "opsi": [
+      "Opening",
+      "Credit Title",
+      "Running Text",
+      "Subtitle",
+      "Teaser"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penghargaan bagi semua orang yang terlibat dalam produksi."
+  },
+  {
+    "id": "TI_BR_43",
+    "pertanyaan": "Video pendek yang berisi potongan adegan film yang akan datang untuk menarik minat penonton disebut...",
+    "opsi": [
+      "Prologue",
+      "Epilogue",
+      "Trailer / Teaser",
+      "Bonus Scene",
+      "Behind the Scenes"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Trailer biasanya dirilis beberapa bulan sebelum film tayang."
+  },
+  {
+    "id": "TI_BR_44",
+    "pertanyaan": "Teknik pengangkatan kamera secara vertikal (seperti naik lift) untuk mengikuti gerak objek disebut...",
+    "opsi": [
+      "Zoom Up",
+      "Tilt Up",
+      "Sliding",
+      "Pedestal Up/Down",
+      "Jumping"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Menggunakan tiang penyangga yang bisa diatur ketinggiannya."
+  },
+  {
+    "id": "TI_BR_45",
+    "pertanyaan": "Apa fungsi filter 'Pop Screen' pada microphone di studio rekaman?",
+    "opsi": [
+      "Menyaring udara kotor",
+      "Membuat mic berwarna-warni",
+      "Menyimpan data suara",
+      "Menangkap sinyal wifi",
+      "Meredam bunyi letupan napas (huruf P, B, T) saat bicara agar tidak mengganggu audio"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Mencegah suara 'pop' yang merusak hasil rekaman."
+  },
+  {
+    "id": "TI_BR_46",
+    "pertanyaan": "Berita yang menyangkut peristiwa penting yang baru saja terjadi dan harus segera disiarkan disebut...",
+    "opsi": [
+      "Hard News",
+      "Soft News",
+      "Feature",
+      "Opini",
+      "Tajuk Rencana"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh hard news: bencana alam, politik, atau kecelakaan hebat."
+  },
+  {
+    "id": "TI_BR_47",
+    "pertanyaan": "Program TV yang menampilkan obrolan santai antara pembawa acara dengan narasumber disebut...",
+    "opsi": [
+      "Kuis",
+      "Talkshow / Gelar Wicara",
+      "Sinetron",
+      "Reality Show",
+      "Variety Show"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Talkshow berfokus pada informasi dan edukasi melalui dialog."
+  },
+  {
+    "id": "TI_BR_48",
+    "pertanyaan": "Posisi sudut kamera yang membuat background terlihat miring (memberikan kesan tidak stabil/bingung) disebut...",
+    "opsi": [
+      "High Angle",
+      "Eye Level",
+      "Dutch Tilt / Canted Angle",
+      "Low Angle",
+      "Macro"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sering digunakan pada film horor atau thriller."
+  },
+  {
+    "id": "TI_BR_49",
+    "pertanyaan": "Satu pengambilan gambar dari kamera mulai merekam hingga berhenti disebut...",
+    "opsi": [
+      "Scene",
+      "Shot",
+      "Sequences",
+      "Take",
+      "Cut"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jika salah, dilakukan 'Take 2', 'Take 3', dan seterusnya."
+  },
+  {
+    "id": "TI_BR_50",
+    "pertanyaan": "Mengapa kerjasama tim (Teamwork) sangat krusial dalam produksi broadcasting?",
+    "opsi": [
+      "Agar tidak capek sendirian",
+      "Hanya mengikuti aturan sekolah",
+      "Supaya gaji dibagi rata",
+      "Biar bisa mengobrol santai",
+      "Karena produksi film/siaran melibatkan banyak divisi berbeda yang harus bekerja harmonis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kegagalan satu divisi (misal audio rusak) bisa merusak seluruh karya video."
+  }
+]

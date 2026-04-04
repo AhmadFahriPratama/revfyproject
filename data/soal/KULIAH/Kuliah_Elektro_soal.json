@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_EL_01",
+    "pertanyaan": "Teorema yang menyatakan bahwa rangkaian linier dua terminal dapat digantikan oleh sumber tegangan tunggal (Vth) dan resistansi seri tunggal (Rth) disebut teorema...",
+    "opsi": [
+      "Teorema Thevenin",
+      "Teorema Norton",
+      "Teorema Superposisi",
+      "Hukum Ohm",
+      "Hukum Kirchhoff"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Teorema Thevenin menyederhanakan analisis rangkaian kompleks."
+  },
+  {
+    "id": "KU_EL_02",
+    "pertanyaan": "Teorema yang menyatakan bahwa rangkaian linier dua terminal dapat digantikan oleh sumber arus tunggal (In) dan resistansi paralel tunggal (Rn) disebut teorema...",
+    "opsi": [
+      "Teorema Thevenin",
+      "Teorema Norton",
+      "Teorema Millman",
+      "Teorema Tellegen",
+      "Teorema Reciprocity"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Teorema Norton adalah dualitas dari teorema Thevenin."
+  },
+  {
+    "id": "KU_EL_03",
+    "pertanyaan": "Alat matematika yang digunakan untuk mengubah fungsi domain waktu menjadi domain frekuensi kompleks (s) adalah...",
+    "opsi": [
+      "Transformasi Fourier",
+      "Integrasi Parsial",
+      "Transformasi Laplace",
+      "Diferensial Numerik",
+      "Logaritma Alami"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Laplace memudahkan penyelesaian persamaan diferensial linier pada rangkaian listrik."
+  },
+  {
+    "id": "KU_EL_04",
+    "pertanyaan": "Komponen elektronika aktif yang berfungsi sebagai penguat sinyal, komparator, atau osilator dengan input impedansi sangat tinggi adalah...",
+    "opsi": [
+      "Resistor",
+      "Kapasitor",
+      "Dioda Zener",
+      "Op-Amp (Operational Amplifier)",
+      "Induktor"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Op-Amp sering digunakan dalam rangkaian komputasi analog."
+  },
+  {
+    "id": "KU_EL_05",
+    "pertanyaan": "Satuan unit untuk mengukur frekuensi gelombang (jumlah getaran per detik) adalah...",
+    "opsi": [
+      "Watt",
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Hert (Hz)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Frekuensi listrik PLN di Indonesia adalah 50 Hz."
+  },
+  {
+    "id": "KU_EL_06",
+    "pertanyaan": "Hukum yang menyatakan bahwa total arus yang masuk ke sebuah titik percabangan sama dengan total arus yang keluar adalah...",
+    "opsi": [
+      "KCL (Kirchhoff’s Current Law)",
+      "KVL (Kirchhoff’s Voltage Law)",
+      "Hukum Coulomb",
+      "Hukum Faraday",
+      "Hukum Lenz"
+    ],
+    "jawaban": 0,
+    "pembahasan": "KCL didasarkan pada kekekalan muatan listrik."
+  },
+  {
+    "id": "KU_EL_07",
+    "pertanyaan": "Hukum yang menyatakan bahwa jumlah aljabar tegangan dalam satu loop tertutup sama dengan nol adalah...",
+    "opsi": [
+      "KCL",
+      "KVL (Kirchhoff’s Voltage Law)",
+      "Hukum Bio-Savart",
+      "Hukum Ampere",
+      "Hukum Lorent"
+    ],
+    "jawaban": 1,
+    "pembahasan": "KVL didasarkan pada kekekalan energi. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"KVL (Kirchhoff’s Voltage Law)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_EL_08",
+    "pertanyaan": "Empat persamaan fundamental yang menjelaskan seluruh fenomena elektromagnetik klasik disebut persamaan...",
+    "opsi": [
+      "Persamaan Newton",
+      "Persamaan Einstein",
+      "Persamaan Maxwell",
+      "Persamaan Schrodinger",
+      "Persamaan Laplace"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Persamaan Maxwell menyatukan listrik dan magnetisme."
+  },
+  {
+    "id": "KU_EL_09",
+    "pertanyaan": "Alat yang berfungsi mengubah energi listrik menjadi energi mekanik (putar) adalah...",
+    "opsi": [
+      "Generator",
+      "Transformator",
+      "Baterai",
+      "Motor Listrik",
+      "Pompa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bekerja berdasarkan gaya Lorentz pada kawat berarus dalam medan magnet."
+  },
+  {
+    "id": "KU_EL_10",
+    "pertanyaan": "Alat yang berfungsi mengubah energi mekanik (gerak) menjadi energi listrik adalah...",
+    "opsi": [
+      "Motor",
+      "Kapasitor",
+      "Transistor",
+      "Lampu",
+      "Generator / Alternator"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bekerja berdasarkan hukum induksi elektromagnetik Faraday."
+  },
+  {
+    "id": "KU_EL_11",
+    "pertanyaan": "Alat yang berfungsi menaikkan atau menurunkan tegangan listrik AC tanpa mengubah frekuensinya disebut...",
+    "opsi": [
+      "Transformator (Trafo)",
+      "Inverter",
+      "Konverter",
+      "Stabilizer",
+      "Adaptor"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Prinsip kerjanya menggunakan induksi timbal balik antarkumparan."
+  },
+  {
+    "id": "KU_EL_12",
+    "pertanyaan": "Rangkaian daya yang mengubah arus searah (DC) menjadi arus bolak-balik (AC) disebut...",
+    "opsi": [
+      "Rectifier",
+      "Inverter",
+      "Cycloconverter",
+      "Chopper",
+      "Switch"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Inverter digunakan pada sistem panel surya atau UPS."
+  },
+  {
+    "id": "KU_EL_13",
+    "pertanyaan": "Rangkaian daya yang mengubah arus bolak-balik (AC) menjadi arus searah (DC) disebut...",
+    "opsi": [
+      "Inverter",
+      "Dimmer",
+      "Rectifier (Penyearah)",
+      "Amplifier",
+      "Sensor"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rectifier menggunakan dioda sebagai komponen utama penyearahan."
+  },
+  {
+    "id": "KU_EL_14",
+    "pertanyaan": "Komponen semikonduktor tiga terminal yang berfungsi sebagai saklar cepat atau penguat arus adalah...",
+    "opsi": [
+      "Dioda",
+      "Resistor",
+      "Kapasitor",
+      "Transistor (BJT/MOSFET)",
+      "Induktor"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Transistor adalah komponen kunci dalam revolusi perangkat elektronik digital."
+  },
+  {
+    "id": "KU_EL_15",
+    "pertanyaan": "Sistem pengendalian yang outputnya diumpan-balikkan (feedback) ke input untuk meminimalkan error disebut sistem...",
+    "opsi": [
+      "Open Loop (Sistem Terbuka)",
+      "Sistem Linear",
+      "Sistem Statis",
+      "Sistem Manual",
+      "Closed Loop (Sistem Tertutup)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Feedback memungkinkan sistem penyesuaian otomatis (Self-regulating)."
+  },
+  {
+    "id": "KU_EL_16",
+    "pertanyaan": "Kendali yang paling populer digunakan di industri, yang merupakan singkatan dari Proportional-Integral-Derivative adalah...",
+    "opsi": [
+      "PID Controller",
+      "PLC",
+      "SCADA",
+      "PWM",
+      "HMI"
+    ],
+    "jawaban": 0,
+    "pembahasan": "PID memberikan respon sistem yang cepat dan akurat."
+  },
+  {
+    "id": "KU_EL_17",
+    "pertanyaan": "Diagram yang memetakan respon frekuensi (gain dan fase) suatu sistem kontrol pada grafik logaritmik disebut...",
+    "opsi": [
+      "Nyquist Plot",
+      "Bode Plot",
+      "Root Locus",
+      "Pie Chart",
+      "Histogram"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Bode plot sangat membantu analisis stabilitas sistem kontrol."
+  },
+  {
+    "id": "KU_EL_18",
+    "pertanyaan": "Metode komunikasi data tanpa kabel yang menggunakan spektrum frekuensi 2.4 GHz atau 5 GHz adalah...",
+    "opsi": [
+      "Fiber Optic",
+      "Kabel UTP",
+      "Wi-Fi (IEEE 802.11)",
+      "Telegraf",
+      "Radio AM"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Wi-Fi memudahkan pertukaran data nirkabel dalam area terbatas."
+  },
+  {
+    "id": "KU_EL_19",
+    "pertanyaan": "Media transmisi data kabel yang menggunakan pulsa cahaya dan memiliki bandwidth sangat tinggi adalah...",
+    "opsi": [
+      "Kabel Koaksial",
+      "Kabel Tembaga",
+      "Kabel Listrik",
+      "Fiber Optic (Serat Optik)",
+      "Kawat berduri"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Fiber optik tidak terpengaruh oleh interferensi elektromagnetik (EMI)."
+  },
+  {
+    "id": "KU_EL_20",
+    "pertanyaan": "Apa itu 'Smart Grid' dalam sistem tenaga listrik?",
+    "opsi": [
+      "Kabel yang pintar",
+      "Jaringan listrik gratis",
+      "Lampu jalan yang otomatis",
+      "Tiang listrik anti gempa",
+      "Integrasi jaringan listrik dengan teknologi informasi untuk komunikasi dua arah antara penyedia dan konsumen"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Smart grid meningkatkan efisiensi dan keandalan pasokan listrik."
+  },
+  {
+    "id": "KU_EL_21",
+    "pertanyaan": "Komponen penyimpan muatan listrik dalam bentuk medan listrik adalah...",
+    "opsi": [
+      "Kapasitor (Kondensator)",
+      "Resistor",
+      "Induktor",
+      "Baterai",
+      "Ohm-meter"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kapasitansi diukur dalam satuan Farad (F)."
+  },
+  {
+    "id": "KU_EL_22",
+    "pertanyaan": "Komponen penyimpan energi listrik dalam bentuk medan magnet adalah...",
+    "opsi": [
+      "Resistor",
+      "Induktor (Kumparan)",
+      "Kapasitor",
+      "Isolator",
+      "Konduktor"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Induktansi diukur dalam satuan Henry (H)."
+  },
+  {
+    "id": "KU_EL_23",
+    "pertanyaan": "Dalam sistem 3-fase, beda fase antara masing-masing tegangan fasa adalah...",
+    "opsi": [
+      "0 derajat",
+      "90 derajat",
+      "120 derajat",
+      "180 derajat",
+      "360 derajat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Beda 120 derajat memungkinkan distribusi daya yang lebih stabil dan efisien."
+  },
+  {
+    "id": "KU_EL_24",
+    "pertanyaan": "Warna kabel standar internasional untuk fase R, S, T pada sistem tegangan rendah baru di Indonesia (PUIL 2011) adalah...",
+    "opsi": [
+      "Merah, Kuning, Hitam",
+      "Biru, Hijau, Merah",
+      "Putih, Biru, Hitam",
+      "Hitam, Cokelat, Abu-abu",
+      "Kuning/Hijau, Biru, Merah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "L1=Hitam, L2=Cokelat, L3=Abu-abu, Netral=Biru, Ground=Kuning-Hijau."
+  },
+  {
+    "id": "KU_EL_25",
+    "pertanyaan": "Apa singkatan dari PLC dalam kontrol industri?",
+    "opsi": [
+      "Power Line Communication",
+      "Personal Logical Computer",
+      "Professional Light Control",
+      "Permanent Line Connection",
+      "Programmable Logic Controller"
+    ],
+    "jawaban": 4,
+    "pembahasan": "PLC digunakan untuk otomatisasi mesin-mesin pabrik."
+  },
+  {
+    "id": "KU_EL_26",
+    "pertanyaan": "Bahasa pemrograman standar untuk PLC yang menyerupai diagram sirkuit listrik adalah...",
+    "opsi": [
+      "Ladder Diagram (LD)",
+      "C++",
+      "Python",
+      "Assembly",
+      "Java"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mudah dipahami oleh teknisi listrik konvensional."
+  },
+  {
+    "id": "KU_EL_27",
+    "pertanyaan": "Alat ukur yang dapat menampilkan grafik bentuk gelombang tegangan atau arus terhadap waktu adalah...",
+    "opsi": [
+      "Multimeter",
+      "Osiloskop",
+      "Tang Ampere",
+      "Watt-meter",
+      "Megger"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Osiloskop sangat penting untuk observasi sinyal digital dan analog."
+  },
+  {
+    "id": "KU_EL_28",
+    "pertanyaan": "Sistem yang digunakan untuk mengumpulkan data dari lokasi terpencil dan melakukan kontrol jarak jauh secara real-time di industri besar disebut...",
+    "opsi": [
+      "DCS",
+      "IoT",
+      "SCADA (Supervisory Control and Data Acquisition)",
+      "GPS",
+      "LAN"
+    ],
+    "jawaban": 2,
+    "pembahasan": "SCADA banyak digunakan di pembangkit listrik dan kilang minyak."
+  },
+  {
+    "id": "KU_EL_29",
+    "pertanyaan": "Apa itu 'Harmonisa' dalam sistem tenaga listrik?",
+    "opsi": [
+      "Musik yang merdu",
+      "Tegangan yang stabil",
+      "Arus yang searah",
+      "Distorsi bentuk gelombang sinus akibat beban non-linear (seperti elektronik)",
+      "Kenaikan tarif listrik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Harmonisa dapat menyebabkan panas berlebih pada kabel dan motor."
+  },
+  {
+    "id": "KU_EL_30",
+    "pertanyaan": "Efek di mana arus listrik cenderung mengalir di permukaan konduktor pada frekuensi tinggi disebut...",
+    "opsi": [
+      "Efek Hall",
+      "Efek Doppler",
+      "Efek Fotolistrik",
+      "Efek Rumah Kaca",
+      "Efek Skin (Skin Effect)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Skin effect meningkatkan resistansi efektif konduktor pada frekuensi AC tinggi."
+  },
+  {
+    "id": "KU_EL_31",
+    "pertanyaan": "Konsep 'Smart City' dalam teknik elektro melibatkan penggunaan sensor dan data untuk...",
+    "opsi": [
+      "Mengoptimalkan manajemen energi, transportasi, dan layanan publik secara otomatis",
+      "Mengecat taman",
+      "Menghilangkan polisi",
+      "Membangun gedung kaca",
+      "Membuat rakyat senang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Meningkatkan kualitas hidup warga melalui efisiensi teknologi."
+  },
+  {
+    "id": "KU_EL_32",
+    "pertanyaan": "Satuan unit fluks magnetik dalam Sistem Internasional (SI) adalah...",
+    "opsi": [
+      "Tesla",
+      "Weber (Wb)",
+      "Gauss",
+      "Henry",
+      "Maxwell"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kerapatan fluks magnetik diukur dalam Tesla."
+  },
+  {
+    "id": "KU_EL_33",
+    "pertanyaan": "Mikrokontroler populer yang digunakan untuk prototipe cepat berbasis open-source adalah...",
+    "opsi": [
+      "Intel i7",
+      "Pentium",
+      "Arduino",
+      "Nvidia RTX",
+      "Logitech"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Arduino mempermudah pemula mempelajari sistem tertanam (embedded systems)."
+  },
+  {
+    "id": "KU_EL_34",
+    "pertanyaan": "Proses konversi sinyal analog (suara/gambar) menjadi format digital (angka biner) disebut...",
+    "opsi": [
+      "DAC",
+      "Modulasi",
+      "Amplifikasi",
+      "ADC (Analog to Digital Converter)",
+      "Multiplexing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "ADC adalah pintu masuk sinyal dunia nyata ke prosesor digital."
+  },
+  {
+    "id": "KU_EL_35",
+    "pertanyaan": "Sinyal yang memiliki nilai kontinu sepanjang waktu disebut sinyal...",
+    "opsi": [
+      "Digital",
+      "Biner",
+      "Diskrit",
+      "Pulsa",
+      "Analog"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sebagian besar fenomena alam (suara, cahaya, suhu) bersifat analog."
+  },
+  {
+    "id": "KU_EL_36",
+    "pertanyaan": "Teorema sampling yang menyatakan frekuensi sampling harus minimal dua kali frekuensi tertinggi sinyal disebut teorema...",
+    "opsi": [
+      "Teorema Shannon-Nyquist",
+      "Teorema Pythagoras",
+      "Teorema Limit Pusat",
+      "Teorema Bayes",
+      "Teorema Bernoulli"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mencegah terjadinya aliasing pada sinyal digital hasil sampling."
+  },
+  {
+    "id": "KU_EL_37",
+    "pertanyaan": "Alat pelindung sistem tenaga listrik dari bahaya sambaran petir adalah...",
+    "opsi": [
+      "Sekring",
+      "Arrester (Lightning Arrester)",
+      "Relay",
+      "Kontaktor",
+      "Isolator"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Arrester membuang lonjakan tegangan petir langsung ke bumi (grounding)."
+  },
+  {
+    "id": "KU_EL_38",
+    "pertanyaan": "Sistem proteksi yang secara otomatis memutuskan aliran listrik bila terdeteksi gangguan hubung singkat atau beban lebih adalah...",
+    "opsi": [
+      "Trafo",
+      "Baterai",
+      "MCB (Miniature Circuit Breaker)",
+      "Satu",
+      "Kabel"
+    ],
+    "jawaban": 2,
+    "pembahasan": "MCB melindungi instalasi kabel dari panas berlebih yang memicu kebakaran."
+  },
+  {
+    "id": "KU_EL_39",
+    "pertanyaan": "Apa itu 'Sistem Tertanam' (Embedded Systems)?",
+    "opsi": [
+      "Sistem yang ditanam di tanah",
+      "Komputer kantor",
+      "Layar monitor",
+      "Sistem komputer dengan fungsi khusus yang tertanam di dalam perangkat elektronik non-komputer (misal mesin cuci, mobil)",
+      "Kabel bawah laut"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Embedded systems bekerja secara real-time dan efisien."
+  },
+  {
+    "id": "KU_EL_40",
+    "pertanyaan": "Teknologi komunikasi data 5G menjanjikan keunggulan utama berupa...",
+    "opsi": [
+      "Kabel lebih tebal",
+      "Harga pulsa gratis",
+      "Baterai HP awet selamanya",
+      "Tidak butuh antena",
+      "Kecepatan sangat tinggi (Gbps) dan latensi sangat rendah"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Latensi rendah sangat krusial untuk mobil otonom dan bedah jarak jauh."
+  },
+  {
+    "id": "KU_EL_41",
+    "pertanyaan": "Zat yang pada suhu sangat rendah memiliki hambatan listrik nol (0 Ohm) disebut...",
+    "opsi": [
+      "Superkonduktor",
+      "Isolator",
+      "Konduktor",
+      "Semi-konduktor",
+      "Plastik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Superkonduktor memungkinkan transmisi daya tanpa rugi-rugi panas."
+  },
+  {
+    "id": "KU_EL_42",
+    "pertanyaan": "Prinsip kerja panel surya (Pv) dalam membangkitkan listrik dari cahaya matahari dinamakan efek...",
+    "opsi": [
+      "Efek Peltier",
+      "Efek Fotovoltaik",
+      "Efek Seebeck",
+      "Efek Joule",
+      "Efek Radiasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Foton dari matahari menumbuk sel silikon dan melepaskan elektron."
+  },
+  {
+    "id": "KU_EL_43",
+    "pertanyaan": "Gerbang logika dasar yang menghasilkan output '1' hanya jika semua inputnya bernilai '1' adalah gerbang...",
+    "opsi": [
+      "OR",
+      "NOT",
+      "AND",
+      "NAND",
+      "XOR"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tabel kebenaran AND: 1 & 1 = 1, lainnya 0."
+  },
+  {
+    "id": "KU_EL_44",
+    "pertanyaan": "Gerbang logika yang membalikkan nilai input (1 menjadi 0, atau sebaliknya) disebut gerbang...",
+    "opsi": [
+      "Buffer",
+      "Encoder",
+      "Mux",
+      "Inverter (NOT)",
+      "Demux"
+    ],
+    "jawaban": 3,
+    "pembahasan": "NOT hanya memiliki satu input dan satu output."
+  },
+  {
+    "id": "KU_EL_45",
+    "pertanyaan": "Dalam elektronika daya, alat 'Dimmer' lampu menggunakan komponen bernama...",
+    "opsi": [
+      "Dioda",
+      "Baterai",
+      "Filter",
+      "Antena",
+      "Triac / SCR"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Triac memotong gelombang AC untuk mengatur daya yang mengalir ke lampu."
+  },
+  {
+    "id": "KU_EL_46",
+    "pertanyaan": "Apa kelemahan utama pembangkit listrik tenaga angin dan surya?",
+    "opsi": [
+      "Sifatnya intermittent (tidak stabil, tergantung cuaca dan waktu)",
+      "Bikin polusi udara",
+      "Suaranya sangat bising",
+      "Merusak tanah",
+      "Tidak ada energi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Memerlukan sistem penyimpanan energi (baterai/ESS) untuk menjaga stabilitas grid."
+  },
+  {
+    "id": "KU_EL_47",
+    "pertanyaan": "Unit yang digunakan untuk mengukur konsumsi energi listrik bagi rumah tangga (tertera di meteran listrik) adalah...",
+    "opsi": [
+      "Volt",
+      "kWh (Kilo Watt Hour)",
+      "Ampere",
+      "Ohm",
+      "Henry"
+    ],
+    "jawaban": 1,
+    "pembahasan": "1 kWh artinya pemakaian daya 1000 Watt selama 1 jam."
+  },
+  {
+    "id": "KU_EL_48",
+    "pertanyaan": "Jenis motor listrik yang paling banyak digunakan di industri karena konstruksinya sederhana dan kuat adalah motor...",
+    "opsi": [
+      "Motor Arus Searah (DC)",
+      "Motor Stepper",
+      "Motor Induksi AC",
+      "Motor Servo",
+      "Motor Universal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Motor induksi (terutama tipe sangkar tupai) sangat handal dan minim perawatan."
+  },
+  {
+    "id": "KU_EL_49",
+    "pertanyaan": "Kemampuan sebuah kabel untuk mengalirkan arus listrik secara terus-menerus tanpa melebihi batas kenaikan suhu disebut...",
+    "opsi": [
+      "Tahanan Isolasi",
+      "Drop Tegangan",
+      "Frekuensi",
+      "KHA (Kuat Hantar Arus)",
+      "Induktansi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kapasitas KHA harus lebih besar dari arus beban yang lewat."
+  },
+  {
+    "id": "KU_EL_50",
+    "pertanyaan": "Mengapa penggunaan lampu LED lebih disarankan dibanding lampu pijar?",
+    "opsi": [
+      "Warnanya hanya putih",
+      "Karena lebih berat",
+      "Bisa menyala tanpa listrik",
+      "Lebih mahal harganya",
+      "Jauh lebih hemat energi dan usia pakai lebih panjang (hingga puluhan ribu jam)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "LED mengubah hampir seluruh energi listrik menjadi cahaya, bukan panas."
+  }
+]

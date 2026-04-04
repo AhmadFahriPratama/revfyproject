@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_AR_01",
+    "pertanyaan": "FR Perhotelan: Jika ada tamu dari Arab Saudi datang ke hotel, sapaan yang paling sesuai adalah...",
+    "opsi": [
+      "Ahlan wa sahlan, kaifa haluk?",
+      "Bonjour!",
+      "What is up?",
+      "Irrashaimase",
+      "Selamat pagi"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_AR_02",
+    "pertanyaan": "FR Budaya: Saat bertamu ke rumah orang Arab, sebaiknya menggunakan...",
+    "opsi": [
+      "Tangan kiri saat makan bersama",
+      "Tangan kanan untuk makan dan memberikan sesuatu (Etika Islam/Tradisi)",
+      "Kaki",
+      "Satu jari saja",
+      "Melempar barang"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_AR_03",
+    "pertanyaan": "FR Haji/Umroh: Pakaian khusus yang digunakan jamaah laki-laki saat sedang ihram adalah...",
+    "opsi": [
+      "Batik",
+      "Jas hitam",
+      "Kain Ihram (dua helai kain putih tak berjahit)",
+      "Baju koko",
+      "Kaos oblong"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_AR_04",
+    "pertanyaan": "FR Bisnis: Istilah 'Mafi mushkilah' yang sering diucapkan kolega Arab berarti...",
+    "opsi": [
+      "Masalah besar",
+      "Saya sibuk",
+      "Cepatlah",
+      "Tidak masalah (No problem)",
+      "Hati-hati"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_AR_05",
+    "pertanyaan": "FR Digital: Arah penulisan Bahasa Arab adalah...",
+    "opsi": [
+      "Kiri ke Kanan",
+      "Atas ke Bawah",
+      "Bawah ke Atas",
+      "Diagonal",
+      "Kanan ke Kiri"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

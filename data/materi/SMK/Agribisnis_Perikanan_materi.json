@@ -1,0 +1,53 @@
+{
+  "judul": "Agribisnis Perikanan (Budidaya dan Penangkapan)",
+  "tingkatan": "SMK",
+  "jurusan": "Agribisnis dan Agriteknologi / Perikanan",
+  "deskripsi": "Materi kejuruan SMK mengenai teknis budidaya ikan air tawar, payau, laut, serta manajemen kualitas air dan pakan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar-Dasar Budidaya Perikanan",
+      "konten": "Pemilihan lokasi kolam, jenis-jenis wadah budidaya (Keramba, Terpal, Beton), serta pengenalan spesies ikan ekonomis penting (Lele, Nila, Patin, Udang).",
+      "tag": [
+        "agribisnis perikanan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Manajemen Kualitas Air dan Lingkungan",
+      "konten": "Parameter fisika (Suhu, Kecerahan), kimia (pH, DO, Amonia, Nitrit), serta biologi air dalam menjaga kesehatan komoditas perikanan.",
+      "tag": [
+        "agribisnis perikanan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Nutrisi dan Manajemen Pakan",
+      "konten": "Kebutuhan protein ikan, jenis pakan alami (Plankton, Moina) dan pakan buatan (Pelet), serta teknik pemberian pakan (Ad Libitum vs Restricted).",
+      "tag": [
+        "agribisnis perikanan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Pembenihan dan Pembesaran",
+      "konten": "Seleksi induk matang gondad, teknik pemijahan (Alami vs Buatan/Induced), penetasan telur, serta perawatan larva hingga masa panen.",
+      "tag": [
+        "agribisnis perikanan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pengendalian Hama dan Penyakit",
+      "konten": "Identifikasi penyakit akibat bakteri, jamur, parasit, dan virus (seperti White Spot pada udang), serta teknik pencegahan biosekuriti.",
+      "tag": [
+        "agribisnis perikanan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "agribisnis-perikanan-materi",
+  "mapel": "Agribisnis Perikanan (Budidaya dan Penangkapan)",
+  "tag": [
+    "agribisnis perikanan materi"
+  ]
+}

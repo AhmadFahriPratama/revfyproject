@@ -1,0 +1,26 @@
+{
+  "id": "mat-sma-01",
+  "tingkat": "SMA",
+  "mapel": "Matematika",
+  "materi": "Fungsi Kuadrat",
+  "deskripsi": "Materi lengkap tentang sifat kurva, titik puncak, dan akar persamaan kuadrat.",
+  "konten": [
+    {
+      "bab": "1. Bentuk Umum",
+      "teks": "Fungsi kuadrat memiliki bentuk f(x) = ax² + bx + c, di mana a ≠ 0. Koefisien a menentukan arah buka parabola, sedangkan b dan c memengaruhi posisi kurva terhadap sumbu koordinat."
+    },
+    {
+      "bab": "2. Diskriminan",
+      "teks": "Nilai D = b² - 4ac menentukan jenis akar persamaan. Jika D > 0, kurva memotong sumbu x di dua titik, jika D = 0 menyinggung sumbu x, dan jika D < 0 tidak memotong sumbu x pada bilangan real."
+    },
+    {
+      "bab": "3. Titik Puncak dan Sumbu Simetri",
+      "teks": "Titik puncak parabola dapat dicari dengan rumus x = -b/2a lalu disubstitusikan ke fungsi untuk memperoleh nilai y. Sumbu simetri selalu melalui titik puncak dan membantu membaca bentuk grafik secara cepat."
+    },
+    {
+      "bab": "4. Hubungan Grafik dan Akar Persamaan",
+      "teks": "Akar persamaan kuadrat menunjukkan titik potong grafik dengan sumbu x. Dengan memahami hubungan ini, siswa dapat menafsirkan solusi aljabar secara visual dan menghubungkannya dengan bentuk parabola pada bidang koordinat."
+    }
+  ],
+  "tag": ["aljabar", "grafik", "kurva"]
+}

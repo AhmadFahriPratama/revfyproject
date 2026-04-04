@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_BL_01",
+    "pertanyaan": "Unit terkecil dari makhluk hidup yang dapat melaksanakan aktivitas kehidupan disebut...",
+    "opsi": [
+      "Sel",
+      "Atom",
+      "Molekul",
+      "Jaringan",
+      "Organ"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sel adalah satuan fungsional dan struktural terkecil makhluk hidup."
+  },
+  {
+    "id": "TKA_SMK_BL_02",
+    "pertanyaan": "Organel sel yang berfungsi sebagai tempat respirasi sel dan penghasil energi (ATP) adalah...",
+    "opsi": [
+      "Nukleus",
+      "Mitokondria",
+      "Ribosom",
+      "Badan Golgi",
+      "Lisosom"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mitokondria sering dijuluki 'Powerhouse of the Cell'."
+  },
+  {
+    "id": "TKA_SMK_BL_03",
+    "pertanyaan": "Proses perpindahan zat dari konsentrasi tinggi ke rendah secara spontan disebut...",
+    "opsi": [
+      "Osmosis",
+      "Transpor aktif",
+      "Difusi",
+      "Endositosis",
+      "Eksositosis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Difusi tidak memerlukan energi (transpor pasif)."
+  },
+  {
+    "id": "TKA_SMK_BL_04",
+    "pertanyaan": "Jaringan tumbuhan yang berfungsi sebagai pengangkut air dan mineral dari akar ke daun adalah...",
+    "opsi": [
+      "Floem",
+      "Parenkim",
+      "Kambium",
+      "Xilem",
+      "Epidermis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Xilem mengangkut ke atas, Floem mengangkut hasil fotosintesis ke seluruh tubuh."
+  },
+  {
+    "id": "TKA_SMK_BL_05",
+    "pertanyaan": "Pencernaan protein secara kimiawi pertama kali terjadi di...",
+    "opsi": [
+      "Mulut",
+      "Kerongkongan",
+      "Usus halus",
+      "Usus besar",
+      "Lambung"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Enzim pepsin di lambung mulai memecah protein menjadi pepton."
+  },
+  {
+    "id": "TKA_SMK_BL_06",
+    "pertanyaan": "Golongan darah yang disebut sebagai 'Resepien Universal' (dapat menerima dari semua) adalah...",
+    "opsi": [
+      "AB",
+      "A",
+      "B",
+      "O",
+      "Semua salah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Golongan darah AB tidak memiliki antibodi terhadap A maupun B."
+  },
+  {
+    "id": "TKA_SMK_BL_07",
+    "pertanyaan": "Bagian ginjal yang berfungsi menyaring darah (filtrasi) adalah...",
+    "opsi": [
+      "Tubulus Proksimal",
+      "Glomerulus",
+      "Lengkung Henle",
+      "Pelvis",
+      "Ureter"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Terletak di dalam Simpai Bowman pada nefron ginjal."
+  },
+  {
+    "id": "TKA_SMK_BL_08",
+    "pertanyaan": "Penyakit yang disebabkan oleh kekurangan hormon insulin dalam tubuh adalah...",
+    "opsi": [
+      "Anemia",
+      "Hipertensi",
+      "Diabetes Melitus",
+      "Gastritis",
+      "Asma"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Insulin mengatur kadar gula dalam darah."
+  },
+  {
+    "id": "TKA_SMK_BL_09",
+    "pertanyaan": "Menurut Hukum Mendel I, rasio fenotipe pada keturunan F2 hasil persilangan monohibrid dominan-resesif adalah...",
+    "opsi": [
+      "1 : 1",
+      "9 : 3 : 3 : 1",
+      "1 : 2 : 1",
+      "3 : 1",
+      "2 : 1"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Rasio 3 dominan dan 1 resesif. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"3 : 1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_10",
+    "pertanyaan": "Contoh bioteknologi konvensional yang memanfaatkan jamur Saccharomyces cerevisiae adalah pembuatan...",
+    "opsi": [
+      "Yoghurt",
+      "Nata de Coco",
+      "Antibiotik",
+      "Tanaman transgenik",
+      "Roti / Tapai"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ragi/khamir digunakan dalam fermentasi karbohidrat."
+  },
+  {
+    "id": "TKA_SMK_BL_11",
+    "pertanyaan": "Enzim amilase (ptialin) di mulut berfungsi mengubah amilum menjadi...",
+    "opsi": [
+      "Maltosa",
+      "Glukosa",
+      "Asam amino",
+      "Asam lemak",
+      "Gliserol"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Maltosa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_12",
+    "pertanyaan": "Organel sel tumbuhan yang berisi pigmen hijau untuk fotosintesis adalah...",
+    "opsi": [
+      "Vakuola",
+      "Kloroplas",
+      "Leukoplas",
+      "Dinding sel",
+      "Sentriol"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kloroplas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_13",
+    "pertanyaan": "Pembelahan sel yang menghasilkan 4 sel anak dengan jumlah kromosom setengah dari induk (haploid) disebut...",
+    "opsi": [
+      "Mitosis",
+      "Amitosis",
+      "Meiosis",
+      "Fusi",
+      "Regenerasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Meiosis terjadi pada pembentukan sel kelamin (gamet)."
+  },
+  {
+    "id": "TKA_SMK_BL_14",
+    "pertanyaan": "Tulang rusuk dan tulang tengkorak termasuk dalam kelompok tulang...",
+    "opsi": [
+      "Tulang pipa",
+      "Tulang pendek",
+      "Tulang tidak beraturan",
+      "Tulang pipih",
+      "Tulang rawan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tulang pipih\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_15",
+    "pertanyaan": "Katup yang membatasi serambi kiri dan bilik kiri jantung adalah...",
+    "opsi": [
+      "Trikuispidalis",
+      "Semilunaris",
+      "Aorta",
+      "Vena kava",
+      "Bikuspidalis (Mitral)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bikuspidalis (Mitral)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_16",
+    "pertanyaan": "Pertukaran gas oksigen dan karbon dioksida di paru-paru terjadi di...",
+    "opsi": [
+      "Alveolus",
+      "Trakea",
+      "Bronkus",
+      "Faring",
+      "Laring"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Alveolus\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_17",
+    "pertanyaan": "Zat warna empedu yang memberi warna kuning pada urine dan feses adalah...",
+    "opsi": [
+      "Albumin",
+      "Urobilin",
+      "Glukosa",
+      "Amonia",
+      "Urea"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Urobilin\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_18",
+    "pertanyaan": "Hubungan antara dua mahkluk hidup di mana satu pihak untung dan pihak lain rugi disebut...",
+    "opsi": [
+      "Simbiosis Mutualisme",
+      "Simbiosis Komensalisme",
+      "Simbiosis Parasitisme",
+      "Predasi",
+      "Kompetisi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Simbiosis Parasitisme\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_19",
+    "pertanyaan": "Kumpulan rantai makanan yang saling berhubungan dalam suatu ekosistem disebut...",
+    "opsi": [
+      "Piramida makanan",
+      "Siklus energi",
+      "Aliran massa",
+      "Jaring-jaring makanan",
+      "Komunitas"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Jaring-jaring makanan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_20",
+    "pertanyaan": "Organisme yang berperan menguraikan sisa-sisa makhluk hidup yang mati disebut...",
+    "opsi": [
+      "Produsen",
+      "Konsumen I",
+      "Predator",
+      "Parasit",
+      "Dekomposer (Pengurai)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contohnya bakteri dan jamur saprofit. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Dekomposer (Pengurai)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_21",
+    "pertanyaan": "Penyusun utama dinding sel tumbuhan yang memberikan struktur kaku adalah...",
+    "opsi": [
+      "Selulosa",
+      "Protein",
+      "Lipid",
+      "Kitin",
+      "Glikogen"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Selulosa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_22",
+    "pertanyaan": "Enzim katalase banyak ditemukan di hati dan berfungsi menetralkan racun...",
+    "opsi": [
+      "Alkohol",
+      "H2O2 (Hidrogen Peroksida)",
+      "Urea",
+      "Glukosa",
+      "Oksigen"
+    ],
+    "jawaban": 1,
+    "pembahasan": "H2O2 dipecah menjadi H2O dan O2. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"H2O2 (Hidrogen Peroksida)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_23",
+    "pertanyaan": "Fase dalam pembelahan mitosis di mana kromosom berderet di bidang ekuator sel adalah...",
+    "opsi": [
+      "Profase",
+      "Anafase",
+      "Metafase",
+      "Telofase",
+      "Interfase"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Metafase\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_24",
+    "pertanyaan": "Penulisan nama ilmiah 'Oryza sativa' (padi) menurut aturan Binomial Nomenklatur yang benar adalah...",
+    "opsi": [
+      "Oryza Sativa",
+      "oryza sativa",
+      "ORYZA SATIVA",
+      "Oryza sativa (cetak miring atau garis bawah terpisah)",
+      "Oryza-sativa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Oryza sativa (cetak miring atau garis bawah terpisah)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_25",
+    "pertanyaan": "Bagian otak yang berfungsi mengatur keseimbangan tubuh adalah...",
+    "opsi": [
+      "Otak besar (Cerebrum)",
+      "Sumsum lanjutan",
+      "Hipotalamus",
+      "Talamus",
+      "Otak kecil (Cerebellum)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Otak kecil (Cerebellum)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_26",
+    "pertanyaan": "Hormon yang memicu pematangan buah pada tumbuhan adalah...",
+    "opsi": [
+      "Gas Etilen",
+      "Auksin",
+      "Giberelin",
+      "Sitokinin",
+      "Asam Absisat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Gas Etilen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_27",
+    "pertanyaan": "Pembuluh darah yang membawa darah kaya oksigen dari paru-paru ke jantung adalah...",
+    "opsi": [
+      "Arteri Pulmonalis",
+      "Vena Pulmonalis",
+      "Aorta",
+      "Vena Kava",
+      "Kapiler"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kecuali vena lain, vena pulmonalis membawa darah bersih."
+  },
+  {
+    "id": "TKA_SMK_BL_28",
+    "pertanyaan": "Dalam ekosistem sawah, jika populasi ular menurun drastis, kemungkinan yang terjadi adalah...",
+    "opsi": [
+      "Populasi padi meningkat",
+      "Populasi elang meningkat",
+      "Populasi tikus meningkat",
+      "Tanah menjadi subur",
+      "Tidak ada pengaruh"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Populasi tikus meningkat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_29",
+    "pertanyaan": "Kandungan basa nitrogen pada DNA yang selalu berpasangan dengan Adenin (A) adalah...",
+    "opsi": [
+      "Guanin (G)",
+      "Sitosin (C)",
+      "Urasil (U)",
+      "Timin (T)",
+      "Ribosa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Urasil hanya ada pada RNA menggantikan Timin."
+  },
+  {
+    "id": "TKA_SMK_BL_30",
+    "pertanyaan": "Proses pembentukan makanan pada tumbuhan dengan bantuan cahaya matahari disebut...",
+    "opsi": [
+      "Respirasi",
+      "Transpirasi",
+      "Gutasi",
+      "Oksidasi",
+      "Fotosintesis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Fotosintesis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_31",
+    "pertanyaan": "Kelainan tulang punggung yang membengkok ke arah samping disebut...",
+    "opsi": [
+      "Skoliosis",
+      "Lordosis",
+      "Kifosis",
+      "Fraktura",
+      "Rakhitis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Skoliosis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_32",
+    "pertanyaan": "Ciri makhluk hidup yang bertujuan untuk mempertahankan kelestarian jenisnya adalah...",
+    "opsi": [
+      "Bernapas",
+      "Berkembang biak (Reproduksi)",
+      "Bergerak",
+      "Peka terhadap rangsang",
+      "Memerlukan nutrisi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Berkembang biak (Reproduksi)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_33",
+    "pertanyaan": "Protein pembawa oksigen dalam sel darah merah disebut...",
+    "opsi": [
+      "Plasma",
+      "Trombosit",
+      "Hemoglobin",
+      "Leukosit",
+      "Fibrinogen"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Hemoglobin\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_34",
+    "pertanyaan": "Sendi yang memungkinkan gerakan ke segala arah contohnya pada bahu adalah sendi...",
+    "opsi": [
+      "Engsel",
+      "Pelana",
+      "Putar",
+      "Peluru",
+      "Geser"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Peluru\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_35",
+    "pertanyaan": "Zat sisa hasil metabolisme protein yang dikeluarkan melalui ginjal adalah...",
+    "opsi": [
+      "Karbon dioksida",
+      "Uap air",
+      "Garam mineral",
+      "Gula",
+      "Urea"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Urea\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_36",
+    "pertanyaan": "Hewan yang memakan tumbuhan saja disebut kelompok...",
+    "opsi": [
+      "Herbivora",
+      "Karnivora",
+      "Omnivora",
+      "Insektivora",
+      "Detritivora"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Herbivora\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_37",
+    "pertanyaan": "Vitamin yang larut dalam lemak adalah...",
+    "opsi": [
+      "B dan C",
+      "A, D, E, dan K",
+      "Hanya C",
+      "Semua vitamin",
+      "Tidak ada"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"A, D, E, dan K\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_38",
+    "pertanyaan": "Bagian bunga yang berfungsi sebagai alat kelamin jantan adalah...",
+    "opsi": [
+      "Putik",
+      "Mahkota",
+      "Benang sari",
+      "Kelopak",
+      "Tangkai"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Benang sari\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_39",
+    "pertanyaan": "Proses fertilisasi (pembuahan) pada manusia normalnya terjadi di...",
+    "opsi": [
+      "Vagina",
+      "Uterus (Rahim)",
+      "Ovarium",
+      "Oviduk (Tuba Fallopi)",
+      "Serviks"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Oviduk (Tuba Fallopi)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_40",
+    "pertanyaan": "Antibiotik penisilin pertama kali ditemukan oleh...",
+    "opsi": [
+      "Louis Pasteur",
+      "Robert Hooke",
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Alexander Fleming"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Alexander Fleming\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_41",
+    "pertanyaan": "Pencernaan mekanik di lambung dilakukan oleh...",
+    "opsi": [
+      "Otot lambung (Gerak Peristaltik)",
+      "Gigi",
+      "Enzim pepsin",
+      "Asam lambung",
+      "Air minum"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Otot lambung (Gerak Peristaltik)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_42",
+    "pertanyaan": "Keringat dihasilkan oleh kelenjar sudorifera yang terletak di lapisan kulit...",
+    "opsi": [
+      "Epidermis",
+      "Dermis",
+      "Hipodermis",
+      "Melanin",
+      "Saraf"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Dermis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_43",
+    "pertanyaan": "Salah satu keuntungan perkembangbiakan vegetatif buatan (mencangkok) adalah...",
+    "opsi": [
+      "Tanaman lebih kuat akarnya",
+      "Tanaman jadi lebih tinggi",
+      "Tanaman cepat berbuah dan sifatnya sama dengan induk",
+      "Bisa hidup tanpa air",
+      "Biji yang dihasilkan lebih banyak"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tanaman cepat berbuah dan sifatnya sama dengan induk\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_44",
+    "pertanyaan": "Zat aditif makanan dari golongan pemanis buatan adalah...",
+    "opsi": [
+      "Gula pasir",
+      "Madu",
+      "Karamel",
+      "Aspartam",
+      "Garam"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Aspartam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_45",
+    "pertanyaan": "Apa itu 'Virus' dalam pandangan biologi?",
+    "opsi": [
+      "Makhluk hidup bersel satu",
+      "Benda mati yang bisa bergerak",
+      "Tumbuhan kecil",
+      "Bakteri jahat",
+      "Peralihan antara benda mati dan makhluk hidup (metaorganisme)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Virus tidak punya sel (aseluler) dan hanya bisa replikasi di dalam sel inang."
+  },
+  {
+    "id": "TKA_SMK_BL_46",
+    "pertanyaan": "Zat yang bersifat karsinogenik artinya zat tersebut memicu...",
+    "opsi": [
+      "Kanker",
+      "Pusing",
+      "Penyakit degeneratif",
+      "Flu",
+      "Alergi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kanker\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_47",
+    "pertanyaan": "Fungsi utama karbohidrat bagi tubuh adalah...",
+    "opsi": [
+      "Pembentuk otot",
+      "Sumber energi utama",
+      "Cadangan lemak",
+      "Pelindung organ dalam",
+      "Pengatur suhu"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sumber energi utama\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_48",
+    "pertanyaan": "Peredaran darah besar pada manusia dimulai dari...",
+    "opsi": [
+      "Bilik kanan",
+      "Serambi kanan",
+      "Bilik kiri",
+      "Serambi kiri",
+      "Paru-paru"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dari Bilik Kiri ke Aorta lalu ke seluruh tubuh."
+  },
+  {
+    "id": "TKA_SMK_BL_49",
+    "pertanyaan": "Siapakah tokoh yang dijuluki Bapak Genetika?",
+    "opsi": [
+      "Charles Darwin",
+      "Isaac Newton",
+      "Watson and Crick",
+      "Gregor Mendel",
+      "Linnaeus"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Gregor Mendel\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_BL_50",
+    "pertanyaan": "Mengapa biologi relevan bagi bidang kesehatan di SMK?",
+    "opsi": [
+      "Supaya tahu nama latin tanaman",
+      "Cuma untuk hobi pelihara hewan",
+      "Agar bisa jadi koki",
+      "Hanya sebagai syarat kelulusan",
+      "Memberikan landasan pemahaman tentang mekanisme tubuh manusia, penyakit, dan penanganannya secara medis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Memberikan landasan pemahaman tentang mekanisme tubuh manusia, penyakit, dan penanganannya secara medis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

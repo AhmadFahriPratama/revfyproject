@@ -1,0 +1,53 @@
+{
+  "judul": "Matematika Dasar (Kalkulus dan Aljabar)",
+  "tingkatan": "KULIAH",
+  "jurusan": "MIPA / Teknik / Informatika",
+  "deskripsi": "Materi dasar matematika tingkat universitas yang mencakup kalkulus diferensial, integral, aljabar linier, serta aplikasinya dalam sains dan teknik.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Fungsi, Limit, dan Kontinuitas",
+      "konten": "Konsep fungsi riil, limit fungsi di satu titik, limit tak hingga, teorema apit, serta syarat kekontinuan fungsi pada suatu selang.",
+      "tag": [
+        "kuliah matematika materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Turunan (Kalkulus Diferensial)",
+      "konten": "Definisi turunan sebagai limit, aturan rantai (Chain Rule), turunan fungsi implisit, serta aplikasi turunan (Max/Min, Aturan L'Hopital).",
+      "tag": [
+        "kuliah matematika materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Integral (Kalkulus Integral)",
+      "konten": "Integral tak tentu dan tentu, Teorema Dasar Kalkulus, teknik pengintegralan (Substitusi, Parsial), serta aplikasi integral (Luas daerah, Volume benda putar).",
+      "tag": [
+        "kuliah matematika materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Aljabar Linier Elementer",
+      "konten": "Sistem Persamaan Linier (SPL), Operasi Baris Elementer (OBE), matriks dan determinan, invers matriks, serta vektor di R2 dan R3.",
+      "tag": [
+        "kuliah matematika materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Barisan dan Deret Tak Hingga",
+      "konten": "Konvergensi barisan, deret geometri, deret p, uji perbandingan, uji rasio, serta pengenalan deret Power (Deret Taylor dan Maclaurin).",
+      "tag": [
+        "kuliah matematika materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-matematika-materi",
+  "mapel": "Matematika Dasar (Kalkulus dan Aljabar)",
+  "tag": [
+    "kuliah matematika materi"
+  ]
+}

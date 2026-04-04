@@ -1,0 +1,53 @@
+{
+  "judul": "Kearsipan",
+  "tingkatan": "SMK",
+  "jurusan": "Manajemen Perkantoran dan Layanan Bisnis",
+  "deskripsi": "Materi mengenai pengelolaan dokumen, sistem penyimpanan arsip (Abjad, Subjek, Wilayah, Tanggal, Nomor), dan pemeliharaan arsip.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Konsep Dasar Kearsipan",
+      "konten": "Arsip adalah rekaman kegiatan atau peristiwa dalam berbagai bentuk dan media sesuai dengan perkembangan teknologi informasi dan komunikasi yang dibuat dan diterima oleh lembaga negara/swasta. Fungsi kearsipan adalah menjamin ketersediaan data untuk pengambilan keputusan.",
+      "tag": [
+        "mplb kearsipan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Sistem Penyimpanan Arsip",
+      "konten": "Ada 5 sistem penyimpanan standar: 1. Abjad (Alphabetical), 2. Masalah/Subjek (Subjectical), 3. Tanggal (Chronological), 4. Wilayah (Geographical), dan 5. Nomor (Numerical).",
+      "tag": [
+        "mplb kearsipan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Peralatan Kearsipan",
+      "konten": "Peralatan meliputi Filing Cabinet, Folder, Guide (sekat), Hanging Folder, Rotary Filing System (Rak Berputar), dan ORDNER. Pemilihan alat tergantung pada volume dan jenis arsip.",
+      "tag": [
+        "mplb kearsipan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Prosedur Penyimpanan (Filling)",
+      "konten": "Langkah-langkah: Pemeriksaan (Inspecting), Mengindeks (Indexing), Memberi Kode (Coding), Menyortir (Sorting), dan Menempatkan (Placing).",
+      "tag": [
+        "mplb kearsipan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pemeliharaan dan Penyusutan Arsip",
+      "konten": "Arsip harus dijaga dari kerusakan fisik (suhu, cahaya, hama) dan kimia. Penyusutan meliputi pemindahan arsip aktif ke inaktif, penyerahan ke arsip nasional, atau pemusnahan jika tidak bernilai guna (sesuai Jadwal Retensi Arsip).",
+      "tag": [
+        "mplb kearsipan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "mplb-kearsipan-materi",
+  "mapel": "Kearsipan",
+  "tag": [
+    "mplb kearsipan materi"
+  ]
+}

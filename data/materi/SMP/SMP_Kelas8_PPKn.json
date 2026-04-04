@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls8-ppkn",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "PPKn",
+  "materi": "Kedudukan Pancasila, Tata Urutan Peraturan, Sumpah Pemuda, dan Kebangkitan Nasional",
+  "deskripsi": "Pendidikan Kewarganegaraan Kelas 8 menitikberatkan pada kesadaran hukum dalam tata negara serta menumbuhkan jiwa Nasionalisme Pemuda.",
+  "konten": [
+    {
+      "bab": "1. Memahami Kedudukan dan Fungsi Pancasila",
+      "teks": "Arti penting Pancasila sebagai dasar negara dan pandangan hidup bangsa, serta upaya mempertahankan nilai-nilai Pancasila di era global."
+    },
+    {
+      "bab": "2. Menumbuhkan Kesadaran terhadap UUD NRI Tahun 1945",
+      "teks": "Sifat dan tata urutan peraturan perundang-undangan nasional, peran Mahkamah Konstitusi, dan sikap taat hukum."
+    },
+    {
+      "bab": "3. Kebangkitan Nasional dalam Perjuangan Kemerdekaan 1908",
+      "teks": "Peran dr. Wahidin Sudirohusodo dan berdirinya organisasi Budi Utomo sebagai titik awal kebangkitan nasional Indonesia."
+    },
+    {
+      "bab": "4. Sumpah Pemuda Bingkai Bhinneka Tunggal Ika",
+      "teks": "Latar belakang Kongres Pemuda I dan II, ikrar Sumpah Pemuda 1928, serta pengamalannya oleh generasi muda di masa kini."
+    },
+    {
+      "bab": "5. Identitas Nasional",
+      "teks": "Memahami makna lambang negara Garuda Pancasila, bendera Merah Putih, bahasa kebangsaan, dan lagu kebangsaan Indonesia Raya."
+    }
+  ],
+  "tag": ["smp-8", "ppkn", "pancasila", "uud1945", "kebangkitan-nasional", "sumpah-pemuda"]
+}

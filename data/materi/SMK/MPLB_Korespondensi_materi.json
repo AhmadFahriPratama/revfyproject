@@ -1,0 +1,53 @@
+{
+  "judul": "Korespondensi",
+  "tingkatan": "SMK",
+  "jurusan": "Manajemen Perkantoran dan Layanan Bisnis",
+  "deskripsi": "Materi mengenai komunikasi kantor, pembuatan surat dinas, surat niaga, dan prosedur pengiriman surat sesuai standar perkantoran.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Komunikasi Kantor",
+      "konten": "Komunikasi kantor adalah proses penyampaian informasi, gagasan, atau instruksi antar individu/bagian di dalam atau luar kantor. Meliputi komunikasi vertikal (atasan-bawahan), horizontal (setingkat), dan diagonal.",
+      "tag": [
+        "mplb korespondensi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Jenis-Jenis Surat",
+      "konten": "Surat dibedakan menjadi Surat Pribadi, Surat Dinas (instansi pemerintah), dan Surat Niaga (perdagangan/bisnis). Setiap jenis memiliki format, bahasa, dan aturan penomoran yang berbeda.",
+      "tag": [
+        "mplb korespondensi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Bagian-Bagian Surat Resmi",
+      "konten": "Struktur surat resmi meliputi Kepala Surat (Kop), Nomor, Lampiran, Hal/Perihal, Tanggal, Alamat Tujuan, Salam Pembuka, Isi (Pembuka, Inti, Penutup), Salam Penutup, Tanda Tangan, dan Tembusan.",
+      "tag": [
+        "mplb korespondensi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Bahasa dan Etika Korespondensi",
+      "konten": "Bahasa surat harus efektif: Jelas, Singkat, Padat, Sopan, dan Komunikatif. Hindari penggunaan kata-kata kiasan atau bermakna ganda yang dapat menyebabkan salah tafsir.",
+      "tag": [
+        "mplb korespondensi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pengelolaan Surat Keluar dan Masuk",
+      "konten": "Prosedur surat masuk meliputi Penerimaan, Penyortiran, Pencatatan (Buku Agenda), Pengarahan (Lembar Disposisi), dan Penyampaian. Surat keluar meliputi Pembuatan Konsep, Persetujuan, Pengetikan, Penandatanganan, dan Pengiriman.",
+      "tag": [
+        "mplb korespondensi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "mplb-korespondensi-materi",
+  "mapel": "Korespondensi",
+  "tag": [
+    "mplb korespondensi materi"
+  ]
+}

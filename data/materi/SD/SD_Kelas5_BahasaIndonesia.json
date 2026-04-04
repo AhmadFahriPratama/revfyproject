@@ -1,0 +1,30 @@
+{
+  "id": "materi-sd-kls5-bi",
+  "tingkat": "SD Kelas 5",
+  "mapel": "Bahasa Indonesia",
+  "materi": "Teks Eksplanasi, Pantun, Surat Undangan, dan Menganalisis Informasi",
+  "deskripsi": "Materi Bahasa Indonesia Kelas 5 mendalami teks eksplanasi ilmiah, mengenali pantun sebagai karya sastra tradisional, menulis surat undangan resmi/tidak resmi, serta merangkum informasi dari media cetak dan elektronik.",
+  "konten": [
+    {
+      "bab": "1. Meringkas Teks Penjelasan (Eksplanasi)",
+      "teks": "Menemukan informasi penting, kata kunci, dan meringkas teks eksplanasi (teks yang berisi penjelasan proses 'mengapa' dan 'bagaimana' fenomena terjadi) dari media cetak atau elektronik."
+    },
+    {
+      "bab": "2. Pantun dan Syair",
+      "teks": "Menggali isi dan amanat pantun. Mampu membuat pantun dengan ciri-ciri: bersajak a-b-a-b, terdiri dari 4 baris, dan memiliki sampiran serta isi. Membedakan pantun nasihat, jenaka, dan teka-teki."
+    },
+    {
+      "bab": "3. Teks Iklan",
+      "teks": "Menganalisis kalimat iklan, slogan, dan poster. Memahami unsur-unsur iklan serta bagaimana sebuah iklan membujuk konsumen dengan menggunakan kata-kata yang menarik dan sugestif."
+    },
+    {
+      "bab": "4. Surat Undangan",
+      "teks": "Mengenal jenis-jenis surat undangan: resmi (setengah resmi) dan tidak resmi. Memperhatikan struktur surat resmi seperti kop surat, nomor surat, perihal, dan penutup surat."
+    },
+    {
+      "bab": "5. Teks Narasi Sejarah",
+      "teks": "Menggali informasi penting dari teks narasi sejarah ke dalam aspek: apa, di mana, kapan, siapa, mengapa, dan bagaimana (5W+1H)."
+    }
+  ],
+  "tag": ["sd-5", "bahasa-indonesia", "eksplanasi", "pantun", "surat-undangan"]
+}

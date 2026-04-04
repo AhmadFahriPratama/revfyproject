@@ -1,0 +1,53 @@
+{
+  "judul": "Teknik Mekatronika (Otomasi dan Robotika)",
+  "tingkatan": "SMK",
+  "jurusan": "Teknik Elektronika / Mekatronika",
+  "deskripsi": "Materi kejuruan SMK mengenai integrasi teknik mesin, elektronika, dan kontrol komputer dalam sistem manufaktur otomatis dan robotika.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar Elektronika dan Komponen",
+      "konten": "Pengenalan komponen pasif dan aktif, hukum Ohm, hukum Kirchhoff, serta penggunaan alat ukur (Multimeter, Osiloskop) dalam rangkaian kontrol.",
+      "tag": [
+        "teknik mekatronika materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Sistem Sensor dan Aktuator",
+      "konten": "Prinsip kerja sensor (Proximity, LDR, Ultrasonik, Termokopel) dan aktuator (Motor DC, Servo, Stepper, Solenoid) dalam sistem mekatronika.",
+      "tag": [
+        "teknik mekatronika materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Programmable Logic Controller (PLC)",
+      "konten": "Arsitektur PLC, pengalamatan I/O, serta teknik pemrograman menggunakan Ladder Diagram (LD) untuk kontrol sekuensial industri.",
+      "tag": [
+        "teknik mekatronika materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Sistem Pneumatik dan Hidrolik",
+      "konten": "Komponen sistem fluida (Kompresor, Katup kontrol arah, Silinder kerja tunggal/ganda) serta diagram rangkaian elektropneumatik.",
+      "tag": [
+        "teknik mekatronika materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Dasar Robotika dan Mikrokontroler",
+      "konten": "Pemrograman mikrokontroler (Arduino/ESP32), kinematika dasar robot, serta integrasi sistem mekatronika dalam industri 4.0.",
+      "tag": [
+        "teknik mekatronika materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "teknik-mekatronika-materi",
+  "mapel": "Teknik Mekatronika (Otomasi dan Robotika)",
+  "tag": [
+    "teknik mekatronika materi"
+  ]
+}

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_KD_01",
+    "pertanyaan": "Kondisi stabil atau keseimbangan lingkungan internal tubuh manusia yang dijaga melalui berbagai mekanisme fisiologis disebut...",
+    "opsi": [
+      "Homeostasis",
+      "Metabolisme",
+      "Katabolisme",
+      "Anabolisme",
+      "Oksidasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Homeostasis menjaga suhu tubuh, pH darah, dan kadar gula tetap stabil."
+  },
+  {
+    "id": "KU_KD_02",
+    "pertanyaan": "Bagian jantung yang berfungsi memompa darah kaya oksigen ke seluruh tubuh melalui aorta adalah...",
+    "opsi": [
+      "Atrium Kanan",
+      "Ventrikel Kiri (Bilik Kiri)",
+      "Atrium Kiri",
+      "Ventrikel Kanan",
+      "Vena Cava"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Ventrikel kiri memiliki otot yang paling tebal karena harus memompa dengan tekanan tinggi."
+  },
+  {
+    "id": "KU_KD_03",
+    "pertanyaan": "Zat di dalam sel darah merah (eritrosit) yang bertugas mengikat oksigen untuk diedarkan ke seluruh jaringan tubuh adalah...",
+    "opsi": [
+      "Leukosit",
+      "Plasma",
+      "Hemoglobin (Hb)",
+      "Trombosit",
+      "Insulin"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kekurangan hemoglobin menyebabkan kondisi anemia."
+  },
+  {
+    "id": "KU_KD_04",
+    "pertanyaan": "Tempat pertukaran gas oksigen (O2) dan karbon monoksida (CO2) di dalam paru-paru terjadi pada...",
+    "opsi": [
+      "Bronkus",
+      "Trakea",
+      "Faring",
+      "Alveolus",
+      "Laring"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Alveolus berupa kantong udara kecil yang dikelilingi pembuluh kapiler."
+  },
+  {
+    "id": "KU_KD_05",
+    "pertanyaan": "Hormon yang diproduksi oleh pankreas untuk menurunkan kadar gula (glukosa) dalam darah adalah...",
+    "opsi": [
+      "Glukagon",
+      "Adrenalin",
+      "Tiroksin",
+      "Estrogen",
+      "Insulin"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gangguan produksi atau fungsi insulin menyebabkan Diabetes Melitus."
+  },
+  {
+    "id": "KU_KD_06",
+    "pertanyaan": "Tulang terpanjang dan terkuat pada tubuh manusia yang berada di paha disebut tulang...",
+    "opsi": [
+      "Femur",
+      "Humerus",
+      "Tibia",
+      "Fibula",
+      "Radius"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Femur menopang berat tubuh dan sangat sulit untuk patah kecuali karena benturan sangat keras."
+  },
+  {
+    "id": "KU_KD_07",
+    "pertanyaan": "Saraf otak (Nervus Cranialis) yang bertanggung jawab atas indra penglihatan adalah...",
+    "opsi": [
+      "Nervus Olfaktorius (I)",
+      "Nervus Optikus (II)",
+      "Nervus Okulomotorius (III)",
+      "Nervus Troklearis (IV)",
+      "Nervus Trigeminus (V)"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Nervus optikus membawa sinyal visual dari retina ke otak."
+  },
+  {
+    "id": "KU_KD_08",
+    "pertanyaan": "Proses pembelahan sel yang menghasilkan dua sel anakan yang identik dengan sel induk (untuk pertumbuhan dan perbaikan jaringan) disebut...",
+    "opsi": [
+      "Meiosis",
+      "Fertilisasi",
+      "Mitosis",
+      "Oogenesis",
+      "Spermatogenesis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mitosis terjadi pada sel-sel tubuh (somatik)."
+  },
+  {
+    "id": "KU_KD_09",
+    "pertanyaan": "Penyakit yang ditandai dengan pertumbuhan sel yang tidak terkendali dan kemampuan menyebar ke bagian tubuh lain disebut...",
+    "opsi": [
+      "Diabetes",
+      "Hipertensi",
+      "Flu",
+      "Kanker (Neoplasma Ganas)",
+      "Kurap"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penyebaran sel kanker ke organ lain disebut metastasis."
+  },
+  {
+    "id": "KU_KD_10",
+    "pertanyaan": "Organ yang berfungsi memetabolisme racun, obat-obatan, dan memproduksi empedu dalam tubuh adalah...",
+    "opsi": [
+      "Ginjal",
+      "Hati (Paru)",
+      "Lambung",
+      "Jantung",
+      "Hati (Liver)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Liver adalah laboratorium biokimia terbesar dalam tubuh."
+  },
+  {
+    "id": "KU_KD_11",
+    "pertanyaan": "Satuan unit fungsional terkecil di ginjal yang bertugas menyaring darah adalah...",
+    "opsi": [
+      "Nefron",
+      "Neuron",
+      "Alveolus",
+      "Ion",
+      "Korteks"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Satu ginjal memiliki sekitar satu juta nefron."
+  },
+  {
+    "id": "KU_KD_12",
+    "pertanyaan": "Tindakan medis memberikan instruksi tertulis mengenai obat yang harus digunakan pasien kepada apoteker disebut...",
+    "opsi": [
+      "Kuitansi",
+      "Resep (Recipe)",
+      "Sertifikat",
+      "Laporan",
+      "Nota"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Resep harus memuat nama pasien, obat, dosis, frekuensi, dan tanda tangan dokter."
+  },
+  {
+    "id": "KU_KD_13",
+    "pertanyaan": "Pemeriksaan fisik menggunakan alat stetoskop untuk mendengarkan suara di dalam tubuh (jantung/paru) disebut...",
+    "opsi": [
+      "Inspeksi",
+      "Palpasi",
+      "Auskultasi",
+      "Perkusi",
+      "Rontgen"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Auskultasi mendeteksi kelainan bunyi jantung (murmur) atau paru (ronkhi)."
+  },
+  {
+    "id": "KU_KD_14",
+    "pertanyaan": "Obat yang digunakan untuk mematikan atau menghambat pertumbuhan bakteri disebut...",
+    "opsi": [
+      "Analgesik",
+      "Antipiretik",
+      "Antivirus",
+      "Antibiotik",
+      "Vaksin"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Antibiotik tidak efektif melawan infeksi yang disebabkan oleh virus (seperti flu)."
+  },
+  {
+    "id": "KU_KD_15",
+    "pertanyaan": "Suhu tubuh manusia normal berada pada kisaran...",
+    "opsi": [
+      "25 - 30 derajat Celcius",
+      "40 - 42 derajat Celcius",
+      "10 - 15 derajat Celcius",
+      "Sembarang",
+      "36,5 - 37,5 derajat Celcius"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Suhu di atas 38 derajat Celcius dikategorikan sebagai demam (febris)."
+  },
+  {
+    "id": "KU_KD_16",
+    "pertanyaan": "Tekanan darah optimal bagi orang dewasa yang sehat berada di angka...",
+    "opsi": [
+      "120/80 mmHg",
+      "180/100 mmHg",
+      "90/60 mmHg",
+      "200/120 mmHg",
+      "50/30 mmHg"
+    ],
+    "jawaban": 0,
+    "pembahasan": "120 (Sistolik) / 80 (Diastolik) mmHg. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"120/80 mmHg\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_KD_17",
+    "pertanyaan": "Istilah medis untuk kondisi kekurangan cairan dalam tubuh adalah...",
+    "opsi": [
+      "Anemia",
+      "Dehidrasi",
+      "Hipotermia",
+      "Hiperglikemia",
+      "Edema"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dehidrasi berat dapat mengancam nyawa jika tidak segera ditangani."
+  },
+  {
+    "id": "KU_KD_18",
+    "pertanyaan": "Bagian sistem kekebalan tubuh yang bertugas mengenali dan melawan benda asing (antigen) secara spesifik disebut...",
+    "opsi": [
+      "Kuman",
+      "Lendir",
+      "Antibodi (Imunoglobulin)",
+      "Kelenjar",
+      "Keringat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Antibodi diproduksi oleh sel limfosit B."
+  },
+  {
+    "id": "KU_KD_19",
+    "pertanyaan": "Peningkatan jumlah sel darah putih (leukosit) dalam darah biasanya merupakan tanda adanya...",
+    "opsi": [
+      "Kurang makan",
+      "Terlalu banyak olahraga",
+      "Kehamilan normal",
+      "Infeksi atau peradangan dalam tubuh",
+      "Kedinginan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Leukosit berperan sebagai tentara tubuh melawan patogen."
+  },
+  {
+    "id": "KU_KD_20",
+    "pertanyaan": "Tindakan pencegahan penyakit dengan cara merangsang sistem imun melalui pemberian kuman yang dilemahkan/dimatikan disebut...",
+    "opsi": [
+      "Kemoradiasi",
+      "Operasi",
+      "Terapi pijat",
+      "Fisioterapi",
+      "Vaksinasi / Imunisasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Vaksin menciptakan memori imunologi sehingga tubuh siap melawan penyakit sungguhan kelak."
+  },
+  {
+    "id": "KU_KD_21",
+    "pertanyaan": "Istilah profesional bagi persetujuan yang diberikan pasien setelah mendapatkan penjelasan lengkap mengenai tindakan medis disebut...",
+    "opsi": [
+      "Inform Consent",
+      "Nota Kontrak",
+      "Surat Kuasa",
+      "Izin Orang Tua",
+      "Sumpah Dokter"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Informed consent adalah bukti penghormatan terhadap otonomi pasien."
+  },
+  {
+    "id": "KU_KD_22",
+    "pertanyaan": "Kumpulan keluhan atau gejala yang dirasakan oleh pasien saat datang ke dokter disebut...",
+    "opsi": [
+      "Diagnosis",
+      "Simptom (Gejala)",
+      "Prognosis",
+      "Terapi",
+      "Anatomi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Gejala yang dirasakan pasien bersifat subjektif."
+  },
+  {
+    "id": "KU_KD_23",
+    "pertanyaan": "Keputusan akhir dokter mengenai jenis penyakit yang diderita pasien disebut...",
+    "opsi": [
+      "Opini",
+      "Prognosis",
+      "Diagnosis",
+      "Anatomi",
+      "Stetoskop"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Diagnosis ditegakkan berdasarkan anamnesis, pemeriksaan fisik, dan penunjang."
+  },
+  {
+    "id": "KU_KD_24",
+    "pertanyaan": "Prediksi dokter mengenai jalannya penyakit dan kemungkinan kesembuhan pasien disebut...",
+    "opsi": [
+      "Diagnosis",
+      "Epikrisis",
+      "Hipotetis",
+      "Prognosis",
+      "Patogenesis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Prognosis bisa berupa bonam (baik), dubia (ragu), atau malam (buruk)."
+  },
+  {
+    "id": "KU_KD_25",
+    "pertanyaan": "Aliran darah yang membawa oksigen dari jantung ke seluruh tubuh lalu kembali lagi ke jantung disebut sirkulasi...",
+    "opsi": [
+      "Sirkulasi Pulmonal (Kecil)",
+      "Sirkulasi Koroner",
+      "Sirkulasi Limfatik",
+      "Sirkulasi Pasif",
+      "Sirkulasi Sistemik (Besar)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sirkulasi sistemik melayani kebutuhan nutrisi dan O2 seluruh sel tubuh."
+  },
+  {
+    "id": "KU_KD_26",
+    "pertanyaan": "Sirkulasi darah antara jantung dan paru-paru (untuk mengambil O2 dan membuang CO2) disebut sirkulasi...",
+    "opsi": [
+      "Pulmonal (Kecil)",
+      "Sistemik",
+      "Portal",
+      "Lokal",
+      "Udara"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Darah dari ventrikel kanan ke paru-paru lalu kembali ke atrium kiri."
+  },
+  {
+    "id": "KU_KD_27",
+    "pertanyaan": "Penipisan kepadatan tulang yang menyebabkan tulang rapuh dan mudah patah seiring bertambahnya usia disebut...",
+    "opsi": [
+      "Rematik",
+      "Osteoporosis",
+      "Artritis",
+      "Skoliosis",
+      "Ankilosis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Osteoporosis sering dialami wanita pasca menopause karena penurunan estrogen."
+  },
+  {
+    "id": "KU_KD_28",
+    "pertanyaan": "Kadar asam lambung (HCl) yang naik ke kerongkongan sehingga menyebabkan rasa terbakar di dada disebut penyakit...",
+    "opsi": [
+      "Maag (Gastritis)",
+      "Tipus",
+      "GERD (Gastroesophageal Reflux Disease)",
+      "Usus Buntu",
+      "Diare"
+    ],
+    "jawaban": 2,
+    "pembahasan": "GERD disebabkan oleh lemahnya katup (sfingter) antara lambung dan kerongkongan."
+  },
+  {
+    "id": "KU_KD_29",
+    "pertanyaan": "Bakteri berbentuk batang yang sering menjadi penyebab penyakit TBC (Tuberculosis) adalah...",
+    "opsi": [
+      "Salmonella typhi",
+      "Escherichia coli",
+      "Staphylococcus aureus",
+      "Mycobacterium tuberculosis",
+      "Vibrio cholerae"
+    ],
+    "jawaban": 3,
+    "pembahasan": "TBC menyerang paru-paru dan menular melalui percikan ludah (droplet)."
+  },
+  {
+    "id": "KU_KD_30",
+    "pertanyaan": "Pemeriksaan fungsi jantung yang merekam aktivitas listrik jantung melalui elektroda di kulit disebut...",
+    "opsi": [
+      "EEG",
+      "USG",
+      "MRI",
+      "CT SCAN",
+      "EKG / ECG (Elektrokardiografi)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "EKG sangat penting untuk mendeteksi serangan jantung (infark miokard)."
+  },
+  {
+    "id": "KU_KD_31",
+    "pertanyaan": "Pemeriksaan aktivitas listrik otak untuk mendeteksi kelainan seperti epilepsi disebut...",
+    "opsi": [
+      "EEG (Elektroensefalografi)",
+      "EKG",
+      "EMG",
+      "Audiometri",
+      "Spirometri"
+    ],
+    "jawaban": 0,
+    "pembahasan": "EEG merekam gelombang otak (alfa, beta, delta, teta)."
+  },
+  {
+    "id": "KU_KD_32",
+    "pertanyaan": "Teknologi pencitraan medis yang menggunakan frekuensi suara tinggi untuk melihat janin dalam kandungan adalah...",
+    "opsi": [
+      "Sinar X",
+      "USG (Ultrasonografi)",
+      "Endoskopi",
+      "Rontgen",
+      "Kamera"
+    ],
+    "jawaban": 1,
+    "pembahasan": "USG aman karena tidak menggunakan radiasi pengion (X-ray)."
+  },
+  {
+    "id": "KU_KD_33",
+    "pertanyaan": "Prinsip etika kedokteran yang mewajibkan dokter untuk berbuat baik bagi pasien disebut...",
+    "opsi": [
+      "Non-maleficence",
+      "Justice",
+      "Beneficence",
+      "Autonomy",
+      "Veracity"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dokter harus selalu mengupayakan tindakan yang paling memberikan manfaat bagi pasien."
+  },
+  {
+    "id": "KU_KD_34",
+    "pertanyaan": "Prinsip etika kedokteran yang melarang dokter melakukan tindakan yang merugikan atau membahayakan pasien (First do no harm) adalah...",
+    "opsi": [
+      "Autonomy",
+      "Justice",
+      "Veracity",
+      "Non-maleficence",
+      "Altruism"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Keselamatan pasien adalah hukum tertinggi."
+  },
+  {
+    "id": "KU_KD_35",
+    "pertanyaan": "Organel sel yang sering dijuluki 'Powerhouse of the cell' karena menghasilkan energi (ATP) melalui respirasi sel adalah...",
+    "opsi": [
+      "Ribosom",
+      "Lisosom",
+      "Nukleus",
+      "Retikulum Endoplasma",
+      "Mitokondria"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sel otot jantung memiliki sangat banyak mitokondria dibanding sel lain."
+  },
+  {
+    "id": "KU_KD_36",
+    "pertanyaan": "Bagian mata yang berfungsi mengatur jumlah cahaya yang masuk dengan mengecil atau membesarnya pupil adalah...",
+    "opsi": [
+      "Iris (Selaput Pelangi)",
+      "Kornea",
+      "Retina",
+      "Lensa",
+      "Sklera"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Warna mata seseorang ditentukan oleh pigmen pada iris."
+  },
+  {
+    "id": "KU_KD_37",
+    "pertanyaan": "Gula pasir (Sukrosa) saat dicerna di usus halus akan dipecah menjadi...",
+    "opsi": [
+      "Glukosa dan Glukosa",
+      "Glukosa dan Fruktosa",
+      "Glukosa dan Galaktosa",
+      "Lemak",
+      "Serat"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pemecahan dilakukan oleh enzim sukrase. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Glukosa dan Fruktosa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_KD_38",
+    "pertanyaan": "Penyumbatan pembuluh darah arteri koroner secara mendadak yang mengakibatkan kematian otot jantung disebut...",
+    "opsi": [
+      "Stroke",
+      "Gagal Ginjal",
+      "Serangan Jantung (Infark Miokard Akut)",
+      "Asma",
+      "Tipus"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dibutuhkan penanganan segera untuk membuka sumbatan darah."
+  },
+  {
+    "id": "KU_KD_39",
+    "pertanyaan": "Kondisi terganggunya aliran darah ke otak (pecah atau tersumbatnya pembuluh darah otak) yang menyebabkan kelumpuhan atau kematian saraf secara mendadak disebut...",
+    "opsi": [
+      "Serangan Jantung",
+      "Varises",
+      "Leukimia",
+      "Stroke",
+      "Ambeien"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Stroke bisa berupa Iskemik (sumbatan) atau Hemoragik (perdarahan)."
+  },
+  {
+    "id": "KU_KD_40",
+    "pertanyaan": "Zat besi (Fe) sangat penting dalam diet manusia untuk membantu pembentukan...",
+    "opsi": [
+      "Kalsium tulang",
+      "Vitamin C",
+      "Iodium",
+      "Lemak perut",
+      "Hemoglobin sel darah merah"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kekurangan zat besi adalah penyebab utama anemia di dunia."
+  },
+  {
+    "id": "KU_KD_41",
+    "pertanyaan": "Apa risiko utama dari konsumsi garam (Natrium) yang berlebihan secara terus menerus?",
+    "opsi": [
+      "Hipertensi (Tekanan Darah Tinggi)",
+      "Banyak keringat",
+      "Kebodohan",
+      "Sakit gigi",
+      "Bibir pecah-pecah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kelebihan natrium menarik air ke pembuluh darah dan meningkatkan tekanan."
+  },
+  {
+    "id": "KU_KD_42",
+    "pertanyaan": "Ilmu yang mempelajari fungsi normal jaringan dan organ tubuh manusia disebut...",
+    "opsi": [
+      "Anatomi",
+      "Fisiologi",
+      "Patologi",
+      "Farmakologi",
+      "Histerologi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Fisiologi menjelaskan 'bagaimana' organ bekerja."
+  },
+  {
+    "id": "KU_KD_43",
+    "pertanyaan": "Ilmu yang mempelajari struktur atau susunan tubuh makhluk hidup disebut...",
+    "opsi": [
+      "Fisiologi",
+      "Biokimia",
+      "Anatomi",
+      "Obstetri",
+      "Pediatri"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Anatomi menjelaskan 'dimana' dan 'apa' struktur organnya."
+  },
+  {
+    "id": "KU_KD_44",
+    "pertanyaan": "Sumpah yang diucapkan oleh calon dokter sebelum menjalankan profesinya sebagai wujud pengabdian dan etika adalah...",
+    "opsi": [
+      "Sumpah Pemuda",
+      "Janji Siswa",
+      "Sumpah Jabatan PNS",
+      "Sumpah Hippokrates / Sumpah Dokter",
+      "Sumpah Palapa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Menekankan kerahasiaan pasien dan integritas profesi."
+  },
+  {
+    "id": "KU_KD_45",
+    "pertanyaan": "Warna urin yang jernih kekuningan menandakan bahwa seseorang...",
+    "opsi": [
+      "Sangat sakit",
+      "Kurang minum",
+      "Makan terlalu banyak",
+      "Kehausan",
+      "Terhidrasi dengan baik (cukup minum)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Warna pekat/gelap bisa menjadi tanda dehidrasi."
+  },
+  {
+    "id": "KU_KD_46",
+    "pertanyaan": "Prosedur cuci darah buatan menggunakan mesin bagi pasien gagal ginjal kronis disebut...",
+    "opsi": [
+      "Hemodialisis",
+      "Kemoterapi",
+      "Radioterapi",
+      "Endoskopi",
+      "Operasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mesin menggantikan fungsi ginjal yang sudah tidak mampu menyaring racun sisa metabolisme."
+  },
+  {
+    "id": "KU_KD_47",
+    "pertanyaan": "Bagian sistem saraf yang mengatur fungsi otomatis tubuh (seperti detak jantung, pernapasan, pencernaan) disebut sistem saraf...",
+    "opsi": [
+      "Saraf Pusat",
+      "Saraf Otonom",
+      "Saraf Sensorik",
+      "Saraf Motorik",
+      "Saraf Somatik"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Terbagi menjadi sistem saraf Simpatis (waspada) dan Parasimpatis (istirahat)."
+  },
+  {
+    "id": "KU_KD_48",
+    "pertanyaan": "Vitamin yang penting untuk pembekuan darah (koagulasi) saat terjadi luka adalah...",
+    "opsi": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Bayi baru lahir sering mendapat suntikan Vitamin K untuk mencegah perdarahan."
+  },
+  {
+    "id": "KU_KD_49",
+    "pertanyaan": "Apa itu 'Resistensi Antibiotik'?",
+    "opsi": [
+      "Antibiotik menjadi murah",
+      "Antibiotik membunuh virus",
+      "Manusia menjadi alergi antibiotik",
+      "Bakteri menjadi kebal terhadap antibiotik karena penggunaan yang tidak tepat/sering putus dosis",
+      "Antibiotik kedaluwarsa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Masalah kesehatan global yang serius karena infeksi bakteri jadi sulit diobati."
+  },
+  {
+    "id": "KU_KD_50",
+    "pertanyaan": "Lama pendidikan spesialis kedokteran biasanya berkisar antara...",
+    "opsi": [
+      "1 bulan",
+      "100 tahun",
+      "1 minggu",
+      "Tanpa sekolah lagi",
+      "3 - 6 tahun (setelah lulus dokter umum)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pendidikan spesialis mendalam pada satu bidang tertentu (misal Bedah, Anak, Penyakit Dalam)."
+  }
+]

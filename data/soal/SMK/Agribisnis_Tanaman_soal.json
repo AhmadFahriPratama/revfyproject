@@ -1,0 +1,652 @@
+[
+  {
+    "id": "AG_TN_01",
+    "pertanyaan": "Pelaku usaha di bidang pertanian yang mengelola bisnis dari hulu hingga hilir disebut...",
+    "opsi": [
+      "Agropreneur",
+      "Petani Tradisional",
+      "Buruh Tani",
+      "Penyuluh",
+      "Tengkulak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Agropreneur menggabungkan keahlian pertanian dengan strategi bisnis modern."
+  },
+  {
+    "id": "AG_TN_02",
+    "pertanyaan": "Tanaman yang dibudidayakan untuk diambil buah, bunga, daun, atau batangnya sebagai sayuran dan buah-buahan disebut tanaman...",
+    "opsi": [
+      "Tanaman Pangan",
+      "Tanaman Hortikultura",
+      "Tanaman Perkebunan",
+      "Tanaman Hutan",
+      "Tanaman Hias"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Hortikultura mencakup olerikultura (sayuran), pomologi (buah), dan florikultura (bunga)."
+  },
+  {
+    "id": "AG_TN_03",
+    "pertanyaan": "Padi, jagung, dan gandum termasuk ke dalam kelompok tanaman...",
+    "opsi": [
+      "Perkebunan",
+      "Obat",
+      "Pangan",
+      "Hias",
+      "Rumput"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tanaman pangan adalah sumber karbohidrat utama bagi manusia."
+  },
+  {
+    "id": "AG_TN_04",
+    "pertanyaan": "Kegiatan mengolah tanah untuk memberikan kondisi yang baik bagi pertumbuhan akar tanaman disebut...",
+    "opsi": [
+      "Penyiangan",
+      "Pemupukan",
+      "Penyiraman",
+      "Pengolahan Lahan",
+      "Penyulaman"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pengolahan lahan dilakukan dengan mencangkul atau membajak tanah."
+  },
+  {
+    "id": "AG_TN_05",
+    "pertanyaan": "Alat mesin pertanian (alsintan) yang digunakan untuk membajak sawah adalah...",
+    "opsi": [
+      "Transplanter",
+      "Harvester",
+      "Sprayer",
+      "Thresher",
+      "Traktor"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Traktor mempercepat proses pengolahan tanah dibanding tenaga hewan."
+  },
+  {
+    "id": "AG_TN_06",
+    "pertanyaan": "Biji tanaman yang telah dipilih dan diproses khusus untuk tujuan penanaman kembali disebut...",
+    "opsi": [
+      "Benih",
+      "Bibit",
+      "Entres",
+      "Spora",
+      "Stek"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Benih berupa biji, sedangkan bibit adalah tanaman muda yang sudah tumbuh."
+  },
+  {
+    "id": "AG_TN_07",
+    "pertanyaan": "Perbanyakan tanaman menggunakan bagian tubuh tanaman (akar, batang, daun) tanpa melalui perkawinan disebut perbanyakan...",
+    "opsi": [
+      "Generatif",
+      "Vegetatif",
+      "Distributif",
+      "Interaktif",
+      "Komulatif"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh vegetatif: stek, cangkok, dan okulasi."
+  },
+  {
+    "id": "AG_TN_08",
+    "pertanyaan": "Unsur hara makro utama yang sangat dibutuhkan tanaman untuk pertumbuhan daun (hijau daun) adalah...",
+    "opsi": [
+      "Fosfor (P)",
+      "Kalium (K)",
+      "Nitrogen (N)",
+      "Kalsium (Ca)",
+      "Besi (Fe)"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kekurangan nitrogen menyebabkan daun tanaman berwarna kuning (klorosis)."
+  },
+  {
+    "id": "AG_TN_09",
+    "pertanyaan": "Pupuk yang berasal dari kotoran hewan ternak disebut...",
+    "opsi": [
+      "Pupuk Urea",
+      "Pupuk Kompos",
+      "Pupuk Hijau",
+      "Pupuk Kandang",
+      "Pupuk NPK"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pupuk kandang meningkatkan kesuburan tanah secara alami."
+  },
+  {
+    "id": "AG_TN_10",
+    "pertanyaan": "Pupuk yang berasal dari sisa-sisa tanaman yang telah melalui proses pelapukan atau fermentasi disebut...",
+    "opsi": [
+      "Pupuk Kimia",
+      "Pupuk Organik Cair",
+      "Pupuk ZA",
+      "Pupuk KCl",
+      "Pupuk Kompos"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kompos kaya akan unsur hara dan mikroba baik bagi tanah."
+  },
+  {
+    "id": "AG_TN_11",
+    "pertanyaan": "Salah satu keuntungan bertanam secara Hidroponik adalah...",
+    "opsi": [
+      "Bisa dilakukan di lahan sempit dan kebersihan lebih terjaga (tanpa tanah)",
+      "Membutuhkan lahan sangat luas",
+      "Sangat tergantung pada musim hujan",
+      "Tidak butuh air",
+      "Harga benih gratis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Hidroponik menggunakan media air yang kaya nutrisi."
+  },
+  {
+    "id": "AG_TN_12",
+    "pertanyaan": "Sistem bercocok tanam yang menggabungkan akuakultur (budidaya ikan) dan hidroponik disebut...",
+    "opsi": [
+      "Aeroponik",
+      "Akuaponik",
+      "Vertikultura",
+      "Kultur Jaringan",
+      "Ekosistem"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kotoran ikan diubah menjadi nutrisi bagi tanaman."
+  },
+  {
+    "id": "AG_TN_13",
+    "pertanyaan": "Tanaman yang tumbuh liar di area budidaya dan mengganggu karena bersaing memperebutkan nutrisi disebut...",
+    "opsi": [
+      "Hama",
+      "Penyakit",
+      "Gulma",
+      "Vektor",
+      "Inang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh gulma: rumput teki, alang-alang. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Gulma\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "AG_TN_14",
+    "pertanyaan": "Hewan yang merusak tanaman secara langsung (misal memakan daun atau buah) disebut...",
+    "opsi": [
+      "Penyakit",
+      "Parasit",
+      "Komensal",
+      "Hama",
+      "Predator"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh hama: belalang, ulat, tikus, wereng."
+  },
+  {
+    "id": "AG_TN_15",
+    "pertanyaan": "Metode pengendalian hama dengan cara menggunakan musuh alami (predator) hama tersebut disebut pengendalian secara...",
+    "opsi": [
+      "Kimiawi",
+      "Fisik",
+      "Mekanis",
+      "Tradisional",
+      "Biologi / Hayati"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: memelihara burung hantu untuk membasmi tikus sawah."
+  },
+  {
+    "id": "AG_TN_16",
+    "pertanyaan": "Zat kimia yang digunakan untuk membasmi serangga pengganggu tanaman disebut...",
+    "opsi": [
+      "Insektisida",
+      "Herbisida",
+      "Fungisida",
+      "Rodentisida",
+      "Bakterisida"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Insects = serangga. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Insektisida\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "AG_TN_17",
+    "pertanyaan": "Zat kimia yang digunakan untuk membasmi jamur penyebab penyakit pada tanaman disebut...",
+    "opsi": [
+      "Herbisida",
+      "Fungisida",
+      "Insektisida",
+      "Nisida",
+      "Oksida"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Fungi = jamur. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Fungisida\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "AG_TN_18",
+    "pertanyaan": "Zat kimia yang digunakan untuk membasmi gulma (rumput pengganggu) disebut...",
+    "opsi": [
+      "Rodentisida",
+      "Insektisida",
+      "Herbisida",
+      "Parasitida",
+      "Moluskisida"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Herb = tanaman/herba. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Herbisida\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "AG_TN_19",
+    "pertanyaan": "Kadar keasaman tanah yang ideal untuk sebagian besar tanaman budidaya memiliki pH sekitar...",
+    "opsi": [
+      "1-3 (Sangat Asam)",
+      "9-10 (Basa)",
+      "12-14 (Sangat Basa)",
+      "6-7 (Netral)",
+      "0"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pada pH netral, unsur hara dapat diserap secara optimal oleh akar."
+  },
+  {
+    "id": "AG_TN_20",
+    "pertanyaan": "Lapisan tanah paling atas yang paling subur bagi tanaman karena kaya bahan organik disebut...",
+    "opsi": [
+      "Subur",
+      "Bedrock",
+      "Regolit",
+      "Horison B",
+      "Top Soil"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Top soil biasanya berwarna lebih gelap karena mengandung humus."
+  },
+  {
+    "id": "AG_TN_21",
+    "pertanyaan": "Tindakan mencabut bibit yang mati dan menggantinya dengan bibit baru yang sehat disebut kegiatan...",
+    "opsi": [
+      "Penyulaman",
+      "Penyiangan",
+      "Pembumbunan",
+      "Pemangkasan",
+      "Pemanenan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penyulaman dilakukan agar populasi tanaman di lahan seragam/penuh."
+  },
+  {
+    "id": "AG_TN_22",
+    "pertanyaan": "Kegiatan menutup pangkal batang tanaman dengan tanah agar akar lebih kuat dan drainase terjaga disebut...",
+    "opsi": [
+      "Penyiangan",
+      "Pembumbunan",
+      "Penyulaman",
+      "Stek",
+      "Okulasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biasa dilakukan pada tanaman jagung atau umbi-umbian."
+  },
+  {
+    "id": "AG_TN_23",
+    "pertanyaan": "Teknik budidaya tanaman di atas rak atau susunan vertikal untuk menghemat lahan disebut...",
+    "opsi": [
+      "Hidroponik",
+      "Kultur Jaringan",
+      "Vertikultura",
+      "Polikultur",
+      "Monokultur"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sangat cocok untuk area perkotaan (urban farming)."
+  },
+  {
+    "id": "AG_TN_24",
+    "pertanyaan": "Sistem penanaman satu jenis tanaman saja dalam satu lahan luas disebut...",
+    "opsi": [
+      "Polikultur",
+      "Tumpang Sari",
+      "Rotasi Tanaman",
+      "Monokultur",
+      "Sistem Surjan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kelemahannya adalah risiko serangan hama yang masif."
+  },
+  {
+    "id": "AG_TN_25",
+    "pertanyaan": "Sistem penanaman lebih dari satu jenis tanaman secara bersamaan pada satu lahan disebut...",
+    "opsi": [
+      "Monokultur",
+      "Budidaya Tunggal",
+      "Karantina",
+      "Isolasi",
+      "Polikultur / Tumpang Sari"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Meningkatkan variasi hasil panen dan memecah siklus hama."
+  },
+  {
+    "id": "AG_TN_26",
+    "pertanyaan": "Penggantian jenis tanaman yang ditanam pada lahan yang sama secara bergantian pada musim berikutnya disebut...",
+    "opsi": [
+      "Rotasi Tanaman",
+      "Tumpang sari",
+      "Monokultur",
+      "Intensifikasi",
+      "Ekstensifikasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Menjaga kesuburan tanah dan memutus siklus hidup hama tertentu."
+  },
+  {
+    "id": "AG_TN_27",
+    "pertanyaan": "Peralatan keselamatan (APD) yang wajib digunakan saat melakukan penyemprotan pestisida adalah...",
+    "opsi": [
+      "Topi koboi",
+      "Masker, sarung tangan, dan baju lengan panjang",
+      "Kacamata renang",
+      "Sepatu sendal",
+      "Rompi tipis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pestisida adalah racun yang bisa menyerap melalui kulit dan pernapasan."
+  },
+  {
+    "id": "AG_TN_28",
+    "pertanyaan": "Zat yang berfungsi merangsang pertumbuhan akar atau pertumbuhan buah pada tanaman disebut...",
+    "opsi": [
+      "Pestisida",
+      "Deterjen",
+      "ZPT (Zat Pengatur Tumbuh) / Hormon",
+      "Cat",
+      "Cuka"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh ZPT: Auksin, Giberelin, Sitokinin."
+  },
+  {
+    "id": "AG_TN_29",
+    "pertanyaan": "Metode perbanyakan tanaman di laboratorium menggunakan sel atau jaringan dalam media steril disebut...",
+    "opsi": [
+      "Cangkok",
+      "Stek",
+      "Okulasi",
+      "Kultur Jaringan",
+      "Enten"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Menghasilkan bibit dalam jumlah massal dan seragam kualitasnya."
+  },
+  {
+    "id": "AG_TN_30",
+    "pertanyaan": "Apa itu 'Pasca Panen'?",
+    "opsi": [
+      "Kegiatan sebelum menanam",
+      "Menyiram tanaman di pagi hari",
+      "Membeli bibit di toko",
+      "Membajak sawah",
+      "Kegiatan penanganan hasil pertanian segera setelah dipetik hingga didistribusikan ke konsumen"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Meliputi pemilahan (sorting), pengemasan, dan penyimpanan."
+  },
+  {
+    "id": "AG_TN_31",
+    "pertanyaan": "Sorting (Sortasi) dalam pasca panen bertujuan untuk...",
+    "opsi": [
+      "Memisahkan produk yang baik dari yang cacat/busuk",
+      "Membuang semua hasil panen",
+      "Mengecilkan ukuran buah",
+      "Menambah berat timbangan",
+      "Mewarnai buah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Menjaga kualitas produk yang sampai ke tangan pembeli."
+  },
+  {
+    "id": "AG_TN_32",
+    "pertanyaan": "Grading dalam pasca panen bertujuan untuk...",
+    "opsi": [
+      "Mengacak hasil panen",
+      "Mengelompokkan produk berdasarkan ukuran, berat, atau kualitas standar tertentu",
+      "Mencampur semua jenis buah",
+      "Menjemur di bawah matahari",
+      "Merebus buah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mempermudah penentuan harga jual sesuai kelas kualitasnya."
+  },
+  {
+    "id": "AG_TN_33",
+    "pertanyaan": "Cara pengemasan sayuran segar yang baik agar tidak cepat layu saat pengiriman adalah...",
+    "opsi": [
+      "Dibiarkan terbuka di bawah terik matahari",
+      "Dicelupkan ke air mendidih",
+      "Dikemas rapi, suhu dijaga tetap sejuk, dan terhindar dari benturan",
+      "Dibungkus semen",
+      "Ditaruh di dalam kardus tertutup tanpa lubang udara"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sirkulasi udara dan suhu yang pas menjaga kesegaran sayuran."
+  },
+  {
+    "id": "AG_TN_34",
+    "pertanyaan": "Tanaman teh dan kopi termasuk ke dalam kategori tanaman...",
+    "opsi": [
+      "Tanaman Pangan",
+      "Tanaman Sayuran",
+      "Tanaman Hias",
+      "Tanaman Perkebunan",
+      "Tanaman Berduri"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Biasanya ditanam dalam area luas untuk komoditas industri/ekspor."
+  },
+  {
+    "id": "AG_TN_35",
+    "pertanyaan": "Waktu penyiraman tanaman yang paling baik adalah...",
+    "opsi": [
+      "Siang hari saat matahari panas",
+      "Tengah malam",
+      "Hanya saat hujan",
+      "Setiap 1 jam sekali",
+      "Pagi hari sebelum jam 9 atau Sore hari setelah jam 4"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Penyiraman di siang terik bisa membuat tanaman stres/layu akibat penguapan ekstrim."
+  },
+  {
+    "id": "AG_TN_36",
+    "pertanyaan": "Alat ukur kelembapan udara di area pertanian disebut...",
+    "opsi": [
+      "Higrometer",
+      "Termometer",
+      "Anemometer",
+      "Barometer",
+      "Tensiometer"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kelembapan udara mempengaruhi risiko serangan jamur pada tanaman."
+  },
+  {
+    "id": "AG_TN_37",
+    "pertanyaan": "Alat ukur kecepatan angin di lahan pertanian disebut...",
+    "opsi": [
+      "Higrometer",
+      "Anemometer",
+      "Amperemeter",
+      "Luxmeter",
+      "Ph meter"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Angin kencang bisa merugikan (tanaman rubuh) atau menguntungkan (penyerbukan)."
+  },
+  {
+    "id": "AG_TN_38",
+    "pertanyaan": "Tanah yang sangat mudah menyerap air dan biasanya kurang subur karena miskin bahan organik adalah tanah...",
+    "opsi": [
+      "Tanah Liat",
+      "Tanah Humus",
+      "Tanah Berpasir",
+      "Tanah Gambut",
+      "Tanah Lempung"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Butuh tambahan pupuk organik yang banyak agar bisa digunakan bertanam."
+  },
+  {
+    "id": "AG_TN_39",
+    "pertanyaan": "Tanah yang berwarna hitam, gembur, dan terbentuk dari pelapukan daun-daun hutan disebut tanah...",
+    "opsi": [
+      "Kapur",
+      "Cadas",
+      "Liat",
+      "Humus",
+      "Podzolik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Humus adalah tanah yang sangat subur karena kaya nutrisi alami."
+  },
+  {
+    "id": "AG_TN_40",
+    "pertanyaan": "Salah satu upaya pencegahan erosi (pengikisan tanah) di lahan miring/pegunungan adalah dengan membuat...",
+    "opsi": [
+      "Sumur bor",
+      "Gudang",
+      "Pagar tinggi",
+      "Tembok beton",
+      "Terasering / Sengkedan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Terasering menahan laju aliran air hujan agar tidak langsung menghanyutkan tanah subur."
+  },
+  {
+    "id": "AG_TN_41",
+    "pertanyaan": "Tanaman sayuran yang diambil umbinya adalah...",
+    "opsi": [
+      "Wortel",
+      "Bayam",
+      "Sawi",
+      "Tomat",
+      "Kangkung"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Wortel menyimpan cadangan makanan/umbi di bagian akar."
+  },
+  {
+    "id": "AG_TN_42",
+    "pertanyaan": "Pupuk Urea merupakan sumber unsur hara...",
+    "opsi": [
+      "K (Kalium)",
+      "N (Nitrogen)",
+      "P (Fosfor)",
+      "Fe (Besi)",
+      "Ca (Kalsium)"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Urea mengandung kadar nitrogen yang tinggi."
+  },
+  {
+    "id": "AG_TN_43",
+    "pertanyaan": "Proses bergabungnya sel kelamin jantan (serbuk sari) dan sel kelamin betina (putik) pada bunga disebut...",
+    "opsi": [
+      "Perkecambahan",
+      "Fermentasi",
+      "Penyerbukan / Polinasi",
+      "Fotosintesis",
+      "Respirasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Awal mula proses pembuahan dan pembentukan biji."
+  },
+  {
+    "id": "AG_TN_44",
+    "pertanyaan": "Proses pembentukan zat makanan oleh tumbuhan dengan bantuan sinar matahari disebut...",
+    "opsi": [
+      "Metabolisme",
+      "Induksi",
+      "Mutasi",
+      "Fotosintesis",
+      "Radiasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Terjadi di klorofil (zat hijau daun). Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Fotosintesis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "AG_TN_45",
+    "pertanyaan": "Pemanenan yang terlalu dini (buah belum cukup umur) akan berakibat...",
+    "opsi": [
+      "Kadar gula tinggi",
+      "Berat timbangan berlebih",
+      "Warna sangat menarik",
+      "Tahan simpan selamanya",
+      "Kualitas rendah (seringkali sepat/asam/keriput) dan harga murah"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Setiap komoditas memiliki kriteria kematangan panen yang berbeda."
+  },
+  {
+    "id": "AG_TN_46",
+    "pertanyaan": "Apa itu wirausaha 'Seed producer' (Produsen Benih)?",
+    "opsi": [
+      "Usaha yang khusus memproduksi benih unggul bersertifikat untuk dijual ke petani",
+      "Usaha yang menjual pupuk saja",
+      "Usaha mencangkul sawah orang",
+      "Usaha membuat traktor",
+      "Usaha memasak hasil panen"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penyediaan benih berkualitas adalah peluang bisnis besar di pertanian."
+  },
+  {
+    "id": "AG_TN_47",
+    "pertanyaan": "Simbol sertifikasi pada label benih yang menunjukkan kualitas terbaik/unggul biasanya dikeluarkan oleh...",
+    "opsi": [
+      "Kementerian Agama",
+      "BPSB (Balai Pengawasan dan Sertifikasi Benih)",
+      "Polisi",
+      "Sekolah",
+      "RT/RW"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Benih bersertifikat menjamin daya kecambah dan kemurnian varietas."
+  },
+  {
+    "id": "AG_TN_48",
+    "pertanyaan": "Tanaman padi siap panen biasanya ditandai dengan ciri visual...",
+    "opsi": [
+      "Daun semakin hijau segar",
+      "Batang padi semakin tinggi menjulang",
+      "Bulir padi sudah menguning dan daun bendera mulai kering",
+      "Muncul bunga baru",
+      "Tanaman tenggelam di air"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kadar air biji biasanya berkisar 20-25% saat panen ideal."
+  },
+  {
+    "id": "AG_TN_49",
+    "pertanyaan": "Salah satu dampak negatif penggunaan pestisida kimia secara berlebihan bagi lingkungan adalah...",
+    "opsi": [
+      "Tanah menjadi semakin subur",
+      "Hama hilang selamanya",
+      "Tanaman menjadi buah raksasa",
+      "Membunuh mikroba baik tanah dan mencemari air tanah/sungai",
+      "Harum aromanya"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pertanian organik berusaha meminimalisir ketergantungan pada kimia sintetis."
+  },
+  {
+    "id": "AG_TN_50",
+    "pertanyaan": "Mengapa pertanian disebut sebagai 'Soko Guru' (Pilar Utama) perekonomian Indonesia?",
+    "opsi": [
+      "Karena semua orang suka berkebun",
+      "Hanya mengikuti slogan lama",
+      "Karena harga tanah murah",
+      "Supaya petani senang",
+      "Karena sektor pertanian menyerap banyak tenaga kerja dan menyediakan makanan bagi seluruh rakyat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ketahanan pangan adalah kunci stabilitas sebuah negara."
+  }
+]

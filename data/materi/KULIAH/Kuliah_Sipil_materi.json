@@ -1,0 +1,53 @@
+{
+  "judul": "Teknik Sipil (Lanjut)",
+  "tingkatan": "KULIAH",
+  "jurusan": "STEM / Teknik Sipil",
+  "deskripsi": "Materi tingkat universitas mengenai mekanika fluida, analisis struktur (statika/dinamika), rekayasa pondasi, manajemen proyek konstruksi, serta pemodelan transportasi.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Mekanika Bahan dan Analisis Struktur",
+      "konten": "Pemahaman tegangan (stress) dan regangan (strain). Analisis struktur statis tak tentu, diagram gaya lintang dan momen lentur, serta stabilitas balok dan kolom.",
+      "tag": [
+        "kuliah sipil materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Rekayasa Geoteknik dan Pondasi",
+      "konten": "Sifat fisik dan mekanis tanah, klasifikasi tanah, daya dukung tanah, serta desain pondasi dangkal dan pondasi dalam (tiang pancang/bored pile).",
+      "tag": [
+        "kuliah sipil materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Hidrolika dan Irigasi",
+      "konten": "Prinsip hidrodinamika, aliran saluran terbuka, perencanaan bendungan, sistem drainase perkotaan, serta manajemen sumber daya air.",
+      "tag": [
+        "kuliah sipil materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Teknologi Beton dan Bahan Bangunan",
+      "konten": "Mix design beton berkualitas tinggi, pengujian kuat tekan, sifat baja tulangan, serta penggunaan material ramah lingkungan dalam konstruksi berkelanjutan.",
+      "tag": [
+        "kuliah sipil materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Manajemen Proyek dan Transportasi",
+      "konten": "Penjadwalan proyek (CPM/PERT), estimasi biaya (RAB Lanjut), perkerasan jalan raya, serta pemodelan lalu lintas dan sistem transportasi cerdas.",
+      "tag": [
+        "kuliah sipil materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-sipil-materi",
+  "mapel": "Teknik Sipil (Lanjut)",
+  "tag": [
+    "kuliah sipil materi"
+  ]
+}

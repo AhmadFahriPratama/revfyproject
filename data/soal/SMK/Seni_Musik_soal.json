@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SN_MS_01",
+    "pertanyaan": "Simbol notasi yang diletakkan pada awal garis paranada untuk menentukan letak nada G disebut kunci...",
+    "opsi": [
+      "Kunci G (Treble Clef)",
+      "Kunci F",
+      "Kunci C",
+      "Kunci Bass",
+      "Kunci Nada"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kunci G melambangkan nada-nada tinggi (sopran/alto)."
+  },
+  {
+    "id": "SN_MS_02",
+    "pertanyaan": "Lima garis sejajar yang digunakan untuk menuliskan notasi balok disebut...",
+    "opsi": [
+      "Larik",
+      "Garis Paranada (Staf)",
+      "Baris Nada",
+      "Birama",
+      "Interval"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Not balok diletakkan pada garis atau spasi di garis paranada."
+  },
+  {
+    "id": "SN_MS_03",
+    "pertanyaan": "Jarak antara dua nada dalam musik disebut...",
+    "opsi": [
+      "Tempo",
+      "Dinamik",
+      "Interval",
+      "Timbre",
+      "Harmoni"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Interval menentukan kualitas hubungan antar dua nada (misal: Prime, Second, Terz)."
+  },
+  {
+    "id": "SN_MS_04",
+    "pertanyaan": "Tangga nada yang terdiri dari 7 nada (Do-Re-Mi-Fa-Sol-La-Si) disebut tangga nada...",
+    "opsi": [
+      "Pentatonis",
+      "Kromatis",
+      "Pelog",
+      "Diatonis",
+      "Slendro"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Diatonis terbagi menjadi mayor (ceria) dan minor (sedih)."
+  },
+  {
+    "id": "SN_MS_05",
+    "pertanyaan": "Tangga nada tradisional Nusantara yang terdiri dari 5 nada disebut tangga nada...",
+    "opsi": [
+      "Diatonis",
+      "Fugue",
+      "Canon",
+      "Sinfoni",
+      "Pentatonis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: Slendro dan Pelog pada gamelan Jawa/Bali."
+  },
+  {
+    "id": "SN_MS_06",
+    "pertanyaan": "Cepat lambatnya sebuah lagu dimainkan disebut...",
+    "opsi": [
+      "Tempo",
+      "Dinamika",
+      "Artikulasi",
+      "Resonansi",
+      "Modulasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tempo diukur dengan satuan BPM (Beats Per Minute)."
+  },
+  {
+    "id": "SN_MS_07",
+    "pertanyaan": "Tanda tempo yang berarti 'lambat' adalah...",
+    "opsi": [
+      "Allegro",
+      "Adagio",
+      "Moderato",
+      "Presto",
+      "Vivace"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Adagio memberikan nuansa tenang dan agung."
+  },
+  {
+    "id": "SN_MS_08",
+    "pertanyaan": "Tanda tempo yang berarti 'cepat' adalah...",
+    "opsi": [
+      "Largo",
+      "Andante",
+      "Allegro",
+      "Ritardando",
+      "Grave"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Allegro memberikan nuansa gembira dan bersemangat."
+  },
+  {
+    "id": "SN_MS_09",
+    "pertanyaan": "Keras lemahnya suara dalam musik untuk memberikan ekspresi disebut...",
+    "opsi": [
+      "Tempo",
+      "Vibrato",
+      "Legato",
+      "Dinamika",
+      "Staccato"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Dinamika membuat musik terasa lebih 'hidup' (tidak datar)."
+  },
+  {
+    "id": "SN_MS_10",
+    "pertanyaan": "Tanda dinamik 'f' (forte) artinya suara dimainkan secara...",
+    "opsi": [
+      "Lembut",
+      "Sangat Lembut",
+      "Makin lama makin keras",
+      "Sedang",
+      "Keras"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Forte memberikan penekanan yang kuat. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Keras\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SN_MS_11",
+    "pertanyaan": "Tanda dinamik 'p' (piano) artinya suara dimainkan secara...",
+    "opsi": [
+      "Lembut",
+      "Sangat Keras",
+      "Cepat",
+      "Datar",
+      "Putus-putus"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Piano memberikan nuansa halus. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Lembut\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SN_MS_12",
+    "pertanyaan": "Kumpulan tiga nada atau lebih yang dimainkan secara bersamaan dan terdengar harmonis disebut...",
+    "opsi": [
+      "Melodi",
+      "Akor (Chord)",
+      "Irama",
+      "Unisono",
+      "Sinkopasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Akor dasar biasanya terdiri dari nada ke-1, ke-3, dan ke-5 (triad)."
+  },
+  {
+    "id": "SN_MS_13",
+    "pertanyaan": "Warna suara yang dihasilkan oleh alat musik atau suara manusia yang berbeda meskipun nadanya sama disebut...",
+    "opsi": [
+      "Pitch",
+      "Amplitudo",
+      "Timbre",
+      "Frekuensi",
+      "Gema"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Timbre membedakan suara gitar dengan suara piano."
+  },
+  {
+    "id": "SN_MS_14",
+    "pertanyaan": "Jenis suara wanita yang paling tinggi disebut...",
+    "opsi": [
+      "Mezzo Sopran",
+      "Alto",
+      "Tenor",
+      "Sopran",
+      "Bariton"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sopran memiliki jangkauan nada yang sangat tinggi."
+  },
+  {
+    "id": "SN_MS_15",
+    "pertanyaan": "Jenis suara wanita yang rendah dan berat disebut...",
+    "opsi": [
+      "Sopran",
+      "Mezzo Sopran",
+      "Tenor",
+      "Bass",
+      "Alto"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Alto memberikan kesan dalam dan hangat. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Alto\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SN_MS_16",
+    "pertanyaan": "Jenis suara pria yang paling tinggi disebut...",
+    "opsi": [
+      "Tenor",
+      "Bariton",
+      "Bass",
+      "Sopran",
+      "Alto"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tenor sering menjadi suara utama dalam kelompok paduan suara pria."
+  },
+  {
+    "id": "SN_MS_17",
+    "pertanyaan": "Jenis suara pria yang paling rendah dan besar disebut...",
+    "opsi": [
+      "Tenor",
+      "Bass",
+      "Bariton",
+      "Mezzo",
+      "Falseto"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Bass memberikan pondasi nada rendah dalam harmoni vokal."
+  },
+  {
+    "id": "SN_MS_18",
+    "pertanyaan": "Teknik pernapasan yang paling ideal dianjurkan untuk bernyanyi adalah penapasan...",
+    "opsi": [
+      "Dada",
+      "Bahu",
+      "Diafragma",
+      "Hidung saja",
+      "Mulut saja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Diafragma memberikan sokongan (support) udara yang stabil dan kuat."
+  },
+  {
+    "id": "SN_MS_19",
+    "pertanyaan": "Cara pengucapan kata-kata yang jelas (A, I, U, E, O) saat bernyanyi disebut...",
+    "opsi": [
+      "Intonasi",
+      "Phrasering",
+      "Vibrato",
+      "Artikulasi",
+      "Legato"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Artikulasi yang buruk membuat lirik lagu sulit dimengerti pendengar."
+  },
+  {
+    "id": "SN_MS_20",
+    "pertanyaan": "Ketepatan bunyi nada (tidak fals) saat bernyanyi disebut...",
+    "opsi": [
+      "Timbre",
+      "Dinamika",
+      "Tempo",
+      "Ekspresi",
+      "Intonasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Intonasi yang baik berarti nada yang dinyanyikan pas dengan frekuensi instrumen."
+  },
+  {
+    "id": "SN_MS_21",
+    "pertanyaan": "Alat musik yang sumber bunyinya berasal dari badan alat musik itu sendiri (misal: gong, angklung) disebut kategori...",
+    "opsi": [
+      "Idiofon",
+      "Aerofon",
+      "Kordofon",
+      "Membranofon",
+      "Elektrofon"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Idiofon bergetar secara keseluruhan saat dipukul/digoyang."
+  },
+  {
+    "id": "SN_MS_22",
+    "pertanyaan": "Alat musik yang sumber bunyinya berasal dari getaran selaput atau membran (misal: drum, kendang) disebut...",
+    "opsi": [
+      "Idiofon",
+      "Membranofon",
+      "Kordofon",
+      "Aerofon",
+      "Mekafon"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Membran biasanya terbuat dari kulit binatang atau plastik sintetis."
+  },
+  {
+    "id": "SN_MS_23",
+    "pertanyaan": "Alat musik yang sumber bunyinya berasal dari senar atau dawai (misal: gitar, biola) disebut...",
+    "opsi": [
+      "Aerofon",
+      "Membranofon",
+      "Kordofon",
+      "Elektrofon",
+      "Idiofon"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Bunyi dihasilkan dari petikan, gesekan, atau pukulan pada senar."
+  },
+  {
+    "id": "SN_MS_24",
+    "pertanyaan": "Alat musik yang sumber bunyinya berasal dari hembusan atau getaran udara (misal: seruling, trompet) disebut...",
+    "opsi": [
+      "Idiofon",
+      "Membranofon",
+      "Kordofon",
+      "Aerofon",
+      "Elektrofon"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hembusan udara di dalam tabung menciptakan resonansi bunyi."
+  },
+  {
+    "id": "SN_MS_25",
+    "pertanyaan": "Alat musik bernada tradisional asal Jawa Barat yang terbuat dari bambu dan dimainkan dengan digoyang adalah...",
+    "opsi": [
+      "Gamelan",
+      "Kolintang",
+      "Sasando",
+      "Tifa",
+      "Angklung"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Angklung terdaftar sebagai Warisan Dunia UNESCO (Idiofon)."
+  },
+  {
+    "id": "SN_MS_26",
+    "pertanyaan": "Alat musik petik tradisional asal Nusa Tenggara Timur (NTT) yang terbuat dari daun lontar adalah...",
+    "opsi": [
+      "Sasando",
+      "Kecapi",
+      "Gitar",
+      "Sape",
+      "Talempong"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sasando memiliki bentuk yang unik dan suara yang khas (Kordofon)."
+  },
+  {
+    "id": "SN_MS_27",
+    "pertanyaan": "Alat musik pukul tradisional asal Sulawesi Utara yang terbuat dari kayu dan disusun berderet adalah...",
+    "opsi": [
+      "Gamelan",
+      "Kolintang",
+      "Rebab",
+      "Tifa",
+      "Gender"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kolintang menyerupai silofon modern. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kolintang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SN_MS_28",
+    "pertanyaan": "Seperangkat alat musik tradisional Jawa yang terdiri dari gong, saron, kendang, dan lainnya disebut...",
+    "opsi": [
+      "Orkestra",
+      "Band",
+      "Gamelan",
+      "Ansambel",
+      "Paduan Suara"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Gamelan dimainkan secara komunal (gotong royong musically)."
+  },
+  {
+    "id": "SN_MS_29",
+    "pertanyaan": "Teknik bernyanyi tanpa iringan alat musik (hanya vokal saja) disebut...",
+    "opsi": [
+      "Solo",
+      "Duet",
+      "Unisono",
+      "Acapella",
+      "Kanon"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Suara manusia digunakan untuk meniru suara instrumen ritmis/melodis."
+  },
+  {
+    "id": "SN_MS_30",
+    "pertanyaan": "Cara bernyanyi bersama-sama dengan satu suara (satu melodi yang sama) disebut bernyanyi secara...",
+    "opsi": [
+      "Paduan Suara",
+      "Kanon",
+      "Vokal Grup",
+      "Acapella",
+      "Unisono"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Unisono sering dilakukan pada lagu daerah di sekolah."
+  },
+  {
+    "id": "SN_MS_31",
+    "pertanyaan": "Salah satu bentuk penyajian musik yang melibatkan puluhan hingga ratusan musisi dengan berbagai kelompok instrumen (gesek, tiup, pukul) disebut...",
+    "opsi": [
+      "Orkestra",
+      "Band",
+      "Ansambel Sejenis",
+      "Dangdut",
+      "Keroncong"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Orkestra dipimpin oleh seorang konduktor/dirigen."
+  },
+  {
+    "id": "SN_MS_32",
+    "pertanyaan": "Genre musik asli Indonesia yang memiliki ciri khas pukulan kendang dan suling adalah...",
+    "opsi": [
+      "Pop",
+      "Dangdut",
+      "Rock",
+      "Jazz",
+      "Keroncong"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dangdut lahir dari percampuran musik Melayu, India, dan Arab."
+  },
+  {
+    "id": "SN_MS_33",
+    "pertanyaan": "Genre musik Indonesia yang memiliki ciri khas penggunaan alat musik ukulele (cuk/cak) adalah...",
+    "opsi": [
+      "Dangdut",
+      "Pop",
+      "Keroncong",
+      "Blues",
+      "Reggae"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Keroncong memiliki irama yang mengalun tenang."
+  },
+  {
+    "id": "SN_MS_34",
+    "pertanyaan": "Apa singkatan dari DAW yang digunakan dalam produksi musik digital?",
+    "opsi": [
+      "Dynamic Audio Wave",
+      "Direct Action Work",
+      "Data Area Windows",
+      "Digital Audio Workstation",
+      "Double Audio Way"
+    ],
+    "jawaban": 3,
+    "pembahasan": "DAW (misal FL Studio, Ableton) digunakan untuk merekam dan mengedit musik di komputer."
+  },
+  {
+    "id": "SN_MS_35",
+    "pertanyaan": "Proses menyeimbangkan berbagai instrumen dan vokal agar terdengar jernih dan harmonis dalam rekaman disebut...",
+    "opsi": [
+      "Recording",
+      "Mastering",
+      "Editing",
+      "Exporting",
+      "Mixing"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Mixing mengatur volume, pan, dan EQ setiap track."
+  },
+  {
+    "id": "SN_MS_36",
+    "pertanyaan": "Pekerjaan seorang komposer adalah...",
+    "opsi": [
+      "Menciptakan karya musik/lagu baru",
+      "Menyanyi di panggung",
+      "Mengatur jadwal konser",
+      "Memperbaiki gitar rusak",
+      "Mencari sponsor"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Komposer menulis melodi, harmoni, dan struktur lagu."
+  },
+  {
+    "id": "SN_MS_37",
+    "pertanyaan": "Orang yang bertindak sebagai pemimpin dan pemberi isyarat ketukan dalam sebuah orkestra atau paduan suara disebut...",
+    "opsi": [
+      "Penyanyi",
+      "Konduktor / Dirigen",
+      "Komposer",
+      "Arranger",
+      "Manager"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dirigen memastikan semua musisi bermain kompak sesuai dinamika dan tempo."
+  },
+  {
+    "id": "SN_MS_38",
+    "pertanyaan": "Apa fungsi dari 'Ear Training' bagi seorang siswa musik?",
+    "opsi": [
+      "Agar telinga tidak sakit",
+      "Mendengar musik keras-keras",
+      "Melatih ketajaman pendengaran untuk mengenali nada, ritme, dan akor tanpa melihat",
+      "Membersihkan telinga",
+      "Mempelajari anatomi telinga"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kepekaan telinga adalah modal utama seorang musisi."
+  },
+  {
+    "id": "SN_MS_39",
+    "pertanyaan": "Latihan teknik vokal dengan menyanyikan tangga nada menggunakan suku kata (do, re, mi, dst) disebut...",
+    "opsi": [
+      "Vibrasi",
+      "Diksi",
+      "Improvisasi",
+      "Solfege / Solfeggio",
+      "Unisono"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Solfeggio membantu penguasaan interval dan intonasi nada."
+  },
+  {
+    "id": "SN_MS_40",
+    "pertanyaan": "Alat musik piano termasuk dalam instrumen yang dimainkan dengan cara...",
+    "opsi": [
+      "Dipetik",
+      "Ditiup",
+      "Digesek",
+      "Digoyang",
+      "Ditekan (Tuts)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Di dalamnya terdapat mekanisme palu yang memukul senar saat tuts ditekan."
+  },
+  {
+    "id": "SN_MS_41",
+    "pertanyaan": "Musik yang lahir dan berkembang di masyarakat secara turun temurun dan menggunakan bahasa daerah disebut...",
+    "opsi": [
+      "Musik Tradisional",
+      "Musik Modern",
+      "Musik Populer",
+      "Musik Jazz",
+      "Musik Klasik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Musik tradisional mencerminkan identitas budaya suatu daerah."
+  },
+  {
+    "id": "SN_MS_42",
+    "pertanyaan": "Lagu 'Bengawan Solo' karya Gesang merupakan contoh musik bergenre...",
+    "opsi": [
+      "Dangdut",
+      "Keroncong",
+      "Jazz",
+      "Rock",
+      "Pop"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Lagu ini sangat legendaris hingga ke luar negeri (Jepang)."
+  },
+  {
+    "id": "SN_MS_43",
+    "pertanyaan": "Istilah musik 'Staccato' berarti nada dimainkan secara...",
+    "opsi": [
+      "Mengalir tersambung",
+      "Sangat keras",
+      "Pendek-pendek / terputus",
+      "Sangat lambat",
+      "Makin lama makin cepat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Staccato memberikan efek tegas atau lincah."
+  },
+  {
+    "id": "SN_MS_44",
+    "pertanyaan": "Istilah musik 'Legato' berarti nada dimainkan secara...",
+    "opsi": [
+      "Terputus-putus",
+      "Sangat cepat",
+      "Dengan teriakan",
+      "Tersambung halus dan mengalir (tanpa jeda)",
+      "Menggunakan alat musik perkus"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Legato menghasilkan kesan nyanyian yang merdu dan tenang."
+  },
+  {
+    "id": "SN_MS_45",
+    "pertanyaan": "Alat bantu berupa kotak yang berdetak memberikan tempo tetap bagi pemain musik disebut...",
+    "opsi": [
+      "Stopwatch",
+      "Tuning Fork",
+      "Speaker",
+      "Mic",
+      "Metronome"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Metronome membantu musisi menjaga stabilitas tempo saat latihan."
+  },
+  {
+    "id": "SN_MS_46",
+    "pertanyaan": "Pada notasi angka, angka '0' (nol) berfungsi sebagai...",
+    "opsi": [
+      "Tanda Diam / Istirahat",
+      "Nada paling rendah",
+      "Nada Do",
+      "Nada paling tinggi",
+      "Tanda pengulangan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Saat menemukan angka 0, pemain musik tidak membunyikan nada selama durasi tersebut."
+  },
+  {
+    "id": "SN_MS_47",
+    "pertanyaan": "Tanda titik di atas angka (misal: 1̇) pada notasi angka menunjukkan bahwa nada tersebut bernada...",
+    "opsi": [
+      "Rendah",
+      "Tinggi (Naik satu oktav)",
+      "Sedang",
+      "Diam",
+      "Cepat"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Titik di atas menaikkan nada, titik di bawah menurunkan nada."
+  },
+  {
+    "id": "SN_MS_48",
+    "pertanyaan": "Alat musik harmonis adalah alat musik yang dapat...",
+    "opsi": [
+      "Hanya mengeluarkan satu nada saja",
+      "Hanya memberikan irama",
+      "Memainkan beberapa nada (akor) secara bersamaan (misal: gitar, piano)",
+      "Hanya digunakan di dalam ruangan",
+      "Ditiup saja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Alat musik harmonis sering digunakan sebagai pengiring lagu."
+  },
+  {
+    "id": "SN_MS_49",
+    "pertanyaan": "Seseorang yang menata kembali lagu lama dengan gaya baru disebut...",
+    "opsi": [
+      "Penyanyi",
+      "Manajer",
+      "Kolektor",
+      "Arranger (Pengatur Musik)",
+      "Vokalis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Arranger memberikan 'nafas' baru pada sebuah komposisi lagu."
+  },
+  {
+    "id": "SN_MS_50",
+    "pertanyaan": "Syarat utama keberhasilan dalam latihan musik adalah...",
+    "opsi": [
+      "Punya alat musik mahal",
+      "Hanya mendengarkan musik saja",
+      "Pintar matematika saja",
+      "Memiliki banyak teman musisi",
+      "Disiplin latihan rutin dan kepekaan rasa"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Keahlian musik (skill) didapat dari pengulangan dan penjiwaan."
+  }
+]

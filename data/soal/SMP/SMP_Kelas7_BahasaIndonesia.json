@@ -1,0 +1,708 @@
+{
+  "id": "smp-7-bi",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "Bahasa Indonesia",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-7-bi-1",
+      "teks": "Teks yang bertujuan untuk menggambarkan ciri-ciri suatu objek secara detail sehingga pembaca seolah-olah dapat melihat atau merasakannya disebut... (Latihan #1)",
+      "opsi": {
+        "A": "Teks Deskripsi",
+        "B": "Teks Eksposisi",
+        "C": "Teks Narasi",
+        "D": "Teks Prosedur",
+        "E": "Teks Persuasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Teks deskripsi merupakan teks yang menggambarkan suatu objek, tempat, atau peristiwa secara rinci agar pembaca seolah merasakan hal tersebut.",
+      "trik": "Ingat kata kunci 'menggambarkan' dan 'seolah-olah merasakan' = Deskripsi."
+    },
+    {
+      "id": "smp-7-bi-2",
+      "teks": "Ciri kebahasaan yang menonjol pada teks prosedur adalah... (Latihan #2)",
+      "opsi": {
+        "A": "Banyak menggunakan kalimat pasif",
+        "B": "Menggunakan kalimat imperatif dan konjungsi langkah",
+        "C": "Didominasi oleh majas metafora",
+        "D": "Menggunakan sudut pandang orang ketiga serba tahu",
+        "E": "Terdapat banyak dialog antar tokoh"
+      },
+      "kunci": "B",
+      "pembahasan": "Teks prosedur berisi instruksi, sehingga banyak menggunakan kalimat perintah (imperatif) dan konjungsi urutan langkah (kemudian, lalu, setelah itu).",
+      "trik": "Prosedur = Cara/Langkah"
+    },
+    {
+      "id": "smp-7-bi-3",
+      "teks": "Struktur teks narasi imajinasi/cerita fantasi secara umum terdiri atas... (Latihan #3)",
+      "opsi": {
+        "A": "Tesis - Argumentasi - Penegasan Ulang",
+        "B": "Definisi Umum - Deskripsi Bagian - Simpulan",
+        "C": "Orientasi - Komplikasi - Resolusi",
+        "D": "Identifikasi - Klasifikasi - Deskripsi Bagian",
+        "E": "Pengenalan - Langkah-langkah - Penutup"
+      },
+      "kunci": "C",
+      "pembahasan": "Cerita fantasi (narasi) memiliki struktur orientasi (pengenalan), komplikasi (munculnya masalah), dan resolusi (penyelesaian masalah).",
+      "trik": "Narasi adalah cerita, cerita butuh tokoh (orientasi) yang kena masalah (komplikasi) dan menemukan jalan keluar (resolusi)."
+    },
+    {
+      "id": "smp-7-bi-4",
+      "teks": "Perhatikan kalimat berikut: 'Bunglon memiliki kemampuan mimikri, yaitu mengubah warna kulitnya sesuai dengan lingkungan sekitarnya.' Kalimat di atas termasuk dalam struktur... (Latihan #4)",
+      "opsi": {
+        "A": "Langkah-langkah dalam teks prosedur",
+        "B": "Definisi umum dalam teks Laporan Hasil Observasi (LHO)",
+        "C": "Orientasi pada cerita fantasi",
+        "D": "Deskripsi bagian dalam teks LHO",
+        "E": "Simpulan pada teks deskripsi"
+      },
+      "kunci": "D",
+      "pembahasan": "Bagian ini merinci ciri khusus (kemampuan) spesies bunglon secara spesifik, sehingga masuk ke deskripsi bagian dari teks LHO.",
+      "trik": "Jika merinci sifat atau bagian fisik, itu adalah deskripsi bagian."
+    },
+    {
+      "id": "smp-7-bi-5",
+      "teks": "Surat yang dikirimkan oleh seorang individu kepada individu lain dengan ragam bahasa santai dan tidak memiliki kop surat disebut... (Latihan #5)",
+      "opsi": {
+        "A": "Surat Dinas",
+        "B": "Surat Niaga",
+        "C": "Surat Kuasa",
+        "D": "Surat Perjanjian",
+        "E": "Surat Pribadi"
+      },
+      "kunci": "E",
+      "pembahasan": "Surat pribadi ditulis oleh individu untuk individu lain, bahasanya lebih luwes, dan tidak memerlukan atribut resmi seperti kop atau nomor surat.",
+      "trik": "Tidak ada kop surat + bahasa santai = pribadi."
+    },
+    {
+      "id": "smp-7-bi-6",
+      "teks": "Pesan atau nilai moral yang ingin disampaikan penulis dalam sebuah cerita disebut... (Latihan #6)",
+      "opsi": {
+        "A": "Amanat",
+        "B": "Tema",
+        "C": "Latar",
+        "D": "Alur",
+        "E": "Penokohan"
+      },
+      "kunci": "A",
+      "pembahasan": "Amanat adalah pesan moral atau nasihat yang terdapat dalam suatu karya sastra.",
+      "trik": "Amanat = Nasihat/Pesan"
+    },
+    {
+      "id": "smp-7-bi-7",
+      "teks": "Berikut ini yang BUKAN merupakan unsur kebahasaan surat dinas adalah... (Latihan #7)",
+      "opsi": {
+        "A": "Penggunaan ragam bahasa baku",
+        "B": "Menggunakan kata sapaan gaul dan emotikon",
+        "C": "Terdapat nomor surat, lampiran, perihal",
+        "D": "Menggunakan sapaan resmi (Bapak/Ibu/Saudara)",
+        "E": "Memiliki kepala surat (kop surat)"
+      },
+      "kunci": "B",
+      "pembahasan": "Surat dinas harus menggunakan bahasa baku dan format resmi; tidak boleh menggunakan bahasa gaul.",
+      "trik": "Surat dinas = Resmi = Baku."
+    },
+    {
+      "id": "smp-7-bi-8",
+      "teks": "Fabel adalah contoh cerita narasi imajinasi yang tokoh utamanya adalah... (Latihan #8)",
+      "opsi": {
+        "A": "Manusia berkekuatan gaib",
+        "B": "Dewi/Dewa",
+        "C": "Binatang yang bertingkah seperti manusia",
+        "D": "Benda mati",
+        "E": "Tumbuhan"
+      },
+      "kunci": "C",
+      "pembahasan": "Fabel adalah cerita fiksi yang tokoh-tokohnya adalah binatang yang memiliki karakter seperti manusia.",
+      "trik": "Fabel -> Fauna (Binatang)."
+    },
+    {
+      "id": "smp-7-bi-9",
+      "teks": "'Keindahan Pantai Parangtritis sungguh memesona. Pasir putihnya membentang luas dipadu ombak yang menggulung elok.' Kutipan tersebut termasuk dalam jenis teks... (Latihan #9)",
+      "opsi": {
+        "A": "Teks Narasi",
+        "B": "Teks Eksplanasi",
+        "C": "Teks Argumentasi",
+        "D": "Teks Deskripsi",
+        "E": "Teks Laporan Hasil Observasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Teks tersebut melukiskan keindahan Pantai Parangtritis agar pembaca dapat membayangkannya, sehingga tergolong teks deskripsi.",
+      "trik": "Banyak kata sifat penggambaran indra (memesona, luas) = Deskripsi."
+    },
+    {
+      "id": "smp-7-bi-10",
+      "teks": "Langkah pertama dalam menulis teks laporan hasil observasi adalah... (Latihan #10)",
+      "opsi": {
+        "A": "Melakukan klasifikasi data",
+        "B": "Menyusun simpulan",
+        "C": "Membuat kerangka laporan",
+        "D": "Melakukan wawancara narasumber",
+        "E": "Menentukan objek yang akan diamati"
+      },
+      "kunci": "E",
+      "pembahasan": "Sebelum membuat laporan, penulis harus menentukan objek mana yang akan diobservasi (diamati) terlebih dahulu.",
+      "trik": "Observasi = Pengamatan. Jadi langkah awal adalah menentukan apa yang diamati."
+    },
+    {
+      "id": "smp-7-bi-11",
+      "teks": "Teks yang bertujuan untuk menggambarkan ciri-ciri suatu objek secara detail sehingga pembaca seolah-olah dapat melihat atau merasakannya disebut... (Latihan #11)",
+      "opsi": {
+        "A": "Teks Deskripsi",
+        "B": "Teks Eksposisi",
+        "C": "Teks Narasi",
+        "D": "Teks Prosedur",
+        "E": "Teks Persuasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Teks deskripsi merupakan teks yang menggambarkan suatu objek, tempat, atau peristiwa secara rinci agar pembaca seolah merasakan hal tersebut.",
+      "trik": "Ingat kata kunci 'menggambarkan' dan 'seolah-olah merasakan' = Deskripsi."
+    },
+    {
+      "id": "smp-7-bi-12",
+      "teks": "Ciri kebahasaan yang menonjol pada teks prosedur adalah... (Latihan #12)",
+      "opsi": {
+        "A": "Banyak menggunakan kalimat pasif",
+        "B": "Menggunakan kalimat imperatif dan konjungsi langkah",
+        "C": "Didominasi oleh majas metafora",
+        "D": "Menggunakan sudut pandang orang ketiga serba tahu",
+        "E": "Terdapat banyak dialog antar tokoh"
+      },
+      "kunci": "B",
+      "pembahasan": "Teks prosedur berisi instruksi, sehingga banyak menggunakan kalimat perintah (imperatif) dan konjungsi urutan langkah (kemudian, lalu, setelah itu).",
+      "trik": "Prosedur = Cara/Langkah"
+    },
+    {
+      "id": "smp-7-bi-13",
+      "teks": "Struktur teks narasi imajinasi/cerita fantasi secara umum terdiri atas... (Latihan #13)",
+      "opsi": {
+        "A": "Tesis - Argumentasi - Penegasan Ulang",
+        "B": "Definisi Umum - Deskripsi Bagian - Simpulan",
+        "C": "Orientasi - Komplikasi - Resolusi",
+        "D": "Identifikasi - Klasifikasi - Deskripsi Bagian",
+        "E": "Pengenalan - Langkah-langkah - Penutup"
+      },
+      "kunci": "C",
+      "pembahasan": "Cerita fantasi (narasi) memiliki struktur orientasi (pengenalan), komplikasi (munculnya masalah), dan resolusi (penyelesaian masalah).",
+      "trik": "Narasi adalah cerita, cerita butuh tokoh (orientasi) yang kena masalah (komplikasi) dan menemukan jalan keluar (resolusi)."
+    },
+    {
+      "id": "smp-7-bi-14",
+      "teks": "Perhatikan kalimat berikut: 'Bunglon memiliki kemampuan mimikri, yaitu mengubah warna kulitnya sesuai dengan lingkungan sekitarnya.' Kalimat di atas termasuk dalam struktur... (Latihan #14)",
+      "opsi": {
+        "A": "Langkah-langkah dalam teks prosedur",
+        "B": "Definisi umum dalam teks Laporan Hasil Observasi (LHO)",
+        "C": "Orientasi pada cerita fantasi",
+        "D": "Deskripsi bagian dalam teks LHO",
+        "E": "Simpulan pada teks deskripsi"
+      },
+      "kunci": "D",
+      "pembahasan": "Bagian ini merinci ciri khusus (kemampuan) spesies bunglon secara spesifik, sehingga masuk ke deskripsi bagian dari teks LHO.",
+      "trik": "Jika merinci sifat atau bagian fisik, itu adalah deskripsi bagian."
+    },
+    {
+      "id": "smp-7-bi-15",
+      "teks": "Surat yang dikirimkan oleh seorang individu kepada individu lain dengan ragam bahasa santai dan tidak memiliki kop surat disebut... (Latihan #15)",
+      "opsi": {
+        "A": "Surat Dinas",
+        "B": "Surat Niaga",
+        "C": "Surat Kuasa",
+        "D": "Surat Perjanjian",
+        "E": "Surat Pribadi"
+      },
+      "kunci": "E",
+      "pembahasan": "Surat pribadi ditulis oleh individu untuk individu lain, bahasanya lebih luwes, dan tidak memerlukan atribut resmi seperti kop atau nomor surat.",
+      "trik": "Tidak ada kop surat + bahasa santai = pribadi."
+    },
+    {
+      "id": "smp-7-bi-16",
+      "teks": "Pesan atau nilai moral yang ingin disampaikan penulis dalam sebuah cerita disebut... (Latihan #16)",
+      "opsi": {
+        "A": "Amanat",
+        "B": "Tema",
+        "C": "Latar",
+        "D": "Alur",
+        "E": "Penokohan"
+      },
+      "kunci": "A",
+      "pembahasan": "Amanat adalah pesan moral atau nasihat yang terdapat dalam suatu karya sastra.",
+      "trik": "Amanat = Nasihat/Pesan"
+    },
+    {
+      "id": "smp-7-bi-17",
+      "teks": "Berikut ini yang BUKAN merupakan unsur kebahasaan surat dinas adalah... (Latihan #17)",
+      "opsi": {
+        "A": "Penggunaan ragam bahasa baku",
+        "B": "Menggunakan kata sapaan gaul dan emotikon",
+        "C": "Terdapat nomor surat, lampiran, perihal",
+        "D": "Menggunakan sapaan resmi (Bapak/Ibu/Saudara)",
+        "E": "Memiliki kepala surat (kop surat)"
+      },
+      "kunci": "B",
+      "pembahasan": "Surat dinas harus menggunakan bahasa baku dan format resmi; tidak boleh menggunakan bahasa gaul.",
+      "trik": "Surat dinas = Resmi = Baku."
+    },
+    {
+      "id": "smp-7-bi-18",
+      "teks": "Fabel adalah contoh cerita narasi imajinasi yang tokoh utamanya adalah... (Latihan #18)",
+      "opsi": {
+        "A": "Manusia berkekuatan gaib",
+        "B": "Dewi/Dewa",
+        "C": "Binatang yang bertingkah seperti manusia",
+        "D": "Benda mati",
+        "E": "Tumbuhan"
+      },
+      "kunci": "C",
+      "pembahasan": "Fabel adalah cerita fiksi yang tokoh-tokohnya adalah binatang yang memiliki karakter seperti manusia.",
+      "trik": "Fabel -> Fauna (Binatang)."
+    },
+    {
+      "id": "smp-7-bi-19",
+      "teks": "'Keindahan Pantai Parangtritis sungguh memesona. Pasir putihnya membentang luas dipadu ombak yang menggulung elok.' Kutipan tersebut termasuk dalam jenis teks... (Latihan #19)",
+      "opsi": {
+        "A": "Teks Narasi",
+        "B": "Teks Eksplanasi",
+        "C": "Teks Argumentasi",
+        "D": "Teks Deskripsi",
+        "E": "Teks Laporan Hasil Observasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Teks tersebut melukiskan keindahan Pantai Parangtritis agar pembaca dapat membayangkannya, sehingga tergolong teks deskripsi.",
+      "trik": "Banyak kata sifat penggambaran indra (memesona, luas) = Deskripsi."
+    },
+    {
+      "id": "smp-7-bi-20",
+      "teks": "Langkah pertama dalam menulis teks laporan hasil observasi adalah... (Latihan #20)",
+      "opsi": {
+        "A": "Melakukan klasifikasi data",
+        "B": "Menyusun simpulan",
+        "C": "Membuat kerangka laporan",
+        "D": "Melakukan wawancara narasumber",
+        "E": "Menentukan objek yang akan diamati"
+      },
+      "kunci": "E",
+      "pembahasan": "Sebelum membuat laporan, penulis harus menentukan objek mana yang akan diobservasi (diamati) terlebih dahulu.",
+      "trik": "Observasi = Pengamatan. Jadi langkah awal adalah menentukan apa yang diamati."
+    },
+    {
+      "id": "smp-7-bi-21",
+      "teks": "Teks yang bertujuan untuk menggambarkan ciri-ciri suatu objek secara detail sehingga pembaca seolah-olah dapat melihat atau merasakannya disebut... (Latihan #21)",
+      "opsi": {
+        "A": "Teks Deskripsi",
+        "B": "Teks Eksposisi",
+        "C": "Teks Narasi",
+        "D": "Teks Prosedur",
+        "E": "Teks Persuasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Teks deskripsi merupakan teks yang menggambarkan suatu objek, tempat, atau peristiwa secara rinci agar pembaca seolah merasakan hal tersebut.",
+      "trik": "Ingat kata kunci 'menggambarkan' dan 'seolah-olah merasakan' = Deskripsi."
+    },
+    {
+      "id": "smp-7-bi-22",
+      "teks": "Ciri kebahasaan yang menonjol pada teks prosedur adalah... (Latihan #22)",
+      "opsi": {
+        "A": "Banyak menggunakan kalimat pasif",
+        "B": "Menggunakan kalimat imperatif dan konjungsi langkah",
+        "C": "Didominasi oleh majas metafora",
+        "D": "Menggunakan sudut pandang orang ketiga serba tahu",
+        "E": "Terdapat banyak dialog antar tokoh"
+      },
+      "kunci": "B",
+      "pembahasan": "Teks prosedur berisi instruksi, sehingga banyak menggunakan kalimat perintah (imperatif) dan konjungsi urutan langkah (kemudian, lalu, setelah itu).",
+      "trik": "Prosedur = Cara/Langkah"
+    },
+    {
+      "id": "smp-7-bi-23",
+      "teks": "Struktur teks narasi imajinasi/cerita fantasi secara umum terdiri atas... (Latihan #23)",
+      "opsi": {
+        "A": "Tesis - Argumentasi - Penegasan Ulang",
+        "B": "Definisi Umum - Deskripsi Bagian - Simpulan",
+        "C": "Orientasi - Komplikasi - Resolusi",
+        "D": "Identifikasi - Klasifikasi - Deskripsi Bagian",
+        "E": "Pengenalan - Langkah-langkah - Penutup"
+      },
+      "kunci": "C",
+      "pembahasan": "Cerita fantasi (narasi) memiliki struktur orientasi (pengenalan), komplikasi (munculnya masalah), dan resolusi (penyelesaian masalah).",
+      "trik": "Narasi adalah cerita, cerita butuh tokoh (orientasi) yang kena masalah (komplikasi) dan menemukan jalan keluar (resolusi)."
+    },
+    {
+      "id": "smp-7-bi-24",
+      "teks": "Perhatikan kalimat berikut: 'Bunglon memiliki kemampuan mimikri, yaitu mengubah warna kulitnya sesuai dengan lingkungan sekitarnya.' Kalimat di atas termasuk dalam struktur... (Latihan #24)",
+      "opsi": {
+        "A": "Langkah-langkah dalam teks prosedur",
+        "B": "Definisi umum dalam teks Laporan Hasil Observasi (LHO)",
+        "C": "Orientasi pada cerita fantasi",
+        "D": "Deskripsi bagian dalam teks LHO",
+        "E": "Simpulan pada teks deskripsi"
+      },
+      "kunci": "D",
+      "pembahasan": "Bagian ini merinci ciri khusus (kemampuan) spesies bunglon secara spesifik, sehingga masuk ke deskripsi bagian dari teks LHO.",
+      "trik": "Jika merinci sifat atau bagian fisik, itu adalah deskripsi bagian."
+    },
+    {
+      "id": "smp-7-bi-25",
+      "teks": "Surat yang dikirimkan oleh seorang individu kepada individu lain dengan ragam bahasa santai dan tidak memiliki kop surat disebut... (Latihan #25)",
+      "opsi": {
+        "A": "Surat Dinas",
+        "B": "Surat Niaga",
+        "C": "Surat Kuasa",
+        "D": "Surat Perjanjian",
+        "E": "Surat Pribadi"
+      },
+      "kunci": "E",
+      "pembahasan": "Surat pribadi ditulis oleh individu untuk individu lain, bahasanya lebih luwes, dan tidak memerlukan atribut resmi seperti kop atau nomor surat.",
+      "trik": "Tidak ada kop surat + bahasa santai = pribadi."
+    },
+    {
+      "id": "smp-7-bi-26",
+      "teks": "Pesan atau nilai moral yang ingin disampaikan penulis dalam sebuah cerita disebut... (Latihan #26)",
+      "opsi": {
+        "A": "Amanat",
+        "B": "Tema",
+        "C": "Latar",
+        "D": "Alur",
+        "E": "Penokohan"
+      },
+      "kunci": "A",
+      "pembahasan": "Amanat adalah pesan moral atau nasihat yang terdapat dalam suatu karya sastra.",
+      "trik": "Amanat = Nasihat/Pesan"
+    },
+    {
+      "id": "smp-7-bi-27",
+      "teks": "Berikut ini yang BUKAN merupakan unsur kebahasaan surat dinas adalah... (Latihan #27)",
+      "opsi": {
+        "A": "Penggunaan ragam bahasa baku",
+        "B": "Menggunakan kata sapaan gaul dan emotikon",
+        "C": "Terdapat nomor surat, lampiran, perihal",
+        "D": "Menggunakan sapaan resmi (Bapak/Ibu/Saudara)",
+        "E": "Memiliki kepala surat (kop surat)"
+      },
+      "kunci": "B",
+      "pembahasan": "Surat dinas harus menggunakan bahasa baku dan format resmi; tidak boleh menggunakan bahasa gaul.",
+      "trik": "Surat dinas = Resmi = Baku."
+    },
+    {
+      "id": "smp-7-bi-28",
+      "teks": "Fabel adalah contoh cerita narasi imajinasi yang tokoh utamanya adalah... (Latihan #28)",
+      "opsi": {
+        "A": "Manusia berkekuatan gaib",
+        "B": "Dewi/Dewa",
+        "C": "Binatang yang bertingkah seperti manusia",
+        "D": "Benda mati",
+        "E": "Tumbuhan"
+      },
+      "kunci": "C",
+      "pembahasan": "Fabel adalah cerita fiksi yang tokoh-tokohnya adalah binatang yang memiliki karakter seperti manusia.",
+      "trik": "Fabel -> Fauna (Binatang)."
+    },
+    {
+      "id": "smp-7-bi-29",
+      "teks": "'Keindahan Pantai Parangtritis sungguh memesona. Pasir putihnya membentang luas dipadu ombak yang menggulung elok.' Kutipan tersebut termasuk dalam jenis teks... (Latihan #29)",
+      "opsi": {
+        "A": "Teks Narasi",
+        "B": "Teks Eksplanasi",
+        "C": "Teks Argumentasi",
+        "D": "Teks Deskripsi",
+        "E": "Teks Laporan Hasil Observasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Teks tersebut melukiskan keindahan Pantai Parangtritis agar pembaca dapat membayangkannya, sehingga tergolong teks deskripsi.",
+      "trik": "Banyak kata sifat penggambaran indra (memesona, luas) = Deskripsi."
+    },
+    {
+      "id": "smp-7-bi-30",
+      "teks": "Langkah pertama dalam menulis teks laporan hasil observasi adalah... (Latihan #30)",
+      "opsi": {
+        "A": "Melakukan klasifikasi data",
+        "B": "Menyusun simpulan",
+        "C": "Membuat kerangka laporan",
+        "D": "Melakukan wawancara narasumber",
+        "E": "Menentukan objek yang akan diamati"
+      },
+      "kunci": "E",
+      "pembahasan": "Sebelum membuat laporan, penulis harus menentukan objek mana yang akan diobservasi (diamati) terlebih dahulu.",
+      "trik": "Observasi = Pengamatan. Jadi langkah awal adalah menentukan apa yang diamati."
+    },
+    {
+      "id": "smp-7-bi-31",
+      "teks": "Teks yang bertujuan untuk menggambarkan ciri-ciri suatu objek secara detail sehingga pembaca seolah-olah dapat melihat atau merasakannya disebut... (Latihan #31)",
+      "opsi": {
+        "A": "Teks Deskripsi",
+        "B": "Teks Eksposisi",
+        "C": "Teks Narasi",
+        "D": "Teks Prosedur",
+        "E": "Teks Persuasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Teks deskripsi merupakan teks yang menggambarkan suatu objek, tempat, atau peristiwa secara rinci agar pembaca seolah merasakan hal tersebut.",
+      "trik": "Ingat kata kunci 'menggambarkan' dan 'seolah-olah merasakan' = Deskripsi."
+    },
+    {
+      "id": "smp-7-bi-32",
+      "teks": "Ciri kebahasaan yang menonjol pada teks prosedur adalah... (Latihan #32)",
+      "opsi": {
+        "A": "Banyak menggunakan kalimat pasif",
+        "B": "Menggunakan kalimat imperatif dan konjungsi langkah",
+        "C": "Didominasi oleh majas metafora",
+        "D": "Menggunakan sudut pandang orang ketiga serba tahu",
+        "E": "Terdapat banyak dialog antar tokoh"
+      },
+      "kunci": "B",
+      "pembahasan": "Teks prosedur berisi instruksi, sehingga banyak menggunakan kalimat perintah (imperatif) dan konjungsi urutan langkah (kemudian, lalu, setelah itu).",
+      "trik": "Prosedur = Cara/Langkah"
+    },
+    {
+      "id": "smp-7-bi-33",
+      "teks": "Struktur teks narasi imajinasi/cerita fantasi secara umum terdiri atas... (Latihan #33)",
+      "opsi": {
+        "A": "Tesis - Argumentasi - Penegasan Ulang",
+        "B": "Definisi Umum - Deskripsi Bagian - Simpulan",
+        "C": "Orientasi - Komplikasi - Resolusi",
+        "D": "Identifikasi - Klasifikasi - Deskripsi Bagian",
+        "E": "Pengenalan - Langkah-langkah - Penutup"
+      },
+      "kunci": "C",
+      "pembahasan": "Cerita fantasi (narasi) memiliki struktur orientasi (pengenalan), komplikasi (munculnya masalah), dan resolusi (penyelesaian masalah).",
+      "trik": "Narasi adalah cerita, cerita butuh tokoh (orientasi) yang kena masalah (komplikasi) dan menemukan jalan keluar (resolusi)."
+    },
+    {
+      "id": "smp-7-bi-34",
+      "teks": "Perhatikan kalimat berikut: 'Bunglon memiliki kemampuan mimikri, yaitu mengubah warna kulitnya sesuai dengan lingkungan sekitarnya.' Kalimat di atas termasuk dalam struktur... (Latihan #34)",
+      "opsi": {
+        "A": "Langkah-langkah dalam teks prosedur",
+        "B": "Definisi umum dalam teks Laporan Hasil Observasi (LHO)",
+        "C": "Orientasi pada cerita fantasi",
+        "D": "Deskripsi bagian dalam teks LHO",
+        "E": "Simpulan pada teks deskripsi"
+      },
+      "kunci": "D",
+      "pembahasan": "Bagian ini merinci ciri khusus (kemampuan) spesies bunglon secara spesifik, sehingga masuk ke deskripsi bagian dari teks LHO.",
+      "trik": "Jika merinci sifat atau bagian fisik, itu adalah deskripsi bagian."
+    },
+    {
+      "id": "smp-7-bi-35",
+      "teks": "Surat yang dikirimkan oleh seorang individu kepada individu lain dengan ragam bahasa santai dan tidak memiliki kop surat disebut... (Latihan #35)",
+      "opsi": {
+        "A": "Surat Dinas",
+        "B": "Surat Niaga",
+        "C": "Surat Kuasa",
+        "D": "Surat Perjanjian",
+        "E": "Surat Pribadi"
+      },
+      "kunci": "E",
+      "pembahasan": "Surat pribadi ditulis oleh individu untuk individu lain, bahasanya lebih luwes, dan tidak memerlukan atribut resmi seperti kop atau nomor surat.",
+      "trik": "Tidak ada kop surat + bahasa santai = pribadi."
+    },
+    {
+      "id": "smp-7-bi-36",
+      "teks": "Pesan atau nilai moral yang ingin disampaikan penulis dalam sebuah cerita disebut... (Latihan #36)",
+      "opsi": {
+        "A": "Amanat",
+        "B": "Tema",
+        "C": "Latar",
+        "D": "Alur",
+        "E": "Penokohan"
+      },
+      "kunci": "A",
+      "pembahasan": "Amanat adalah pesan moral atau nasihat yang terdapat dalam suatu karya sastra.",
+      "trik": "Amanat = Nasihat/Pesan"
+    },
+    {
+      "id": "smp-7-bi-37",
+      "teks": "Berikut ini yang BUKAN merupakan unsur kebahasaan surat dinas adalah... (Latihan #37)",
+      "opsi": {
+        "A": "Penggunaan ragam bahasa baku",
+        "B": "Menggunakan kata sapaan gaul dan emotikon",
+        "C": "Terdapat nomor surat, lampiran, perihal",
+        "D": "Menggunakan sapaan resmi (Bapak/Ibu/Saudara)",
+        "E": "Memiliki kepala surat (kop surat)"
+      },
+      "kunci": "B",
+      "pembahasan": "Surat dinas harus menggunakan bahasa baku dan format resmi; tidak boleh menggunakan bahasa gaul.",
+      "trik": "Surat dinas = Resmi = Baku."
+    },
+    {
+      "id": "smp-7-bi-38",
+      "teks": "Fabel adalah contoh cerita narasi imajinasi yang tokoh utamanya adalah... (Latihan #38)",
+      "opsi": {
+        "A": "Manusia berkekuatan gaib",
+        "B": "Dewi/Dewa",
+        "C": "Binatang yang bertingkah seperti manusia",
+        "D": "Benda mati",
+        "E": "Tumbuhan"
+      },
+      "kunci": "C",
+      "pembahasan": "Fabel adalah cerita fiksi yang tokoh-tokohnya adalah binatang yang memiliki karakter seperti manusia.",
+      "trik": "Fabel -> Fauna (Binatang)."
+    },
+    {
+      "id": "smp-7-bi-39",
+      "teks": "'Keindahan Pantai Parangtritis sungguh memesona. Pasir putihnya membentang luas dipadu ombak yang menggulung elok.' Kutipan tersebut termasuk dalam jenis teks... (Latihan #39)",
+      "opsi": {
+        "A": "Teks Narasi",
+        "B": "Teks Eksplanasi",
+        "C": "Teks Argumentasi",
+        "D": "Teks Deskripsi",
+        "E": "Teks Laporan Hasil Observasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Teks tersebut melukiskan keindahan Pantai Parangtritis agar pembaca dapat membayangkannya, sehingga tergolong teks deskripsi.",
+      "trik": "Banyak kata sifat penggambaran indra (memesona, luas) = Deskripsi."
+    },
+    {
+      "id": "smp-7-bi-40",
+      "teks": "Langkah pertama dalam menulis teks laporan hasil observasi adalah... (Latihan #40)",
+      "opsi": {
+        "A": "Melakukan klasifikasi data",
+        "B": "Menyusun simpulan",
+        "C": "Membuat kerangka laporan",
+        "D": "Melakukan wawancara narasumber",
+        "E": "Menentukan objek yang akan diamati"
+      },
+      "kunci": "E",
+      "pembahasan": "Sebelum membuat laporan, penulis harus menentukan objek mana yang akan diobservasi (diamati) terlebih dahulu.",
+      "trik": "Observasi = Pengamatan. Jadi langkah awal adalah menentukan apa yang diamati."
+    },
+    {
+      "id": "smp-7-bi-41",
+      "teks": "Teks yang bertujuan untuk menggambarkan ciri-ciri suatu objek secara detail sehingga pembaca seolah-olah dapat melihat atau merasakannya disebut... (Latihan #41)",
+      "opsi": {
+        "A": "Teks Deskripsi",
+        "B": "Teks Eksposisi",
+        "C": "Teks Narasi",
+        "D": "Teks Prosedur",
+        "E": "Teks Persuasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Teks deskripsi merupakan teks yang menggambarkan suatu objek, tempat, atau peristiwa secara rinci agar pembaca seolah merasakan hal tersebut.",
+      "trik": "Ingat kata kunci 'menggambarkan' dan 'seolah-olah merasakan' = Deskripsi."
+    },
+    {
+      "id": "smp-7-bi-42",
+      "teks": "Ciri kebahasaan yang menonjol pada teks prosedur adalah... (Latihan #42)",
+      "opsi": {
+        "A": "Banyak menggunakan kalimat pasif",
+        "B": "Menggunakan kalimat imperatif dan konjungsi langkah",
+        "C": "Didominasi oleh majas metafora",
+        "D": "Menggunakan sudut pandang orang ketiga serba tahu",
+        "E": "Terdapat banyak dialog antar tokoh"
+      },
+      "kunci": "B",
+      "pembahasan": "Teks prosedur berisi instruksi, sehingga banyak menggunakan kalimat perintah (imperatif) dan konjungsi urutan langkah (kemudian, lalu, setelah itu).",
+      "trik": "Prosedur = Cara/Langkah"
+    },
+    {
+      "id": "smp-7-bi-43",
+      "teks": "Struktur teks narasi imajinasi/cerita fantasi secara umum terdiri atas... (Latihan #43)",
+      "opsi": {
+        "A": "Tesis - Argumentasi - Penegasan Ulang",
+        "B": "Definisi Umum - Deskripsi Bagian - Simpulan",
+        "C": "Orientasi - Komplikasi - Resolusi",
+        "D": "Identifikasi - Klasifikasi - Deskripsi Bagian",
+        "E": "Pengenalan - Langkah-langkah - Penutup"
+      },
+      "kunci": "C",
+      "pembahasan": "Cerita fantasi (narasi) memiliki struktur orientasi (pengenalan), komplikasi (munculnya masalah), dan resolusi (penyelesaian masalah).",
+      "trik": "Narasi adalah cerita, cerita butuh tokoh (orientasi) yang kena masalah (komplikasi) dan menemukan jalan keluar (resolusi)."
+    },
+    {
+      "id": "smp-7-bi-44",
+      "teks": "Perhatikan kalimat berikut: 'Bunglon memiliki kemampuan mimikri, yaitu mengubah warna kulitnya sesuai dengan lingkungan sekitarnya.' Kalimat di atas termasuk dalam struktur... (Latihan #44)",
+      "opsi": {
+        "A": "Langkah-langkah dalam teks prosedur",
+        "B": "Definisi umum dalam teks Laporan Hasil Observasi (LHO)",
+        "C": "Orientasi pada cerita fantasi",
+        "D": "Deskripsi bagian dalam teks LHO",
+        "E": "Simpulan pada teks deskripsi"
+      },
+      "kunci": "D",
+      "pembahasan": "Bagian ini merinci ciri khusus (kemampuan) spesies bunglon secara spesifik, sehingga masuk ke deskripsi bagian dari teks LHO.",
+      "trik": "Jika merinci sifat atau bagian fisik, itu adalah deskripsi bagian."
+    },
+    {
+      "id": "smp-7-bi-45",
+      "teks": "Surat yang dikirimkan oleh seorang individu kepada individu lain dengan ragam bahasa santai dan tidak memiliki kop surat disebut... (Latihan #45)",
+      "opsi": {
+        "A": "Surat Dinas",
+        "B": "Surat Niaga",
+        "C": "Surat Kuasa",
+        "D": "Surat Perjanjian",
+        "E": "Surat Pribadi"
+      },
+      "kunci": "E",
+      "pembahasan": "Surat pribadi ditulis oleh individu untuk individu lain, bahasanya lebih luwes, dan tidak memerlukan atribut resmi seperti kop atau nomor surat.",
+      "trik": "Tidak ada kop surat + bahasa santai = pribadi."
+    },
+    {
+      "id": "smp-7-bi-46",
+      "teks": "Pesan atau nilai moral yang ingin disampaikan penulis dalam sebuah cerita disebut... (Latihan #46)",
+      "opsi": {
+        "A": "Amanat",
+        "B": "Tema",
+        "C": "Latar",
+        "D": "Alur",
+        "E": "Penokohan"
+      },
+      "kunci": "A",
+      "pembahasan": "Amanat adalah pesan moral atau nasihat yang terdapat dalam suatu karya sastra.",
+      "trik": "Amanat = Nasihat/Pesan"
+    },
+    {
+      "id": "smp-7-bi-47",
+      "teks": "Berikut ini yang BUKAN merupakan unsur kebahasaan surat dinas adalah... (Latihan #47)",
+      "opsi": {
+        "A": "Penggunaan ragam bahasa baku",
+        "B": "Menggunakan kata sapaan gaul dan emotikon",
+        "C": "Terdapat nomor surat, lampiran, perihal",
+        "D": "Menggunakan sapaan resmi (Bapak/Ibu/Saudara)",
+        "E": "Memiliki kepala surat (kop surat)"
+      },
+      "kunci": "B",
+      "pembahasan": "Surat dinas harus menggunakan bahasa baku dan format resmi; tidak boleh menggunakan bahasa gaul.",
+      "trik": "Surat dinas = Resmi = Baku."
+    },
+    {
+      "id": "smp-7-bi-48",
+      "teks": "Fabel adalah contoh cerita narasi imajinasi yang tokoh utamanya adalah... (Latihan #48)",
+      "opsi": {
+        "A": "Manusia berkekuatan gaib",
+        "B": "Dewi/Dewa",
+        "C": "Binatang yang bertingkah seperti manusia",
+        "D": "Benda mati",
+        "E": "Tumbuhan"
+      },
+      "kunci": "C",
+      "pembahasan": "Fabel adalah cerita fiksi yang tokoh-tokohnya adalah binatang yang memiliki karakter seperti manusia.",
+      "trik": "Fabel -> Fauna (Binatang)."
+    },
+    {
+      "id": "smp-7-bi-49",
+      "teks": "'Keindahan Pantai Parangtritis sungguh memesona. Pasir putihnya membentang luas dipadu ombak yang menggulung elok.' Kutipan tersebut termasuk dalam jenis teks... (Latihan #49)",
+      "opsi": {
+        "A": "Teks Narasi",
+        "B": "Teks Eksplanasi",
+        "C": "Teks Argumentasi",
+        "D": "Teks Deskripsi",
+        "E": "Teks Laporan Hasil Observasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Teks tersebut melukiskan keindahan Pantai Parangtritis agar pembaca dapat membayangkannya, sehingga tergolong teks deskripsi.",
+      "trik": "Banyak kata sifat penggambaran indra (memesona, luas) = Deskripsi."
+    },
+    {
+      "id": "smp-7-bi-50",
+      "teks": "Langkah pertama dalam menulis teks laporan hasil observasi adalah... (Latihan #50)",
+      "opsi": {
+        "A": "Melakukan klasifikasi data",
+        "B": "Menyusun simpulan",
+        "C": "Membuat kerangka laporan",
+        "D": "Melakukan wawancara narasumber",
+        "E": "Menentukan objek yang akan diamati"
+      },
+      "kunci": "E",
+      "pembahasan": "Sebelum membuat laporan, penulis harus menentukan objek mana yang akan diobservasi (diamati) terlebih dahulu.",
+      "trik": "Observasi = Pengamatan. Jadi langkah awal adalah menentukan apa yang diamati."
+    }
+  ]
+}

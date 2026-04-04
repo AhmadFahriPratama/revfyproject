@@ -1,0 +1,21 @@
+{
+  "id": "performance-segment-index",
+  "segments": [
+    {
+      "name": "recovery",
+      "condition": "accuracy < 50"
+    },
+    {
+      "name": "building",
+      "condition": "accuracy 50-69"
+    },
+    {
+      "name": "stable",
+      "condition": "accuracy 70-84"
+    },
+    {
+      "name": "advanced",
+      "condition": "accuracy >= 85"
+    }
+  ]
+}

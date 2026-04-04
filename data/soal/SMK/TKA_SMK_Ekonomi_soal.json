@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_EK_01",
+    "pertanyaan": "Masalah pokok ekonomi klasik meliputi...",
+    "opsi": [
+      "Produksi, Distribusi, Konsumsi",
+      "What, How, for Whom",
+      "Inflasi, Pengangguran, Kemiskinan",
+      "Ekspor, Impor, Investasi",
+      "Harga, Barang, Jasa"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ekonomi klasik fokus pada aliran barang dari produsen ke konsumen."
+  },
+  {
+    "id": "TKA_SMK_EK_02",
+    "pertanyaan": "Keinginan manusia yang tidak terbatas sementara alat pemuas kebutuhan terbatas disebut...",
+    "opsi": [
+      "Kepuasan",
+      "Kelangkaan (Scarcity)",
+      "Kemakmuran",
+      "Keuntungan",
+      "Kesuksesan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kelangkaan adalah inti dari masalah ekonomi."
+  },
+  {
+    "id": "TKA_SMK_EK_03",
+    "pertanyaan": "Jika harga barang naik, maka jumlah barang yang ditawarkan akan naik. Ini adalah bunyi hukum...",
+    "opsi": [
+      "Permintaan",
+      "Gossen I",
+      "Penawaran",
+      "Gossen II",
+      "Pasar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hukum penawaran berbanding lurus dengan harga (ceteris paribus)."
+  },
+  {
+    "id": "TKA_SMK_EK_04",
+    "pertanyaan": "Biaya yang dikorbankan karena memilih satu alternatif terbaik dari beberapa pilihan disebut...",
+    "opsi": [
+      "Biaya Produksi",
+      "Biaya Tetap",
+      "Biaya Variabel",
+      "Biaya Peluang (Opportunity Cost)",
+      "Biaya Hidup"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Biaya Peluang (Opportunity Cost)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_05",
+    "pertanyaan": "Sesuai UUD 1945 pasal 33 ayat 1, bangun usaha yang paling sesuai dengan demokrasi ekonomi adalah...",
+    "opsi": [
+      "PT",
+      "Firma",
+      "BUMN",
+      "BUMS",
+      "Koperasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Koperasi berasas kekeluargaan. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Koperasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_06",
+    "pertanyaan": "Pihak yang bertugas mengatur dan mengawasi sektor jasa keuangan di Indonesia adalah...",
+    "opsi": [
+      "Otoritas Jasa Keuangan (OJK)",
+      "Bank Indonesia",
+      "Kementerian Keuangan",
+      "Lembaga Penjamin Simpanan (LPS)",
+      "DPR"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Otoritas Jasa Keuangan (OJK)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_07",
+    "pertanyaan": "Kenaikan harga barang secara umum dan terus-menerus disebut...",
+    "opsi": [
+      "Deflasi",
+      "Inflasi",
+      "Resesi",
+      "Depresi",
+      "Devaluasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Inflasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_08",
+    "pertanyaan": "Dalam manajemen, unsur 'Man' merujuk pada...",
+    "opsi": [
+      "Mesin",
+      "Modal",
+      "Manusia (Sumber Daya Manusia)",
+      "Metode",
+      "Pasar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Manusia (Sumber Daya Manusia)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_09",
+    "pertanyaan": "Instrumen kebijakan moneter untuk mengurangi jumlah uang beredar dengan menaikkan suku bunga bank disebut...",
+    "opsi": [
+      "Operasi Pasar Terbuka",
+      "Cadangan Kas Minimum",
+      "Kredit Selektif",
+      "Politik Diskonto",
+      "Dorongan Moral"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Politik Diskonto\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_10",
+    "pertanyaan": "Persamaan dasar akuntansi adalah...",
+    "opsi": [
+      "Modal = Aset + Hutang",
+      "Hutang = Aset + Modal",
+      "Aset = Modal - Hutang",
+      "Laba = Pendapatan - Beban",
+      "Aset = Hutang + Modal"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Aset = Hutang + Modal\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_11",
+    "pertanyaan": "Pembelian perlengkapan kantor secara tunai akan mengakibatkan perubahan pada...",
+    "opsi": [
+      "Aset (+) dan Kas (-)",
+      "Aset (+) dan Modal (+)",
+      "Hutang (+) dan Kas (-)",
+      "Aset (-) dan Hutang (-)",
+      "Modal (-) dan Kas (+)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Perlengkapan bertambah, Kas berkurang. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Aset (+) dan Kas (-)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_12",
+    "pertanyaan": "Pasar yang hanya dikuasai oleh satu penjual tunggal disebut...",
+    "opsi": [
+      "Pasar Persaingan Sempurna",
+      "Pasar Monopoli",
+      "Pasar Oligopoli",
+      "Pasar Monopsoni",
+      "Pasar Duopoli"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pasar Monopoli\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_13",
+    "pertanyaan": "Tujuan utama perusahaan BUMN adalah...",
+    "opsi": [
+      "Mencari keuntungan sebesar-besarnya",
+      "Menghindari pajak",
+      "Melayani kepentingan publik dan memberi keuntungan bagi negara",
+      "Mengurangi jumlah pegawai",
+      "Membantu bisnis swasta saja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Melayani kepentingan publik dan memberi keuntungan bagi negara\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_14",
+    "pertanyaan": "Bapak Akuntansi Dunia adalah...",
+    "opsi": [
+      "Adam Smith",
+      "John Maynard Keynes",
+      "David Ricardo",
+      "Luca Pacioli",
+      "Karl Marx"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Luca Pacioli\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_15",
+    "pertanyaan": "Uang kertas dan uang logam yang kita gunakan sehari-hari disebut uang...",
+    "opsi": [
+      "Giral",
+      "Kuasi",
+      "Elektronik",
+      "Logam mulia",
+      "Kartal"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Uang giral berupa cek/bilyet giro. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kartal\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_16",
+    "pertanyaan": "Wirausahawan yang berani mengambil risiko untuk inovasi disebut...",
+    "opsi": [
+      "Entrepreneur",
+      "Manajer",
+      "Investor",
+      "Karyawan",
+      "Reseller"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Entrepreneur\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_17",
+    "pertanyaan": "Pendapatan nasional dihitung dengan menjumlahkan nilai tambah seluruh sektor produksi disebut metode...",
+    "opsi": [
+      "Pengeluaran",
+      "Produksi",
+      "Pendapatan",
+      "Distribusi",
+      "Alokasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Produksi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_18",
+    "pertanyaan": "Siapakah yang dijuluki Bapak Ekonomi Dunia karena bukunya 'The Wealth of Nations'?",
+    "opsi": [
+      "David Ricardo",
+      "Luca Pacioli",
+      "Adam Smith",
+      "Moh. Hatta",
+      "Sukarno"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Adam Smith\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_19",
+    "pertanyaan": "Dalam fungsi manajemen POAC, huruf 'A' kepanjangan dari...",
+    "opsi": [
+      "Accounting",
+      "Analyzing",
+      "Advertising",
+      "Actuating (Penggerakan)",
+      "Allocating"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Actuating (Penggerakan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_20",
+    "pertanyaan": "Suatu keadaan di mana total pengeluaran negara sama dengan total pendapatan disebut anggaran...",
+    "opsi": [
+      "Defisit",
+      "Surplus",
+      "Dinamis",
+      "Statistik",
+      "Berimbang"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Berimbang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_21",
+    "pertanyaan": "Salah satu ciri sistem ekonomi pasar (liberal) adalah...",
+    "opsi": [
+      "Adanya persaingan bebas",
+      "Semua alat produksi milik negara",
+      "Harga ditentukan oleh pemerintah",
+      "Tidak ada krisis",
+      "Ekonomi tertutup"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Adanya persaingan bebas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_22",
+    "pertanyaan": "Kegiatan menyalurkan barang dari produsen ke konsumen disebut...",
+    "opsi": [
+      "Produksi",
+      "Distribusi",
+      "Konsumsi",
+      "Investasi",
+      "Promosi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Distribusi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_23",
+    "pertanyaan": "Faktor produksi turunan meliputi...",
+    "opsi": [
+      "Alam dan Tenaga Kerja",
+      "Tanah dan Air",
+      "Modal dan Keahlian (Skill)",
+      "Manusia dan Alat",
+      "Mesin dan Gedung"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Alam dan Tenaga kerja adalah faktor asali."
+  },
+  {
+    "id": "TKA_SMK_EK_24",
+    "pertanyaan": "Elastisitas permintaan yang bernilai E > 1 disebut...",
+    "opsi": [
+      "Inelastis",
+      "Unitary",
+      "Inelastis sempurna",
+      "Elastis",
+      "Elastis sempurna"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Artinya perubahan harga sedikit berdampak besar pada permintaan."
+  },
+  {
+    "id": "TKA_SMK_EK_25",
+    "pertanyaan": "Bursa Efek Indonesia (BEI) adalah tempat perdagangan...",
+    "opsi": [
+      "Sayuran",
+      "Mata uang asing saja",
+      "Tanah",
+      "Mesin industri",
+      "Saham dan Obligasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Saham dan Obligasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_26",
+    "pertanyaan": "Pajak Pertambahan Nilai (PPN) saat ini di Indonesia mencapai...",
+    "opsi": [
+      "11%",
+      "10%",
+      "5%",
+      "2.5%",
+      "15%"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Berlaku sejak UU HPP terbaru. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"11%\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_27",
+    "pertanyaan": "Audit laporan keuangan perusahaan dilakukan oleh...",
+    "opsi": [
+      "Manajer",
+      "Akuntan Publik",
+      "Direktur",
+      "Satpam",
+      "Pemegang saham saja"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Akuntan Publik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_28",
+    "pertanyaan": "Apa itu PDB (Produk Domestik Bruto)?",
+    "opsi": [
+      "Total Laba satu perusahaan",
+      "Hutang negara",
+      "Total nilai barang/jasa yang dihasilkan di wilayah suatu negara dalam satu tahun",
+      "Tabungan masyarakat",
+      "Anggaran sekolah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Total nilai barang/jasa yang dihasilkan di wilayah suatu negara dalam satu tahun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_29",
+    "pertanyaan": "BUMN berbentuk perseroan bertujuan mencari laba dan sahamnya minimal 51% milik...",
+    "opsi": [
+      "Asing",
+      "Swasta",
+      "Karyawan",
+      "Negara (Pemerintah)",
+      "Bank Dunia"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Negara (Pemerintah)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_30",
+    "pertanyaan": "Ilmu ekonomi yang mempelajari perilaku individu dan perusahaan dalam pasar disebut...",
+    "opsi": [
+      "Ekonomi Makro",
+      "Ekonomi Terapan",
+      "Ekonomi Politik",
+      "Ekonomi Syariah",
+      "Ekonomi Mikro"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ekonomi Mikro\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_31",
+    "pertanyaan": "Barang yang fungsinya menggantikan barang lain disebut barang...",
+    "opsi": [
+      "Substitusi",
+      "Komplementer",
+      "Ekonomi",
+      "Bebas",
+      "Mewah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: Nasi diganti Jagung. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Substitusi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_32",
+    "pertanyaan": "Fungsi asli uang adalah...",
+    "opsi": [
+      "Alat penimbun kekayaan",
+      "Alat tukar dan Alat satuan hitung",
+      "Alat pembayaran hutang",
+      "Alat pemindah kekayaan",
+      "Pencitraan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Alat tukar dan Alat satuan hitung\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_33",
+    "pertanyaan": "Berapakah besarnya simpanan wajib di Koperasi?",
+    "opsi": [
+      "Satu kali di awal",
+      "Sesuai kerelaan",
+      "Bersifat rutin setiap bulan/periode tertentu",
+      "Tidak ada simpanan",
+      "Harus banyak"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bersifat rutin setiap bulan/periode tertentu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_34",
+    "pertanyaan": "Sebab utama terjadinya inflasi tarikan permintaan (demand-pull inflation) adalah...",
+    "opsi": [
+      "Biaya produksi naik",
+      "Pencetakan uang berlebih",
+      "Kenaikan harga BBM",
+      "Jumlah permintaan masyarakat meningkat tajam sementara barang terbatas",
+      "Bencana alam"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Jumlah permintaan masyarakat meningkat tajam sementara barang terbatas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_35",
+    "pertanyaan": "Istilah 'Laba' dalam akuntansi disebut...",
+    "opsi": [
+      "Loss",
+      "Revenue",
+      "Expense",
+      "Asset",
+      "Net Income (Profit)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Net Income (Profit)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_36",
+    "pertanyaan": "Pasar yang memperdagangkan faktor-faktor produksi seperti tenaga kerja disebut...",
+    "opsi": [
+      "Pasar Input",
+      "Pasar Output",
+      "Pasar Uang",
+      "Pasar Modal",
+      "Pasar Kaget"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pasar Input\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_37",
+    "pertanyaan": "Siapakah Menteri Keuangan Republik Indonesia saat ini (2025)?",
+    "opsi": [
+      "Luhut Binsar P.",
+      "Sri Mulyani Indrawati",
+      "Erick Thohir",
+      "Prabowo S.",
+      "Widjojo N."
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sri Mulyani Indrawati\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_38",
+    "pertanyaan": "Sesuatu yang diterima di masa depan sebagai ganti pinjaman saat ini disebut...",
+    "opsi": [
+      "Pokok Pinjaman",
+      "Hadiah",
+      "Bunga (Interest)",
+      "Sedekah",
+      "Uang muka"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Bunga (Interest)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_39",
+    "pertanyaan": "Organisasi yang menaungi koperasi di Indonesia adalah...",
+    "opsi": [
+      "Kadin",
+      "YKI",
+      "KPK",
+      "Dekopin",
+      "LIPI"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Dekopin\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_40",
+    "pertanyaan": "Rencana keuangan tahunan pemerintah yang disetujui DPR disebut...",
+    "opsi": [
+      "GBHN",
+      "RAPBN",
+      "Perpres",
+      "Nota Keuangan",
+      "APBN"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"APBN\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_41",
+    "pertanyaan": "Apa kelemahan sistem bartera dalam ekonomi kuno?",
+    "opsi": [
+      "Sulit menentukan nilai yang adil dan pertemuan dua keinginan yang sama (double coincidence of wants)",
+      "Terlalu mudah",
+      "Harganya mahal",
+      "Barang cepat basi",
+      "Barang terlalu banyak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sulit menentukan nilai yang adil dan pertemuan dua keinginan yang sama (double coincidence of wants)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_42",
+    "pertanyaan": "Alat pemuas kebutuhan yang tidak memerlukan pengorbanan (misal: udara segar di desa) disebut barang...",
+    "opsi": [
+      "Ekonomi",
+      "Bebas",
+      "Substitusi",
+      "Komplementer",
+      "Mewah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bebas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_43",
+    "pertanyaan": "Salah satu prinsip ekonomi adalah 'Dengan biaya sekecil-kecilnya berusaha mendapatkan hasil ...'",
+    "opsi": [
+      "Seadanya",
+      "Sedikit",
+      "Maksimal (Sebesar-besarnya)",
+      "Nol",
+      "Banyak hutang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Maksimal (Sebesar-besarnya)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_44",
+    "pertanyaan": "Manakah yang merupakan kebutuhan sekunder bagi seorang siswa?",
+    "opsi": [
+      "Makan dan Minum",
+      "Tempat tinggal",
+      "Mobil mewah",
+      "Sepatu sekolah / Tas",
+      "Rumah megah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Primer adalah makan/minum/pakaian dasar."
+  },
+  {
+    "id": "TKA_SMK_EK_45",
+    "pertanyaan": "Pengeluaran pemerintah untuk membiayai operasional rutin disebut pengeluaran...",
+    "opsi": [
+      "Pembangunan",
+      "Investasi",
+      "Hutang",
+      "Hibah",
+      "Rutin"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rutin\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_46",
+    "pertanyaan": "Apa itu SHU dalam koperasi?",
+    "opsi": [
+      "Sisa Hasil Usaha",
+      "Segala Hasil Usaha",
+      "Simpanan Hari Usai",
+      "Sistem Hutang Usaha",
+      "Semua Harus Untung"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sisa Hasil Usaha\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_47",
+    "pertanyaan": "Perusahaan yang kegiatannya memproses bahan mentah menjadi barang jadi disebut perusahaan...",
+    "opsi": [
+      "Jasa",
+      "Manufaktur / Industri",
+      "Dagang",
+      "Ekstraktif",
+      "Agraris"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Manufaktur / Industri\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_48",
+    "pertanyaan": "Mata uang resmi Inggris adalah...",
+    "opsi": [
+      "Dollar",
+      "Euro",
+      "Poundsterling",
+      "Yen",
+      "Rupiah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Poundsterling\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_49",
+    "pertanyaan": "Jika kurs Dollar adalah $1 = Rp16.000. Maka $50 setara dengan...",
+    "opsi": [
+      "Rp500.000",
+      "Rp160.000",
+      "Rp1.000.000",
+      "Rp800.000",
+      "Rp320.000"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Rp800.000\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_EK_50",
+    "pertanyaan": "Mengapa siswa SMK Bisnis Manajemen harus menguasai akuntansi?",
+    "opsi": [
+      "Supaya jago matematika",
+      "Hanya supaya bisa menghitung uang",
+      "Agar disenangi bos",
+      "Syarat lulus",
+      "Karena akuntansi adalah bahasa bisnis untuk mencatat dan melaporkan kondisi keuangan secara akurat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Karena akuntansi adalah bahasa bisnis untuk mencatat dan melaporkan kondisi keuangan secara akurat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

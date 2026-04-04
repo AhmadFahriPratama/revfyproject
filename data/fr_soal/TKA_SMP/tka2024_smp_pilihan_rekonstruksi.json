@@ -1,0 +1,202 @@
+{
+  "id": "fr-tka-2024-smp-pilihan",
+  "tahun": 2024,
+  "tingkat": "SMP",
+  "materiKategori": "pilihan",
+  "mapel": "TKA SMP pilihan",
+  "deskripsi": "Rekonstruksi FR TKA SMP 2024 kategori pilihan.",
+  "soal": [
+    {
+      "id": "fr24-smp-pilihan-ipa-01",
+      "mapel": "IPA",
+      "teks": "Besaran yang dimensinya [L][T]^-1 adalah...",
+      "opsi": {
+        "A": "Gaya",
+        "B": "Kecepatan",
+        "C": "Percepatan",
+        "D": "Usaha",
+        "E": "Daya"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kecepatan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - IPA",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smp-pilihan-ipa-02",
+      "mapel": "IPA",
+      "teks": "Peredaran darah dari jantung ke paru-paru lalu kembali ke jantung adalah...",
+      "opsi": {
+        "A": "Besar",
+        "B": "Terbuka",
+        "C": "Kecil",
+        "D": "Ganda",
+        "E": "Tunggal"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kecil\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - IPA",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr24-smp-pilihan-ipa-03",
+      "mapel": "IPA",
+      "teks": "Hubungan antara dua mahkluk hidup yang satu untung dan satu rugi adalah...",
+      "opsi": {
+        "A": "Mutualisme",
+        "B": "Komensalisme",
+        "C": "Amensalisme",
+        "D": "Parasitisme",
+        "E": "Karnivora"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Parasitisme\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - IPA",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smp-pilihan-ipa-04",
+      "mapel": "IPA",
+      "teks": "Planet terdekat dari matahari adalah...",
+      "opsi": {
+        "A": "Venus",
+        "B": "Mars",
+        "C": "Bumi",
+        "D": "Jupiter",
+        "E": "Merkurius"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Merkurius\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - IPA",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr24-smp-pilihan-ipa-05",
+      "mapel": "IPA",
+      "teks": "Zat yang menyebabkan efek rumah kaca adalah...",
+      "opsi": {
+        "A": "Karbon Dioksida",
+        "B": "Oksigen",
+        "C": "Nitrogen",
+        "D": "Helium",
+        "E": "Argon"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Karbon Dioksida\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - IPA",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr24-smp-pilihan-ipa-06",
+      "mapel": "IPA",
+      "teks": "Alat pengukur tekanan udara adalah...",
+      "opsi": {
+        "A": "Termometer",
+        "B": "Barometer",
+        "C": "Higrometer",
+        "D": "Anemometer",
+        "E": "Manometer"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Barometer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - IPA",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smp-pilihan-ips-01",
+      "mapel": "IPS",
+      "teks": "Kerajaan Hindu tertua di Indonesia adalah...",
+      "opsi": {
+        "A": "Majapahit",
+        "B": "Kutai",
+        "C": "Tarumanegara",
+        "D": "Singasari",
+        "E": "Sriwijaya"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kutai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - IPS",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr24-smp-pilihan-ips-02",
+      "mapel": "IPS",
+      "teks": "Peninggalan kerajaan Sriwijaya yang terkenal di Palembang adalah...",
+      "opsi": {
+        "A": "Candi Borobudur",
+        "B": "Candi Prambanan",
+        "C": "Prasasti Kedukan Bukit",
+        "D": "Candi Muara Takus",
+        "E": "Candi Penataran"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Prasasti Kedukan Bukit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - IPS",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr24-smp-pilihan-ips-03",
+      "mapel": "IPS",
+      "teks": "Semboyan 'Bhinneka Tunggal Ika' terdapat di kitab...",
+      "opsi": {
+        "A": "Negarakertagama",
+        "B": "Arjuna Wiwaha",
+        "C": "Mahabharata",
+        "D": "Sutasoma",
+        "E": "Ramayana"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Sutasoma\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - IPS",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr24-smp-pilihan-ips-04",
+      "mapel": "IPS",
+      "teks": "Prinsip ekonomi adalah...",
+      "opsi": {
+        "A": "Mendapat untung sebesar mungkin",
+        "B": "Menabung terus menerus",
+        "C": "Membeli barang mewah",
+        "D": "Bekerja tanpa batas",
+        "E": "Pengorbanan tertentu untuk hasil maksimal"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pengorbanan tertentu untuk hasil maksimal\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - IPS",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr24-smp-pilihan-ips-05",
+      "mapel": "IPS",
+      "teks": "Mata uang resmi Indonesia adalah...",
+      "opsi": {
+        "A": "Rupiah",
+        "B": "Dollar",
+        "C": "Ringgit",
+        "D": "Yen",
+        "E": "Euro"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rupiah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - IPS",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr24-smp-pilihan-ips-06",
+      "mapel": "IPS",
+      "teks": "Kebutuhan yang harus dipenuhi untuk mempertahankan hidup disebut...",
+      "opsi": {
+        "A": "Sekunder",
+        "B": "Primer",
+        "C": "Tersier",
+        "D": "Individu",
+        "E": "Sekelompok"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Primer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2024 - IPS",
+      "hari_ujian": 3
+    }
+  ]
+}

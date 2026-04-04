@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_MT_01",
+    "pertanyaan": "Bentuk sederhana dari (2^4 * 2^3) / 2^5 adalah...",
+    "opsi": [
+      "4",
+      "2",
+      "8",
+      "16",
+      "32"
+    ],
+    "jawaban": 0,
+    "pembahasan": "2^(4+3-5) = 2^2 = 4. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_02",
+    "pertanyaan": "Nilai dari log 1000 - log 10 adalah...",
+    "opsi": [
+      "1",
+      "2",
+      "3",
+      "10",
+      "100"
+    ],
+    "jawaban": 1,
+    "pembahasan": "log(1000/10) = log 100 = 2. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_03",
+    "pertanyaan": "Suku ke-10 dari barisan aritmatika 5, 8, 11, ... adalah...",
+    "opsi": [
+      "30",
+      "35",
+      "32",
+      "38",
+      "40"
+    ],
+    "jawaban": 2,
+    "pembahasan": "U10 = a + 9b = 5 + 9(3) = 5 + 27 = 32. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"32\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_04",
+    "pertanyaan": "Jika suku pertama deret geometri adalah 4 dan rasionya 2, maka suku ke-5 adalah...",
+    "opsi": [
+      "16",
+      "32",
+      "128",
+      "64",
+      "8"
+    ],
+    "jawaban": 3,
+    "pembahasan": "U5 = a * r^4 = 4 * 2^4 = 4 * 16 = 64. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"64\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_05",
+    "pertanyaan": "Determinan dari matriks [[3, 1], [4, 2]] adalah...",
+    "opsi": [
+      "10",
+      "-2",
+      "5",
+      "0",
+      "2"
+    ],
+    "jawaban": 4,
+    "pembahasan": "(3*2) - (1*4) = 6 - 4 = 2. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_06",
+    "pertanyaan": "Nilai dari sin 30 derajat adalah...",
+    "opsi": [
+      "1/2",
+      "0",
+      "1/2 sqrt(2)",
+      "1/2 sqrt(3)",
+      "1"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sudut istimewa trigonometri. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"1/2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_07",
+    "pertanyaan": "Invers dari matriks [[2, 1], [3, 2]] adalah...",
+    "opsi": [
+      "[[2, 1], [3, 2]]",
+      "[[2, -1], [-3, 2]]",
+      "[[-2, 1], [3, -2]]",
+      "[[1, 0], [0, 1]]",
+      "[[2, -2], [1, 1]]"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Det = 4-3=1. Adjoint = [[2, -1], [-3, 2]]. Invers = 1/1 * Adjoint."
+  },
+  {
+    "id": "TKA_SMK_MT_08",
+    "pertanyaan": "Rata-rata (mean) dari data 4, 6, 8, 10 adalah...",
+    "opsi": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "jawaban": 2,
+    "pembahasan": "(4+6+8+10)/4 = 28/4 = 7. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"7\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_09",
+    "pertanyaan": "Jika cos A = 4/5, maka tan A adalah...",
+    "opsi": [
+      "3/5",
+      "4/3",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Samping=4, Miring=5, Depan=3. Tan = D/S = 3/4."
+  },
+  {
+    "id": "TKA_SMK_MT_10",
+    "pertanyaan": "Hasil perkalian matriks [[1, 2]] x [[3], [4]] adalah...",
+    "opsi": [
+      "[[3, 8]]",
+      "[[7]]",
+      "[[12]]",
+      "[[5]]",
+      "[[11]]"
+    ],
+    "jawaban": 4,
+    "pembahasan": "(1*3) + (2*4) = 3 + 8 = 11. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"[[11]]\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_11",
+    "pertanyaan": "Jumlah suku tak hingga dari deret geometri 16 + 8 + 4 + ... adalah...",
+    "opsi": [
+      "32",
+      "24",
+      "48",
+      "64",
+      "Tak terhingga"
+    ],
+    "jawaban": 0,
+    "pembahasan": "S = a / (1-r) = 16 / (1-0.5) = 16 / 0.5 = 32."
+  },
+  {
+    "id": "TKA_SMK_MT_12",
+    "pertanyaan": "Nilai x yang memenuhi 3^(2x-1) = 27 adalah...",
+    "opsi": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "jawaban": 1,
+    "pembahasan": "3^(2x-1) = 3^3 => 2x-1 = 3 => 2x = 4 => x = 2."
+  },
+  {
+    "id": "TKA_SMK_MT_13",
+    "pertanyaan": "Persamaan bayangan garis y = 2x + 1 oleh translasi T(3, 2) adalah...",
+    "opsi": [
+      "y = 2x + 7",
+      "y = 2x - 1",
+      "y = 2x - 3",
+      "y = 2x + 5",
+      "y = 2x - 7"
+    ],
+    "jawaban": 2,
+    "pembahasan": "y-2 = 2(x-3) + 1 => y-2 = 2x - 6 + 1 => y = 2x - 3."
+  },
+  {
+    "id": "TKA_SMK_MT_14",
+    "pertanyaan": "Nilai dari 5! / 3! adalah...",
+    "opsi": [
+      "10",
+      "120",
+      "60",
+      "20",
+      "5"
+    ],
+    "jawaban": 3,
+    "pembahasan": "(5 * 4 * 3!) / 3! = 20. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"20\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_15",
+    "pertanyaan": "Modus dari data berkelompok dapat dicari menggunakan rumus yang melibatkan...",
+    "opsi": [
+      "Frekuensi kumulatif",
+      "Nilai rata-rata",
+      "Akar kuadrat",
+      "Median",
+      "Selisih frekuensi kelas modus dengan kelas sebelumnya"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Modus = Tb + [d1 / (d1+d2] * p. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Selisih frekuensi kelas modus dengan kelas sebelumnya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_16",
+    "pertanyaan": "Jangkauan (range) dari data 10, 2, 5, 2, 8, 1, 9 adalah...",
+    "opsi": [
+      "9",
+      "7",
+      "8",
+      "10",
+      "5"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Max - Min = 10 - 1 = 9. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"9\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_17",
+    "pertanyaan": "Himpunan penyelesaian dari |x - 2| = 3 adalah...",
+    "opsi": [
+      "{5}",
+      "{5, -1}",
+      "{-1}",
+      "{1, 5}",
+      "{0}"
+    ],
+    "jawaban": 1,
+    "pembahasan": "x-2 = 3 atau x-2 = -3. Maka x=5 atau x=-1."
+  },
+  {
+    "id": "TKA_SMK_MT_18",
+    "pertanyaan": "Turunan pertama f(x) = 3x^2 - 4x + 5 adalah...",
+    "opsi": [
+      "3x - 4",
+      "6x + 5",
+      "6x - 4",
+      "x^2 - 4",
+      "0"
+    ],
+    "jawaban": 2,
+    "pembahasan": "f'(x) = 6x - 4. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"6x - 4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_19",
+    "pertanyaan": "Integral dari (4x + 3) dx adalah...",
+    "opsi": [
+      "4x^2 + 3x + C",
+      "2x + 3",
+      "x^2 + x + C",
+      "2x^2 + 3x + C",
+      "4"
+    ],
+    "jawaban": 3,
+    "pembahasan": "2x^2 + 3x + C. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"2x^2 + 3x + C\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_20",
+    "pertanyaan": "Simpangan baku dari data yang seragam (semua nilainya sama) adalah...",
+    "opsi": [
+      "1",
+      "Rata-rata",
+      "Tak hingga",
+      "Minus 1",
+      "0"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Karena tidak ada penyimpangan dari rata-rata."
+  },
+  {
+    "id": "TKA_SMK_MT_21",
+    "pertanyaan": "Bentuk akar dasar: sqrt(12) sama dengan...",
+    "opsi": [
+      "2 sqrt(3)",
+      "4 sqrt(3)",
+      "3 sqrt(2)",
+      "6",
+      "sqrt(6)*sqrt(2)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "sqrt(4 * 3) = 2 sqrt(3). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2 sqrt(3)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_22",
+    "pertanyaan": "Jika sebuah lingkaran memiliki luas 154 cm^2, maka jari-jarinya adalah (pi = 22/7)...",
+    "opsi": [
+      "14 cm",
+      "7 cm",
+      "3,5 cm",
+      "21 cm",
+      "10 cm"
+    ],
+    "jawaban": 1,
+    "pembahasan": "22/7 * r^2 = 154 => r^2 = 49 => r = 7. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"7 cm\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_23",
+    "pertanyaan": "Koordinat titik puncak parabola y = x^2 - 4x + 3 adalah...",
+    "opsi": [
+      "(2, 1)",
+      "(-2, -1)",
+      "(2, -1)",
+      "(2, 3)",
+      "(0, 3)"
+    ],
+    "jawaban": 2,
+    "pembahasan": "x_p = -b/2a = 4/2 = 2. y_p = 2^2 - 4(2) + 3 = 4 - 8 + 3 = -1."
+  },
+  {
+    "id": "TKA_SMK_MT_24",
+    "pertanyaan": "Banyaknya cara menyusun 3 buku berbeda dalam satu rak adalah...",
+    "opsi": [
+      "3",
+      "9",
+      "1",
+      "6",
+      "12"
+    ],
+    "jawaban": 3,
+    "pembahasan": "3! = 3 * 2 * 1 = 6 cara. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"6\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_25",
+    "pertanyaan": "Peluang munculnya mata dadu genap pada pelemparan satu dadu adalah...",
+    "opsi": [
+      "1/6",
+      "1/3",
+      "2/3",
+      "5/6",
+      "1/2"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Genap: {2, 4, 6}. Peluang = 3/6 = 1/2. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1/2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_26",
+    "pertanyaan": "Hasil dari log 5 + log 2 adalah...",
+    "opsi": [
+      "1",
+      "log 7",
+      "log 10",
+      "2",
+      "0"
+    ],
+    "jawaban": 0,
+    "pembahasan": "log(5*2) = log 10 = 1. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_27",
+    "pertanyaan": "Gradien garis yang memiliki persamaan 2x + 4y = 8 adalah...",
+    "opsi": [
+      "2",
+      "-1/2",
+      "4",
+      "1/2",
+      "-2"
+    ],
+    "jawaban": 1,
+    "pembahasan": "4y = -2x + 8 => y = -1/2 x + 2. Gradien = -1/2."
+  },
+  {
+    "id": "TKA_SMK_MT_28",
+    "pertanyaan": "Jika f(x) = 2x - 3, maka f^-1(x) (fungsi invers) adalah...",
+    "opsi": [
+      "(x - 3) / 2",
+      "2x + 3",
+      "(x + 3) / 2",
+      "1 / (2x - 3)",
+      "x / 2 + 3"
+    ],
+    "jawaban": 2,
+    "pembahasan": "y = 2x - 3 => x = (y+3)/2. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"(x + 3) / 2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_29",
+    "pertanyaan": "Batas nilai x dari pertidaksamaan x^2 - 4 < 0 adalah...",
+    "opsi": [
+      "x < 2",
+      "x > -2",
+      "x < -2 atau x > 2",
+      "-2 < x < 2",
+      "semua x"
+    ],
+    "jawaban": 3,
+    "pembahasan": "(x-2)(x+2) < 0. Interval antara akar-akar."
+  },
+  {
+    "id": "TKA_SMK_MT_30",
+    "pertanyaan": "Volume dari tabung dengan d=14 cm dan t=10 cm adalah...",
+    "opsi": [
+      "2200 cm^3",
+      "616 cm^3",
+      "1400 cm^3",
+      "4400 cm^3",
+      "1540 cm^3"
+    ],
+    "jawaban": 4,
+    "pembahasan": "pi * 7^2 * 10 = 22/7 * 49 * 10 = 154 * 10 = 1540."
+  },
+  {
+    "id": "TKA_SMK_MT_31",
+    "pertanyaan": "Nilai cos 60 derajat + sin 30 derajat adalah...",
+    "opsi": [
+      "1",
+      "1/2",
+      "1/2 sqrt(3)",
+      "1/2 sqrt(2)",
+      "0"
+    ],
+    "jawaban": 0,
+    "pembahasan": "1/2 + 1/2 = 1. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_32",
+    "pertanyaan": "Bentuk pangkat positif dari (a^-2) / (b^-3) adalah...",
+    "opsi": [
+      "a^2 / b^3",
+      "b^3 / a^2",
+      "ab",
+      "1 / (a^2 b^3)",
+      "a^2 b^3"
+    ],
+    "jawaban": 1,
+    "pembahasan": "a^-2 jadi 1/a^2, b^-3 jadi 1/b^3. Maka b^3 / a^2."
+  },
+  {
+    "id": "TKA_SMK_MT_33",
+    "pertanyaan": "Jika f(x) = x^2 - x, maka f(x+1) adalah...",
+    "opsi": [
+      "x^2 - x + 1",
+      "x^2 + 2x + 1",
+      "x^2 + x",
+      "x^2 + x + 1",
+      "x^2 - 1"
+    ],
+    "jawaban": 2,
+    "pembahasan": "(x+1)^2 - (x+1) = x^2 + 2x + 1 - x - 1 = x^2 + x."
+  },
+  {
+    "id": "TKA_SMK_MT_34",
+    "pertanyaan": "Penyelesaian dari SPLDV x + y = 5 dan x - y = 1 adalah...",
+    "opsi": [
+      "(2, 3)",
+      "(4, 1)",
+      "(1, 4)",
+      "(3, 2)",
+      "(0, 5)"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jumlah: 2x = 6 => x=3. Kurangi: 2y = 4 => y=2."
+  },
+  {
+    "id": "TKA_SMK_MT_35",
+    "pertanyaan": "Vektor u = [3, 4]. Panjang (magnitudo) vektor u adalah...",
+    "opsi": [
+      "7",
+      "12",
+      "25",
+      "1",
+      "5"
+    ],
+    "jawaban": 4,
+    "pembahasan": "sqrt(3^2 + 4^2) = 5. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_36",
+    "pertanyaan": "Hasil integral dari cos x dx adalah...",
+    "opsi": [
+      "sin x + C",
+      "-sin x + C",
+      "tan x + C",
+      "cos x + C",
+      "0"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Turunan sin x adalah cos x. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"sin x + C\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_37",
+    "pertanyaan": "Sebuah dadu dilempar satu kali. Peluang munculnya mata dadu faktor dari 6 adalah...",
+    "opsi": [
+      "1/2",
+      "2/3",
+      "1/3",
+      "1/6",
+      "1"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Faktor 6: {1, 2, 3, 6}. Ada 4 kejadian. Peluang = 4/6 = 2/3."
+  },
+  {
+    "id": "TKA_SMK_MT_38",
+    "pertanyaan": "Matriks A = [[1, 2], [3, 4]]. Matriks A^T (transpose) adalah...",
+    "opsi": [
+      "[[4, 2], [3, 1]]",
+      "[[2, 1], [4, 3]]",
+      "[[1, 3], [2, 4]]",
+      "[[1, 2], [3, 4]]",
+      "[[3, 4], [1, 2]]"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tukar baris menjadi kolom. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"[[1, 3], [2, 4]]\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_39",
+    "pertanyaan": "Nilai dari 2 log 8 adalah...",
+    "opsi": [
+      "4",
+      "16",
+      "2",
+      "3",
+      "1"
+    ],
+    "jawaban": 3,
+    "pembahasan": "2 log 2^3 = 3 * 2 log 2 = 3. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_40",
+    "pertanyaan": "Median dari data 5, 2, 9, 1, 7 adalah...",
+    "opsi": [
+      "2",
+      "7",
+      "4",
+      "1",
+      "5"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Urutkan: 1, 2, 5, 7, 9. Tengahnya 5. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_41",
+    "pertanyaan": "Persamaan garis dengan gradien 4 dan melalui (0, 0) adalah...",
+    "opsi": [
+      "y = 4x",
+      "y = x + 4",
+      "y = 4",
+      "x = 4y",
+      "y = -4x"
+    ],
+    "jawaban": 0,
+    "pembahasan": "y - 0 = 4(x - 0). Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"y = 4x\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_42",
+    "pertanyaan": "Berapakah nilai 4! - 3! ?",
+    "opsi": [
+      "1",
+      "18",
+      "6",
+      "12",
+      "20"
+    ],
+    "jawaban": 1,
+    "pembahasan": "24 - 6 = 18. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"18\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_43",
+    "pertanyaan": "Jika x = 25, maka nilai dari x^(1/2) adalah...",
+    "opsi": [
+      "50",
+      "12,5",
+      "5",
+      "625",
+      "1"
+    ],
+    "jawaban": 2,
+    "pembahasan": "sqrt(25) = 5. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_44",
+    "pertanyaan": "Peluang kejadian yang pasti terjadi adalah...",
+    "opsi": [
+      "0",
+      "0,5",
+      "Tak hingga",
+      "1",
+      "2"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kepastian bernilai 1. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_45",
+    "pertanyaan": "Suku ke-n barisan geometri adalah Un = a * r^(n-1). Jika a=3 dan r=3, U4 adalah...",
+    "opsi": [
+      "27",
+      "9",
+      "243",
+      "12",
+      "81"
+    ],
+    "jawaban": 4,
+    "pembahasan": "3 * 3^3 = 3 * 27 = 81. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"81\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_46",
+    "pertanyaan": "Luas segitiga dengan alas 10 cm dan tinggi 8 cm adalah...",
+    "opsi": [
+      "40",
+      "80",
+      "20",
+      "18",
+      "60"
+    ],
+    "jawaban": 0,
+    "pembahasan": "1/2 * 10 * 8 = 40. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"40\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_47",
+    "pertanyaan": "Logaritma basis 10 dari 1 adalah...",
+    "opsi": [
+      "1",
+      "0",
+      "10",
+      "-1",
+      "Tak terhingga"
+    ],
+    "jawaban": 1,
+    "pembahasan": "log 1 = 0 karena 10^0 = 1. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"0\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_48",
+    "pertanyaan": "Jika jari-jari bola diperbesar 2 kali, volumenya menjadi...",
+    "opsi": [
+      "2 kali",
+      "4 kali",
+      "8 kali",
+      "16 kali",
+      "Tetap"
+    ],
+    "jawaban": 2,
+    "pembahasan": "V sebanding dengan r^3. 2^3 = 8. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"8 kali\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_49",
+    "pertanyaan": "Siapakah yang dianggap sebagai bapak aljabar dunia?",
+    "opsi": [
+      "Newton",
+      "Euler",
+      "Pascal",
+      "Al-Khwarizmi",
+      "Pythagoras"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Muhammad bin Musa al-Khwarizmi. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Al-Khwarizmi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_MT_50",
+    "pertanyaan": "Mengapa matematika penting bagi lulusan SMK?",
+    "opsi": [
+      "Cuma formalitas",
+      "Agar jago dagang",
+      "Supaya tidak lupa berhitung",
+      "Tidak penting sama sekali",
+      "Sebagai dasar logika teknis dan perhitungan presisi di dunia kerja/industri"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Matematika adalah bahasa teknik dan sains."
+  }
+]

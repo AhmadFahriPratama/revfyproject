@@ -1,0 +1,53 @@
+{
+  "judul": "Perpajakan",
+  "tingkatan": "SMK",
+  "jurusan": "Akuntansi dan Keuangan Lembaga",
+  "deskripsi": "Materi mengenai dasar-dasar perpajakan di Indonesia, KUP, PPh Pasal 21, dan PPN sesuai peraturan perundang-undangan terbaru.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Perpajakan",
+      "konten": "Pajak adalah kontribusi wajib kepada negara yang terutang oleh orang pribadi atau badan yang bersifat memaksa berdasarkan Undang-Undang, dengan tidak mendapatkan imbalan secara langsung dan digunakan untuk keperluan negara bagi sebesar-besarnya kemakmuran rakyat.",
+      "tag": [
+        "akl perpajakan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Ketentuan Umum dan Tata Cara Perpajakan (KUP)",
+      "konten": "Sistem perpajakan Indonesia menganut Self Assessment System (hitung, bayar, lapor sendiri). Wajib Pajak harus memiliki NPWP (Nomor Pokok Wajib Pajak) sebagai sarana administrasi perpajakan. SPT (Surat Pemberitahuan) adalah sarana pelaporan pajak.",
+      "tag": [
+        "akl perpajakan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Pajak Penghasilan (PPh) Pasal 21",
+      "konten": "PPh Pasal 21 adalah pajak atas penghasilan berupa gaji, upah, honorarium, tunjangan, dan pembayaran lain dengan nama dan dalam bentuk apa pun sehubungan dengan pekerjaan atau jabatan, jasa, dan kegiatan yang dilakukan oleh orang pribadi subjek pajak dalam negeri.",
+      "tag": [
+        "akl perpajakan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Pajak Pertambahan Nilai (PPN)",
+      "konten": "PPN adalah pajak yang dikenakan atas konsumsi barang dan jasa di dalam daerah pabean. Objek PPN meliputi BKP (Barang Kena Pajak) dan JKP (Jasa Kena Pajak). Tarif umum PPN di Indonesia saat ini adalah 11%.",
+      "tag": [
+        "akl perpajakan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Akuntansi Pajak Sederhana",
+      "konten": "Pencatatan akuntansi untuk pajak melibatkan akun Utang Pajak (sisi Kewajiban) saat pemotongan/pungutan terjadi, dan Beban Pajak (sisi Beban) dalam laporan laba rugi.",
+      "tag": [
+        "akl perpajakan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "akl-perpajakan-materi",
+  "mapel": "Perpajakan",
+  "tag": [
+    "akl perpajakan materi"
+  ]
+}

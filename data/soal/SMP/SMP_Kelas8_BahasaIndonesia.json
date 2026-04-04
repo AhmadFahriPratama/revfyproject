@@ -1,0 +1,708 @@
+{
+  "id": "smp-8-bi",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "Bahasa Indonesia",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-8-bi-01",
+      "teks": "Unsur berita yang menjawab pertanyaan 'di mana terjadinya peristiwa' termasuk dalam bagian rumus ADIKSIMBA yaitu... (Latihan #1)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Apa",
+        "C": "Kapan",
+        "D": "Siapa",
+        "E": "Bagaimana"
+      },
+      "kunci": "A",
+      "pembahasan": "'Di mana' (Where) merujuk pada keterangan tempat atau lokasi suatu kejadian di sebuah berita.",
+      "trik": "Di mana = Lokasi / Tempat."
+    },
+    {
+      "id": "smp-8-bi-02",
+      "teks": "Teks yang bertujuan untuk mempromosikan suatu produk atau jasa menggunakan paduan unsur gambar, kata-kata, gerak, dan suara disebut... (Latihan #2)",
+      "opsi": {
+        "A": "Poster",
+        "B": "Iklan",
+        "C": "Slogan",
+        "D": "Berita",
+        "E": "Baliho"
+      },
+      "kunci": "B",
+      "pembahasan": "Iklan (terutama di media elektronik seperti TV/Internet) menggabungkan gambar visuual, kata/teks, audio (suara), dan gerak (video).",
+      "trik": "Ada gambar+kata+suara+gerak = Iklan elektronik."
+    },
+    {
+      "id": "smp-8-bi-03",
+      "teks": "Kalimat pendek yang khas, mencolok, dan mudah diingat untuk menyampaikan visi, tujuan, atau semangat suatu organisasi disebut... (Latihan #3)",
+      "opsi": {
+        "A": "Iklan",
+        "B": "Poster",
+        "C": "Slogan",
+        "D": "Plakat",
+        "E": "Spanduk"
+      },
+      "kunci": "C",
+      "pembahasan": "Slogan adalah perkataan/kalimat pendek yang menarik dan mudah diingat sebagai moto (contoh: 'Buku adalah jendela dunia').",
+      "trik": "Kalimat pendek + mudah diingat = Slogan."
+    },
+    {
+      "id": "smp-8-bi-04",
+      "teks": "Bagian awal dalam struktur teks eksposisi yang berisi pendapat atau gagasan utama penulis disebut... (Latihan #4)",
+      "opsi": {
+        "A": "Argumentasi",
+        "B": "Penegasan Ulang",
+        "C": "Resolusi",
+        "D": "Tesis",
+        "E": "Orientasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Struktur pembuka teks eksposisi berupa pernyataan pendapat (ide pokok) disebut tesis.",
+      "trik": "Tesis = Gagasan Awal / Pernyataan Pendapat."
+    },
+    {
+      "id": "smp-8-bi-05",
+      "teks": "Gaya bahasa yang membandingkan benda mati seolah-olah memiliki sifat seperti makhluk hidup (manusia) disebut majas... (Latihan #5)",
+      "opsi": {
+        "A": "Metafora",
+        "B": "Hiperbola",
+        "C": "Litotes",
+        "D": "Ironi",
+        "E": "Personifikasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Personifikasi memberikan sifat persona (orang/manusia) pada benda mati. Contoh: Angin berbisik memanggil namamu.",
+      "trik": "Personifikasi -> Person (orang)."
+    },
+    {
+      "id": "smp-8-bi-06",
+      "teks": "Karya sastra yang diungkapkan dengan bahasa yang padat, penuh makna, dan sangat memperhatikan rima serta rima disebut... (Latihan #6)",
+      "opsi": {
+        "A": "Puisi",
+        "B": "Cerpen",
+        "C": "Novel",
+        "D": "Drama",
+        "E": "Artikel"
+      },
+      "kunci": "A",
+      "pembahasan": "Puisi bercirikan bahasa yang disaring (padat), bermakna kias, menggunakan wujud majas dan tipografi, serta alunan rima.",
+      "trik": "Padat + bermakna + rima = Puisi."
+    },
+    {
+      "id": "smp-8-bi-07",
+      "teks": "Teks ulasan (review) memiliki bagian berupa gambaran umum mengenai hasil karya, siapa pengarang/sutradaranya, yang disebut tahap... (Latihan #7)",
+      "opsi": {
+        "A": "Tafsiran",
+        "B": "Identitas Karya",
+        "C": "Evaluasi",
+        "D": "Rangkuman",
+        "E": "Deskripsi Bagian"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur teks ulasan diawali dengan judul/identitas karya yang akan diulas (judul buku, penulis, tebal halaman, dll) atau disebut juga orientasi pada ulasan.",
+      "trik": "Info siapa yg buat dan spesifikasi karya = Identitas."
+    },
+    {
+      "id": "smp-8-bi-08",
+      "teks": "Kalimat yang di dalamnya menceritakan sesuatu kejadian sebagaimana adanya atau berupa data statistik disebut kalimat... (Latihan #8)",
+      "opsi": {
+        "A": "Kalimat Opini",
+        "B": "Kalimat Persuasif",
+        "C": "Kalimat Fakta",
+        "D": "Kalimat Imperatif",
+        "E": "Kalimat Majemuk"
+      },
+      "kunci": "C",
+      "pembahasan": "Fakta adalah hal/keadaan yang berupa kenyataan, benar-benar terjadi, dan bersertakan bukti empiris/data angka.",
+      "trik": "Kenyataan + Benar terjadi = Fakta."
+    },
+    {
+      "id": "smp-8-bi-09",
+      "teks": "Di bawah ini, manakah yang merupakan kalimat persuasi? (Latihan #9)",
+      "opsi": {
+        "A": "Kemarin terjadi angin puting beliung di desa kami.",
+        "B": "Penulis buku tersebut bernama Andrea Hirata.",
+        "C": "Bunga mawar itu memiliki kelopak merah yang indah.",
+        "D": "Marilah kita jaga kebersihan sungai ini bersama-sama!",
+        "E": "Apakah kamu sudah membaca berita hari ini?"
+      },
+      "kunci": "D",
+      "pembahasan": "Persuasi berarti membujuk, merayu, atau mengajak. Kata 'Marilah' menunjukkan bujukan/ajakan secara langsung.",
+      "trik": "Mari, Ayo, Tolong, Sebaiknya = Persuasi."
+    },
+    {
+      "id": "smp-8-bi-10",
+      "teks": "Sebuah ulasan yang baik harus bersifat objektif, yang artinya... (Latihan #10)",
+      "opsi": {
+        "A": "Memuji karya secara berlebihan walau banyak kesalahan",
+        "B": "Hanya mencari-cari kesalahan/kekurangan karya",
+        "C": "Ditulis dengan bahasa kiasan dan puisi",
+        "D": "Menyalin ulang isi cerita hingga akhir",
+        "E": "Sesuai dengan kenyataan karya tanpa dipengaruhi rasa suka/benci pribadi"
+      },
+      "kunci": "E",
+      "pembahasan": "Objektif adalah menilai sesuai keadaan objek yang sebenarnya tanpa dilandasi asumsi pribadi, seimbang menyebut kelebihan dan kekurangan.",
+      "trik": "Objektif = Sesuai Fakta. Subjektif = Berdasar Perasaan/Opini Pribadi."
+    },
+    {
+      "id": "smp-8-bi-11",
+      "teks": "Unsur berita yang menjawab pertanyaan 'di mana terjadinya peristiwa' termasuk dalam bagian rumus ADIKSIMBA yaitu... (Latihan #11)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Apa",
+        "C": "Kapan",
+        "D": "Siapa",
+        "E": "Bagaimana"
+      },
+      "kunci": "A",
+      "pembahasan": "'Di mana' (Where) merujuk pada keterangan tempat atau lokasi suatu kejadian di sebuah berita.",
+      "trik": "Di mana = Lokasi / Tempat."
+    },
+    {
+      "id": "smp-8-bi-12",
+      "teks": "Teks yang bertujuan untuk mempromosikan suatu produk atau jasa menggunakan paduan unsur gambar, kata-kata, gerak, dan suara disebut... (Latihan #12)",
+      "opsi": {
+        "A": "Poster",
+        "B": "Iklan",
+        "C": "Slogan",
+        "D": "Berita",
+        "E": "Baliho"
+      },
+      "kunci": "B",
+      "pembahasan": "Iklan (terutama di media elektronik seperti TV/Internet) menggabungkan gambar visuual, kata/teks, audio (suara), dan gerak (video).",
+      "trik": "Ada gambar+kata+suara+gerak = Iklan elektronik."
+    },
+    {
+      "id": "smp-8-bi-13",
+      "teks": "Kalimat pendek yang khas, mencolok, dan mudah diingat untuk menyampaikan visi, tujuan, atau semangat suatu organisasi disebut... (Latihan #13)",
+      "opsi": {
+        "A": "Iklan",
+        "B": "Poster",
+        "C": "Slogan",
+        "D": "Plakat",
+        "E": "Spanduk"
+      },
+      "kunci": "C",
+      "pembahasan": "Slogan adalah perkataan/kalimat pendek yang menarik dan mudah diingat sebagai moto (contoh: 'Buku adalah jendela dunia').",
+      "trik": "Kalimat pendek + mudah diingat = Slogan."
+    },
+    {
+      "id": "smp-8-bi-14",
+      "teks": "Bagian awal dalam struktur teks eksposisi yang berisi pendapat atau gagasan utama penulis disebut... (Latihan #14)",
+      "opsi": {
+        "A": "Argumentasi",
+        "B": "Penegasan Ulang",
+        "C": "Resolusi",
+        "D": "Tesis",
+        "E": "Orientasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Struktur pembuka teks eksposisi berupa pernyataan pendapat (ide pokok) disebut tesis.",
+      "trik": "Tesis = Gagasan Awal / Pernyataan Pendapat."
+    },
+    {
+      "id": "smp-8-bi-15",
+      "teks": "Gaya bahasa yang membandingkan benda mati seolah-olah memiliki sifat seperti makhluk hidup (manusia) disebut majas... (Latihan #15)",
+      "opsi": {
+        "A": "Metafora",
+        "B": "Hiperbola",
+        "C": "Litotes",
+        "D": "Ironi",
+        "E": "Personifikasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Personifikasi memberikan sifat persona (orang/manusia) pada benda mati. Contoh: Angin berbisik memanggil namamu.",
+      "trik": "Personifikasi -> Person (orang)."
+    },
+    {
+      "id": "smp-8-bi-16",
+      "teks": "Karya sastra yang diungkapkan dengan bahasa yang padat, penuh makna, dan sangat memperhatikan rima serta rima disebut... (Latihan #16)",
+      "opsi": {
+        "A": "Puisi",
+        "B": "Cerpen",
+        "C": "Novel",
+        "D": "Drama",
+        "E": "Artikel"
+      },
+      "kunci": "A",
+      "pembahasan": "Puisi bercirikan bahasa yang disaring (padat), bermakna kias, menggunakan wujud majas dan tipografi, serta alunan rima.",
+      "trik": "Padat + bermakna + rima = Puisi."
+    },
+    {
+      "id": "smp-8-bi-17",
+      "teks": "Teks ulasan (review) memiliki bagian berupa gambaran umum mengenai hasil karya, siapa pengarang/sutradaranya, yang disebut tahap... (Latihan #17)",
+      "opsi": {
+        "A": "Tafsiran",
+        "B": "Identitas Karya",
+        "C": "Evaluasi",
+        "D": "Rangkuman",
+        "E": "Deskripsi Bagian"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur teks ulasan diawali dengan judul/identitas karya yang akan diulas (judul buku, penulis, tebal halaman, dll) atau disebut juga orientasi pada ulasan.",
+      "trik": "Info siapa yg buat dan spesifikasi karya = Identitas."
+    },
+    {
+      "id": "smp-8-bi-18",
+      "teks": "Kalimat yang di dalamnya menceritakan sesuatu kejadian sebagaimana adanya atau berupa data statistik disebut kalimat... (Latihan #18)",
+      "opsi": {
+        "A": "Kalimat Opini",
+        "B": "Kalimat Persuasif",
+        "C": "Kalimat Fakta",
+        "D": "Kalimat Imperatif",
+        "E": "Kalimat Majemuk"
+      },
+      "kunci": "C",
+      "pembahasan": "Fakta adalah hal/keadaan yang berupa kenyataan, benar-benar terjadi, dan bersertakan bukti empiris/data angka.",
+      "trik": "Kenyataan + Benar terjadi = Fakta."
+    },
+    {
+      "id": "smp-8-bi-19",
+      "teks": "Di bawah ini, manakah yang merupakan kalimat persuasi? (Latihan #19)",
+      "opsi": {
+        "A": "Kemarin terjadi angin puting beliung di desa kami.",
+        "B": "Penulis buku tersebut bernama Andrea Hirata.",
+        "C": "Bunga mawar itu memiliki kelopak merah yang indah.",
+        "D": "Marilah kita jaga kebersihan sungai ini bersama-sama!",
+        "E": "Apakah kamu sudah membaca berita hari ini?"
+      },
+      "kunci": "D",
+      "pembahasan": "Persuasi berarti membujuk, merayu, atau mengajak. Kata 'Marilah' menunjukkan bujukan/ajakan secara langsung.",
+      "trik": "Mari, Ayo, Tolong, Sebaiknya = Persuasi."
+    },
+    {
+      "id": "smp-8-bi-20",
+      "teks": "Sebuah ulasan yang baik harus bersifat objektif, yang artinya... (Latihan #20)",
+      "opsi": {
+        "A": "Memuji karya secara berlebihan walau banyak kesalahan",
+        "B": "Hanya mencari-cari kesalahan/kekurangan karya",
+        "C": "Ditulis dengan bahasa kiasan dan puisi",
+        "D": "Menyalin ulang isi cerita hingga akhir",
+        "E": "Sesuai dengan kenyataan karya tanpa dipengaruhi rasa suka/benci pribadi"
+      },
+      "kunci": "E",
+      "pembahasan": "Objektif adalah menilai sesuai keadaan objek yang sebenarnya tanpa dilandasi asumsi pribadi, seimbang menyebut kelebihan dan kekurangan.",
+      "trik": "Objektif = Sesuai Fakta. Subjektif = Berdasar Perasaan/Opini Pribadi."
+    },
+    {
+      "id": "smp-8-bi-21",
+      "teks": "Unsur berita yang menjawab pertanyaan 'di mana terjadinya peristiwa' termasuk dalam bagian rumus ADIKSIMBA yaitu... (Latihan #21)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Apa",
+        "C": "Kapan",
+        "D": "Siapa",
+        "E": "Bagaimana"
+      },
+      "kunci": "A",
+      "pembahasan": "'Di mana' (Where) merujuk pada keterangan tempat atau lokasi suatu kejadian di sebuah berita.",
+      "trik": "Di mana = Lokasi / Tempat."
+    },
+    {
+      "id": "smp-8-bi-22",
+      "teks": "Teks yang bertujuan untuk mempromosikan suatu produk atau jasa menggunakan paduan unsur gambar, kata-kata, gerak, dan suara disebut... (Latihan #22)",
+      "opsi": {
+        "A": "Poster",
+        "B": "Iklan",
+        "C": "Slogan",
+        "D": "Berita",
+        "E": "Baliho"
+      },
+      "kunci": "B",
+      "pembahasan": "Iklan (terutama di media elektronik seperti TV/Internet) menggabungkan gambar visuual, kata/teks, audio (suara), dan gerak (video).",
+      "trik": "Ada gambar+kata+suara+gerak = Iklan elektronik."
+    },
+    {
+      "id": "smp-8-bi-23",
+      "teks": "Kalimat pendek yang khas, mencolok, dan mudah diingat untuk menyampaikan visi, tujuan, atau semangat suatu organisasi disebut... (Latihan #23)",
+      "opsi": {
+        "A": "Iklan",
+        "B": "Poster",
+        "C": "Slogan",
+        "D": "Plakat",
+        "E": "Spanduk"
+      },
+      "kunci": "C",
+      "pembahasan": "Slogan adalah perkataan/kalimat pendek yang menarik dan mudah diingat sebagai moto (contoh: 'Buku adalah jendela dunia').",
+      "trik": "Kalimat pendek + mudah diingat = Slogan."
+    },
+    {
+      "id": "smp-8-bi-24",
+      "teks": "Bagian awal dalam struktur teks eksposisi yang berisi pendapat atau gagasan utama penulis disebut... (Latihan #24)",
+      "opsi": {
+        "A": "Argumentasi",
+        "B": "Penegasan Ulang",
+        "C": "Resolusi",
+        "D": "Tesis",
+        "E": "Orientasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Struktur pembuka teks eksposisi berupa pernyataan pendapat (ide pokok) disebut tesis.",
+      "trik": "Tesis = Gagasan Awal / Pernyataan Pendapat."
+    },
+    {
+      "id": "smp-8-bi-25",
+      "teks": "Gaya bahasa yang membandingkan benda mati seolah-olah memiliki sifat seperti makhluk hidup (manusia) disebut majas... (Latihan #25)",
+      "opsi": {
+        "A": "Metafora",
+        "B": "Hiperbola",
+        "C": "Litotes",
+        "D": "Ironi",
+        "E": "Personifikasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Personifikasi memberikan sifat persona (orang/manusia) pada benda mati. Contoh: Angin berbisik memanggil namamu.",
+      "trik": "Personifikasi -> Person (orang)."
+    },
+    {
+      "id": "smp-8-bi-26",
+      "teks": "Karya sastra yang diungkapkan dengan bahasa yang padat, penuh makna, dan sangat memperhatikan rima serta rima disebut... (Latihan #26)",
+      "opsi": {
+        "A": "Puisi",
+        "B": "Cerpen",
+        "C": "Novel",
+        "D": "Drama",
+        "E": "Artikel"
+      },
+      "kunci": "A",
+      "pembahasan": "Puisi bercirikan bahasa yang disaring (padat), bermakna kias, menggunakan wujud majas dan tipografi, serta alunan rima.",
+      "trik": "Padat + bermakna + rima = Puisi."
+    },
+    {
+      "id": "smp-8-bi-27",
+      "teks": "Teks ulasan (review) memiliki bagian berupa gambaran umum mengenai hasil karya, siapa pengarang/sutradaranya, yang disebut tahap... (Latihan #27)",
+      "opsi": {
+        "A": "Tafsiran",
+        "B": "Identitas Karya",
+        "C": "Evaluasi",
+        "D": "Rangkuman",
+        "E": "Deskripsi Bagian"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur teks ulasan diawali dengan judul/identitas karya yang akan diulas (judul buku, penulis, tebal halaman, dll) atau disebut juga orientasi pada ulasan.",
+      "trik": "Info siapa yg buat dan spesifikasi karya = Identitas."
+    },
+    {
+      "id": "smp-8-bi-28",
+      "teks": "Kalimat yang di dalamnya menceritakan sesuatu kejadian sebagaimana adanya atau berupa data statistik disebut kalimat... (Latihan #28)",
+      "opsi": {
+        "A": "Kalimat Opini",
+        "B": "Kalimat Persuasif",
+        "C": "Kalimat Fakta",
+        "D": "Kalimat Imperatif",
+        "E": "Kalimat Majemuk"
+      },
+      "kunci": "C",
+      "pembahasan": "Fakta adalah hal/keadaan yang berupa kenyataan, benar-benar terjadi, dan bersertakan bukti empiris/data angka.",
+      "trik": "Kenyataan + Benar terjadi = Fakta."
+    },
+    {
+      "id": "smp-8-bi-29",
+      "teks": "Di bawah ini, manakah yang merupakan kalimat persuasi? (Latihan #29)",
+      "opsi": {
+        "A": "Kemarin terjadi angin puting beliung di desa kami.",
+        "B": "Penulis buku tersebut bernama Andrea Hirata.",
+        "C": "Bunga mawar itu memiliki kelopak merah yang indah.",
+        "D": "Marilah kita jaga kebersihan sungai ini bersama-sama!",
+        "E": "Apakah kamu sudah membaca berita hari ini?"
+      },
+      "kunci": "D",
+      "pembahasan": "Persuasi berarti membujuk, merayu, atau mengajak. Kata 'Marilah' menunjukkan bujukan/ajakan secara langsung.",
+      "trik": "Mari, Ayo, Tolong, Sebaiknya = Persuasi."
+    },
+    {
+      "id": "smp-8-bi-30",
+      "teks": "Sebuah ulasan yang baik harus bersifat objektif, yang artinya... (Latihan #30)",
+      "opsi": {
+        "A": "Memuji karya secara berlebihan walau banyak kesalahan",
+        "B": "Hanya mencari-cari kesalahan/kekurangan karya",
+        "C": "Ditulis dengan bahasa kiasan dan puisi",
+        "D": "Menyalin ulang isi cerita hingga akhir",
+        "E": "Sesuai dengan kenyataan karya tanpa dipengaruhi rasa suka/benci pribadi"
+      },
+      "kunci": "E",
+      "pembahasan": "Objektif adalah menilai sesuai keadaan objek yang sebenarnya tanpa dilandasi asumsi pribadi, seimbang menyebut kelebihan dan kekurangan.",
+      "trik": "Objektif = Sesuai Fakta. Subjektif = Berdasar Perasaan/Opini Pribadi."
+    },
+    {
+      "id": "smp-8-bi-31",
+      "teks": "Unsur berita yang menjawab pertanyaan 'di mana terjadinya peristiwa' termasuk dalam bagian rumus ADIKSIMBA yaitu... (Latihan #31)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Apa",
+        "C": "Kapan",
+        "D": "Siapa",
+        "E": "Bagaimana"
+      },
+      "kunci": "A",
+      "pembahasan": "'Di mana' (Where) merujuk pada keterangan tempat atau lokasi suatu kejadian di sebuah berita.",
+      "trik": "Di mana = Lokasi / Tempat."
+    },
+    {
+      "id": "smp-8-bi-32",
+      "teks": "Teks yang bertujuan untuk mempromosikan suatu produk atau jasa menggunakan paduan unsur gambar, kata-kata, gerak, dan suara disebut... (Latihan #32)",
+      "opsi": {
+        "A": "Poster",
+        "B": "Iklan",
+        "C": "Slogan",
+        "D": "Berita",
+        "E": "Baliho"
+      },
+      "kunci": "B",
+      "pembahasan": "Iklan (terutama di media elektronik seperti TV/Internet) menggabungkan gambar visuual, kata/teks, audio (suara), dan gerak (video).",
+      "trik": "Ada gambar+kata+suara+gerak = Iklan elektronik."
+    },
+    {
+      "id": "smp-8-bi-33",
+      "teks": "Kalimat pendek yang khas, mencolok, dan mudah diingat untuk menyampaikan visi, tujuan, atau semangat suatu organisasi disebut... (Latihan #33)",
+      "opsi": {
+        "A": "Iklan",
+        "B": "Poster",
+        "C": "Slogan",
+        "D": "Plakat",
+        "E": "Spanduk"
+      },
+      "kunci": "C",
+      "pembahasan": "Slogan adalah perkataan/kalimat pendek yang menarik dan mudah diingat sebagai moto (contoh: 'Buku adalah jendela dunia').",
+      "trik": "Kalimat pendek + mudah diingat = Slogan."
+    },
+    {
+      "id": "smp-8-bi-34",
+      "teks": "Bagian awal dalam struktur teks eksposisi yang berisi pendapat atau gagasan utama penulis disebut... (Latihan #34)",
+      "opsi": {
+        "A": "Argumentasi",
+        "B": "Penegasan Ulang",
+        "C": "Resolusi",
+        "D": "Tesis",
+        "E": "Orientasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Struktur pembuka teks eksposisi berupa pernyataan pendapat (ide pokok) disebut tesis.",
+      "trik": "Tesis = Gagasan Awal / Pernyataan Pendapat."
+    },
+    {
+      "id": "smp-8-bi-35",
+      "teks": "Gaya bahasa yang membandingkan benda mati seolah-olah memiliki sifat seperti makhluk hidup (manusia) disebut majas... (Latihan #35)",
+      "opsi": {
+        "A": "Metafora",
+        "B": "Hiperbola",
+        "C": "Litotes",
+        "D": "Ironi",
+        "E": "Personifikasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Personifikasi memberikan sifat persona (orang/manusia) pada benda mati. Contoh: Angin berbisik memanggil namamu.",
+      "trik": "Personifikasi -> Person (orang)."
+    },
+    {
+      "id": "smp-8-bi-36",
+      "teks": "Karya sastra yang diungkapkan dengan bahasa yang padat, penuh makna, dan sangat memperhatikan rima serta rima disebut... (Latihan #36)",
+      "opsi": {
+        "A": "Puisi",
+        "B": "Cerpen",
+        "C": "Novel",
+        "D": "Drama",
+        "E": "Artikel"
+      },
+      "kunci": "A",
+      "pembahasan": "Puisi bercirikan bahasa yang disaring (padat), bermakna kias, menggunakan wujud majas dan tipografi, serta alunan rima.",
+      "trik": "Padat + bermakna + rima = Puisi."
+    },
+    {
+      "id": "smp-8-bi-37",
+      "teks": "Teks ulasan (review) memiliki bagian berupa gambaran umum mengenai hasil karya, siapa pengarang/sutradaranya, yang disebut tahap... (Latihan #37)",
+      "opsi": {
+        "A": "Tafsiran",
+        "B": "Identitas Karya",
+        "C": "Evaluasi",
+        "D": "Rangkuman",
+        "E": "Deskripsi Bagian"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur teks ulasan diawali dengan judul/identitas karya yang akan diulas (judul buku, penulis, tebal halaman, dll) atau disebut juga orientasi pada ulasan.",
+      "trik": "Info siapa yg buat dan spesifikasi karya = Identitas."
+    },
+    {
+      "id": "smp-8-bi-38",
+      "teks": "Kalimat yang di dalamnya menceritakan sesuatu kejadian sebagaimana adanya atau berupa data statistik disebut kalimat... (Latihan #38)",
+      "opsi": {
+        "A": "Kalimat Opini",
+        "B": "Kalimat Persuasif",
+        "C": "Kalimat Fakta",
+        "D": "Kalimat Imperatif",
+        "E": "Kalimat Majemuk"
+      },
+      "kunci": "C",
+      "pembahasan": "Fakta adalah hal/keadaan yang berupa kenyataan, benar-benar terjadi, dan bersertakan bukti empiris/data angka.",
+      "trik": "Kenyataan + Benar terjadi = Fakta."
+    },
+    {
+      "id": "smp-8-bi-39",
+      "teks": "Di bawah ini, manakah yang merupakan kalimat persuasi? (Latihan #39)",
+      "opsi": {
+        "A": "Kemarin terjadi angin puting beliung di desa kami.",
+        "B": "Penulis buku tersebut bernama Andrea Hirata.",
+        "C": "Bunga mawar itu memiliki kelopak merah yang indah.",
+        "D": "Marilah kita jaga kebersihan sungai ini bersama-sama!",
+        "E": "Apakah kamu sudah membaca berita hari ini?"
+      },
+      "kunci": "D",
+      "pembahasan": "Persuasi berarti membujuk, merayu, atau mengajak. Kata 'Marilah' menunjukkan bujukan/ajakan secara langsung.",
+      "trik": "Mari, Ayo, Tolong, Sebaiknya = Persuasi."
+    },
+    {
+      "id": "smp-8-bi-40",
+      "teks": "Sebuah ulasan yang baik harus bersifat objektif, yang artinya... (Latihan #40)",
+      "opsi": {
+        "A": "Memuji karya secara berlebihan walau banyak kesalahan",
+        "B": "Hanya mencari-cari kesalahan/kekurangan karya",
+        "C": "Ditulis dengan bahasa kiasan dan puisi",
+        "D": "Menyalin ulang isi cerita hingga akhir",
+        "E": "Sesuai dengan kenyataan karya tanpa dipengaruhi rasa suka/benci pribadi"
+      },
+      "kunci": "E",
+      "pembahasan": "Objektif adalah menilai sesuai keadaan objek yang sebenarnya tanpa dilandasi asumsi pribadi, seimbang menyebut kelebihan dan kekurangan.",
+      "trik": "Objektif = Sesuai Fakta. Subjektif = Berdasar Perasaan/Opini Pribadi."
+    },
+    {
+      "id": "smp-8-bi-41",
+      "teks": "Unsur berita yang menjawab pertanyaan 'di mana terjadinya peristiwa' termasuk dalam bagian rumus ADIKSIMBA yaitu... (Latihan #41)",
+      "opsi": {
+        "A": "Di mana",
+        "B": "Apa",
+        "C": "Kapan",
+        "D": "Siapa",
+        "E": "Bagaimana"
+      },
+      "kunci": "A",
+      "pembahasan": "'Di mana' (Where) merujuk pada keterangan tempat atau lokasi suatu kejadian di sebuah berita.",
+      "trik": "Di mana = Lokasi / Tempat."
+    },
+    {
+      "id": "smp-8-bi-42",
+      "teks": "Teks yang bertujuan untuk mempromosikan suatu produk atau jasa menggunakan paduan unsur gambar, kata-kata, gerak, dan suara disebut... (Latihan #42)",
+      "opsi": {
+        "A": "Poster",
+        "B": "Iklan",
+        "C": "Slogan",
+        "D": "Berita",
+        "E": "Baliho"
+      },
+      "kunci": "B",
+      "pembahasan": "Iklan (terutama di media elektronik seperti TV/Internet) menggabungkan gambar visuual, kata/teks, audio (suara), dan gerak (video).",
+      "trik": "Ada gambar+kata+suara+gerak = Iklan elektronik."
+    },
+    {
+      "id": "smp-8-bi-43",
+      "teks": "Kalimat pendek yang khas, mencolok, dan mudah diingat untuk menyampaikan visi, tujuan, atau semangat suatu organisasi disebut... (Latihan #43)",
+      "opsi": {
+        "A": "Iklan",
+        "B": "Poster",
+        "C": "Slogan",
+        "D": "Plakat",
+        "E": "Spanduk"
+      },
+      "kunci": "C",
+      "pembahasan": "Slogan adalah perkataan/kalimat pendek yang menarik dan mudah diingat sebagai moto (contoh: 'Buku adalah jendela dunia').",
+      "trik": "Kalimat pendek + mudah diingat = Slogan."
+    },
+    {
+      "id": "smp-8-bi-44",
+      "teks": "Bagian awal dalam struktur teks eksposisi yang berisi pendapat atau gagasan utama penulis disebut... (Latihan #44)",
+      "opsi": {
+        "A": "Argumentasi",
+        "B": "Penegasan Ulang",
+        "C": "Resolusi",
+        "D": "Tesis",
+        "E": "Orientasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Struktur pembuka teks eksposisi berupa pernyataan pendapat (ide pokok) disebut tesis.",
+      "trik": "Tesis = Gagasan Awal / Pernyataan Pendapat."
+    },
+    {
+      "id": "smp-8-bi-45",
+      "teks": "Gaya bahasa yang membandingkan benda mati seolah-olah memiliki sifat seperti makhluk hidup (manusia) disebut majas... (Latihan #45)",
+      "opsi": {
+        "A": "Metafora",
+        "B": "Hiperbola",
+        "C": "Litotes",
+        "D": "Ironi",
+        "E": "Personifikasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Personifikasi memberikan sifat persona (orang/manusia) pada benda mati. Contoh: Angin berbisik memanggil namamu.",
+      "trik": "Personifikasi -> Person (orang)."
+    },
+    {
+      "id": "smp-8-bi-46",
+      "teks": "Karya sastra yang diungkapkan dengan bahasa yang padat, penuh makna, dan sangat memperhatikan rima serta rima disebut... (Latihan #46)",
+      "opsi": {
+        "A": "Puisi",
+        "B": "Cerpen",
+        "C": "Novel",
+        "D": "Drama",
+        "E": "Artikel"
+      },
+      "kunci": "A",
+      "pembahasan": "Puisi bercirikan bahasa yang disaring (padat), bermakna kias, menggunakan wujud majas dan tipografi, serta alunan rima.",
+      "trik": "Padat + bermakna + rima = Puisi."
+    },
+    {
+      "id": "smp-8-bi-47",
+      "teks": "Teks ulasan (review) memiliki bagian berupa gambaran umum mengenai hasil karya, siapa pengarang/sutradaranya, yang disebut tahap... (Latihan #47)",
+      "opsi": {
+        "A": "Tafsiran",
+        "B": "Identitas Karya",
+        "C": "Evaluasi",
+        "D": "Rangkuman",
+        "E": "Deskripsi Bagian"
+      },
+      "kunci": "B",
+      "pembahasan": "Struktur teks ulasan diawali dengan judul/identitas karya yang akan diulas (judul buku, penulis, tebal halaman, dll) atau disebut juga orientasi pada ulasan.",
+      "trik": "Info siapa yg buat dan spesifikasi karya = Identitas."
+    },
+    {
+      "id": "smp-8-bi-48",
+      "teks": "Kalimat yang di dalamnya menceritakan sesuatu kejadian sebagaimana adanya atau berupa data statistik disebut kalimat... (Latihan #48)",
+      "opsi": {
+        "A": "Kalimat Opini",
+        "B": "Kalimat Persuasif",
+        "C": "Kalimat Fakta",
+        "D": "Kalimat Imperatif",
+        "E": "Kalimat Majemuk"
+      },
+      "kunci": "C",
+      "pembahasan": "Fakta adalah hal/keadaan yang berupa kenyataan, benar-benar terjadi, dan bersertakan bukti empiris/data angka.",
+      "trik": "Kenyataan + Benar terjadi = Fakta."
+    },
+    {
+      "id": "smp-8-bi-49",
+      "teks": "Di bawah ini, manakah yang merupakan kalimat persuasi? (Latihan #49)",
+      "opsi": {
+        "A": "Kemarin terjadi angin puting beliung di desa kami.",
+        "B": "Penulis buku tersebut bernama Andrea Hirata.",
+        "C": "Bunga mawar itu memiliki kelopak merah yang indah.",
+        "D": "Marilah kita jaga kebersihan sungai ini bersama-sama!",
+        "E": "Apakah kamu sudah membaca berita hari ini?"
+      },
+      "kunci": "D",
+      "pembahasan": "Persuasi berarti membujuk, merayu, atau mengajak. Kata 'Marilah' menunjukkan bujukan/ajakan secara langsung.",
+      "trik": "Mari, Ayo, Tolong, Sebaiknya = Persuasi."
+    },
+    {
+      "id": "smp-8-bi-50",
+      "teks": "Sebuah ulasan yang baik harus bersifat objektif, yang artinya... (Latihan #50)",
+      "opsi": {
+        "A": "Memuji karya secara berlebihan walau banyak kesalahan",
+        "B": "Hanya mencari-cari kesalahan/kekurangan karya",
+        "C": "Ditulis dengan bahasa kiasan dan puisi",
+        "D": "Menyalin ulang isi cerita hingga akhir",
+        "E": "Sesuai dengan kenyataan karya tanpa dipengaruhi rasa suka/benci pribadi"
+      },
+      "kunci": "E",
+      "pembahasan": "Objektif adalah menilai sesuai keadaan objek yang sebenarnya tanpa dilandasi asumsi pribadi, seimbang menyebut kelebihan dan kekurangan.",
+      "trik": "Objektif = Sesuai Fakta. Subjektif = Berdasar Perasaan/Opini Pribadi."
+    }
+  ]
+}

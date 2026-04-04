@@ -1,0 +1,53 @@
+{
+  "judul": "Psikologi (Dasar dan Terapan)",
+  "tingkatan": "KULIAH",
+  "jurusan": "Kesehatan / Psikologi",
+  "deskripsi": "Materi tingkat universitas mengenai sejarah psikologi, psikologi perkembangan, psikologi kepribadian, biopsikologi, serta dasar-dasar asesmen dan intervensi psikologis.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Psikologi dan Sejarah",
+      "konten": "Aliran-aliran besar dalam psikologi: Strukturalisme, Fungsionalisme, Psikoanalisis (S. Freud), Behaviorisme (B.F. Skinner), Humanistik (A. Maslow), serta Kognitivisme.",
+      "tag": [
+        "kuliah psikologi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Psikologi Perkembangan Manusia",
+      "konten": "Tahapan perkembangan manusia (prenatal, bayi, anak, remaja, dewasa, lansia). Teori perkembangan kognitif Piaget dan teori psikososial Erik Erikson.",
+      "tag": [
+        "kuliah psikologi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Biopsikologi dan Proses Mental",
+      "konten": "Hubungan antara otak, sistem saraf, dan perilaku manusia. Proses kognitif: Sensasi, persepsi, atensi, memori, berpikir, serta bahasa.",
+      "tag": [
+        "kuliah psikologi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Psikologi Kepribadian dan Psikopatologi",
+      "konten": "Teori kepribadian (Trait, Big Five), pengenalan gangguan mental (Anxietas, Depresi, Skizofrenia), serta kriteria diagnostik berdasarkan DSM-5 atau PPDGJ-III.",
+      "tag": [
+        "kuliah psikologi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Asesmen dan Metode Penelitian Psikologi",
+      "konten": "Etika penelitian psikologi, metode observasi, wawancara, serta pengenalan alat tes psikologi (IQ, Kepribadian, Minat Bakat) dan prinsip validitas/reliabilitas.",
+      "tag": [
+        "kuliah psikologi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-psikologi-materi",
+  "mapel": "Psikologi (Dasar dan Terapan)",
+  "tag": [
+    "kuliah psikologi materi"
+  ]
+}

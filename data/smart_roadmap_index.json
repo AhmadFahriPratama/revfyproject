@@ -1,0 +1,62 @@
+{
+  "id": "smart-roadmap-index",
+  "totalRoadmap": 4,
+  "entries": [
+    {
+      "path": "roadmap/utbk_roadmap.json",
+      "id": "roadmap-utbk",
+      "title": "UTBK Roadmap",
+      "category": "UTBK",
+      "stageCount": 4,
+      "badge": "Core Exam",
+      "modes": [
+        "fast_track",
+        "standard",
+        "intensive",
+        "last_minute_review"
+      ]
+    },
+    {
+      "path": "roadmap/cpns_roadmap.json",
+      "id": "roadmap-cpns",
+      "title": "CPNS Roadmap",
+      "category": "CPNS",
+      "stageCount": 4,
+      "badge": "Career Track",
+      "modes": [
+        "fast_track",
+        "standard",
+        "intensive",
+        "last_minute_review"
+      ]
+    },
+    {
+      "path": "roadmap/tka_smp_roadmap.json",
+      "id": "roadmap-tka-smp",
+      "title": "TKA SMP Roadmap",
+      "category": "TKA_SMP",
+      "stageCount": 4,
+      "badge": "School Exit",
+      "modes": [
+        "fast_track",
+        "standard",
+        "intensive",
+        "last_minute_review"
+      ]
+    },
+    {
+      "path": "roadmap/tka_smk_roadmap.json",
+      "id": "roadmap-tka-smk",
+      "title": "TKA SMK Roadmap",
+      "category": "TKA_SMK",
+      "stageCount": 4,
+      "badge": "Vocational Track",
+      "modes": [
+        "fast_track",
+        "standard",
+        "intensive",
+        "last_minute_review"
+      ]
+    }
+  ]
+}

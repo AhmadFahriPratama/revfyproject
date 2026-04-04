@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls9-seni",
+  "tingkat": "SMP Kelas 9",
+  "mapel": "Seni Budaya",
+  "materi": "Seni Lukis, Patung, Musik Populer/Vokal Solo, Tari Kreasi, Manajemen Pameran",
+  "deskripsi": "Seni Budaya Kelas 9 berfokus pada aktualisasi eksekusi proyek karya mandiri berekspresi (Melukis kanvas Murni, Tari Kreasi baru Bebas, Vokal solo, dan Managemen Pameran pagelaran sekolah).",
+  "konten": [
+    {
+      "bab": "1. Seni Lukis",
+      "teks": "Pengertian dan corak gaya aliran (Surealisme dadaisme dll). Alat bahan medium minyak/akrilik air dng teknik Opaque transparan / pointilis."
+    },
+    {
+      "bab": "2. Seni Patung",
+      "teks": "Seni Tiga Dimensi relief murni tiruan. Fungsi personal sosial religi monumen. Teknik butsir, pahat subtractive, cor casting cetak tanah liat / kayu."
+    },
+    {
+      "bab": "3. Mengubah Lagu Modern dan Menyanyi Solo Vokal",
+      "teks": "Jenis lagu modern (Pop/Rock/Jazz/Dangdut). Mengembangkan variasi ornamen vokal (resonansi/vibrato). Penjiwaan (Ekspresi) panggung solo."
+    },
+    {
+      "bab": "4. Tari Kreasi",
+      "teks": "Perbedaan tari tradisi pakem dng kreasi bebas baru modern dlm gerak busana tata rias iringan. Unsur pendukung pertunjukan panggung lampu bloking bloking."
+    },
+    {
+      "bab": "5. Manajemen Pameran dan Pergelaran Seni",
+      "teks": "Perencanaan panitia (Ketu/Sekr/Kurator/Dll) rancangan konsep/tematik/dana pameran. Tata letak penataan denah sirkulasi exhibit pameran lukis dan panggung musik sekolah acara perpisahan."
+    }
+  ],
+  "tag": ["smp-9", "seni-budaya", "melukis", "patung", "musik-pop", "tari-kreasi", "pameran"]
+}

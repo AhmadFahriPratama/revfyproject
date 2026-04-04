@@ -1,0 +1,11 @@
+{
+  "id": "api-contract-index",
+  "endpoints": [
+    "materi_index",
+    "soal_index",
+    "tryout_index",
+    "fr_archive_index",
+    "roadmap_index",
+    "topic_mastery_map"
+  ]
+}

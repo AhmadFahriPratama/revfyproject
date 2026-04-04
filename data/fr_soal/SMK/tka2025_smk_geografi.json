@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_GE_01",
+    "pertanyaan": "FR Mitigasi: Jika Anda berada di dalam gedung bengkel saat terjadi gempa besar, tindakan pertama yang benar adalah...",
+    "opsi": [
+      "Berlindung di bawah meja yang kuat/kokoh 'Drop, Cover, Hold on'",
+      "Berlari ke arah lift",
+      "Berteriak sekencang mungkin",
+      "Mendekati jendela kaca",
+      "Tetap diam berdiri"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_GE_02",
+    "pertanyaan": "FR Peta: Berapakah skala peta jika jarak 5 cm di peta mewakili 10 km di lapangan?",
+    "opsi": [
+      "1 : 2.000",
+      "1 : 200.000",
+      "1 : 20.000",
+      "1 : 2.000.000",
+      "1 : 500.000"
+    ],
+    "jawaban": "B",
+    "pembahasan": "10 km = 1.000.000 cm. Skala = 5 : 1.000.000 = 1 : 200.000.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_GE_03",
+    "pertanyaan": "FR Lingkungan: Fenomena 'Efek Rumah Kaca' (Greenhouse Effect) secara alami bermanfaat untuk...",
+    "opsi": [
+      "Membakar bumi",
+      "Membuat es mencair",
+      "Menjaga suhu bumi agar tetap hangat dan layak huni",
+      "Mendinginkan kutub",
+      "Menghilangkan awan"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Tanpa gas rumah kaca alami, suhu bumi akan sangat dingin.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_GE_04",
+    "pertanyaan": "FR SIG: Manakah yang termasuk data atribut dalam SIG?",
+    "opsi": [
+      "Lokasi koordinat",
+      "Bentuk sungai",
+      "Citra satelit",
+      "Nama pemilik lahan dan luas bidang",
+      "Foto udara"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Data atribut berisi penjelasan/deskripsi dari data spasial.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_GE_05",
+    "pertanyaan": "FR Sumber Daya: Apa nama lokasi tambang emas terbesar di Indonesia yang dikelola PT Freeport?",
+    "opsi": [
+      "Sawahlunto",
+      "Bontang",
+      "Cilegon",
+      "Cepu",
+      "Grasberg (Papua)"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

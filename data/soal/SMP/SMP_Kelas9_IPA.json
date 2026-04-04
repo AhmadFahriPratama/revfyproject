@@ -1,0 +1,658 @@
+{
+  "id": "smp-9-ipa",
+  "tingkat": "SMP",
+  "mapel": "IPA",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "ipa9-1",
+      "teks": "Tempat terjadinya fertilisasi (pembuahan) pada sistem reproduksi wanita adalah...",
+      "opsi": {
+        "A": "Tuba fallopi (oviduk)",
+        "B": "Ovarium",
+        "C": "Uterus (rahim)",
+        "D": "Serviks"
+      },
+      "kunci": "A",
+      "pembahasan": "Fertilisasi atau pertemuan sel sperma dan telur normalnya terjadi di saluran telur / tuba fallopi.",
+      "trik": "Fertilisasi di jalan (tuba), bayi di rumah (rahim)."
+    },
+    {
+      "id": "ipa9-2",
+      "teks": "Pembelahan sel yang menghasilkan 4 sel anakan dengan jumlah kromosom separuh dari induk disebut...",
+      "opsi": {
+        "A": "Mitosis",
+        "B": "Meiosis",
+        "C": "Amitosis",
+        "D": "Budding"
+      },
+      "kunci": "B",
+      "pembahasan": "Meiosis adalah pembelahan reduksi yang menghasilkan 4 sel gamet haploid.",
+      "trik": "Meiosis = setengah."
+    },
+    {
+      "id": "ipa9-3",
+      "teks": "Sifat yang muncul atau menutupi sifat lain dinamakan...",
+      "opsi": {
+        "A": "Resesif",
+        "B": "Intermediat",
+        "C": "Dominan",
+        "D": "Fenotipe"
+      },
+      "kunci": "C",
+      "pembahasan": "Sifat dominan adalah sifat kuat yang menutupi sifat resesif.",
+      "trik": "Dominan = berkuasa."
+    },
+    {
+      "id": "ipa9-4",
+      "teks": "Dua muatan listrik yang sejenis jika didekatkan akan...",
+      "opsi": {
+        "A": "Tarik-menarik",
+        "B": "Tidak ada gaya",
+        "C": "Konslet",
+        "D": "Tolak-menolak"
+      },
+      "kunci": "D",
+      "pembahasan": "Muatan sejenis tolak-menolak, beda jenis tarik-menarik.",
+      "trik": "Positif + Positif = Saling dorong (tolak)."
+    },
+    {
+      "id": "ipa9-5",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah...",
+      "opsi": {
+        "A": "Tempe",
+        "B": "Sirup",
+        "C": "Yoghurt",
+        "D": "Keju"
+      },
+      "kunci": "A",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-6",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah... (Latihan Intensif #6)",
+      "opsi": {
+        "A": "Sirup",
+        "B": "Tempe",
+        "C": "Yoghurt",
+        "D": "Keju"
+      },
+      "kunci": "B",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-7",
+      "teks": "Sifat yang muncul atau menutupi sifat lain dinamakan... (Latihan Intensif #7)",
+      "opsi": {
+        "A": "Resesif",
+        "B": "Intermediat",
+        "C": "Dominan",
+        "D": "Fenotipe"
+      },
+      "kunci": "C",
+      "pembahasan": "Sifat dominan adalah sifat kuat yang menutupi sifat resesif.",
+      "trik": "Dominan = berkuasa."
+    },
+    {
+      "id": "smp-9-ipa-8",
+      "teks": "Dua muatan listrik yang sejenis jika didekatkan akan... (Latihan Intensif #8)",
+      "opsi": {
+        "A": "Tarik-menarik",
+        "B": "Tidak ada gaya",
+        "C": "Konslet",
+        "D": "Tolak-menolak"
+      },
+      "kunci": "D",
+      "pembahasan": "Muatan sejenis tolak-menolak, beda jenis tarik-menarik.",
+      "trik": "Positif + Positif = Saling dorong (tolak)."
+    },
+    {
+      "id": "smp-9-ipa-9",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah... (Latihan Intensif #9)",
+      "opsi": {
+        "A": "Tempe",
+        "B": "Sirup",
+        "C": "Yoghurt",
+        "D": "Keju"
+      },
+      "kunci": "A",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-10",
+      "teks": "Pembelahan sel yang menghasilkan 4 sel anakan dengan jumlah kromosom separuh dari induk disebut... (Latihan Intensif #10)",
+      "opsi": {
+        "A": "Mitosis",
+        "B": "Meiosis",
+        "C": "Amitosis",
+        "D": "Budding"
+      },
+      "kunci": "B",
+      "pembahasan": "Meiosis adalah pembelahan reduksi yang menghasilkan 4 sel gamet haploid.",
+      "trik": "Meiosis = setengah."
+    },
+    {
+      "id": "smp-9-ipa-11",
+      "teks": "Pembelahan sel yang menghasilkan 4 sel anakan dengan jumlah kromosom separuh dari induk disebut... (Latihan Intensif #11)",
+      "opsi": {
+        "A": "Mitosis",
+        "B": "Amitosis",
+        "C": "Meiosis",
+        "D": "Budding"
+      },
+      "kunci": "C",
+      "pembahasan": "Meiosis adalah pembelahan reduksi yang menghasilkan 4 sel gamet haploid.",
+      "trik": "Meiosis = setengah."
+    },
+    {
+      "id": "smp-9-ipa-12",
+      "teks": "Sifat yang muncul atau menutupi sifat lain dinamakan... (Latihan Intensif #12)",
+      "opsi": {
+        "A": "Resesif",
+        "B": "Intermediat",
+        "C": "Fenotipe",
+        "D": "Dominan"
+      },
+      "kunci": "D",
+      "pembahasan": "Sifat dominan adalah sifat kuat yang menutupi sifat resesif.",
+      "trik": "Dominan = berkuasa."
+    },
+    {
+      "id": "smp-9-ipa-13",
+      "teks": "Tempat terjadinya fertilisasi (pembuahan) pada sistem reproduksi wanita adalah... (Latihan Intensif #13)",
+      "opsi": {
+        "A": "Tuba fallopi (oviduk)",
+        "B": "Ovarium",
+        "C": "Uterus (rahim)",
+        "D": "Serviks"
+      },
+      "kunci": "A",
+      "pembahasan": "Fertilisasi atau pertemuan sel sperma dan telur normalnya terjadi di saluran telur / tuba fallopi.",
+      "trik": "Fertilisasi di jalan (tuba), bayi di rumah (rahim)."
+    },
+    {
+      "id": "smp-9-ipa-14",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah... (Latihan Intensif #14)",
+      "opsi": {
+        "A": "Sirup",
+        "B": "Tempe",
+        "C": "Yoghurt",
+        "D": "Keju"
+      },
+      "kunci": "B",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-15",
+      "teks": "Dua muatan listrik yang sejenis jika didekatkan akan... (Latihan Intensif #15)",
+      "opsi": {
+        "A": "Tarik-menarik",
+        "B": "Tidak ada gaya",
+        "C": "Tolak-menolak",
+        "D": "Konslet"
+      },
+      "kunci": "C",
+      "pembahasan": "Muatan sejenis tolak-menolak, beda jenis tarik-menarik.",
+      "trik": "Positif + Positif = Saling dorong (tolak)."
+    },
+    {
+      "id": "smp-9-ipa-16",
+      "teks": "Sifat yang muncul atau menutupi sifat lain dinamakan... (Latihan Intensif #16)",
+      "opsi": {
+        "A": "Resesif",
+        "B": "Intermediat",
+        "C": "Fenotipe",
+        "D": "Dominan"
+      },
+      "kunci": "D",
+      "pembahasan": "Sifat dominan adalah sifat kuat yang menutupi sifat resesif.",
+      "trik": "Dominan = berkuasa."
+    },
+    {
+      "id": "smp-9-ipa-17",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah... (Latihan Intensif #17)",
+      "opsi": {
+        "A": "Tempe",
+        "B": "Sirup",
+        "C": "Yoghurt",
+        "D": "Keju"
+      },
+      "kunci": "A",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-18",
+      "teks": "Dua muatan listrik yang sejenis jika didekatkan akan... (Latihan Intensif #18)",
+      "opsi": {
+        "A": "Tarik-menarik",
+        "B": "Tolak-menolak",
+        "C": "Tidak ada gaya",
+        "D": "Konslet"
+      },
+      "kunci": "B",
+      "pembahasan": "Muatan sejenis tolak-menolak, beda jenis tarik-menarik.",
+      "trik": "Positif + Positif = Saling dorong (tolak)."
+    },
+    {
+      "id": "smp-9-ipa-19",
+      "teks": "Sifat yang muncul atau menutupi sifat lain dinamakan... (Latihan Intensif #19)",
+      "opsi": {
+        "A": "Resesif",
+        "B": "Intermediat",
+        "C": "Dominan",
+        "D": "Fenotipe"
+      },
+      "kunci": "C",
+      "pembahasan": "Sifat dominan adalah sifat kuat yang menutupi sifat resesif.",
+      "trik": "Dominan = berkuasa."
+    },
+    {
+      "id": "smp-9-ipa-20",
+      "teks": "Dua muatan listrik yang sejenis jika didekatkan akan... (Latihan Intensif #20)",
+      "opsi": {
+        "A": "Tarik-menarik",
+        "B": "Tidak ada gaya",
+        "C": "Konslet",
+        "D": "Tolak-menolak"
+      },
+      "kunci": "D",
+      "pembahasan": "Muatan sejenis tolak-menolak, beda jenis tarik-menarik.",
+      "trik": "Positif + Positif = Saling dorong (tolak)."
+    },
+    {
+      "id": "smp-9-ipa-21",
+      "teks": "Sifat yang muncul atau menutupi sifat lain dinamakan... (Latihan Intensif #21)",
+      "opsi": {
+        "A": "Dominan",
+        "B": "Resesif",
+        "C": "Intermediat",
+        "D": "Fenotipe"
+      },
+      "kunci": "A",
+      "pembahasan": "Sifat dominan adalah sifat kuat yang menutupi sifat resesif.",
+      "trik": "Dominan = berkuasa."
+    },
+    {
+      "id": "smp-9-ipa-22",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah... (Latihan Intensif #22)",
+      "opsi": {
+        "A": "Sirup",
+        "B": "Tempe",
+        "C": "Yoghurt",
+        "D": "Keju"
+      },
+      "kunci": "B",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-23",
+      "teks": "Tempat terjadinya fertilisasi (pembuahan) pada sistem reproduksi wanita adalah... (Latihan Intensif #23)",
+      "opsi": {
+        "A": "Ovarium",
+        "B": "Uterus (rahim)",
+        "C": "Tuba fallopi (oviduk)",
+        "D": "Serviks"
+      },
+      "kunci": "C",
+      "pembahasan": "Fertilisasi atau pertemuan sel sperma dan telur normalnya terjadi di saluran telur / tuba fallopi.",
+      "trik": "Fertilisasi di jalan (tuba), bayi di rumah (rahim)."
+    },
+    {
+      "id": "smp-9-ipa-24",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah... (Latihan Intensif #24)",
+      "opsi": {
+        "A": "Sirup",
+        "B": "Yoghurt",
+        "C": "Keju",
+        "D": "Tempe"
+      },
+      "kunci": "D",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-25",
+      "teks": "Pembelahan sel yang menghasilkan 4 sel anakan dengan jumlah kromosom separuh dari induk disebut... (Latihan Intensif #25)",
+      "opsi": {
+        "A": "Meiosis",
+        "B": "Mitosis",
+        "C": "Amitosis",
+        "D": "Budding"
+      },
+      "kunci": "A",
+      "pembahasan": "Meiosis adalah pembelahan reduksi yang menghasilkan 4 sel gamet haploid.",
+      "trik": "Meiosis = setengah."
+    },
+    {
+      "id": "smp-9-ipa-26",
+      "teks": "Tempat terjadinya fertilisasi (pembuahan) pada sistem reproduksi wanita adalah... (Latihan Intensif #26)",
+      "opsi": {
+        "A": "Ovarium",
+        "B": "Tuba fallopi (oviduk)",
+        "C": "Uterus (rahim)",
+        "D": "Serviks"
+      },
+      "kunci": "B",
+      "pembahasan": "Fertilisasi atau pertemuan sel sperma dan telur normalnya terjadi di saluran telur / tuba fallopi.",
+      "trik": "Fertilisasi di jalan (tuba), bayi di rumah (rahim)."
+    },
+    {
+      "id": "smp-9-ipa-27",
+      "teks": "Pembelahan sel yang menghasilkan 4 sel anakan dengan jumlah kromosom separuh dari induk disebut... (Latihan Intensif #27)",
+      "opsi": {
+        "A": "Mitosis",
+        "B": "Amitosis",
+        "C": "Meiosis",
+        "D": "Budding"
+      },
+      "kunci": "C",
+      "pembahasan": "Meiosis adalah pembelahan reduksi yang menghasilkan 4 sel gamet haploid.",
+      "trik": "Meiosis = setengah."
+    },
+    {
+      "id": "smp-9-ipa-28",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah... (Latihan Intensif #28)",
+      "opsi": {
+        "A": "Sirup",
+        "B": "Yoghurt",
+        "C": "Keju",
+        "D": "Tempe"
+      },
+      "kunci": "D",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-29",
+      "teks": "Dua muatan listrik yang sejenis jika didekatkan akan... (Latihan Intensif #29)",
+      "opsi": {
+        "A": "Tolak-menolak",
+        "B": "Tarik-menarik",
+        "C": "Tidak ada gaya",
+        "D": "Konslet"
+      },
+      "kunci": "A",
+      "pembahasan": "Muatan sejenis tolak-menolak, beda jenis tarik-menarik.",
+      "trik": "Positif + Positif = Saling dorong (tolak)."
+    },
+    {
+      "id": "smp-9-ipa-30",
+      "teks": "Tempat terjadinya fertilisasi (pembuahan) pada sistem reproduksi wanita adalah... (Latihan Intensif #30)",
+      "opsi": {
+        "A": "Ovarium",
+        "B": "Tuba fallopi (oviduk)",
+        "C": "Uterus (rahim)",
+        "D": "Serviks"
+      },
+      "kunci": "B",
+      "pembahasan": "Fertilisasi atau pertemuan sel sperma dan telur normalnya terjadi di saluran telur / tuba fallopi.",
+      "trik": "Fertilisasi di jalan (tuba), bayi di rumah (rahim)."
+    },
+    {
+      "id": "smp-9-ipa-31",
+      "teks": "Pembelahan sel yang menghasilkan 4 sel anakan dengan jumlah kromosom separuh dari induk disebut... (Latihan Intensif #31)",
+      "opsi": {
+        "A": "Mitosis",
+        "B": "Amitosis",
+        "C": "Meiosis",
+        "D": "Budding"
+      },
+      "kunci": "C",
+      "pembahasan": "Meiosis adalah pembelahan reduksi yang menghasilkan 4 sel gamet haploid.",
+      "trik": "Meiosis = setengah."
+    },
+    {
+      "id": "smp-9-ipa-32",
+      "teks": "Pembelahan sel yang menghasilkan 4 sel anakan dengan jumlah kromosom separuh dari induk disebut... (Latihan Intensif #32)",
+      "opsi": {
+        "A": "Mitosis",
+        "B": "Amitosis",
+        "C": "Budding",
+        "D": "Meiosis"
+      },
+      "kunci": "D",
+      "pembahasan": "Meiosis adalah pembelahan reduksi yang menghasilkan 4 sel gamet haploid.",
+      "trik": "Meiosis = setengah."
+    },
+    {
+      "id": "smp-9-ipa-33",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah... (Latihan Intensif #33)",
+      "opsi": {
+        "A": "Tempe",
+        "B": "Sirup",
+        "C": "Yoghurt",
+        "D": "Keju"
+      },
+      "kunci": "A",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-34",
+      "teks": "Dua muatan listrik yang sejenis jika didekatkan akan... (Latihan Intensif #34)",
+      "opsi": {
+        "A": "Tarik-menarik",
+        "B": "Tolak-menolak",
+        "C": "Tidak ada gaya",
+        "D": "Konslet"
+      },
+      "kunci": "B",
+      "pembahasan": "Muatan sejenis tolak-menolak, beda jenis tarik-menarik.",
+      "trik": "Positif + Positif = Saling dorong (tolak)."
+    },
+    {
+      "id": "smp-9-ipa-35",
+      "teks": "Pembelahan sel yang menghasilkan 4 sel anakan dengan jumlah kromosom separuh dari induk disebut... (Latihan Intensif #35)",
+      "opsi": {
+        "A": "Mitosis",
+        "B": "Amitosis",
+        "C": "Meiosis",
+        "D": "Budding"
+      },
+      "kunci": "C",
+      "pembahasan": "Meiosis adalah pembelahan reduksi yang menghasilkan 4 sel gamet haploid.",
+      "trik": "Meiosis = setengah."
+    },
+    {
+      "id": "smp-9-ipa-36",
+      "teks": "Sifat yang muncul atau menutupi sifat lain dinamakan... (Latihan Intensif #36)",
+      "opsi": {
+        "A": "Resesif",
+        "B": "Intermediat",
+        "C": "Fenotipe",
+        "D": "Dominan"
+      },
+      "kunci": "D",
+      "pembahasan": "Sifat dominan adalah sifat kuat yang menutupi sifat resesif.",
+      "trik": "Dominan = berkuasa."
+    },
+    {
+      "id": "smp-9-ipa-37",
+      "teks": "Pembelahan sel yang menghasilkan 4 sel anakan dengan jumlah kromosom separuh dari induk disebut... (Latihan Intensif #37)",
+      "opsi": {
+        "A": "Meiosis",
+        "B": "Mitosis",
+        "C": "Amitosis",
+        "D": "Budding"
+      },
+      "kunci": "A",
+      "pembahasan": "Meiosis adalah pembelahan reduksi yang menghasilkan 4 sel gamet haploid.",
+      "trik": "Meiosis = setengah."
+    },
+    {
+      "id": "smp-9-ipa-38",
+      "teks": "Pembelahan sel yang menghasilkan 4 sel anakan dengan jumlah kromosom separuh dari induk disebut... (Latihan Intensif #38)",
+      "opsi": {
+        "A": "Mitosis",
+        "B": "Meiosis",
+        "C": "Amitosis",
+        "D": "Budding"
+      },
+      "kunci": "B",
+      "pembahasan": "Meiosis adalah pembelahan reduksi yang menghasilkan 4 sel gamet haploid.",
+      "trik": "Meiosis = setengah."
+    },
+    {
+      "id": "smp-9-ipa-39",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah... (Latihan Intensif #39)",
+      "opsi": {
+        "A": "Sirup",
+        "B": "Yoghurt",
+        "C": "Tempe",
+        "D": "Keju"
+      },
+      "kunci": "C",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-40",
+      "teks": "Dua muatan listrik yang sejenis jika didekatkan akan... (Latihan Intensif #40)",
+      "opsi": {
+        "A": "Tarik-menarik",
+        "B": "Tidak ada gaya",
+        "C": "Konslet",
+        "D": "Tolak-menolak"
+      },
+      "kunci": "D",
+      "pembahasan": "Muatan sejenis tolak-menolak, beda jenis tarik-menarik.",
+      "trik": "Positif + Positif = Saling dorong (tolak)."
+    },
+    {
+      "id": "smp-9-ipa-41",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah... (Latihan Intensif #41)",
+      "opsi": {
+        "A": "Tempe",
+        "B": "Sirup",
+        "C": "Yoghurt",
+        "D": "Keju"
+      },
+      "kunci": "A",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-42",
+      "teks": "Sifat yang muncul atau menutupi sifat lain dinamakan... (Latihan Intensif #42)",
+      "opsi": {
+        "A": "Resesif",
+        "B": "Dominan",
+        "C": "Intermediat",
+        "D": "Fenotipe"
+      },
+      "kunci": "B",
+      "pembahasan": "Sifat dominan adalah sifat kuat yang menutupi sifat resesif.",
+      "trik": "Dominan = berkuasa."
+    },
+    {
+      "id": "smp-9-ipa-43",
+      "teks": "Tempat terjadinya fertilisasi (pembuahan) pada sistem reproduksi wanita adalah... (Latihan Intensif #43)",
+      "opsi": {
+        "A": "Ovarium",
+        "B": "Uterus (rahim)",
+        "C": "Tuba fallopi (oviduk)",
+        "D": "Serviks"
+      },
+      "kunci": "C",
+      "pembahasan": "Fertilisasi atau pertemuan sel sperma dan telur normalnya terjadi di saluran telur / tuba fallopi.",
+      "trik": "Fertilisasi di jalan (tuba), bayi di rumah (rahim)."
+    },
+    {
+      "id": "smp-9-ipa-44",
+      "teks": "Sifat yang muncul atau menutupi sifat lain dinamakan... (Latihan Intensif #44)",
+      "opsi": {
+        "A": "Resesif",
+        "B": "Intermediat",
+        "C": "Fenotipe",
+        "D": "Dominan"
+      },
+      "kunci": "D",
+      "pembahasan": "Sifat dominan adalah sifat kuat yang menutupi sifat resesif.",
+      "trik": "Dominan = berkuasa."
+    },
+    {
+      "id": "smp-9-ipa-45",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah... (Latihan Intensif #45)",
+      "opsi": {
+        "A": "Tempe",
+        "B": "Sirup",
+        "C": "Yoghurt",
+        "D": "Keju"
+      },
+      "kunci": "A",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-46",
+      "teks": "Tempat terjadinya fertilisasi (pembuahan) pada sistem reproduksi wanita adalah... (Latihan Intensif #46)",
+      "opsi": {
+        "A": "Ovarium",
+        "B": "Tuba fallopi (oviduk)",
+        "C": "Uterus (rahim)",
+        "D": "Serviks"
+      },
+      "kunci": "B",
+      "pembahasan": "Fertilisasi atau pertemuan sel sperma dan telur normalnya terjadi di saluran telur / tuba fallopi.",
+      "trik": "Fertilisasi di jalan (tuba), bayi di rumah (rahim)."
+    },
+    {
+      "id": "smp-9-ipa-47",
+      "teks": "Tempat terjadinya fertilisasi (pembuahan) pada sistem reproduksi wanita adalah... (Latihan Intensif #47)",
+      "opsi": {
+        "A": "Ovarium",
+        "B": "Uterus (rahim)",
+        "C": "Tuba fallopi (oviduk)",
+        "D": "Serviks"
+      },
+      "kunci": "C",
+      "pembahasan": "Fertilisasi atau pertemuan sel sperma dan telur normalnya terjadi di saluran telur / tuba fallopi.",
+      "trik": "Fertilisasi di jalan (tuba), bayi di rumah (rahim)."
+    },
+    {
+      "id": "smp-9-ipa-48",
+      "teks": "Produk bioteknologi konvensional yang memanfaatkan jamur Rhizopus oligosporus adalah... (Latihan Intensif #48)",
+      "opsi": {
+        "A": "Sirup",
+        "B": "Yoghurt",
+        "C": "Keju",
+        "D": "Tempe"
+      },
+      "kunci": "D",
+      "pembahasan": "Rhizopus oligosporus adalah ragi jamur pembuat tempe dari kedelai.",
+      "trik": "Rhizopus = Tempe."
+    },
+    {
+      "id": "smp-9-ipa-49",
+      "teks": "Dua muatan listrik yang sejenis jika didekatkan akan... (Latihan Intensif #49)",
+      "opsi": {
+        "A": "Tolak-menolak",
+        "B": "Tarik-menarik",
+        "C": "Tidak ada gaya",
+        "D": "Konslet"
+      },
+      "kunci": "A",
+      "pembahasan": "Muatan sejenis tolak-menolak, beda jenis tarik-menarik.",
+      "trik": "Positif + Positif = Saling dorong (tolak)."
+    },
+    {
+      "id": "smp-9-ipa-50",
+      "teks": "Tempat terjadinya fertilisasi (pembuahan) pada sistem reproduksi wanita adalah... (Latihan Intensif #50)",
+      "opsi": {
+        "A": "Ovarium",
+        "B": "Tuba fallopi (oviduk)",
+        "C": "Uterus (rahim)",
+        "D": "Serviks"
+      },
+      "kunci": "B",
+      "pembahasan": "Fertilisasi atau pertemuan sel sperma dan telur normalnya terjadi di saluran telur / tuba fallopi.",
+      "trik": "Fertilisasi di jalan (tuba), bayi di rumah (rahim)."
+    }
+  ]
+}

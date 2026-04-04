@@ -1,0 +1,30 @@
+{
+  "id": "materi-sd-kls6-ipas",
+  "tingkat": "SD Kelas 6",
+  "mapel": "IPAS",
+  "materi": "Tata Surya, Adaptasi Makhluk Hidup, Listrik, dan ASEAN",
+  "deskripsi": "Materi IPAS Kelas 6 membahas tata surya dan gerhana, ciri-ciri khusus adaptasi makhluk hidup, sistem kelistrikan (PLN dan penghematannya), serta posisi Indonesia dalam kerjasama ASEAN.",
+  "konten": [
+    {
+      "bab": "1. Ciri Khusus (Adaptasi) Makhluk Hidup",
+      "teks": "Menganalisis cara hewan dan tumbuhan beradaptasi dengan lingkungannya untuk bertahan hidup (misal: kaktus berdaun duri, cicak autotomi, bunglon mimikri)."
+    },
+    {
+      "bab": "2. Pembangkit Listrik dan Penyalurannya",
+      "teks": "Memahami proses menghasilkan, menyalurkan, dan menghemat energi listrik. Mengenal sumber energi alternatif yang dapat diperbarui."
+    },
+    {
+      "bab": "3. Pergerakan Bumi dan Bulan (Gerhana)",
+      "teks": "Memahami sistem Tata Surya, karakteristik planet, serta dampak rotasi dan revolusi Bumi. Menjelaskan terjadinya gerhana matahari dan gerhana bulan."
+    },
+    {
+      "bab": "4. Posisi dan Peran Indonesia di ASEAN",
+      "teks": "Menjelaskan posisi, peran, serta kerja sama Indonesia di lingkup ASEAN dalam bidang ekonomi (MEA), politik, sosial, budaya, dan pendidikan."
+    },
+    {
+      "bab": "5. Proklamasi dan Upaya Mempertahankan Kemerdekaan",
+      "teks": "Menggali peristiwa penting pasca-kemerdekaan seperti Pertempuran Surabaya, Bandung Lautan Api, serta usaha diplomasi mempertahankan NKRI."
+    }
+  ],
+  "tag": ["sd-6", "ipas", "tata-surya", "adaptasi", "asean", "listrik"]
+}

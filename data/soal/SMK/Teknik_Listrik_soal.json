@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TE_LI_01",
+    "pertanyaan": "Satuan standar untuk mengukur Tegangan (Beda Potensial) listrik adalah...",
+    "opsi": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt",
+      "Joule"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tegangan diukur menggunakan Voltmeter dan memiliki satuan Volt (V)."
+  },
+  {
+    "id": "TE_LI_02",
+    "pertanyaan": "Laju aliran muatan listrik dalam suatu penghantar disebut...",
+    "opsi": [
+      "Tegangan",
+      "Arus Listrik (Current)",
+      "Hambatan",
+      "Daya",
+      "Energi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Arus listrik diukur dalam satuan Ampere (A)."
+  },
+  {
+    "id": "TE_LI_03",
+    "pertanyaan": "Komponen yang berfungsi untuk membatasi atau menghambat arus listrik adalah...",
+    "opsi": [
+      "Kapasitor",
+      "Induktor",
+      "Resistor",
+      "Dioda",
+      "Transistor"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Resistor memiliki nilai hambatan (Ohm) tertentu untuk mengatur arus."
+  },
+  {
+    "id": "TE_LI_04",
+    "pertanyaan": "Hukum Ohm menyatakan bahwa jika tegangan dinaikkan pada hambatan yang tetap, maka arus akan...",
+    "opsi": [
+      "Tetap",
+      "Menurun",
+      "Hilang",
+      "Naik",
+      "Berbalik arah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "V = I x R. Tegangan berbanding lurus dengan arus (I)."
+  },
+  {
+    "id": "TE_LI_05",
+    "pertanyaan": "Apa kepanjangan dari MCB yang sering terpasang di kotak sekring rumah?",
+    "opsi": [
+      "Main Control Board",
+      "Manual Circle Box",
+      "Mini Component Block",
+      "Master Circuit Balance",
+      "Miniature Circuit Breaker"
+    ],
+    "jawaban": 4,
+    "pembahasan": "MCB berfungsi sebagai pengaman beban lebih dan hubungan singkat (korsleting)."
+  },
+  {
+    "id": "TE_LI_06",
+    "pertanyaan": "Berapakah nilai tegangan listrik standar PLN yang masuk ke rumah tangga di Indonesia?",
+    "opsi": [
+      "220 V AC",
+      "110 V AC",
+      "380 V AC",
+      "12 V DC",
+      "24 V DC"
+    ],
+    "jawaban": 0,
+    "pembahasan": "PLN menggunakan tegangan bolak-balik (AC) fasa tunggal sebesar 220 Volt."
+  },
+  {
+    "id": "TE_LI_07",
+    "pertanyaan": "Warna isolasi kabel standar untuk kabel Fasa (bertegangan) menurut PUIL 2011 terbaru adalah...",
+    "opsi": [
+      "Biru",
+      "Hitam/Cokelat/Abu-abu",
+      "Kuning/Hijau",
+      "Merah saja",
+      "Kuning saja"
+    ],
+    "jawaban": 1,
+    "pembahasan": "PUIL mewajibkan Biru untuk Netral dan Kuning-Hijau untuk Ground (Tanah)."
+  },
+  {
+    "id": "TE_LI_08",
+    "pertanyaan": "Warna isolasi kabel yang selalu digunakan untuk pentanahan (Grounding) adalah...",
+    "opsi": [
+      "Merah",
+      "Hitam",
+      "Kuning strip Hijau",
+      "Biru",
+      "Cokelat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Grounding berfungsi mengalirkan kebocoran arus ke bumi demi keselamatan."
+  },
+  {
+    "id": "TE_LI_09",
+    "pertanyaan": "Alat yang digunakan untuk mengukur nilai hambatan jenis tanah (grounding) adalah...",
+    "opsi": [
+      "Multimeter",
+      "Lux Meter",
+      "Wattmeter",
+      "Earth Tester",
+      "Thermometer"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Earth tester menjamin nilai resistansi pembumian di bawah 5 Ohm agar aman."
+  },
+  {
+    "id": "TE_LI_10",
+    "pertanyaan": "Alat ukur listrik yang digunakan untuk mengukur konsumsi energi listrik oleh pelanggan PLN adalah...",
+    "opsi": [
+      "Amperemeter",
+      "Voltmeter",
+      "Frequency Meter",
+      "Cos Phi Meter",
+      "kWh Meter"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kilo Watt Hour (kWh) meter mencatat pemakaian daya dalam satuan waktu."
+  },
+  {
+    "id": "TE_LI_11",
+    "pertanyaan": "Hubungan antar komponen yang dipasang secara berjajar sehingga arus listrik hanya memiliki satu jalur disebut rangkaian...",
+    "opsi": [
+      "Seri",
+      "Paralel",
+      "Campuran",
+      "Delta",
+      "Bintang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Rangkaian seri membagi tegangan namun arusnya sama di setiap beban."
+  },
+  {
+    "id": "TE_LI_12",
+    "pertanyaan": "Hubungan antar komponen yang dipasang bercabang sehingga setiap beban mendapatkan tegangan yang sama disebut rangkaian...",
+    "opsi": [
+      "Seri",
+      "Paralel",
+      "Induktif",
+      "Kapasitf",
+      "Tertutup"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Instalasi listrik rumah tangga menggunakan rangkaian paralel agar jika satu lampu mati, yang lain tetap hidup."
+  },
+  {
+    "id": "TE_LI_13",
+    "pertanyaan": "Hukum Kirchhoff I berbunyi bahwa pada suatu titik percabangan...",
+    "opsi": [
+      "Tegangan akan hilang",
+      "Arus akan meledak",
+      "Jumlah arus masuk sama dengan jumlah arus keluar",
+      "Hambatan menjadi nol",
+      "Daya berlipat ganda"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hukum ini didasarkan pada kekekalan muatan listrik."
+  },
+  {
+    "id": "TE_LI_14",
+    "pertanyaan": "Besaran daya listrik sebanding dengan perkalian antara Tegangan dan Arus, satuannya adalah...",
+    "opsi": [
+      "Ohm",
+      "Volt",
+      "Ampere",
+      "Watt",
+      "Hertz"
+    ],
+    "jawaban": 3,
+    "pembahasan": "P (Watt) = V (Volt) x I (Ampere). Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Watt\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TE_LI_15",
+    "pertanyaan": "Alat ukur yang digunakan untuk mengetahui ada tidaknya tegangan listrik pada suatu titik (terminal) secara praktis adalah...",
+    "opsi": [
+      "Obeng Biasa",
+      "Palu",
+      "Tang Potong",
+      "Solder",
+      "Tespem (Test Pen)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Lampu pada test pen akan menyala jika menyentuh fasa atau kabel bertegangan."
+  },
+  {
+    "id": "TE_LI_16",
+    "pertanyaan": "Kabel NYM memiliki ciri khas berupa...",
+    "opsi": [
+      "Kabel berinti lebih dari satu (2, 3, atau 4) dengan isolasi putih",
+      "Kabel tunggal kaku tanpa pelindung tambahan",
+      "Kabel serabut",
+      "Kabel khusus tanam tanah",
+      "Kabel telepon"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kabel NYM memiliki isolasi PVC luar berwarna putih yang cukup kuat untuk instalasi dalam ruangan."
+  },
+  {
+    "id": "TE_LI_17",
+    "pertanyaan": "Kabel yang dirancang khusus untuk ditanam di dalam tanah karena memiliki pelindung luar yang sangat kuat (biasanya warna hitam) adalah...",
+    "opsi": [
+      "NYA",
+      "NYY",
+      "NYM",
+      "NYAF",
+      "Kabel UTP"
+    ],
+    "jawaban": 1,
+    "pembahasan": "NYY memiliki selubung luar PVC yang tebal dan tahan terhadap pengaruh tanah."
+  },
+  {
+    "id": "TE_LI_18",
+    "pertanyaan": "Fungsi dari 'Sakelar' dalam rangkaian listrik adalah...",
+    "opsi": [
+      "Menyimpan arus",
+      "Menaikkan tegangan",
+      "Menyambung dan memutus arus listrik",
+      "Mengurangi hambatan",
+      "Mengubah AC menjadi DC"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sakelar bertindak sebagai pengendali on/off peralatan."
+  },
+  {
+    "id": "TE_LI_19",
+    "pertanyaan": "Sakelar yang dapat mengoperasikan satu lampu atau lebih dari dua tempat yang berbeda disebut...",
+    "opsi": [
+      "Sakelar Tunggal",
+      "Sakelar Seri (Deret)",
+      "Sakelar Silang",
+      "Sakelar Tukar (Sakelar Hotel)",
+      "Sakelar Impuls"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sering digunakan di lorong panjang atau hotel agar lampu bisa dimatikan dari dua sisi."
+  },
+  {
+    "id": "TE_LI_20",
+    "pertanyaan": "Pipa yang digunakan untuk melindungi kabel listrik di dalam tembok adalah pipa...",
+    "opsi": [
+      "Pipa Besi",
+      "Pipa Tembaga",
+      "Pipa Sedotan",
+      "Pipa Beton",
+      "Pipa Paralon (PVC)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pipa PVC melindungi kabel dari kelembapan dan tikus serta memudahkan penarikan kabel ulang."
+  },
+  {
+    "id": "TE_LI_21",
+    "pertanyaan": "Bahan yang sangat mudah mengalirkan arus listrik disebut...",
+    "opsi": [
+      "Konduktor",
+      "Isolator",
+      "Semikonduktor",
+      "Resistor",
+      "Plastik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh konduktor terbaik: Perak, Tembaga, Aluminium."
+  },
+  {
+    "id": "TE_LI_22",
+    "pertanyaan": "Bahan yang sangat sulit atau tidak dapat mengalirkan arus listrik disebut...",
+    "opsi": [
+      "Konduktor",
+      "Isolator",
+      "Superkonduktor",
+      "Logam",
+      "Kabel"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh isolator: Plastik, Karet, Mika, Keramik."
+  },
+  {
+    "id": "TE_LI_23",
+    "pertanyaan": "Arus listrik yang mengalir hanya dalam satu arah dan tidak berubah polaritasnya disebut arus...",
+    "opsi": [
+      "AC (Alternating Current)",
+      "High Voltage",
+      "DC (Direct Current)",
+      "Static",
+      "Reactive"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Baterai, Aki, dan Sel Surya menghasilkan arus DC."
+  },
+  {
+    "id": "TE_LI_24",
+    "pertanyaan": "Arus listrik yang arah dan besarnya berubah-ubah secara periodik mengikuti fungsi sinus disebut arus...",
+    "opsi": [
+      "DC",
+      "Digital",
+      "Internal",
+      "AC (Alternating Current)",
+      "Magnetik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "PLN mendistribusikan listrik dalam bentuk AC karena mudah ditransformasikan (dinaikkan/diturunkan)."
+  },
+  {
+    "id": "TE_LI_25",
+    "pertanyaan": "Alat yang berfungsi merubah tegangan AC dari tinggi ke rendah atau sebaliknya tanpa mengubah frekuensi disebut...",
+    "opsi": [
+      "Motor Listrik",
+      "Generator",
+      "Inverter",
+      "Konverter",
+      "Transformator (Trafo)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Trafo step-up menaikkan tegangan, trafo step-down menurunkan tegangan."
+  },
+  {
+    "id": "TE_LI_26",
+    "pertanyaan": "Komponen listrik yang berfungsi menyimpan muatan listrik sementara dalam medan listrik disebut...",
+    "opsi": [
+      "Kapasitor (Kondensator)",
+      "Induktor",
+      "Baterai",
+      "Relay",
+      "Transistor"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kapasitor diukur dalam satuan Farad (F)."
+  },
+  {
+    "id": "TE_LI_27",
+    "pertanyaan": "Berapakah nilai hambatan total jika dua buah resistor masing-masing 10 Ohm dipasang secara seri?",
+    "opsi": [
+      "5 Ohm",
+      "20 Ohm",
+      "10 Ohm",
+      "100 Ohm",
+      "0 Ohm"
+    ],
+    "jawaban": 1,
+    "pembahasan": "R seri = R1 + R2 = 10 + 10 = 20. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"20 Ohm\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TE_LI_28",
+    "pertanyaan": "Berapakah nilai hambatan total jika dua buah resistor masing-masing 10 Ohm dipasang secara paralel?",
+    "opsi": [
+      "20 Ohm",
+      "10 Ohm",
+      "5 Ohm",
+      "2.5 Ohm",
+      "50 Ohm"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rp = (R1 x R2) / (R1 + R2) = 100 / 20 = 5."
+  },
+  {
+    "id": "TE_LI_29",
+    "pertanyaan": "Frekunsi listrik PLN di Indonesia adalah...",
+    "opsi": [
+      "60 Hz",
+      "100 Hz",
+      "1000 Hz",
+      "50 Hz",
+      "10 Hz"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Standar ini menentukan jumlah siklus gelombang sinus per detik."
+  },
+  {
+    "id": "TE_LI_30",
+    "pertanyaan": "Tang yang khusus digunakan untuk memotong kawat atau kabel kecil adalah...",
+    "opsi": [
+      "Tang Kombinasi",
+      "Tang Lancip",
+      "Tang Ampere",
+      "Tang Ragum",
+      "Tang Potong (Side Cutting Plier)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tang potong memiliki rahang tajam di bagian samping."
+  },
+  {
+    "id": "TE_LI_31",
+    "pertanyaan": "Tang yang memiliki rahang panjang dan runcing untuk menjepit kabel di tempat yang sempit adalah...",
+    "opsi": [
+      "Tang Lancip (Long Nose Plier)",
+      "Tang Potong",
+      "Tang Kombinasi",
+      "Tang Buaya",
+      "Tang Kakak Tua"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Berguna juga untuk membuat tekukan atau bulatan pada ujung kabel kaku (NYA)."
+  },
+  {
+    "id": "TE_LI_32",
+    "pertanyaan": "Dalam K3 Listrik, apa itu 'Arus Bocor'?",
+    "opsi": [
+      "Arus yang mengalir di dalam kabel dengan benar",
+      "Arus yang mengalir keluar dari penghantar akibat isolasi yang rusak",
+      "Listrik yang tidak bisa menyala",
+      "Arus yang masuk ke baterai",
+      "Arus yang sangat besar"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Arus bocor sangat berbahaya jika menyentuh bodi peralatan berbahan logam."
+  },
+  {
+    "id": "TE_LI_33",
+    "pertanyaan": "Alat pengaman yang mendeteksi kebocoran arus ke tanah dan memutuskan aliran secara cepat untuk melindungi manusia dari sengatan adalah...",
+    "opsi": [
+      "MCB",
+      "Sakelar Power",
+      "ELCB (Earth Leakage Circuit Breaker) atau RCCB",
+      "Termostat",
+      "Relai"
+    ],
+    "jawaban": 2,
+    "pembahasan": "ELCB jauh lebih sensitif dari MCB dalam melindungi manusia (keamanan nyawa)."
+  },
+  {
+    "id": "TE_LI_34",
+    "pertanyaan": "Komponen semikonduktor yang berfungsi sebagai penyearah arus (merubah AC menjadi DC) adalah...",
+    "opsi": [
+      "Resistor",
+      "Kapasitor",
+      "Transistor",
+      "Dioda",
+      "LED"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Dioda hanya mengizinkan arus mengalir ke satu arah."
+  },
+  {
+    "id": "TE_LI_35",
+    "pertanyaan": "Alat yang digunakan untuk mengukur intensitas cahaya pada suatu ruangan adalah...",
+    "opsi": [
+      "Multimeter",
+      "Megger",
+      "Oscilloscope",
+      "Sound meter",
+      "Lux Meter"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Lux meter menjamin pencahayaan ruangan sesuai standar kenyamanan visual."
+  },
+  {
+    "id": "TE_LI_36",
+    "pertanyaan": "Satuan daya semu pada sistem kelistrikan AC yang sering tertera pada Trafo atau Genset adalah...",
+    "opsi": [
+      "Volt Ampere (VA)",
+      "Watt",
+      "Ohm",
+      "Tesla",
+      "Henry"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Daya semu mencakup daya aktif dan daya reaktif."
+  },
+  {
+    "id": "TE_LI_37",
+    "pertanyaan": "Pada instalasi listrik, 'Fiting' berfungsi sebagai...",
+    "opsi": [
+      "Tempat mencolokkan setrika",
+      "Tempat memasang/dudukan lampu",
+      "Sambungan kabel",
+      "Pengaman petir",
+      "Stop kontak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Fiting menghubungkan kabel instalasi dengan bohlam lampu."
+  },
+  {
+    "id": "TE_LI_38",
+    "pertanyaan": "Apa singkatan dari PUIL?",
+    "opsi": [
+      "Pusat Urusan Industri Listrik",
+      "Persatuan Teknisi Listrik Indonesia",
+      "Peraturan Umum Instalasi Listrik",
+      "Penerapan Undang-Undang Listrik",
+      "Penyalur Utama Informasi Listrik"
+    ],
+    "jawaban": 2,
+    "pembahasan": "PUIL adalah kitab standar wajib pengerjaan instalasi listrik di Indonesia."
+  },
+  {
+    "id": "TE_LI_39",
+    "pertanyaan": "Sambungan kabel di dalam kotak sambung (T-Dos) yang berbentuk seperti ekor babi disebut...",
+    "opsi": [
+      "Western Union",
+      "Britania",
+      "Bell Hangers",
+      "Pig Tail",
+      "Solder"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sambungan Pig Tail paling umum dan sederhana untuk instalasi rumah."
+  },
+  {
+    "id": "TE_LI_40",
+    "pertanyaan": "Komponen isolasi berupa corong kecil yang diputar untuk menutup sambungan kabel ekor babi disebut...",
+    "opsi": [
+      "Fiting",
+      "T-Dos",
+      "Pipa PVC",
+      "Isolasi Plastik",
+      "Lasdop"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Lasdop lebih aman dan rapi dibanding sekadar dibalut selotip (isolasi)."
+  },
+  {
+    "id": "TE_LI_41",
+    "pertanyaan": "Peralatan rumah tangga yang merubah energi listrik menjadi energi gerakan (mekanik) adalah...",
+    "opsi": [
+      "Kipas Angin / Blender",
+      "Lampu Pijar",
+      "Solder",
+      "Setrika Listrik",
+      "Magic Com"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Menggunakan prinsip motor listrik (elektromagnetik)."
+  },
+  {
+    "id": "TE_LI_42",
+    "pertanyaan": "Peralatan rumah tangga yang merubah energi listrik menjadi energi panas adalah...",
+    "opsi": [
+      "Radio",
+      "Setrika Listrik / Heater",
+      "Televisi",
+      "Kulkas",
+      "Mesin Cuci"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Menggunakan elemen pemanas (resistor kawat nikrom)."
+  },
+  {
+    "id": "TE_LI_43",
+    "pertanyaan": "Alat yang digunakan untuk menaikkan kabel ke atas tiang listrik dengan cara dipanjat adalah...",
+    "opsi": [
+      "Sabuk Pengaman",
+      "Obeng",
+      "Tangga dan Sabuk Pengaman / Klem Panjat",
+      "Multimeter",
+      "Sepatu Pantofel"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Keselamatan di ketinggian sangat krusial bagi teknisi distribusi."
+  },
+  {
+    "id": "TE_LI_44",
+    "pertanyaan": "Apa fungsi utama dari 'Baterai' atau 'Aki'?",
+    "opsi": [
+      "Membuat kabel panas",
+      "Mendinginkan ruangan",
+      "Menghasilkan arus AC",
+      "Menyimpan energi listrik dalam bentuk energi kimia",
+      "Mencegah korsleting"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Data kimia beraksi menghasilkan beda potensial saat sirkuit tertutup."
+  },
+  {
+    "id": "TE_LI_45",
+    "pertanyaan": "Zat yang muatan protonnya sama dengan muatan elektronnya disebut zat...",
+    "opsi": [
+      "Negatif",
+      "Positif",
+      "Ionis",
+      "Dinamis",
+      "Netral"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Atom netral tidak memiliki muatan resultan."
+  },
+  {
+    "id": "TE_LI_46",
+    "pertanyaan": "Pekerjaan 'Maintenance' pada panel listrik bertujuan untuk...",
+    "opsi": [
+      "Menjamin kelangsungan pasokan daya dan meminimalkan kerusakan alat",
+      "Mencabut semua kabel",
+      "Menaikkan tarif listrik",
+      "Mematikan lampu selamanya",
+      "Mencatat nama pelanggan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Perawatan rutin mencegah kebakaran akibat koneksi kendor atau kotoran."
+  },
+  {
+    "id": "TE_LI_47",
+    "pertanyaan": "Sebuah perangkat yang dapat memutus arus secara manual dan otomatis jika panas berlebih (overload) adalah...",
+    "opsi": [
+      "Sakelar",
+      "Thermal Overload Relay (TOR)",
+      "Kontaktor",
+      "Transformator",
+      "Motor Starter"
+    ],
+    "jawaban": 1,
+    "pembahasan": "TOR melindungi motor listrik dari kerusakan akibat panas."
+  },
+  {
+    "id": "TE_LI_48",
+    "pertanyaan": "Satuan SI untuk hambatan jenis sebuah bahan penghantar adalah...",
+    "opsi": [
+      "Ohm",
+      "Volt per Ampere",
+      "Ohm x Meter (Ωm)",
+      "Mho",
+      "Siemens"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hambatan jenis (rho) menentukan seberapa baik bahan tersebut menghantar listrik."
+  },
+  {
+    "id": "TE_LI_49",
+    "pertanyaan": "Kawat tembaga tanpa isolasi yang digunakan untuk penghantar petir atau pembumian disebut...",
+    "opsi": [
+      "NYA",
+      "NYM",
+      "Kabel Coaxial",
+      "BCC (Bare Copper Conductor)",
+      "Kabel HDMI"
+    ],
+    "jawaban": 3,
+    "pembahasan": "BCC telanjang tanpa kulit plastik. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"BCC (Bare Copper Conductor)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TE_LI_50",
+    "pertanyaan": "Tindakan pertama jika melihat seseorang tersengat listrik adalah...",
+    "opsi": [
+      "Menarik orangnya langsung dengan tangan telanjang",
+      "Menyiram air",
+      "Menelepon polisi dahulu sebelum menolong",
+      "Berteriak minta tolong saja",
+      "Segera mematikan sumber listrik (MCB/Sakelar) atau melepaskan korban menggunakan benda isolator (kayu kering)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Keselamatan penolong harus diutamakan (jangan jadi korban kedua)."
+  }
+]

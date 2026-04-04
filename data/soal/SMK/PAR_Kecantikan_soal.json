@@ -1,0 +1,652 @@
+[
+  {
+    "id": "PAR_KE_01",
+    "pertanyaan": "Lapisan kulit paling luar manusia yang berfungsi melindungi tubuh dari pengaruh lingkungan adalah...",
+    "opsi": [
+      "Epidermis",
+      "Dermis",
+      "Hipodermis",
+      "Melanosit",
+      "Kelenjar Minyak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Epidermis adalah lapisan teratas kulit yang terus berganti selnya."
+  },
+  {
+    "id": "PAR_KE_02",
+    "pertanyaan": "Jenis kulit yang memiliki pori-pori besar dan sering tampak mengkilap adalah kulit...",
+    "opsi": [
+      "Kering",
+      "Berminyak",
+      "Normal",
+      "Sensitif",
+      "Dewasa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kulit berminyak memproduksi sebum berlebih sehingga tampak berkilau."
+  },
+  {
+    "id": "PAR_KE_03",
+    "pertanyaan": "Kegiatan membersihkan alat kecantikan dari kuman menggunakan alkohol atau cairan antiseptik disebut...",
+    "opsi": [
+      "Sterilisasi",
+      "Sanitasi",
+      "Desinfeksi",
+      "Pencucian",
+      "Pengeringan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Desinfeksi menggunakan bahan kimia untuk membunuh mikroorganisme berbahaya pada alat."
+  },
+  {
+    "id": "PAR_KE_04",
+    "pertanyaan": "Tujuan utama dari penggunaan 'Foundation' (alas bedak) dalam tata rias adalah...",
+    "opsi": [
+      "Mewarnai bibir",
+      "Membersihkan sisa make up",
+      "Menebalkan alis",
+      "Menyamaratakan warna kulit wajah dan menutupi kekurangan kecil",
+      "Mencegah jerawat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Foundation dasar yang menentukan kehalusan akhir sebuah riasan."
+  },
+  {
+    "id": "PAR_KE_05",
+    "pertanyaan": "Alat pemulas pipi agar tampak lebih segar dan bersemu disebut...",
+    "opsi": [
+      "Foundation",
+      "Eyeshadow",
+      "Eyeliner",
+      "Concealer",
+      "Blush On"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Blush on memberikan efek segar dan dimensi pada tulang pipi."
+  },
+  {
+    "id": "PAR_KE_06",
+    "pertanyaan": "Teknik 'Shading' dalam make up digunakan untuk...",
+    "opsi": [
+      "Memberikan efek bayangan untuk mengecilkan bagian wajah tertentu",
+      "Memberikan kilauan",
+      "Memutihkan seluruh wajah",
+      "Menghapus riasan",
+      "Membentuk alis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Shading menggunakan warna lebih gelap dari warna kulit untuk memberikan dimensi."
+  },
+  {
+    "id": "PAR_KE_07",
+    "pertanyaan": "Bagian rambut yang berada di dalam kulit dan menerima nutrisi dari darah disebut...",
+    "opsi": [
+      "Batang rambut",
+      "Akar rambut (Root)",
+      "Ujung rambut",
+      "Pigmen",
+      "Kutikula"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kesehatan akar rambut menentukan kekuatan rambut secara keseluruhan."
+  },
+  {
+    "id": "PAR_KE_08",
+    "pertanyaan": "Zat yang memberikan warna alami pada rambut manusia disebut...",
+    "opsi": [
+      "Keratin",
+      "Vitamin E",
+      "Melanin",
+      "Kalsium",
+      "Kolagen"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Melanin diproduksi oleh melanosit untuk menentukan warna rambut dan kulit."
+  },
+  {
+    "id": "PAR_KE_09",
+    "pertanyaan": "Proses perawatan rambut dengan cara memijat kulit kepala menggunakan krim tertentu disebut...",
+    "opsi": [
+      "Coloring",
+      "Smoothing",
+      "Bonding",
+      "Creambath",
+      "Shampooing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Creambath berfungsi menutrisi rambut dan memberikan relaksasi melalui pijatan."
+  },
+  {
+    "id": "PAR_KE_10",
+    "pertanyaan": "Spa merupakan singkatan dari 'Solus Per Aqua' yang artinya...",
+    "opsi": [
+      "Pijat tradisional",
+      "Kecantikan abadi",
+      "Mandi kembang",
+      "Uap panas",
+      "Kesehatan melalui air"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Spa identik dengan terapi menggunakan air sebagai media penyembuhan/relaksasi."
+  },
+  {
+    "id": "PAR_KE_11",
+    "pertanyaan": "Tujuan dari pemakaian 'Body Scrub' (lulur) pada tubuh adalah...",
+    "opsi": [
+      "Mengangkat sel kulit mati agar kulit halus dan bersih",
+      "Mewarnai kulit",
+      "Menumbuhkan bulu tubuh",
+      "Membakar lemak",
+      "Mendinginkan suhu tubuh"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Scrub mengandung butiran halus yang berfungsi sebagai eksfoliator."
+  },
+  {
+    "id": "PAR_KE_12",
+    "pertanyaan": "Sikap profesional seorang beautician (ahli kecantikan) adalah...",
+    "opsi": [
+      "Banyak bergosip dengan pelanggan",
+      "Ramah, sabar, dan menjaga kerahasiaan pelanggan",
+      "Berpakaian semaunya",
+      "Datang terlambat",
+      "Memaksa pelanggan beli produk sahaja"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Etika profesi sangat penting dalam industri jasa kecantikan."
+  },
+  {
+    "id": "PAR_KE_13",
+    "pertanyaan": "Alat yang digunakan untuk melentikkan bulu mata adalah...",
+    "opsi": [
+      "Mascara",
+      "Tweezers",
+      "Eyelash Curler",
+      "Spoolie",
+      "Fan Brush"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Eyelash curler menjepit bulu mata agar melengkung ke atas."
+  },
+  {
+    "id": "PAR_KE_14",
+    "pertanyaan": "Pembersih wajah yang berbentuk cair dan berfungsi menyegarkan serta menutup pori-pori adalah...",
+    "opsi": [
+      "Milk Cleanser",
+      "Facial Foam",
+      "Peeling",
+      "Toner",
+      "Serum"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Toner digunakan setelah pembersihan untuk menyeimbangkan pH kulit."
+  },
+  {
+    "id": "PAR_KE_15",
+    "pertanyaan": "Kosmetik yang digunakan untuk mempertegas bentuk alis disebut...",
+    "opsi": [
+      "Lipstick",
+      "Eyeliner",
+      "Mascara",
+      "Highlighter",
+      "Eyebrow Pencil"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Alis yang dibentuk dengan baik akan membingkai wajah dengan sempurna."
+  },
+  {
+    "id": "PAR_KE_16",
+    "pertanyaan": "Teknik pemijatan dengan cara mengusap atau mengelus secara halus dan berirama disebut...",
+    "opsi": [
+      "Effleurage",
+      "Petrissage",
+      "Tapotement",
+      "Friction",
+      "Vibration"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Effleurage biasanya dilakukan di awal dan akhir massage untuk relaksasi."
+  },
+  {
+    "id": "PAR_KE_17",
+    "pertanyaan": "Teknik pemijatan dengan cara meremas (kneading) jaringan otot disebut...",
+    "opsi": [
+      "Effleurage",
+      "Petrissage",
+      "Vibration",
+      "Friction",
+      "Tapotement"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Petrissage merangsang otot dan saraf agar lebih rileks."
+  },
+  {
+    "id": "PAR_KE_18",
+    "pertanyaan": "Teknik memotong rambut secara bertahap sehingga hasilnya tampak berlapis disebut...",
+    "opsi": [
+      "One Length",
+      "Graduation",
+      "Layering",
+      "Solid",
+      "Concave"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Layering memberikan volume dan gerakan pada rambut."
+  },
+  {
+    "id": "PAR_KE_19",
+    "pertanyaan": "Kosmetik pewarna rambut yang sifatnya tidak luntur meskipun dicuci berkali-kali disebut pewarna...",
+    "opsi": [
+      "Temporer",
+      "Semi-Permanen",
+      "Alami",
+      "Permanen",
+      "Sesaat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pewarna permanen masuk hingga ke dalam korteks rambut."
+  },
+  {
+    "id": "PAR_KE_20",
+    "pertanyaan": "Apa risiko dari penggunaan alat kecantikan yang tidak steril?",
+    "opsi": [
+      "Pelanggan makin cantik",
+      "Alat menjadi lebih awet",
+      "Tidak ada risiko",
+      "Warna alat berubah jadi emas",
+      "Penularan penyakit kulit atau infeksi bakteri/virus"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kebersihan adalah harga mati dalam layanan kecantikan."
+  },
+  {
+    "id": "PAR_KE_21",
+    "pertanyaan": "Analisis kulit wajah sebelum facial dilakukan bertujuan untuk...",
+    "opsi": [
+      "Menentukan jenis kulit dan jenis kosmetik yang tepat digunakan",
+      "Melihat kekayaan pelanggan",
+      "Menghitung waktu pengerjaan",
+      "Mencari kesalahan pelanggan",
+      "Mengambil foto profil"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Salah produk bisa menyebabkan iritasi atau breakout pada kulit."
+  },
+  {
+    "id": "PAR_KE_22",
+    "pertanyaan": "Sensasi kulit terasa kaku, kasar, dan mudah mengelupas menunjukkan jenis kulit...",
+    "opsi": [
+      "Berminyak",
+      "Kering",
+      "Normal",
+      "Kombinasi",
+      "Cerah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kulit kering kekurangan pelembap alami (sebum)."
+  },
+  {
+    "id": "PAR_KE_23",
+    "pertanyaan": "Bahan aromaterapi yang sering digunakan untuk menenangkan pikiran adalah aroma...",
+    "opsi": [
+      "Lemon",
+      "Peppermint",
+      "Lavender",
+      "Cabai",
+      "Bawang Putih"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Lavender memiliki sifat relaksan yang kuat."
+  },
+  {
+    "id": "PAR_KE_24",
+    "pertanyaan": "Manikur (Manicure) adalah perawatan kecantikan yang fokus pada...",
+    "opsi": [
+      "Kaki dan kuku kaki",
+      "Wajah saja",
+      "Punggung",
+      "Tangan dan kuku tangan",
+      "Rambut saja"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Manicure menjaga keindahan dan kebersihan tangan."
+  },
+  {
+    "id": "PAR_KE_25",
+    "pertanyaan": "Pedikur (Pedicure) adalah perawatan kecantikan yang fokus pada...",
+    "opsi": [
+      "Rambut",
+      "Wajah",
+      "Tangan",
+      "Bibir",
+      "Kaki dan kuku kaki"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pedicure membantu membersihkan sel kulit mati di telapak kaki."
+  },
+  {
+    "id": "PAR_KE_26",
+    "pertanyaan": "Alat pemotong kuku dalam istilah profesional disebut...",
+    "opsi": [
+      "Nail Nipper / Clipper",
+      "Orange Wood Stick",
+      "Nail Buffer",
+      "Pumice Stone",
+      "Emery Board"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Masing-masing alat memiliki fungsi spesifik dalam perawatan kuku."
+  },
+  {
+    "id": "PAR_KE_27",
+    "pertanyaan": "Kotoran hitam pada pori-pori wajah yang disebut Komedo Terbuka dikenal dengan istilah...",
+    "opsi": [
+      "Whitehead",
+      "Blackhead",
+      "Pustule",
+      "Papule",
+      "Nodule"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Warna hitam terjadi karena oksidasi lemak dengan udara."
+  },
+  {
+    "id": "PAR_KE_28",
+    "pertanyaan": "Apa fungsi dari 'Mascara'?",
+    "opsi": [
+      "Mewarnai pipi",
+      "Melembapkan bibir",
+      "Menebalkan, melentikkan, dan mempergelap bulu mata",
+      "Menghilangkan kerutan",
+      "Menyaring sinar matahari"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Aplikasi mascara membuat sorot mata lebih tajam."
+  },
+  {
+    "id": "PAR_KE_29",
+    "pertanyaan": "Kosmetik untuk bibir yang memberikan hasil akhir mengkilap (shiny) disebut...",
+    "opsi": [
+      "Matte Lipstick",
+      "Lip Liner",
+      "Lip Balm",
+      "Lip Gloss",
+      "Lip Tint"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lip gloss mengandung banyak minyak untuk efek pantulan cahaya."
+  },
+  {
+    "id": "PAR_KE_30",
+    "pertanyaan": "Proses menghancurkan kuman penyakit beserta spora-sporanya secara total disebut...",
+    "opsi": [
+      "Sanitasi",
+      "Eksfoliasi",
+      "Neutralisasi",
+      "Stabilisasi",
+      "Sterilisasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sterilisasi biasanya menggunakan alat uap panas bertekanan (Autoclave)."
+  },
+  {
+    "id": "PAR_KE_31",
+    "pertanyaan": "Keringat keluar dari kulit melalui lubang kecil yang disebut...",
+    "opsi": [
+      "Pori-pori",
+      "Bulbus",
+      "Medula",
+      "Korteks",
+      "Vena"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pori-pori juga berfungsi sebagai tempat keluarnya minyak (sebum)."
+  },
+  {
+    "id": "PAR_KE_32",
+    "pertanyaan": "Kekurangan vitamin E bagi kulit dapat mengakibatkan...",
+    "opsi": [
+      "Kulit terlalu berminyak",
+      "Kulit menjadi kering dan kusam",
+      "Kulit membiru",
+      "Kulit berkilau",
+      "Kulit kebal api"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Vitamin E adalah antioksidan penting untuk kekenyalan kulit."
+  },
+  {
+    "id": "PAR_KE_33",
+    "pertanyaan": "Bahan alami yang sering digunakan sebagai masker dingin bagi kulit terbakar sinar matahari adalah...",
+    "opsi": [
+      "Cabai",
+      "Jahe",
+      "Mentimun / Lidah Buaya",
+      "Merica",
+      "Biji kopi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Lidah buaya memiliki sifat menenangkan (soothing)."
+  },
+  {
+    "id": "PAR_KE_34",
+    "pertanyaan": "Alat pengaduk untuk mencampur cat rambut di dalam mangkuk disebut...",
+    "opsi": [
+      "Whisk",
+      "Sendok",
+      "Lidi",
+      "Spatula / Kuas Cat",
+      "Sisir"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kuas cat memudahkan perataan warna pada helai rambut."
+  },
+  {
+    "id": "PAR_KE_35",
+    "pertanyaan": "Untuk membuat wajah bulat tampak lebih tirus, shading (warna gelap) diletakkan di...",
+    "opsi": [
+      "Ujung hidung",
+      "Tengah dahi",
+      "Dagu saja",
+      "Atas alis",
+      "Sisi luar tulang pipi dan rahang"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kontur membantu mendefinisikan struktur wajah."
+  },
+  {
+    "id": "PAR_KE_36",
+    "pertanyaan": "Highlighter (warna terang/shining) biasanya diletakkan pada bagian wajah...",
+    "opsi": [
+      "Tonjolan tulang pipi dan tulang hidung",
+      "Kelopak mata bawah",
+      "Leher bawah",
+      "Seluruh dagu",
+      "Lubang telinga"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Highlighter menonjolkan fitur wajah agar tampak lebih 'maju' atau bercahaya."
+  },
+  {
+    "id": "PAR_KE_37",
+    "pertanyaan": "Apa sapaan yang tepat bagi pelanggan salon kecantikan?",
+    "opsi": [
+      "Woi!",
+      "Selamat pagi/siang, dengan [Nama Beautician], ada yang bisa dibantu?",
+      "Halo bos!",
+      "Pilih saja mau yang mana",
+      "Diam saja sampai ditanya"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Standard hospitality sangat dijunjung tinggi di salon profesional."
+  },
+  {
+    "id": "PAR_KE_38",
+    "pertanyaan": "Pelanggan dengan tekanan darah sangat tinggi sebaiknya tidak diberikan massage spa yang bersifat...",
+    "opsi": [
+      "Ringan",
+      "Aromaterapi",
+      "Kuat dan lama (Deep Tissue)",
+      "Masker wajah",
+      "Lulur lembut"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Massage kuat dapat memacu denyut jantung dan sirkulasi darah secara berlebihan bagi penderita hipertensi."
+  },
+  {
+    "id": "PAR_KE_39",
+    "pertanyaan": "Alat penguap wajah elektrik dalam facial disebut...",
+    "opsi": [
+      "Hair Dryer",
+      "Iron",
+      "Vacuum",
+      "Face Steamer / Vapozone",
+      "Clipper"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Uap hangat membuka pori-pori dan memudahkan ekstraksi komedo."
+  },
+  {
+    "id": "PAR_KE_40",
+    "pertanyaan": "Kain penutup badan pelanggan selama perawatan spa disebut...",
+    "opsi": [
+      "Handuk kecil",
+      "Tenda",
+      "Jaket",
+      "Sprei kasur",
+      "Kemben / Kain Kimono"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Menjaga sopan santun dan kenyamanan pelanggan."
+  },
+  {
+    "id": "PAR_KE_41",
+    "pertanyaan": "Produk pemutih gigi (Bleaching) harus dilakukan dengan hati-hati karena dapat menyebabkan...",
+    "opsi": [
+      "Sensitivitas gigi (ngilu) atau kerusakan email",
+      "Gigi makin kuat",
+      "Gigi rontok semua",
+      "Gigi tumbuh lagi",
+      "Gigi berwarna pelangi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bahan kimia keras dapat menipiskan lapisan pelindung gigi."
+  },
+  {
+    "id": "PAR_KE_42",
+    "pertanyaan": "Apa itu 'Skin Patch Test' sebelum pewarnaan rambut?",
+    "opsi": [
+      "Tes ketahanan lari",
+      "Tes alergi dengan mengoleskan sedikit cat pada kulit di belakang telinga",
+      "Tes harga barang",
+      "Tes warna baju",
+      "Tes IQ"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mencegah reaksi alergi parah pada kulit kepala."
+  },
+  {
+    "id": "PAR_KE_43",
+    "pertanyaan": "Kuku yang sehat memiliki ciri-ciri...",
+    "opsi": [
+      "Warna hitam lebam",
+      "Penuh bintik putih",
+      "Kemerahan, mengkilap, halus, dan tidak rapuh",
+      "Berwarna kuning kusam",
+      "Terasa sangat perih"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kuku adalah cerminan kesehatan organ dalam dan nutrisi tubuh."
+  },
+  {
+    "id": "PAR_KE_44",
+    "pertanyaan": "Penyakit kuku yang disebabkan oleh jamur disebut...",
+    "opsi": [
+      "Influenza",
+      "Diabetes",
+      "Maag",
+      "Onychomycosis",
+      "Tipus"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kuku jamuran biasanya berwarna kuning menebal dan rapuh."
+  },
+  {
+    "id": "PAR_KE_45",
+    "pertanyaan": "Kosmetik riasan mata yang diletakkan pada garis bulu mata atas untuk memberi kesan mata tajam disebut...",
+    "opsi": [
+      "Mascara",
+      "Eyeshadow",
+      "Blush",
+      "Toner",
+      "Eyeliner"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Eyeliner bisa berbentuk pensil, gel, atau cair."
+  },
+  {
+    "id": "PAR_KE_46",
+    "pertanyaan": "Tahap akhir dari proses facial adalah pemberian...",
+    "opsi": [
+      "Pelembap (Moisturizer) dan Tabir Surya (Sunscreen)",
+      "Cairan cuka",
+      "Bedak tebal",
+      "Minyak panas",
+      "Garam"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Melindungi kulit yang baru saja dibersihkan dari sinar UV dan kekeringan."
+  },
+  {
+    "id": "PAR_KE_47",
+    "pertanyaan": "Pengeritingan rambut secara kimiawi disebut...",
+    "opsi": [
+      "Rebonding",
+      "Perning (Permanent Wave)",
+      "Smoothing",
+      "Coloring",
+      "Blow Dry"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mengubah struktur rambut dari lurus menjadi keral secara permanen."
+  },
+  {
+    "id": "PAR_KE_48",
+    "pertanyaan": "Peralatan kuku 'Pumice Stone' digunakan untuk...",
+    "opsi": [
+      "Memotong kuku",
+      "Mewarnai kuku",
+      "Menggosok tumit kaki yang kasar (kapalan)",
+      "Menyisir rambut",
+      "Membersihkan telinga"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Batu apung efektif mengangkat sel kulit mati yang keras."
+  },
+  {
+    "id": "PAR_KE_49",
+    "pertanyaan": "Efek 'Matte' pada kosmetik bibir artinya...",
+    "opsi": [
+      "Sangat berkilau",
+      "Bisa berubah warna",
+      "Terasa lengket",
+      "Tanpa kilau (kusam/datar) dan biasanya lebih tahan lama",
+      "Rasa buah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lipstick matte populer karena tidak mudah transfer ke gelas atau masker."
+  },
+  {
+    "id": "PAR_KE_50",
+    "pertanyaan": "Bagian terpenting dari K3 di salon adalah...",
+    "opsi": [
+      "Alat yang mahal",
+      "Lampu yang warna-warni",
+      "Salon yang luas",
+      "Banyaknya pengunjung",
+      "Kebersihan tangan terapis dan sterilitas alat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Menjamin kesehatan terapis dan keselamatan pelanggan adalah prioritas bisnis."
+  }
+]

@@ -1,0 +1,308 @@
+{
+  "id": "fr-pu-24",
+  "tahun": 2024,
+  "mapel": "Penalaran Umum",
+  "deskripsi": "Rekonstruksi FR Penalaran Umum berbasis pola subtes dan rangkuman testimoni peserta.",
+  "soal": [
+    {
+      "id": "fpu24-01",
+      "hari_ujian": 1,
+      "teks": "Semua peserta yang mengikuti program wajib membawa artikel. Sebagian peserta program ternyata membawa artikel berlabel khusus. Simpulan yang pasti benar adalah?",
+      "opsi": {
+        "A": "Sebagian artikel dimiliki oleh peserta yang mengikuti program.",
+        "B": "Tidak dapat disimpulkan hubungan antara artikel dan peserta yang mengikuti program.",
+        "C": "Tidak ada peserta yang mengikuti program memiliki artikel.",
+        "D": "Semua artikel dimiliki oleh peserta yang mengikuti program.",
+        "E": "Semua peserta yang mengikuti program memiliki artikel."
+      },
+      "kunci": "A",
+      "pembahasan": "Karena semua peserta yang mengikuti program wajib membawa artikel, maka ketika diketahui sebagian peserta program membawa artikel berlabel khusus, paling aman disimpulkan bahwa sebagian artikel itu terkait peserta program. Opsi lain terlalu kuat atau bertentangan dengan premis.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-02",
+      "hari_ujian": 2,
+      "teks": "Eka, Bima, Citra, Alya harus presentasi satu per satu. Eka tampil sebelum Bima. Citra tampil setelah Alya. Bima tidak berdampingan dengan Alya. Urutan yang mungkin adalah?",
+      "opsi": {
+        "A": "Alya - Bima - Citra - Eka",
+        "B": "Alya - Citra - Eka - Bima",
+        "C": "Eka - Alya - Bima - Citra",
+        "D": "Citra - Alya - Bima - Eka",
+        "E": "Bima - Citra - Eka - Alya"
+      },
+      "kunci": "B",
+      "pembahasan": "Periksa tiap opsi terhadap tiga syarat: posisi Eka sebelum Bima, posisi Citra sesudah Alya, dan Bima tidak berdampingan dengan Alya. Hanya urutan Alya - Citra - Eka - Bima yang memenuhi semuanya.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-03",
+      "hari_ujian": 3,
+      "teks": "Sebuah program ketahanan pangan mencatat capaian awal 140 satuan. Setelah intervensi pertama naik 22 satuan, tetapi pada evaluasi lanjutan turun 10 satuan. Kelompok pembanding berakhir pada 120 satuan. Simpulan yang paling tepat adalah?",
+      "opsi": {
+        "A": "Tidak ada perubahan pada topik ketahanan pangan karena kenaikan dan penurunan saling meniadakan.",
+        "B": "Kelompok B pasti lebih efektif daripada program pada topik ketahanan pangan.",
+        "C": "Program pada topik ketahanan pangan tetap menunjukkan peningkatan bersih sebesar 12 satuan.",
+        "D": "Program pada topik ketahanan pangan hanya meningkat jika dibandingkan dengan kelompok B.",
+        "E": "Program pada topik ketahanan pangan mengalami penurunan bersih sebesar 10 satuan."
+      },
+      "kunci": "C",
+      "pembahasan": "Capaian akhir program adalah 140 + 22 - 10 = 152. Jadi ada peningkatan bersih 12 satuan. Data kelompok pembanding tidak mengubah fakta peningkatan bersih program utama.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-04",
+      "hari_ujian": 4,
+      "teks": "Dalam diskusi tentang ketahanan pangan, seorang penulis menyatakan bahwa kebijakan A harus diterapkan karena dua data pendukung menunjukkan tren yang sama. Evaluasi yang paling tepat terhadap kualitas simpulan tersebut adalah?",
+      "opsi": {
+        "A": "Argumen dianggap kuat bila memuat istilah teknis sebanyak mungkin.",
+        "B": "Penulis boleh menambahkan asumsi baru asalkan tampak masuk akal.",
+        "C": "Kesimpulan penulis pasti benar selama sesuai dengan opini mayoritas.",
+        "D": "Kesimpulan penulis sah jika hanya didasarkan pada premis yang eksplisit di dalam argumen.",
+        "E": "Kesimpulan cukup dianggap benar jika tidak ada sanggahan langsung."
+      },
+      "kunci": "D",
+      "pembahasan": "Pada penalaran umum, kekuatan simpulan ditentukan oleh apakah simpulan ditopang premis yang tersedia. Opsi benar menekankan bahwa simpulan sah hanya jika berasal dari premis eksplisit, bukan dari asumsi tambahan atau popularitas pendapat.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-05",
+      "hari_ujian": 5,
+      "teks": "Semua petugas yang mengikuti kelas wajib membawa artikel. Sebagian peserta kelas ternyata membawa artikel berlabel khusus. Simpulan yang pasti benar adalah?",
+      "opsi": {
+        "A": "Semua petugas yang mengikuti kelas memiliki artikel.",
+        "B": "Semua artikel dimiliki oleh petugas yang mengikuti kelas.",
+        "C": "Tidak dapat disimpulkan hubungan antara artikel dan petugas yang mengikuti kelas.",
+        "D": "Tidak ada petugas yang mengikuti kelas memiliki artikel.",
+        "E": "Sebagian artikel dimiliki oleh petugas yang mengikuti kelas."
+      },
+      "kunci": "E",
+      "pembahasan": "Karena semua petugas yang mengikuti kelas wajib membawa artikel, maka ketika diketahui sebagian peserta kelas membawa artikel berlabel khusus, paling aman disimpulkan bahwa sebagian artikel itu terkait peserta kelas. Opsi lain terlalu kuat atau bertentangan dengan premis.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-06",
+      "hari_ujian": 1,
+      "teks": "Bima, Citra, Alya, Farhan harus presentasi satu per satu. Bima tampil sebelum Citra. Alya tampil setelah Farhan. Citra tidak berdampingan dengan Farhan. Urutan yang mungkin adalah?",
+      "opsi": {
+        "A": "Farhan - Bima - Citra - Alya",
+        "B": "Bima - Citra - Alya - Farhan",
+        "C": "Bima - Citra - Farhan - Alya",
+        "D": "Citra - Farhan - Bima - Alya",
+        "E": "Farhan - Citra - Bima - Alya"
+      },
+      "kunci": "A",
+      "pembahasan": "Periksa tiap opsi terhadap tiga syarat: posisi Bima sebelum Citra, posisi Alya sesudah Farhan, dan Citra tidak berdampingan dengan Farhan. Hanya urutan Farhan - Bima - Citra - Alya yang memenuhi semuanya.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-07",
+      "hari_ujian": 2,
+      "teks": "Sebuah program energi terbarukan mencatat capaian awal 175 satuan. Setelah intervensi pertama naik 36 satuan, tetapi pada evaluasi lanjutan turun 6 satuan. Kelompok pembanding berakhir pada 190 satuan. Simpulan yang paling tepat adalah?",
+      "opsi": {
+        "A": "Kelompok B pasti lebih efektif daripada program pada topik energi terbarukan.",
+        "B": "Program pada topik energi terbarukan tetap menunjukkan peningkatan bersih sebesar 30 satuan.",
+        "C": "Program pada topik energi terbarukan mengalami penurunan bersih sebesar 6 satuan.",
+        "D": "Tidak ada perubahan pada topik energi terbarukan karena kenaikan dan penurunan saling meniadakan.",
+        "E": "Program pada topik energi terbarukan hanya meningkat jika dibandingkan dengan kelompok B."
+      },
+      "kunci": "B",
+      "pembahasan": "Capaian akhir program adalah 175 + 36 - 6 = 205. Jadi ada peningkatan bersih 30 satuan. Data kelompok pembanding tidak mengubah fakta peningkatan bersih program utama.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-08",
+      "hari_ujian": 3,
+      "teks": "Dalam diskusi tentang literasi digital, koordinator program menyatakan bahwa kebijakan A harus diterapkan karena tiga indikator memperlihatkan kenaikan bertahap. Evaluasi yang paling tepat terhadap kualitas simpulan tersebut adalah?",
+      "opsi": {
+        "A": "Penulis boleh menambahkan asumsi baru asalkan tampak masuk akal.",
+        "B": "Kesimpulan cukup dianggap benar jika tidak ada sanggahan langsung.",
+        "C": "Kesimpulan penulis sah jika hanya didasarkan pada premis yang eksplisit di dalam argumen.",
+        "D": "Argumen dianggap kuat bila memuat istilah teknis sebanyak mungkin.",
+        "E": "Kesimpulan penulis pasti benar selama sesuai dengan opini mayoritas."
+      },
+      "kunci": "C",
+      "pembahasan": "Pada penalaran umum, kekuatan simpulan ditentukan oleh apakah simpulan ditopang premis yang tersedia. Opsi benar menekankan bahwa simpulan sah hanya jika berasal dari premis eksplisit, bukan dari asumsi tambahan atau popularitas pendapat.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-09",
+      "hari_ujian": 4,
+      "teks": "Semua relawan yang mengikuti komunitas wajib membawa laporan. Sebagian peserta komunitas ternyata membawa laporan berlabel khusus. Simpulan yang pasti benar adalah?",
+      "opsi": {
+        "A": "Tidak dapat disimpulkan hubungan antara laporan dan relawan yang mengikuti komunitas.",
+        "B": "Semua laporan dimiliki oleh relawan yang mengikuti komunitas.",
+        "C": "Tidak ada relawan yang mengikuti komunitas memiliki laporan.",
+        "D": "Sebagian laporan dimiliki oleh relawan yang mengikuti komunitas.",
+        "E": "Semua relawan yang mengikuti komunitas memiliki laporan."
+      },
+      "kunci": "D",
+      "pembahasan": "Karena semua relawan yang mengikuti komunitas wajib membawa laporan, maka ketika diketahui sebagian peserta komunitas membawa laporan berlabel khusus, paling aman disimpulkan bahwa sebagian laporan itu terkait peserta komunitas. Opsi lain terlalu kuat atau bertentangan dengan premis.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-10",
+      "hari_ujian": 5,
+      "teks": "Citra, Eka, Damar, Bima harus presentasi satu per satu. Citra tampil sebelum Eka. Damar tampil setelah Bima. Eka tidak berdampingan dengan Bima. Urutan yang mungkin adalah?",
+      "opsi": {
+        "A": "Citra - Bima - Eka - Damar",
+        "B": "Bima - Eka - Citra - Damar",
+        "C": "Damar - Bima - Eka - Citra",
+        "D": "Eka - Bima - Citra - Damar",
+        "E": "Bima - Citra - Damar - Eka"
+      },
+      "kunci": "E",
+      "pembahasan": "Periksa tiap opsi terhadap tiga syarat: posisi Citra sebelum Eka, posisi Damar sesudah Bima, dan Eka tidak berdampingan dengan Bima. Hanya urutan Bima - Citra - Damar - Eka yang memenuhi semuanya.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-11",
+      "hari_ujian": 1,
+      "teks": "Sebuah program kesehatan sekolah mencatat capaian awal 130 satuan. Setelah intervensi pertama naik 51 satuan, tetapi pada evaluasi lanjutan turun 8 satuan. Kelompok pembanding berakhir pada 133 satuan. Simpulan yang paling tepat adalah?",
+      "opsi": {
+        "A": "Program pada topik kesehatan sekolah tetap menunjukkan peningkatan bersih sebesar 43 satuan.",
+        "B": "Program pada topik kesehatan sekolah mengalami penurunan bersih sebesar 8 satuan.",
+        "C": "Program pada topik kesehatan sekolah hanya meningkat jika dibandingkan dengan kelompok B.",
+        "D": "Kelompok B pasti lebih efektif daripada program pada topik kesehatan sekolah.",
+        "E": "Tidak ada perubahan pada topik kesehatan sekolah karena kenaikan dan penurunan saling meniadakan."
+      },
+      "kunci": "A",
+      "pembahasan": "Capaian akhir program adalah 130 + 51 - 8 = 173. Jadi ada peningkatan bersih 43 satuan. Data kelompok pembanding tidak mengubah fakta peningkatan bersih program utama.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-12",
+      "hari_ujian": 2,
+      "teks": "Dalam diskusi tentang pengelolaan sampah, pengamat lapangan menyatakan bahwa kebijakan A harus diterapkan karena hasil survei dan observasi lapangan saling menguatkan. Evaluasi yang paling tepat terhadap kualitas simpulan tersebut adalah?",
+      "opsi": {
+        "A": "Kesimpulan penulis pasti benar selama sesuai dengan opini mayoritas.",
+        "B": "Kesimpulan penulis sah jika hanya didasarkan pada premis yang eksplisit di dalam argumen.",
+        "C": "Argumen dianggap kuat bila memuat istilah teknis sebanyak mungkin.",
+        "D": "Kesimpulan cukup dianggap benar jika tidak ada sanggahan langsung.",
+        "E": "Penulis boleh menambahkan asumsi baru asalkan tampak masuk akal."
+      },
+      "kunci": "B",
+      "pembahasan": "Pada penalaran umum, kekuatan simpulan ditentukan oleh apakah simpulan ditopang premis yang tersedia. Opsi benar menekankan bahwa simpulan sah hanya jika berasal dari premis eksplisit, bukan dari asumsi tambahan atau popularitas pendapat.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-13",
+      "hari_ujian": 3,
+      "teks": "Semua relawan yang mengikuti program wajib membawa modul. Sebagian peserta program ternyata membawa modul berlabel khusus. Simpulan yang pasti benar adalah?",
+      "opsi": {
+        "A": "Semua relawan yang mengikuti program memiliki modul.",
+        "B": "Semua modul dimiliki oleh relawan yang mengikuti program.",
+        "C": "Sebagian modul dimiliki oleh relawan yang mengikuti program.",
+        "D": "Tidak ada relawan yang mengikuti program memiliki modul.",
+        "E": "Tidak dapat disimpulkan hubungan antara modul dan relawan yang mengikuti program."
+      },
+      "kunci": "C",
+      "pembahasan": "Karena semua relawan yang mengikuti program wajib membawa modul, maka ketika diketahui sebagian peserta program membawa modul berlabel khusus, paling aman disimpulkan bahwa sebagian modul itu terkait peserta program. Opsi lain terlalu kuat atau bertentangan dengan premis.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-14",
+      "hari_ujian": 4,
+      "teks": "Bima, Citra, Farhan, Alya harus presentasi satu per satu. Bima tampil sebelum Citra. Farhan tampil setelah Alya. Citra tidak berdampingan dengan Alya. Urutan yang mungkin adalah?",
+      "opsi": {
+        "A": "Citra - Farhan - Bima - Alya",
+        "B": "Citra - Alya - Farhan - Bima",
+        "C": "Bima - Farhan - Citra - Alya",
+        "D": "Alya - Farhan - Bima - Citra",
+        "E": "Citra - Bima - Alya - Farhan"
+      },
+      "kunci": "D",
+      "pembahasan": "Periksa tiap opsi terhadap tiga syarat: posisi Bima sebelum Citra, posisi Farhan sesudah Alya, dan Citra tidak berdampingan dengan Alya. Hanya urutan Alya - Farhan - Bima - Citra yang memenuhi semuanya.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-15",
+      "hari_ujian": 5,
+      "teks": "Sebuah program kesehatan sekolah mencatat capaian awal 217 satuan. Setelah intervensi pertama naik 50 satuan, tetapi pada evaluasi lanjutan turun 12 satuan. Kelompok pembanding berakhir pada 197 satuan. Simpulan yang paling tepat adalah?",
+      "opsi": {
+        "A": "Program pada topik kesehatan sekolah mengalami penurunan bersih sebesar 12 satuan.",
+        "B": "Kelompok B pasti lebih efektif daripada program pada topik kesehatan sekolah.",
+        "C": "Tidak ada perubahan pada topik kesehatan sekolah karena kenaikan dan penurunan saling meniadakan.",
+        "D": "Program pada topik kesehatan sekolah hanya meningkat jika dibandingkan dengan kelompok B.",
+        "E": "Program pada topik kesehatan sekolah tetap menunjukkan peningkatan bersih sebesar 38 satuan."
+      },
+      "kunci": "E",
+      "pembahasan": "Capaian akhir program adalah 217 + 50 - 12 = 255. Jadi ada peningkatan bersih 38 satuan. Data kelompok pembanding tidak mengubah fakta peningkatan bersih program utama.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-16",
+      "hari_ujian": 1,
+      "teks": "Dalam diskusi tentang ruang hijau kota, narator editorial menyatakan bahwa kebijakan A harus diterapkan karena laporan bulanan menunjukkan pola yang konsisten. Evaluasi yang paling tepat terhadap kualitas simpulan tersebut adalah?",
+      "opsi": {
+        "A": "Kesimpulan penulis sah jika hanya didasarkan pada premis yang eksplisit di dalam argumen.",
+        "B": "Kesimpulan cukup dianggap benar jika tidak ada sanggahan langsung.",
+        "C": "Argumen dianggap kuat bila memuat istilah teknis sebanyak mungkin.",
+        "D": "Penulis boleh menambahkan asumsi baru asalkan tampak masuk akal.",
+        "E": "Kesimpulan penulis pasti benar selama sesuai dengan opini mayoritas."
+      },
+      "kunci": "A",
+      "pembahasan": "Pada penalaran umum, kekuatan simpulan ditentukan oleh apakah simpulan ditopang premis yang tersedia. Opsi benar menekankan bahwa simpulan sah hanya jika berasal dari premis eksplisit, bukan dari asumsi tambahan atau popularitas pendapat.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-17",
+      "hari_ujian": 2,
+      "teks": "Semua mahasiswa yang mengikuti kegiatan wajib membawa modul. Sebagian peserta kegiatan ternyata membawa modul berlabel khusus. Simpulan yang pasti benar adalah?",
+      "opsi": {
+        "A": "Tidak ada mahasiswa yang mengikuti kegiatan memiliki modul.",
+        "B": "Sebagian modul dimiliki oleh mahasiswa yang mengikuti kegiatan.",
+        "C": "Tidak dapat disimpulkan hubungan antara modul dan mahasiswa yang mengikuti kegiatan.",
+        "D": "Semua modul dimiliki oleh mahasiswa yang mengikuti kegiatan.",
+        "E": "Semua mahasiswa yang mengikuti kegiatan memiliki modul."
+      },
+      "kunci": "B",
+      "pembahasan": "Karena semua mahasiswa yang mengikuti kegiatan wajib membawa modul, maka ketika diketahui sebagian peserta kegiatan membawa modul berlabel khusus, paling aman disimpulkan bahwa sebagian modul itu terkait peserta kegiatan. Opsi lain terlalu kuat atau bertentangan dengan premis.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-18",
+      "hari_ujian": 3,
+      "teks": "Eka, Citra, Damar, Bima harus presentasi satu per satu. Eka tampil sebelum Citra. Damar tampil setelah Bima. Citra tidak berdampingan dengan Bima. Urutan yang mungkin adalah?",
+      "opsi": {
+        "A": "Citra - Damar - Eka - Bima",
+        "B": "Citra - Bima - Damar - Eka",
+        "C": "Bima - Eka - Damar - Citra",
+        "D": "Eka - Damar - Citra - Bima",
+        "E": "Citra - Bima - Eka - Damar"
+      },
+      "kunci": "C",
+      "pembahasan": "Periksa tiap opsi terhadap tiga syarat: posisi Eka sebelum Citra, posisi Damar sesudah Bima, dan Citra tidak berdampingan dengan Bima. Hanya urutan Bima - Eka - Damar - Citra yang memenuhi semuanya.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-19",
+      "hari_ujian": 4,
+      "teks": "Sebuah program pemanfaatan AI mencatat capaian awal 182 satuan. Setelah intervensi pertama naik 25 satuan, tetapi pada evaluasi lanjutan turun 15 satuan. Kelompok pembanding berakhir pada 206 satuan. Simpulan yang paling tepat adalah?",
+      "opsi": {
+        "A": "Kelompok B pasti lebih efektif daripada program pada topik pemanfaatan AI.",
+        "B": "Program pada topik pemanfaatan AI mengalami penurunan bersih sebesar 15 satuan.",
+        "C": "Tidak ada perubahan pada topik pemanfaatan AI karena kenaikan dan penurunan saling meniadakan.",
+        "D": "Program pada topik pemanfaatan AI tetap menunjukkan peningkatan bersih sebesar 10 satuan.",
+        "E": "Program pada topik pemanfaatan AI hanya meningkat jika dibandingkan dengan kelompok B."
+      },
+      "kunci": "D",
+      "pembahasan": "Capaian akhir program adalah 182 + 25 - 15 = 192. Jadi ada peningkatan bersih 10 satuan. Data kelompok pembanding tidak mengubah fakta peningkatan bersih program utama.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    },
+    {
+      "id": "fpu24-20",
+      "hari_ujian": 5,
+      "teks": "Dalam diskusi tentang perpustakaan sekolah, peneliti pendidikan menyatakan bahwa kebijakan A harus diterapkan karena grafik evaluasi memperlihatkan perubahan searah. Evaluasi yang paling tepat terhadap kualitas simpulan tersebut adalah?",
+      "opsi": {
+        "A": "Argumen dianggap kuat bila memuat istilah teknis sebanyak mungkin.",
+        "B": "Penulis boleh menambahkan asumsi baru asalkan tampak masuk akal.",
+        "C": "Kesimpulan cukup dianggap benar jika tidak ada sanggahan langsung.",
+        "D": "Kesimpulan penulis pasti benar selama sesuai dengan opini mayoritas.",
+        "E": "Kesimpulan penulis sah jika hanya didasarkan pada premis yang eksplisit di dalam argumen."
+      },
+      "kunci": "E",
+      "pembahasan": "Pada penalaran umum, kekuatan simpulan ditentukan oleh apakah simpulan ditopang premis yang tersedia. Opsi benar menekankan bahwa simpulan sah hanya jika berasal dari premis eksplisit, bukan dari asumsi tambahan atau popularitas pendapat.",
+      "sumber": "Rekonstruksi pola subtes dan testimoni peserta"
+    }
+  ]
+}

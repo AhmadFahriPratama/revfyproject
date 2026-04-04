@@ -1,0 +1,309 @@
+{
+  "id": "fr-tka25-smk",
+  "tahun": 2025,
+  "tingkat": "SMK",
+  "mapel": "Lintas Mapel TKA SMK",
+  "deskripsi": "Rekonstruksi FR TKA SMK 2025 lintas mapel berdasarkan pola soal dan ringkasan testimoni peserta.",
+  "soal": [
+    {
+      "id": "ftkasmk25-01",
+      "mapel": "Akuntansi Dasar",
+      "teks": "Dalam rekonstruksi TKA SMK 2025, peserta mendapat transaksi beban listrik yang masih harus dibayar pada akhir periode. Jurnal penyesuaian yang tepat adalah?",
+      "opsi": {
+        "A": "Beban listrik di debit, utang beban di kredit",
+        "B": "Kas di debit, beban listrik di kredit",
+        "C": "Utang usaha di debit, kas di kredit",
+        "D": "Pendapatan di debit, beban listrik di kredit",
+        "E": "Perlengkapan di debit, kas di kredit"
+      },
+      "kunci": "A",
+      "pembahasan": "Beban yang masih harus dibayar diakui dengan mendebit akun beban dan mengkredit akun utang beban. Ini sesuai prinsip akrual.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-02",
+      "mapel": "TKJ",
+      "teks": "Pada perangkat router, langkah awal paling tepat saat terdeteksi percobaan brute force berulang adalah?",
+      "opsi": {
+        "A": "Menghapus seluruh konfigurasi",
+        "B": "Membatasi akses login dan mengganti kredensial",
+        "C": "Mematikan jaringan permanen",
+        "D": "Mengabaikan log karena belum terjadi kerusakan",
+        "E": "Menghapus semua pengguna aktif"
+      },
+      "kunci": "B",
+      "pembahasan": "Mitigasi awal yang tepat adalah membatasi akses, mengganti password, dan meninjau sumber login. Tindakan ini lebih proporsional daripada menghapus seluruh konfigurasi.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-03",
+      "mapel": "Kuliner",
+      "teks": "Konsep zero waste dalam dapur industri paling tepat dipahami sebagai?",
+      "opsi": {
+        "A": "Menghabiskan semua stok tanpa perencanaan",
+        "B": "Membuang bahan sisa di akhir produksi",
+        "C": "Mengurangi limbah dengan pengolahan bahan yang efisien",
+        "D": "Membeli bahan sebanyak mungkin",
+        "E": "Mengganti semua bahan segar dengan instan"
+      },
+      "kunci": "C",
+      "pembahasan": "Zero waste menekankan efisiensi penggunaan bahan, pemanfaatan sisa yang masih layak, dan pengurangan limbah selama proses produksi.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-04",
+      "mapel": "Biologi",
+      "teks": "Pembengkakan kelenjar getah bening paling langsung berkaitan dengan sistem?",
+      "opsi": {
+        "A": "Saraf",
+        "B": "Pencernaan",
+        "C": "Ekskresi",
+        "D": "Limfatik",
+        "E": "Reproduksi"
+      },
+      "kunci": "D",
+      "pembahasan": "Kelenjar getah bening adalah bagian dari sistem limfatik yang berperan dalam pertahanan tubuh dan respons imun.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-05",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Dalam laporan hasil observasi, kalimat yang paling tepat adalah?",
+      "opsi": {
+        "A": "Objek tersebut sangat keren sekali dan menakjubkan.",
+        "B": "Menurut saya objek itu bagus untuk diteliti.",
+        "C": "Objek itu mungkin berubah karena faktor yang belum jelas sekali.",
+        "D": "Objek itu benar-benar unik banget.",
+        "E": "Objek diamati selama tiga hari untuk mencatat perubahan bentuknya."
+      },
+      "kunci": "E",
+      "pembahasan": "Laporan observasi menuntut kalimat objektif dan berbasis data pengamatan. Opsi B paling netral dan informatif.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-06",
+      "mapel": "Bahasa Inggris",
+      "teks": "In a complaint email, the sentence \"I would appreciate an immediate replacement\" shows that the writer wants?",
+      "opsi": {
+        "A": "The product to be replaced soon",
+        "B": "A discount for future purchase",
+        "C": "A public apology only",
+        "D": "A new product design",
+        "E": "To cancel the company service forever"
+      },
+      "kunci": "A",
+      "pembahasan": "The phrase clearly indicates that the writer expects a replacement as soon as possible.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-07",
+      "mapel": "Matematika",
+      "teks": "Sebuah usaha memiliki biaya tetap Rp400.000 dan laba per produk Rp20.000. Jumlah produk minimum agar impas adalah?",
+      "opsi": {
+        "A": "10",
+        "B": "20",
+        "C": "15",
+        "D": "25",
+        "E": "30"
+      },
+      "kunci": "B",
+      "pembahasan": "Titik impas dicapai saat 20.000 x jumlah produk = 400.000. Maka jumlah minimum produk adalah 20.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-08",
+      "mapel": "Perhotelan",
+      "teks": "Saat tamu mengeluh karena kamar belum siap, respons front office yang paling profesional adalah?",
+      "opsi": {
+        "A": "Menyuruh tamu menunggu tanpa penjelasan",
+        "B": "Menyalahkan bagian housekeeping",
+        "C": "Memberi penjelasan sopan dan menawarkan solusi sementara",
+        "D": "Meminta tamu datang lagi besok",
+        "E": "Mengabaikan keluhan selama tamu belum marah"
+      },
+      "kunci": "C",
+      "pembahasan": "Layanan profesional menuntut komunikasi sopan, penjelasan jelas, dan solusi sementara agar pengalaman tamu tetap terjaga.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-09",
+      "mapel": "Manajemen Perkantoran",
+      "teks": "Pengelompokan arsip berdasarkan pokok masalah termasuk sistem penyimpanan?",
+      "opsi": {
+        "A": "Abjad",
+        "B": "Wilayah",
+        "C": "Nomor",
+        "D": "Subjek",
+        "E": "Tanggal"
+      },
+      "kunci": "D",
+      "pembahasan": "Jika arsip dikelompokkan menurut isi atau topik masalahnya, sistem yang digunakan adalah sistem subjek.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-10",
+      "mapel": "Logistik",
+      "teks": "Metode FIFO dalam persediaan berarti?",
+      "opsi": {
+        "A": "Barang terakhir masuk keluar lebih dulu",
+        "B": "Barang rusak diprioritaskan dijual",
+        "C": "Semua barang disimpan tanpa urutan",
+        "D": "Persediaan tidak perlu dicatat",
+        "E": "Barang pertama masuk keluar lebih dulu"
+      },
+      "kunci": "E",
+      "pembahasan": "FIFO berarti First In First Out, sehingga barang yang lebih dulu masuk dikeluarkan lebih dulu.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-11",
+      "mapel": "Ekonomi",
+      "teks": "Jika harga barang naik terus-menerus dan daya beli masyarakat menurun, kondisi ini paling tepat disebut?",
+      "opsi": {
+        "A": "Inflasi",
+        "B": "Deflasi",
+        "C": "Devaluasi",
+        "D": "Monopoli",
+        "E": "Subsidi"
+      },
+      "kunci": "A",
+      "pembahasan": "Kenaikan harga umum secara terus-menerus yang diikuti penurunan daya beli disebut inflasi.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-12",
+      "mapel": "Geografi",
+      "teks": "Pemanfaatan SIG paling tepat untuk kegiatan?",
+      "opsi": {
+        "A": "Menghias peta secara manual",
+        "B": "Menganalisis persebaran lokasi secara spasial",
+        "C": "Menggantikan seluruh survei lapangan",
+        "D": "Membuat cerita perjalanan",
+        "E": "Menghapus data wilayah lama"
+      },
+      "kunci": "B",
+      "pembahasan": "SIG digunakan untuk mengolah dan menganalisis data berbasis lokasi agar pola persebaran suatu fenomena bisa dipahami.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-13",
+      "mapel": "Fisika",
+      "teks": "Jika tegangan listrik tetap dan hambatan diperbesar, arus listrik akan?",
+      "opsi": {
+        "A": "Bertambah",
+        "B": "Tetap",
+        "C": "Berkurang",
+        "D": "Menjadi nol selalu",
+        "E": "Berubah jadi tegangan"
+      },
+      "kunci": "C",
+      "pembahasan": "Menurut Hukum Ohm, I = V/R. Jika V tetap dan R membesar, arus listrik berkurang.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-14",
+      "mapel": "Kimia",
+      "teks": "Perkaratan pada besi termasuk contoh proses?",
+      "opsi": {
+        "A": "Netralisasi",
+        "B": "Reduksi",
+        "C": "Distilasi",
+        "D": "Oksidasi",
+        "E": "Sublimasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Perkaratan adalah oksidasi besi oleh oksigen dan air yang membentuk karat.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-15",
+      "mapel": "Sosiologi",
+      "teks": "Perpindahan status sosial seseorang dari kondisi ekonomi rendah menjadi pengusaha sukses merupakan contoh?",
+      "opsi": {
+        "A": "Mobilitas sosial horizontal",
+        "B": "Konflik sosial",
+        "C": "Integrasi sosial",
+        "D": "Disorganisasi keluarga",
+        "E": "Mobilitas sosial vertikal naik"
+      },
+      "kunci": "E",
+      "pembahasan": "Karena terjadi kenaikan status sosial, peristiwa itu termasuk mobilitas sosial vertikal naik.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-16",
+      "mapel": "Sejarah",
+      "teks": "Peristiwa Reformasi 1998 ditandai antara lain oleh?",
+      "opsi": {
+        "A": "Berakhirnya pemerintahan Orde Baru",
+        "B": "Pembubaran VOC",
+        "C": "Sumpah Pemuda",
+        "D": "Konferensi Asia Afrika",
+        "E": "Agresi Militer Belanda II"
+      },
+      "kunci": "A",
+      "pembahasan": "Reformasi 1998 berkaitan dengan berakhirnya Orde Baru dan perubahan besar dalam sistem politik Indonesia.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-17",
+      "mapel": "Seni Budaya",
+      "teks": "Dalam gambar perspektif satu titik hilang, garis-garis benda akan?",
+      "opsi": {
+        "A": "Selalu sejajar tanpa arah",
+        "B": "Bertemu pada satu titik hilang",
+        "C": "Berpotongan sembarang arah",
+        "D": "Hanya berbentuk lengkung",
+        "E": "Tidak memerlukan horizon"
+      },
+      "kunci": "B",
+      "pembahasan": "Ciri utama perspektif satu titik hilang adalah garis-garis menuju satu titik hilang pada garis horizon.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-18",
+      "mapel": "Busana",
+      "teks": "Tahap penting sebelum memotong kain dalam pembuatan busana adalah?",
+      "opsi": {
+        "A": "Langsung menjahit kain",
+        "B": "Mewarnai kain lebih dulu",
+        "C": "Membuat pola dan mengecek ukuran",
+        "D": "Menyetrika hasil jadi",
+        "E": "Menjual produk lebih dulu"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembuatan pola dan pengecekan ukuran penting agar potongan kain sesuai desain dan ukuran tubuh.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-19",
+      "mapel": "Bahasa Jepang",
+      "teks": "Ungkapan yang paling tepat untuk menyapa guru pada pagi hari dalam konteks formal adalah?",
+      "opsi": {
+        "A": "Sayonara",
+        "B": "Konbanwa",
+        "C": "Arigatou",
+        "D": "Ohayou gozaimasu",
+        "E": "Itadakimasu"
+      },
+      "kunci": "D",
+      "pembahasan": "\"Ohayou gozaimasu\" adalah sapaan formal pada pagi hari. Pilihan lain memiliki fungsi yang berbeda.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    },
+    {
+      "id": "ftkasmk25-20",
+      "mapel": "Bahasa Arab",
+      "teks": "Kata Arab yang paling tepat untuk makna \"madrasah\" dalam konteks tempat belajar adalah?",
+      "opsi": {
+        "A": "Baytun",
+        "B": "Maktabun",
+        "C": "Matjarun",
+        "D": "Mustasyfa",
+        "E": "Madrasatun"
+      },
+      "kunci": "E",
+      "pembahasan": "\"Madrasatun\" berarti sekolah atau tempat belajar. Pilihan lain berarti rumah, kantor, pasar, dan rumah sakit.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 dan testimoni peserta"
+    }
+  ]
+}

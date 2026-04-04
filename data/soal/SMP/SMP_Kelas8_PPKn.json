@@ -1,0 +1,708 @@
+{
+  "id": "smp-8-ppkn",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "PPKn",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-8-ppkn-01",
+      "teks": "Pancasila memiliki kedudukan sebagai pandangan hidup bangsa Indonesia. Kata lain dari pandangan hidup bangsa adalah... (Latihan #1)",
+      "opsi": {
+        "A": "Way of life",
+        "B": "Table of law",
+        "C": "Magna Charta",
+        "D": "Dasar Negara",
+        "E": "Konstitusi"
+      },
+      "kunci": "A",
+      "pembahasan": "Sebagai pandangan hidup, Pancasila dipakai sebagai petunjuk laku / pedoman (Way of life) keseharian warga negara.",
+      "trik": "Pandangan hidup bahasa inggrisnya way of life."
+    },
+    {
+      "id": "smp-8-ppkn-02",
+      "teks": "Fungsi utama Mahkamah Konstitusi dalam penanganan tata urutan perundangan di Indonesia adalah... (Latihan #2)",
+      "opsi": {
+        "A": "Membuat/menyusun UUD",
+        "B": "Menguji (Judicial Review) UU terhadap UUD 1945",
+        "C": "Melakukan fungsi grasi presiden",
+        "D": "Mengadili koruptor tingkat tinggi",
+        "E": "Memberikan sanksi denda tilang"
+      },
+      "kunci": "B",
+      "pembahasan": "MK berwenang menguji kesesuaian sebuah Undang-Undang dengan UUD 1945 agar tidak tumpang tindih secara hukum.",
+      "trik": "MK = Judicial Review UU."
+    },
+    {
+      "id": "smp-8-ppkn-03",
+      "teks": "Dalam hierarki tata urutan perundang-undangan di Indonesia yang diatur UU No 12 Tahun 2011, yang menduduki puncak tatanan tertinggi adalah... (Latihan #3)",
+      "opsi": {
+        "A": "Ketetapan MPR",
+        "B": "Peraturan Pemerintah Pengganti UU (Perpu)",
+        "C": "UUD Negara Republik Indonesia 1945",
+        "D": "Peraturan Presiden",
+        "E": "Undang-Undang (UU)"
+      },
+      "kunci": "C",
+      "pembahasan": "Segala peraturan produk hukum di bawahnya dilarang melanggar maupun bertentangan dengan hukum dasar UUD 1945.",
+      "trik": "Hukum Induk (Puncak) = UUD 1945."
+    },
+    {
+      "id": "smp-8-ppkn-04",
+      "teks": "Kebangkitan Nasional di Indonesia ditandai dengan terbentuknya organisasi Budi Utomo pada tahun... (Latihan #4)",
+      "opsi": {
+        "A": "1905",
+        "B": "1928",
+        "C": "1945",
+        "D": "1908",
+        "E": "1912"
+      },
+      "kunci": "D",
+      "pembahasan": "20 Mei 1908 lahir organisasi perintis modern kebangsaan Boedi Oetomo.",
+      "trik": "Kebangkitan ke arah modern = 1908."
+    },
+    {
+      "id": "smp-8-ppkn-05",
+      "teks": "Sumpah Pemuda dibacakan saat Kongres Pemuda II. Kongres tersebut merumuskan ikrar persatuan bertanggal... (Latihan #5)",
+      "opsi": {
+        "A": "17 Agustus 1945",
+        "B": "1 Juni 1945",
+        "C": "20 Mei 1908",
+        "D": "10 November 1945",
+        "E": "28 Oktober 1928"
+      },
+      "kunci": "E",
+      "pembahasan": "Semua pemuda mengakui dan mengucapkan Sumpah Pemuda pd tgl 28 Okt 1928 di Jakarta Batavia.",
+      "trik": "Sumpah Pemuda = 28 Okt 1928."
+    },
+    {
+      "id": "smp-8-ppkn-06",
+      "teks": "Lagu kebangsaan Indonesia Raya untuk pertama kalinya diperdengarkan secara instrumental gubahan W.R. Supratman pada peristiwa... (Latihan #6)",
+      "opsi": {
+        "A": "Kongres Pemuda II (Sumpah Pemuda)",
+        "B": "Proklamasi Kemerdekaan",
+        "C": "Kongres Pemuda I",
+        "D": "Sidang BPUPKI pertama",
+        "E": "Konferensi Meja Bundar"
+      },
+      "kunci": "A",
+      "pembahasan": "Indonesia Raya digesek menggunakan nada biola pada penutupan sesi Kongres Pemuda II sebelum mufakat Sumpah pemuda.",
+      "trik": "Indonesia Raya debut di Sumpah Pemuda II."
+    },
+    {
+      "id": "smp-8-ppkn-07",
+      "teks": "Berikut ini yang merupakan isi asli Sumpah Pemuda bait pertama adalah... (Latihan #7)",
+      "opsi": {
+        "A": "Kami putra dan putri Indonesia, mengaku bernegara satu, negara Indonesia.",
+        "B": "Kami putra dan putri Indonesia, mengaku bertumpah darah yang satu, tanah air Indonesia.",
+        "C": "Kami bangsa Indonesia dengan ini menyatakan...",
+        "D": "Kami mewajibkan setiap pemuda berbahasa Indonesia.",
+        "E": "Kami bersumpah setia pada Pancasila."
+      },
+      "kunci": "B",
+      "pembahasan": "Tiga ikrar : 1) Bertumpah darah 2) Berbangsa 3) Menjunjung bahasa persatuan. Pilihan A adalah bunyi alinea 1 sumpah tsb.",
+      "trik": "Cari yang berbunyi 'mengaku bertumpah darah yang satu'."
+    },
+    {
+      "id": "smp-8-ppkn-08",
+      "teks": "Wujud pengamalan Sumpah Pemuda dan nilai Nasionalisme di kalangan siswa sekolah masa kini antara lain... (Latihan #8)",
+      "opsi": {
+        "A": "Menggunakan bahasa gaul asing agar terlihat gaul keren di kelas",
+        "B": "Mempelajari bahasa daerah milik teman se-Nusantara dengan saling membully",
+        "C": "Rukun berteman lintas agama dan menggunakan Bahasa Indonesia baku yg baik di rapat kelas",
+        "D": "Ikut dalam tauran agar diakui kuat sbg pelindung teman sekolah",
+        "E": "Menyibukkan diri dalam game online global melupakan sejarah lokal"
+      },
+      "kunci": "C",
+      "pembahasan": "Amanat Sumpah Pemuda (Persatuan dan Bahasa Indo) diamalkan dengan cara rukun (tanpa memandang SARA) memakai bhs Indonesia pemersatu dgn posistif.",
+      "trik": "Cari aksi perbuatan yang berkonotasi paling terpuji persatuan."
+    },
+    {
+      "id": "smp-8-ppkn-09",
+      "teks": "Berdasarkan makna sila kedua Pancasila, tindakan yang dilarang karena merendahkan harkat dan martabat manusia adalah... (Latihan #9)",
+      "opsi": {
+        "A": "Demontrasi mahasiswa secara damai tanpa merusak",
+        "B": "Beribadah sesuai kepercayaannya di rumah",
+        "C": "Gotong royong membersihkan selokan",
+        "D": "Diskriminasi dan Perundungan / Bullying",
+        "E": "Musyawarah pembagian jam gotong royong"
+      },
+      "kunci": "D",
+      "pembahasan": "Sila kedua menegaskan Kemanusiaan yg adil & beradab. Diskriminasi dan perundungan fisik/mental sbg pelecehan merusak nilai tersebut.",
+      "trik": "Merendahkan martabat = Tindak diskriminasi / kekerasan fisik."
+    },
+    {
+      "id": "smp-8-ppkn-10",
+      "teks": "Lambang burung Garuda diperkenalkan sebagai Burung penegak hukum Indonesia, yang dikepalanya menghadap ke ... melambangkan kebaikan/kebenaran. (Latihan #10)",
+      "opsi": {
+        "A": "Bawah / tanah",
+        "B": "Kiri",
+        "C": "Atas Langit",
+        "D": "Kedepan tegak lurus",
+        "E": "Kanan"
+      },
+      "kunci": "E",
+      "pembahasan": "Dalam mitologi, posisi menghadap Kanan seringkali dilambangkan dengan kebajikan, sifat kebenaran/konserfatif baik.",
+      "trik": "Kanan = Langkah kanan / Kebajikan."
+    },
+    {
+      "id": "smp-8-ppkn-11",
+      "teks": "Pancasila memiliki kedudukan sebagai pandangan hidup bangsa Indonesia. Kata lain dari pandangan hidup bangsa adalah... (Latihan #11)",
+      "opsi": {
+        "A": "Way of life",
+        "B": "Table of law",
+        "C": "Magna Charta",
+        "D": "Dasar Negara",
+        "E": "Konstitusi"
+      },
+      "kunci": "A",
+      "pembahasan": "Sebagai pandangan hidup, Pancasila dipakai sebagai petunjuk laku / pedoman (Way of life) keseharian warga negara.",
+      "trik": "Pandangan hidup bahasa inggrisnya way of life."
+    },
+    {
+      "id": "smp-8-ppkn-12",
+      "teks": "Fungsi utama Mahkamah Konstitusi dalam penanganan tata urutan perundangan di Indonesia adalah... (Latihan #12)",
+      "opsi": {
+        "A": "Membuat/menyusun UUD",
+        "B": "Menguji (Judicial Review) UU terhadap UUD 1945",
+        "C": "Melakukan fungsi grasi presiden",
+        "D": "Mengadili koruptor tingkat tinggi",
+        "E": "Memberikan sanksi denda tilang"
+      },
+      "kunci": "B",
+      "pembahasan": "MK berwenang menguji kesesuaian sebuah Undang-Undang dengan UUD 1945 agar tidak tumpang tindih secara hukum.",
+      "trik": "MK = Judicial Review UU."
+    },
+    {
+      "id": "smp-8-ppkn-13",
+      "teks": "Dalam hierarki tata urutan perundang-undangan di Indonesia yang diatur UU No 12 Tahun 2011, yang menduduki puncak tatanan tertinggi adalah... (Latihan #13)",
+      "opsi": {
+        "A": "Ketetapan MPR",
+        "B": "Peraturan Pemerintah Pengganti UU (Perpu)",
+        "C": "UUD Negara Republik Indonesia 1945",
+        "D": "Peraturan Presiden",
+        "E": "Undang-Undang (UU)"
+      },
+      "kunci": "C",
+      "pembahasan": "Segala peraturan produk hukum di bawahnya dilarang melanggar maupun bertentangan dengan hukum dasar UUD 1945.",
+      "trik": "Hukum Induk (Puncak) = UUD 1945."
+    },
+    {
+      "id": "smp-8-ppkn-14",
+      "teks": "Kebangkitan Nasional di Indonesia ditandai dengan terbentuknya organisasi Budi Utomo pada tahun... (Latihan #14)",
+      "opsi": {
+        "A": "1905",
+        "B": "1928",
+        "C": "1945",
+        "D": "1908",
+        "E": "1912"
+      },
+      "kunci": "D",
+      "pembahasan": "20 Mei 1908 lahir organisasi perintis modern kebangsaan Boedi Oetomo.",
+      "trik": "Kebangkitan ke arah modern = 1908."
+    },
+    {
+      "id": "smp-8-ppkn-15",
+      "teks": "Sumpah Pemuda dibacakan saat Kongres Pemuda II. Kongres tersebut merumuskan ikrar persatuan bertanggal... (Latihan #15)",
+      "opsi": {
+        "A": "17 Agustus 1945",
+        "B": "1 Juni 1945",
+        "C": "20 Mei 1908",
+        "D": "10 November 1945",
+        "E": "28 Oktober 1928"
+      },
+      "kunci": "E",
+      "pembahasan": "Semua pemuda mengakui dan mengucapkan Sumpah Pemuda pd tgl 28 Okt 1928 di Jakarta Batavia.",
+      "trik": "Sumpah Pemuda = 28 Okt 1928."
+    },
+    {
+      "id": "smp-8-ppkn-16",
+      "teks": "Lagu kebangsaan Indonesia Raya untuk pertama kalinya diperdengarkan secara instrumental gubahan W.R. Supratman pada peristiwa... (Latihan #16)",
+      "opsi": {
+        "A": "Kongres Pemuda II (Sumpah Pemuda)",
+        "B": "Proklamasi Kemerdekaan",
+        "C": "Kongres Pemuda I",
+        "D": "Sidang BPUPKI pertama",
+        "E": "Konferensi Meja Bundar"
+      },
+      "kunci": "A",
+      "pembahasan": "Indonesia Raya digesek menggunakan nada biola pada penutupan sesi Kongres Pemuda II sebelum mufakat Sumpah pemuda.",
+      "trik": "Indonesia Raya debut di Sumpah Pemuda II."
+    },
+    {
+      "id": "smp-8-ppkn-17",
+      "teks": "Berikut ini yang merupakan isi asli Sumpah Pemuda bait pertama adalah... (Latihan #17)",
+      "opsi": {
+        "A": "Kami putra dan putri Indonesia, mengaku bernegara satu, negara Indonesia.",
+        "B": "Kami putra dan putri Indonesia, mengaku bertumpah darah yang satu, tanah air Indonesia.",
+        "C": "Kami bangsa Indonesia dengan ini menyatakan...",
+        "D": "Kami mewajibkan setiap pemuda berbahasa Indonesia.",
+        "E": "Kami bersumpah setia pada Pancasila."
+      },
+      "kunci": "B",
+      "pembahasan": "Tiga ikrar : 1) Bertumpah darah 2) Berbangsa 3) Menjunjung bahasa persatuan. Pilihan A adalah bunyi alinea 1 sumpah tsb.",
+      "trik": "Cari yang berbunyi 'mengaku bertumpah darah yang satu'."
+    },
+    {
+      "id": "smp-8-ppkn-18",
+      "teks": "Wujud pengamalan Sumpah Pemuda dan nilai Nasionalisme di kalangan siswa sekolah masa kini antara lain... (Latihan #18)",
+      "opsi": {
+        "A": "Menggunakan bahasa gaul asing agar terlihat gaul keren di kelas",
+        "B": "Mempelajari bahasa daerah milik teman se-Nusantara dengan saling membully",
+        "C": "Rukun berteman lintas agama dan menggunakan Bahasa Indonesia baku yg baik di rapat kelas",
+        "D": "Ikut dalam tauran agar diakui kuat sbg pelindung teman sekolah",
+        "E": "Menyibukkan diri dalam game online global melupakan sejarah lokal"
+      },
+      "kunci": "C",
+      "pembahasan": "Amanat Sumpah Pemuda (Persatuan dan Bahasa Indo) diamalkan dengan cara rukun (tanpa memandang SARA) memakai bhs Indonesia pemersatu dgn posistif.",
+      "trik": "Cari aksi perbuatan yang berkonotasi paling terpuji persatuan."
+    },
+    {
+      "id": "smp-8-ppkn-19",
+      "teks": "Berdasarkan makna sila kedua Pancasila, tindakan yang dilarang karena merendahkan harkat dan martabat manusia adalah... (Latihan #19)",
+      "opsi": {
+        "A": "Demontrasi mahasiswa secara damai tanpa merusak",
+        "B": "Beribadah sesuai kepercayaannya di rumah",
+        "C": "Gotong royong membersihkan selokan",
+        "D": "Diskriminasi dan Perundungan / Bullying",
+        "E": "Musyawarah pembagian jam gotong royong"
+      },
+      "kunci": "D",
+      "pembahasan": "Sila kedua menegaskan Kemanusiaan yg adil & beradab. Diskriminasi dan perundungan fisik/mental sbg pelecehan merusak nilai tersebut.",
+      "trik": "Merendahkan martabat = Tindak diskriminasi / kekerasan fisik."
+    },
+    {
+      "id": "smp-8-ppkn-20",
+      "teks": "Lambang burung Garuda diperkenalkan sebagai Burung penegak hukum Indonesia, yang dikepalanya menghadap ke ... melambangkan kebaikan/kebenaran. (Latihan #20)",
+      "opsi": {
+        "A": "Bawah / tanah",
+        "B": "Kiri",
+        "C": "Atas Langit",
+        "D": "Kedepan tegak lurus",
+        "E": "Kanan"
+      },
+      "kunci": "E",
+      "pembahasan": "Dalam mitologi, posisi menghadap Kanan seringkali dilambangkan dengan kebajikan, sifat kebenaran/konserfatif baik.",
+      "trik": "Kanan = Langkah kanan / Kebajikan."
+    },
+    {
+      "id": "smp-8-ppkn-21",
+      "teks": "Pancasila memiliki kedudukan sebagai pandangan hidup bangsa Indonesia. Kata lain dari pandangan hidup bangsa adalah... (Latihan #21)",
+      "opsi": {
+        "A": "Way of life",
+        "B": "Table of law",
+        "C": "Magna Charta",
+        "D": "Dasar Negara",
+        "E": "Konstitusi"
+      },
+      "kunci": "A",
+      "pembahasan": "Sebagai pandangan hidup, Pancasila dipakai sebagai petunjuk laku / pedoman (Way of life) keseharian warga negara.",
+      "trik": "Pandangan hidup bahasa inggrisnya way of life."
+    },
+    {
+      "id": "smp-8-ppkn-22",
+      "teks": "Fungsi utama Mahkamah Konstitusi dalam penanganan tata urutan perundangan di Indonesia adalah... (Latihan #22)",
+      "opsi": {
+        "A": "Membuat/menyusun UUD",
+        "B": "Menguji (Judicial Review) UU terhadap UUD 1945",
+        "C": "Melakukan fungsi grasi presiden",
+        "D": "Mengadili koruptor tingkat tinggi",
+        "E": "Memberikan sanksi denda tilang"
+      },
+      "kunci": "B",
+      "pembahasan": "MK berwenang menguji kesesuaian sebuah Undang-Undang dengan UUD 1945 agar tidak tumpang tindih secara hukum.",
+      "trik": "MK = Judicial Review UU."
+    },
+    {
+      "id": "smp-8-ppkn-23",
+      "teks": "Dalam hierarki tata urutan perundang-undangan di Indonesia yang diatur UU No 12 Tahun 2011, yang menduduki puncak tatanan tertinggi adalah... (Latihan #23)",
+      "opsi": {
+        "A": "Ketetapan MPR",
+        "B": "Peraturan Pemerintah Pengganti UU (Perpu)",
+        "C": "UUD Negara Republik Indonesia 1945",
+        "D": "Peraturan Presiden",
+        "E": "Undang-Undang (UU)"
+      },
+      "kunci": "C",
+      "pembahasan": "Segala peraturan produk hukum di bawahnya dilarang melanggar maupun bertentangan dengan hukum dasar UUD 1945.",
+      "trik": "Hukum Induk (Puncak) = UUD 1945."
+    },
+    {
+      "id": "smp-8-ppkn-24",
+      "teks": "Kebangkitan Nasional di Indonesia ditandai dengan terbentuknya organisasi Budi Utomo pada tahun... (Latihan #24)",
+      "opsi": {
+        "A": "1905",
+        "B": "1928",
+        "C": "1945",
+        "D": "1908",
+        "E": "1912"
+      },
+      "kunci": "D",
+      "pembahasan": "20 Mei 1908 lahir organisasi perintis modern kebangsaan Boedi Oetomo.",
+      "trik": "Kebangkitan ke arah modern = 1908."
+    },
+    {
+      "id": "smp-8-ppkn-25",
+      "teks": "Sumpah Pemuda dibacakan saat Kongres Pemuda II. Kongres tersebut merumuskan ikrar persatuan bertanggal... (Latihan #25)",
+      "opsi": {
+        "A": "17 Agustus 1945",
+        "B": "1 Juni 1945",
+        "C": "20 Mei 1908",
+        "D": "10 November 1945",
+        "E": "28 Oktober 1928"
+      },
+      "kunci": "E",
+      "pembahasan": "Semua pemuda mengakui dan mengucapkan Sumpah Pemuda pd tgl 28 Okt 1928 di Jakarta Batavia.",
+      "trik": "Sumpah Pemuda = 28 Okt 1928."
+    },
+    {
+      "id": "smp-8-ppkn-26",
+      "teks": "Lagu kebangsaan Indonesia Raya untuk pertama kalinya diperdengarkan secara instrumental gubahan W.R. Supratman pada peristiwa... (Latihan #26)",
+      "opsi": {
+        "A": "Kongres Pemuda II (Sumpah Pemuda)",
+        "B": "Proklamasi Kemerdekaan",
+        "C": "Kongres Pemuda I",
+        "D": "Sidang BPUPKI pertama",
+        "E": "Konferensi Meja Bundar"
+      },
+      "kunci": "A",
+      "pembahasan": "Indonesia Raya digesek menggunakan nada biola pada penutupan sesi Kongres Pemuda II sebelum mufakat Sumpah pemuda.",
+      "trik": "Indonesia Raya debut di Sumpah Pemuda II."
+    },
+    {
+      "id": "smp-8-ppkn-27",
+      "teks": "Berikut ini yang merupakan isi asli Sumpah Pemuda bait pertama adalah... (Latihan #27)",
+      "opsi": {
+        "A": "Kami putra dan putri Indonesia, mengaku bernegara satu, negara Indonesia.",
+        "B": "Kami putra dan putri Indonesia, mengaku bertumpah darah yang satu, tanah air Indonesia.",
+        "C": "Kami bangsa Indonesia dengan ini menyatakan...",
+        "D": "Kami mewajibkan setiap pemuda berbahasa Indonesia.",
+        "E": "Kami bersumpah setia pada Pancasila."
+      },
+      "kunci": "B",
+      "pembahasan": "Tiga ikrar : 1) Bertumpah darah 2) Berbangsa 3) Menjunjung bahasa persatuan. Pilihan A adalah bunyi alinea 1 sumpah tsb.",
+      "trik": "Cari yang berbunyi 'mengaku bertumpah darah yang satu'."
+    },
+    {
+      "id": "smp-8-ppkn-28",
+      "teks": "Wujud pengamalan Sumpah Pemuda dan nilai Nasionalisme di kalangan siswa sekolah masa kini antara lain... (Latihan #28)",
+      "opsi": {
+        "A": "Menggunakan bahasa gaul asing agar terlihat gaul keren di kelas",
+        "B": "Mempelajari bahasa daerah milik teman se-Nusantara dengan saling membully",
+        "C": "Rukun berteman lintas agama dan menggunakan Bahasa Indonesia baku yg baik di rapat kelas",
+        "D": "Ikut dalam tauran agar diakui kuat sbg pelindung teman sekolah",
+        "E": "Menyibukkan diri dalam game online global melupakan sejarah lokal"
+      },
+      "kunci": "C",
+      "pembahasan": "Amanat Sumpah Pemuda (Persatuan dan Bahasa Indo) diamalkan dengan cara rukun (tanpa memandang SARA) memakai bhs Indonesia pemersatu dgn posistif.",
+      "trik": "Cari aksi perbuatan yang berkonotasi paling terpuji persatuan."
+    },
+    {
+      "id": "smp-8-ppkn-29",
+      "teks": "Berdasarkan makna sila kedua Pancasila, tindakan yang dilarang karena merendahkan harkat dan martabat manusia adalah... (Latihan #29)",
+      "opsi": {
+        "A": "Demontrasi mahasiswa secara damai tanpa merusak",
+        "B": "Beribadah sesuai kepercayaannya di rumah",
+        "C": "Gotong royong membersihkan selokan",
+        "D": "Diskriminasi dan Perundungan / Bullying",
+        "E": "Musyawarah pembagian jam gotong royong"
+      },
+      "kunci": "D",
+      "pembahasan": "Sila kedua menegaskan Kemanusiaan yg adil & beradab. Diskriminasi dan perundungan fisik/mental sbg pelecehan merusak nilai tersebut.",
+      "trik": "Merendahkan martabat = Tindak diskriminasi / kekerasan fisik."
+    },
+    {
+      "id": "smp-8-ppkn-30",
+      "teks": "Lambang burung Garuda diperkenalkan sebagai Burung penegak hukum Indonesia, yang dikepalanya menghadap ke ... melambangkan kebaikan/kebenaran. (Latihan #30)",
+      "opsi": {
+        "A": "Bawah / tanah",
+        "B": "Kiri",
+        "C": "Atas Langit",
+        "D": "Kedepan tegak lurus",
+        "E": "Kanan"
+      },
+      "kunci": "E",
+      "pembahasan": "Dalam mitologi, posisi menghadap Kanan seringkali dilambangkan dengan kebajikan, sifat kebenaran/konserfatif baik.",
+      "trik": "Kanan = Langkah kanan / Kebajikan."
+    },
+    {
+      "id": "smp-8-ppkn-31",
+      "teks": "Pancasila memiliki kedudukan sebagai pandangan hidup bangsa Indonesia. Kata lain dari pandangan hidup bangsa adalah... (Latihan #31)",
+      "opsi": {
+        "A": "Way of life",
+        "B": "Table of law",
+        "C": "Magna Charta",
+        "D": "Dasar Negara",
+        "E": "Konstitusi"
+      },
+      "kunci": "A",
+      "pembahasan": "Sebagai pandangan hidup, Pancasila dipakai sebagai petunjuk laku / pedoman (Way of life) keseharian warga negara.",
+      "trik": "Pandangan hidup bahasa inggrisnya way of life."
+    },
+    {
+      "id": "smp-8-ppkn-32",
+      "teks": "Fungsi utama Mahkamah Konstitusi dalam penanganan tata urutan perundangan di Indonesia adalah... (Latihan #32)",
+      "opsi": {
+        "A": "Membuat/menyusun UUD",
+        "B": "Menguji (Judicial Review) UU terhadap UUD 1945",
+        "C": "Melakukan fungsi grasi presiden",
+        "D": "Mengadili koruptor tingkat tinggi",
+        "E": "Memberikan sanksi denda tilang"
+      },
+      "kunci": "B",
+      "pembahasan": "MK berwenang menguji kesesuaian sebuah Undang-Undang dengan UUD 1945 agar tidak tumpang tindih secara hukum.",
+      "trik": "MK = Judicial Review UU."
+    },
+    {
+      "id": "smp-8-ppkn-33",
+      "teks": "Dalam hierarki tata urutan perundang-undangan di Indonesia yang diatur UU No 12 Tahun 2011, yang menduduki puncak tatanan tertinggi adalah... (Latihan #33)",
+      "opsi": {
+        "A": "Ketetapan MPR",
+        "B": "Peraturan Pemerintah Pengganti UU (Perpu)",
+        "C": "UUD Negara Republik Indonesia 1945",
+        "D": "Peraturan Presiden",
+        "E": "Undang-Undang (UU)"
+      },
+      "kunci": "C",
+      "pembahasan": "Segala peraturan produk hukum di bawahnya dilarang melanggar maupun bertentangan dengan hukum dasar UUD 1945.",
+      "trik": "Hukum Induk (Puncak) = UUD 1945."
+    },
+    {
+      "id": "smp-8-ppkn-34",
+      "teks": "Kebangkitan Nasional di Indonesia ditandai dengan terbentuknya organisasi Budi Utomo pada tahun... (Latihan #34)",
+      "opsi": {
+        "A": "1905",
+        "B": "1928",
+        "C": "1945",
+        "D": "1908",
+        "E": "1912"
+      },
+      "kunci": "D",
+      "pembahasan": "20 Mei 1908 lahir organisasi perintis modern kebangsaan Boedi Oetomo.",
+      "trik": "Kebangkitan ke arah modern = 1908."
+    },
+    {
+      "id": "smp-8-ppkn-35",
+      "teks": "Sumpah Pemuda dibacakan saat Kongres Pemuda II. Kongres tersebut merumuskan ikrar persatuan bertanggal... (Latihan #35)",
+      "opsi": {
+        "A": "17 Agustus 1945",
+        "B": "1 Juni 1945",
+        "C": "20 Mei 1908",
+        "D": "10 November 1945",
+        "E": "28 Oktober 1928"
+      },
+      "kunci": "E",
+      "pembahasan": "Semua pemuda mengakui dan mengucapkan Sumpah Pemuda pd tgl 28 Okt 1928 di Jakarta Batavia.",
+      "trik": "Sumpah Pemuda = 28 Okt 1928."
+    },
+    {
+      "id": "smp-8-ppkn-36",
+      "teks": "Lagu kebangsaan Indonesia Raya untuk pertama kalinya diperdengarkan secara instrumental gubahan W.R. Supratman pada peristiwa... (Latihan #36)",
+      "opsi": {
+        "A": "Kongres Pemuda II (Sumpah Pemuda)",
+        "B": "Proklamasi Kemerdekaan",
+        "C": "Kongres Pemuda I",
+        "D": "Sidang BPUPKI pertama",
+        "E": "Konferensi Meja Bundar"
+      },
+      "kunci": "A",
+      "pembahasan": "Indonesia Raya digesek menggunakan nada biola pada penutupan sesi Kongres Pemuda II sebelum mufakat Sumpah pemuda.",
+      "trik": "Indonesia Raya debut di Sumpah Pemuda II."
+    },
+    {
+      "id": "smp-8-ppkn-37",
+      "teks": "Berikut ini yang merupakan isi asli Sumpah Pemuda bait pertama adalah... (Latihan #37)",
+      "opsi": {
+        "A": "Kami putra dan putri Indonesia, mengaku bernegara satu, negara Indonesia.",
+        "B": "Kami putra dan putri Indonesia, mengaku bertumpah darah yang satu, tanah air Indonesia.",
+        "C": "Kami bangsa Indonesia dengan ini menyatakan...",
+        "D": "Kami mewajibkan setiap pemuda berbahasa Indonesia.",
+        "E": "Kami bersumpah setia pada Pancasila."
+      },
+      "kunci": "B",
+      "pembahasan": "Tiga ikrar : 1) Bertumpah darah 2) Berbangsa 3) Menjunjung bahasa persatuan. Pilihan A adalah bunyi alinea 1 sumpah tsb.",
+      "trik": "Cari yang berbunyi 'mengaku bertumpah darah yang satu'."
+    },
+    {
+      "id": "smp-8-ppkn-38",
+      "teks": "Wujud pengamalan Sumpah Pemuda dan nilai Nasionalisme di kalangan siswa sekolah masa kini antara lain... (Latihan #38)",
+      "opsi": {
+        "A": "Menggunakan bahasa gaul asing agar terlihat gaul keren di kelas",
+        "B": "Mempelajari bahasa daerah milik teman se-Nusantara dengan saling membully",
+        "C": "Rukun berteman lintas agama dan menggunakan Bahasa Indonesia baku yg baik di rapat kelas",
+        "D": "Ikut dalam tauran agar diakui kuat sbg pelindung teman sekolah",
+        "E": "Menyibukkan diri dalam game online global melupakan sejarah lokal"
+      },
+      "kunci": "C",
+      "pembahasan": "Amanat Sumpah Pemuda (Persatuan dan Bahasa Indo) diamalkan dengan cara rukun (tanpa memandang SARA) memakai bhs Indonesia pemersatu dgn posistif.",
+      "trik": "Cari aksi perbuatan yang berkonotasi paling terpuji persatuan."
+    },
+    {
+      "id": "smp-8-ppkn-39",
+      "teks": "Berdasarkan makna sila kedua Pancasila, tindakan yang dilarang karena merendahkan harkat dan martabat manusia adalah... (Latihan #39)",
+      "opsi": {
+        "A": "Demontrasi mahasiswa secara damai tanpa merusak",
+        "B": "Beribadah sesuai kepercayaannya di rumah",
+        "C": "Gotong royong membersihkan selokan",
+        "D": "Diskriminasi dan Perundungan / Bullying",
+        "E": "Musyawarah pembagian jam gotong royong"
+      },
+      "kunci": "D",
+      "pembahasan": "Sila kedua menegaskan Kemanusiaan yg adil & beradab. Diskriminasi dan perundungan fisik/mental sbg pelecehan merusak nilai tersebut.",
+      "trik": "Merendahkan martabat = Tindak diskriminasi / kekerasan fisik."
+    },
+    {
+      "id": "smp-8-ppkn-40",
+      "teks": "Lambang burung Garuda diperkenalkan sebagai Burung penegak hukum Indonesia, yang dikepalanya menghadap ke ... melambangkan kebaikan/kebenaran. (Latihan #40)",
+      "opsi": {
+        "A": "Bawah / tanah",
+        "B": "Kiri",
+        "C": "Atas Langit",
+        "D": "Kedepan tegak lurus",
+        "E": "Kanan"
+      },
+      "kunci": "E",
+      "pembahasan": "Dalam mitologi, posisi menghadap Kanan seringkali dilambangkan dengan kebajikan, sifat kebenaran/konserfatif baik.",
+      "trik": "Kanan = Langkah kanan / Kebajikan."
+    },
+    {
+      "id": "smp-8-ppkn-41",
+      "teks": "Pancasila memiliki kedudukan sebagai pandangan hidup bangsa Indonesia. Kata lain dari pandangan hidup bangsa adalah... (Latihan #41)",
+      "opsi": {
+        "A": "Way of life",
+        "B": "Table of law",
+        "C": "Magna Charta",
+        "D": "Dasar Negara",
+        "E": "Konstitusi"
+      },
+      "kunci": "A",
+      "pembahasan": "Sebagai pandangan hidup, Pancasila dipakai sebagai petunjuk laku / pedoman (Way of life) keseharian warga negara.",
+      "trik": "Pandangan hidup bahasa inggrisnya way of life."
+    },
+    {
+      "id": "smp-8-ppkn-42",
+      "teks": "Fungsi utama Mahkamah Konstitusi dalam penanganan tata urutan perundangan di Indonesia adalah... (Latihan #42)",
+      "opsi": {
+        "A": "Membuat/menyusun UUD",
+        "B": "Menguji (Judicial Review) UU terhadap UUD 1945",
+        "C": "Melakukan fungsi grasi presiden",
+        "D": "Mengadili koruptor tingkat tinggi",
+        "E": "Memberikan sanksi denda tilang"
+      },
+      "kunci": "B",
+      "pembahasan": "MK berwenang menguji kesesuaian sebuah Undang-Undang dengan UUD 1945 agar tidak tumpang tindih secara hukum.",
+      "trik": "MK = Judicial Review UU."
+    },
+    {
+      "id": "smp-8-ppkn-43",
+      "teks": "Dalam hierarki tata urutan perundang-undangan di Indonesia yang diatur UU No 12 Tahun 2011, yang menduduki puncak tatanan tertinggi adalah... (Latihan #43)",
+      "opsi": {
+        "A": "Ketetapan MPR",
+        "B": "Peraturan Pemerintah Pengganti UU (Perpu)",
+        "C": "UUD Negara Republik Indonesia 1945",
+        "D": "Peraturan Presiden",
+        "E": "Undang-Undang (UU)"
+      },
+      "kunci": "C",
+      "pembahasan": "Segala peraturan produk hukum di bawahnya dilarang melanggar maupun bertentangan dengan hukum dasar UUD 1945.",
+      "trik": "Hukum Induk (Puncak) = UUD 1945."
+    },
+    {
+      "id": "smp-8-ppkn-44",
+      "teks": "Kebangkitan Nasional di Indonesia ditandai dengan terbentuknya organisasi Budi Utomo pada tahun... (Latihan #44)",
+      "opsi": {
+        "A": "1905",
+        "B": "1928",
+        "C": "1945",
+        "D": "1908",
+        "E": "1912"
+      },
+      "kunci": "D",
+      "pembahasan": "20 Mei 1908 lahir organisasi perintis modern kebangsaan Boedi Oetomo.",
+      "trik": "Kebangkitan ke arah modern = 1908."
+    },
+    {
+      "id": "smp-8-ppkn-45",
+      "teks": "Sumpah Pemuda dibacakan saat Kongres Pemuda II. Kongres tersebut merumuskan ikrar persatuan bertanggal... (Latihan #45)",
+      "opsi": {
+        "A": "17 Agustus 1945",
+        "B": "1 Juni 1945",
+        "C": "20 Mei 1908",
+        "D": "10 November 1945",
+        "E": "28 Oktober 1928"
+      },
+      "kunci": "E",
+      "pembahasan": "Semua pemuda mengakui dan mengucapkan Sumpah Pemuda pd tgl 28 Okt 1928 di Jakarta Batavia.",
+      "trik": "Sumpah Pemuda = 28 Okt 1928."
+    },
+    {
+      "id": "smp-8-ppkn-46",
+      "teks": "Lagu kebangsaan Indonesia Raya untuk pertama kalinya diperdengarkan secara instrumental gubahan W.R. Supratman pada peristiwa... (Latihan #46)",
+      "opsi": {
+        "A": "Kongres Pemuda II (Sumpah Pemuda)",
+        "B": "Proklamasi Kemerdekaan",
+        "C": "Kongres Pemuda I",
+        "D": "Sidang BPUPKI pertama",
+        "E": "Konferensi Meja Bundar"
+      },
+      "kunci": "A",
+      "pembahasan": "Indonesia Raya digesek menggunakan nada biola pada penutupan sesi Kongres Pemuda II sebelum mufakat Sumpah pemuda.",
+      "trik": "Indonesia Raya debut di Sumpah Pemuda II."
+    },
+    {
+      "id": "smp-8-ppkn-47",
+      "teks": "Berikut ini yang merupakan isi asli Sumpah Pemuda bait pertama adalah... (Latihan #47)",
+      "opsi": {
+        "A": "Kami putra dan putri Indonesia, mengaku bernegara satu, negara Indonesia.",
+        "B": "Kami putra dan putri Indonesia, mengaku bertumpah darah yang satu, tanah air Indonesia.",
+        "C": "Kami bangsa Indonesia dengan ini menyatakan...",
+        "D": "Kami mewajibkan setiap pemuda berbahasa Indonesia.",
+        "E": "Kami bersumpah setia pada Pancasila."
+      },
+      "kunci": "B",
+      "pembahasan": "Tiga ikrar : 1) Bertumpah darah 2) Berbangsa 3) Menjunjung bahasa persatuan. Pilihan A adalah bunyi alinea 1 sumpah tsb.",
+      "trik": "Cari yang berbunyi 'mengaku bertumpah darah yang satu'."
+    },
+    {
+      "id": "smp-8-ppkn-48",
+      "teks": "Wujud pengamalan Sumpah Pemuda dan nilai Nasionalisme di kalangan siswa sekolah masa kini antara lain... (Latihan #48)",
+      "opsi": {
+        "A": "Menggunakan bahasa gaul asing agar terlihat gaul keren di kelas",
+        "B": "Mempelajari bahasa daerah milik teman se-Nusantara dengan saling membully",
+        "C": "Rukun berteman lintas agama dan menggunakan Bahasa Indonesia baku yg baik di rapat kelas",
+        "D": "Ikut dalam tauran agar diakui kuat sbg pelindung teman sekolah",
+        "E": "Menyibukkan diri dalam game online global melupakan sejarah lokal"
+      },
+      "kunci": "C",
+      "pembahasan": "Amanat Sumpah Pemuda (Persatuan dan Bahasa Indo) diamalkan dengan cara rukun (tanpa memandang SARA) memakai bhs Indonesia pemersatu dgn posistif.",
+      "trik": "Cari aksi perbuatan yang berkonotasi paling terpuji persatuan."
+    },
+    {
+      "id": "smp-8-ppkn-49",
+      "teks": "Berdasarkan makna sila kedua Pancasila, tindakan yang dilarang karena merendahkan harkat dan martabat manusia adalah... (Latihan #49)",
+      "opsi": {
+        "A": "Demontrasi mahasiswa secara damai tanpa merusak",
+        "B": "Beribadah sesuai kepercayaannya di rumah",
+        "C": "Gotong royong membersihkan selokan",
+        "D": "Diskriminasi dan Perundungan / Bullying",
+        "E": "Musyawarah pembagian jam gotong royong"
+      },
+      "kunci": "D",
+      "pembahasan": "Sila kedua menegaskan Kemanusiaan yg adil & beradab. Diskriminasi dan perundungan fisik/mental sbg pelecehan merusak nilai tersebut.",
+      "trik": "Merendahkan martabat = Tindak diskriminasi / kekerasan fisik."
+    },
+    {
+      "id": "smp-8-ppkn-50",
+      "teks": "Lambang burung Garuda diperkenalkan sebagai Burung penegak hukum Indonesia, yang dikepalanya menghadap ke ... melambangkan kebaikan/kebenaran. (Latihan #50)",
+      "opsi": {
+        "A": "Bawah / tanah",
+        "B": "Kiri",
+        "C": "Atas Langit",
+        "D": "Kedepan tegak lurus",
+        "E": "Kanan"
+      },
+      "kunci": "E",
+      "pembahasan": "Dalam mitologi, posisi menghadap Kanan seringkali dilambangkan dengan kebajikan, sifat kebenaran/konserfatif baik.",
+      "trik": "Kanan = Langkah kanan / Kebajikan."
+    }
+  ]
+}

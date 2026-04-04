@@ -1,0 +1,708 @@
+{
+  "id": "sd-4-mat",
+  "tingkat": "SD Kelas 4",
+  "mapel": "Matematika",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "mat4-1",
+      "teks": "Pecahan yang senilai dengan 1/6 adalah...",
+      "opsi": {
+        "A": "2/12",
+        "B": "2/8",
+        "C": "1/12",
+        "D": "6/12",
+        "E": "3/19"
+      },
+      "kunci": "A",
+      "pembahasan": "Pecahan senilai didapat dengan mengalikan pembilang dan penyebut dengan bilangan yang sama. 1/6 x 2/2 = 2/12.",
+      "trik": "Kalikan atas dan bawah dengan angka yang sama."
+    },
+    {
+      "id": "mat4-2",
+      "teks": "KPK dari 4 dan 20 adalah...",
+      "opsi": {
+        "A": "4",
+        "B": "20",
+        "C": "80",
+        "D": "5",
+        "E": "9"
+      },
+      "kunci": "B",
+      "pembahasan": "Karena 20 adalah kelipatan dari 4, maka KPK-nya adalah bilangan yang lebih besar yaitu 20.",
+      "trik": "Jika bilangan satu adalah kelipatan bilangan lainnya, KPK-nya adalah bilangan yang lebih besar."
+    },
+    {
+      "id": "mat4-3",
+      "teks": "Keliling persegi dengan panjang sisi 11 cm adalah...",
+      "opsi": {
+        "A": "22 cm",
+        "B": "33 cm",
+        "C": "44 cm",
+        "D": "121 cm",
+        "E": "15 cm"
+      },
+      "kunci": "C",
+      "pembahasan": "Rumus keliling persegi adalah 4 x sisi. 4 x 11 = 44 cm.",
+      "trik": "Persegi punya 4 sisi yang sama panjang, jadi kalikan 4 saja."
+    },
+    {
+      "id": "mat4-4",
+      "teks": "Andi memiliki uang Rp8000. Ia membeli buku tulis seharga Rp4000. Sisa uang Andi adalah...",
+      "opsi": {
+        "A": "Rp4500",
+        "B": "Rp3500",
+        "C": "Rp12000",
+        "D": "Rp4000",
+        "E": "Rp4000"
+      },
+      "kunci": "D",
+      "pembahasan": "Sisa uang = Uang awal - Harga beli = Rp8000 - Rp4000 = Rp4000.",
+      "trik": "Kurangkan secara teliti mulai dari nilai tempat terkecil."
+    },
+    {
+      "id": "mat4-5",
+      "teks": "Hasil dari 5867 + 1743 adalah...",
+      "opsi": {
+        "A": "7510",
+        "B": "7710",
+        "C": "7620",
+        "D": "7600",
+        "E": "7610"
+      },
+      "kunci": "E",
+      "pembahasan": "Lakukan penjumlahan bersusun: 5867 + 1743 = 7610.",
+      "trik": "Pastikan satuan lurus dengan satuan saat menjumlahkan."
+    },
+    {
+      "id": "mat4-6",
+      "teks": "Pecahan yang senilai dengan 1/6 adalah...",
+      "opsi": {
+        "A": "2/12",
+        "B": "2/8",
+        "C": "1/18",
+        "D": "6/18",
+        "E": "3/19"
+      },
+      "kunci": "A",
+      "pembahasan": "Pecahan senilai didapat dengan mengalikan pembilang dan penyebut dengan bilangan yang sama. 1/6 x 2/2 = 2/12.",
+      "trik": "Kalikan atas dan bawah dengan angka yang sama."
+    },
+    {
+      "id": "mat4-7",
+      "teks": "KPK dari 3 dan 15 adalah...",
+      "opsi": {
+        "A": "3",
+        "B": "15",
+        "C": "45",
+        "D": "5",
+        "E": "8"
+      },
+      "kunci": "B",
+      "pembahasan": "Karena 15 adalah kelipatan dari 3, maka KPK-nya adalah bilangan yang lebih besar yaitu 15.",
+      "trik": "Jika bilangan satu adalah kelipatan bilangan lainnya, KPK-nya adalah bilangan yang lebih besar."
+    },
+    {
+      "id": "mat4-8",
+      "teks": "Keliling persegi dengan panjang sisi 14 cm adalah...",
+      "opsi": {
+        "A": "28 cm",
+        "B": "42 cm",
+        "C": "56 cm",
+        "D": "196 cm",
+        "E": "18 cm"
+      },
+      "kunci": "C",
+      "pembahasan": "Rumus keliling persegi adalah 4 x sisi. 4 x 14 = 56 cm.",
+      "trik": "Persegi punya 4 sisi yang sama panjang, jadi kalikan 4 saja."
+    },
+    {
+      "id": "mat4-9",
+      "teks": "Andi memiliki uang Rp5000. Ia membeli buku tulis seharga Rp3000. Sisa uang Andi adalah...",
+      "opsi": {
+        "A": "Rp2500",
+        "B": "Rp1500",
+        "C": "Rp8000",
+        "D": "Rp2000",
+        "E": "Rp3000"
+      },
+      "kunci": "D",
+      "pembahasan": "Sisa uang = Uang awal - Harga beli = Rp5000 - Rp3000 = Rp2000.",
+      "trik": "Kurangkan secara teliti mulai dari nilai tempat terkecil."
+    },
+    {
+      "id": "mat4-10",
+      "teks": "Hasil dari 1188 + 3131 adalah...",
+      "opsi": {
+        "A": "4219",
+        "B": "4419",
+        "C": "4329",
+        "D": "4309",
+        "E": "4319"
+      },
+      "kunci": "E",
+      "pembahasan": "Lakukan penjumlahan bersusun: 1188 + 3131 = 4319.",
+      "trik": "Pastikan satuan lurus dengan satuan saat menjumlahkan."
+    },
+    {
+      "id": "mat4-11",
+      "teks": "Pecahan yang senilai dengan 1/4 adalah...",
+      "opsi": {
+        "A": "2/8",
+        "B": "2/6",
+        "C": "1/12",
+        "D": "4/12",
+        "E": "3/13"
+      },
+      "kunci": "A",
+      "pembahasan": "Pecahan senilai didapat dengan mengalikan pembilang dan penyebut dengan bilangan yang sama. 1/4 x 2/2 = 2/8.",
+      "trik": "Kalikan atas dan bawah dengan angka yang sama."
+    },
+    {
+      "id": "mat4-12",
+      "teks": "KPK dari 6 dan 54 adalah...",
+      "opsi": {
+        "A": "6",
+        "B": "54",
+        "C": "324",
+        "D": "9",
+        "E": "15"
+      },
+      "kunci": "B",
+      "pembahasan": "Karena 54 adalah kelipatan dari 6, maka KPK-nya adalah bilangan yang lebih besar yaitu 54.",
+      "trik": "Jika bilangan satu adalah kelipatan bilangan lainnya, KPK-nya adalah bilangan yang lebih besar."
+    },
+    {
+      "id": "mat4-13",
+      "teks": "Keliling persegi dengan panjang sisi 11 cm adalah...",
+      "opsi": {
+        "A": "22 cm",
+        "B": "33 cm",
+        "C": "44 cm",
+        "D": "121 cm",
+        "E": "15 cm"
+      },
+      "kunci": "C",
+      "pembahasan": "Rumus keliling persegi adalah 4 x sisi. 4 x 11 = 44 cm.",
+      "trik": "Persegi punya 4 sisi yang sama panjang, jadi kalikan 4 saja."
+    },
+    {
+      "id": "mat4-14",
+      "teks": "Andi memiliki uang Rp8000. Ia membeli buku tulis seharga Rp3000. Sisa uang Andi adalah...",
+      "opsi": {
+        "A": "Rp5500",
+        "B": "Rp4500",
+        "C": "Rp11000",
+        "D": "Rp5000",
+        "E": "Rp3000"
+      },
+      "kunci": "D",
+      "pembahasan": "Sisa uang = Uang awal - Harga beli = Rp8000 - Rp3000 = Rp5000.",
+      "trik": "Kurangkan secara teliti mulai dari nilai tempat terkecil."
+    },
+    {
+      "id": "mat4-15",
+      "teks": "Hasil dari 1536 + 3378 adalah...",
+      "opsi": {
+        "A": "4814",
+        "B": "5014",
+        "C": "4924",
+        "D": "4904",
+        "E": "4914"
+      },
+      "kunci": "E",
+      "pembahasan": "Lakukan penjumlahan bersusun: 1536 + 3378 = 4914.",
+      "trik": "Pastikan satuan lurus dengan satuan saat menjumlahkan."
+    },
+    {
+      "id": "mat4-16",
+      "teks": "Pecahan yang senilai dengan 1/3 adalah...",
+      "opsi": {
+        "A": "2/6",
+        "B": "2/5",
+        "C": "1/6",
+        "D": "3/6",
+        "E": "3/10"
+      },
+      "kunci": "A",
+      "pembahasan": "Pecahan senilai didapat dengan mengalikan pembilang dan penyebut dengan bilangan yang sama. 1/3 x 2/2 = 2/6.",
+      "trik": "Kalikan atas dan bawah dengan angka yang sama."
+    },
+    {
+      "id": "mat4-17",
+      "teks": "KPK dari 6 dan 48 adalah...",
+      "opsi": {
+        "A": "6",
+        "B": "48",
+        "C": "288",
+        "D": "8",
+        "E": "14"
+      },
+      "kunci": "B",
+      "pembahasan": "Karena 48 adalah kelipatan dari 6, maka KPK-nya adalah bilangan yang lebih besar yaitu 48.",
+      "trik": "Jika bilangan satu adalah kelipatan bilangan lainnya, KPK-nya adalah bilangan yang lebih besar."
+    },
+    {
+      "id": "mat4-18",
+      "teks": "Keliling persegi dengan panjang sisi 14 cm adalah...",
+      "opsi": {
+        "A": "28 cm",
+        "B": "42 cm",
+        "C": "56 cm",
+        "D": "196 cm",
+        "E": "18 cm"
+      },
+      "kunci": "C",
+      "pembahasan": "Rumus keliling persegi adalah 4 x sisi. 4 x 14 = 56 cm.",
+      "trik": "Persegi punya 4 sisi yang sama panjang, jadi kalikan 4 saja."
+    },
+    {
+      "id": "mat4-19",
+      "teks": "Andi memiliki uang Rp5000. Ia membeli buku tulis seharga Rp2000. Sisa uang Andi adalah...",
+      "opsi": {
+        "A": "Rp3500",
+        "B": "Rp2500",
+        "C": "Rp7000",
+        "D": "Rp3000",
+        "E": "Rp2000"
+      },
+      "kunci": "D",
+      "pembahasan": "Sisa uang = Uang awal - Harga beli = Rp5000 - Rp2000 = Rp3000.",
+      "trik": "Kurangkan secara teliti mulai dari nilai tempat terkecil."
+    },
+    {
+      "id": "mat4-20",
+      "teks": "Hasil dari 2408 + 3118 adalah...",
+      "opsi": {
+        "A": "5426",
+        "B": "5626",
+        "C": "5536",
+        "D": "5516",
+        "E": "5526"
+      },
+      "kunci": "E",
+      "pembahasan": "Lakukan penjumlahan bersusun: 2408 + 3118 = 5526.",
+      "trik": "Pastikan satuan lurus dengan satuan saat menjumlahkan."
+    },
+    {
+      "id": "mat4-21",
+      "teks": "Pecahan yang senilai dengan 1/6 adalah...",
+      "opsi": {
+        "A": "2/12",
+        "B": "2/8",
+        "C": "1/12",
+        "D": "6/12",
+        "E": "3/19"
+      },
+      "kunci": "A",
+      "pembahasan": "Pecahan senilai didapat dengan mengalikan pembilang dan penyebut dengan bilangan yang sama. 1/6 x 2/2 = 2/12.",
+      "trik": "Kalikan atas dan bawah dengan angka yang sama."
+    },
+    {
+      "id": "mat4-22",
+      "teks": "KPK dari 6 dan 54 adalah...",
+      "opsi": {
+        "A": "6",
+        "B": "54",
+        "C": "324",
+        "D": "9",
+        "E": "15"
+      },
+      "kunci": "B",
+      "pembahasan": "Karena 54 adalah kelipatan dari 6, maka KPK-nya adalah bilangan yang lebih besar yaitu 54.",
+      "trik": "Jika bilangan satu adalah kelipatan bilangan lainnya, KPK-nya adalah bilangan yang lebih besar."
+    },
+    {
+      "id": "mat4-23",
+      "teks": "Keliling persegi dengan panjang sisi 7 cm adalah...",
+      "opsi": {
+        "A": "14 cm",
+        "B": "21 cm",
+        "C": "28 cm",
+        "D": "49 cm",
+        "E": "11 cm"
+      },
+      "kunci": "C",
+      "pembahasan": "Rumus keliling persegi adalah 4 x sisi. 4 x 7 = 28 cm.",
+      "trik": "Persegi punya 4 sisi yang sama panjang, jadi kalikan 4 saja."
+    },
+    {
+      "id": "mat4-24",
+      "teks": "Andi memiliki uang Rp8000. Ia membeli buku tulis seharga Rp3000. Sisa uang Andi adalah...",
+      "opsi": {
+        "A": "Rp5500",
+        "B": "Rp4500",
+        "C": "Rp11000",
+        "D": "Rp5000",
+        "E": "Rp3000"
+      },
+      "kunci": "D",
+      "pembahasan": "Sisa uang = Uang awal - Harga beli = Rp8000 - Rp3000 = Rp5000.",
+      "trik": "Kurangkan secara teliti mulai dari nilai tempat terkecil."
+    },
+    {
+      "id": "mat4-25",
+      "teks": "Hasil dari 4634 + 936 adalah...",
+      "opsi": {
+        "A": "5470",
+        "B": "5670",
+        "C": "5580",
+        "D": "5560",
+        "E": "5570"
+      },
+      "kunci": "E",
+      "pembahasan": "Lakukan penjumlahan bersusun: 4634 + 936 = 5570.",
+      "trik": "Pastikan satuan lurus dengan satuan saat menjumlahkan."
+    },
+    {
+      "id": "mat4-26",
+      "teks": "Pecahan yang senilai dengan 1/6 adalah...",
+      "opsi": {
+        "A": "2/12",
+        "B": "2/8",
+        "C": "1/24",
+        "D": "6/24",
+        "E": "3/19"
+      },
+      "kunci": "A",
+      "pembahasan": "Pecahan senilai didapat dengan mengalikan pembilang dan penyebut dengan bilangan yang sama. 1/6 x 2/2 = 2/12.",
+      "trik": "Kalikan atas dan bawah dengan angka yang sama."
+    },
+    {
+      "id": "mat4-27",
+      "teks": "KPK dari 2 dan 10 adalah...",
+      "opsi": {
+        "A": "2",
+        "B": "10",
+        "C": "20",
+        "D": "5",
+        "E": "7"
+      },
+      "kunci": "B",
+      "pembahasan": "Karena 10 adalah kelipatan dari 2, maka KPK-nya adalah bilangan yang lebih besar yaitu 10.",
+      "trik": "Jika bilangan satu adalah kelipatan bilangan lainnya, KPK-nya adalah bilangan yang lebih besar."
+    },
+    {
+      "id": "mat4-28",
+      "teks": "Keliling persegi dengan panjang sisi 11 cm adalah...",
+      "opsi": {
+        "A": "22 cm",
+        "B": "33 cm",
+        "C": "44 cm",
+        "D": "121 cm",
+        "E": "15 cm"
+      },
+      "kunci": "C",
+      "pembahasan": "Rumus keliling persegi adalah 4 x sisi. 4 x 11 = 44 cm.",
+      "trik": "Persegi punya 4 sisi yang sama panjang, jadi kalikan 4 saja."
+    },
+    {
+      "id": "mat4-29",
+      "teks": "Andi memiliki uang Rp9000. Ia membeli buku tulis seharga Rp2000. Sisa uang Andi adalah...",
+      "opsi": {
+        "A": "Rp7500",
+        "B": "Rp6500",
+        "C": "Rp11000",
+        "D": "Rp7000",
+        "E": "Rp2000"
+      },
+      "kunci": "D",
+      "pembahasan": "Sisa uang = Uang awal - Harga beli = Rp9000 - Rp2000 = Rp7000.",
+      "trik": "Kurangkan secara teliti mulai dari nilai tempat terkecil."
+    },
+    {
+      "id": "mat4-30",
+      "teks": "Hasil dari 2937 + 2047 adalah...",
+      "opsi": {
+        "A": "4884",
+        "B": "5084",
+        "C": "4994",
+        "D": "4974",
+        "E": "4984"
+      },
+      "kunci": "E",
+      "pembahasan": "Lakukan penjumlahan bersusun: 2937 + 2047 = 4984.",
+      "trik": "Pastikan satuan lurus dengan satuan saat menjumlahkan."
+    },
+    {
+      "id": "mat4-31",
+      "teks": "Pecahan yang senilai dengan 1/6 adalah...",
+      "opsi": {
+        "A": "2/12",
+        "B": "2/8",
+        "C": "1/12",
+        "D": "6/12",
+        "E": "3/19"
+      },
+      "kunci": "A",
+      "pembahasan": "Pecahan senilai didapat dengan mengalikan pembilang dan penyebut dengan bilangan yang sama. 1/6 x 2/2 = 2/12.",
+      "trik": "Kalikan atas dan bawah dengan angka yang sama."
+    },
+    {
+      "id": "mat4-32",
+      "teks": "KPK dari 5 dan 30 adalah...",
+      "opsi": {
+        "A": "5",
+        "B": "30",
+        "C": "150",
+        "D": "6",
+        "E": "11"
+      },
+      "kunci": "B",
+      "pembahasan": "Karena 30 adalah kelipatan dari 5, maka KPK-nya adalah bilangan yang lebih besar yaitu 30.",
+      "trik": "Jika bilangan satu adalah kelipatan bilangan lainnya, KPK-nya adalah bilangan yang lebih besar."
+    },
+    {
+      "id": "mat4-33",
+      "teks": "Keliling persegi dengan panjang sisi 11 cm adalah...",
+      "opsi": {
+        "A": "22 cm",
+        "B": "33 cm",
+        "C": "44 cm",
+        "D": "121 cm",
+        "E": "15 cm"
+      },
+      "kunci": "C",
+      "pembahasan": "Rumus keliling persegi adalah 4 x sisi. 4 x 11 = 44 cm.",
+      "trik": "Persegi punya 4 sisi yang sama panjang, jadi kalikan 4 saja."
+    },
+    {
+      "id": "mat4-34",
+      "teks": "Andi memiliki uang Rp8000. Ia membeli buku tulis seharga Rp2000. Sisa uang Andi adalah...",
+      "opsi": {
+        "A": "Rp6500",
+        "B": "Rp5500",
+        "C": "Rp10000",
+        "D": "Rp6000",
+        "E": "Rp2000"
+      },
+      "kunci": "D",
+      "pembahasan": "Sisa uang = Uang awal - Harga beli = Rp8000 - Rp2000 = Rp6000.",
+      "trik": "Kurangkan secara teliti mulai dari nilai tempat terkecil."
+    },
+    {
+      "id": "mat4-35",
+      "teks": "Hasil dari 2434 + 3175 adalah...",
+      "opsi": {
+        "A": "5509",
+        "B": "5709",
+        "C": "5619",
+        "D": "5599",
+        "E": "5609"
+      },
+      "kunci": "E",
+      "pembahasan": "Lakukan penjumlahan bersusun: 2434 + 3175 = 5609.",
+      "trik": "Pastikan satuan lurus dengan satuan saat menjumlahkan."
+    },
+    {
+      "id": "mat4-36",
+      "teks": "Pecahan yang senilai dengan 1/3 adalah...",
+      "opsi": {
+        "A": "2/6",
+        "B": "2/5",
+        "C": "1/12",
+        "D": "3/12",
+        "E": "3/10"
+      },
+      "kunci": "A",
+      "pembahasan": "Pecahan senilai didapat dengan mengalikan pembilang dan penyebut dengan bilangan yang sama. 1/3 x 2/2 = 2/6.",
+      "trik": "Kalikan atas dan bawah dengan angka yang sama."
+    },
+    {
+      "id": "mat4-37",
+      "teks": "KPK dari 3 dan 18 adalah...",
+      "opsi": {
+        "A": "3",
+        "B": "18",
+        "C": "54",
+        "D": "6",
+        "E": "9"
+      },
+      "kunci": "B",
+      "pembahasan": "Karena 18 adalah kelipatan dari 3, maka KPK-nya adalah bilangan yang lebih besar yaitu 18.",
+      "trik": "Jika bilangan satu adalah kelipatan bilangan lainnya, KPK-nya adalah bilangan yang lebih besar."
+    },
+    {
+      "id": "mat4-38",
+      "teks": "Keliling persegi dengan panjang sisi 7 cm adalah...",
+      "opsi": {
+        "A": "14 cm",
+        "B": "21 cm",
+        "C": "28 cm",
+        "D": "49 cm",
+        "E": "11 cm"
+      },
+      "kunci": "C",
+      "pembahasan": "Rumus keliling persegi adalah 4 x sisi. 4 x 7 = 28 cm.",
+      "trik": "Persegi punya 4 sisi yang sama panjang, jadi kalikan 4 saja."
+    },
+    {
+      "id": "mat4-39",
+      "teks": "Andi memiliki uang Rp6000. Ia membeli buku tulis seharga Rp3000. Sisa uang Andi adalah...",
+      "opsi": {
+        "A": "Rp3500",
+        "B": "Rp2500",
+        "C": "Rp9000",
+        "D": "Rp3000",
+        "E": "Rp3000"
+      },
+      "kunci": "D",
+      "pembahasan": "Sisa uang = Uang awal - Harga beli = Rp6000 - Rp3000 = Rp3000.",
+      "trik": "Kurangkan secara teliti mulai dari nilai tempat terkecil."
+    },
+    {
+      "id": "mat4-40",
+      "teks": "Hasil dari 5503 + 887 adalah...",
+      "opsi": {
+        "A": "6290",
+        "B": "6490",
+        "C": "6400",
+        "D": "6380",
+        "E": "6390"
+      },
+      "kunci": "E",
+      "pembahasan": "Lakukan penjumlahan bersusun: 5503 + 887 = 6390.",
+      "trik": "Pastikan satuan lurus dengan satuan saat menjumlahkan."
+    },
+    {
+      "id": "mat4-41",
+      "teks": "Pecahan yang senilai dengan 1/3 adalah...",
+      "opsi": {
+        "A": "2/6",
+        "B": "2/5",
+        "C": "1/9",
+        "D": "3/9",
+        "E": "3/10"
+      },
+      "kunci": "A",
+      "pembahasan": "Pecahan senilai didapat dengan mengalikan pembilang dan penyebut dengan bilangan yang sama. 1/3 x 2/2 = 2/6.",
+      "trik": "Kalikan atas dan bawah dengan angka yang sama."
+    },
+    {
+      "id": "mat4-42",
+      "teks": "KPK dari 4 dan 28 adalah...",
+      "opsi": {
+        "A": "4",
+        "B": "28",
+        "C": "112",
+        "D": "7",
+        "E": "11"
+      },
+      "kunci": "B",
+      "pembahasan": "Karena 28 adalah kelipatan dari 4, maka KPK-nya adalah bilangan yang lebih besar yaitu 28.",
+      "trik": "Jika bilangan satu adalah kelipatan bilangan lainnya, KPK-nya adalah bilangan yang lebih besar."
+    },
+    {
+      "id": "mat4-43",
+      "teks": "Keliling persegi dengan panjang sisi 5 cm adalah...",
+      "opsi": {
+        "A": "10 cm",
+        "B": "15 cm",
+        "C": "20 cm",
+        "D": "25 cm",
+        "E": "9 cm"
+      },
+      "kunci": "C",
+      "pembahasan": "Rumus keliling persegi adalah 4 x sisi. 4 x 5 = 20 cm.",
+      "trik": "Persegi punya 4 sisi yang sama panjang, jadi kalikan 4 saja."
+    },
+    {
+      "id": "mat4-44",
+      "teks": "Andi memiliki uang Rp9000. Ia membeli buku tulis seharga Rp4000. Sisa uang Andi adalah...",
+      "opsi": {
+        "A": "Rp5500",
+        "B": "Rp4500",
+        "C": "Rp13000",
+        "D": "Rp5000",
+        "E": "Rp4000"
+      },
+      "kunci": "D",
+      "pembahasan": "Sisa uang = Uang awal - Harga beli = Rp9000 - Rp4000 = Rp5000.",
+      "trik": "Kurangkan secara teliti mulai dari nilai tempat terkecil."
+    },
+    {
+      "id": "mat4-45",
+      "teks": "Hasil dari 3611 + 1154 adalah...",
+      "opsi": {
+        "A": "4665",
+        "B": "4865",
+        "C": "4775",
+        "D": "4755",
+        "E": "4765"
+      },
+      "kunci": "E",
+      "pembahasan": "Lakukan penjumlahan bersusun: 3611 + 1154 = 4765.",
+      "trik": "Pastikan satuan lurus dengan satuan saat menjumlahkan."
+    },
+    {
+      "id": "mat4-46",
+      "teks": "Pecahan yang senilai dengan 1/4 adalah...",
+      "opsi": {
+        "A": "2/8",
+        "B": "2/6",
+        "C": "1/12",
+        "D": "4/12",
+        "E": "3/13"
+      },
+      "kunci": "A",
+      "pembahasan": "Pecahan senilai didapat dengan mengalikan pembilang dan penyebut dengan bilangan yang sama. 1/4 x 2/2 = 2/8.",
+      "trik": "Kalikan atas dan bawah dengan angka yang sama."
+    },
+    {
+      "id": "mat4-47",
+      "teks": "KPK dari 2 dan 10 adalah...",
+      "opsi": {
+        "A": "2",
+        "B": "10",
+        "C": "20",
+        "D": "5",
+        "E": "7"
+      },
+      "kunci": "B",
+      "pembahasan": "Karena 10 adalah kelipatan dari 2, maka KPK-nya adalah bilangan yang lebih besar yaitu 10.",
+      "trik": "Jika bilangan satu adalah kelipatan bilangan lainnya, KPK-nya adalah bilangan yang lebih besar."
+    },
+    {
+      "id": "mat4-48",
+      "teks": "Keliling persegi dengan panjang sisi 14 cm adalah...",
+      "opsi": {
+        "A": "28 cm",
+        "B": "42 cm",
+        "C": "56 cm",
+        "D": "196 cm",
+        "E": "18 cm"
+      },
+      "kunci": "C",
+      "pembahasan": "Rumus keliling persegi adalah 4 x sisi. 4 x 14 = 56 cm.",
+      "trik": "Persegi punya 4 sisi yang sama panjang, jadi kalikan 4 saja."
+    },
+    {
+      "id": "mat4-49",
+      "teks": "Andi memiliki uang Rp9000. Ia membeli buku tulis seharga Rp2000. Sisa uang Andi adalah...",
+      "opsi": {
+        "A": "Rp7500",
+        "B": "Rp6500",
+        "C": "Rp11000",
+        "D": "Rp7000",
+        "E": "Rp2000"
+      },
+      "kunci": "D",
+      "pembahasan": "Sisa uang = Uang awal - Harga beli = Rp9000 - Rp2000 = Rp7000.",
+      "trik": "Kurangkan secara teliti mulai dari nilai tempat terkecil."
+    },
+    {
+      "id": "mat4-50",
+      "teks": "Hasil dari 2345 + 1348 adalah...",
+      "opsi": {
+        "A": "3593",
+        "B": "3793",
+        "C": "3703",
+        "D": "3683",
+        "E": "3693"
+      },
+      "kunci": "E",
+      "pembahasan": "Lakukan penjumlahan bersusun: 2345 + 1348 = 3693.",
+      "trik": "Pastikan satuan lurus dengan satuan saat menjumlahkan."
+    }
+  ]
+}

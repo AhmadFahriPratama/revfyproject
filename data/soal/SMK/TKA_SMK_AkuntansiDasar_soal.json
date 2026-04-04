@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_AD_01",
+    "pertanyaan": "Akuntansi sering disebut 'The Language of Business' karena...",
+    "opsi": [
+      "Mengomunikasikan informasi keuangan suatu unit usaha kepada penggunanya",
+      "Menggunakan bahasa Inggris",
+      "Hanya dipahami oleh pengusaha",
+      "Sulit dipelajari",
+      "Banyak hitungannya"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Akuntansi adalah alat komunikasi hasil aktivitas ekonomi."
+  },
+  {
+    "id": "TKA_SMK_AD_02",
+    "pertanyaan": "Pihak eksternal yang memerlukan informasi akuntansi untuk memutuskan pemberian pinjaman adalah...",
+    "opsi": [
+      "Manajer",
+      "Kreditur (Bank)",
+      "Karyawan",
+      "Pemilik perusahaan",
+      "Pemerintah (Pajak)"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kreditur perlu melihat kemampuan bayar perusahaan."
+  },
+  {
+    "id": "TKA_SMK_AD_03",
+    "pertanyaan": "Rumus Persamaan Dasar Akuntansi yang benar adalah...",
+    "opsi": [
+      "Aset = Liabilitas - Ekuitas",
+      "Liabilitas = Aset + Ekuitas",
+      "Aset = Liabilitas + Ekuitas",
+      "Ekuitas = Aset + Liabilitas",
+      "Modal = Beban - Pendapatan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Aset = Liabilitas + Ekuitas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_04",
+    "pertanyaan": "Bukti transaksi internal yang dibuat pimpinan kepada bagian akuntansi untuk melakukan pencatatan disebut...",
+    "opsi": [
+      "Kuitansi",
+      "Faktur",
+      "Nota Kontan",
+      "Memo",
+      "Cek"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Memo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_05",
+    "pertanyaan": "Setoran modal berupa uang tunai dari pemilik ke perusahaan akan mengakibatkan...",
+    "opsi": [
+      "Kas (+) dan Hutang (+)",
+      "Peralatan (+) dan Modal (+)",
+      "Kas (-) dan Modal (-)",
+      "Pendapatan (+) dan Kas (+)",
+      "Kas (+) dan Modal (+)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Analisis PDA: Aset (Kas) bertambah, Ekuitas (Modal) bertambah."
+  },
+  {
+    "id": "TKA_SMK_AD_06",
+    "pertanyaan": "Akun 'Tanah' dan 'Bangunan' termasuk dalam kategori...",
+    "opsi": [
+      "Aset Tetap",
+      "Aset Lancar",
+      "Hutang Jangka Panjang",
+      "Pendapatan",
+      "Beban"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Aset Tetap\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_07",
+    "pertanyaan": "Perusahaan yang kegiatannya memberikan pelayanan kepada pelanggan untuk mendapatkan imbalan disebut perusahaan...",
+    "opsi": [
+      "Dagang",
+      "Jasa",
+      "Industri",
+      "Ekstraktif",
+      "Agraris"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Jasa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_08",
+    "pertanyaan": "Saldo normal akun 'Kas' adalah di sisi...",
+    "opsi": [
+      "Kredit",
+      "Kanan",
+      "Debit",
+      "Nol",
+      "Miring"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Akun Aset bertambah di Debit, berkurang di Kredit."
+  },
+  {
+    "id": "TKA_SMK_AD_09",
+    "pertanyaan": "Proses memindahkan data dari jurnal ke dalam buku besar disebut...",
+    "opsi": [
+      "Penjurnalan",
+      "Auditing",
+      "Reporting",
+      "Posting",
+      "Analyzing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Posting\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_10",
+    "pertanyaan": "Akun yang saldonya akan dilaporkan di dalam Laporan Laba Rugi adalah...",
+    "opsi": [
+      "Harta dan Hutang",
+      "Kas dan Modal",
+      "Peralatan dan Piutang",
+      "Hutang dan Modal",
+      "Pendapatan dan Beban"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pendapatan dan Beban\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_11",
+    "pertanyaan": "Penerimaan pendapatan jasa secara tunai Rp1.000.000 akan dicatat di jurnal umum pada sisi...",
+    "opsi": [
+      "Kas (D) Rp1.000.000 dan Pendapatan (K) Rp1.000.000",
+      "Pendapatan (D) Rp1.000.000 dan Kas (K) Rp1.000.000",
+      "Piutang (D) Rp1.000.000 dan Kas (K) Rp1.000.000",
+      "Beban (D) Rp1.000.000 dan Modal (K) Rp1.000.000",
+      "Modal (D) Rp1.000.000 dan Pendapatan (K) Rp1.000.000"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Kas (D) Rp1.000.000 dan Pendapatan (K) Rp1.000.000\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_12",
+    "pertanyaan": "Bapak Akuntansi Dunia Luca Pacioli memperkenalkan sistem pencatatan berpasangan, disebut...",
+    "opsi": [
+      "Single Entry",
+      "Double Entry",
+      "Triple Entry",
+      "Cash Basis",
+      "Accrual Basis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Double Entry\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_13",
+    "pertanyaan": "Pengeluaran uang untuk keperluan pribadi pemilik disebut...",
+    "opsi": [
+      "Beban Gaji",
+      "Investasi",
+      "Prive (Withdrawal)",
+      "Hutang",
+      "Depresiasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Prive (Withdrawal)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_14",
+    "pertanyaan": "Alat tukar yang dimiliki perusahaan dan siap digunakan setiap saat disebut...",
+    "opsi": [
+      "Piutang",
+      "Persediaan",
+      "Peralatan",
+      "Kas",
+      "Gedung"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_15",
+    "pertanyaan": "Klaim atau hak perusahaan kepada pihak lain atas jasa yang telah diberikan tetapi belum dibayar disebut...",
+    "opsi": [
+      "Hutang",
+      "Modal",
+      "Investasi",
+      "Beban",
+      "Piutang (Accounts Receivable)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Piutang (Accounts Receivable)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_16",
+    "pertanyaan": "Akun 'Beban Gaji' bertambah di sisi ... dan berkurang di sisi ...",
+    "opsi": [
+      "Debit ; Kredit",
+      "Kredit ; Debit",
+      "Kanan ; Kiri",
+      "Kas ; Bank",
+      "Modal ; Hutang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Debit ; Kredit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_17",
+    "pertanyaan": "Faktur adalah bukti transaksi untuk...",
+    "opsi": [
+      "Pembelian/Penjualan secara tunai",
+      "Pembelian/Penjualan secara kredit",
+      "Pengembalian barang",
+      "Setoran modal",
+      "Pengambilan pribadi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pembelian/Penjualan secara kredit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_18",
+    "pertanyaan": "Daftar saldo dari seluruh akun buku besar pada tanggal tertentu disebut...",
+    "opsi": [
+      "Jurnal Khusus",
+      "Jurnal Penyesuaian",
+      "Neraca Saldo (Trial Balance)",
+      "Neraca Lajur",
+      "Laporan Arus Kas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Neraca Saldo (Trial Balance)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_19",
+    "pertanyaan": "Kewaiban perusahaan kepada pihak lain yang timbul akibat transaksi di masa lalu disebut...",
+    "opsi": [
+      "Ekuitas",
+      "Aset",
+      "Prive",
+      "Liabilitas (Hutang)",
+      "Investasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Liabilitas (Hutang)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_20",
+    "pertanyaan": "Laporan yang menunjukkan posisi keuangan perusahaan (Aset, Hutang, Modal) pada saat tertentu disebut...",
+    "opsi": [
+      "Laporan Laba Rugi",
+      "Laporan Perubahan Modal",
+      "Laporan Arus Kas",
+      "Catatan Atas Laporan Keuangan",
+      "Neraca (Balance Sheet)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Neraca (Balance Sheet)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_21",
+    "pertanyaan": "Pembelian perlengkapan kantor secara kredit mengakibatkan...",
+    "opsi": [
+      "Perlengkapan (+) dan Hutang (+)",
+      "Perlengkapan (+) dan Kas (-)",
+      "Kas (+) dan Hutang (-)",
+      "Peralatan (+) dan Modal (+)",
+      "Hutang (-) dan Kas (-)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Perlengkapan (+) dan Hutang (+)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_22",
+    "pertanyaan": "Bukti pembayaran tunai yang dibuat oleh penerima uang disebut...",
+    "opsi": [
+      "Faktur",
+      "Kuitansi",
+      "Nota Debet",
+      "Cek",
+      "Bilyet Giro"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kuitansi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_23",
+    "pertanyaan": "Akun 'Pendapatan' bersaldo normal di sisi...",
+    "opsi": [
+      "Debit",
+      "Kiri",
+      "Kredit",
+      "Nol",
+      "Atas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kredit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_24",
+    "pertanyaan": "Salah satu prinsip akuntansi yang menyatakan bahwa harta perusahaan harus dipisahkan dari harta pribadi pemilik disebut...",
+    "opsi": [
+      "Prinsip Kelangsungan Usaha",
+      "Prinsip Periode Akuntansi",
+      "Prinsip Harga Perolehan",
+      "Prinsip Kesatuan Usaha (Economic Entity)",
+      "Prinsip Objektivitas"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Prinsip Kesatuan Usaha (Economic Entity)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_25",
+    "pertanyaan": "Jika Aset Rp10.000.000 dan Liabilitas Rp4.000.000, maka besarnya Ekuitas (Modal) adalah...",
+    "opsi": [
+      "Rp14.000.000",
+      "Rp10.000.000",
+      "Rp4.000.000",
+      "Rp2.000.000",
+      "Rp6.000.000"
+    ],
+    "jawaban": 4,
+    "pembahasan": "E = A - L = 10jt - 4jt = 6jt. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rp6.000.000\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_26",
+    "pertanyaan": "Buku yang merinci rincian dari satu akun buku besar tertentu (misal: Buku Pembantu Piutang) disebut...",
+    "opsi": [
+      "Buku Besar Pembantu",
+      "Jurnal Umum",
+      "Buku Kas Umum",
+      "Jurnal Penyesuaian",
+      "Memo"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Buku Besar Pembantu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_27",
+    "pertanyaan": "Penyusutan nilai aset tetap (seperti mesin/mobil) karena pemakaian disebut...",
+    "opsi": [
+      "Akumulasi",
+      "Depresiasi (Penyusutan)",
+      "Investasi",
+      "Inflasi",
+      "Deflasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Depresiasi (Penyusutan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_28",
+    "pertanyaan": "Siklus akuntansi pertama kali dimulai dari tahap...",
+    "opsi": [
+      "Penyusunan Jurnal",
+      "Posting Buku Besar",
+      "Analisis Bukti Transaksi",
+      "Laporan Keuangan",
+      "Audit"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Analisis Bukti Transaksi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_29",
+    "pertanyaan": "Gaji yang belum dibayar pada akhir periode akuntansi harus dicatat dalam jurnal...",
+    "opsi": [
+      "Jurnal Umum biasa",
+      "Jurnal Penutup",
+      "Jurnal Pembalik",
+      "Jurnal Penyesuaian (Adjusting Entry)",
+      "Jurnal Koreksi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Jurnal Penyesuaian (Adjusting Entry)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_30",
+    "pertanyaan": "Pekerjaan teknisi akuntansi di SMK menuntut ketelitian tinggi, kesalahan nol koma satu rupiah saja bisa mengakibatkan laporan...",
+    "opsi": [
+      "Tetap benar",
+      "Makin bagus",
+      "Diterima bank",
+      "Sama saja",
+      "Tidak seimbang (Out of balance)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tidak seimbang (Out of balance)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_31",
+    "pertanyaan": "Akun 'Beban Iklan' di buku besar memiliki saldo debet Rp500.000. Setelah ada penyesuaian dibayar di muka Rp200.000, maka saldo beban iklan di neraca saldo disesuaikan adalah...",
+    "opsi": [
+      "Rp300.000",
+      "Rp700.000",
+      "Rp500.000",
+      "Rp200.000",
+      "Rp0"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rp300.000\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_32",
+    "pertanyaan": "Berikut ini yang merupakan harta lancar adalah...",
+    "opsi": [
+      "Gedung dan Tanah",
+      "Kas, Piutang, dan Perlengkapan",
+      "Hutang Bank",
+      "Modal Pemilik",
+      "Mesin Produksi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kas, Piutang, dan Perlengkapan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_33",
+    "pertanyaan": "Barang habis pakai yang digunakan untuk menunjang kegiatan kantor disebut...",
+    "opsi": [
+      "Peralatan",
+      "Mesin",
+      "Perlengkapan (Supplies)",
+      "Kendaraan",
+      "Tanah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Peralatan berumur lebih dari 1 tahun, Perlengkapan kurang dari 1 tahun."
+  },
+  {
+    "id": "TKA_SMK_AD_34",
+    "pertanyaan": "Laba bersih operasional akan menambah saldo...",
+    "opsi": [
+      "Hutang",
+      "Beban",
+      "Kerugian",
+      "Modal (Ekuitas)",
+      "Prive"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Modal (Ekuitas)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_35",
+    "pertanyaan": "Singkatan dari IAI, organisasi profesi akuntan di Indonesia adalah...",
+    "opsi": [
+      "Indonesia Accounting Institut",
+      "Ikatan Ahli Indonesia",
+      "Institut Akuntansi Internasional",
+      "Ikatan Auditor Indonesia",
+      "Ikatan Akuntan Indonesia"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Ikatan Akuntan Indonesia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_36",
+    "pertanyaan": "Sistem akuntansi yang mencatat transaksi hanya pada saat uang masuk atau keluar disebut...",
+    "opsi": [
+      "Cash Basis",
+      "Accrual Basis",
+      "Single Entry",
+      "Double Entry",
+      "Modern Basis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Cash Basis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_37",
+    "pertanyaan": "Istilah 'Journalizing' berarti...",
+    "opsi": [
+      "Menulis di buku harian pribadi",
+      "Proses mencatat transaksi ke dalam buku jurnal secara kronologis",
+      "Mengecek uang di laci",
+      "Melapor ke atasan",
+      "Membayar gaji"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Proses mencatat transaksi ke dalam buku jurnal secara kronologis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_38",
+    "pertanyaan": "Akun 'Akumulasi Penyusutan' merupakan akun kontra (pengurang) dari akun...",
+    "opsi": [
+      "Kas",
+      "Piutang",
+      "Aset Tetap (Peralatan/Gedung)",
+      "Hutang",
+      "Modal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Aset Tetap (Peralatan/Gedung)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_39",
+    "pertanyaan": "Neraca saldo yang dibuat setelah akun-akun nominal ditutup disebut...",
+    "opsi": [
+      "Neraca Saldo Disesuaikan",
+      "Neraca Lajur",
+      "Jurnal Umum",
+      "Neraca Saldo Penutup (Post-Closing Trial Balance)",
+      "Laporan Arus Kas"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Neraca Saldo Penutup (Post-Closing Trial Balance)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_40",
+    "pertanyaan": "Tujuan dari Jurnal Penutup adalah...",
+    "opsi": [
+      "Menutup kantor",
+      "Menghapus hutang",
+      "Mencari keuntungan",
+      "Membuka periode baru",
+      "Menolkan saldo akun-akun nominal (Pendapatan & Beban) pada akhir periode"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menolkan saldo akun-akun nominal (Pendapatan & Beban) pada akhir periode\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_41",
+    "pertanyaan": "Akun 'Bank' termasuk dalam kelompok...",
+    "opsi": [
+      "Aset (Harta)",
+      "Hutang",
+      "Modal",
+      "Beban",
+      "Pendapatan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Aset (Harta)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_42",
+    "pertanyaan": "Jika perusahaan memiliki Hutang Rp5.000.000 dan Modal Rp15.000.000, berapakah total Hartanya?",
+    "opsi": [
+      "Rp10.000.000",
+      "Rp20.000.000",
+      "Rp15.000.000",
+      "Rp5.000.000",
+      "Rp25.000.000"
+    ],
+    "jawaban": 1,
+    "pembahasan": "A = L + E = 5jt + 15jt = 20jt. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rp20.000.000\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_43",
+    "pertanyaan": "Pembayaran hutang kepada supplier mengakibatkan...",
+    "opsi": [
+      "Hutang (+) dan Kas (+)",
+      "Kas (+) dan Modal (-)",
+      "Hutang (-) dan Kas (-)",
+      "Peralatan (+) dan Kas (-)",
+      "Beban (+) dan Kas (-)"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Hutang (-) dan Kas (-)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_44",
+    "pertanyaan": "Format buku besar yang paling umum digunakan adalah bentuk...",
+    "opsi": [
+      "Satu kolom",
+      "Segitiga",
+      "Lingkaran",
+      "Skontro / Huruf T / Stafel",
+      "Tabel vertikal saja"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Skontro / Huruf T / Stafel\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_45",
+    "pertanyaan": "Apa itu 'Laba Kotor'?",
+    "opsi": [
+      "Laba yang belum dipotong pajak",
+      "Total uang masuk",
+      "Selisih Kas",
+      "Hutang yang belum lunas",
+      "Pendapatan dikurangi Harga Pokok Penjualan (HPP)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pendapatan dikurangi Harga Pokok Penjualan (HPP)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_46",
+    "pertanyaan": "Standar akuntansi yang berlaku di Indonesia saat ini mengacu pada...",
+    "opsi": [
+      "PSAK (Pernyataan Standar Akuntansi Keuangan)",
+      "GAAP",
+      "ISO",
+      "PUEBI",
+      "KUHP"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"PSAK (Pernyataan Standar Akuntansi Keuangan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_47",
+    "pertanyaan": "Akuntansi yang khusus menangangi laporan keuangan pemerintah daerah atau pusat disebut...",
+    "opsi": [
+      "Akuntansi Biaya",
+      "Akuntansi Sektor Publik / Pemerintah",
+      "Akuntansi Manajemen",
+      "Akuntansi Pajak",
+      "Akuntansi Perbankan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Akuntansi Sektor Publik / Pemerintah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_48",
+    "pertanyaan": "Software akuntansi populer yang sering diajarkan di SMK adalah...",
+    "opsi": [
+      "Photoshop",
+      "CorelDraw",
+      "MYOB / Accurate / Zahir",
+      "AutoCAD",
+      "VLC"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"MYOB / Accurate / Zahir\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_49",
+    "pertanyaan": "Ciri khas seorang teknisi akuntansi handal adalah 'Integritas', artinya...",
+    "opsi": [
+      "Suka korupsi",
+      "Pandai mengakali angka",
+      "Selalu setuju pimpinan",
+      " Jujur dan konsisten antara tindakan dengan nilai moral",
+      "Bekerja sangat lambat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \" Jujur dan konsisten antara tindakan dengan nilai moral\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_AD_50",
+    "pertanyaan": "Mengapa penguasaan Akuntansi Dasar sangat penting bagi karir masa depan?",
+    "opsi": [
+      "Agar jago hitung uang teman",
+      "Hanya supaya bisa jadi kasir",
+      "Supaya jago matematika",
+      "Tidak penting",
+      "Karena semua jenis usaha membutuhkan pencatatan keuangan yang rapi untuk pengambilan keputusan strategis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Karena semua jenis usaha membutuhkan pencatatan keuangan yang rapi untuk pengambilan keputusan strategis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

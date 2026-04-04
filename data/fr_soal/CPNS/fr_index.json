@@ -1,0 +1,23 @@
+{
+  "id": "fr-cpns-index",
+  "totalFile": 3,
+  "groups": {
+    "cpns": [
+      {
+        "file": "cpns2023_rekonstruksi.json",
+        "tahun": 2023,
+        "kategori": "CPNS"
+      },
+      {
+        "file": "cpns2024_rekonstruksi.json",
+        "tahun": 2024,
+        "kategori": "CPNS"
+      },
+      {
+        "file": "cpns2025_rekonstruksi.json",
+        "tahun": 2025,
+        "kategori": "CPNS"
+      }
+    ]
+  }
+}

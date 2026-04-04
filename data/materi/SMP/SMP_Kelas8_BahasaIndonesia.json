@@ -1,0 +1,30 @@
+{
+  "id": "materi-smp-kls8-bi",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "Bahasa Indonesia",
+  "materi": "Teks Berita, Iklan/Slogan, Eksposisi, Puisi, dan Ulasan",
+  "deskripsi": "Materi Bahasa Indonesia Kelas 8 berfokus pada teks yang bersifat faktual, persuasif, serta pengenalan karya sastra puisi dan ulasan untuk meningkatkan daya kritis siswa.",
+  "konten": [
+    {
+      "bab": "1. Menyajikan Berita Inovasi",
+      "teks": "Mengidentifikasi unsur-unsur berita (ADIKSIMBA/5W+1H), meringkas, menyimpulkan, serta menyajikan teks berita."
+    },
+    {
+      "bab": "2. Membuat Iklan, Slogan, dan Poster",
+      "teks": "Membedakan iklan, slogan, dan poster. Memahami unsur pembentuknya serta menyimpulkan pesan yang terkandung di dalamnya."
+    },
+    {
+      "bab": "3. Mengenali Unsur-Unsur Teks Eksposisi",
+      "teks": "Menelaah struktur teks eksposisi (tesis, rangkaian argumen, penegasan ulang) dan menyajikan gagasan dalam bentuk tulisan eksposisi."
+    },
+    {
+      "bab": "4. Indahnya Berpuisi",
+      "teks": "Memahami unsur pembangun puisi (majas, irama, diksi) serta menyajikan gagasan, perasaan, dan pesan dalam bentuk puisi."
+    },
+    {
+      "bab": "5. Mengulas Karya Kita",
+      "teks": "Menelaah struktur dan kebahasaan teks ulasan (review) dari suatu karya (film, buku, atau lagu) beserta cara menyusun resensinya."
+    }
+  ],
+  "tag": ["smp-8", "bahasa-indonesia", "berita", "iklan", "puisi", "eksposisi", "ulasan"]
+}

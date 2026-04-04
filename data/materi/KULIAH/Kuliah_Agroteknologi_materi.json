@@ -1,0 +1,53 @@
+{
+  "judul": "Agroteknologi dan Ilmu Pertanian",
+  "tingkatan": "KULIAH",
+  "jurusan": "Pertanian / Agroteknologi",
+  "deskripsi": "Materi akademik tingkat universitas mengenai fisiologi tumbuhan, bioteknologi pertanian, manajemen hara tanah, serta perlindungan tanaman berkelanjutan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Fisiologi Tumbuhan dan Metabolisme",
+      "konten": "Proses fotosintesis (C3, C4, CAM), respirasi seluler, translokasi hara, hormon tumbuhan (Auksin, Sitokinin, Giberelin), serta respon terhadap cekaman (stress) lingkungan.",
+      "tag": [
+        "kuliah agroteknologi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Ilmu Tanah dan Kesuburan Lahan",
+      "konten": "Sifat fisik, kimia (Kapasitas Tukar Kation), dan biologi tanah. Manajemen pupuk berimbang (N, P, K), serta teknik rehabilitasi tanah marjinal.",
+      "tag": [
+        "kuliah agroteknologi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Pemuliaan Tanaman dan Genetika",
+      "konten": "Hukum Mendel, rekayasa genetika (GMO), teknik persilangan tanaman, seleksi varietas unggul, serta pelestarian plasma nutfah hayati.",
+      "tag": [
+        "kuliah agroteknologi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Proteksi Tanaman dan Epidemiologi",
+      "konten": "Kesehatan tanaman, siklus hidup patogen (Fungi, Bakteri, Virus), dinamika populasi hama, serta Pengendalian Hama Terpadu (PHT) berbasis ekologi.",
+      "tag": [
+        "kuliah agroteknologi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pertanian Presisi dan Berkelanjutan",
+      "konten": "Pemanfaatan Smart Farming (IoT, Drone, Sensor), budidaya organik, manajemen limbah pertanian, serta ketahanan pangan di era perubahan iklim global.",
+      "tag": [
+        "kuliah agroteknologi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-agroteknologi-materi",
+  "mapel": "Agroteknologi dan Ilmu Pertanian",
+  "tag": [
+    "kuliah agroteknologi materi"
+  ]
+}

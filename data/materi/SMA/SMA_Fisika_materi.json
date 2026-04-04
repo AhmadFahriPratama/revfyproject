@@ -1,0 +1,53 @@
+{
+  "judul": "Fisika",
+  "tingkatan": "SMA",
+  "jurusan": "MIPA",
+  "deskripsi": "Materi komprehensif mengenai mekanika, termodinamika, gelombang, optik, listrik statis, dan fisika modern.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Kinematika dan Dinamika Gerak",
+      "konten": "Mencakup Gerak Lurus Beraturan (GLB), Gerak Lurus Berubah Beraturan (GLBB), Gerak Parabola, dan Gerak Melingkar. Hukum Newton (I, II, III) menjelaskan penyebab gerak dan interaksi gaya seperti gaya gesek, tegangan tali, dan gaya normal.",
+      "tag": [
+        "sma fisika materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Usaha, Energi, dan Momentum",
+      "konten": "Usaha adalah hasil kali gaya dengan perpindahan. Energi mekanik terdiri dari energi potensial (gravitasi) dan energi kinetik. Hukum Kekekalan Energi Mekanik dan Hukum Kekekalan Momentum serta Impuls diaplikasikan dalam peristiwa tumbukan.",
+      "tag": [
+        "sma fisika materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Termodinamika dan Kalor",
+      "konten": "Sifat termal zat, pemuaian, dan perpindahan kalor (konduksi, konveksi, radiasi). Hukum Termodinamika I (Kekekalan Energi) dan II (Entropi) menjelaskan siklus mesin kalor dan efisiensi mesin Carnot.",
+      "tag": [
+        "sma fisika materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Gelombang, Optik, dan Bunyi",
+      "konten": "Karakteristik gelombang mekanik dan elektromagnetik. Optik geometris (cermin dan lensa) serta optik fisis (interferensi, difraksi, polarisasi). Sifat bunyi (intensitas, taraf intensitas, dan efek Doppler).",
+      "tag": [
+        "sma fisika materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Listrik, Magnet, dan Fisika Modern",
+      "konten": "Hukum Coulomb, Medan Listrik, Potensial Listrik. Hukum Ohm dan Kirchhoff untuk rangkaian arus searah (DC). Induksi elektromagnetik dan Hukum Faraday. Pengenalan Teori Relativitas Khusus, Efek Fotolistrik, dan Struktur Atom.",
+      "tag": [
+        "sma fisika materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "sma-fisika-materi",
+  "mapel": "Fisika",
+  "tag": [
+    "sma fisika materi"
+  ]
+}

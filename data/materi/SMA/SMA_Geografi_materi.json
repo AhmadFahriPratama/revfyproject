@@ -1,0 +1,53 @@
+{
+  "judul": "Geografi (SMA IPS)",
+  "tingkatan": "SMA",
+  "jurusan": "IPS / Peminatan Sosial",
+  "deskripsi": "Materi mengenai konsep geografi, pemetaan, litosfer, hidrosfer, atmosfer, kependudukan, serta pembangunan berkelanjutan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengetahuan Dasar Geografi",
+      "konten": "Objek studi geografi (material dan formal), 10 konsep esensial geografi (lokasi, jarak, keterjangkauan, dll), prinsip geografi (distribusi, interelasi, deskripsi, korologi), serta aspek fisik dan sosial.",
+      "tag": [
+        "sma geografi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Dasar-Dasar Pemetaan, Pengindraan Jauh, dan SIG",
+      "konten": "Jenis-jenis peta, komponen peta, interpretasi citra pengindraan jauh, serta fungsi Sistem Informasi Geografis (SIG) dalam analisis tata ruang dan lingkungan.",
+      "tag": [
+        "sma geografi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Dinamika Planet Bumi sebagai Ruang Kehidupan",
+      "konten": "Teori pembentukan bumi (apungan benua, lempeng tektonik), struktur lapisan bumi (litosfer), tenaga endogen (vulkanisme, seisme) dan eksogen (pelapukan, erosi, sedimentasi).",
+      "tag": [
+        "sma geografi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Dinamika Atmosfer dan Hidrosfer",
+      "konten": "Lapisan atmosfer, cuaca dan iklim, pemanasan global. Siklus hidrologi, perairan darat (sungai, danau, air tanah) serta potensi perairan laut Indonesia.",
+      "tag": [
+        "sma geografi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Kewilayahan dan Pembangunan Berkelanjutan",
+      "konten": "Konsep wilayah dan tata ruang, pusat pertumbuhan, pola keruangan desa-kota, serta prinsip pemanfaatan sumber daya alam yang memperhatikan lingkungan masa depan.",
+      "tag": [
+        "sma geografi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "sma-geografi-materi",
+  "mapel": "Geografi (SMA IPS)",
+  "tag": [
+    "sma geografi materi"
+  ]
+}

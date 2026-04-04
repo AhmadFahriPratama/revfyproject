@@ -1,0 +1,657 @@
+{
+  "id": "TKA_SMP_BINDO_SOAL",
+  "mapel": "TKA SMP Bahasa Indonesia",
+  "tingkat": "SMP",
+  "soal": [
+    {
+      "id": "SMP_BI_01",
+      "pertanyaan": "Ide pokok paragraf adalah...",
+      "opsi": [
+        "Inti dari sebuah paragraf",
+        "Kalimat terakhir",
+        "Semua kalimat",
+        "Contoh-contoh",
+        "Hanya judul"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Ide pokok adalah gagasan utama yang menjadi inti pembicaraan dalam satu paragraf."
+    },
+    {
+      "id": "SMP_BI_02",
+      "pertanyaan": "Manakah kalimat yang menggunakan kata baku?",
+      "opsi": [
+        "Apotik itu tutup",
+        "Ibu membeli obat di apotek",
+        "Nasehat ayah sangat berguna",
+        "Ia sedang praktek",
+        "Jadwal bis terlambat"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Apotek adalah bentuk baku, sedangkan apotik tidak baku."
+    },
+    {
+      "id": "SMP_BI_03",
+      "pertanyaan": "Penggunaan tanda koma yang benar terdapat pada...",
+      "opsi": [
+        "Ibu membeli bayam kangkung, dan wortel.",
+        "Ibu membeli bayam, kangkung dan wortel.",
+        "Ibu membeli bayam, kangkung, dan wortel.",
+        "Ibu membeli, bayam, kangkung, dan wortel.",
+        "Ibu membeli bayam kangkung dan wortel,"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Tanda koma digunakan di antara unsur-unsur dalam pemerincian."
+    },
+    {
+      "id": "SMP_BI_04",
+      "pertanyaan": "Apa antonim dari kata 'Prolog'?",
+      "opsi": [
+        "Dialog",
+        "Monolog",
+        "Katalog",
+        "Epilog",
+        "Analogi"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Prolog adalah pembukaan, Epilog adalah penutup."
+    },
+    {
+      "id": "SMP_BI_05",
+      "pertanyaan": "Teks yang berisi langkah-langkah kerja disebut teks...",
+      "opsi": [
+        "Narasi",
+        "Deskripsi",
+        "Eksposisi",
+        "Laporan",
+        "Prosedur"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Teks prosedur menjelaskan cara atau langkah-langkah melakukan sesuatu."
+    },
+    {
+      "id": "SMP_BI_06",
+      "pertanyaan": "Kalimat yang mengandung opini adalah...",
+      "opsi": [
+        "Kopi ini rasanya sangat enak",
+        "Jakarta adalah ibu kota Indonesia",
+        "Gajah adalah hewan mamalia",
+        "Matahari terbit dari timur",
+        "Air mendidih pada suhu 100 derajat"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Opini bersifat subjektif dan relatif. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kopi ini rasanya sangat enak\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_07",
+      "pertanyaan": "Majas personifikasi terdapat pada kalimat...",
+      "opsi": [
+        "Wajahnya cantik seperti rembulan",
+        "Angin berbisik di telingaku",
+        "Ia bekerja keras banting tulang",
+        "Suaranya menggelegar membelah angkasa",
+        "Sampah menumpuk di pinggir jalan"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Memberikan sifat manusia pada benda mati."
+    },
+    {
+      "id": "SMP_BI_08",
+      "pertanyaan": "Pernyataan yang merupakan fakta adalah...",
+      "opsi": [
+        "Bunga mawar adalah bunga tercantik",
+        "Belajar matematika sangat menyenangkan",
+        "Gunung Merapi meletus pada tahun 2010",
+        "Masakan ibu adalah yang terbaik",
+        "Hari ini cuacanya sangat panas"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Dapat dibuktikan secara objektif. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Gunung Merapi meletus pada tahun 2010\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_09",
+      "pertanyaan": "Kata serapan dari bahasa Inggris yang benar adalah...",
+      "opsi": [
+        "Aktifitas",
+        "Bis",
+        "Kwitansi",
+        "Kualitas",
+        "Sistim"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Quality -> Kualitas. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kualitas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_10",
+      "pertanyaan": "Urutan struktur teks deskripsi yang benar adalah...",
+      "opsi": [
+        "Tesis - Argumentasi - Rekomendasi",
+        "Orientasi - Komplikasi - Resolusi",
+        "Pernyataan Umum - Deskripsi Bagian",
+        "Tujuan - Langkah-langkah - Penutup",
+        "Identifikasi - Deskripsi Bagian - Penutup"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Identifikasi -> Deskripsi -> Penutup. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Identifikasi - Deskripsi Bagian - Penutup\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_11",
+      "pertanyaan": "Sinonim dari kata 'Edukasi' adalah...",
+      "opsi": [
+        "Pendidikan",
+        "Hiburan",
+        "Informasi",
+        "Kesehatan",
+        "Ekonomi"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Edukasi = Pendidikan. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pendidikan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_12",
+      "pertanyaan": "Kalimat mana yang menggunakan huruf kapital secara tepat?",
+      "opsi": [
+        "sultan hasanuddin berasal dari makassar",
+        "Sultan Hasanuddin berasal dari Makassar",
+        "Sultan Hasanuddin berasal dari makassar",
+        "sultan Hasanuddin berasal dari Makassar",
+        "Sultan hasanuddin Berasal Dari Makassar"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Nama orang/tempat kapital. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Sultan Hasanuddin berasal dari Makassar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_13",
+      "pertanyaan": "Tokoh utama dalam sebuah cerita disebut...",
+      "opsi": [
+        "Antagonis",
+        "Tritagonis",
+        "Protagonis",
+        "Figuran",
+        "Narator"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Protagonis = Utama. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Protagonis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_14",
+      "pertanyaan": "Latar tempat dalam kutipan 'Di bawah pohon rindang itu ia menunggu' adalah...",
+      "opsi": [
+        "Rindang",
+        "Pohon",
+        "Tunggu",
+        "Di bawah pohon",
+        "Ia"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Menunjukkan lokasi. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Di bawah pohon\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_15",
+      "pertanyaan": "Tanda titik dua (:) digunakan untuk...",
+      "opsi": [
+        "Mengakhiri kalimat",
+        "Menghubungkan dua klausa",
+        "Menyisipkan keterangan tambahan",
+        "Memisahkan anak kalimat",
+        "Pemerincian atau daftar"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Digunakan untuk rincian. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Pemerincian atau daftar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_16",
+      "pertanyaan": "Kalimat aktif transitif adalah...",
+      "opsi": [
+        "Ibu memasak nasi",
+        "Adik menangis",
+        "Burung terbang",
+        "Ayah tidur",
+        "Bunga mekar"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Memerlukan objek. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ibu memasak nasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_17",
+      "pertanyaan": "Manakah yang merupakan pantun?",
+      "opsi": [
+        "Ada udang di balik batu",
+        "Bila lelah segeralah rehat, Agar badan kembali sehat",
+        "Satu plus satu sama dengan dua",
+        "Ibu pergi ke pasar",
+        "Sekali layar terkembang"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Memiliki rima. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Bila lelah segeralah rehat, Agar badan kembali sehat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_18",
+      "pertanyaan": "Ide pendukung berfungsi untuk...",
+      "opsi": [
+        "Mengganti ide pokok",
+        "Bertentangan dengan ide pokok",
+        "Menjelaskan ide pokok",
+        "Menjadi judul",
+        "Menghilangkan ide pokok"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Mendukung gagasan utama. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Menjelaskan ide pokok\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_19",
+      "pertanyaan": "Karya sastra lama yang menceritakan kesaktian raja/pahlawan disebut...",
+      "opsi": [
+        "Cerpen",
+        "Novel",
+        "Biografi",
+        "Hikayat",
+        "Memoar"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Hikayat = Prosa lama. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Hikayat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_20",
+      "pertanyaan": "Penulisan 'di' sebagai awalan yang benar adalah...",
+      "opsi": [
+        "di makan",
+        "di-makan",
+        "di_makan",
+        "dia makan",
+        "dimakan"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Awalan digabung. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"dimakan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_21",
+      "pertanyaan": "Unsur intrinsik cerita yang berupa pesan moral adalah...",
+      "opsi": [
+        "Amanat",
+        "Alur",
+        "Latar",
+        "Sudut Pandang",
+        "Gaya Bahasa"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Amanat = Pesan. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Amanat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_22",
+      "pertanyaan": "Teks eksplanasi menjelaskan tentang...",
+      "opsi": [
+        "Cerita khayalan",
+        "Proses terjadinya fenomena",
+        "Langkah memasak",
+        "Ciri fisik hewan",
+        "Riwayat hidup seseorang"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Menjelaskan fenomena. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Proses terjadinya fenomena\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_23",
+      "pertanyaan": "Kalimat imperatif ditandai dengan...",
+      "opsi": [
+        "Tanda tanya",
+        "Tanda titik saja",
+        "Tanda seru (ajakan/perintah)",
+        "Huruf kapital semua",
+        "Tanda petik"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Imperatif = Perintah. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tanda seru (ajakan/perintah)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_24",
+      "pertanyaan": "Antonim kata 'Modern' adalah...",
+      "opsi": [
+        "Maju",
+        "Canggih",
+        "Masa kini",
+        "Tradisional",
+        "Baru"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Tradisional. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tradisional\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_25",
+      "pertanyaan": "Wawancara dilakukan untuk...",
+      "opsi": [
+        "Menghibur orang",
+        "Menjual produk",
+        "Berdebat",
+        "Berteriak",
+        "Mencari informasi/data"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pengumpulan data. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mencari informasi/data\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_26",
+      "pertanyaan": "Tokoh yang menghalangi tokoh utama disebut...",
+      "opsi": [
+        "Antagonis",
+        "Protagonis",
+        "Tritagonis",
+        "Latar",
+        "Alur"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Antagonis = Lawan. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Antagonis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_27",
+      "pertanyaan": "Sudah selayaknya kita menjaga kebersihan. Kalimat tersebut termasuk...",
+      "opsi": [
+        "Perintah",
+        "Persuasif (ajakan halus)",
+        "Berita",
+        "Tanya",
+        "Sumpah"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Persuasif. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Persuasif (ajakan halus)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_28",
+      "pertanyaan": "Katalog buku berisi...",
+      "opsi": [
+        "Harga buku",
+        "Isi lengkap buku",
+        "Daftar buku yang tersedia",
+        "Biodata penulis",
+        "Alamat percetakan"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Daftar koleksi. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Daftar buku yang tersedia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_29",
+      "pertanyaan": "Kata depan 'ke' dipisah pada...",
+      "opsi": [
+        "kemana",
+        "kedalam",
+        "keluar (prefiks)",
+        "ke sekolah",
+        "ketua"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Arah tempat dipisah. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"ke sekolah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_30",
+      "pertanyaan": "Ringkasan adalah...",
+      "opsi": [
+        "Penyajian lengkap teks",
+        "Daftar kata sulit",
+        "Kumpulan gambar",
+        "Hanya judul dan subjudul",
+        "Penyajian singkat dari teks asli"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Penyajian singkat. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Penyajian singkat dari teks asli\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_31",
+      "pertanyaan": "Kalimat penjelas terletak...",
+      "opsi": [
+        "Bisa di mana saja",
+        "Hanya di awal",
+        "Hanya di akhir",
+        "Hanya di tengah",
+        "Tidak ada"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Mendukung utama. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Bisa di mana saja\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_32",
+      "pertanyaan": "Cerita fabel menggunakan tokoh...",
+      "opsi": [
+        "Manusia",
+        "Hewan berperilaku manusia",
+        "Tumbuhan saja",
+        "Alien",
+        "Batu"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Binatang bermoral. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Hewan berperilaku manusia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_33",
+      "pertanyaan": "Kata penghubung sebab-akibat adalah...",
+      "opsi": [
+        "Dan",
+        "Atau",
+        "Karena",
+        "Tetapi",
+        "Lalu"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Sebab-akibat. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Karena\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_34",
+      "pertanyaan": "Laporan observasi bersifat...",
+      "opsi": [
+        "Subjektif",
+        "Imajiner",
+        "Rahasia",
+        "Objektif",
+        "Fiktif"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Sesuai fakta. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Objektif\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_35",
+      "pertanyaan": "Majas hiperbola adalah...",
+      "opsi": [
+        "Perbandingan nyata",
+        "Menyamakan benda mati",
+        "Retoris",
+        "Kecilkan fakta",
+        "Melebih-lebihkan"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Berlebihan. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Melebih-lebihkan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_36",
+      "pertanyaan": "Kalimat efektif harus...",
+      "opsi": [
+        "Hemat dan logis",
+        "Panjang",
+        "Banyak kiasan",
+        "Sulit",
+        "Berulang"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Ringkas dan jelas. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Hemat dan logis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_37",
+      "pertanyaan": "Bibliografi adalah...",
+      "opsi": [
+        "Biodata",
+        "Daftar Pustaka",
+        "Indeks",
+        "Glosarium",
+        "Pengantar"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Daftar pustaka. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Daftar Pustaka\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_38",
+      "pertanyaan": "Cerita durhaka Sumbar adalah...",
+      "opsi": [
+        "Sangkuriang",
+        "Roro Jonggrang",
+        "Malin Kundang",
+        "Danau Toba",
+        "Timun Mas"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Malin Kundang. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Malin Kundang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_39",
+      "pertanyaan": "Kata seru 'Wah!' adalah...",
+      "opsi": [
+        "Sedih",
+        "Marah",
+        "Biasa",
+        "Kagum",
+        "Takut"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Kekaguman. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kagum\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_40",
+      "pertanyaan": "Tujuan iklan adalah...",
+      "opsi": [
+        "Hina saingan",
+        "Berita duka",
+        "Mengajar",
+        "Hobi",
+        "Membujuk khalayak"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Persuasif. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Membujuk khalayak\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_41",
+      "pertanyaan": "Puisi 4 baris abab adalah...",
+      "opsi": [
+        "Pantun",
+        "Gurindam",
+        "Syair",
+        "Karmina",
+        "Talibun"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pantun. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Pantun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_42",
+      "pertanyaan": "Alur masa lalu adalah...",
+      "opsi": [
+        "Maju",
+        "Mundur",
+        "Campuran",
+        "Melingkar",
+        "Datar"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Flashback. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mundur\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_43",
+      "pertanyaan": "Glosarium berisi...",
+      "opsi": [
+        "Daftar pustaka",
+        "Judul",
+        "Kata sulit",
+        "Penulis",
+        "Tahun"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Istilah sulit. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kata sulit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_44",
+      "pertanyaan": "Kata tanya alasan adalah...",
+      "opsi": [
+        "Apa",
+        "Kapan",
+        "Siapa",
+        "Mengapa",
+        "Dimana"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Alasan. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Mengapa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_45",
+      "pertanyaan": "Teks ulasan berisi...",
+      "opsi": [
+        "Cerita panjang",
+        "Langkah",
+        "Definisi",
+        "Belanja",
+        "Penilaian karya"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Resensi. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Penilaian karya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_46",
+      "pertanyaan": "Unsur berita adalah...",
+      "opsi": [
+        "Adiksimba",
+        "Paragraf",
+        "Puisi",
+        "Drama",
+        "Pantun"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Kelengkapan berita. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Adiksimba\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_47",
+      "pertanyaan": "Prolog adalah...",
+      "opsi": [
+        "Dialog",
+        "Pengantar",
+        "Penutup",
+        "Gerak",
+        "Musik"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembukaan. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Pengantar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_48",
+      "pertanyaan": "Konjungsi pertentangan adalah...",
+      "opsi": [
+        "Dan",
+        "Serta",
+        "Tetapi",
+        "Lalu",
+        "Kemudian"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pertentangan. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Tetapi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_49",
+      "pertanyaan": "Citraan penglihatan adalah...",
+      "opsi": [
+        "Suara ombak",
+        "Bau mawar",
+        "Pedas",
+        "Langit biru",
+        "Dingin"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Visual. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Langit biru\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_BI_50",
+      "pertanyaan": "Literasi digital penting. Ide pokoknya...",
+      "opsi": [
+        "Remaja internet",
+        "Digital masa depan",
+        "Komputer",
+        "Membosankan",
+        "Pentingnya literasi digital"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Urgensi literasi. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Pentingnya literasi digital\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    }
+  ]
+}

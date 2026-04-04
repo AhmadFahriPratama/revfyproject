@@ -1,0 +1,658 @@
+{
+  "id": "smp-9-ips",
+  "tingkat": "SMP",
+  "mapel": "IPS",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "ips9-1",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah...",
+      "opsi": {
+        "A": "Afrika",
+        "B": "Amerika",
+        "C": "Eropa",
+        "D": "Asia"
+      },
+      "kunci": "A",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "ips9-2",
+      "teks": "Proses masuknya ruang lingkup dunia sehingga batas antarnegara menjadi pudar dalam pertukaran budaya disebut...",
+      "opsi": {
+        "A": "Urbansasi",
+        "B": "Globalisasi",
+        "C": "Moderenisasi",
+        "D": "Sekulerisasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Globalisasi = proses mendunia tanpa batas negara.",
+      "trik": "Globe = Dunia."
+    },
+    {
+      "id": "ips9-3",
+      "teks": "Dampak negatif westernisasi bagi remaja di Indonesia adalah...",
+      "opsi": {
+        "A": "Menumbuhkan etos kerja yang kuat",
+        "B": "Memperbaiki gizi",
+        "C": "Menghilangkan identitas dan tradisi budaya luhur bangsa",
+        "D": "Meningkatkan ekspor"
+      },
+      "kunci": "C",
+      "pembahasan": "Westernisasi yg buruk membuat generasi muda lupa adat ketimuran.",
+      "trik": "Westernisasi gaya hidup bebas = lunturnya moral adat lokal."
+    },
+    {
+      "id": "ips9-4",
+      "teks": "Berikut ini adalah faktor pendorong perdagangan internasional, KECUALI...",
+      "opsi": {
+        "A": "Perbedaan sumber daya alam tiap negara",
+        "B": "Mencari keuntungan devisa",
+        "C": "Perbedaan penguasaan teknologi IPTEK",
+        "D": "Adanya pembatasan impor"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembatasan impor adalah kebijakan perlindungan (proteksi), bukan pendorong dagang bebas.",
+      "trik": "Pembatasan = penghambat / hambatan buatan."
+    },
+    {
+      "id": "ips9-5",
+      "teks": "Pemberontakan DI/TII Kartosuwiryo bertujuan...",
+      "opsi": {
+        "A": "Membentuk Negara Islam Indonesia (NII)",
+        "B": "Mendirikan negara komunis",
+        "C": "Memisahkan Papua dari NKRI",
+        "D": "Merebut ibukota Jakarta"
+      },
+      "kunci": "A",
+      "pembahasan": "DI/TII menginginkan berdirinya NII (Negara Islam Indonesia).",
+      "trik": "TII = Tentara Islam Indonesia."
+    },
+    {
+      "id": "smp-9-ips-6",
+      "teks": "Berikut ini adalah faktor pendorong perdagangan internasional, KECUALI... (Latihan Intensif #6)",
+      "opsi": {
+        "A": "Perbedaan sumber daya alam tiap negara",
+        "B": "Adanya pembatasan impor",
+        "C": "Mencari keuntungan devisa",
+        "D": "Perbedaan penguasaan teknologi IPTEK"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembatasan impor adalah kebijakan perlindungan (proteksi), bukan pendorong dagang bebas.",
+      "trik": "Pembatasan = penghambat / hambatan buatan."
+    },
+    {
+      "id": "smp-9-ips-7",
+      "teks": "Pemberontakan DI/TII Kartosuwiryo bertujuan... (Latihan Intensif #7)",
+      "opsi": {
+        "A": "Mendirikan negara komunis",
+        "B": "Memisahkan Papua dari NKRI",
+        "C": "Membentuk Negara Islam Indonesia (NII)",
+        "D": "Merebut ibukota Jakarta"
+      },
+      "kunci": "C",
+      "pembahasan": "DI/TII menginginkan berdirinya NII (Negara Islam Indonesia).",
+      "trik": "TII = Tentara Islam Indonesia."
+    },
+    {
+      "id": "smp-9-ips-8",
+      "teks": "Pemberontakan DI/TII Kartosuwiryo bertujuan... (Latihan Intensif #8)",
+      "opsi": {
+        "A": "Mendirikan negara komunis",
+        "B": "Memisahkan Papua dari NKRI",
+        "C": "Merebut ibukota Jakarta",
+        "D": "Membentuk Negara Islam Indonesia (NII)"
+      },
+      "kunci": "D",
+      "pembahasan": "DI/TII menginginkan berdirinya NII (Negara Islam Indonesia).",
+      "trik": "TII = Tentara Islam Indonesia."
+    },
+    {
+      "id": "smp-9-ips-9",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah... (Latihan Intensif #9)",
+      "opsi": {
+        "A": "Afrika",
+        "B": "Amerika",
+        "C": "Eropa",
+        "D": "Asia"
+      },
+      "kunci": "A",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "smp-9-ips-10",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah... (Latihan Intensif #10)",
+      "opsi": {
+        "A": "Amerika",
+        "B": "Afrika",
+        "C": "Eropa",
+        "D": "Asia"
+      },
+      "kunci": "B",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "smp-9-ips-11",
+      "teks": "Proses masuknya ruang lingkup dunia sehingga batas antarnegara menjadi pudar dalam pertukaran budaya disebut... (Latihan Intensif #11)",
+      "opsi": {
+        "A": "Urbansasi",
+        "B": "Moderenisasi",
+        "C": "Globalisasi",
+        "D": "Sekulerisasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Globalisasi = proses mendunia tanpa batas negara.",
+      "trik": "Globe = Dunia."
+    },
+    {
+      "id": "smp-9-ips-12",
+      "teks": "Pemberontakan DI/TII Kartosuwiryo bertujuan... (Latihan Intensif #12)",
+      "opsi": {
+        "A": "Mendirikan negara komunis",
+        "B": "Memisahkan Papua dari NKRI",
+        "C": "Merebut ibukota Jakarta",
+        "D": "Membentuk Negara Islam Indonesia (NII)"
+      },
+      "kunci": "D",
+      "pembahasan": "DI/TII menginginkan berdirinya NII (Negara Islam Indonesia).",
+      "trik": "TII = Tentara Islam Indonesia."
+    },
+    {
+      "id": "smp-9-ips-13",
+      "teks": "Dampak negatif westernisasi bagi remaja di Indonesia adalah... (Latihan Intensif #13)",
+      "opsi": {
+        "A": "Menghilangkan identitas dan tradisi budaya luhur bangsa",
+        "B": "Menumbuhkan etos kerja yang kuat",
+        "C": "Memperbaiki gizi",
+        "D": "Meningkatkan ekspor"
+      },
+      "kunci": "A",
+      "pembahasan": "Westernisasi yg buruk membuat generasi muda lupa adat ketimuran.",
+      "trik": "Westernisasi gaya hidup bebas = lunturnya moral adat lokal."
+    },
+    {
+      "id": "smp-9-ips-14",
+      "teks": "Pemberontakan DI/TII Kartosuwiryo bertujuan... (Latihan Intensif #14)",
+      "opsi": {
+        "A": "Mendirikan negara komunis",
+        "B": "Membentuk Negara Islam Indonesia (NII)",
+        "C": "Memisahkan Papua dari NKRI",
+        "D": "Merebut ibukota Jakarta"
+      },
+      "kunci": "B",
+      "pembahasan": "DI/TII menginginkan berdirinya NII (Negara Islam Indonesia).",
+      "trik": "TII = Tentara Islam Indonesia."
+    },
+    {
+      "id": "smp-9-ips-15",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah... (Latihan Intensif #15)",
+      "opsi": {
+        "A": "Amerika",
+        "B": "Eropa",
+        "C": "Afrika",
+        "D": "Asia"
+      },
+      "kunci": "C",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "smp-9-ips-16",
+      "teks": "Dampak negatif westernisasi bagi remaja di Indonesia adalah... (Latihan Intensif #16)",
+      "opsi": {
+        "A": "Menumbuhkan etos kerja yang kuat",
+        "B": "Memperbaiki gizi",
+        "C": "Meningkatkan ekspor",
+        "D": "Menghilangkan identitas dan tradisi budaya luhur bangsa"
+      },
+      "kunci": "D",
+      "pembahasan": "Westernisasi yg buruk membuat generasi muda lupa adat ketimuran.",
+      "trik": "Westernisasi gaya hidup bebas = lunturnya moral adat lokal."
+    },
+    {
+      "id": "smp-9-ips-17",
+      "teks": "Pemberontakan DI/TII Kartosuwiryo bertujuan... (Latihan Intensif #17)",
+      "opsi": {
+        "A": "Membentuk Negara Islam Indonesia (NII)",
+        "B": "Mendirikan negara komunis",
+        "C": "Memisahkan Papua dari NKRI",
+        "D": "Merebut ibukota Jakarta"
+      },
+      "kunci": "A",
+      "pembahasan": "DI/TII menginginkan berdirinya NII (Negara Islam Indonesia).",
+      "trik": "TII = Tentara Islam Indonesia."
+    },
+    {
+      "id": "smp-9-ips-18",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah... (Latihan Intensif #18)",
+      "opsi": {
+        "A": "Amerika",
+        "B": "Afrika",
+        "C": "Eropa",
+        "D": "Asia"
+      },
+      "kunci": "B",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "smp-9-ips-19",
+      "teks": "Proses masuknya ruang lingkup dunia sehingga batas antarnegara menjadi pudar dalam pertukaran budaya disebut... (Latihan Intensif #19)",
+      "opsi": {
+        "A": "Urbansasi",
+        "B": "Moderenisasi",
+        "C": "Globalisasi",
+        "D": "Sekulerisasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Globalisasi = proses mendunia tanpa batas negara.",
+      "trik": "Globe = Dunia."
+    },
+    {
+      "id": "smp-9-ips-20",
+      "teks": "Proses masuknya ruang lingkup dunia sehingga batas antarnegara menjadi pudar dalam pertukaran budaya disebut... (Latihan Intensif #20)",
+      "opsi": {
+        "A": "Urbansasi",
+        "B": "Moderenisasi",
+        "C": "Sekulerisasi",
+        "D": "Globalisasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Globalisasi = proses mendunia tanpa batas negara.",
+      "trik": "Globe = Dunia."
+    },
+    {
+      "id": "smp-9-ips-21",
+      "teks": "Berikut ini adalah faktor pendorong perdagangan internasional, KECUALI... (Latihan Intensif #21)",
+      "opsi": {
+        "A": "Adanya pembatasan impor",
+        "B": "Perbedaan sumber daya alam tiap negara",
+        "C": "Mencari keuntungan devisa",
+        "D": "Perbedaan penguasaan teknologi IPTEK"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembatasan impor adalah kebijakan perlindungan (proteksi), bukan pendorong dagang bebas.",
+      "trik": "Pembatasan = penghambat / hambatan buatan."
+    },
+    {
+      "id": "smp-9-ips-22",
+      "teks": "Dampak negatif westernisasi bagi remaja di Indonesia adalah... (Latihan Intensif #22)",
+      "opsi": {
+        "A": "Menumbuhkan etos kerja yang kuat",
+        "B": "Menghilangkan identitas dan tradisi budaya luhur bangsa",
+        "C": "Memperbaiki gizi",
+        "D": "Meningkatkan ekspor"
+      },
+      "kunci": "B",
+      "pembahasan": "Westernisasi yg buruk membuat generasi muda lupa adat ketimuran.",
+      "trik": "Westernisasi gaya hidup bebas = lunturnya moral adat lokal."
+    },
+    {
+      "id": "smp-9-ips-23",
+      "teks": "Proses masuknya ruang lingkup dunia sehingga batas antarnegara menjadi pudar dalam pertukaran budaya disebut... (Latihan Intensif #23)",
+      "opsi": {
+        "A": "Urbansasi",
+        "B": "Moderenisasi",
+        "C": "Globalisasi",
+        "D": "Sekulerisasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Globalisasi = proses mendunia tanpa batas negara.",
+      "trik": "Globe = Dunia."
+    },
+    {
+      "id": "smp-9-ips-24",
+      "teks": "Pemberontakan DI/TII Kartosuwiryo bertujuan... (Latihan Intensif #24)",
+      "opsi": {
+        "A": "Mendirikan negara komunis",
+        "B": "Memisahkan Papua dari NKRI",
+        "C": "Merebut ibukota Jakarta",
+        "D": "Membentuk Negara Islam Indonesia (NII)"
+      },
+      "kunci": "D",
+      "pembahasan": "DI/TII menginginkan berdirinya NII (Negara Islam Indonesia).",
+      "trik": "TII = Tentara Islam Indonesia."
+    },
+    {
+      "id": "smp-9-ips-25",
+      "teks": "Dampak negatif westernisasi bagi remaja di Indonesia adalah... (Latihan Intensif #25)",
+      "opsi": {
+        "A": "Menghilangkan identitas dan tradisi budaya luhur bangsa",
+        "B": "Menumbuhkan etos kerja yang kuat",
+        "C": "Memperbaiki gizi",
+        "D": "Meningkatkan ekspor"
+      },
+      "kunci": "A",
+      "pembahasan": "Westernisasi yg buruk membuat generasi muda lupa adat ketimuran.",
+      "trik": "Westernisasi gaya hidup bebas = lunturnya moral adat lokal."
+    },
+    {
+      "id": "smp-9-ips-26",
+      "teks": "Dampak negatif westernisasi bagi remaja di Indonesia adalah... (Latihan Intensif #26)",
+      "opsi": {
+        "A": "Menumbuhkan etos kerja yang kuat",
+        "B": "Menghilangkan identitas dan tradisi budaya luhur bangsa",
+        "C": "Memperbaiki gizi",
+        "D": "Meningkatkan ekspor"
+      },
+      "kunci": "B",
+      "pembahasan": "Westernisasi yg buruk membuat generasi muda lupa adat ketimuran.",
+      "trik": "Westernisasi gaya hidup bebas = lunturnya moral adat lokal."
+    },
+    {
+      "id": "smp-9-ips-27",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah... (Latihan Intensif #27)",
+      "opsi": {
+        "A": "Amerika",
+        "B": "Eropa",
+        "C": "Afrika",
+        "D": "Asia"
+      },
+      "kunci": "C",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "smp-9-ips-28",
+      "teks": "Proses masuknya ruang lingkup dunia sehingga batas antarnegara menjadi pudar dalam pertukaran budaya disebut... (Latihan Intensif #28)",
+      "opsi": {
+        "A": "Urbansasi",
+        "B": "Moderenisasi",
+        "C": "Sekulerisasi",
+        "D": "Globalisasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Globalisasi = proses mendunia tanpa batas negara.",
+      "trik": "Globe = Dunia."
+    },
+    {
+      "id": "smp-9-ips-29",
+      "teks": "Berikut ini adalah faktor pendorong perdagangan internasional, KECUALI... (Latihan Intensif #29)",
+      "opsi": {
+        "A": "Adanya pembatasan impor",
+        "B": "Perbedaan sumber daya alam tiap negara",
+        "C": "Mencari keuntungan devisa",
+        "D": "Perbedaan penguasaan teknologi IPTEK"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembatasan impor adalah kebijakan perlindungan (proteksi), bukan pendorong dagang bebas.",
+      "trik": "Pembatasan = penghambat / hambatan buatan."
+    },
+    {
+      "id": "smp-9-ips-30",
+      "teks": "Pemberontakan DI/TII Kartosuwiryo bertujuan... (Latihan Intensif #30)",
+      "opsi": {
+        "A": "Mendirikan negara komunis",
+        "B": "Membentuk Negara Islam Indonesia (NII)",
+        "C": "Memisahkan Papua dari NKRI",
+        "D": "Merebut ibukota Jakarta"
+      },
+      "kunci": "B",
+      "pembahasan": "DI/TII menginginkan berdirinya NII (Negara Islam Indonesia).",
+      "trik": "TII = Tentara Islam Indonesia."
+    },
+    {
+      "id": "smp-9-ips-31",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah... (Latihan Intensif #31)",
+      "opsi": {
+        "A": "Amerika",
+        "B": "Eropa",
+        "C": "Afrika",
+        "D": "Asia"
+      },
+      "kunci": "C",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "smp-9-ips-32",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah... (Latihan Intensif #32)",
+      "opsi": {
+        "A": "Amerika",
+        "B": "Eropa",
+        "C": "Asia",
+        "D": "Afrika"
+      },
+      "kunci": "D",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "smp-9-ips-33",
+      "teks": "Proses masuknya ruang lingkup dunia sehingga batas antarnegara menjadi pudar dalam pertukaran budaya disebut... (Latihan Intensif #33)",
+      "opsi": {
+        "A": "Globalisasi",
+        "B": "Urbansasi",
+        "C": "Moderenisasi",
+        "D": "Sekulerisasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Globalisasi = proses mendunia tanpa batas negara.",
+      "trik": "Globe = Dunia."
+    },
+    {
+      "id": "smp-9-ips-34",
+      "teks": "Berikut ini adalah faktor pendorong perdagangan internasional, KECUALI... (Latihan Intensif #34)",
+      "opsi": {
+        "A": "Perbedaan sumber daya alam tiap negara",
+        "B": "Adanya pembatasan impor",
+        "C": "Mencari keuntungan devisa",
+        "D": "Perbedaan penguasaan teknologi IPTEK"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembatasan impor adalah kebijakan perlindungan (proteksi), bukan pendorong dagang bebas.",
+      "trik": "Pembatasan = penghambat / hambatan buatan."
+    },
+    {
+      "id": "smp-9-ips-35",
+      "teks": "Proses masuknya ruang lingkup dunia sehingga batas antarnegara menjadi pudar dalam pertukaran budaya disebut... (Latihan Intensif #35)",
+      "opsi": {
+        "A": "Urbansasi",
+        "B": "Moderenisasi",
+        "C": "Globalisasi",
+        "D": "Sekulerisasi"
+      },
+      "kunci": "C",
+      "pembahasan": "Globalisasi = proses mendunia tanpa batas negara.",
+      "trik": "Globe = Dunia."
+    },
+    {
+      "id": "smp-9-ips-36",
+      "teks": "Pemberontakan DI/TII Kartosuwiryo bertujuan... (Latihan Intensif #36)",
+      "opsi": {
+        "A": "Mendirikan negara komunis",
+        "B": "Memisahkan Papua dari NKRI",
+        "C": "Merebut ibukota Jakarta",
+        "D": "Membentuk Negara Islam Indonesia (NII)"
+      },
+      "kunci": "D",
+      "pembahasan": "DI/TII menginginkan berdirinya NII (Negara Islam Indonesia).",
+      "trik": "TII = Tentara Islam Indonesia."
+    },
+    {
+      "id": "smp-9-ips-37",
+      "teks": "Berikut ini adalah faktor pendorong perdagangan internasional, KECUALI... (Latihan Intensif #37)",
+      "opsi": {
+        "A": "Adanya pembatasan impor",
+        "B": "Perbedaan sumber daya alam tiap negara",
+        "C": "Mencari keuntungan devisa",
+        "D": "Perbedaan penguasaan teknologi IPTEK"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembatasan impor adalah kebijakan perlindungan (proteksi), bukan pendorong dagang bebas.",
+      "trik": "Pembatasan = penghambat / hambatan buatan."
+    },
+    {
+      "id": "smp-9-ips-38",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah... (Latihan Intensif #38)",
+      "opsi": {
+        "A": "Amerika",
+        "B": "Afrika",
+        "C": "Eropa",
+        "D": "Asia"
+      },
+      "kunci": "B",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "smp-9-ips-39",
+      "teks": "Dampak negatif westernisasi bagi remaja di Indonesia adalah... (Latihan Intensif #39)",
+      "opsi": {
+        "A": "Menumbuhkan etos kerja yang kuat",
+        "B": "Memperbaiki gizi",
+        "C": "Menghilangkan identitas dan tradisi budaya luhur bangsa",
+        "D": "Meningkatkan ekspor"
+      },
+      "kunci": "C",
+      "pembahasan": "Westernisasi yg buruk membuat generasi muda lupa adat ketimuran.",
+      "trik": "Westernisasi gaya hidup bebas = lunturnya moral adat lokal."
+    },
+    {
+      "id": "smp-9-ips-40",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah... (Latihan Intensif #40)",
+      "opsi": {
+        "A": "Amerika",
+        "B": "Eropa",
+        "C": "Asia",
+        "D": "Afrika"
+      },
+      "kunci": "D",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "smp-9-ips-41",
+      "teks": "Dampak negatif westernisasi bagi remaja di Indonesia adalah... (Latihan Intensif #41)",
+      "opsi": {
+        "A": "Menghilangkan identitas dan tradisi budaya luhur bangsa",
+        "B": "Menumbuhkan etos kerja yang kuat",
+        "C": "Memperbaiki gizi",
+        "D": "Meningkatkan ekspor"
+      },
+      "kunci": "A",
+      "pembahasan": "Westernisasi yg buruk membuat generasi muda lupa adat ketimuran.",
+      "trik": "Westernisasi gaya hidup bebas = lunturnya moral adat lokal."
+    },
+    {
+      "id": "smp-9-ips-42",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah... (Latihan Intensif #42)",
+      "opsi": {
+        "A": "Amerika",
+        "B": "Afrika",
+        "C": "Eropa",
+        "D": "Asia"
+      },
+      "kunci": "B",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "smp-9-ips-43",
+      "teks": "Dampak negatif westernisasi bagi remaja di Indonesia adalah... (Latihan Intensif #43)",
+      "opsi": {
+        "A": "Menumbuhkan etos kerja yang kuat",
+        "B": "Memperbaiki gizi",
+        "C": "Menghilangkan identitas dan tradisi budaya luhur bangsa",
+        "D": "Meningkatkan ekspor"
+      },
+      "kunci": "C",
+      "pembahasan": "Westernisasi yg buruk membuat generasi muda lupa adat ketimuran.",
+      "trik": "Westernisasi gaya hidup bebas = lunturnya moral adat lokal."
+    },
+    {
+      "id": "smp-9-ips-44",
+      "teks": "Pemberontakan DI/TII Kartosuwiryo bertujuan... (Latihan Intensif #44)",
+      "opsi": {
+        "A": "Mendirikan negara komunis",
+        "B": "Memisahkan Papua dari NKRI",
+        "C": "Merebut ibukota Jakarta",
+        "D": "Membentuk Negara Islam Indonesia (NII)"
+      },
+      "kunci": "D",
+      "pembahasan": "DI/TII menginginkan berdirinya NII (Negara Islam Indonesia).",
+      "trik": "TII = Tentara Islam Indonesia."
+    },
+    {
+      "id": "smp-9-ips-45",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah... (Latihan Intensif #45)",
+      "opsi": {
+        "A": "Afrika",
+        "B": "Amerika",
+        "C": "Eropa",
+        "D": "Asia"
+      },
+      "kunci": "A",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "smp-9-ips-46",
+      "teks": "Pemberontakan DI/TII Kartosuwiryo bertujuan... (Latihan Intensif #46)",
+      "opsi": {
+        "A": "Mendirikan negara komunis",
+        "B": "Membentuk Negara Islam Indonesia (NII)",
+        "C": "Memisahkan Papua dari NKRI",
+        "D": "Merebut ibukota Jakarta"
+      },
+      "kunci": "B",
+      "pembahasan": "DI/TII menginginkan berdirinya NII (Negara Islam Indonesia).",
+      "trik": "TII = Tentara Islam Indonesia."
+    },
+    {
+      "id": "smp-9-ips-47",
+      "teks": "Pemberontakan DI/TII Kartosuwiryo bertujuan... (Latihan Intensif #47)",
+      "opsi": {
+        "A": "Mendirikan negara komunis",
+        "B": "Memisahkan Papua dari NKRI",
+        "C": "Membentuk Negara Islam Indonesia (NII)",
+        "D": "Merebut ibukota Jakarta"
+      },
+      "kunci": "C",
+      "pembahasan": "DI/TII menginginkan berdirinya NII (Negara Islam Indonesia).",
+      "trik": "TII = Tentara Islam Indonesia."
+    },
+    {
+      "id": "smp-9-ips-48",
+      "teks": "Proses masuknya ruang lingkup dunia sehingga batas antarnegara menjadi pudar dalam pertukaran budaya disebut... (Latihan Intensif #48)",
+      "opsi": {
+        "A": "Urbansasi",
+        "B": "Moderenisasi",
+        "C": "Sekulerisasi",
+        "D": "Globalisasi"
+      },
+      "kunci": "D",
+      "pembahasan": "Globalisasi = proses mendunia tanpa batas negara.",
+      "trik": "Globe = Dunia."
+    },
+    {
+      "id": "smp-9-ips-49",
+      "teks": "Benua yang mendapat julukan 'Benua Hitam' karena mayoritas penduduknya ras Negroid adalah... (Latihan Intensif #49)",
+      "opsi": {
+        "A": "Afrika",
+        "B": "Amerika",
+        "C": "Eropa",
+        "D": "Asia"
+      },
+      "kunci": "A",
+      "pembahasan": "Afrika dikenal sebagai benua hitam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Afrika\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hitam = Afrika (karena suku asli ras kulit hitam)."
+    },
+    {
+      "id": "smp-9-ips-50",
+      "teks": "Berikut ini adalah faktor pendorong perdagangan internasional, KECUALI... (Latihan Intensif #50)",
+      "opsi": {
+        "A": "Perbedaan sumber daya alam tiap negara",
+        "B": "Adanya pembatasan impor",
+        "C": "Mencari keuntungan devisa",
+        "D": "Perbedaan penguasaan teknologi IPTEK"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembatasan impor adalah kebijakan perlindungan (proteksi), bukan pendorong dagang bebas.",
+      "trik": "Pembatasan = penghambat / hambatan buatan."
+    }
+  ]
+}

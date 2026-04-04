@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_KL_01",
+    "pertanyaan": "Sirkulasi arus laut global yang digerakkan oleh perbedaan densitas air akibat variasi suhu dan salinitas disebut...",
+    "opsi": [
+      "Sirkulasi Termohalin (Thermohaline Circulation)",
+      "Arus Pasang Surut",
+      "Arus Geostropik",
+      "Arus Permukaan",
+      "Upwelling"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Termohalin sering disebut sebagai 'Sabuk Pengangkut Samudra' (Ocean Conveyor Belt)."
+  },
+  {
+    "id": "KU_KL_02",
+    "pertanyaan": "Fenomena naiknya massa air laut dari lapisan dalam yang kaya nutrisi ke permukaan disebut...",
+    "opsi": [
+      "Downwelling",
+      "Upwelling",
+      "El Nino",
+      "Turbulensi",
+      "Stratifikasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Upwelling menciptakan area penangkapan ikan yang sangat subur karena melimpahnya plankton."
+  },
+  {
+    "id": "KU_KL_03",
+    "pertanyaan": "Kadar garam (salinitas) rata-rata air laut global adalah sekitar...",
+    "opsi": [
+      "15 psu",
+      "25 psu",
+      "35 psu",
+      "45 psu",
+      "55 psu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "psu (Practical Salinity Unit) atau ppt (parts per thousand) standar adalah 35."
+  },
+  {
+    "id": "KU_KL_04",
+    "pertanyaan": "Ekosistem pesisir yang berfungsi sebagai 'penyerap karbon' (Blue Carbon) paling efektif adalah...",
+    "opsi": [
+      "Pantai Berpasir",
+      "Terumbu Karang",
+      "Pelabuhan",
+      "Mangrove dan Padang Lamun",
+      "Anjungan Minyak"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mangrove menyerap CO2 jauh lebih besar daripada hutan daratan per hektarnya."
+  },
+  {
+    "id": "KU_KL_05",
+    "pertanyaan": "Hewan laut yang sangat kecil dan melayang bebas mengikuti arus air tanpa kemampuan melawan arus disebut...",
+    "opsi": [
+      "Nekton",
+      "Bentos",
+      "Perifiton",
+      "Epifauna",
+      "Plankton"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Plankton terbagi menjadi fitoplankton (tumbuhan) dan zooplankton (hewan)."
+  },
+  {
+    "id": "KU_KL_06",
+    "pertanyaan": "Hukum internasional yang mengatur batas wilayah laut suatu negara dan zona ekonomi eksklusif (ZEE) adalah...",
+    "opsi": [
+      "UNCLOS (Hukum Laut Internasional)",
+      "UNICEF",
+      "UNESCO",
+      "WHO",
+      "WTO"
+    ],
+    "jawaban": 0,
+    "pembahasan": "UNCLOS 1982 menetapkan batas ZEE sejauh 200 mil laut dari garis pangkal."
+  },
+  {
+    "id": "KU_KL_07",
+    "pertanyaan": "Berapakah jarak ZEE (Zona Ekonomi Eksklusif) yang diakui secara internasional?",
+    "opsi": [
+      "12 mil laut",
+      "200 mil laut",
+      "24 mil laut",
+      "100 mil laut",
+      "500 mil laut"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Negara pantai berhak mengelola sumber daya hayati dan non-hayati di wilayah 200 mil tersebut."
+  },
+  {
+    "id": "KU_KL_08",
+    "pertanyaan": "Fenomena perputaran arus air laut yang besar dalam lintasan melingkar akibat gaya Coriolis disebut...",
+    "opsi": [
+      "Wave",
+      "Tide",
+      "Gyre",
+      "Eddy",
+      "Ripples"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Gyre terdapat di setiap samudra utama (misal North Pacific Gyre)."
+  },
+  {
+    "id": "KU_KL_09",
+    "pertanyaan": "Simbiosis antara polip karang dan alga uniseluler yang memberikan warna pada karang disebut simbiosis dengan...",
+    "opsi": [
+      "Bakteri",
+      "Diatom",
+      "Ubur-ubur",
+      "Zooxanthellae",
+      "Cacing laut"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Zooxanthellae menyediakan makanan bagi karang melalui fotosintesis."
+  },
+  {
+    "id": "KU_KL_10",
+    "pertanyaan": "Proses pemutihan karang (Coral Bleaching) umumnya disebabkan oleh peningkatan...",
+    "opsi": [
+      "Jumlah ikan",
+      "Salinitas air",
+      "Tekanan udara",
+      "Jumlah penyelam",
+      "Suhu air laut melebihi ambang toleransi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Suhu panas menyebabkan karang mengeluarkan alga zooxanthellae-nya sehingga memutih dan bisa mati."
+  },
+  {
+    "id": "KU_KL_11",
+    "pertanyaan": "Biota laut yang hidup menetap atau merayap di dasar laut disebut kelompok...",
+    "opsi": [
+      "Bentos",
+      "Plankton",
+      "Nekton",
+      "Neuston",
+      "Pleuston"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh bentos adalah bintang laut, teripang, dan kepiting."
+  },
+  {
+    "id": "KU_KL_12",
+    "pertanyaan": "Zat warna (pigmen) pada alga laut (rumput laut) yang berwarna merah disebut...",
+    "opsi": [
+      "Klorofil",
+      "Fikoeritrin",
+      "Fikosianin",
+      "Karotenoid",
+      "Xantofil"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Alga merah (Rhodophyta) dominan mengandung fikoeritrin."
+  },
+  {
+    "id": "KU_KL_13",
+    "pertanyaan": "Alat navigasi elektronik yang bekerja dengan memancarkan gelombang suara ke dasar laut untuk mendeteksi kedalaman atau gerombolan ikan disebut...",
+    "opsi": [
+      "Radar",
+      "Lidar",
+      "Echosounder (Sonar)",
+      "GPS",
+      "Kompas"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sonar mengukur waktu pantulan suara untuk menentukan jarak objek di bawah air."
+  },
+  {
+    "id": "KU_KL_14",
+    "pertanyaan": "Salah satu dampak negatif dari 'Ocean Acidification' (Pengasaman Laut) adalah...",
+    "opsi": [
+      "Air laut jadi tawar",
+      "Suhu air jadi sangat dingin",
+      "Arus laut terhenti",
+      "Sulitnya organisme bercangkang kalsium (kerang/karang) untuk membentuk struktur tubuhnya",
+      "Warna laut jadi ungu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Peningkatan CO2 di atmosfer yang terserap laut menurunkan pH air sehingga cangkang kalsium mudah rapuh."
+  },
+  {
+    "id": "KU_KL_15",
+    "pertanyaan": "Wilayah laut yang terletak di bawah kedalaman 1.000 meter di mana cahaya matahari sama sekali tidak bisa menembus disebut zona...",
+    "opsi": [
+      "Fotik (Euphotic)",
+      "Disfotik",
+      "Litoral",
+      "Neritik",
+      "Afotik (Abyssal)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Zona afotik bersifat gelap total, bertekanan tinggi, dan dingin."
+  },
+  {
+    "id": "KU_KL_16",
+    "pertanyaan": "Biota laut yang mampu berenang sangat kuat melawan arus air disebut kelompok...",
+    "opsi": [
+      "Nekton",
+      "Plankton",
+      "Bentos",
+      "Larva",
+      "Saprofit"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh nekton adalah ikan tuna, lumba-lumba, dan cumi-cumi."
+  },
+  {
+    "id": "KU_KL_17",
+    "pertanyaan": "Arus vertikal yang membawa massa air hangat ke lapisan dalam atau sebaliknya disebut...",
+    "opsi": [
+      "Conveyor Belt",
+      "Overturn / Sirkulasi Vertikal",
+      "Stratifikasi",
+      "Pusaran Air",
+      "Deburan Ombak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penting untuk distribusi oksigen ke lapisan dalam samudra."
+  },
+  {
+    "id": "KU_KL_18",
+    "pertanyaan": "Indeks yang menunjukkan kesehatan ekosistem laut Indonesia sering disebut sebagai IKHL, singkatan dari...",
+    "opsi": [
+      "Ikatan Komunitas Hasil Laut",
+      "Izin Komersial Hutan Laut",
+      "Indeks Kualitas Hidup Laut",
+      "Informasi Kapal Harian Laut",
+      "Iuran Kesehatan Hasil Laut"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Digunakan pemerintah untuk memantau kelestarian lingkungan laut nasional."
+  },
+  {
+    "id": "KU_KL_19",
+    "pertanyaan": "Mangrove yang paling dekat dengan garis pantai dan sering terkena hantaman ombak besar adalah jenis...",
+    "opsi": [
+      "Bruguiera",
+      "Rhizophora (Bakau)",
+      "Nypa (Nipah)",
+      "Avicennia (Api-api) / Sonneratia",
+      "Pandan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Avicennia dan Sonneratia adalah jenis pionir di garis pantai terdepan."
+  },
+  {
+    "id": "KU_KL_20",
+    "pertanyaan": "Apa keunikan 'Akar Napas' pada pohon mangrove?",
+    "opsi": [
+      "Bisa bicara",
+      "Mencari makanan di darat",
+      "Menyimpan air tawar",
+      "Hanya untuk hiasan",
+      "Menyerap oksigen dari udara saat air pasang karena tanah lumpur miskin oksigen"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pneumatofor (akar napas) membantu tanaman bertahan di substrat anaerob."
+  },
+  {
+    "id": "KU_KL_21",
+    "pertanyaan": "Penggunaan bahan peledak dalam menangkap ikan merusak ekosistem karena...",
+    "opsi": [
+      "Menghancurkan struktur fisik terumbu karang yang butuh puluhan tahun untuk tumbuh",
+      "Suaranya berisik",
+      "Ikannya jadi tidak enak dimakan",
+      "Menguras bahan bakar",
+      "Air laut jadi hangat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Satu bom ikan dapat menghancurkan puluhan meter persegi ekosistem karang."
+  },
+  {
+    "id": "KU_KL_22",
+    "pertanyaan": "Alat untuk mengambil sampel lumpur di dasar laut disebut...",
+    "opsi": [
+      "Secchi Disk",
+      "Grab Sampler / Corer",
+      "Multiparameter",
+      "Plankton Net",
+      "Handscope"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Digunakan untuk menganalisis komposisi sedimen laut."
+  },
+  {
+    "id": "KU_KL_23",
+    "pertanyaan": "Alga laut yang merupakan bahan baku utama pembuatan agar-agar adalah...",
+    "opsi": [
+      "Sargassum",
+      "Padina",
+      "Gracilaria / Eucheuma cottonii",
+      "Chlorella",
+      "Spirulina"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Komoditas rumput laut ini bernilai ekspor tinggi di Indonesia."
+  },
+  {
+    "id": "KU_KL_24",
+    "pertanyaan": "Manakah kelompok ikan yang termasuk dalam kelas Chondrichthyes (Ikan Tulang Lunak)?",
+    "opsi": [
+      "Ikan Mas dan Nila",
+      "Ikan Paus (Mamalia)",
+      "Belut Laut",
+      "Hiu dan Pari",
+      "Kuda Laut"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hiu dan Pari memiliki kerangka dari tulang rawan (kartilago)."
+  },
+  {
+    "id": "KU_KL_25",
+    "pertanyaan": "Zona laut di mana terjadi penurunan suhu air secara drastis terhadap kedalaman disebut lapisan...",
+    "opsi": [
+      "Haloklin",
+      "Piknoklin",
+      "Evaporasi",
+      "Kondensasi",
+      "Termoklin"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Termoklin memisahkan lapisan air hangat permukaan dengan air dingin dasar."
+  },
+  {
+    "id": "KU_KL_26",
+    "pertanyaan": "Apa itu 'Hadoop-Aralan' atau Alur Laut Kepulauan Indonesia (ALKI)?",
+    "opsi": [
+      "Jalur pelayaran internasional yang melintasi perairan kepulauan Indonesia",
+      "Area penangkapan ikan",
+      "Tempat pembuangan sampah",
+      "Batas taman nasional",
+      "Pusat riset kelautan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "ALKI merupakan konsesi Indonesia terhadap pelayaran internasional sesuai UNCLOS."
+  },
+  {
+    "id": "KU_KL_27",
+    "pertanyaan": "Kawasan perairan yang dikelola untuk perlindungan keanekaragaman hayati laut disebut...",
+    "opsi": [
+      "ZEE",
+      "Kawasan Konservasi Perairan (KKP / MPA)",
+      "Pelabuhan Bebas",
+      "Kilang Minyak",
+      "Tambak Udang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "KKP bertujuan memastikan keberlanjutan sumber daya ikan."
+  },
+  {
+    "id": "KU_KL_28",
+    "pertanyaan": "Ikan yang menghabiskan sebagian besar hidupnya di laut tetapi bermigrasi ke air tawar untuk memijah contohnya adalah...",
+    "opsi": [
+      "Ikan Tuna",
+      "Ikan Hiu",
+      "Ikan Salmon dan Sidat",
+      "Ikan Pari",
+      "Kerapu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Salmon bersifat anadromus (laut ke tawar), Sidat/Moa bersifat katadromus (tawar ke laut)."
+  },
+  {
+    "id": "KU_KL_29",
+    "pertanyaan": "Kenaikan permukaan air laut global yang mengancam pulau-pulau kecil disebabkan oleh...",
+    "opsi": [
+      "Angin kencang",
+      "Terlalu banyak ikan",
+      "Gempa bumi",
+      "Pemanasan Global (Global Warming) yang mencairkan es di kutub",
+      "Abrasi pantai saja"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penyebabnya adalah ekspansi termal air laut dan mencairnya glasier daratan."
+  },
+  {
+    "id": "KU_KL_30",
+    "pertanyaan": "Mamalia laut yang bernapas menggunakan paru-paru dan melahirkan anaknya adalah...",
+    "opsi": [
+      "Ikan Hiu",
+      "Ikan Pari",
+      "Kuda Laut",
+      "Ubur-ubur",
+      "Lumba-lumba dan Paus"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Meskipun hidup di air, paus dan lumba-lumba bukan ikan, melainkan cetacea (mamalia)."
+  },
+  {
+    "id": "KU_KL_31",
+    "pertanyaan": "Gelombang laut dahsyat yang dipicu oleh aktivitas tektonik (gempa bumi dasar laut) disebut...",
+    "opsi": [
+      "Tsunami",
+      "Tide",
+      "Swell",
+      "Ripple",
+      "Surf"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tsunami memiliki panjang gelombang yang sangat besar dan kecepatan tinggi."
+  },
+  {
+    "id": "KU_KL_32",
+    "pertanyaan": "Alat pengukur salinitas air laut secara cepat berdasarkan pembiasan cahaya adalah...",
+    "opsi": [
+      "Termometer",
+      "Refraktometer",
+      "Barometer",
+      "Hygrometer",
+      "Voltmeter"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Cukup teteskan air laut ke kaca sensor dan lihat skala di dalam lensa."
+  },
+  {
+    "id": "KU_KL_33",
+    "pertanyaan": "Hasil tangkapan ikan sampingan yang tidak sengaja tertangkap dan sering dibuang kembali disebut...",
+    "opsi": [
+      "Target Species",
+      "Live Bait",
+      "By-catch",
+      "Trash Fish",
+      "Predator"
+    ],
+    "jawaban": 2,
+    "pembahasan": "By-catch yang tinggi merugikan ekosistem karena membuang biota yang tidak dikonsumsi."
+  },
+  {
+    "id": "KU_KL_34",
+    "pertanyaan": "Suhu air laut yang lebih dingin meningkatkan kemampuan air untuk melarutkan...",
+    "opsi": [
+      "Garam",
+      "Batu",
+      "Lumpur",
+      "Oksigen (Gas terlarut)",
+      "Logam"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Air dingin di kutub biasanya mengandung oksigen lebih melimpah daripada air tropis."
+  },
+  {
+    "id": "KU_KL_35",
+    "pertanyaan": "Ikan Tuna (Thunnus sp.) termasuk kelompok ikan pelagis, yang artinya...",
+    "opsi": [
+      "Hidup di dasar laut",
+      "Hidup di dalam gua",
+      "Hidup di sungai",
+      "Hidup di darat",
+      "Hidup di kolom perairan (permukaan hingga lapisan tengah)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ikan pelagis biasanya berenang cepat dan bermigrasi jauh."
+  },
+  {
+    "id": "KU_KL_36",
+    "pertanyaan": "Ikan demersal adalah ikan yang menghabiskan sebagian besar hidupnya di...",
+    "opsi": [
+      "Dasar perairan",
+      "Permukaan air",
+      "Udara",
+      "Es kutub",
+      "Bak penampungan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh ikan demersal adalah ikan Kakap, Kerapu, dan Pari."
+  },
+  {
+    "id": "KU_KL_37",
+    "pertanyaan": "Negara Indonesia dikenal sebagai negara kepulauan terbesar di dunia dengan garis pantai terpanjang ke...",
+    "opsi": [
+      "1",
+      "2 (setelah Kanada)",
+      "10",
+      "50",
+      "100"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Potensi maritim Indonesia sangat strategis bagi ekonomi dunia."
+  },
+  {
+    "id": "KU_KL_38",
+    "pertanyaan": "Sistem informasi fisis laut yang memanfaatkan warna permukaan laut (Ocean Color) untuk mendeteksi kesuburan air menggunakan satelit...",
+    "opsi": [
+      "GPS",
+      "Satelit TV",
+      "Landsat / Aqua MODIS",
+      "Satelit Militer",
+      "Google Maps"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Warna hijau (klorofil) dari satelit menunjukkan banyaknya fitoplankton."
+  },
+  {
+    "id": "KU_KL_39",
+    "pertanyaan": "Penggunaan alat tangkap 'Bubu' merupakan metode penangkapan ikan yang bersifat...",
+    "opsi": [
+      "Merusak",
+      "Aktif",
+      "Berbahaya",
+      "Pasif dan ramah lingkungan",
+      "Cepat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bubu bekerja dengan menunggu ikan masuk secara sukarela ke sarang/perangkap."
+  },
+  {
+    "id": "KU_KL_40",
+    "pertanyaan": "Apa keunggulan 'Ikan Sidat' (Anguilla sp.) di pasar ekspor?",
+    "opsi": [
+      "Sebagai ikan hias saja",
+      "Bisa hidup tanpa air",
+      "Murah harganya",
+      "Tidak punya duri",
+      "Kandungan gizi tinggi dan digemari di Jepang (Unagi)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sidat adalah komoditas perikanan bernilai ekonomi sangat tinggi (High Value)."
+  },
+  {
+    "id": "KU_KL_41",
+    "pertanyaan": "Teknik budidaya laut yang menggunakan tali panjang membentang di permukaan laut disebut...",
+    "opsi": [
+      "Longline (Rawai)",
+      "KJA",
+      "Floating Raft (Rakit Apung)",
+      "Tambak",
+      "Akuaponik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Longline sering digunakan untuk budidaya rumput laut atau tiram."
+  },
+  {
+    "id": "KU_KL_42",
+    "pertanyaan": "Manakah yang merupakan produsen utama (pemasok oksigen terbesar) di samudra?",
+    "opsi": [
+      "Ikan Paus",
+      "Fitoplankton",
+      "Terumbu Karang",
+      "Sampah plastik",
+      "Kapal Selam"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Fitoplankton menghasilkan sekitar 50-80% oksigen di atmosfer bumi."
+  },
+  {
+    "id": "KU_KL_43",
+    "pertanyaan": "Pencemaran laut berupa serpihan plastik kecil berukuran kurang dari 5mm disebut...",
+    "opsi": [
+      "Makroplastik",
+      "Nanoplastik",
+      "Mikroplastik",
+      "Bio-plastik",
+      "Plastik ramah lingkungan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mikroplastik berbahaya karena masuk ke dalam rantai makanan dan dimakan oleh ikan."
+  },
+  {
+    "id": "KU_KL_44",
+    "pertanyaan": "Zona wilayah laut yang paling dekat dengan daratan dan terendam saat pasang namun kering saat surut disebut...",
+    "opsi": [
+      "Abisal",
+      "Neritik",
+      "Pelagis",
+      "Intertidal (Litoral)",
+      "Batial"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Zona intertidal memiliki biodiversitas tinggi dan biota yang tahan akan perubahan suhu."
+  },
+  {
+    "id": "KU_KL_45",
+    "pertanyaan": "Aliran massa air laut permukaan yang dibelokkan searah jarum jam di belahan bumi utara akibat gaya rotasi bumi disebut...",
+    "opsi": [
+      "Efek Doppler",
+      "Efek Rumah Kaca",
+      "Efek Tyndall",
+      "Efek Fotoelektrik",
+      "Efek Coriolis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gaya Coriolis menentukan arah angin dan arus laut utama dunia."
+  },
+  {
+    "id": "KU_KL_46",
+    "pertanyaan": "Jenis pasang surut yang terjadi dua kali pasang dan dua kali surut dalam sehari dengan tinggi yang hampir sama disebut...",
+    "opsi": [
+      "Pasut Ganda (Semi-diurnal)",
+      "Pasut Tunggal (Diurnal)",
+      "Pasut Campuran",
+      "Pasut Purnama",
+      "Pasut Perbani"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Semi-diurnal umum terjadi di perairan barat Indonesia."
+  },
+  {
+    "id": "KU_KL_47",
+    "pertanyaan": "Budidaya kepiting soka (soft shell crab) dilakukan dengan memicu proses alami kepiting, yaitu...",
+    "opsi": [
+      "Migrasi",
+      "Molting (Ganti kulit)",
+      "Hibernasi",
+      "Metamorfosis",
+      "Pemijahan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kepiting dipanen segera setelah ganti kulit saat cangkangnya masih lunak."
+  },
+  {
+    "id": "KU_KL_48",
+    "pertanyaan": "Kandungan gas yang paling melimpah dilarutkan dalam air laut adalah...",
+    "opsi": [
+      "Oksigen",
+      "Nitrogen",
+      "Karbon Dioksida (CO2)",
+      "Argon",
+      "Helium"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Lautan bertindak sebagai penyerap CO2 (Carbon Sink) terbesar di dunia."
+  },
+  {
+    "id": "KU_KL_49",
+    "pertanyaan": "Profesi ahli kelautan lulusan universitas biasanya disebut sebagai...",
+    "opsi": [
+      "Penyelam",
+      "Sopir kapal",
+      "Penjual ikan",
+      "Oceanografer / Marine Biologist",
+      "Tukang gali pasir"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ilmuwan laut bekerja di bidang riset, konservasi, hingga eksplorasi lepas pantai."
+  },
+  {
+    "id": "KU_KL_50",
+    "pertanyaan": "Mengapa belajar Ilmu Kelautan di RevStudy sangat relevan bagi generasi muda Indonesia?",
+    "opsi": [
+      "Hanya supaya bisa liburan ke pantai",
+      "Supaya jago berenang",
+      "Hanya menghabiskan waktu luang",
+      "Agar dapet uang saja",
+      "Karena Indonesia adalah negara maritim yang butuh tenaga ahli untuk mengelola kekayaan laut secara lestari dan mandiri"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Masa depan kemakmuran Indonesia ada di laut ('Jalesveva Jayamahe')."
+  }
+]

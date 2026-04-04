@@ -1,0 +1,708 @@
+{
+  "id": "sd-6-ipas",
+  "tingkat": "SD Kelas 6",
+  "mapel": "IPAS",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "ipas6-1",
+      "teks": "Cicak melepaskan ekornya saat dikejar pemangsa. Adaptasi ini disebut... (Prediksi USBN #1)",
+      "opsi": {
+        "A": "Autotomi",
+        "B": "Mimikri",
+        "C": "Kamuflase",
+        "D": "Ekolokasi",
+        "E": "Hibernasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Autotomi: memutuskan bagian tubuh. Mimikri: bunglon. Ekolokasi: kelelawar.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-2",
+      "teks": "Planet terbesar dalam tata surya kita adalah... (Prediksi USBN #2)",
+      "opsi": {
+        "A": "Saturnus",
+        "B": "Yupiter",
+        "C": "Bumi",
+        "D": "Mars",
+        "E": "Uranus"
+      },
+      "kunci": "B",
+      "pembahasan": "Yupiter adalah planet raksasa gas terbesar di tata surya kita.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-3",
+      "teks": "Gerhana matahari total terjadi ketika bumi berada pada wilayah... (Prediksi USBN #3)",
+      "opsi": {
+        "A": "Penumbra bulan",
+        "B": "Di luar bayangan bulan",
+        "C": "Umbul (Umbra) bulan",
+        "D": "Cahaya langsung matahari",
+        "E": "Umbra bumi"
+      },
+      "kunci": "C",
+      "pembahasan": "Umbra adalah bayangan inti yang sangat gelap. Jika area bumi di umbra bulan, terjadi gerhana total.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-4",
+      "teks": "Kerjasama negara-negara Asia Tenggara tergabung dalam organisasi bernama... (Prediksi USBN #4)",
+      "opsi": {
+        "A": "PBB",
+        "B": "OPEC",
+        "C": "NATO",
+        "D": "ASEAN",
+        "E": "APEC"
+      },
+      "kunci": "D",
+      "pembahasan": "ASEAN (Association of Southeast Asian Nations) dibentuk tanggal 8 Agustus 1967.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-5",
+      "teks": "Sumber energi listrik yang tidak akan habis karena terus dapat diperbarui contohnya adalah... (Prediksi USBN #5)",
+      "opsi": {
+        "A": "Batu bara",
+        "B": "Minyak bumi",
+        "C": "Gas alam",
+        "D": "Uranium",
+        "E": "Sinar matahari (sel surya)"
+      },
+      "kunci": "E",
+      "pembahasan": "Matahari, angin, dan air adalah energi alternatif yang terbarukan.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-6",
+      "teks": "Cicak melepaskan ekornya saat dikejar pemangsa. Adaptasi ini disebut... (Prediksi USBN #6)",
+      "opsi": {
+        "A": "Autotomi",
+        "B": "Mimikri",
+        "C": "Kamuflase",
+        "D": "Ekolokasi",
+        "E": "Hibernasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Autotomi: memutuskan bagian tubuh. Mimikri: bunglon. Ekolokasi: kelelawar.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-7",
+      "teks": "Planet terbesar dalam tata surya kita adalah... (Prediksi USBN #7)",
+      "opsi": {
+        "A": "Saturnus",
+        "B": "Yupiter",
+        "C": "Bumi",
+        "D": "Mars",
+        "E": "Uranus"
+      },
+      "kunci": "B",
+      "pembahasan": "Yupiter adalah planet raksasa gas terbesar di tata surya kita.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-8",
+      "teks": "Gerhana matahari total terjadi ketika bumi berada pada wilayah... (Prediksi USBN #8)",
+      "opsi": {
+        "A": "Penumbra bulan",
+        "B": "Di luar bayangan bulan",
+        "C": "Umbul (Umbra) bulan",
+        "D": "Cahaya langsung matahari",
+        "E": "Umbra bumi"
+      },
+      "kunci": "C",
+      "pembahasan": "Umbra adalah bayangan inti yang sangat gelap. Jika area bumi di umbra bulan, terjadi gerhana total.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-9",
+      "teks": "Kerjasama negara-negara Asia Tenggara tergabung dalam organisasi bernama... (Prediksi USBN #9)",
+      "opsi": {
+        "A": "PBB",
+        "B": "OPEC",
+        "C": "NATO",
+        "D": "ASEAN",
+        "E": "APEC"
+      },
+      "kunci": "D",
+      "pembahasan": "ASEAN (Association of Southeast Asian Nations) dibentuk tanggal 8 Agustus 1967.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-10",
+      "teks": "Sumber energi listrik yang tidak akan habis karena terus dapat diperbarui contohnya adalah... (Prediksi USBN #10)",
+      "opsi": {
+        "A": "Batu bara",
+        "B": "Minyak bumi",
+        "C": "Gas alam",
+        "D": "Uranium",
+        "E": "Sinar matahari (sel surya)"
+      },
+      "kunci": "E",
+      "pembahasan": "Matahari, angin, dan air adalah energi alternatif yang terbarukan.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-11",
+      "teks": "Cicak melepaskan ekornya saat dikejar pemangsa. Adaptasi ini disebut... (Prediksi USBN #11)",
+      "opsi": {
+        "A": "Autotomi",
+        "B": "Mimikri",
+        "C": "Kamuflase",
+        "D": "Ekolokasi",
+        "E": "Hibernasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Autotomi: memutuskan bagian tubuh. Mimikri: bunglon. Ekolokasi: kelelawar.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-12",
+      "teks": "Planet terbesar dalam tata surya kita adalah... (Prediksi USBN #12)",
+      "opsi": {
+        "A": "Saturnus",
+        "B": "Yupiter",
+        "C": "Bumi",
+        "D": "Mars",
+        "E": "Uranus"
+      },
+      "kunci": "B",
+      "pembahasan": "Yupiter adalah planet raksasa gas terbesar di tata surya kita.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-13",
+      "teks": "Gerhana matahari total terjadi ketika bumi berada pada wilayah... (Prediksi USBN #13)",
+      "opsi": {
+        "A": "Penumbra bulan",
+        "B": "Di luar bayangan bulan",
+        "C": "Umbul (Umbra) bulan",
+        "D": "Cahaya langsung matahari",
+        "E": "Umbra bumi"
+      },
+      "kunci": "C",
+      "pembahasan": "Umbra adalah bayangan inti yang sangat gelap. Jika area bumi di umbra bulan, terjadi gerhana total.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-14",
+      "teks": "Kerjasama negara-negara Asia Tenggara tergabung dalam organisasi bernama... (Prediksi USBN #14)",
+      "opsi": {
+        "A": "PBB",
+        "B": "OPEC",
+        "C": "NATO",
+        "D": "ASEAN",
+        "E": "APEC"
+      },
+      "kunci": "D",
+      "pembahasan": "ASEAN (Association of Southeast Asian Nations) dibentuk tanggal 8 Agustus 1967.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-15",
+      "teks": "Sumber energi listrik yang tidak akan habis karena terus dapat diperbarui contohnya adalah... (Prediksi USBN #15)",
+      "opsi": {
+        "A": "Batu bara",
+        "B": "Minyak bumi",
+        "C": "Gas alam",
+        "D": "Uranium",
+        "E": "Sinar matahari (sel surya)"
+      },
+      "kunci": "E",
+      "pembahasan": "Matahari, angin, dan air adalah energi alternatif yang terbarukan.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-16",
+      "teks": "Cicak melepaskan ekornya saat dikejar pemangsa. Adaptasi ini disebut... (Prediksi USBN #16)",
+      "opsi": {
+        "A": "Autotomi",
+        "B": "Mimikri",
+        "C": "Kamuflase",
+        "D": "Ekolokasi",
+        "E": "Hibernasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Autotomi: memutuskan bagian tubuh. Mimikri: bunglon. Ekolokasi: kelelawar.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-17",
+      "teks": "Planet terbesar dalam tata surya kita adalah... (Prediksi USBN #17)",
+      "opsi": {
+        "A": "Saturnus",
+        "B": "Yupiter",
+        "C": "Bumi",
+        "D": "Mars",
+        "E": "Uranus"
+      },
+      "kunci": "B",
+      "pembahasan": "Yupiter adalah planet raksasa gas terbesar di tata surya kita.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-18",
+      "teks": "Gerhana matahari total terjadi ketika bumi berada pada wilayah... (Prediksi USBN #18)",
+      "opsi": {
+        "A": "Penumbra bulan",
+        "B": "Di luar bayangan bulan",
+        "C": "Umbul (Umbra) bulan",
+        "D": "Cahaya langsung matahari",
+        "E": "Umbra bumi"
+      },
+      "kunci": "C",
+      "pembahasan": "Umbra adalah bayangan inti yang sangat gelap. Jika area bumi di umbra bulan, terjadi gerhana total.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-19",
+      "teks": "Kerjasama negara-negara Asia Tenggara tergabung dalam organisasi bernama... (Prediksi USBN #19)",
+      "opsi": {
+        "A": "PBB",
+        "B": "OPEC",
+        "C": "NATO",
+        "D": "ASEAN",
+        "E": "APEC"
+      },
+      "kunci": "D",
+      "pembahasan": "ASEAN (Association of Southeast Asian Nations) dibentuk tanggal 8 Agustus 1967.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-20",
+      "teks": "Sumber energi listrik yang tidak akan habis karena terus dapat diperbarui contohnya adalah... (Prediksi USBN #20)",
+      "opsi": {
+        "A": "Batu bara",
+        "B": "Minyak bumi",
+        "C": "Gas alam",
+        "D": "Uranium",
+        "E": "Sinar matahari (sel surya)"
+      },
+      "kunci": "E",
+      "pembahasan": "Matahari, angin, dan air adalah energi alternatif yang terbarukan.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-21",
+      "teks": "Cicak melepaskan ekornya saat dikejar pemangsa. Adaptasi ini disebut... (Prediksi USBN #21)",
+      "opsi": {
+        "A": "Autotomi",
+        "B": "Mimikri",
+        "C": "Kamuflase",
+        "D": "Ekolokasi",
+        "E": "Hibernasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Autotomi: memutuskan bagian tubuh. Mimikri: bunglon. Ekolokasi: kelelawar.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-22",
+      "teks": "Planet terbesar dalam tata surya kita adalah... (Prediksi USBN #22)",
+      "opsi": {
+        "A": "Saturnus",
+        "B": "Yupiter",
+        "C": "Bumi",
+        "D": "Mars",
+        "E": "Uranus"
+      },
+      "kunci": "B",
+      "pembahasan": "Yupiter adalah planet raksasa gas terbesar di tata surya kita.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-23",
+      "teks": "Gerhana matahari total terjadi ketika bumi berada pada wilayah... (Prediksi USBN #23)",
+      "opsi": {
+        "A": "Penumbra bulan",
+        "B": "Di luar bayangan bulan",
+        "C": "Umbul (Umbra) bulan",
+        "D": "Cahaya langsung matahari",
+        "E": "Umbra bumi"
+      },
+      "kunci": "C",
+      "pembahasan": "Umbra adalah bayangan inti yang sangat gelap. Jika area bumi di umbra bulan, terjadi gerhana total.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-24",
+      "teks": "Kerjasama negara-negara Asia Tenggara tergabung dalam organisasi bernama... (Prediksi USBN #24)",
+      "opsi": {
+        "A": "PBB",
+        "B": "OPEC",
+        "C": "NATO",
+        "D": "ASEAN",
+        "E": "APEC"
+      },
+      "kunci": "D",
+      "pembahasan": "ASEAN (Association of Southeast Asian Nations) dibentuk tanggal 8 Agustus 1967.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-25",
+      "teks": "Sumber energi listrik yang tidak akan habis karena terus dapat diperbarui contohnya adalah... (Prediksi USBN #25)",
+      "opsi": {
+        "A": "Batu bara",
+        "B": "Minyak bumi",
+        "C": "Gas alam",
+        "D": "Uranium",
+        "E": "Sinar matahari (sel surya)"
+      },
+      "kunci": "E",
+      "pembahasan": "Matahari, angin, dan air adalah energi alternatif yang terbarukan.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-26",
+      "teks": "Cicak melepaskan ekornya saat dikejar pemangsa. Adaptasi ini disebut... (Prediksi USBN #26)",
+      "opsi": {
+        "A": "Autotomi",
+        "B": "Mimikri",
+        "C": "Kamuflase",
+        "D": "Ekolokasi",
+        "E": "Hibernasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Autotomi: memutuskan bagian tubuh. Mimikri: bunglon. Ekolokasi: kelelawar.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-27",
+      "teks": "Planet terbesar dalam tata surya kita adalah... (Prediksi USBN #27)",
+      "opsi": {
+        "A": "Saturnus",
+        "B": "Yupiter",
+        "C": "Bumi",
+        "D": "Mars",
+        "E": "Uranus"
+      },
+      "kunci": "B",
+      "pembahasan": "Yupiter adalah planet raksasa gas terbesar di tata surya kita.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-28",
+      "teks": "Gerhana matahari total terjadi ketika bumi berada pada wilayah... (Prediksi USBN #28)",
+      "opsi": {
+        "A": "Penumbra bulan",
+        "B": "Di luar bayangan bulan",
+        "C": "Umbul (Umbra) bulan",
+        "D": "Cahaya langsung matahari",
+        "E": "Umbra bumi"
+      },
+      "kunci": "C",
+      "pembahasan": "Umbra adalah bayangan inti yang sangat gelap. Jika area bumi di umbra bulan, terjadi gerhana total.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-29",
+      "teks": "Kerjasama negara-negara Asia Tenggara tergabung dalam organisasi bernama... (Prediksi USBN #29)",
+      "opsi": {
+        "A": "PBB",
+        "B": "OPEC",
+        "C": "NATO",
+        "D": "ASEAN",
+        "E": "APEC"
+      },
+      "kunci": "D",
+      "pembahasan": "ASEAN (Association of Southeast Asian Nations) dibentuk tanggal 8 Agustus 1967.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-30",
+      "teks": "Sumber energi listrik yang tidak akan habis karena terus dapat diperbarui contohnya adalah... (Prediksi USBN #30)",
+      "opsi": {
+        "A": "Batu bara",
+        "B": "Minyak bumi",
+        "C": "Gas alam",
+        "D": "Uranium",
+        "E": "Sinar matahari (sel surya)"
+      },
+      "kunci": "E",
+      "pembahasan": "Matahari, angin, dan air adalah energi alternatif yang terbarukan.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-31",
+      "teks": "Cicak melepaskan ekornya saat dikejar pemangsa. Adaptasi ini disebut... (Prediksi USBN #31)",
+      "opsi": {
+        "A": "Autotomi",
+        "B": "Mimikri",
+        "C": "Kamuflase",
+        "D": "Ekolokasi",
+        "E": "Hibernasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Autotomi: memutuskan bagian tubuh. Mimikri: bunglon. Ekolokasi: kelelawar.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-32",
+      "teks": "Planet terbesar dalam tata surya kita adalah... (Prediksi USBN #32)",
+      "opsi": {
+        "A": "Saturnus",
+        "B": "Yupiter",
+        "C": "Bumi",
+        "D": "Mars",
+        "E": "Uranus"
+      },
+      "kunci": "B",
+      "pembahasan": "Yupiter adalah planet raksasa gas terbesar di tata surya kita.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-33",
+      "teks": "Gerhana matahari total terjadi ketika bumi berada pada wilayah... (Prediksi USBN #33)",
+      "opsi": {
+        "A": "Penumbra bulan",
+        "B": "Di luar bayangan bulan",
+        "C": "Umbul (Umbra) bulan",
+        "D": "Cahaya langsung matahari",
+        "E": "Umbra bumi"
+      },
+      "kunci": "C",
+      "pembahasan": "Umbra adalah bayangan inti yang sangat gelap. Jika area bumi di umbra bulan, terjadi gerhana total.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-34",
+      "teks": "Kerjasama negara-negara Asia Tenggara tergabung dalam organisasi bernama... (Prediksi USBN #34)",
+      "opsi": {
+        "A": "PBB",
+        "B": "OPEC",
+        "C": "NATO",
+        "D": "ASEAN",
+        "E": "APEC"
+      },
+      "kunci": "D",
+      "pembahasan": "ASEAN (Association of Southeast Asian Nations) dibentuk tanggal 8 Agustus 1967.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-35",
+      "teks": "Sumber energi listrik yang tidak akan habis karena terus dapat diperbarui contohnya adalah... (Prediksi USBN #35)",
+      "opsi": {
+        "A": "Batu bara",
+        "B": "Minyak bumi",
+        "C": "Gas alam",
+        "D": "Uranium",
+        "E": "Sinar matahari (sel surya)"
+      },
+      "kunci": "E",
+      "pembahasan": "Matahari, angin, dan air adalah energi alternatif yang terbarukan.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-36",
+      "teks": "Cicak melepaskan ekornya saat dikejar pemangsa. Adaptasi ini disebut... (Prediksi USBN #36)",
+      "opsi": {
+        "A": "Autotomi",
+        "B": "Mimikri",
+        "C": "Kamuflase",
+        "D": "Ekolokasi",
+        "E": "Hibernasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Autotomi: memutuskan bagian tubuh. Mimikri: bunglon. Ekolokasi: kelelawar.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-37",
+      "teks": "Planet terbesar dalam tata surya kita adalah... (Prediksi USBN #37)",
+      "opsi": {
+        "A": "Saturnus",
+        "B": "Yupiter",
+        "C": "Bumi",
+        "D": "Mars",
+        "E": "Uranus"
+      },
+      "kunci": "B",
+      "pembahasan": "Yupiter adalah planet raksasa gas terbesar di tata surya kita.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-38",
+      "teks": "Gerhana matahari total terjadi ketika bumi berada pada wilayah... (Prediksi USBN #38)",
+      "opsi": {
+        "A": "Penumbra bulan",
+        "B": "Di luar bayangan bulan",
+        "C": "Umbul (Umbra) bulan",
+        "D": "Cahaya langsung matahari",
+        "E": "Umbra bumi"
+      },
+      "kunci": "C",
+      "pembahasan": "Umbra adalah bayangan inti yang sangat gelap. Jika area bumi di umbra bulan, terjadi gerhana total.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-39",
+      "teks": "Kerjasama negara-negara Asia Tenggara tergabung dalam organisasi bernama... (Prediksi USBN #39)",
+      "opsi": {
+        "A": "PBB",
+        "B": "OPEC",
+        "C": "NATO",
+        "D": "ASEAN",
+        "E": "APEC"
+      },
+      "kunci": "D",
+      "pembahasan": "ASEAN (Association of Southeast Asian Nations) dibentuk tanggal 8 Agustus 1967.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-40",
+      "teks": "Sumber energi listrik yang tidak akan habis karena terus dapat diperbarui contohnya adalah... (Prediksi USBN #40)",
+      "opsi": {
+        "A": "Batu bara",
+        "B": "Minyak bumi",
+        "C": "Gas alam",
+        "D": "Uranium",
+        "E": "Sinar matahari (sel surya)"
+      },
+      "kunci": "E",
+      "pembahasan": "Matahari, angin, dan air adalah energi alternatif yang terbarukan.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-41",
+      "teks": "Cicak melepaskan ekornya saat dikejar pemangsa. Adaptasi ini disebut... (Prediksi USBN #41)",
+      "opsi": {
+        "A": "Autotomi",
+        "B": "Mimikri",
+        "C": "Kamuflase",
+        "D": "Ekolokasi",
+        "E": "Hibernasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Autotomi: memutuskan bagian tubuh. Mimikri: bunglon. Ekolokasi: kelelawar.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-42",
+      "teks": "Planet terbesar dalam tata surya kita adalah... (Prediksi USBN #42)",
+      "opsi": {
+        "A": "Saturnus",
+        "B": "Yupiter",
+        "C": "Bumi",
+        "D": "Mars",
+        "E": "Uranus"
+      },
+      "kunci": "B",
+      "pembahasan": "Yupiter adalah planet raksasa gas terbesar di tata surya kita.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-43",
+      "teks": "Gerhana matahari total terjadi ketika bumi berada pada wilayah... (Prediksi USBN #43)",
+      "opsi": {
+        "A": "Penumbra bulan",
+        "B": "Di luar bayangan bulan",
+        "C": "Umbul (Umbra) bulan",
+        "D": "Cahaya langsung matahari",
+        "E": "Umbra bumi"
+      },
+      "kunci": "C",
+      "pembahasan": "Umbra adalah bayangan inti yang sangat gelap. Jika area bumi di umbra bulan, terjadi gerhana total.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-44",
+      "teks": "Kerjasama negara-negara Asia Tenggara tergabung dalam organisasi bernama... (Prediksi USBN #44)",
+      "opsi": {
+        "A": "PBB",
+        "B": "OPEC",
+        "C": "NATO",
+        "D": "ASEAN",
+        "E": "APEC"
+      },
+      "kunci": "D",
+      "pembahasan": "ASEAN (Association of Southeast Asian Nations) dibentuk tanggal 8 Agustus 1967.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-45",
+      "teks": "Sumber energi listrik yang tidak akan habis karena terus dapat diperbarui contohnya adalah... (Prediksi USBN #45)",
+      "opsi": {
+        "A": "Batu bara",
+        "B": "Minyak bumi",
+        "C": "Gas alam",
+        "D": "Uranium",
+        "E": "Sinar matahari (sel surya)"
+      },
+      "kunci": "E",
+      "pembahasan": "Matahari, angin, dan air adalah energi alternatif yang terbarukan.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-46",
+      "teks": "Cicak melepaskan ekornya saat dikejar pemangsa. Adaptasi ini disebut... (Prediksi USBN #46)",
+      "opsi": {
+        "A": "Autotomi",
+        "B": "Mimikri",
+        "C": "Kamuflase",
+        "D": "Ekolokasi",
+        "E": "Hibernasi"
+      },
+      "kunci": "A",
+      "pembahasan": "Autotomi: memutuskan bagian tubuh. Mimikri: bunglon. Ekolokasi: kelelawar.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-47",
+      "teks": "Planet terbesar dalam tata surya kita adalah... (Prediksi USBN #47)",
+      "opsi": {
+        "A": "Saturnus",
+        "B": "Yupiter",
+        "C": "Bumi",
+        "D": "Mars",
+        "E": "Uranus"
+      },
+      "kunci": "B",
+      "pembahasan": "Yupiter adalah planet raksasa gas terbesar di tata surya kita.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-48",
+      "teks": "Gerhana matahari total terjadi ketika bumi berada pada wilayah... (Prediksi USBN #48)",
+      "opsi": {
+        "A": "Penumbra bulan",
+        "B": "Di luar bayangan bulan",
+        "C": "Umbul (Umbra) bulan",
+        "D": "Cahaya langsung matahari",
+        "E": "Umbra bumi"
+      },
+      "kunci": "C",
+      "pembahasan": "Umbra adalah bayangan inti yang sangat gelap. Jika area bumi di umbra bulan, terjadi gerhana total.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-49",
+      "teks": "Kerjasama negara-negara Asia Tenggara tergabung dalam organisasi bernama... (Prediksi USBN #49)",
+      "opsi": {
+        "A": "PBB",
+        "B": "OPEC",
+        "C": "NATO",
+        "D": "ASEAN",
+        "E": "APEC"
+      },
+      "kunci": "D",
+      "pembahasan": "ASEAN (Association of Southeast Asian Nations) dibentuk tanggal 8 Agustus 1967.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    },
+    {
+      "id": "ipas6-50",
+      "teks": "Sumber energi listrik yang tidak akan habis karena terus dapat diperbarui contohnya adalah... (Prediksi USBN #50)",
+      "opsi": {
+        "A": "Batu bara",
+        "B": "Minyak bumi",
+        "C": "Gas alam",
+        "D": "Uranium",
+        "E": "Sinar matahari (sel surya)"
+      },
+      "kunci": "E",
+      "pembahasan": "Matahari, angin, dan air adalah energi alternatif yang terbarukan.",
+      "trik": "Hafalkan planet secara berurutan: Me-Ve-Bu-Ma-Yu-Sa-U-N."
+    }
+  ]
+}

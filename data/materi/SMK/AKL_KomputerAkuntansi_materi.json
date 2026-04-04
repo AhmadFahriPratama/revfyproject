@@ -1,0 +1,53 @@
+{
+  "judul": "Komputer Akuntansi",
+  "tingkatan": "SMK",
+  "jurusan": "Akuntansi dan Keuangan Lembaga",
+  "deskripsi": "Materi mengenai penggunaan software akuntansi (seperti MYOB/Accurate) untuk mengelola data bisnis, menjurnal transaksi, hingga menghasilkan laporan keuangan otomatis.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Persiapan Data Perusahaan",
+      "konten": "Langkah awal pembuatan data baru (create) di software akuntansi. Pengisian identitas perusahaan, penentuan periode akuntansi (twelve vs thirteen months), serta pemilihan bagan akun (Chart of Accounts) yang sesuai dengan bidang usaha.",
+      "tag": [
+        "akl komputerakuntansi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Pembuatan Daftar Akun dan Link Account",
+      "konten": "Penyisipan, pengubahan, dan penghapusan akun. Pengaturan Link Account untuk otomatisasi pencatatan kas, piutang, dan utang. Pengisian saldo awal (opening balance) dan pemeriksaan keseimbangan neraca (Historical Balancing).",
+      "tag": [
+        "akl komputerakuntansi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Data Pembantu (Card File & Inventory)",
+      "konten": "Pembuatan kartu pelanggan (Customer), kartu pemasok (Vendor), dan kartu persediaan (Item List). Pengaturan pajak (Tax Codes/PPN) serta pengisian saldo awal piutang, utang, dan stok barang di gudang.",
+      "tag": [
+        "akl komputerakuntansi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Pencatatan Transaksi Bisnis",
+      "konten": "Input transaksi menggunakan modul-modul tersedia: Banking (biaya operasional), Purchase (pembelian), Sales (penjualan), dan General Journal (penyesuaian). Cara melakukan koreksi atau penghapusan jurnal yang salah.",
+      "tag": [
+        "akl komputerakuntansi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pelaporan dan Penutupan",
+      "konten": "Proses otomatis penyusunan Laporan Laba Rugi, Neraca, Laporan Arus Kas, dan Laporan Piutang/Utang. Teknik backup data untuk keamanan histori transaksi serta proses tutup buku akhir tahun (End of Year Process).",
+      "tag": [
+        "akl komputerakuntansi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "akl-komputerakuntansi-materi",
+  "mapel": "Komputer Akuntansi",
+  "tag": [
+    "akl komputerakuntansi materi"
+  ]
+}

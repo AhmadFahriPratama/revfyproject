@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_KM_01",
+    "pertanyaan": "Proses penyampaian pesan dari komunikator kepada komunikan melalui media tertentu untuk menimbulkan efek disebut...",
+    "opsi": [
+      "Komunikasi",
+      "Sosialisasi",
+      "Promosi",
+      "Publikasi",
+      "Negosiasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Komunikasi adalah interaksi dasar manusia untuk bertukar makna."
+  },
+  {
+    "id": "KU_KM_02",
+    "pertanyaan": "Model komunikasi yang terkenal dengan pertanyaan 'Who says what, in which channel, to whom, with what effect?' dikemukakan oleh...",
+    "opsi": [
+      "Wilbur Schramm",
+      "Harold Lasswell",
+      "Claude Shannon",
+      "Abraham Maslow",
+      "Karl Marx"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Model Lasswell menekankan pada elemen-elemen linier dalam komunikasi."
+  },
+  {
+    "id": "KU_KM_03",
+    "pertanyaan": "Pihak yang mengirimkan pesan atau memulai proses komunikasi disebut...",
+    "opsi": [
+      "Komunikan",
+      "Mediator",
+      "Komunikator",
+      "Provokator",
+      "Narrator"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Komunikator bertanggung jawab atas kejelasan pesan yang dikirim."
+  },
+  {
+    "id": "KU_KM_04",
+    "pertanyaan": "Segala sesuatu yang dapat menghambat atau merusak proses komunikasi sehingga pesan tidak sampai dengan baik disebut...",
+    "opsi": [
+      "Signal",
+      "Feedback",
+      "Encoding",
+      "Noise (Gangguan)",
+      "Decoding"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Gangguan bisa berupa fisik (bising), semantik (bahasa), atau psikologis (prasangka)."
+  },
+  {
+    "id": "KU_KM_05",
+    "pertanyaan": "Tanggapan atau respon yang diberikan oleh penerima pesan kepada pengirim pesan disebut...",
+    "opsi": [
+      "Stimulus",
+      "Refleksi",
+      "Reaksi",
+      "Efek",
+      "Feedback (Umpan Balik)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Umpan balik membantu komunikator mengetahui apakah pesan sudah dipahami."
+  },
+  {
+    "id": "KU_KM_06",
+    "pertanyaan": "Komunikasi yang dilakukan seseorang dengan dirinya sendiri (seperti bergumam atau berdoa) disebut komunikasi...",
+    "opsi": [
+      "Intrapersonal",
+      "Interpersonal",
+      "Kelompok",
+      "Massa",
+      "Organisasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Intrapersonal adalah proses berpikir dan pengolahan informasi di dalam diri."
+  },
+  {
+    "id": "KU_KM_07",
+    "pertanyaan": "Komunikasi tatap muka antara dua orang atau lebih yang memungkinkan adanya respon langsung disebut komunikasi...",
+    "opsi": [
+      "Intrapersonal",
+      "Interpersonal (Antarpribadi)",
+      "Massa",
+      "Publik",
+      "Instruksional"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Interpersonal fokus pada hubungan akrab dan pertukaran pesan dua arah."
+  },
+  {
+    "id": "KU_KM_08",
+    "pertanyaan": "Komunikasi yang ditujukan kepada khalayak luas yang anonim dan heterogen melalui saluran media cetak atau elektronik adalah komunikasi...",
+    "opsi": [
+      "Kelompok",
+      "Interpersonal",
+      "Komunikasi Massa",
+      "Diplomatik",
+      "Internal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Ciri khas komunikasi massa adalah pesannya terbuka dan serempak."
+  },
+  {
+    "id": "KU_KM_09",
+    "pertanyaan": "Teori komunikasi massa yang menyatakan bahwa media memiliki kekuatan besar dalam mempengaruhi khalayak secara langsung dan instan (seperti peluru) adalah...",
+    "opsi": [
+      "Agenda Setting",
+      "Cultivation Theory",
+      "Uses and Gratification",
+      "Teori Jarum Hipodermik (Magic Bullet Theory)",
+      "Framing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Teori ini menganggap khalayak pasif dan mudah dipengaruhi oleh pesan media."
+  },
+  {
+    "id": "KU_KM_10",
+    "pertanyaan": "Teori yang menyatakan bahwa media massa memang tidak menentukan apa yang harus dipikirkan khalayak, tetapi media menentukan isu apa yang penting untuk dipikirkan disebut...",
+    "opsi": [
+      "Spiral of Silence",
+      "Teori Difusi Inovasi",
+      "Analisis Wacana",
+      "Semiotika",
+      "Agenda Setting"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Apa yang dianggap penting oleh media akan dianggap penting pula oleh publik."
+  },
+  {
+    "id": "KU_KM_11",
+    "pertanyaan": "Studi tentang tanda-tanda (signs) dan cara tanda tersebut memberikan makna dalam komunikasi disebut...",
+    "opsi": [
+      "Semiotika",
+      "Sosiologi",
+      "Linguistik",
+      "Filosofi",
+      "Telekomunikasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tokoh terkenalnya antara lain Ferdinand de Saussure dan Roland Barthes."
+  },
+  {
+    "id": "KU_KM_12",
+    "pertanyaan": "Fungsi Public Relations (Humas) yang bertujuan memperbaiki citra perusahaan saat terjadi skandal atau kecelakaan besar disebut...",
+    "opsi": [
+      "Media Relations",
+      "Crisis Management (Manajemen Krisis)",
+      "Community Relations",
+      "Government Relations",
+      "Employee Relations"
+    ],
+    "jawaban": 1,
+    "pembahasan": "PR harus bertindak cepat dan transparan untuk menjaga reputasi organisasi."
+  },
+  {
+    "id": "KU_KM_13",
+    "pertanyaan": "Pesan promosi berbayar yang disampaikan melalui media dengan tujuan membujuk khalayak untuk membeli atau melakukan sesuatu disebut...",
+    "opsi": [
+      "Berita",
+      "Feature",
+      "Iklan (Advertising)",
+      "Editorial",
+      "Opini"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Iklan menggunakan elemen kreatif untuk memikat target pasar."
+  },
+  {
+    "id": "KU_KM_14",
+    "pertanyaan": "Upaya untuk mempengaruhi pendapat atau pemikiran orang lain dengan menyebarkan informasi yang seringkali bias atau menyesatkan disebut...",
+    "opsi": [
+      "Edukasi",
+      "Sosialisasi",
+      "Kultarisasi",
+      "Propaganda",
+      "Globalisasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Propaganda sering digunakan dalam konteks politik atau perang."
+  },
+  {
+    "id": "KU_KM_15",
+    "pertanyaan": "Teknik penulisan berita di mana informasi yang paling penting diletakkan di bagian paling awal (lead) disebut struktur...",
+    "opsi": [
+      "Piramida Tegak",
+      "Kronologis",
+      "Narasi",
+      "Deskriptif",
+      "Piramida Terbalik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Piramida terbalik memudahkan pembaca mengetahui intisari berita dengan cepat."
+  },
+  {
+    "id": "KU_KM_16",
+    "pertanyaan": "Bagian awal berita yang berisi 5W+1H (Who, What, When, Where, Why, How) disebut...",
+    "opsi": [
+      "Teras Berita (Lead)",
+      "Judul (Headline)",
+      "Tubuh Berita (Body)",
+      "Kaki Berita (Leg)",
+      "Kredit"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Lead yang baik harus menarik perhatian pembaca sejak kalimat pertama."
+  },
+  {
+    "id": "KU_KM_17",
+    "pertanyaan": "Gaya penulisan berita yang lebih santai, mendalam, dan menekankan pada aspek kemanusiaan (human interest) disebut...",
+    "opsi": [
+      "Hard News",
+      "Feature",
+      "Straight News",
+      "Spot News",
+      "Investigasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Feature seringkali bersifat abadi (timeless) dibanding hard news yang cepat basi."
+  },
+  {
+    "id": "KU_KM_18",
+    "pertanyaan": "Etika jurnalistik melarang wartawan untuk menerima suap atau pemberian dalam bentuk apa pun yang dapat mempengaruhi independensi berita, yang sering disebut...",
+    "opsi": [
+      "Uang Lelah",
+      "Hadiah Lebaran",
+      "Amplop / Wartawan Amplop",
+      "Honorarium",
+      "Royalti"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Independensi adalah harga mati bagi integritas seorang jurnalis."
+  },
+  {
+    "id": "KU_KM_19",
+    "pertanyaan": "Hak seorang wartawan untuk tidak mengungkapkan nama atau identitas sumber informasi demi keselamatan sumber tersebut disebut...",
+    "opsi": [
+      "Hak Jawab",
+      "Hak Koreksi",
+      "Hak Prerogatif",
+      "Hak Tolak",
+      "Hak Angket"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hak tolak dijamin oleh UU Pers di Indonesia."
+  },
+  {
+    "id": "KU_KM_20",
+    "pertanyaan": "Pihak yang merasa dirugikan oleh sebuah pemberitaan di media massa memiliki hak untuk memberikan tanggapan atau sanggahan yang disebut...",
+    "opsi": [
+      "Hak Tolak",
+      "Hak Koreksi",
+      "Hak Gugat",
+      "Hak Cipta",
+      "Hak Jawab"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Media wajib memuat hak jawab dari pihak yang diberitakan secara proporsional."
+  },
+  {
+    "id": "KU_KM_21",
+    "pertanyaan": "Apa yang dimaksud dengan 'Citizen Journalism' (Jurnalisme Warga)?",
+    "opsi": [
+      "Aktivitas pencarian dan penyebaran berita yang dilakukan oleh masyarakat biasa yang bukan jurnalis profesional",
+      "Berita tentang warga desa",
+      "Berita tentang pemilihan umum",
+      "Iklan layanan masyarakat",
+      "Laporan cuaca harian"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Maraknya media sosial mendukung perkembangan jurnalisme warga secara masif."
+  },
+  {
+    "id": "KU_KM_22",
+    "pertanyaan": "Proses pengubahan gagasan atau pikiran menjadi simbol, kata, atau isyarat dalam komunikasi disebut...",
+    "opsi": [
+      "Decoding",
+      "Encoding",
+      "Translating",
+      "Scanning",
+      "Editing"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Encoding dilakukan oleh komunikator. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Encoding\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_KM_23",
+    "pertanyaan": "Proses penerimaan dan penerjemahan simbol-simbol komunikasi oleh penerima menjadi sebuah makna disebut...",
+    "opsi": [
+      "Encoding",
+      "Feedback",
+      "Decoding",
+      "Media",
+      "Channel"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Decoding dilakukan oleh komunikan. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Decoding\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_KM_24",
+    "pertanyaan": "Informasi palsu yang sengaja disebarkan untuk memicu ketakutan, kebencian, atau kekacauan disebut...",
+    "opsi": [
+      "Gosip",
+      "Opini",
+      "Fiksi",
+      "Hoax",
+      "Iklan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hoax sering menyebar cepat karena mengeksploitasi emosi pembaca."
+  },
+  {
+    "id": "KU_KM_25",
+    "pertanyaan": "Tindakan menyalin karya atau ide orang lain dan mengakuinya sebagai karya sendiri dalam penulisan media disebut...",
+    "opsi": [
+      "Parafrase",
+      "Sitasi",
+      "Editing",
+      "Layouting",
+      "Plagiarisme"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Plagiarisme adalah pelanggaran berat dalam dunia akademik dan media."
+  },
+  {
+    "id": "KU_KM_26",
+    "pertanyaan": "Komunikasi non-verbal yang menggunakan gerakan tangan atau anggota tubuh lainnya disebut...",
+    "opsi": [
+      "Gestur",
+      "Paralanguage",
+      "Proksemik",
+      "Kronemik",
+      "Artifak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Gestur dapat memperkuat atau justru membantah pesan verbal seseorang."
+  },
+  {
+    "id": "KU_KM_27",
+    "pertanyaan": "Studi mengenai penggunaan jarak ruang antar individu dalam berkomunikasi disebut...",
+    "opsi": [
+      "Kinesik",
+      "Proksemik",
+      "Haptik",
+      "Oculesics",
+      "Phonetics"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Jarak intim, pribadi, sosial, dan publik berbeda-beda antar budaya."
+  },
+  {
+    "id": "KU_KM_28",
+    "pertanyaan": "Nada suara, kecepatan bicara, dan volume suara dalam komunikasi disebut...",
+    "opsi": [
+      "Pesan verbal",
+      "Teks",
+      "Paralanguage",
+      "Citra",
+      "Ikon"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Bagaimana sesuatu dikatakan (paralanguage) seringkali lebih penting dari apa yang dikatakan."
+  },
+  {
+    "id": "KU_KM_29",
+    "pertanyaan": "Pengirim pesan yang memiliki kredibilitas (kepercayaan) tinggi biasanya lebih mudah untuk...",
+    "opsi": [
+      "Membatalkan pesan",
+      "Melupakan pesan",
+      "Menghapus media",
+      "Mempengaruhi (Persuasi) khalayak",
+      "Membuat hoax"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Keahlian dan kejujuran (source credibility) adalah kunci persuasi."
+  },
+  {
+    "id": "KU_KM_30",
+    "pertanyaan": "Analisis yang memfokuskan pada 'siapa' yang menguasai media dan bagaimana media dikelola secara ekonomi-politik disebut...",
+    "opsi": [
+      "Analisis Isi",
+      "Analisis Resepsi",
+      "Audit Komunikasi",
+      "Focus Group Discussion",
+      "Ekonomi Politik Media"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kepemilikan media seringkali mempengaruhi independensi redaksional."
+  },
+  {
+    "id": "KU_KM_31",
+    "pertanyaan": "Strategi komunikasi yang dilakukan perusahaan untuk menjalin hubungan baik dengan masyarakat sekitar agar operasional lancar disebut...",
+    "opsi": [
+      "CSR (Corporate Social Responsibility)",
+      "Marketing Langsung",
+      "Lobi Politik",
+      "Spionase Industri",
+      "Guerilla Marketing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "CSR menunjukkan tanggung jawab sosial perusahaan kepada lingkungan."
+  },
+  {
+    "id": "KU_KM_32",
+    "pertanyaan": "Individu dalam komunitas yang memiliki pengaruh besar dalam menyebarkan informasi dan membentuk opini pengikutnya (followers) disebut...",
+    "opsi": [
+      "Netizen",
+      "Opinion Leader / Influencer",
+      "Admin",
+      "Haters",
+      "Lurker"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Influencer menjadi jembatan pesan bagi merk atau isu tertentu."
+  },
+  {
+    "id": "KU_KM_33",
+    "pertanyaan": "Teori yang menyatakan bahwa orang yang merasa pendapatnya berbeda dengan mayoritas cenderung diam karena takut dikucilkan disebut...",
+    "opsi": [
+      "Agenda Setting",
+      "Priming",
+      "Spiral of Silence (Pusaran Keheningan)",
+      "Framing",
+      "Social Learning"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dikemukakan oleh Elisabeth Noelle-Neumann."
+  },
+  {
+    "id": "KU_KM_34",
+    "pertanyaan": "Proses seleksi dan penonjolan aspek tertentu dari sebuah realitas oleh media massa agar khalayak memandangnya dengan cara tertentu disebut...",
+    "opsi": [
+      "Editing",
+      "Shooting",
+      "Dubbing",
+      "Framing (Pembingkaian)",
+      "Typing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Framing menentukan bagaimana sebuah masalah didefinisikan oleh publik."
+  },
+  {
+    "id": "KU_KM_35",
+    "pertanyaan": "Perusahaan rintisan yang memanfaatkan media sosial dan teknologi digital sepenuhnya untuk berinteraksi dengan pelanggan disebut...",
+    "opsi": [
+      "Perusahaan Tradisional",
+      "Yayasan",
+      "BUMN",
+      "Firma Hukum",
+      "Digital Startup"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Startup digital sangat bergantung pada efektivitas komunikasi digital."
+  },
+  {
+    "id": "KU_KM_36",
+    "pertanyaan": "Singkatan 'SMM' dalam pemasaran digital merujuk pada...",
+    "opsi": [
+      "Social Media Marketing",
+      "Satu Monitor Masal",
+      "Sistem Mutu Mandiri",
+      "Surat Masuk Manual",
+      "Search Map Management"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pemasaran melalui platform seperti Instagram, TikTok, dan Facebook."
+  },
+  {
+    "id": "KU_KM_37",
+    "pertanyaan": "Metode penelitian komunikasi yang menghitung distribusi atau frekuensi kata/simbol tertentu dalam teks media disebut...",
+    "opsi": [
+      "Eksperimen",
+      "Analisis Isi (Content Analysis)",
+      "Etnografi",
+      "Studi Kasus",
+      "Wawancara Mendalam"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Content analysis bersifat kuantitatif dan objektif terhadap isi teks."
+  },
+  {
+    "id": "KU_KM_38",
+    "pertanyaan": "Teori yang menyatakan bahwa media sosial menciptakan 'ruang gema' di mana pengguna hanya terpapar informasi yang disukai saja disebut...",
+    "opsi": [
+      "Big Data",
+      "Cloud Computing",
+      "Filter Bubble / Echo Chamber",
+      "Cyber Bullying",
+      "Dark Web"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Algoritma media sosial cenderung mengisolasi pengguna dari pandangan yang berbeda."
+  },
+  {
+    "id": "KU_KM_39",
+    "pertanyaan": "Upaya untuk membangun hubungan baik dengan jurnalis agar perusahaan mendapatkan peliputan berita yang positif disebut...",
+    "opsi": [
+      "Employee Relations",
+      "Investor Relations",
+      "Customer Care",
+      "Media Relations",
+      "Sales Promotion"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Media relations meliputi kegiatan seperti Press Conference dan Media Gathering."
+  },
+  {
+    "id": "KU_KM_40",
+    "pertanyaan": "Kegiatan mengumpulkan informasi tentang pesaing, pelanggan, dan pasar melalui observasi media sosial disebut...",
+    "opsi": [
+      "Social Hacking",
+      "Social Engineering",
+      "Social Security",
+      "Social Climbing",
+      "Social Listening"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Social listening membantu perusahaan merespon tren pasar dengan cepat."
+  },
+  {
+    "id": "KU_KM_41",
+    "pertanyaan": "Etika dalam berkomunikasi di dunia maya atau internet sering disebut dengan istilah...",
+    "opsi": [
+      "Netiket (Netiquette)",
+      "Netizen",
+      "Cyber Law",
+      "Malware",
+      "Spyware"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Netiket meliputi larangan berkata kasar, spamming, dan menyebar SARA."
+  },
+  {
+    "id": "KU_KM_42",
+    "pertanyaan": "Komunikasi yang dilakukan oleh pemimpin kepada bawahan dalam struktur organisasi disebut aliran komunikasi...",
+    "opsi": [
+      "Horizontal",
+      "Downward (Ke Bawah)",
+      "Upward (Ke Atas)",
+      "Diagonal",
+      "Circular"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Downward communication berisi instruksi, tugas, dan evaluasi kerja."
+  },
+  {
+    "id": "KU_KM_43",
+    "pertanyaan": "Komunikasi yang dilakukan karyawan kepada atasan (misal laporan kemajuan atau keluhan) disebut komunikasi...",
+    "opsi": [
+      "Downward",
+      "Horizontal",
+      "Upward (Ke Atas)",
+      "Personal",
+      "Interaktif"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Upward communication penting sebagai bahan pertimbangan keputusan pimpinan."
+  },
+  {
+    "id": "KU_KM_44",
+    "pertanyaan": "Komunikasi yang terjadi antar rekan sejawat yang memiliki posisi setara dalam organisasi disebut komunikasi...",
+    "opsi": [
+      "Diagonal",
+      "Vertikal",
+      "Otoriter",
+      "Horizontal",
+      "Pasif"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penting untuk koordinasi tugas antar departemen yang berbeda."
+  },
+  {
+    "id": "KU_KM_45",
+    "pertanyaan": "Strategi memberikan informasi atau produk kepada orang-orang berpengaruh agar mereka membicarakannya kepada orang lain secara alami disebut...",
+    "opsi": [
+      "Iklan Televisi",
+      "Baliho",
+      "Spam",
+      "Cold Calling",
+      "Word of Mouth (WoM) Marketing"
+    ],
+    "jawaban": 4,
+    "pembahasan": "WoM dianggap lebih dipercaya dibanding iklan konvensional."
+  },
+  {
+    "id": "KU_KM_46",
+    "pertanyaan": "Perasaan tidak nyaman yang muncul saat seseorang menyadari adanya ketidakkonsistenan antara keyakinan dan perbuatannya disebut...",
+    "opsi": [
+      "Disonansi Kognitif",
+      "Stres",
+      "Euphoria",
+      "Insecure",
+      "Paradoks"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Teori Disonansi Kognitif dikemukakan oleh Leon Festinger."
+  },
+  {
+    "id": "KU_KM_47",
+    "pertanyaan": "Gelar akademik bagi lulusan sarjana ilmu komunikasi di Indonesia adalah...",
+    "opsi": [
+      "S.T",
+      "S.I.Kom (Sarjana Ilmu Komunikasi) atau S.Sos",
+      "S.H",
+      "S.E",
+      "S.Psi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Lulusan Komunikasi bisa bekerja sebagai Jurnalis, PR, Account Executive, atau Media Planner."
+  },
+  {
+    "id": "KU_KM_48",
+    "pertanyaan": "Proses mempelajari norma dan budaya masyarakat agar individu dapat berfungsi dengan baik di lingkungannya disebut...",
+    "opsi": [
+      "Asimilasi",
+      "Akulturasi",
+      "Sosialisasi",
+      "Amalgamasi",
+      "Evolusi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Komunikasi adalah alat utama dalam proses sosialisasi."
+  },
+  {
+    "id": "KU_KM_49",
+    "pertanyaan": "Komunikasi yang dilakukan tanpa kata-kata, misalnya melalui isyarat tubuh, ekspresi wajah, dan simbol disebut...",
+    "opsi": [
+      "Komunikasi Verbal",
+      "Komunikasi Digital",
+      "Komunikasi Batin",
+      "Komunikasi Non-Verbal",
+      "Komunikasi Pasif"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Non-verbal seringkali lebih mampu menunjukkan perasaan yang sebenarnya."
+  },
+  {
+    "id": "KU_KM_50",
+    "pertanyaan": "Bidang komunikasi yang mempelajari cara merancang promosi yang menarik agar konsumen tertarik membeli produk disebut...",
+    "opsi": [
+      "Jurnalistik",
+      "Retorika",
+      "Logika",
+      "Filosofi",
+      "Periklanan (Advertising)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Periklanan menggabungkan seni visual, psikologi konsumen, dan riset media."
+  }
+]

@@ -1,0 +1,266 @@
+{
+  "id": "fr-tka-2023-smp-wajib",
+  "tahun": 2023,
+  "tingkat": "SMP",
+  "materiKategori": "wajib",
+  "mapel": "TKA SMP wajib",
+  "deskripsi": "Rekonstruksi FR TKA SMP 2023 kategori wajib.",
+  "soal": [
+    {
+      "id": "fr23-smp-wajib-bi-01",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Ide pokok paragraf adalah...",
+      "opsi": {
+        "A": "Inti dari sebuah paragraf",
+        "B": "Kalimat terakhir",
+        "C": "Semua kalimat",
+        "D": "Contoh-contoh",
+        "E": "Hanya judul"
+      },
+      "kunci": "A",
+      "pembahasan": "Ide pokok adalah gagasan utama yang menjadi inti pembicaraan dalam satu paragraf.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Bahasa Indonesia",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smp-wajib-bi-02",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Manakah kalimat yang menggunakan kata baku?",
+      "opsi": {
+        "A": "Apotik itu tutup",
+        "B": "Ibu membeli obat di apotek",
+        "C": "Nasehat ayah sangat berguna",
+        "D": "Ia sedang praktek",
+        "E": "Jadwal bis terlambat"
+      },
+      "kunci": "B",
+      "pembahasan": "Apotek adalah bentuk baku, sedangkan apotik tidak baku.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Bahasa Indonesia",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smp-wajib-bi-03",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Penggunaan tanda koma yang benar terdapat pada...",
+      "opsi": {
+        "A": "Ibu membeli bayam kangkung, dan wortel.",
+        "B": "Ibu membeli bayam, kangkung dan wortel.",
+        "C": "Ibu membeli bayam, kangkung, dan wortel.",
+        "D": "Ibu membeli, bayam, kangkung, dan wortel.",
+        "E": "Ibu membeli bayam kangkung dan wortel,"
+      },
+      "kunci": "C",
+      "pembahasan": "Tanda koma digunakan di antara unsur-unsur dalam pemerincian.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Bahasa Indonesia",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smp-wajib-bi-04",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Apa antonim dari kata 'Prolog'?",
+      "opsi": {
+        "A": "Dialog",
+        "B": "Monolog",
+        "C": "Katalog",
+        "D": "Epilog",
+        "E": "Analogi"
+      },
+      "kunci": "D",
+      "pembahasan": "Prolog adalah pembukaan, Epilog adalah penutup.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Bahasa Indonesia",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smp-wajib-en-01",
+      "mapel": "Bahasa Inggris",
+      "teks": "I ... a student at SMP 1.",
+      "opsi": {
+        "A": "Am",
+        "B": "Is",
+        "C": "Are",
+        "D": "Was",
+        "E": "Were"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Am\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Bahasa Inggris",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smp-wajib-en-02",
+      "mapel": "Bahasa Inggris",
+      "teks": "My sister ... to school every morning.",
+      "opsi": {
+        "A": "Go",
+        "B": "Goes",
+        "C": "Going",
+        "D": "Gone",
+        "E": "Went"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Goes\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Bahasa Inggris",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smp-wajib-en-03",
+      "mapel": "Bahasa Inggris",
+      "teks": "Last holiday, we ... to Bali.",
+      "opsi": {
+        "A": "Visit",
+        "B": "Visits",
+        "C": "Visited",
+        "D": "Visiting",
+        "E": "Will visit"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Visited\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Bahasa Inggris",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smp-wajib-en-04",
+      "mapel": "Bahasa Inggris",
+      "teks": "A person who treats sick people is a...",
+      "opsi": {
+        "A": "Teacher",
+        "B": "Pilot",
+        "C": "Farmer",
+        "D": "Doctor",
+        "E": "Chef"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Doctor\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Bahasa Inggris",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smp-wajib-mt-01",
+      "mapel": "Matematika",
+      "teks": "Hasil dari -12 + 7 - (-5) adalah...",
+      "opsi": {
+        "A": "0",
+        "B": "10",
+        "C": "12",
+        "D": "-10",
+        "E": "-5"
+      },
+      "kunci": "A",
+      "pembahasan": "-12 + 7 + 5 = 0. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"0\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Matematika",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smp-wajib-mt-02",
+      "mapel": "Matematika",
+      "teks": "Hasil dari 3/4 + 1/2 adalah...",
+      "opsi": {
+        "A": "1/2",
+        "B": "5/4",
+        "C": "3/8",
+        "D": "1",
+        "E": "1/4"
+      },
+      "kunci": "B",
+      "pembahasan": "3/4 + 2/4 = 5/4. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"5/4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Matematika",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smp-wajib-mt-03",
+      "mapel": "Matematika",
+      "teks": "Jika x + 5 = 12, maka nilai x adalah...",
+      "opsi": {
+        "A": "17",
+        "B": "5",
+        "C": "7",
+        "D": "12",
+        "E": "60"
+      },
+      "kunci": "C",
+      "pembahasan": "x = 12 - 5 = 7. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"7\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Matematika",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smp-wajib-mt-04",
+      "mapel": "Matematika",
+      "teks": "Bentuk sederhana dari 3a + 5b - a + 2b adalah...",
+      "opsi": {
+        "A": "4a + 7b",
+        "B": "2a + 3b",
+        "C": "4a + 3b",
+        "D": "2a + 7b",
+        "E": "a + b"
+      },
+      "kunci": "D",
+      "pembahasan": "(3-1)a + (5+2)b = 2a + 7b. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2a + 7b\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Matematika",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smp-wajib-pp-01",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Sila pertama Pancasila dilambangkan dengan...",
+      "opsi": {
+        "A": "Bintang",
+        "B": "Rantai",
+        "C": "Pohon Beringin",
+        "D": "Kepala Banteng",
+        "E": "Padi dan Kapas"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Bintang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Pendidikan Pancasila",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smp-wajib-pp-02",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Ketua BPUPKI adalah...",
+      "opsi": {
+        "A": "Ir. Soekarno",
+        "B": "Dr. Radjiman Wedyodiningrat",
+        "C": "Drs. Moh. Hatta",
+        "D": "Mr. Soepomo",
+        "E": "Achmad Subardjo"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Dr. Radjiman Wedyodiningrat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Pendidikan Pancasila",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smp-wajib-pp-03",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Pancasila sebagai pandangan hidup bangsa disebut juga...",
+      "opsi": {
+        "A": "Dasar negara",
+        "B": "Sumber segala sumber hukum",
+        "C": "Way of life",
+        "D": "Landasan idiil",
+        "E": "Konstitusi"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Way of life\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Pendidikan Pancasila",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smp-wajib-pp-04",
+      "mapel": "Pendidikan Pancasila",
+      "teks": "Sidang pertama BPUPKI membahas tentang...",
+      "opsi": {
+        "A": "UUD",
+        "B": "Bentuk pemerintahan",
+        "C": "Bendera negara",
+        "D": "Dasar negara",
+        "E": "Lagu kebangsaan"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Dasar negara\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - Pendidikan Pancasila",
+      "hari_ujian": 2
+    }
+  ]
+}

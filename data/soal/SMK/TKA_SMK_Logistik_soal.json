@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_LOG_01",
+    "pertanyaan": "Proses merencanakan, melaksanakan, dan mengendalikan aliran barang dari titik asal ke titik konsumsi disebut...",
+    "opsi": [
+      "Logistik",
+      "Produksi",
+      "Pemasaran",
+      "Keuangan",
+      "Humas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Logistik fokus pada efisiensi perpindahan dan penyimpanan barang."
+  },
+  {
+    "id": "TKA_SMK_LOG_02",
+    "pertanyaan": "Supply Chain Management (SCM) mencakup koordinasi aliran berikut, kecuali...",
+    "opsi": [
+      "Aliran Barang",
+      "Aliran Udara",
+      "Aliran Informasi",
+      "Aliran Uang (Dana)",
+      "Aliran Dokumen"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Aliran Udara\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_03",
+    "pertanyaan": "Metode pengeluaran barang di mana barang yang pertama kali masuk harus pertama kali keluar disebut...",
+    "opsi": [
+      "LIFO",
+      "FEFO",
+      "FIFO (First In First Out)",
+      "Average",
+      "Random"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Cocok untuk barang umum non-expired agar stok lama tidak menumpuk."
+  },
+  {
+    "id": "TKA_SMK_LOG_04",
+    "pertanyaan": "Metode pengeluaran barang berdasarkan tanggal kedaluwarsa terdekat disebut...",
+    "opsi": [
+      "FIFO",
+      "LIFO",
+      "JIT",
+      "FEFO (First Expired First Out)",
+      "Slow Moving"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sangat penting untuk industri farmasi dan makanan."
+  },
+  {
+    "id": "TKA_SMK_LOG_05",
+    "pertanyaan": "Alat bantu pemindahan barang di gudang yang menggunakan garpu besi untuk mengangkat pallet disebut...",
+    "opsi": [
+      "Conveyor",
+      "Truck",
+      "Drone",
+      "Crane",
+      "Forklift"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Forklift\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_06",
+    "pertanyaan": "Tempat penyimpanan barang sementara sebelum dikirim ke pelanggan disebut...",
+    "opsi": [
+      "Gudang (Warehouse)",
+      "Toko",
+      "Kantor",
+      "Pasar",
+      "Bengkel"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Gudang (Warehouse)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_07",
+    "pertanyaan": "Apa kelebihan transportasi laut dibandingkan udara?",
+    "opsi": [
+      "Sangat cepat",
+      "Biaya lebih murah untuk kapasitas barang yang sangat besar",
+      "Bisa menjangkau semua desa",
+      "Mudah lewat di jalan sempit",
+      "Pasti aman dari ombak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Biaya lebih murah untuk kapasitas barang yang sangat besar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_08",
+    "pertanyaan": "Kegiatan menghitung fisik barang di gudang secara berkala untuk dicocokkan dengan data sistem disebut...",
+    "opsi": [
+      "Packing",
+      "Shipping",
+      "Stock Opname",
+      "Buying",
+      "Selling"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Stock Opname\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_09",
+    "pertanyaan": "Istilah 'Last Mile Delivery' merujuk pada...",
+    "opsi": [
+      "Pengiriman dari pabrik ke gudang utama",
+      "Pengiriman antar negara",
+      "Proses pengembalian barang rusak",
+      "Tahap akhir pengiriman paket dari hub distribusi ke alamat penerima (konsumen)",
+      "Pengiriman bahan mentah ke pabrik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tahap akhir pengiriman paket dari hub distribusi ke alamat penerima (konsumen)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_10",
+    "pertanyaan": "Barcode dan QR Code digunakan dalam logistik untuk...",
+    "opsi": [
+      "Memperindah kemasan",
+      "Menambah berat barang",
+      "Biar harganya mahal",
+      "Sebagai hiasan",
+      "Identifikasi otomatis dan pelacakan (Tracking) barang secara cepat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Identifikasi otomatis dan pelacakan (Tracking) barang secara cepat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_11",
+    "pertanyaan": "Dokumen yang menjadi bukti penyerahan barang dari pengirim ke kurir adalah...",
+    "opsi": [
+      "Surat Jalan / Waybill",
+      "Kuitansi",
+      "Faktur",
+      "Memo",
+      "Daftar Hadir"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Surat Jalan / Waybill\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_12",
+    "pertanyaan": "Proses pengambilan barang di rak gudang sesuai pesanan disebut...",
+    "opsi": [
+      "Receiving",
+      "Picking",
+      "Storing",
+      "Packing",
+      "Shipping"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Picking\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_13",
+    "pertanyaan": "Singkatan dari WMS adalah...",
+    "opsi": [
+      "World Marketing Service",
+      "Work Management Scale",
+      "Warehouse Management System",
+      "Water Monitoring System",
+      "Web Master Site"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Warehouse Management System\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_14",
+    "pertanyaan": "Sistem persediaan yang meminimalkan stok di gudang agar biaya rendah disebut...",
+    "opsi": [
+      "Stockpile",
+      "Safety Stock",
+      "Buffer Stock",
+      "Just In Time (JIT)",
+      "Dead Stock"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Just In Time (JIT)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_15",
+    "pertanyaan": "Papan alas kayu atau plastik yang digunakan sebagai landasan tumpukan barang disebut...",
+    "opsi": [
+      "Container",
+      "Rak",
+      "Kardus",
+      "Tali",
+      "Pallet"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pallet\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_16",
+    "pertanyaan": "Moda transportasi darat yang paling efisien untuk mengangkut barang berat dalam jumlah banyak ke tempat jauh di pulau jawa adalah...",
+    "opsi": [
+      "Kereta Api Logistik",
+      "Truk Engkel",
+      "Motor",
+      "Ojek online",
+      "Becak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kereta Api Logistik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_17",
+    "pertanyaan": "Pelabuhan 'Tanjung Priok' merupakan hub logistik internasional utama di...",
+    "opsi": [
+      "Surabaya",
+      "Jakarta",
+      "Medan",
+      "Makassar",
+      "Batam"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Jakarta\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_18",
+    "pertanyaan": "Resiko kecelakaan kerja yang paling sering terjadi di gudang adalah...",
+    "opsi": [
+      "Tenggelam",
+      "Digigit ular",
+      "Tertimpa tumpukan barang atau tertabrak forklift",
+      "Kesetrum air",
+      "Lapar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tertimpa tumpukan barang atau tertabrak forklift\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_19",
+    "pertanyaan": "Istilah 'Reverse Logistics' merujuk pada aliran...",
+    "opsi": [
+      "Barang dari pabrik ke toko",
+      "Uang ke bank",
+      "Informasi ke internet",
+      "Barang dari konsumen kembali ke penjual (misal: Retur)",
+      "Maju ke depan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Barang dari konsumen kembali ke penjual (misal: Retur)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_20",
+    "pertanyaan": "Wadah besi berukuran besar (20 kaki / 40 kaki) yang digunakan untuk pengiriman barang lintas pulau/negara disebut...",
+    "opsi": [
+      "Kotak kayu",
+      "Drum",
+      "Plastik vacuum",
+      "Tas besar",
+      "Kontainer (Container)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kontainer (Container)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_21",
+    "pertanyaan": "Ciri barang 'Fast Moving' di gudang adalah...",
+    "opsi": [
+      "Barang yang perputarannya sangat cepat (sering keluar masuk)",
+      "Barang yang berat sekali",
+      "Barang yang sangat mahal",
+      "Barang yang berkarat",
+      "Barang yang tidak laku"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Barang yang perputarannya sangat cepat (sering keluar masuk)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_22",
+    "pertanyaan": "Teknik membungkus tumpukan barang di atas pallet dengan plastik tipis transparan disebut...",
+    "opsi": [
+      "Labeling",
+      "Wrapping (Stretch Film)",
+      "Strapping",
+      "Boxing",
+      "Painting"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Wrapping (Stretch Film)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_23",
+    "pertanyaan": "Siapakah pihak yang bertanggung jawab atas pengantaran paket dalam e-commerce?",
+    "opsi": [
+      "IT Support",
+      "Penulis Artikel",
+      "Kurir / Jasa Ekspedisi",
+      "Analis Keuangan",
+      "Desainer Grafis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kurir / Jasa Ekspedisi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_24",
+    "pertanyaan": "Apa itu 'Inbound Logistics'?",
+    "opsi": [
+      "Logistik pengiriman ke konsumen",
+      "Pembersihan gudang",
+      "Penghancuran barang",
+      "Logistik penerimaan bahan baku/barang dari supplier masuk ke perusahaan",
+      "Pemecatan karyawan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Logistik penerimaan bahan baku/barang dari supplier masuk ke perusahaan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_25",
+    "pertanyaan": "Zonasi di dalam gudang bertujuan untuk...",
+    "opsi": [
+      "Agar terlihat warna-warni",
+      "Membingungkan staf",
+      "Biar gudang penuh",
+      "Tempat istirahat",
+      "Memudahkan pengorganisasian stok berdasarkan kategori atau tingkat perputaran (ABC Analysis)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Memudahkan pengorganisasian stok berdasarkan kategori atau tingkat perputaran (ABC Analysis)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_26",
+    "pertanyaan": "Moda transportasi apa yang paling cocok untuk mengirim barang bernilai tinggi dan butuh waktu sangat cepat?",
+    "opsi": [
+      "Pesawat udara (Air Freight)",
+      "Kapal laut",
+      "Truk",
+      "Motor",
+      "Sepeda"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pesawat udara (Air Freight)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_27",
+    "pertanyaan": "Singkatan RFID adalah...",
+    "opsi": [
+      "Real Fast Item Data",
+      "Radio Frequency Identification",
+      "Right Find In Delivery",
+      "Rapid File Information Dual",
+      "Radio Fix ID"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Radio Frequency Identification\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_28",
+    "pertanyaan": "Apa yang dimaksud dengan 'Cross-Docking'?",
+    "opsi": [
+      "Menyimpan barang dalam waktu lama",
+      "Membangun dermaga baru",
+      "Proses memindahkan barang langsung dari moda transportasi masuk ke moda transportasi keluar tanpa penyimpanan lama di gudang",
+      "Kapal tenggelam",
+      "Menyiram gudang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Meminimalkan waktu simpan gudang. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Proses memindahkan barang langsung dari moda transportasi masuk ke moda transportasi keluar tanpa penyimpanan lama di gu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_29",
+    "pertanyaan": "Pekerjaan 'Dispatcher' dalam logistik bertugas untuk...",
+    "opsi": [
+      "Memasak",
+      "Menyapu gudang",
+      "Menghitung uang gaji",
+      "Mengatur jadwal keberangkatan dan rute armada pengiriman",
+      "Memperbaiki mesin"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengatur jadwal keberangkatan dan rute armada pengiriman\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_30",
+    "pertanyaan": "Peralatan gudang 'Hand Pallet Jack' digerakkan dengan tenaga...",
+    "opsi": [
+      "Listrik besar",
+      "Bensin",
+      "Nuklir",
+      "Angin",
+      "Manual (Tenaga Manusia) dengan sistem hidrolik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Manual (Tenaga Manusia) dengan sistem hidrolik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_31",
+    "pertanyaan": "Simbol 'Gelas Pecah' pada kardus barang logistik artinya...",
+    "opsi": [
+      "Fragile (Barang pecah belah, mudah rusak)",
+      "Barang cair",
+      "Boleh dibanting",
+      "Barang panas",
+      "Barang tajam"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Fragile (Barang pecah belah, mudah rusak)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_32",
+    "pertanyaan": "Simbol 'Payung' pada kemasan logistik berarti...",
+    "opsi": [
+      "Boleh kena hujan",
+      "Simpan di tempat kering / Jauhkan dari air",
+      "Sedia payung sebelum hujan",
+      "Barang pakaian",
+      "Hanya kirim saat mendung"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Simpan di tempat kering / Jauhkan dari air\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_33",
+    "pertanyaan": "Biaya yang timbul karena menyimpan barang di gudang disebut...",
+    "opsi": [
+      "Transportation Cost",
+      "Ordering Cost",
+      "Holding Cost / Storage Cost",
+      "Marketing Cost",
+      "Tax Cost"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Holding Cost / Storage Cost\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_34",
+    "pertanyaan": "Barang yang sudah kedaluwarsa atau rusak harus segera dipisahkan ke area...",
+    "opsi": [
+      "Loading Dock",
+      "Reception",
+      "Picking zone",
+      "Karantina / Reject Area",
+      "Office"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Karantina / Reject Area\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_35",
+    "pertanyaan": "Apa itu 'Tracking Number'?",
+    "opsi": [
+      "Nomor telepon kurir",
+      "Nomor plat truk",
+      "Nomor rekening bank",
+      "Nomor antrean",
+      "Nomor unik untuk melacak posisi paket secara online"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Nomor unik untuk melacak posisi paket secara online\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_36",
+    "pertanyaan": "Proses menyusun barang di atas pallet dengan rapi dan stabil disebut...",
+    "opsi": [
+      "Palletizing",
+      "Stapling",
+      "Cleaning",
+      "Pricing",
+      "Coding"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Palletizing\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_37",
+    "pertanyaan": "Dalam industri otomotif, pengiriman komponen harus tepat waktu saat dibutuhkan, sistem ini disebut...",
+    "opsi": [
+      "Milk Run",
+      "Just In Time (JIT)",
+      "Full Truck Load (FTL)",
+      "Less than Container Load (LCL)",
+      "Bulky Cargo"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Just In Time (JIT)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_38",
+    "pertanyaan": "Istilah 'Lead Time' adalah...",
+    "opsi": [
+      "Waktu libur karyawan",
+      "Waktu istirahat mesin",
+      "Waktu tunggu mulai dari pemesanan hingga barang sampai",
+      "Waktu promosi",
+      "Waktu tidur"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Waktu tunggu mulai dari pemesanan hingga barang sampai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_39",
+    "pertanyaan": "Apa yang dimaksud dengan 'Dry Storage'?",
+    "opsi": [
+      "Penyimpanan dingin (Frozen)",
+      "Penyimpanan di gurun",
+      "Penyimpanan barang cair",
+      "Penyimpanan barang kering pada suhu ruang",
+      "Penyimpanan rahasia"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Penyimpanan barang kering pada suhu ruang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_40",
+    "pertanyaan": "Moda transportasi darat yang paling rentan terhadap kemacetan adalah...",
+    "opsi": [
+      "Pesawat",
+      "Kereta Api",
+      "Kapal",
+      "Ojek (jika lewat gang)",
+      "Truk / Mobil Box"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Truk / Mobil Box\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_41",
+    "pertanyaan": "Salah satu etika kurir saat mengantar barang adalah...",
+    "opsi": [
+      "Menyapa ramah, mengonfirmasi identitas penerima, dan meminta tanda tangan bukti terima",
+      "Melempar barang pagar",
+      "Membuka isi paket",
+      "Meminta uang tips paksa",
+      "Sengaja telat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menyapa ramah, mengonfirmasi identitas penerima, dan meminta tanda tangan bukti terima\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_42",
+    "pertanyaan": "Peralatan K3 wajib bagi petugas gudang agar kaki terlindungi adalah...",
+    "opsi": [
+      "Sandal jepit",
+      "Safety Shoes (Sepatu pelindung berujung besi)",
+      "Sepatu roda",
+      "Kaos kaki tebal",
+      "High heels"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Safety Shoes (Sepatu pelindung berujung besi)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_43",
+    "pertanyaan": "Buku yang mencatat barang yang masuk ke gudang disebut...",
+    "opsi": [
+      "Buku Agenda",
+      "Buku Kas Umum",
+      "Buku Barang Masuk",
+      "Buku Tamu",
+      "Buku Tabungan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Buku Barang Masuk\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_44",
+    "pertanyaan": "Fungsi utama manajemen logistik bagi konsumen adalah...",
+    "opsi": [
+      "Agar barang makin mahal",
+      "Biar bungkusnya banyak",
+      "Mengurangi jumlah barang",
+      "Memastikan barang tersedia di tempat yang tepat pada waktu yang tepat",
+      "Memperlama pengiriman"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Memastikan barang tersedia di tempat yang tepat pada waktu yang tepat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_45",
+    "pertanyaan": "Gudang yang dikelola khusus untuk barang-barang beku/dingin seperti es krim disebut...",
+    "opsi": [
+      "Hot Warehouse",
+      "Green Warehouse",
+      "Smart Warehouse",
+      "Open Yard",
+      "Cold Storage"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Cold Storage\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_46",
+    "pertanyaan": "Simbol 'Dua Panah Menghadap Atas' berarti...",
+    "opsi": [
+      "Sisi ini menghadap ke atas (Jangan terbalik)",
+      "Boleh terbalik",
+      "Bisa ditumpuk 2",
+      "Barang ringan",
+      "Cepat kirim"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sisi ini menghadap ke atas (Jangan terbalik)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_47",
+    "pertanyaan": "Digitalisasi logistik di Indonesia didukung oleh platform 'Marketplace' seperti...",
+    "opsi": [
+      "Photoshop, Canva",
+      "Shopee, Tokopedia, Lazada",
+      "WhatsApp, Line",
+      "YouTube, Netflix",
+      "Wikipedia"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Shopee, Tokopedia, Lazada\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_48",
+    "pertanyaan": "Apa jabatan untuk orang yang bertugas mengecek jumlah barang di atas truk sebelum berangkat?",
+    "opsi": [
+      "Sopir",
+      "Manajer",
+      "Tallyman / Checker",
+      "HRD",
+      "Satpam"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Tallyman / Checker\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_49",
+    "pertanyaan": "Singkatan LCL dalam pengiriman kontainer adalah...",
+    "opsi": [
+      "Large Container List",
+      "Long Cycle Log",
+      "Lowest Cost Line",
+      "Less than Container Load (Barang dicampur dengan pengirim lain dalam 1 kontainer)",
+      "Local Cargo Limit"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Less than Container Load (Barang dicampur dengan pengirim lain dalam 1 kontainer)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_LOG_50",
+    "pertanyaan": "Mengapa industri logistik diprediksi akan terus tumbuh pesat di masa depan?",
+    "opsi": [
+      "Karena orang makin malas jalan",
+      "Harga bensin naik",
+      "Agar banyak truk di jalan",
+      "Tidak ada alasan",
+      "Pesatnya pertumbuhan e-commerce dan ketergantungan pada rantai pasok global"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pesatnya pertumbuhan e-commerce dan ketergantungan pada rantai pasok global\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

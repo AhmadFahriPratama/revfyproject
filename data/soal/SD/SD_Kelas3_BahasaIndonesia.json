@@ -1,0 +1,626 @@
+{
+  "id": "latihan-sd-kls3-bi",
+  "tipe": "SD",
+  "mapel": "Bahasa Indonesia Kelas 3",
+  "soal": [
+    {
+      "id": "bi-3-01",
+      "teks": "Anton tidak pergi sekolah _______ ia sedang sakit deman. Kata penghubung apa yg pantes nyempug di titik hampa itu?",
+      "opsi": {
+        "A": "Karena",
+        "B": "Atau",
+        "C": "Tetapi",
+        "D": "Namun"
+      },
+      "kunci": "A",
+      "pembahasan": "Kata 'karena' digunakan sebagai konjungsi untuk menunjuk suatu dasar akibat alasan.",
+      "trik": "Alasan sakit = Karena."
+    },
+    {
+      "id": "bi-3-02",
+      "teks": "Sebuah kalimat yg tersusun nggabung jadi satu panjang... dipisah di renggang dikit nafasnya pakai tanda baca apa bentuknya...?",
+      "opsi": {
+        "A": "Tanda Seru (!) Marah",
+        "B": "Koma (,)",
+        "C": "Titik (.) Henti mati",
+        "D": "Tanda Tanya (?)"
+      },
+      "kunci": "B",
+      "pembahasan": "Koma berfungsi memisahkan anak kalimat, atau memberi sedikit jeda nafas pelan di perhentian tengah sebelum melanjut kata akhir penutup.",
+      "trik": "Jeda sebentar nanggung ambil napas = Koma ( , ) melengkung bawah."
+    },
+    {
+      "id": "bi-3-03",
+      "teks": "Kalimat yang di dalamnya menceritakan tanya jawab secara murni obrolan lisan 2 orang tatap muka bibir ngobrol diserbut tulisan?",
+      "opsi": {
+        "A": "Monolog bicara dewe ngomong cermin gila sunyi",
+        "B": "Puisi bait rima aaaa bbbb bait ratapan",
+        "C": "Dialog percakapan dua insan bersua rungu",
+        "D": "Pantun tjakep barik empat sampiran seloko"
+      },
+      "kunci": "C",
+      "pembahasan": "Dialog merupakan literatur wujud percakapan lisan 2 arah yg diturunkan ke tulisan (Biasa pada naskah drama panggung, obrolan fabel kelinci dan musang dsb).",
+      "trik": "Diskusi Di-alog (Dua orang ngomong saling balas)."
+    },
+    {
+      "id": "bi-3-04",
+      "teks": "Sinta gemar berenang, ________ Dika gemar bermain sepak bola tendang gawang.",
+      "opsi": {
+        "A": "Maka dari itu",
+        "B": "Supaya",
+        "C": "Sebab",
+        "D": "Sedangkan"
+      },
+      "kunci": "D",
+      "pembahasan": "Kata penghubungnya menunjukan mempertentangkan keadaan 2 orang yg seleranya beda hobi aktivitas olahraganya (Sinta renang Vs Dika bola). Pakai penghubung kontra (Sedangkan/Tetapi).",
+      "trik": "Membandingkan hobby 2 org = Sedangkan (Si A ... Sedangkan Si B...)."
+    },
+    {
+      "id": "bi-3-05",
+      "teks": "Ide paling dasar yang dibahas jadi landasan inti curhatan disebuah paragraf tebal bacaan itu disebut sebutan baku apaan?",
+      "opsi": {
+        "A": "Ide Pokok / Gagasan Utama",
+        "B": "Gagasan Penjelas ekornya panjang pendar rincian",
+        "C": "Amanat moral mutiara nashehat bijak tua hikmah",
+        "D": "Kalimat Perintah nyuruh keras paksa"
+      },
+      "kunci": "A",
+      "pembahasan": "Ide pokok (gagasan mendasar dasar pikiran karangan kalimat wacana tulisan) adalah yg merangkum inti makna separgraf utuh. Biasanya terletak ngejogrok manis di awal/akhir paragraf tulisan (Deduktif/Induktif).",
+      "trik": "Pokok Pikiran (Inti Pokoknya / Topik Utama nya dlm teks ngobrolin siapa/apa wujud isinya)."
+    },
+    {
+      "id": "bi-3-06",
+      "teks": "'Adik bermain biola... Ibu sedang menanak nasi'. Bila 2 kalimat tunggal mandiri ini dinikahkan digabungkan dirangkai, kalimat setaranya pake selipan kosa kata hubung apa...?",
+      "opsi": {
+        "A": "Tetapi (pertentangan hobi benci musuh)",
+        "B": "Dan (Setara ngumpul kegiatan kejadian di wkt sama nyatu)",
+        "C": "Kapan (tanya waktu lampau depan)",
+        "D": "Yang mana (pilih barang pilih pilah opsi)"
+      },
+      "kunci": "B",
+      "pembahasan": "Kombinasi 2 kegiatan yang kedudukannya sama rata (Aktivitas adik + Aktivitas Ibu) disatroni perangkai konjungsi penambah yg lazim (Kata Hubung DAN: Adik main biola 'dan' Ibu masak Nasi).",
+      "trik": "Dua duanya sedang sibuk barengan kegiatanya, sambungkan kata '+'  yaitu pake (dan)."
+    },
+    {
+      "id": "bi-3-07",
+      "teks": "Pohon beringin daunnya sangat lebat. Lawan kata / Antonim dari lebat rimbun itu apa nyebutnya di hutunan botak?",
+      "opsi": {
+        "A": "Rindang teduh sejuk kenceng angin payung awan",
+        "B": "Subur gembur makmur hijau royo kelam lebat hijau",
+        "C": "Gersang botak meranggas gugur rontok sedikit pelontos (Jarang/Tandus/Kering/Gundul)",
+        "D": "Kecil sempit kerdil mungil mutlak pendek"
+      },
+      "kunci": "C",
+      "pembahasan": "Lebat berdaun memiliki perlawanan konotasi antonim pada kondisi dahan tanpa daun layu menguning gersang gundul botak tandus nyisa dahan kering patah krik krik layu kerontang.",
+      "trik": "Rambut lebat subur. Lawannya = Rambut Gugur Botak (Pohon Gundul Gersang layu daun rontok)."
+    },
+    {
+      "id": "bi-3-08",
+      "teks": "Kalimat menyapa nanya tempat...  ' _____ rumah pak Rudi, Budi nyariin muter muter pusing tanya satpam gang kompleks ?'",
+      "opsi": {
+        "A": "Berapa (Tanya nominal harga jual uang)",
+        "B": "Mengapa (Ngasih uraian argumen sebab ngapa emosi urai alasan pemicu)",
+        "C": "Kapan (Waktu hari jam masa)",
+        "D": "Di manakah (Letak lokasi gps koordinat pos nyari titik temu letak posisi bermukim tempat domisili)"
+      },
+      "kunci": "D",
+      "pembahasan": "Fungsi kalimat awalan tanya: 'Dimana / kemana / dr mana' wajib mutlak bersandar fungsinya untuk menanyakan Lokasi geografi tempat singgah spasial berada rumah hunian alam.",
+      "trik": "Tempat Nyinggah (Rumah, pasar sekolah) pasti pake DI+MANA."
+    },
+    {
+      "id": "bi-3-09",
+      "teks": "Cerita khayalan bohongan rekayasa pinter nenek moyang dimana pelakonnya tokohnya diganti di perankan binatang bertingkah ala memanusiakan (Bisa ngomong dialog jahat licik licin rakus pintar sekolah dst)... dinamai wacana?",
+      "opsi": {
+        "A": "Fabel cerita karangan margasatwa nyambi lakon manusia rimba nusantara khayal edukasi (hewan fiksi bicara ngomong obrol akal sehat).",
+        "B": "Mite (Mitos ghoib dedemit setan kuno sajen pesulap mbh dukun jampi dewi dewa nyi roro mistik)",
+        "C": "Legenda asul usul nusantara telaga danau toba candi jonggrang patung malin kutuk riwayat sakti",
+        "D": "Bukan cerita sejarah nyata candi relief purbakala fakta absolut masa lampau riwayat"
+      },
+      "kunci": "A",
+      "pembahasan": "Fabel dikotomi sastra = Fiksi dimana sentral ceritanya memakai hewan bertabiat/ngomong sprti umat manusiawi guna menyematkan nasehat sindiran tanpa nyinggung prasaan (contoh: tupai rakus, gajah pemurah, singa lalim dsb curut pahlawan).",
+      "trik": "Fabel = Familia Belantara (Hewannya asik ngomong kumpul hutan fiksi)."
+    },
+    {
+      "id": "bi-3-10",
+      "teks": "Di kamus EYD pedoman, mana yg betul lurus nulis kata penghubung lokasi di yg menempel ini di paragraf tugas ngarang guru kelas ?",
+      "opsi": {
+        "A": "disekolah (dempet gabung lebur lekat rapet asik anget)",
+        "B": "di sekolah (Wajib dipisau spasi misah jauh ruang lokasi spasial lurus putus patuh)",
+        "C": "diSekOLAH (ngetik alay gede kecil acak adut ngawur miring naik turun gelombang mabuk miring alay pusing mata minus silinder)",
+        "D": "Dis Ekol Ah "
+      },
+      "kunci": "B",
+      "pembahasan": "Kaidah 'Di-': Sebagai imbuhan kerja pasif ia dirangkai (dibaca, dipukul, dll verba pasif). Tapi sbagai penunjuk tempat (di sekolah, di kantor, di desa kordinat nyata loka rupa alam) ia terpisah spasi ruang jeda.",
+      "trik": "Apabila 'di' nemenin nama Tmpat (sekolah, meja, tas) kasih Jarak renggang biar ga sumpek!"
+    },
+    {
+      "id": "bi-3-11",
+      "teks": "Kisah Maling Kundang durhaka nangis ngemis nendang batu ngutuk dewa ibu kutukan petir jadi kaku batu sedih pilu legenda nangis... Amanat nilai moralyg bs dipetik cerna otak nurani dr nasib kisah nyata/non itu tuh apa?",
+      "opsi": {
+        "A": "Harus pinter nyari duit kapal kaya raya sombong congkak mutiara bajak laut dagang pulau lintas niaga sultan boss besar boss makmur asik pamer baju sutra",
+        "B": "Harus bisa kuat berenang ke pulau lain renang ombak hantam karang badai topan",
+        "C": "Jangan melawan durhaka mengutuk membuang orang tua kandung pelita ibu bapak niscaya azab lara hancur binasa kutuk.",
+        "D": "Batu keras palu pecah kerikil pasir buang laut"
+      },
+      "kunci": "C",
+      "pembahasan": "Amanat (pesan luhur pesan moral intrik cerita yang mau disampein pengarang pendongeng bu guru ke pendengarnya hati nurani): Hormati Ibumu syurga telapak jangan sombong jadi kaya.",
+      "trik": "Malin kundang dikutuk batu krna jahat buang ibu. Berati pesan kita: Jgn tiru kelakuan jahat si malin!"
+    },
+    {
+      "id": "bi-3-12",
+      "teks": "Ibu pergi ke [....]. Rumpang ini paling gampang masuk akal wajar logisnya di isi pake verba/kata benda lokasi kemana ...?",
+      "opsi": {
+        "A": "Goreng (Ibu pergi ke goreng?? aneh ga nyambung kacau kalimat)",
+        "B": "Tidur (pergi ke tidur pulas rebah mimpi kasur nyeleneh ga sinkron tata letaknya tata bahasanya lucu aneh)",
+        "C": "Bukan tempat lokasi arah tuju",
+        "D": "Pasar (membeli sayur mayur buah daging tawar ramai becek nyium amis ikan kerumun numpuk dagang kios)"
+      },
+      "kunci": "D",
+      "pembahasan": "Melengkapi kalimat tumpang: kata Ke mengharuskan disambung kata nomina lokasi destinasi tuju yg nyata. (Pasar adalh lokasi nyata geografis orang berniaga bakul nyaring uang tunai tukar rupa).",
+      "trik": "Ke itu harus Nama TEMPAT. (KE Pasar, KE terminal, KE alun alun)."
+    },
+    {
+      "id": "bi-3-13",
+      "teks": "Tiruan bunyi barang pecah benda kaca beling gelas piring cangkir teko meluncur bebas membentur cium gravitasi amblas nabrak keramikk aspal batu paving lantai bunyi gema nya hancurnya wujud  ...?",
+      "opsi": {
+        "A": "Prang pyarrr ting kring cring kletek ambyar pecah serpih menyirap kaget",
+        "B": "Dor dar der dum gema ledak gunung api bom meletus granat lempar nyala pekak",
+        "C": "Meow guk guk guguk gonggong srigala malam lolong",
+        "D": "Broom broom ngenng mesin knalpot asep abring mbleber"
+      },
+      "kunci": "A",
+      "pembahasan": "Onomatope wujud tiruan bentura benda tipis/kaca (Pyarr / Prang).",
+      "trik": "Gelas kaca jtuh ke Ubin... suaranya prangg pecah sepih."
+    },
+    {
+      "id": "bi-3-14",
+      "teks": "Susunan EYD paling cermat sopan tertib rapi tegak berdiri kalimat bener baca yg ini mana si..?",
+      "opsi": {
+        "A": "HARI INi HUJAn DERAs bAngET... (kapitasilasi hancur alay lulu lebay naik turun keriting ngawur mabk miring ngetik ga sekolah)",
+        "B": "Hari ini hujan deras. (Sesuai pakem, H kapital karena membuka awal sapaan, dan Tanda Titik nutup di ujung karena memberitakan hal murni kalimat berita datar tiada intruksi/nanya ragu).",
+        "C": "hari ini hujan deras? (nyeleneh salah nanya cuaca aneh kerena bukan kalimat nanya keraguan kok pake pentung naya bimbang) ",
+        "D": "bukan kalmiaat frasa wacana diam bisu"
+      },
+      "kunci": "B",
+      "pembahasan": "Menerapkan huruf besar awalan + menyemat titik pungtasui tutupan.",
+      "trik": "Hurup depan H Nya di besarin... Ujung kasih ttitk (.)"
+    },
+    {
+      "id": "bi-3-15",
+      "teks": "Buku petunjuk ngebuat mi goreng rebus bungkus plastik merah pedas mienya cara masaknya diurai (Rebus air mendidih blebek blebek -> Masukan keras mie ke air panas mendidih diamkan layu kenyal empuk matang urai lembek-> Tiris saring buang air-> tuang bumbu minyak msg gurih micim kental sedap sambal saos kecap legit kacang -> aduk merata asik -> siap santap lapar telan). Jenis Teks ini yg menjabarkan tutotial panduan cara mengolah prosedur tahapan masak menyajikan itu disebut..?",
+      "opsi": {
+        "A": "Puisi senandung pantun rima syair",
+        "B": "Pengumuman berita kabar bencana warta TV",
+        "C": "Teks Petunjuk / Prosedur teks arahan bikin langkah step nyusun step komando pengerjan manual hal manual book laksanakan masak",
+        "D": "Bukan tulisan cuma gambar resep kosong nembak buta huruf tebak raba rabun"
+      },
+      "kunci": "C",
+      "pembahasan": "Kaidah wancana prosedur : menjabarkan cara tahapan kronologi mbuat/merakit suatu benda dari a sampai final z matang utuh.",
+      "trik": "Ada cara-cara (Langkah ke 1.Langkah ke-2..), oh ini berarti petunjuk atau Prosedur bikin ssuatu."
+    },
+    {
+      "id": "bi-3-16",
+      "teks": "Andi memiliki bola. Toni juga punya bola. (Jadikan satu kalimat majemuk padati singkat setarakan lidi gabung) ...",
+      "opsi": {
+        "A": "Andi punya bola Toni marah lempar mukul dengki ngambek nangis pelit (Udah menyimpang nambah opini hoak).",
+        "B": "Andi atau toni ya yg punya bola nanya gw mikir linglung pelupa pikin",
+        "C": "Bola siapa nendang kempes paku beling parit comberan bau item",
+        "D": "Andi dan Toni membempunyai bola. (Konjungsi 'dan' meng-efesiensikan kalimat yang maknanya sama sejajar objeknya nyatu lidi)."
+      },
+      "kunci": "D",
+      "pembahasan": "Penyederhanaan kalimat : apabila subjek ada 2 smentra objek predikatnya sama kegiatanya.. gabungkan aje subjeknya make penyekat DAN. (Andi dan Toni sama2 punya).",
+      "trik": "Si A punga Barang X. Si B ounya barang X juga.. Yaudeh = Si A (Dan) Si B punys barang X dong."
+    },
+    {
+      "id": "bi-3-17",
+      "teks": "Ibu berkata _______ 'Tolong beliin telur di warung pak kumis ya!' . Titik hampa spasi ini di apit pake tanda baca kurung kurawal petik apa gmn... sebelum kalimat omongan ibu yg aslinya murni dr mulut itu loh...?",
+      "opsi": {
+        "A": "( koma koma atas atau tanda petik dobel kutipan kalimat omong eksaks ucapan lisan saklek murni dari lisan  \"...\"  mengapit kalimat  \"Tolong lari belin garam gula beras !\" )",
+        "B": "(?) Tanda tanya",
+        "C": "(_ ) Garis miring pletet putus",
+        "D": "Tiada berguna"
+      },
+      "kunci": "A",
+      "pembahasan": "Kaidah kutipan langsung : Omongan orang yang ditranskrip eksaks persisi dari mulut (Direct speech) wajib mutlak keramat dilapisi Tanda Petik Ganda (\") sebagai pelindung kutipan lurusnya kalimat bibir.",
+      "trik": "Kalo ada orang ngomong lisan... Tulisannya wajib ditancepin kutipan (\") \"...\" "
+    },
+    {
+      "id": "bi-3-18",
+      "teks": "Apa sebutan buat org yang pekejaanya mancarin berita nyari gali tanya sana nanya ini megang alat tulis lari nyari orang tanya info di tiviti rekam berita nulis artikel ke media cetak online koran wartawan... nama lain dr profesi jurna tulis ...?",
+      "opsi": {
+        "A": "Supir gojek mabur mangkal pesanan order ojol map abang ",
+        "B": "Jurnalis / Wartawan (peliput lapangan reporter rekam video nyatat catat seksam fakta nyaring benar berira warta sebarkan cetak pers publik khalayak ramai).",
+        "C": "Petani cangkul panen parang lari sawah kebon lintah lumpur nancap gabah beras panen",
+        "D": "Bukan kerja luntang lantung penganggur malas diam kamar hp an game rebahan"
+      },
+      "kunci": "B",
+      "pembahasan": "Pengenalan voka profesi: Jurnalis (Pencari warta), Dokter (Penyembuh balut ngerawat rs), Petani (Nanam padi).",
+      "trik": "Tukang nyari Warta (Berita)= Wartawan Jurnalis kamera nulis berita tiiv."
+    },
+    {
+      "id": "bi-3-19",
+      "teks": "Buah yang kulitnya keras bergerigi lincip warna hijo kecoklatan duren tp ngga bau asem nyengat isinya mlorot putih asem manis getahnya nempel pisau tangan... disebut? Tebak benda teki",
+      "opsi": {
+        "A": "Apel halus mulus kilap wangi merah lumer enak sehat diet ",
+        "B": "Salak coklas nyisik uler kulit sisik asem kelot biji gede",
+        "C": "Nangka lebat buah manis kuning nangka lengket putih ulet jaring (Isi paragfaf deskripsi menunjuk Nangka yg lebat).",
+        "D": "Anggur tangkai renteng ungu bulat asem "
+      },
+      "kunci": "C",
+      "pembahasan": "Memahami teks deskripsi rupa benda fisik (Warna hijo kecoktan, getah rekat ulet putih lengket tangan, gerigi tp ngga tajem) = ciri identitas mutlak buah Nangka.",
+      "trik": "Identik dngn getah putih nempel pisau yg paling lengket kyk lem = itu getah Nangka manis."
+    },
+    {
+      "id": "bi-3-20",
+      "teks": "Lawan kata Panas (terik) ialah bertiup hawa...",
+      "opsi": {
+        "A": "Mendung cerah nyala abu gelap suram",
+        "B": "Dingin es beku salju puncak letih gemetar kaku nyilu kerut kulit pucat ungu",
+        "C": "Pedas cabe merah cabe rawit bibir jontor kobong meleyot"
+      },
+      "kunci": "B",
+      "pembahasan": "Antonim cuaca (Panas Vs Dingin) Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Dingin es beku salju puncak letih gemetar kaku nyilu kerut kulit pucat ungu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Es batu dingin / Matahari mendidih Panas"
+    },
+    {
+      "id": "bi-3-21",
+      "teks": "Urutan alfabet setelah M, N, O... trus huruf apa yg bener naruhnya ngelanjut baris?",
+      "opsi": {
+        "A": "A, B lari loncat mundur curang gila",
+        "B": "Z, Y nutup ujung belakng ekor",
+        "C": "P, Q, R nyambung huruf alphabet genap."
+      },
+      "kunci": "C",
+      "pembahasan": "Sistem ejaan a b c ... j k l m n o ( P Q R ). Hafalan abjad murni.",
+      "trik": "Meno pqi? M-N-O-P-Q-R nyanyi syair inggris A B C."
+    },
+    {
+      "id": "bi-3-22",
+      "teks": "Ani sangat bahagia. Antonim lawan bahagia sedih adalah?",
+      "opsi": {
+        "A": "Sedih menangis lara pilu perih murung duka lara",
+        "B": "Senang gembira ketawa-tawa melompat",
+        "C": "Gila bingung pusing"
+      },
+      "kunci": "A",
+      "pembahasan": "Lawan dari konotasi positif gembira dalah negatif (Sedih).",
+      "trik": "Bahagua -> Sedih"
+    },
+    {
+      "id": "bi-3-23",
+      "teks": "Pecahan suku kata: Pen-ja-ga. Berapa kali tepuk tepukan nada penggalan kata dibibir lidah diucap ini?",
+      "opsi": {
+        "A": "5 ketukan lari ngos ngosan",
+        "B": "3 tepuk suku kalimat / ketukan bibir (Pen) (ja) (ga).",
+        "C": "Tiada putus satu nafas murni gila nyambung panjang"
+      },
+      "kunci": "B",
+      "pembahasan": "Memutus kata sesuai vokal / jembatan huruf matinya. Pen-ja-ga (3 pemenggalan murni).",
+      "trik": "Pen - Ja - Ga = 3 potong."
+    },
+    {
+      "id": "bi-3-24",
+      "teks": "Di mana letak kalimat huruf besar (Kapitalisasi) di kalimat eyd bener?",
+      "opsi": {
+        "A": "Di tengah ngumpul keramaian",
+        "B": "Di akhiran ujung nyungsep",
+        "C": "Di awal mula kalimat / Nama orang loka murni."
+      },
+      "kunci": "C",
+      "pembahasan": "Kapitalisasi awal kalimat. mutlak Eyd. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Di awal mula kalimat / Nama orang loka murni.\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Hrf gedhe di didepan pintu masukk kaimat."
+    },
+    {
+      "id": "bi-3-25",
+      "teks": "Apa sebutan buku tulis cetak miring alus budi garis lima mutlak sd 1 2 3 kls asik?",
+      "opsi": {
+        "A": "Buku tegak bersambung (Tali huruf melilit lilit rapi).",
+        "B": "Buku gambar lukis cat luntur mkan spidol",
+        "C": "Laci berdebu papan kusam ubin kotor"
+      },
+      "kunci": "A",
+      "pembahasan": "Keterampilan menulis rapi bersambung halus.",
+      "trik": "Nulis halus bersambung pke bku tegak besambung"
+    },
+    {
+      "id": "bi-3-26",
+      "teks": "Dina menggabungkan warna kuning dengan merah apa reaksi campuran warna jadinya...?",
+      "opsi": {
+        "A": "Coklat tua luntur",
+        "B": "Oranye (Jingga mentereng)",
+        "C": "Ungu pucut pasih kelabu"
+      },
+      "kunci": "B",
+      "pembahasan": "Kuning dan merah menghasilkan warna sekunder Jingga. (Kosakata percampuran estetis wacana dskripsi warna).",
+      "trik": "Jingga senja gabngan merah panas kuning nyala."
+    },
+    {
+      "id": "bi-3-27",
+      "teks": "Hewan yang bergerak dengan cara melompat tinggi dan pelihara kakek mkan wortel putih telunga pink adalah...",
+      "opsi": {
+        "A": "Ular",
+        "B": "Ikan",
+        "C": "Kelinci / Rabbit"
+      },
+      "kunci": "C",
+      "pembahasan": "Tebakan deskprisi fabel (Kelinci). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kelinci / Rabbit\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Wortel lompat kupung panjang bulu halus = kelici imut."
+    },
+    {
+      "id": "bi-3-28",
+      "teks": "B - A - J - U jika dibaca bersambung dirangkai satu tarikan lisan mulut lurus merajut apa...?",
+      "opsi": {
+        "A": "Baju",
+        "B": "Baja",
+        "C": "Bahu"
+      },
+      "kunci": "A",
+      "pembahasan": "Menyatukan fonem Ba ju = Baju (Benda kemaja kaos lindung raga).",
+      "trik": "Baju."
+    },
+    {
+      "id": "bi-3-29",
+      "teks": "Kalimat yang nanya tentang jumlah, berat nominal atau banyak angka satuan suatu barang obnyek nanyainya katanys pk apa awakan rumpang?",
+      "opsi": {
+        "A": "Di mana letaknya curi nyungsep",
+        "B": "Berapa (Kuantitas nominal hitungan math nanya kpan bpa uang serpih jumlh banyak org hadir absen panitia lapor)?",
+        "C": "Kemana tuju pergi nyasar jalan peta"
+      },
+      "kunci": "B",
+      "pembahasan": "Kata 'Berapa' menanyakan jumlah suatu hal bilangan angka (Wajib dijawab dg angka hitung mutlak porsi bukan alasan opini omong urai letak rumahnya kordinat peta aspal letak titik).",
+      "trik": "Berapa harganya bu? Brpa jumlah ayamnya teh? Berapa panjang tali rafia?"
+    },
+    {
+      "id": "bi-3-30",
+      "teks": "Sinta gemar membaca .... (titik lengkapi yg tepat benda bacaan kertas apa?)",
+      "opsi": {
+        "A": "Sepatu lumpur aspal pasir main tali lari lari lelah kringet bau kusam basah asik",
+        "B": "Meja tulis kkayu pahat bubut paku godam rusak belah tumpuk belah gergaji mesin debu",
+        "C": "Buku tulis cerita gambar dongeng pustaka cerpen ilmu nulis catatan diary rahasia."
+      },
+      "kunci": "C",
+      "pembahasan": "Membaca berkorelasi dgn bahan cetakan buku lembar huruf.",
+      "trik": "Baca buku!"
+    },
+    {
+      "id": "bi-3-31",
+      "teks": "Paragraf yang isinya murni pendapat/opini bujukan ajakan maksa ngerayu biar yg mbaca mau ikutan kepincut hasrat bujuk ikut lisan tuturan ide pakar bujuk rayu bujuk promosi pamasaran ulasan dinamain...?",
+      "opsi": {
+        "A": "Teks Persuasi (Bujukan tulisan ayo bergabung marikita jaga seruan masal).",
+        "B": "Puisi lara sendu nangis sunyi patah diam relung rima",
+        "C": "Buku diary rahssisa kumpul kawan abg labil galau alay duka nangis cinta fana duka"
+      },
+      "kunci": "A",
+      "pembahasan": "Mengenal ragam teks. Teks yang bertujuan mengajak / menghisau pembaca adalah Teks Persuasif ajakan bujuk promosi pamlet.",
+      "trik": "Ayo, Mari, laksanakanlah (itu kalimat sakti Teks Persuasi/ajakan)!!"
+    },
+    {
+      "id": "bi-3-32",
+      "teks": "Anton sakit di RS, teman sekelas urunan bawain apel buah biskuit amplop datang tengok bareng bareng senyum ramah usap kening panjan doa cepat sembuh amiin tulus jabat cium tangan bapak bu dokter... tindakan ini namany?",
+      "opsi": {
+        "A": "Mencuri memalak begal nipu uang licik maling curang dsoba jhat tipu nyesatkan musuh curang ",
+        "B": "Menjenguk (Bakti soaial nurani solidaritas pertemanna kawan rukun damai makmur asih sayang iba simpati kawan sahabat).",
+        "C": "Menggunjing fitnah hoak rasan omong jahat gosip cibir ejek bibir dower lisan tajam irit"
+      },
+      "kunci": "B",
+      "pembahasan": "Kosa kata aksi empati memuliakn menengok sodara musibah = Menjenguk bawa hantaran sapa doa sehat lekas.",
+      "trik": "Nengokin org sakit di bantar ruang UGD putih ba obat = Menjengung (Bezook)."
+    },
+    {
+      "id": "bi-3-33",
+      "teks": "Surat izin sakit sekolah untuk bu guru format bahasanya kyk gmn yg bener sopan eyf resmia nulis buku catet tanda tgk bapam?",
+      "opsi": {
+        "A": "Halo bro bu guru lgi sakit ne gue males ijin y ga msuk sekut gas gas",
+        "B": "Gak ada ngabarin bolos aben merah cabut loncat pgar warkop lari tawur tiang lurus rusak moral",
+        "C": "Dengan hormat, (Salam bahas formal sopan resmi tulus nyesal ga bs ikt bljar dikelas bareng ijan ttd ppanak sakit hormat hamba)."
+      },
+      "kunci": "C",
+      "pembahasan": "Surat resmi izin ke instansi formal kels guru hrs memakai bahasa yg baku lurus formal hormat resmis ttd sah oru perwakin mutlak.",
+      "trik": "Nulis kpd Yth IbGURU / Pk GRU = Pakek Bahsaan Baku (Dengan Horrmattt... , Wassalamu alakaikum wr hb )"
+    },
+    {
+      "id": "bi-3-34",
+      "teks": "Kata M-A-T-A jika dihilangkan M nya menjadi bunyi lurus utus pnjng bibirr?",
+      "opsi": {
+        "A": "Ata nyisa vokal konsona uunng ahkr",
+        "B": "Matahari",
+        "C": "Bata"
+      },
+      "kunci": "A",
+      "pembahasan": "Ata. (Teabkan ejaan awal penganggal huruf awla mati consona ).",
+      "trik": "M di coret ttd Ata!"
+    },
+    {
+      "id": "bi-3-35",
+      "teks": "Siapa namamu dek sapaan pak penjaga pak bon kumis caping sekola jaga gerbang pagar besi gembok seram satpam saku pluit tegur ramah sapa tulus iklas ngabdi ...?",
+      "opsi": {
+        "A": "Tanda pancing silang bulet tanya tanya seru bentak emosi",
+        "B": "Tanda (?) tanya akhir wacana bingung butuh sapaan balik",
+        "C": "Koma (,)"
+      },
+      "kunci": "B",
+      "pembahasan": "Tanda tanya buat nyusun tanya Siapa Dimana.",
+      "trik": "Nanya= ? ujung plitek"
+    },
+    {
+      "id": "bi-3-36",
+      "teks": "Awan gelap rintik-rintik bunyi air jatuh dari tinggi dinamai fenomena alam apa itu bahasa indonesianya yang kita kenal ... ?",
+      "opsi": {
+        "A": "Salju es balok beku batu",
+        "B": "Kering kerontang retak pecah tanah bumi panas",
+        "C": "Hujan rintik basah guyur deras"
+      },
+      "kunci": "C",
+      "pembahasan": "Mendkresikan cucaca air alam dr awan = HUJAN badai taufan rintis.",
+      "trik": "Air jatoh dri llagit kbumi mbasahin gnteng = Hujan!"
+    },
+    {
+      "id": "bi-3-37",
+      "teks": "Orang yang menyetir mesin kereta api berjalur disebut julukan sopirnya?",
+      "opsi": {
+        "A": "Masinis",
+        "B": "Pilot cabut",
+        "C": "Nahkoda darat laut layar tiang angin kapal"
+      },
+      "kunci": "A",
+      "pembahasan": "Spir kreta uap rel asapan cerobong tuut tutt= masinis seragam topu pluit jalan besi pnjnng tiang.",
+      "trik": "Masiniss keteea"
+    },
+    {
+      "id": "bi-3-38",
+      "teks": "'Andi ______ bola di lapangan futsal hujn licin asik kotor ciprat'. Kata kerja aktivitas raga porseni olahraga yg cocok pas mengisi rongga perut titik jeda adalah...",
+      "opsi": {
+        "A": "Membakar gosong hangus",
+        "B": "Menendang giring sepakan kuat",
+        "C": "Merobek kulit silet tajam"
+      },
+      "kunci": "B",
+      "pembahasan": "Knteks bola+lfutsal = Menenndang lari kringet.",
+      "trik": "Bola ditendngan asik asik maju awah."
+    },
+    {
+      "id": "bi-3-39",
+      "teks": "Panggilan kita menyapa adik kandung ibu, laki -laki di kampung jawa-indonesia lazimnya dipanggil silsihal kluarga sapa kmpul rt lebran ktmu trah keluarga balai desa riuh salam cium hormt pak ?",
+      "opsi": {
+        "A": "Kakek buyut tongkat bungkuk abu abu nisehat putih jenggkot putih rebah batu",
+        "B": "Pramusaji makan hidang piring saji meja bos boss makn bayang warung",
+        "C": "Paman / Om pak cik ade laki bapak ibuk asik kasih jajn lebaran"
+      },
+      "kunci": "C",
+      "pembahasan": "Silsilah keturunan kluarga (Tante itu adek prempuna bpkibu, sdengakak Paman/Om adlah adik/abng laki bapk ibu kit a kumpul hri libur).",
+      "trik": "Omm oom tante uwa lebara."
+    },
+    {
+      "id": "bi-3-40",
+      "teks": "Bunyi ayam sedang bertelur mengeram jero malam di kandang kawat bambu riuh pagi buta adalah onkmao tiruan ... ?",
+      "opsi": {
+        "A": "Kukuruyuk jago nyanyi / petok berkotek betina",
+        "B": "Cicit cuit cicit cericit cicit",
+        "C": "Ngiung ngiung bunyi gema ambuoan"
+      },
+      "kunci": "A",
+      "pembahasan": "Titiuan ayam jgao kampung fajar cerah kukuruyyyuukkkkk (Bangonin suruh sola ibdah gass mandi air dingin brgkar sekolah ceria aspaal nunggu bareng temn jalan kak irit duit celeng).",
+      "trik": "Jago trkak pagi !"
+    },
+    {
+      "id": "bi-3-41",
+      "teks": "Kegiatan mewarnai rupa visual wujud 2d ngambar gunung dua matahari pinggir jalan sawh lengkyg dng burung m... memakai benda alat lukis asik apa anak tekas sd 1 kls warni keryon asik gradasi campur rna nama alat pulas...?",
+      "opsi": {
+        "A": "Penghapus karet hapusan draf coretan",
+        "B": "Krayon/Pensil Warna memulas",
+        "C": "Penggaris mistar lipat patah"
+      },
+      "kunci": "B",
+      "pembahasan": "Mewarna menoreh krayon kayu pensi pewarna warna warni gradsi.",
+      "trik": "Klir krayon pensil wrena merah hjou pelqngi tuju rna alam ceria"
+    },
+    {
+      "id": "bi-3-42",
+      "teks": "Siapa namamu dek sapaan pak penjaga pak bon kumis caping sekola jaga gerbang pagar besi gembok seram satpam saku pluit tegur ramah sapa tulus iklas ngabdi ...?",
+      "opsi": {
+        "A": "Tanda pancing silang bulet tanya tanya seru bentak emosi",
+        "B": "Koma (,)",
+        "C": "Tanda (?) tanya akhir wacana bingung butuh sapaan balik"
+      },
+      "kunci": "C",
+      "pembahasan": "Tanda tanya buat nyusun tanya Siapa Dimana.",
+      "trik": "Nanya= ? ujung plitek"
+    },
+    {
+      "id": "bi-3-43",
+      "teks": "Awan gelap rintik-rintik bunyi air jatuh dari tinggi dinamai fenomena alam apa itu bahasa indonesianya yang kita kenal ... ?",
+      "opsi": {
+        "A": "Hujan rintik basah guyur deras",
+        "B": "Salju es balok beku batu",
+        "C": "Kering kerontang retak pecah tanah bumi panas"
+      },
+      "kunci": "A",
+      "pembahasan": "Mendkresikan cucaca air alam dr awan = HUJAN badai taufan rintis.",
+      "trik": "Air jatoh dri llagit kbumi mbasahin gnteng = Hujan!"
+    },
+    {
+      "id": "bi-3-44",
+      "teks": "Orang yang menyetir mesin kereta api berjalur disebut julukan sopirnya?",
+      "opsi": {
+        "A": "Pilot cabut",
+        "B": "Masinis",
+        "C": "Nahkoda darat laut layar tiang angin kapal"
+      },
+      "kunci": "B",
+      "pembahasan": "Spir kreta uap rel asapan cerobong tuut tutt= masinis seragam topu pluit jalan besi pnjnng tiang.",
+      "trik": "Masiniss keteea"
+    },
+    {
+      "id": "bi-3-45",
+      "teks": "'Andi ______ bola di lapangan futsal hujn licin asik kotor ciprat'. Kata kerja aktivitas raga porseni olahraga yg cocok pas mengisi rongga perut titik jeda adalah...",
+      "opsi": {
+        "A": "Membakar gosong hangus",
+        "B": "Merobek kulit silet tajam",
+        "C": "Menendang giring sepakan kuat"
+      },
+      "kunci": "C",
+      "pembahasan": "Knteks bola+lfutsal = Menenndang lari kringet.",
+      "trik": "Bola ditendngan asik asik maju awah."
+    },
+    {
+      "id": "bi-3-46",
+      "teks": "Kata benda: Buku. Kata kerja: ______ (merujuk tindakan gerak kerja)",
+      "opsi": {
+        "A": "Berenang main air ciprat lengan gaya punggung",
+        "B": "Pensil garis panjang kayu",
+        "C": "Tas gendong berat tali selempang"
+      },
+      "kunci": "A",
+      "pembahasan": "Berenang adalah aktivitas gerak kata kerja mutlak fisik capek kalori abis otot tegang nafas plong rileks asik gaya.",
+      "trik": "Kerja kudu raga yg grakk pindah ubah kalori bakar (Berenang Lari Lompat Gigit Sapu) dll dll dst."
+    },
+    {
+      "id": "bi-3-47",
+      "teks": "Apa sebutan buat org yang pekejaanya mancarin berita nyari gali tanya sana nanya ini megang alat tulis lari nyari orang tanya info di tiviti rekam berita nulis artikel ke media cetak online koran wartawan... nama lain dr profesi jurna tulis ...?",
+      "opsi": {
+        "A": "Supir gojek mabur mangkal pesanan order ojol map abang ",
+        "B": "Jurnalis / Wartawan tulia dktik kmeramaian mic liput siaran panas asik ngetik jaring info pusing ulas opini publik ",
+        "C": "Petani cangkul panen parang lari sawah kebon lintah lumpur nancap gabah beras panen"
+      },
+      "kunci": "B",
+      "pembahasan": "Pencart warta beriat hangat (Wartawan). Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jurnalis / Wartawan tulia dktik kmeramaian mic liput siaran panas asik ngetik jaring info pusing ulas opini publik \". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Wartawwan tv nyari breita!"
+    },
+    {
+      "id": "bi-3-48",
+      "teks": "Pesan yg tertulis pendek ngabarin kawan jauh pakai kertas pos masuk kotak pos abang pos surat antar sepeda dering kring kring...",
+      "opsi": {
+        "A": "Kirim Paket barang peti kayu paku berat ton mobil kargo",
+        "B": "Video Call HP canggih sentuh layar",
+        "C": "Surat Menyurat surat pendek layang telegram kabari"
+      },
+      "kunci": "C",
+      "pembahasan": "Litersil konon sblm jaman hp mrek surat d kets perangko tempes krim kotak pos wesl bayr giro antart tujuan pko pak sobir plh surat kntor cbang balah kuta ngara.",
+      "trik": "Tulsian yg  d krim lewat abang oos  (Surat)."
+    },
+    {
+      "id": "bi-3-49",
+      "teks": "Bubu tertawa kegirangan karena dikasih boneka. Apa perasaan si Bubu...",
+      "opsi": {
+        "A": "Senang / Gembira tawa riang gembira lompat main mutar pusing asik seru kumpul teeman gokil cakra",
+        "B": "Sedih murung nangis",
+        "C": "Marah kesal"
+      },
+      "kunci": "A",
+      "pembahasan": "Tatw itu gembira riabng (Antomin rsedjih duka luak parah nangos bngkakk mutlak mata aer psuing pilu rindu dendm ksemata api marah guntur gluduk emosi jiwa murka redam diam bungkam njerit hiteris bising ngaca diri).",
+      "trik": "Twa itu snang (Happy mbar)!!"
+    },
+    {
+      "id": "bi-3-50",
+      "teks": "Kata yg menunjukkan urutan kegiatan kejadian kronologis cerpen:  'Awalnya... Kemudian... Akhirnya...' disebut kata penghbng kronologis ngurut baris kejadian di cverpe novel naskhas lakon...",
+      "opsi": {
+        "A": "Kata benda mati kayu batu",
+        "B": "Kata hubung urutan kronogi (konjungsi urut)",
+        "C": "Sifat lincah berani penurut takut lari"
+      },
+      "kunci": "B",
+      "pembahasan": "Kata kknjungi wwkstu lrnolhihis mmbagun jalann cruta dr pangkal smpk akhor ujyng tamt the en d end end end  slesai bbar jlan urut runtut asik ploit seru naskha fiksi mutlat .",
+      "trik": "Kmedin llyu  shrtrkah jt = ururturan jalan cerits barus runtut (Kata hjbng ktrnologiss wwktu waja arut )."
+    }
+  ]
+}

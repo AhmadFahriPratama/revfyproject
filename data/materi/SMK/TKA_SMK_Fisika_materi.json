@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Fisika",
+  "tingkatan": "SMK",
+  "jurusan": "Teknik / Pilihan",
+  "deskripsi": "Materi persiapan TKA Fisika untuk siswa SMK yang menekankan pada mekanika terapan, kelistrikan industri, dan termodinamika.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Besaran, Satuan, dan Vektor",
+      "konten": "Besaran pokok dan turunan, dimensi, alat ukur (jangka sorong, mikrometer), serta penjumlahan vektor gaya.",
+      "tag": [
+        "tka smk fisika materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Kinematika dan Dinamika Gerak",
+      "konten": "Gerak lurus (GLB/GLBB), gerak melingkar, hukum Newton tentang gerak, gaya gesek, serta aplikasi pada mesin.",
+      "tag": [
+        "tka smk fisika materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Usaha, Energi, dan Momentum",
+      "konten": "Konsep usaha, energi kinetik dan potensial, hukum kekekalan energi, momentum, impuls, serta tumbukan.",
+      "tag": [
+        "tka smk fisika materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Listrik dan Magnet",
+      "konten": "Hukum Ohm, rangkaian seri-paralel, hukum Kirchhoff, induksi elektromagnetik, serta dasar motor listrik.",
+      "tag": [
+        "tka smk fisika materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Termodinamika dan Fluida",
+      "konten": "Hukum termodinamika, mesin kalor (Carnot), tekanan hidrostatis, hukum Archimedes, serta hukum Bernoulli pada pipa.",
+      "tag": [
+        "tka smk fisika materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-fisika-materi",
+  "mapel": "TKA SMK: Fisika",
+  "tag": [
+    "tka smk fisika materi"
+  ]
+}

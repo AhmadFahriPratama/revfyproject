@@ -1,0 +1,53 @@
+{
+  "judul": "Matematika Lanjut",
+  "tingkatan": "SMA",
+  "jurusan": "MIPA",
+  "deskripsi": "Materi tingkat lanjut mengenai polinomial, matriks, transformasi geometri, dan kalkulus (turunan & integral).",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Polinomial (Suku Banyak)",
+      "konten": "Polinomial adalah ekspresi matematika yang melibatkan jumlahan perkalian pangkat dalam satu atau lebih variabel dengan koefisien. Materi meliputi operasi polinomial, pembagian suku banyak (Metode Horner), Teorema Sisa, dan Teorema Faktor.",
+      "tag": [
+        "sma matematikalanjut materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Matriks",
+      "konten": "Matriks adalah susunan bilangan dalam baris dan kolom. Operasi matriks meliputi penjumlahan, perkalian skalar, dan perkalian antar matriks. Pembahasan mendalam pada Determinan dan Invers matriks ordo 2x2 dan 3x3, serta penerapannya dalam Sistem Persamaan Linear.",
+      "tag": [
+        "sma matematikalanjut materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Transformasi Geometri",
+      "konten": "Menggunakan matriks untuk merepresentasikan perubahan posisi titik atau bangun di bidang kartesius. Meliputi Translasi (pergeseran), Refleksi (pencerminan), Rotasi (perputaran), dan Dilatasi (perkalian skala).",
+      "tag": [
+        "sma matematikalanjut materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Diferensial (Turunan) Lanjut",
+      "konten": "Turunan fungsi aljabar dan trigonometri. Aturan rantai, turunan kedua, dan aplikasi turunan untuk mencari titik stasioner (maksimum/minimum), serta gradien garis singgung kurva.",
+      "tag": [
+        "sma matematikalanjut materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Integral Lanjut",
+      "konten": "Integral tak tentu dan integral tentu untuk fungsi aljabar dan trigonometri. Teknik pengintegralan substitusi dan parsial. Aplikasi integral dalam menghitung luas daerah di bawah kurva dan volume benda putar.",
+      "tag": [
+        "sma matematikalanjut materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "sma-matematikalanjut-materi",
+  "mapel": "Matematika Lanjut",
+  "tag": [
+    "sma matematikalanjut materi"
+  ]
+}

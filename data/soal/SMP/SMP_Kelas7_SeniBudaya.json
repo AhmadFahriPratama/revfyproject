@@ -1,0 +1,708 @@
+{
+  "id": "smp-7-seni",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "Seni Budaya",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-7-seni-01",
+      "teks": "Teknik menggambar menggunakan titik-titik untuk menentukan gelap terang disebut teknik... (Latihan #1)",
+      "opsi": {
+        "A": "Pointilis",
+        "B": "Aquarel",
+        "C": "Dussel",
+        "D": "Arsir",
+        "E": "Plakat"
+      },
+      "kunci": "A",
+      "pembahasan": "Pointilis dari kata 'point' yang berarti titik. Teknik ini menggunakan susunan titik rapat/renggang untuk ilusi bayangan.",
+      "trik": "Titik-titik = Point = Pointilis."
+    },
+    {
+      "id": "smp-7-seni-02",
+      "teks": "Benda yang menjadi model dalam menggambar alam benda dapat berupa benda... (Latihan #2)",
+      "opsi": {
+        "A": "Bernyawa saja",
+        "B": "Mati (buatan manusia dan alam)",
+        "C": "Berwujud cair",
+        "D": "Abstrak",
+        "E": "Hanya benda berbentuk bulat"
+      },
+      "kunci": "B",
+      "pembahasan": "Alam benda (still life) merupakan gambar benda mati, baik buatan alam (batu, batang) maupun manusia (gelas, meja).",
+      "trik": "Alam benda = Benda mati."
+    },
+    {
+      "id": "smp-7-seni-03",
+      "teks": "Bernyanyi oleh satu suara atau sekelompok orang dengan satu nada yang sama disebut... (Latihan #3)",
+      "opsi": {
+        "A": "Paduan suara",
+        "B": "Akapela",
+        "C": "Unisono",
+        "D": "Kanon",
+        "E": "Solo"
+      },
+      "kunci": "C",
+      "pembahasan": "Unisono berarti satu suara. Beberapa penyanyi melantunkan melodi pokok yang sama tanpa pecah suara harmonis.",
+      "trik": "Uni = Satu. Sono = Suara."
+    },
+    {
+      "id": "smp-7-seni-04",
+      "teks": "Lagu 'Yamko Rambe Yamko' adalah contoh lagu daerah yang berasal dari provinsi... (Latihan #4)",
+      "opsi": {
+        "A": "Sumatera Utara",
+        "B": "Jawa Tengah",
+        "C": "Sulawesi Selatan",
+        "D": "Papua",
+        "E": "Bali"
+      },
+      "kunci": "D",
+      "pembahasan": "Yamko Rambe Yamko merupakan lagu daerah yang berasal dari tanah Papua.",
+      "trik": "Apuse dan Yamko Rambe Yamko sama-sama dari Papua."
+    },
+    {
+      "id": "smp-7-seni-05",
+      "teks": "Berdasarkan elemen dasarnya, waktu yang diperlukan oleh penari dalam melakukan gerak disebut... (Latihan #5)",
+      "opsi": {
+        "A": "Irama",
+        "B": "Ruang",
+        "C": "Tenaga",
+        "D": "Dinamika",
+        "E": "Tempo"
+      },
+      "kunci": "E",
+      "pembahasan": "Tempo cepat atau lambatnya gerak menentukan rentang waktu selesainya sebuah gerakan tari.",
+      "trik": "Waktu/Kecepatan gerak tari = Tempo."
+    },
+    {
+      "id": "smp-7-seni-06",
+      "teks": "Tari Saman yang dilakukan dalam posisi duduk sejajar dan membutuhkan kekompakan ritme sangat terkenal dari daerah... (Latihan #6)",
+      "opsi": {
+        "A": "Aceh",
+        "B": "Padang",
+        "C": "Jawa Timur",
+        "D": "Maluku",
+        "E": "Kalimantan Timur"
+      },
+      "kunci": "A",
+      "pembahasan": "Saman adalah tari khas Suku Gayo, Provinsi Aceh, yang dimainkan tanpa iring-iringan instrumen musik melainkan tepuk tangan/paha.",
+      "trik": "Tari duduk tepuk tangan cepet = Saman (Aceh)."
+    },
+    {
+      "id": "smp-7-seni-07",
+      "teks": "Seni meragakan adegan secara spontan tanpa naskah atau dialog yang dilatih terlebih dahulu disebut akting... (Latihan #7)",
+      "opsi": {
+        "A": "Pantomim",
+        "B": "Improvisasi",
+        "C": "Dramatisasi",
+        "D": "Pantomom",
+        "E": "Artikulasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Improvisasi adalah proses bermain peran secara spontan, tidak mengandalkan naskah hafalan untuk menutupi ruang kosong di panggung.",
+      "trik": "Spontan/tanpa latihan = Improvisasi."
+    },
+    {
+      "id": "smp-7-seni-08",
+      "teks": "Jenis pemapasan dalam teknik bernyanyi yang dianggap paling baik untuk menghasilkan suara panjang dan stabil adalah pernapasan... (Latihan #8)",
+      "opsi": {
+        "A": "Dada",
+        "B": "Perut",
+        "C": "Diafragma",
+        "D": "Hidung",
+        "E": "Bahu"
+      },
+      "kunci": "C",
+      "pembahasan": "Pernapasan diafragma memungkinkan penyanyi untuk menyimpan pasokan udara yang banyak, tanpa mendesak/membuat tegang otot dada/leher.",
+      "trik": "Bernyanyi paling bagus = diafragma."
+    },
+    {
+      "id": "smp-7-seni-09",
+      "teks": "Menggosok arsiran menggunakan kapas atau jari untuk menghaluskan perpindahan nilai gelap-terang pada gambar merupakan langkah pada teknik... (Latihan #9)",
+      "opsi": {
+        "A": "Block / Siluet",
+        "B": "Linear",
+        "C": "Aquarel",
+        "D": "Dussel",
+        "E": "Plakat"
+      },
+      "kunci": "D",
+      "pembahasan": "Teknik dussel (gosok) menggunakan alat atau jari untuk memudarkan goresan pensil menjadi arsir bayangan halus.",
+      "trik": "Gosok halus = Dussel."
+    },
+    {
+      "id": "smp-7-seni-10",
+      "teks": "Berikut ini yang merupakan ciri khas lagu daerah secara umum adalah... (Latihan #10)",
+      "opsi": {
+        "A": "Menggunakan bahasa nasional/baku",
+        "B": "Mengatur ritme yang sangat kompleks seperti musik orkestra klasik",
+        "C": "Selalu dibawakan dengan paduan suara 4 suara",
+        "D": "Penciptanya selalu diketahui oleh masyarakat luas",
+        "E": "Disebarkan dan diwariskan secara lisan dari generasi ke generasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Lagu daerah bersifat anonim, sederhana, dan biasanya dituturkan turun-temurun secara oral/lisan.",
+      "trik": "Lagu daerah = Tradisi lisan tanpa partitur baku (kebanyakan NN)."
+    },
+    {
+      "id": "smp-7-seni-11",
+      "teks": "Teknik menggambar menggunakan titik-titik untuk menentukan gelap terang disebut teknik... (Latihan #11)",
+      "opsi": {
+        "A": "Pointilis",
+        "B": "Aquarel",
+        "C": "Dussel",
+        "D": "Arsir",
+        "E": "Plakat"
+      },
+      "kunci": "A",
+      "pembahasan": "Pointilis dari kata 'point' yang berarti titik. Teknik ini menggunakan susunan titik rapat/renggang untuk ilusi bayangan.",
+      "trik": "Titik-titik = Point = Pointilis."
+    },
+    {
+      "id": "smp-7-seni-12",
+      "teks": "Benda yang menjadi model dalam menggambar alam benda dapat berupa benda... (Latihan #12)",
+      "opsi": {
+        "A": "Bernyawa saja",
+        "B": "Mati (buatan manusia dan alam)",
+        "C": "Berwujud cair",
+        "D": "Abstrak",
+        "E": "Hanya benda berbentuk bulat"
+      },
+      "kunci": "B",
+      "pembahasan": "Alam benda (still life) merupakan gambar benda mati, baik buatan alam (batu, batang) maupun manusia (gelas, meja).",
+      "trik": "Alam benda = Benda mati."
+    },
+    {
+      "id": "smp-7-seni-13",
+      "teks": "Bernyanyi oleh satu suara atau sekelompok orang dengan satu nada yang sama disebut... (Latihan #13)",
+      "opsi": {
+        "A": "Paduan suara",
+        "B": "Akapela",
+        "C": "Unisono",
+        "D": "Kanon",
+        "E": "Solo"
+      },
+      "kunci": "C",
+      "pembahasan": "Unisono berarti satu suara. Beberapa penyanyi melantunkan melodi pokok yang sama tanpa pecah suara harmonis.",
+      "trik": "Uni = Satu. Sono = Suara."
+    },
+    {
+      "id": "smp-7-seni-14",
+      "teks": "Lagu 'Yamko Rambe Yamko' adalah contoh lagu daerah yang berasal dari provinsi... (Latihan #14)",
+      "opsi": {
+        "A": "Sumatera Utara",
+        "B": "Jawa Tengah",
+        "C": "Sulawesi Selatan",
+        "D": "Papua",
+        "E": "Bali"
+      },
+      "kunci": "D",
+      "pembahasan": "Yamko Rambe Yamko merupakan lagu daerah yang berasal dari tanah Papua.",
+      "trik": "Apuse dan Yamko Rambe Yamko sama-sama dari Papua."
+    },
+    {
+      "id": "smp-7-seni-15",
+      "teks": "Berdasarkan elemen dasarnya, waktu yang diperlukan oleh penari dalam melakukan gerak disebut... (Latihan #15)",
+      "opsi": {
+        "A": "Irama",
+        "B": "Ruang",
+        "C": "Tenaga",
+        "D": "Dinamika",
+        "E": "Tempo"
+      },
+      "kunci": "E",
+      "pembahasan": "Tempo cepat atau lambatnya gerak menentukan rentang waktu selesainya sebuah gerakan tari.",
+      "trik": "Waktu/Kecepatan gerak tari = Tempo."
+    },
+    {
+      "id": "smp-7-seni-16",
+      "teks": "Tari Saman yang dilakukan dalam posisi duduk sejajar dan membutuhkan kekompakan ritme sangat terkenal dari daerah... (Latihan #16)",
+      "opsi": {
+        "A": "Aceh",
+        "B": "Padang",
+        "C": "Jawa Timur",
+        "D": "Maluku",
+        "E": "Kalimantan Timur"
+      },
+      "kunci": "A",
+      "pembahasan": "Saman adalah tari khas Suku Gayo, Provinsi Aceh, yang dimainkan tanpa iring-iringan instrumen musik melainkan tepuk tangan/paha.",
+      "trik": "Tari duduk tepuk tangan cepet = Saman (Aceh)."
+    },
+    {
+      "id": "smp-7-seni-17",
+      "teks": "Seni meragakan adegan secara spontan tanpa naskah atau dialog yang dilatih terlebih dahulu disebut akting... (Latihan #17)",
+      "opsi": {
+        "A": "Pantomim",
+        "B": "Improvisasi",
+        "C": "Dramatisasi",
+        "D": "Pantomom",
+        "E": "Artikulasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Improvisasi adalah proses bermain peran secara spontan, tidak mengandalkan naskah hafalan untuk menutupi ruang kosong di panggung.",
+      "trik": "Spontan/tanpa latihan = Improvisasi."
+    },
+    {
+      "id": "smp-7-seni-18",
+      "teks": "Jenis pemapasan dalam teknik bernyanyi yang dianggap paling baik untuk menghasilkan suara panjang dan stabil adalah pernapasan... (Latihan #18)",
+      "opsi": {
+        "A": "Dada",
+        "B": "Perut",
+        "C": "Diafragma",
+        "D": "Hidung",
+        "E": "Bahu"
+      },
+      "kunci": "C",
+      "pembahasan": "Pernapasan diafragma memungkinkan penyanyi untuk menyimpan pasokan udara yang banyak, tanpa mendesak/membuat tegang otot dada/leher.",
+      "trik": "Bernyanyi paling bagus = diafragma."
+    },
+    {
+      "id": "smp-7-seni-19",
+      "teks": "Menggosok arsiran menggunakan kapas atau jari untuk menghaluskan perpindahan nilai gelap-terang pada gambar merupakan langkah pada teknik... (Latihan #19)",
+      "opsi": {
+        "A": "Block / Siluet",
+        "B": "Linear",
+        "C": "Aquarel",
+        "D": "Dussel",
+        "E": "Plakat"
+      },
+      "kunci": "D",
+      "pembahasan": "Teknik dussel (gosok) menggunakan alat atau jari untuk memudarkan goresan pensil menjadi arsir bayangan halus.",
+      "trik": "Gosok halus = Dussel."
+    },
+    {
+      "id": "smp-7-seni-20",
+      "teks": "Berikut ini yang merupakan ciri khas lagu daerah secara umum adalah... (Latihan #20)",
+      "opsi": {
+        "A": "Menggunakan bahasa nasional/baku",
+        "B": "Mengatur ritme yang sangat kompleks seperti musik orkestra klasik",
+        "C": "Selalu dibawakan dengan paduan suara 4 suara",
+        "D": "Penciptanya selalu diketahui oleh masyarakat luas",
+        "E": "Disebarkan dan diwariskan secara lisan dari generasi ke generasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Lagu daerah bersifat anonim, sederhana, dan biasanya dituturkan turun-temurun secara oral/lisan.",
+      "trik": "Lagu daerah = Tradisi lisan tanpa partitur baku (kebanyakan NN)."
+    },
+    {
+      "id": "smp-7-seni-21",
+      "teks": "Teknik menggambar menggunakan titik-titik untuk menentukan gelap terang disebut teknik... (Latihan #21)",
+      "opsi": {
+        "A": "Pointilis",
+        "B": "Aquarel",
+        "C": "Dussel",
+        "D": "Arsir",
+        "E": "Plakat"
+      },
+      "kunci": "A",
+      "pembahasan": "Pointilis dari kata 'point' yang berarti titik. Teknik ini menggunakan susunan titik rapat/renggang untuk ilusi bayangan.",
+      "trik": "Titik-titik = Point = Pointilis."
+    },
+    {
+      "id": "smp-7-seni-22",
+      "teks": "Benda yang menjadi model dalam menggambar alam benda dapat berupa benda... (Latihan #22)",
+      "opsi": {
+        "A": "Bernyawa saja",
+        "B": "Mati (buatan manusia dan alam)",
+        "C": "Berwujud cair",
+        "D": "Abstrak",
+        "E": "Hanya benda berbentuk bulat"
+      },
+      "kunci": "B",
+      "pembahasan": "Alam benda (still life) merupakan gambar benda mati, baik buatan alam (batu, batang) maupun manusia (gelas, meja).",
+      "trik": "Alam benda = Benda mati."
+    },
+    {
+      "id": "smp-7-seni-23",
+      "teks": "Bernyanyi oleh satu suara atau sekelompok orang dengan satu nada yang sama disebut... (Latihan #23)",
+      "opsi": {
+        "A": "Paduan suara",
+        "B": "Akapela",
+        "C": "Unisono",
+        "D": "Kanon",
+        "E": "Solo"
+      },
+      "kunci": "C",
+      "pembahasan": "Unisono berarti satu suara. Beberapa penyanyi melantunkan melodi pokok yang sama tanpa pecah suara harmonis.",
+      "trik": "Uni = Satu. Sono = Suara."
+    },
+    {
+      "id": "smp-7-seni-24",
+      "teks": "Lagu 'Yamko Rambe Yamko' adalah contoh lagu daerah yang berasal dari provinsi... (Latihan #24)",
+      "opsi": {
+        "A": "Sumatera Utara",
+        "B": "Jawa Tengah",
+        "C": "Sulawesi Selatan",
+        "D": "Papua",
+        "E": "Bali"
+      },
+      "kunci": "D",
+      "pembahasan": "Yamko Rambe Yamko merupakan lagu daerah yang berasal dari tanah Papua.",
+      "trik": "Apuse dan Yamko Rambe Yamko sama-sama dari Papua."
+    },
+    {
+      "id": "smp-7-seni-25",
+      "teks": "Berdasarkan elemen dasarnya, waktu yang diperlukan oleh penari dalam melakukan gerak disebut... (Latihan #25)",
+      "opsi": {
+        "A": "Irama",
+        "B": "Ruang",
+        "C": "Tenaga",
+        "D": "Dinamika",
+        "E": "Tempo"
+      },
+      "kunci": "E",
+      "pembahasan": "Tempo cepat atau lambatnya gerak menentukan rentang waktu selesainya sebuah gerakan tari.",
+      "trik": "Waktu/Kecepatan gerak tari = Tempo."
+    },
+    {
+      "id": "smp-7-seni-26",
+      "teks": "Tari Saman yang dilakukan dalam posisi duduk sejajar dan membutuhkan kekompakan ritme sangat terkenal dari daerah... (Latihan #26)",
+      "opsi": {
+        "A": "Aceh",
+        "B": "Padang",
+        "C": "Jawa Timur",
+        "D": "Maluku",
+        "E": "Kalimantan Timur"
+      },
+      "kunci": "A",
+      "pembahasan": "Saman adalah tari khas Suku Gayo, Provinsi Aceh, yang dimainkan tanpa iring-iringan instrumen musik melainkan tepuk tangan/paha.",
+      "trik": "Tari duduk tepuk tangan cepet = Saman (Aceh)."
+    },
+    {
+      "id": "smp-7-seni-27",
+      "teks": "Seni meragakan adegan secara spontan tanpa naskah atau dialog yang dilatih terlebih dahulu disebut akting... (Latihan #27)",
+      "opsi": {
+        "A": "Pantomim",
+        "B": "Improvisasi",
+        "C": "Dramatisasi",
+        "D": "Pantomom",
+        "E": "Artikulasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Improvisasi adalah proses bermain peran secara spontan, tidak mengandalkan naskah hafalan untuk menutupi ruang kosong di panggung.",
+      "trik": "Spontan/tanpa latihan = Improvisasi."
+    },
+    {
+      "id": "smp-7-seni-28",
+      "teks": "Jenis pemapasan dalam teknik bernyanyi yang dianggap paling baik untuk menghasilkan suara panjang dan stabil adalah pernapasan... (Latihan #28)",
+      "opsi": {
+        "A": "Dada",
+        "B": "Perut",
+        "C": "Diafragma",
+        "D": "Hidung",
+        "E": "Bahu"
+      },
+      "kunci": "C",
+      "pembahasan": "Pernapasan diafragma memungkinkan penyanyi untuk menyimpan pasokan udara yang banyak, tanpa mendesak/membuat tegang otot dada/leher.",
+      "trik": "Bernyanyi paling bagus = diafragma."
+    },
+    {
+      "id": "smp-7-seni-29",
+      "teks": "Menggosok arsiran menggunakan kapas atau jari untuk menghaluskan perpindahan nilai gelap-terang pada gambar merupakan langkah pada teknik... (Latihan #29)",
+      "opsi": {
+        "A": "Block / Siluet",
+        "B": "Linear",
+        "C": "Aquarel",
+        "D": "Dussel",
+        "E": "Plakat"
+      },
+      "kunci": "D",
+      "pembahasan": "Teknik dussel (gosok) menggunakan alat atau jari untuk memudarkan goresan pensil menjadi arsir bayangan halus.",
+      "trik": "Gosok halus = Dussel."
+    },
+    {
+      "id": "smp-7-seni-30",
+      "teks": "Berikut ini yang merupakan ciri khas lagu daerah secara umum adalah... (Latihan #30)",
+      "opsi": {
+        "A": "Menggunakan bahasa nasional/baku",
+        "B": "Mengatur ritme yang sangat kompleks seperti musik orkestra klasik",
+        "C": "Selalu dibawakan dengan paduan suara 4 suara",
+        "D": "Penciptanya selalu diketahui oleh masyarakat luas",
+        "E": "Disebarkan dan diwariskan secara lisan dari generasi ke generasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Lagu daerah bersifat anonim, sederhana, dan biasanya dituturkan turun-temurun secara oral/lisan.",
+      "trik": "Lagu daerah = Tradisi lisan tanpa partitur baku (kebanyakan NN)."
+    },
+    {
+      "id": "smp-7-seni-31",
+      "teks": "Teknik menggambar menggunakan titik-titik untuk menentukan gelap terang disebut teknik... (Latihan #31)",
+      "opsi": {
+        "A": "Pointilis",
+        "B": "Aquarel",
+        "C": "Dussel",
+        "D": "Arsir",
+        "E": "Plakat"
+      },
+      "kunci": "A",
+      "pembahasan": "Pointilis dari kata 'point' yang berarti titik. Teknik ini menggunakan susunan titik rapat/renggang untuk ilusi bayangan.",
+      "trik": "Titik-titik = Point = Pointilis."
+    },
+    {
+      "id": "smp-7-seni-32",
+      "teks": "Benda yang menjadi model dalam menggambar alam benda dapat berupa benda... (Latihan #32)",
+      "opsi": {
+        "A": "Bernyawa saja",
+        "B": "Mati (buatan manusia dan alam)",
+        "C": "Berwujud cair",
+        "D": "Abstrak",
+        "E": "Hanya benda berbentuk bulat"
+      },
+      "kunci": "B",
+      "pembahasan": "Alam benda (still life) merupakan gambar benda mati, baik buatan alam (batu, batang) maupun manusia (gelas, meja).",
+      "trik": "Alam benda = Benda mati."
+    },
+    {
+      "id": "smp-7-seni-33",
+      "teks": "Bernyanyi oleh satu suara atau sekelompok orang dengan satu nada yang sama disebut... (Latihan #33)",
+      "opsi": {
+        "A": "Paduan suara",
+        "B": "Akapela",
+        "C": "Unisono",
+        "D": "Kanon",
+        "E": "Solo"
+      },
+      "kunci": "C",
+      "pembahasan": "Unisono berarti satu suara. Beberapa penyanyi melantunkan melodi pokok yang sama tanpa pecah suara harmonis.",
+      "trik": "Uni = Satu. Sono = Suara."
+    },
+    {
+      "id": "smp-7-seni-34",
+      "teks": "Lagu 'Yamko Rambe Yamko' adalah contoh lagu daerah yang berasal dari provinsi... (Latihan #34)",
+      "opsi": {
+        "A": "Sumatera Utara",
+        "B": "Jawa Tengah",
+        "C": "Sulawesi Selatan",
+        "D": "Papua",
+        "E": "Bali"
+      },
+      "kunci": "D",
+      "pembahasan": "Yamko Rambe Yamko merupakan lagu daerah yang berasal dari tanah Papua.",
+      "trik": "Apuse dan Yamko Rambe Yamko sama-sama dari Papua."
+    },
+    {
+      "id": "smp-7-seni-35",
+      "teks": "Berdasarkan elemen dasarnya, waktu yang diperlukan oleh penari dalam melakukan gerak disebut... (Latihan #35)",
+      "opsi": {
+        "A": "Irama",
+        "B": "Ruang",
+        "C": "Tenaga",
+        "D": "Dinamika",
+        "E": "Tempo"
+      },
+      "kunci": "E",
+      "pembahasan": "Tempo cepat atau lambatnya gerak menentukan rentang waktu selesainya sebuah gerakan tari.",
+      "trik": "Waktu/Kecepatan gerak tari = Tempo."
+    },
+    {
+      "id": "smp-7-seni-36",
+      "teks": "Tari Saman yang dilakukan dalam posisi duduk sejajar dan membutuhkan kekompakan ritme sangat terkenal dari daerah... (Latihan #36)",
+      "opsi": {
+        "A": "Aceh",
+        "B": "Padang",
+        "C": "Jawa Timur",
+        "D": "Maluku",
+        "E": "Kalimantan Timur"
+      },
+      "kunci": "A",
+      "pembahasan": "Saman adalah tari khas Suku Gayo, Provinsi Aceh, yang dimainkan tanpa iring-iringan instrumen musik melainkan tepuk tangan/paha.",
+      "trik": "Tari duduk tepuk tangan cepet = Saman (Aceh)."
+    },
+    {
+      "id": "smp-7-seni-37",
+      "teks": "Seni meragakan adegan secara spontan tanpa naskah atau dialog yang dilatih terlebih dahulu disebut akting... (Latihan #37)",
+      "opsi": {
+        "A": "Pantomim",
+        "B": "Improvisasi",
+        "C": "Dramatisasi",
+        "D": "Pantomom",
+        "E": "Artikulasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Improvisasi adalah proses bermain peran secara spontan, tidak mengandalkan naskah hafalan untuk menutupi ruang kosong di panggung.",
+      "trik": "Spontan/tanpa latihan = Improvisasi."
+    },
+    {
+      "id": "smp-7-seni-38",
+      "teks": "Jenis pemapasan dalam teknik bernyanyi yang dianggap paling baik untuk menghasilkan suara panjang dan stabil adalah pernapasan... (Latihan #38)",
+      "opsi": {
+        "A": "Dada",
+        "B": "Perut",
+        "C": "Diafragma",
+        "D": "Hidung",
+        "E": "Bahu"
+      },
+      "kunci": "C",
+      "pembahasan": "Pernapasan diafragma memungkinkan penyanyi untuk menyimpan pasokan udara yang banyak, tanpa mendesak/membuat tegang otot dada/leher.",
+      "trik": "Bernyanyi paling bagus = diafragma."
+    },
+    {
+      "id": "smp-7-seni-39",
+      "teks": "Menggosok arsiran menggunakan kapas atau jari untuk menghaluskan perpindahan nilai gelap-terang pada gambar merupakan langkah pada teknik... (Latihan #39)",
+      "opsi": {
+        "A": "Block / Siluet",
+        "B": "Linear",
+        "C": "Aquarel",
+        "D": "Dussel",
+        "E": "Plakat"
+      },
+      "kunci": "D",
+      "pembahasan": "Teknik dussel (gosok) menggunakan alat atau jari untuk memudarkan goresan pensil menjadi arsir bayangan halus.",
+      "trik": "Gosok halus = Dussel."
+    },
+    {
+      "id": "smp-7-seni-40",
+      "teks": "Berikut ini yang merupakan ciri khas lagu daerah secara umum adalah... (Latihan #40)",
+      "opsi": {
+        "A": "Menggunakan bahasa nasional/baku",
+        "B": "Mengatur ritme yang sangat kompleks seperti musik orkestra klasik",
+        "C": "Selalu dibawakan dengan paduan suara 4 suara",
+        "D": "Penciptanya selalu diketahui oleh masyarakat luas",
+        "E": "Disebarkan dan diwariskan secara lisan dari generasi ke generasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Lagu daerah bersifat anonim, sederhana, dan biasanya dituturkan turun-temurun secara oral/lisan.",
+      "trik": "Lagu daerah = Tradisi lisan tanpa partitur baku (kebanyakan NN)."
+    },
+    {
+      "id": "smp-7-seni-41",
+      "teks": "Teknik menggambar menggunakan titik-titik untuk menentukan gelap terang disebut teknik... (Latihan #41)",
+      "opsi": {
+        "A": "Pointilis",
+        "B": "Aquarel",
+        "C": "Dussel",
+        "D": "Arsir",
+        "E": "Plakat"
+      },
+      "kunci": "A",
+      "pembahasan": "Pointilis dari kata 'point' yang berarti titik. Teknik ini menggunakan susunan titik rapat/renggang untuk ilusi bayangan.",
+      "trik": "Titik-titik = Point = Pointilis."
+    },
+    {
+      "id": "smp-7-seni-42",
+      "teks": "Benda yang menjadi model dalam menggambar alam benda dapat berupa benda... (Latihan #42)",
+      "opsi": {
+        "A": "Bernyawa saja",
+        "B": "Mati (buatan manusia dan alam)",
+        "C": "Berwujud cair",
+        "D": "Abstrak",
+        "E": "Hanya benda berbentuk bulat"
+      },
+      "kunci": "B",
+      "pembahasan": "Alam benda (still life) merupakan gambar benda mati, baik buatan alam (batu, batang) maupun manusia (gelas, meja).",
+      "trik": "Alam benda = Benda mati."
+    },
+    {
+      "id": "smp-7-seni-43",
+      "teks": "Bernyanyi oleh satu suara atau sekelompok orang dengan satu nada yang sama disebut... (Latihan #43)",
+      "opsi": {
+        "A": "Paduan suara",
+        "B": "Akapela",
+        "C": "Unisono",
+        "D": "Kanon",
+        "E": "Solo"
+      },
+      "kunci": "C",
+      "pembahasan": "Unisono berarti satu suara. Beberapa penyanyi melantunkan melodi pokok yang sama tanpa pecah suara harmonis.",
+      "trik": "Uni = Satu. Sono = Suara."
+    },
+    {
+      "id": "smp-7-seni-44",
+      "teks": "Lagu 'Yamko Rambe Yamko' adalah contoh lagu daerah yang berasal dari provinsi... (Latihan #44)",
+      "opsi": {
+        "A": "Sumatera Utara",
+        "B": "Jawa Tengah",
+        "C": "Sulawesi Selatan",
+        "D": "Papua",
+        "E": "Bali"
+      },
+      "kunci": "D",
+      "pembahasan": "Yamko Rambe Yamko merupakan lagu daerah yang berasal dari tanah Papua.",
+      "trik": "Apuse dan Yamko Rambe Yamko sama-sama dari Papua."
+    },
+    {
+      "id": "smp-7-seni-45",
+      "teks": "Berdasarkan elemen dasarnya, waktu yang diperlukan oleh penari dalam melakukan gerak disebut... (Latihan #45)",
+      "opsi": {
+        "A": "Irama",
+        "B": "Ruang",
+        "C": "Tenaga",
+        "D": "Dinamika",
+        "E": "Tempo"
+      },
+      "kunci": "E",
+      "pembahasan": "Tempo cepat atau lambatnya gerak menentukan rentang waktu selesainya sebuah gerakan tari.",
+      "trik": "Waktu/Kecepatan gerak tari = Tempo."
+    },
+    {
+      "id": "smp-7-seni-46",
+      "teks": "Tari Saman yang dilakukan dalam posisi duduk sejajar dan membutuhkan kekompakan ritme sangat terkenal dari daerah... (Latihan #46)",
+      "opsi": {
+        "A": "Aceh",
+        "B": "Padang",
+        "C": "Jawa Timur",
+        "D": "Maluku",
+        "E": "Kalimantan Timur"
+      },
+      "kunci": "A",
+      "pembahasan": "Saman adalah tari khas Suku Gayo, Provinsi Aceh, yang dimainkan tanpa iring-iringan instrumen musik melainkan tepuk tangan/paha.",
+      "trik": "Tari duduk tepuk tangan cepet = Saman (Aceh)."
+    },
+    {
+      "id": "smp-7-seni-47",
+      "teks": "Seni meragakan adegan secara spontan tanpa naskah atau dialog yang dilatih terlebih dahulu disebut akting... (Latihan #47)",
+      "opsi": {
+        "A": "Pantomim",
+        "B": "Improvisasi",
+        "C": "Dramatisasi",
+        "D": "Pantomom",
+        "E": "Artikulasi"
+      },
+      "kunci": "B",
+      "pembahasan": "Improvisasi adalah proses bermain peran secara spontan, tidak mengandalkan naskah hafalan untuk menutupi ruang kosong di panggung.",
+      "trik": "Spontan/tanpa latihan = Improvisasi."
+    },
+    {
+      "id": "smp-7-seni-48",
+      "teks": "Jenis pemapasan dalam teknik bernyanyi yang dianggap paling baik untuk menghasilkan suara panjang dan stabil adalah pernapasan... (Latihan #48)",
+      "opsi": {
+        "A": "Dada",
+        "B": "Perut",
+        "C": "Diafragma",
+        "D": "Hidung",
+        "E": "Bahu"
+      },
+      "kunci": "C",
+      "pembahasan": "Pernapasan diafragma memungkinkan penyanyi untuk menyimpan pasokan udara yang banyak, tanpa mendesak/membuat tegang otot dada/leher.",
+      "trik": "Bernyanyi paling bagus = diafragma."
+    },
+    {
+      "id": "smp-7-seni-49",
+      "teks": "Menggosok arsiran menggunakan kapas atau jari untuk menghaluskan perpindahan nilai gelap-terang pada gambar merupakan langkah pada teknik... (Latihan #49)",
+      "opsi": {
+        "A": "Block / Siluet",
+        "B": "Linear",
+        "C": "Aquarel",
+        "D": "Dussel",
+        "E": "Plakat"
+      },
+      "kunci": "D",
+      "pembahasan": "Teknik dussel (gosok) menggunakan alat atau jari untuk memudarkan goresan pensil menjadi arsir bayangan halus.",
+      "trik": "Gosok halus = Dussel."
+    },
+    {
+      "id": "smp-7-seni-50",
+      "teks": "Berikut ini yang merupakan ciri khas lagu daerah secara umum adalah... (Latihan #50)",
+      "opsi": {
+        "A": "Menggunakan bahasa nasional/baku",
+        "B": "Mengatur ritme yang sangat kompleks seperti musik orkestra klasik",
+        "C": "Selalu dibawakan dengan paduan suara 4 suara",
+        "D": "Penciptanya selalu diketahui oleh masyarakat luas",
+        "E": "Disebarkan dan diwariskan secara lisan dari generasi ke generasi"
+      },
+      "kunci": "E",
+      "pembahasan": "Lagu daerah bersifat anonim, sederhana, dan biasanya dituturkan turun-temurun secara oral/lisan.",
+      "trik": "Lagu daerah = Tradisi lisan tanpa partitur baku (kebanyakan NN)."
+    }
+  ]
+}

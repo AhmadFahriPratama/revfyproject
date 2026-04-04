@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SN_TR_01",
+    "pertanyaan": "Elemen utama dalam sebuah karya seni tari adalah...",
+    "opsi": [
+      "Gerak",
+      "Musik",
+      "Busana",
+      "Panggung",
+      "Lampu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tanpa gerak tubuh manusia yang ritmis, sebuah karya tidak bisa disebut tarian."
+  },
+  {
+    "id": "SN_TR_02",
+    "pertanyaan": "Unsur tari yang berhubungan dengan keterampilan teknik gerak anggota tubuh disebut...",
+    "opsi": [
+      "Wirama",
+      "Wiraga",
+      "Wirasa",
+      "Wirupa",
+      "Wirawan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Wiraga berarti penari memiliki kelenturan dan penguasaan teknik gerak yang baik."
+  },
+  {
+    "id": "SN_TR_03",
+    "pertanyaan": "Unsur tari yang berhubungan dengan keserasian antara gerak dengan irama musik iringannya disebut...",
+    "opsi": [
+      "Wiraga",
+      "Wirasa",
+      "Wirama",
+      "Wicara",
+      "Wiraga"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Wirama memastikan penari mengikuti ketukan dan suasana musik."
+  },
+  {
+    "id": "SN_TR_04",
+    "pertanyaan": "Unsur tari yang berhubungan dengan penjiwaan, penghayatan, dan ekspresi emosi dalam menari disebut...",
+    "opsi": [
+      "Wiraga",
+      "Wirama",
+      "Warna",
+      "Wirasa",
+      "Warta"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Wirasa menyampaikan pesan atau karakter tarian kepada penonton melalui ekspresi wajah dan tubuh."
+  },
+  {
+    "id": "SN_TR_05",
+    "pertanyaan": "Gerak tari yang memiliki makna atau tujuan tertentu (misal gerak menanam padi) disebut gerak...",
+    "opsi": [
+      "Gerak Murni",
+      "Gerak Bebas",
+      "Gerak Spontan",
+      "Gerak Imitatif",
+      "Gerak Maknawi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gerak maknawi adalah gerak yang telah mengalami penggubahan (stilisasi) namun tetap memiliki arti."
+  },
+  {
+    "id": "SN_TR_06",
+    "pertanyaan": "Gerak tari yang hanya mengedepankan keindahan estetika tanpa memiliki arti khusus disebut gerak...",
+    "opsi": [
+      "Gerak Murni",
+      "Gerak Maknawi",
+      "Gerak Patah-patah",
+      "Gerak Lambat",
+      "Gerak Cepat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Gerak murni hanya bertujuan agar tarian terlihat indah secara visual."
+  },
+  {
+    "id": "SN_TR_07",
+    "pertanyaan": "Pengaturan tinggi rendahnya posisi penari saat melakukan gerakan disebut pengaturan...",
+    "opsi": [
+      "Tempo",
+      "Level",
+      "Dinamis",
+      "Vokal",
+      "Busana"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Level terbagi menjadi tinggi (meloncat/berdiri), sedang (mendak/setengah jongkok), dan rendah (ngesot/rebahan)."
+  },
+  {
+    "id": "SN_TR_08",
+    "pertanyaan": "Ciri khas tari tradisional dari daerah Bali adalah...",
+    "opsi": [
+      "Gerakan kaki yang lambat",
+      "Menutup seluruh wajah",
+      "Gerakan mata yang lincah (Seledet) dan gerak tangan yang tegas",
+      "Hanya dilakukan oleh pria",
+      "Tanpa menggunakan alat musik"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Seledet adalah karakteristik ikonik tari Bali."
+  },
+  {
+    "id": "SN_TR_09",
+    "pertanyaan": "Tari Saman yang dilakukan secara berkelompok dengan gerakan tepuk tangan dan dada berasal dari provinsi...",
+    "opsi": [
+      "Sumatera Utara",
+      "Sumatera Barat",
+      "Riau",
+      "Aceh",
+      "Jambi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tari Saman menonjolkan kekompakan dan kecepatan gerakan tangan (Idiofon tubuh)."
+  },
+  {
+    "id": "SN_TR_10",
+    "pertanyaan": "Tari Jaipong merupakan tarian kreasi baru yang berasal dari daerah...",
+    "opsi": [
+      "Jawa Tengah",
+      "Jawa Timur",
+      "Banten",
+      "DKI Jakarta",
+      "Jawa Barat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jaipong menggabungkan unsur ketuk tilu, tari pergaulan, dan pencak silat."
+  },
+  {
+    "id": "SN_TR_11",
+    "pertanyaan": "Tari Serimpi dan Tari Bedhaya merupakan contoh tari klasik yang berkembang di lingkungan...",
+    "opsi": [
+      "Keraton / Istana",
+      "Pasar",
+      "Ladang Pertanian",
+      "Pinggir Pantai",
+      "Hutan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tari klasik memiliki aturan gerak yang sangat sakral, baku, dan halus."
+  },
+  {
+    "id": "SN_TR_12",
+    "pertanyaan": "Tari Kecak dari Bali menggunakan iringan musik yang berasal dari...",
+    "opsi": [
+      "Gamelan Gong",
+      "Suara manusia yang berteriak 'Cak!' secara ritmis",
+      "Orkestra",
+      "Band Rock",
+      "Suling Bambu"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kecak adalah contoh tari yang menggunakan musik internal (suara penarinya sendiri)."
+  },
+  {
+    "id": "SN_TR_13",
+    "pertanyaan": "Alat atau benda yang digunakan penari untuk membantu memperkuat karakter dalam menari disebut...",
+    "opsi": [
+      "Kostum",
+      "Make up",
+      "Properti",
+      "Panggung",
+      "Lampu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh properti: Piring (Tari Piring), Kipas (Tari Pakarena), Payung (Tari Payung)."
+  },
+  {
+    "id": "SN_TR_14",
+    "pertanyaan": "Tari yang dilakukan oleh satu orang penari disebut tari...",
+    "opsi": [
+      "Berpasangan",
+      "Kelompok",
+      "Massal",
+      "Tunggal (Solo)",
+      "Kontemporer"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: Tari Gatotkaca, Tari Panji Semirang."
+  },
+  {
+    "id": "SN_TR_15",
+    "pertanyaan": "Tari yang dilakukan oleh sepasang penari (putra-putri, putra-putra, atau putri-putri) disebut tari...",
+    "opsi": [
+      "Tunggal",
+      "Kelompok",
+      "Sendratari",
+      "Modern",
+      "Berpasangan (Duet)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: Tari Karonsih, Tari Serampang Dua Belas."
+  },
+  {
+    "id": "SN_TR_16",
+    "pertanyaan": "Garis imajinasi yang dilalui oleh penari atau pola perpindahan posisi penari di atas panggung disebut...",
+    "opsi": [
+      "Pola Lantai",
+      "Garis Tepi",
+      "Level",
+      "Arah Hadap",
+      "Fokus"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pola lantai membuat tarian berkelompok terlihat rapi dan artistik (misal: diagonal, lingkaran, zig-zag)."
+  },
+  {
+    "id": "SN_TR_17",
+    "pertanyaan": "Tari Piring berasal dari daerah...",
+    "opsi": [
+      "Palembang, Sumatera Selatan",
+      "Minangkabau, Sumatera Barat",
+      "Bangka Belitung",
+      "Lampung",
+      "Bengkulu"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penari mengayunkan piring dengan gerakan cepat tanpa jatuh."
+  },
+  {
+    "id": "SN_TR_18",
+    "pertanyaan": "Gerakan melompat batu setinggi 2 meter (Lompat Batu Nias) sering dijadikan inspirasi bagi...",
+    "opsi": [
+      "Pemain bola",
+      "Penyanyi solo",
+      "Koreografer tari perang daerah Nias",
+      "Penulis buku",
+      "Pelukis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tradisi daerah menjadi dasar kekayaan gerak tari tradisional."
+  },
+  {
+    "id": "SN_TR_19",
+    "pertanyaan": "Fungsi tata rias dalam seni tari adalah, kecuali...",
+    "opsi": [
+      "Mempercantik/memperwajah penari",
+      "Memperjelas karakter tokoh tarian (misal tokoh raksasa atau kera)",
+      "Menambah rasa percaya diri",
+      "Memberikan nutrisi pada kulit",
+      "Menghilangkan kilau cahaya lampu panggung yang berlebih"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Rias panggung bertujuan estetik dan teatrikal, bukan perawatan kulit."
+  },
+  {
+    "id": "SN_TR_20",
+    "pertanyaan": "Kain selendang panjang yang disampirkan di bahu atau diikat dipinggang penari disebut...",
+    "opsi": [
+      "Jarink",
+      "Kemben",
+      "Stagen",
+      "Mahkota",
+      "Sampur / Selendang"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sampur sangat krusial untuk menunjang estetika gerakan tangan."
+  },
+  {
+    "id": "SN_TR_21",
+    "pertanyaan": "Arah hadap penari ke depan, samping, atau serong disebut pengaturan...",
+    "opsi": [
+      "Arah (Orientation)",
+      "Ruang",
+      "Tenaga",
+      "Viber",
+      "Alur"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Arah hadap memberikan variasi visual bagi penonton."
+  },
+  {
+    "id": "SN_TR_22",
+    "pertanyaan": "Tari yang lahir dari ekspresi jiwa manusia yang bersifat bebas dan tidak terikat aturan baku tradisional disebut tari...",
+    "opsi": [
+      "Seni Klasik",
+      "Tari Modern / Kontemporer",
+      "Tari Rakyat",
+      "Tari Pergaulan",
+      "Tari Upacara"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tari kontemporer bersifat inovatif dan seringkali eksperimental."
+  },
+  {
+    "id": "SN_TR_23",
+    "pertanyaan": "Tari Pendet dari Bali pada awalnya berfungsi sebagai...",
+    "opsi": [
+      "Hiburan belaka",
+      "Tari olahraga",
+      "Tari Upacara penyambutan Dewa",
+      "Tari perang",
+      "Tari menidurkan bayi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Seiring waktu, Pendet juga dijadikan tari penyambutan tamu (tamu kenegaraan)."
+  },
+  {
+    "id": "SN_TR_24",
+    "pertanyaan": "Gerak kepala menoleh ke samping kiri atau kanan dengan cepat dalam tari Jawa disebut...",
+    "opsi": [
+      "Ukel",
+      "Sembahan",
+      "Seledet",
+      "Pacak Gulu",
+      "Nosep"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pacak gulu memerlukan kelenturan leher yang baik."
+  },
+  {
+    "id": "SN_TR_25",
+    "pertanyaan": "Gerakan memutar pergelangan tangan dalam tari Jawa disebut...",
+    "opsi": [
+      "Mendak",
+      "Ngrayung",
+      "Ngepel",
+      "Ulur",
+      "Ukel"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ukel adalah salah satu teknik dasar tangan yang sangat penting."
+  },
+  {
+    "id": "SN_TR_26",
+    "pertanyaan": "Gerakan kaki ditekuk (jongkok rendah) dalam tarian pria disebut...",
+    "opsi": [
+      "Mendak",
+      "Sila",
+      "Njingkat",
+      "Debog",
+      "Kenser"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mendak memberikan kesan kokoh dan berwibawa."
+  },
+  {
+    "id": "SN_TR_27",
+    "pertanyaan": "Tari yang memiliki tema peperangan antara dua orang atau kelompok disebut tari...",
+    "opsi": [
+      "Erotik",
+      "Heroik / Wireng",
+      "Pantomin",
+      "Religius",
+      "Imitatif"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Menampilkan kegagahan dan ketangkasan bela diri dalam seni tari."
+  },
+  {
+    "id": "SN_TR_28",
+    "pertanyaan": "Apa fungsi 'Sutradara/Koreografer' dalam pertunjukan tari?",
+    "opsi": [
+      "Menonton saja",
+      "Menjahit baju",
+      "Menyusun struktur gerak dan mengarahkan penari agar sesuai konsep",
+      "Memasak",
+      "Membersihkan panggung"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Koreografer adalah pencipta karya tari. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menyusun struktur gerak dan mengarahkan penari agar sesuai konsep\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SN_TR_29",
+    "pertanyaan": "Tari Cendrawasih menirukan gerakan burung cendrawasih yang sedang memikat pasangan. Tarian ini termasuk tari...",
+    "opsi": [
+      "Mitologi",
+      "Bela diri",
+      "Ekspresif",
+      "Imitatif (Menirukan gerak hewan/alam)",
+      "Abstrak"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Gerakannya distilisasi dari kehidupan nyata fauna."
+  },
+  {
+    "id": "SN_TR_30",
+    "pertanyaan": "Seseorang yang menari di atas panggung disebut...",
+    "opsi": [
+      "Aktor",
+      "Penyanyi",
+      "Manager",
+      "Produser",
+      "Penari (Dancer)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Penari adalah mediator keindahan gerak kepada penonton."
+  },
+  {
+    "id": "SN_TR_31",
+    "pertanyaan": "Musik yang dimainkan oleh orang lain atau pemutar audio untuk mengiringi penari disebut...",
+    "opsi": [
+      "Musik Eksternal",
+      "Musik Internal",
+      "Musik Alami",
+      "Musik Buatan",
+      "Musik Berisik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: Iringan orkes gamelan atau lagu dari MP3 player."
+  },
+  {
+    "id": "SN_TR_32",
+    "pertanyaan": "Tari Reog Ponorogo menggunakan properti kepala harimau berhias bulu merak yang beratnya bisa mencapai 50kg. Bagian tubuh penari yang menopang beban tersebut adalah...",
+    "opsi": [
+      "Tangan",
+      "Gigi dan Leher",
+      "Pinggang",
+      "Kaki",
+      "Hidung"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penari Reog (Pembarong) menggigit kayu di dalam topeng tersebut."
+  },
+  {
+    "id": "SN_TR_33",
+    "pertanyaan": "Fungsi tata lampu (lighting) dalam pertunjukan tari adalah...",
+    "opsi": [
+      "Hanya menghabiskan listrik",
+      "Mendinginkan panggung",
+      "Menerangi panggung agar penari terlihat jelas oleh penonton",
+      "Menghangatkan tubuh penari",
+      "Menjadi layar film"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Lighting juga memberikan suasana (mood) pada tarian."
+  },
+  {
+    "id": "SN_TR_34",
+    "pertanyaan": "Apa yang dimaksud dengan 'Panggung Proscenium'?",
+    "opsi": [
+      "Panggung di tengah penonton (360 derajat)",
+      "Panggung di atas air",
+      "Panggung tanpa cahaya",
+      "Panggung berbingkai di mana penonton hanya melihat dari satu arah (depan)",
+      "Panggung di hutan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Proscenium paling umum digunakan di gedung pertunjukan seni (theater)."
+  },
+  {
+    "id": "SN_TR_35",
+    "pertanyaan": "Tari Tor-tor berasal dari sukuberbangsa...",
+    "opsi": [
+      "Minang, Sumatera Barat",
+      "Bugis, Sulawesi Selatan",
+      "Dayak, Kalimantan Tengah",
+      "Asmat, Papua",
+      "Batak, Sumatera Utara"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tor-tor dulunya adalah tarian sakral adat marga Batak."
+  },
+  {
+    "id": "SN_TR_36",
+    "pertanyaan": "Gerakan melingkar dalam tarian seringkali melambangkan...",
+    "opsi": [
+      "Persatuan dan Kebersamaan",
+      "Perpecahan",
+      "Ketidakjelasan",
+      "Kebosanan",
+      "Kematian"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Garis lengkung/lingkaran memberikan kesan luwes dan bersatu."
+  },
+  {
+    "id": "SN_TR_37",
+    "pertanyaan": "Sikap telapak tangan dengan ibu jari menempel pada telapak tangan dan empat jari lainnya berdiri lurus di tari Jawa disebut...",
+    "opsi": [
+      "Ngepel",
+      "Ngrayung",
+      "Ukel",
+      "Kebyok",
+      "Tepis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Ngrayung adalah salah satu ragam gerak tangan yang sangat dasar."
+  },
+  {
+    "id": "SN_TR_38",
+    "pertanyaan": "Fungsi pernapasan dalam menari bertujuan untuk...",
+    "opsi": [
+      "Hanya agar tetap hidup",
+      "Membuat penari mengantuk",
+      "Membantu penari mengatur stamina dan memberikan energi pada gerakan",
+      "Agar penari bisa menyanyi",
+      "Mendinginkan tubuh"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pernapasan yang baik mencegah penari cepat lelah saat melakukan gerakan sulit."
+  },
+  {
+    "id": "SN_TR_39",
+    "pertanyaan": "Berapakah jumlah penari dalam tari 'Duet'?",
+    "opsi": [
+      "1 orang",
+      "3 orang",
+      "Lebih dari 10 orang",
+      "2 orang",
+      "Tidak tentu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Duet berarti berpasangan. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2 orang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SN_TR_40",
+    "pertanyaan": "Penyajian cuplikan cerita melalui gerak tari tanpa dialog disebut...",
+    "opsi": [
+      "Sinetron",
+      "Konser Musik",
+      "Karikatur",
+      "Puisi",
+      "Fragmen Tari"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Fragmen adalah potongan adegan dari sebuah tarian cerita yang panjang."
+  },
+  {
+    "id": "SN_TR_41",
+    "pertanyaan": "Tari Gatotkaca merupakan contoh tari yang menceritakan tokoh dari...",
+    "opsi": [
+      "Kisah Mahabarata (Pewayangan)",
+      "Sejarah Modern Indonesia",
+      "Cerita Rakyat Malin Kundang",
+      "Legenda Tangkuban Perahu",
+      "Dongeng Kancil"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Menonjolkan karakter ksatria yang kuat dan bisa terbang."
+  },
+  {
+    "id": "SN_TR_42",
+    "pertanyaan": "Suara gemerincing logam pada kaki penari (biasanya pada tari klasik/kerakyatan) disebut...",
+    "opsi": [
+      "Genta",
+      "Gongseng",
+      "Rebab",
+      "Kipas",
+      "Sampur"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Gongseng menambah kemeriahan ritme langkah penari."
+  },
+  {
+    "id": "SN_TR_43",
+    "pertanyaan": "Tari Remo merupakan tarian penyambutan tamu yang berasal dari...",
+    "opsi": [
+      "Bali",
+      "Madura",
+      "Jawa Timur",
+      "Lombok",
+      "Papua"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Identik dengan gerakan kaki yang menghentak bumi secara dinamis."
+  },
+  {
+    "id": "SN_TR_44",
+    "pertanyaan": "Kostum tari yang meniru bentuk hewan (misal merak) bertujuan untuk...",
+    "opsi": [
+      "Mengelabui penonton",
+      "Agar penari tidak kedinginan",
+      "Sebagai hiasan saja",
+      "Memperjelas tema dan imajinasi tarian kepada audiens",
+      "Agar penari bisa terbang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Membantu visualisasi karakter dalam tari imitatif."
+  },
+  {
+    "id": "SN_TR_45",
+    "pertanyaan": "Aktivitas mencoba-coba gerak baru untuk menemukan motif gerak yang unik disebut proses...",
+    "opsi": [
+      "Menonton TV",
+      "Berjalan kaki",
+      "Tidur nyenyak",
+      "Makan enak",
+      "Eksplorasi Gerak"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Eksplorasi adalah tahap penting dalam penciptaan koreografi."
+  },
+  {
+    "id": "SN_TR_46",
+    "pertanyaan": "Tari tradisional yang digunakan untuk memohon hujan atau hasil panen yang melimpah termasuk fungsi tari sebagai...",
+    "opsi": [
+      "Tari Sarana Upacara",
+      "Tari Hiburan",
+      "Tari Pergaulan",
+      "Tari Komersial",
+      "Tari Sekolah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bagi masyarakat tradisional, tari adalah jembatan komunikasi dengan alam/Tuhan."
+  },
+  {
+    "id": "SN_TR_47",
+    "pertanyaan": "Mengarahkan pandangan mata ke titik tertentu sesuai gerakan tubuh disebut fokus...",
+    "opsi": [
+      "Telinga",
+      "Mata",
+      "Hidung",
+      "Kaki",
+      "Tangan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Fokus mata menambah kewibawaan dan konsentrasi penari."
+  },
+  {
+    "id": "SN_TR_48",
+    "pertanyaan": "Seseorang yang menulis ulasan atau kritik tentang sebuah pertunjukan tari disebut...",
+    "opsi": [
+      "Kurator",
+      "Sutradara",
+      "Kritikus Seni",
+      "Penari Utuh",
+      "Kameramen"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kritik seni membantu meningkatkan kualitas karya kedepannya."
+  },
+  {
+    "id": "SN_TR_49",
+    "pertanyaan": "Mengapa penari harus melakukan pemanasan (stretching) sebelum menari?",
+    "opsi": [
+      "Hanya mengikuti gaya",
+      "Agar baju tidak kusut",
+      "Supaya tidak haus",
+      "Mencegah terjadinya cedera otot dan mempermudah gerakan sulit",
+      "Menghabiskan waktu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Otot yang lentur berkat pemanasan sangat penting untuk keamanan penari."
+  },
+  {
+    "id": "SN_TR_50",
+    "pertanyaan": "Salah satu sikap menghargai karya tari tradisional adalah...",
+    "opsi": [
+      "Menertawakan gerakannya yang aneh",
+      "Mengabaikan pementasannya",
+      "Merusak kostum tari",
+      "Mengejek penarinya",
+      "Mempelajari dan melestarikannya sebagai kekayaan budaya bangsa"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Tari tradisional adalah identitas jati diri bangsa Indonesia."
+  }
+]

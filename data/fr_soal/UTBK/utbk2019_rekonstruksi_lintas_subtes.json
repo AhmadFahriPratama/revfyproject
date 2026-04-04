@@ -1,0 +1,344 @@
+{
+  "id": "fr-utbk-2019",
+  "tahun": 2019,
+  "mapel": "Lintas Subtes UTBK",
+  "deskripsi": "Rekonstruksi FR UTBK 2019 lintas subtes berdasarkan pola soal dan ringkasan testimoni peserta.",
+  "soal": [
+    {
+      "id": "f19-pu-01",
+      "hari_ujian": 1,
+      "subtes": "Penalaran Umum",
+      "teks": "Semua petugas yang mengikuti seminar wajib membawa arsip. Sebagian peserta seminar ternyata membawa arsip berlabel khusus. Simpulan yang pasti benar adalah?",
+      "opsi": {
+        "A": "Sebagian arsip dimiliki oleh petugas yang mengikuti seminar.",
+        "B": "Semua arsip dimiliki oleh petugas yang mengikuti seminar.",
+        "C": "Semua petugas yang mengikuti seminar memiliki arsip.",
+        "D": "Tidak dapat disimpulkan hubungan antara arsip dan petugas yang mengikuti seminar.",
+        "E": "Tidak ada petugas yang mengikuti seminar memiliki arsip."
+      },
+      "kunci": "A",
+      "pembahasan": "Karena semua petugas yang mengikuti seminar wajib membawa arsip, maka ketika diketahui sebagian peserta seminar membawa arsip berlabel khusus, paling aman disimpulkan bahwa sebagian arsip itu terkait peserta seminar. Opsi lain terlalu kuat atau bertentangan dengan premis.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-pu-02",
+      "hari_ujian": 2,
+      "subtes": "Penalaran Umum",
+      "teks": "Farhan, Citra, Eka, Bima harus presentasi satu per satu. Farhan tampil sebelum Citra. Eka tampil setelah Bima. Citra tidak berdampingan dengan Bima. Urutan yang mungkin adalah?",
+      "opsi": {
+        "A": "Farhan - Eka - Bima - Citra",
+        "B": "Bima - Farhan - Citra - Eka",
+        "C": "Citra - Bima - Farhan - Eka",
+        "D": "Eka - Citra - Bima - Farhan",
+        "E": "Bima - Citra - Farhan - Eka"
+      },
+      "kunci": "B",
+      "pembahasan": "Periksa tiap opsi terhadap tiga syarat: posisi Farhan sebelum Citra, posisi Eka sesudah Bima, dan Citra tidak berdampingan dengan Bima. Hanya urutan Bima - Farhan - Citra - Eka yang memenuhi semuanya.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-pu-03",
+      "hari_ujian": 3,
+      "subtes": "Penalaran Umum",
+      "teks": "Sebuah program transportasi publik mencatat capaian awal 190 satuan. Setelah intervensi pertama naik 42 satuan, tetapi pada evaluasi lanjutan turun 10 satuan. Kelompok pembanding berakhir pada 203 satuan. Simpulan yang paling tepat adalah?",
+      "opsi": {
+        "A": "Program pada topik transportasi publik hanya meningkat jika dibandingkan dengan kelompok B.",
+        "B": "Program pada topik transportasi publik mengalami penurunan bersih sebesar 10 satuan.",
+        "C": "Program pada topik transportasi publik tetap menunjukkan peningkatan bersih sebesar 32 satuan.",
+        "D": "Kelompok B pasti lebih efektif daripada program pada topik transportasi publik.",
+        "E": "Tidak ada perubahan pada topik transportasi publik karena kenaikan dan penurunan saling meniadakan."
+      },
+      "kunci": "C",
+      "pembahasan": "Capaian akhir program adalah 190 + 42 - 10 = 222. Jadi ada peningkatan bersih 32 satuan. Data kelompok pembanding tidak mengubah fakta peningkatan bersih program utama.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-pbm-01",
+      "hari_ujian": 1,
+      "subtes": "Pemahaman Bacaan dan Menulis",
+      "teks": "Manakah perbaikan kalimat yang paling efektif untuk menyampaikan gagasan tentang jadwal piket terkait akses internet untuk rapat evaluasi?",
+      "opsi": {
+        "A": "jadwal piket tentang akses internet perlu ditata melalui evaluasi rutin agar tujuan yang jelas, sasaran, dan keberhasilan indikator.",
+        "B": "jadwal piket tentang akses internet ditata melalui evaluasi rutin, karena supaya tujuan dan indikatornya jelas.",
+        "C": "jadwal piket tentang akses internet perlu ditata agar tujuan, sasaran, indikator keberhasilannya jelas melalui evaluasi rutin.",
+        "D": "jadwal piket tentang akses internet perlu ditata melalui evaluasi rutin agar tujuan, sasaran, dan indikator keberhasilannya jelas.",
+        "E": "jadwal piket tentang akses internet perlu ditata bertahap agar jelas tujuan sasaran dan indikator keberhasilannya adalah."
+      },
+      "kunci": "D",
+      "pembahasan": "Kalimat benar harus hemat, logis, dan gramatikal. Opsi benar menjaga subjek-predikat tetap jelas serta menyusun rincian tujuan, sasaran, dan indikator secara paralel.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-pbm-02",
+      "hari_ujian": 2,
+      "subtes": "Pemahaman Bacaan dan Menulis",
+      "teks": "Susunlah kalimat berikut agar menjadi paragraf yang padu pada program semester ini. (1) jadwal piket tentang akses internet diusulkan pada awal semester. (2) Guru meminta data kebutuhan siswa sebelum jadwal piket dijalankan. (3) Data tersebut dipakai untuk menentukan prioritas kegiatan. (4) Setelah prioritas ditetapkan, sekolah ditata jadwal pelaksanaan melalui evaluasi rutin.",
+      "opsi": {
+        "A": "1-3-2-4",
+        "B": "2-3-1-4",
+        "C": "3-2-1-4",
+        "D": "1-2-3-4",
+        "E": "2-1-3-4"
+      },
+      "kunci": "E",
+      "pembahasan": "Kalimat (2) paling tepat menjadi pembuka karena memperkenalkan kebutuhan data. Kalimat (1) menjelaskan konteks usulan program, lalu (3) menjelaskan fungsi data, dan (4) menjadi akibat logis setelah prioritas ditentukan.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-pbm-03",
+      "hari_ujian": 3,
+      "subtes": "Pemahaman Bacaan dan Menulis",
+      "teks": "Kata baku yang tepat untuk mengisi bagian rumpang pada kalimat berikut adalah: \"Rapat itu menghasilkan [rumpang] kerja yang disepakati bersama.\" Kalimat ini dipakai dalam laporan mingguan untuk jadwal piket bertema akses internet.",
+      "opsi": {
+        "A": "kesepakatan",
+        "B": "penyepakatanan",
+        "C": "menyepakati",
+        "D": "kesepakat",
+        "E": "sepakat"
+      },
+      "kunci": "A",
+      "pembahasan": "Kata yang dibutuhkan harus sesuai kelas kata dan konteks kalimat. Opsi benar adalah \"kesepakatan\" karena paling tepat secara makna dan bentuk baku.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-ppu-01",
+      "hari_ujian": 1,
+      "subtes": "Pengetahuan dan Pemahaman Umum",
+      "teks": "Cermati kalimat berikut. Dalam kalimat \"Laporan itu dianggap relevan dengan topik yang sedang dibahas. secara menyeluruh saat diskusi kelas pada laporan triwulan.\", makna ungkapan \"relevan\" yang paling dekat adalah?",
+      "opsi": {
+        "A": "bertentangan",
+        "B": "berkaitan erat",
+        "C": "berlebihan",
+        "D": "sangat kabur",
+        "E": "asing"
+      },
+      "kunci": "B",
+      "pembahasan": "Ungkapan \"relevan\" harus dipahami dari konteks kalimat. Opsi benar adalah \"berkaitan erat\" karena paling mendekati makna yang dimaksud, sedangkan pilihan lain tidak sesuai dengan nuansa konteksnya.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-ppu-02",
+      "hari_ujian": 2,
+      "subtes": "Pengetahuan dan Pemahaman Umum",
+      "teks": "Hubungan kata berikut paling sepadan dengan hubungan kata juru masak : menu setara dengan hubungan kata arsitek : kata manakah yang paling tepat?",
+      "opsi": {
+        "A": "agenda",
+        "B": "penumpang",
+        "C": "denah",
+        "D": "catatan",
+        "E": "ruangan"
+      },
+      "kunci": "C",
+      "pembahasan": "juru masak berhubungan langsung dengan menu sebagai objek kerja utama. Secara setara, arsitek berhubungan langsung dengan denah.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-ppu-03",
+      "hari_ujian": 3,
+      "subtes": "Pengetahuan dan Pemahaman Umum",
+      "teks": "Dalam daftar berikut yang sering muncul dalam bacaan umum pada latihan kategori pada laporan triwulan, istilah yang paling tepat untuk mencakup kata-kata duku, rambutan, sawo, salak adalah?",
+      "opsi": {
+        "A": "umbi-umbian",
+        "B": "alat berkebun",
+        "C": "sayuran daun",
+        "D": "buah tropis",
+        "E": "tanaman hias"
+      },
+      "kunci": "D",
+      "pembahasan": "Semua unsur pada daftar termasuk ke dalam kategori \"buah tropis\". Pilihan lain tidak cukup luas atau justru berada pada kategori yang berbeda.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-pk-01",
+      "hari_ujian": 1,
+      "subtes": "Pengetahuan Kuantitatif",
+      "teks": "Sebuah toko buku menjual 298 paket latihan pada bulan pertama. Pada bulan berikutnya penjualan naik 31%. Banyak paket yang terjual pada bulan berikutnya adalah?",
+      "opsi": {
+        "A": "329",
+        "B": "206",
+        "C": "92",
+        "D": "402",
+        "E": "390"
+      },
+      "kunci": "E",
+      "pembahasan": "Kenaikan 31% berarti jumlah baru = 298 x (100 + 31)/100 = 390.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-pk-02",
+      "hari_ujian": 2,
+      "subtes": "Pengetahuan Kuantitatif",
+      "teks": "Jumlah peserta laki-laki dan perempuan pada sebuah kelas berbanding 4:6. Jika jumlah seluruh peserta 160, banyak peserta laki-laki adalah?",
+      "opsi": {
+        "A": "64",
+        "B": "16",
+        "C": "96",
+        "D": "65",
+        "E": "80"
+      },
+      "kunci": "A",
+      "pembahasan": "Total bagian = 4 + 6 = 10. Setiap bagian bernilai 160/10 = 16. Maka peserta laki-laki = 4 x 16 = 64.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-pk-03",
+      "hari_ujian": 3,
+      "subtes": "Pengetahuan Kuantitatif",
+      "teks": "Nilai kuis Rina pada tiga pertemuan berturut-turut adalah 8, 4, dan 4. Rata-rata nilainya adalah?",
+      "opsi": {
+        "A": "6",
+        "B": "5.33",
+        "C": "6.33",
+        "D": "16",
+        "E": "8"
+      },
+      "kunci": "B",
+      "pembahasan": "Rata-rata = (8 + 4 + 4) / 3 = 16 / 3 = 5.33.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-lbi-01",
+      "hari_ujian": 1,
+      "subtes": "Literasi dalam Bahasa Indonesia",
+      "teks": "Dinas perpustakaan menata ulang program ketahanan pangan melalui evaluasi terbuka selama satu semester. Program itu tidak hanya berfokus pada ketepatan layanan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada periode pertama, partisipasi masih naik turun karena komunikasi belum merata. Pada akhir periode, keterlibatan relawan bertambah 11 orang dan capaian utama dinilai dari stabilitas keterlibatan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Keberhasilan program tidak berkaitan dengan stabilitas keterlibatan.",
+        "B": "Evaluasi tidak diperlukan selama ketepatan layanan sudah tercatat.",
+        "C": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari stabilitas keterlibatan yang semakin stabil.",
+        "D": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "E": "Pelaksana program menolak semua bentuk pengukuran dampak."
+      },
+      "kunci": "C",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-lbi-02",
+      "hari_ujian": 2,
+      "subtes": "Literasi dalam Bahasa Indonesia",
+      "teks": "Dinas perpustakaan menata ulang program ketahanan pangan melalui evaluasi terbuka selama satu semester. Program itu tidak hanya berfokus pada ketepatan layanan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada periode pertama, partisipasi masih naik turun karena komunikasi belum merata. Pada akhir periode, keterlibatan relawan bertambah 11 orang dan capaian utama dinilai dari stabilitas keterlibatan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi menyebabkan stabilitas keterlibatan pasti memburuk.",
+        "B": "Evaluasi hanya berguna jika ketepatan layanan menurun tajam.",
+        "C": "Evaluasi tidak berkaitan dengan pengukuran dampak program.",
+        "D": "Evaluasi yang baik membantu penilai melihat dampak program ketahanan pangan secara lebih akurat.",
+        "E": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan."
+      },
+      "kunci": "D",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-lbi-03",
+      "hari_ujian": 3,
+      "subtes": "Literasi dalam Bahasa Indonesia",
+      "teks": "Dinas perpustakaan menata ulang program ketahanan pangan melalui evaluasi terbuka selama satu semester. Program itu tidak hanya berfokus pada ketepatan layanan, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada periode pertama, partisipasi masih naik turun karena komunikasi belum merata. Pada akhir periode, keterlibatan relawan bertambah 11 orang dan capaian utama dinilai dari stabilitas keterlibatan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "dijalankan dengan terburu-buru",
+        "B": "dipaksakan tanpa persiapan",
+        "C": "disembunyikan dari publik",
+        "D": "dilaksanakan secara terpisah",
+        "E": "dapat dinilai dengan jelas"
+      },
+      "kunci": "E",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-lbe-01",
+      "hari_ujian": 1,
+      "subtes": "Literasi dalam Bahasa Inggris",
+      "teks": "A local clinic introduced a public transport program through one semester through open evaluation. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve service accuracy. In the first phase, participation changed sharply because communication was uneven. By the end of the period, volunteer involvement increased by 20 people, implementation quality became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "The program improved service accuracy by using clear targets and consistent routines.",
+        "B": "The institution removed all feedback sessions from the program.",
+        "C": "Participants found the program harder to follow over time.",
+        "D": "The program failed because it offered too few activities.",
+        "E": "Improvement only happened after a budget increase."
+      },
+      "kunci": "A",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-lbe-02",
+      "hari_ujian": 2,
+      "subtes": "Literasi dalam Bahasa Inggris",
+      "teks": "A local clinic introduced a public transport program through one semester through open evaluation. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve service accuracy. In the first phase, participation changed sharply because communication was uneven. By the end of the period, volunteer involvement increased by 20 people, implementation quality became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because the program removed all targets and deadlines.",
+        "B": "Because the routines were simpler and easier for participants to follow.",
+        "C": "Because teachers reduced all academic work.",
+        "D": "Because the school stopped measuring participation.",
+        "E": "Because students were forced to join every activity."
+      },
+      "kunci": "B",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-lbe-03",
+      "hari_ujian": 3,
+      "subtes": "Literasi dalam Bahasa Inggris",
+      "teks": "A local clinic introduced a public transport program through one semester through open evaluation. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve service accuracy. In the first phase, participation changed sharply because communication was uneven. By the end of the period, volunteer involvement increased by 20 people, implementation quality became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "sudden",
+        "B": "fragile",
+        "C": "steady",
+        "D": "optional",
+        "E": "unclear"
+      },
+      "kunci": "C",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-pm-01",
+      "hari_ujian": 1,
+      "subtes": "Penalaran Matematika",
+      "teks": "Sebuah pola bilangan mengikuti aturan U_n = 2n + 3. Nilai U_27 adalah?",
+      "opsi": {
+        "A": "55",
+        "B": "30",
+        "C": "59",
+        "D": "57",
+        "E": "81"
+      },
+      "kunci": "D",
+      "pembahasan": "Substitusikan n = 27 ke rumus U_n = 2n + 3 sehingga diperoleh 2(27) + 3 = 57.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-pm-02",
+      "hari_ujian": 2,
+      "subtes": "Penalaran Matematika",
+      "teks": "Sebuah taman berbentuk persegi memiliki panjang sisi 30 meter. Luas taman tersebut adalah?",
+      "opsi": {
+        "A": "120",
+        "B": "60",
+        "C": "930",
+        "D": "450",
+        "E": "900"
+      },
+      "kunci": "E",
+      "pembahasan": "Luas persegi = sisi x sisi = 30 x 30 = 900 meter persegi.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f19-pm-03",
+      "hari_ujian": 3,
+      "subtes": "Penalaran Matematika",
+      "teks": "Garis melalui titik (25, 74) dan (28, 86). Gradien garis tersebut adalah?",
+      "opsi": {
+        "A": "4",
+        "B": "0.25",
+        "C": "5",
+        "D": "0.43",
+        "E": "3"
+      },
+      "kunci": "A",
+      "pembahasan": "Gradien m = (y2 - y1)/(x2 - x1) = (86 - 74)/(28 - 25) = 12/3 = 4.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2019 dan rangkuman testimoni peserta"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Agribisnis Ternak",
+  "tingkatan": "SMK",
+  "jurusan": "Agribisnis / Peternakan",
+  "deskripsi": "Materi mengenai jenis-jenis ternak (ruminansia, unggas, aneka ternak), kebutuhan pakan (nutrisi), manajemen perkandangan, serta kesehatan hewan ternak.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Agribisnis Ternak",
+      "konten": "Pengertian peternakan, perannya dalam penyediaan protein hewani (daging, telur, susu). Peluang bisnis di bidang pemotongan hewan, pengolahan hasil ternak, hingga limbah ternak (biogas).",
+      "tag": [
+        "agribisnis ternak materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Jenis dan Karakteristik Ternak",
+      "konten": "Pengenalan Ternak Ruminansia (Sapi, Kambing, Domba), Ternak Unggas (Ayam Petelur, Ayam Pedaging/Broiler, Itik), serta Aneka Ternak (Kelinci, Burung Puyuh).",
+      "tag": [
+        "agribisnis ternak materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Nutrisi dan Bahan Pakan Ternak",
+      "konten": "Penyajian pakan Hijauan (rumput, legum) dan Konsentrat (pakan penguat). Kebutuhan nutrisi berdasarkan fase pertumbuhan (starter, grower, finisher).",
+      "tag": [
+        "agribisnis ternak materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Manajemen Perkandangan dan Lingkungan",
+      "konten": "Persyaratan lokasi kandang, jenis-jenis tipe kandang (kandang panggung, kandang lemprak). Pengaturan ventilasi, suhu, serta sanitasi (kebersihan) kandang.",
+      "tag": [
+        "agribisnis ternak materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Dasar Kesehatan Hewan Terbak",
+      "konten": "Pengenalan ciri-ciri ternak sehat vs sakit. Sistem kekebalan hewan, teknik pemberian vaksin, obat cacing, serta penanganan penyakit menular pada ternak (zoonosis).",
+      "tag": [
+        "agribisnis ternak materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "agribisnis-ternak-materi",
+  "mapel": "Dasar-Dasar Agribisnis Ternak",
+  "tag": [
+    "agribisnis ternak materi"
+  ]
+}

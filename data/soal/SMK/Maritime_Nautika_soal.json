@@ -1,0 +1,652 @@
+[
+  {
+    "id": "MA_NT_01",
+    "pertanyaan": "Bagian depan dari sebuah kapal disebut...",
+    "opsi": [
+      "Haluan (Bow)",
+      "Buritan (Stern)",
+      "Anjungan (Bridge)",
+      "Lambung (Hull)",
+      "Lunas (Keel)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Haluan dirancang berbentuk lancip untuk memecah ombak."
+  },
+  {
+    "id": "MA_NT_02",
+    "pertanyaan": "Bagian belakang dari sebuah kapal disebut...",
+    "opsi": [
+      "Haluan",
+      "Buritan (Stern)",
+      "Geladak",
+      "Sekoci",
+      "Kemudi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Di bagian buritan biasanya terletak kemudi dan baling-baling kapal."
+  },
+  {
+    "id": "MA_NT_03",
+    "pertanyaan": "Ruang komando pusat kapal tempat nakhoda dan perwira menguasai navigasi disebut...",
+    "opsi": [
+      "Gudang",
+      "Kamar Mesin",
+      "Anjungan (Bridge)",
+      "Kantin",
+      "Dek Penumpang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Anjungan berisi alat navigasi, komunikasi, dan kontrol mesin."
+  },
+  {
+    "id": "MA_NT_04",
+    "pertanyaan": "Alat navigasi yang digunakan untuk menentukan arah mata angin berdasarkan kutub magnet bumi adalah...",
+    "opsi": [
+      "Radar",
+      "Sextant",
+      "GPS",
+      "Kompas",
+      "Echo Sounder"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kompas adalah alat navigasi paling dasar yang wajib ada di setiap kapal."
+  },
+  {
+    "id": "MA_NT_05",
+    "pertanyaan": "Garis khayal yang melingkari bumi secara horizontal dan sejajar dengan khatulistiwa disebut garis...",
+    "opsi": [
+      "Bujur (Longitude)",
+      "Kontur",
+      "Pantai",
+      "Batas",
+      "Lintang (Latitude)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Lintang diukur dalam satuan derajat Utara (LU) atau Selatan (LS)."
+  },
+  {
+    "id": "MA_NT_06",
+    "pertanyaan": "Garis khayal yang menghubungkan kutub utara dan kutub selatan bumi disebut garis...",
+    "opsi": [
+      "Bujur (Longitude)",
+      "Lintang",
+      "Ekuator",
+      "Zenit",
+      "Nadir"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bujur diukur dalam satuan derajat Timur (BT) atau Barat (BB)."
+  },
+  {
+    "id": "MA_NT_07",
+    "pertanyaan": "Alat navigasi elektronik yang mampu mendeteksi keberadaan kapal lain, daratan, atau rintangan di sekitar kapal (terutama saat gelap/kabut) adalah...",
+    "opsi": [
+      "Radio",
+      "Radar",
+      "Televisi",
+      "Telepon",
+      "Komputer"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Radar (Radio Detection and Ranging) bekerja dengan pantulan gelombang radio."
+  },
+  {
+    "id": "MA_NT_08",
+    "pertanyaan": "Alat yang berfungsi untuk mengukur kedalaman air di bawah lunas kapal adalah...",
+    "opsi": [
+      "GPS",
+      "Anemometer",
+      "Echo Sounder (Perum Gema)",
+      "Barometer",
+      "Speedometer"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Echo sounder mencegah kapal kandas di perairan dangkal."
+  },
+  {
+    "id": "MA_NT_09",
+    "pertanyaan": "Peraturan internasional untuk mencegah terjadinya tabrakan di laut disebut...",
+    "opsi": [
+      "SOLAS",
+      "MARPOL",
+      "STCW",
+      "COLREG (P2TL)",
+      "IMDG Code"
+    ],
+    "jawaban": 3,
+    "pembahasan": "COLREG (Collision Regulations) mengatur hak jalan di laut."
+  },
+  {
+    "id": "MA_NT_10",
+    "pertanyaan": "Lampu navigasi di sisi kanan kapal (Starboard) berwarna...",
+    "opsi": [
+      "Merah",
+      "Putih",
+      "Kuning",
+      "Biru",
+      "Hijau"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kanan (Starboard) = Hijau, Kiri (Port) = Merah."
+  },
+  {
+    "id": "MA_NT_11",
+    "pertanyaan": "Lampu navigasi di sisi kiri kapal (Port) berwarna...",
+    "opsi": [
+      "Merah",
+      "Hijau",
+      "Kuning",
+      "Putih",
+      "Hitam"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Merah menunjukkan sisi pelabuhan (port side)."
+  },
+  {
+    "id": "MA_NT_12",
+    "pertanyaan": "Istilah internasional untuk arah kanan kapal adalah...",
+    "opsi": [
+      "Port",
+      "Starboard",
+      "Forward",
+      "Aft",
+      "Midship"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Singkatan di kompas biasanya 'STBD'. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Starboard\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "MA_NT_13",
+    "pertanyaan": "Istilah internasional untuk arah kiri kapal adalah...",
+    "opsi": [
+      "Starboard",
+      "Astern",
+      "Port Side",
+      "Above",
+      "Below"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Selalu konsisten saat menghadap ke haluan."
+  },
+  {
+    "id": "MA_NT_14",
+    "pertanyaan": "Konvensi internasional tentang keselamatan jiwa di laut disebut...",
+    "opsi": [
+      "COLREG",
+      "MARPOL",
+      "ISPS Code",
+      "SOLAS (Safety of Life at Sea)",
+      "MLC"
+    ],
+    "jawaban": 3,
+    "pembahasan": "SOLAS dipicu oleh tragedi tenggelamnya kapal Titanic tahun 1912."
+  },
+  {
+    "id": "MA_NT_15",
+    "pertanyaan": "Alat penyelamat diri berbentuk rompi yang wajib dipakai saat kondisi darurat meninggalkan kapal adalah...",
+    "opsi": [
+      "Jas hujan",
+      "Baju renang",
+      "Handuk",
+      "Parasut",
+      "Life Jacket (Jaket Penolong)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Life jacket didesain agar kepala pemakai tetap berada di atas permukaan air."
+  },
+  {
+    "id": "MA_NT_16",
+    "pertanyaan": "Perahu kecil yang digantung di sisi kapal untuk menyelamatkan kru saat kapal tenggelam disebut...",
+    "opsi": [
+      "Sekoci (Lifeboat)",
+      "Kano",
+      "Kapal Pesiar",
+      "Tongkang",
+      "Sampan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Lifeboat harus dilengkapi persediaan makanan, minuman, dan alat sinyal darurat."
+  },
+  {
+    "id": "MA_NT_17",
+    "pertanyaan": "Rakit penolong yang akan mengembang secara otomatis saat menyentuh air laut disebut...",
+    "opsi": [
+      "Rubber Boat",
+      "Liferaft (ILR)",
+      "Canoe",
+      "Speedboat",
+      "Ban renang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "ILR (Inflatable Liferaft) tersimpan di dalam kapsul keras (container)."
+  },
+  {
+    "id": "MA_NT_18",
+    "pertanyaan": "Sinyal radio darurat internasional yang berarti 'Tolong Kami Segera' adalah...",
+    "opsi": [
+      "Roger",
+      "Copy",
+      "MAYDAY",
+      "Over",
+      "Standby"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mayday diucapkan tiga kali pada frekuensi radio darurat (Ch. 16 VHF)."
+  },
+  {
+    "id": "MA_NT_19",
+    "pertanyaan": "Frekuensi radio VHF internasional yang khusus digunakan untuk panggilan darurat dan keselamatan (distress) adalah saluran...",
+    "opsi": [
+      "Saluran 1",
+      "Saluran 68",
+      "Saluran 70",
+      "Saluran 16",
+      "Saluran 88"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Semua kapal wajib memantau Channel 16 secara terus menerus."
+  },
+  {
+    "id": "MA_NT_20",
+    "pertanyaan": "Kecepatan kapal di laut diukur dengan satuan...",
+    "opsi": [
+      "Kilometer per jam (km/h)",
+      "Mil per jam",
+      "Meter per detik",
+      "Newton",
+      "Knot"
+    ],
+    "jawaban": 4,
+    "pembahasan": "1 Knot = 1 mil laut per jam (kurang lebih 1,85 km/jam)."
+  },
+  {
+    "id": "MA_NT_21",
+    "pertanyaan": "Satuan jarak tempuh di laut menggunakan...",
+    "opsi": [
+      "Nautical Mile (Mil Laut)",
+      "Kilometer",
+      "Hektometer",
+      "Depa",
+      "Langkah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "1 Nautical Mile = 1.852 meter. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Nautical Mile (Mil Laut)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "MA_NT_22",
+    "pertanyaan": "Kapal yang khusus digunakan untuk mengangkut cairan dalam jumlah besar (seperti minyak atau gas) disebut...",
+    "opsi": [
+      "Bulk Carrier",
+      "Tanker",
+      "Container Ship",
+      "Ro-Ro Ship",
+      "Ferry"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tanker memiliki tangki-tangki raksasa di dalam lambungnya."
+  },
+  {
+    "id": "MA_NT_23",
+    "pertanyaan": "Kapal yang mengangkut barang-barang di dalam kotak baja standar berukuran 20 atau 40 kaki disebut...",
+    "opsi": [
+      "Kapal Penumpang",
+      "Kapal Ikan",
+      "Kapal Peti Kemas (Container Ship)",
+      "Kapal Perang",
+      "Kapal Tunda"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kapal peti kemas modern bisa memuat ribuan kontainer."
+  },
+  {
+    "id": "MA_NT_24",
+    "pertanyaan": "Kapal yang memiliki pintu di haluan atau buritan untuk memasukkan kendaraan langsung ke dalam geladak disebut...",
+    "opsi": [
+      "Tugboat",
+      "Baris",
+      "Cutter",
+      "Ferry Ro-Ro (Roll-on/Roll-off)",
+      "Lano"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mempermudah mobil dan truk naik tanpa bantuan derek (crane)."
+  },
+  {
+    "id": "MA_NT_25",
+    "pertanyaan": "Pemimpin tertinggi di sebuah kapal yang bertanggung jawab atas seluruh operasional dan kru adalah...",
+    "opsi": [
+      "Masinis",
+      "Mualim 1",
+      "Bosun",
+      "Koki",
+      "Nakhoda (Master / Captain)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Captain memegang otoritas penuh di laut."
+  },
+  {
+    "id": "MA_NT_26",
+    "pertanyaan": "Perwira yang bertanggung jawab langsung di bawah Nakhoda untuk navigasi dan kargo adalah...",
+    "opsi": [
+      "Mualim (Deck Officer)",
+      "Masinis (Engineer)",
+      "Markoni (Radio Officer)",
+      "Kaden",
+      "Serang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Terdiri dari Mualim 1 (Chief Officer), Mualim 2, dan Mualim 3."
+  },
+  {
+    "id": "MA_NT_27",
+    "pertanyaan": "Petugas di kapal yang bertanggung jawab merawat mesin dan kelistrikan kapal adalah...",
+    "opsi": [
+      "Mualim",
+      "Masinis (Engineer)",
+      "Juru Mudi",
+      "Kelasi",
+      "Koki"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dipimpin oleh KKM (Kepala Kamar Mesin) atau Chief Engineer."
+  },
+  {
+    "id": "MA_NT_28",
+    "pertanyaan": "Apa itu 'Draft' Kapal?",
+    "opsi": [
+      "Panjang kapal",
+      "Lebar kapal",
+      "Jarak vertikal antara lunas kapal sampai permukaan air",
+      "Tinggi tiang kapal",
+      "Kecepatan maksimal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Draft menentukan lubuk terdalam kapal di dalam air; penting saat memasuki pelabuhan dangkal."
+  },
+  {
+    "id": "MA_NT_29",
+    "pertanyaan": "Tali yang digunakan untuk mengikat kapal di dermaga agar tidak hanyut disebut...",
+    "opsi": [
+      "Tali Pancing",
+      "Tali Jemuran",
+      "Tali Pusar",
+      "Tali Tambat (Mooring Lines)",
+      "Tali Sepatu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tali tambat harus sangat kuat untuk menahan beban kapal dan arus laut."
+  },
+  {
+    "id": "MA_NT_30",
+    "pertanyaan": "Benda berat (biasanya terbuat dari baja) yang diturunkan ke dasar laut untuk menahan posisi kapal saat berhenti disebut...",
+    "opsi": [
+      "Batu",
+      "Pasir",
+      "Pelampung",
+      "Beban",
+      "Jangkar (Anchor)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jangkar mencengkeram dasar laut saat kapal berlabuh (anchoring)."
+  },
+  {
+    "id": "MA_NT_31",
+    "pertanyaan": "Alat pemulas (winch) yang berfungsi untuk menurunkan dan menaikkan jangkar disebut...",
+    "opsi": [
+      "Windlass",
+      "Crane",
+      "Capstan",
+      "Davit",
+      "Fairlead"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Windlass terletak di dek haluan kapal. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Windlass\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "MA_NT_32",
+    "pertanyaan": "Bendera negara yang dikibarkan di bagian buritan kapal menunjukkan identitas...",
+    "opsi": [
+      "Negara asal Nakhoda",
+      "Negara tempat kapal didaftarkan (Kebangsaan Kapal)",
+      "Negara pelabuhan tujuan",
+      "Negara penghasil mesin",
+      "Jenis muatan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kapal wajib tunduk pada hukum negara bendera (Flag State) tersebut."
+  },
+  {
+    "id": "MA_NT_33",
+    "pertanyaan": "Konvensi internasional untuk mencegah polusi laut dari kapal disebut...",
+    "opsi": [
+      "SOLAS",
+      "STCW",
+      "MARPOL (Marine Pollution)",
+      "SAR",
+      "WHO"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Melarang pembuangan minyak, bahan kimia, sampah plastik, dan limbah ke laut."
+  },
+  {
+    "id": "MA_NT_34",
+    "pertanyaan": "Simbol pada tubuh kapal yang menunjukkan batas maksimal pemuatan agar kapal tidak tenggelam disebut garis...",
+    "opsi": [
+      "Garis Lurus",
+      "Garis Merah",
+      "Garis Pantai",
+      "Plimsoll Mark / Load Line",
+      "Garis Sempadan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Menunjukkan batas aman kapal di air laut (Salt Water) atau air tawar (Fresh Water)."
+  },
+  {
+    "id": "MA_NT_35",
+    "pertanyaan": "Apa tindakan pertama saat melihat seseorang jatuh ke laut (Man Overboard)?",
+    "opsi": [
+      "Ikut melompat ke laut",
+      "Diam saja",
+      "Pergi tidur",
+      "Melambaikan tangan",
+      "Berteriak 'Man Overboard!' dan segera melempar pelampung (lifebuoy)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Waktu sangat berharga demi menyelamatkan nyawa orang yang jatuh."
+  },
+  {
+    "id": "MA_NT_36",
+    "pertanyaan": "Isyarat bunyi suling panjang satu kali (durasi 4-6 detik) pada kapal bermesin berarti...",
+    "opsi": [
+      "Kapal sedang berlayar dalam kondisi kabut (peringatan)",
+      "Kapal akan mundur",
+      "Kapal sedang berbelok ke kanan",
+      "Kapal akan berhenti",
+      "Sapaan saja"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Suling digunakan untuk memberi tanda posisi di perairan terbatas pandangan."
+  },
+  {
+    "id": "MA_NT_37",
+    "pertanyaan": "Alat yang memancarkan lokasi kapal secara otomatis kepada kapal lain dan pelabuhan (identitas digital kapal) disebut...",
+    "opsi": [
+      "CCTV",
+      "AIS (Automatic Identification System)",
+      "WiFi",
+      "Radio FM",
+      "Bluetooth"
+    ],
+    "jawaban": 1,
+    "pembahasan": "AIS membantu menghindari tabrakan dengan mengetahui nama, posisi, dan kecepatan kapal sekitar."
+  },
+  {
+    "id": "MA_NT_38",
+    "pertanyaan": "Apa itu 'Log Book' Kapal?",
+    "opsi": [
+      "Buku komik",
+      "Daftar menu makanan",
+      "Buku harian resmi kapal untuk mencatat semua kejadian penting selama pelayaran",
+      "Buku alamat agen",
+      "Majalah laut"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Log book adalah dokumen hukum yang sah jika terjadi sengketa atau kecelakaan."
+  },
+  {
+    "id": "MA_NT_39",
+    "pertanyaan": "Kadar garam dalam air laut rata-rata adalah...",
+    "opsi": [
+      "0%",
+      "10%",
+      "25%",
+      "3.5% (Salinitas)",
+      "100%"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Salinitas mempengaruhi berat jenis air laut (lebih berat dari air tawar)."
+  },
+  {
+    "id": "MA_NT_40",
+    "pertanyaan": "Fenomena naik turunnya permukaan air laut secara berkala akibat gaya tarik bulan dan matahari disebut...",
+    "opsi": [
+      "Gelombang Tsunami",
+      "Arus Laut",
+      "Palung",
+      "Pusaran",
+      "Pasang Surut (Tide)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sangat penting diperhatikan Nakhoda saat akan sandar di pelabuhan dangkal."
+  },
+  {
+    "id": "MA_NT_41",
+    "pertanyaan": "Kompas Gyro (Gyrocompass) berbeda dengan kompas magnet karena menunjuk ke...",
+    "opsi": [
+      "Kutub Utara Sejati (True North)",
+      "Kutub Magnet Bumi",
+      "Bintang",
+      "Arus",
+      "Matahari"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Gyro tidak dipengaruhi oleh logam di sekitar kapal."
+  },
+  {
+    "id": "MA_NT_42",
+    "pertanyaan": "Prosedur 'Drill' (Latihan) di atas kapal bertujuan untuk...",
+    "opsi": [
+      "Mencatat kehadiran",
+      "Melatih kesigapan kru dalam menghadapi situasi darurat (kebakaran, sekoci terjun)",
+      "Berolahraga",
+      "Menghias kapal",
+      "Mengurangi lemak tubuh"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Latihan keselamatan (Abandon Ship Drill) wajib dilakukan minimal sebulan sekali."
+  },
+  {
+    "id": "MA_NT_43",
+    "pertanyaan": "Alat pemadam api ringan yang paling tepat untuk memadamkan kebakaran akibat hubungan arus pendek listrik adalah...",
+    "opsi": [
+      "Air jet",
+      "Busah (Foam)",
+      "CO2 (Karbondioksida) atau Powder",
+      "Kertas basa",
+      "Pasir"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Air menghantarkan listrik, sehingga berbahaya untuk kebakaran elektrikal."
+  },
+  {
+    "id": "MA_NT_44",
+    "pertanyaan": "Bagian lambung kapal yang terbagi menjadi sekat-sekat kedap air bertujuan untuk...",
+    "opsi": [
+      "Tempat tidur",
+      "Tempat jemuran",
+      "Gudang makanan saja",
+      "Jika terjadi kebocoran di satu bagian, seluruh kapal tidak akan langsung tenggelam",
+      "Mengurangi berat kapal"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Prinsip buoyancy/archimedes dijaga oleh sekat kedap air."
+  },
+  {
+    "id": "MA_NT_45",
+    "pertanyaan": "Alat komunikasi darurat yang memancarkan sinyal lokasi via satelit (pencari lokasi bangkai kapal/penyintas) disebut...",
+    "opsi": [
+      "SART",
+      "HP",
+      "Walkie Talkie",
+      "Telegraf",
+      "EPIRB (Emergency Position Indicating Radio Beacon)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "EPIRB membantu tim SAR menemukan koordinat kapal yang sedang dalam keadaan bahaya."
+  },
+  {
+    "id": "MA_NT_46",
+    "pertanyaan": "Apa kewajiban utama seorang pelaut saat di dermaga orang lain/asing?",
+    "opsi": [
+      "Menghormati aturan pelabuhan setempat dan hukum internasional",
+      "Membuang sampah kelaut",
+      "Berbuat gaduh",
+      "Mencuri barang",
+      "Tidak peduli keamanan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pelaut adalah duta negara asalnya. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menghormati aturan pelabuhan setempat dan hukum internasional\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "MA_NT_47",
+    "pertanyaan": "Seorang mualim harus memiliki sertifikat kompetensi...",
+    "opsi": [
+      "ATT (Ahli Teknika Tingkat)",
+      "ANT (Ahli Nautika Tingkat)",
+      "SIM A",
+      "KTP",
+      "Ijazah SD saja"
+    ],
+    "jawaban": 1,
+    "pembahasan": "ANT III/IV/V adalah standar bagi perwira deck."
+  },
+  {
+    "id": "MA_NT_48",
+    "pertanyaan": "Seorang masinis harus memiliki sertifikat kompetensi...",
+    "opsi": [
+      "ANT",
+      "SKCK",
+      "ATT (Ahli Teknika Tingkat)",
+      "Paspor saja",
+      "Sertifikat Lomba"
+    ],
+    "jawaban": 2,
+    "pembahasan": "ATT membuktikan keahlian dalam menangani mesin penggerak utama kapal."
+  },
+  {
+    "id": "MA_NT_49",
+    "pertanyaan": "Aktivitas bongkar muat kargo harus dilakukan dengan seimbang dan diperitungkan stabilitasnya agar kapal tidak...",
+    "opsi": [
+      "Terlalu wangi",
+      "Berubah warna",
+      "Terbang",
+      "Miring (List) atau terbalik",
+      "Melambat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Stabilitas kapal adalah nyawa keselamatan pelayaran."
+  },
+  {
+    "id": "MA_NT_50",
+    "pertanyaan": "Semboyan 'Jalesveva Jayamahe' yang sering digunakan instansi maritim Indonesia berarti...",
+    "opsi": [
+      "Mari melaut bersama",
+      "Kapal Harus Kuat",
+      "Nakhoda Berani",
+      "Ikan Kita Banyak",
+      "Di Laut Kita Jaya"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Menumbuhkan semangat kejayaan maritim bangsa Indonesia."
+  }
+]

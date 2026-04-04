@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_BL_01",
+    "pertanyaan": "FIELD REPORT 2025 (Medis): Pada TKA SMK 2025 Jurusan Kesehatan, muncul soal mengenai penanganan pasien dengan pembengkakan kalenjar getah bening di area leher. Kelenjar ini merupakan bagian vital dari sistem pertahanan tubuh yang disebut...",
+    "opsi": [
+      "Limfatik (Sistem Getah Bening)",
+      "Sirkulasi darah",
+      "Pencernaan",
+      "Ekskresi",
+      "Saraf Pusat"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Berdasarkan laporan peserta ujian 2025, soal ini menuntut pemahaman aplikasi medis. Sistem limfatik berperan memproduksi sel imun untuk melawan infeksi.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_BL_02",
+    "pertanyaan": "FIELD REPORT 2025 (Agribisnis): Diberikan sebuah kasus tanaman hidroponik yang mengalami layu meskipun ketersediaan nutrisi cukup, diduga karena suhu lingkungan terlalu ekstrem. Hormon tumbuhan apa yang secara spesifik meningkat untuk mencegah penguapan berlebih (menutup stomata)?",
+    "opsi": [
+      "Auksin",
+      "Asam Absisat (ABA)",
+      "Giberelin",
+      "Sitokinin",
+      "Gas Etilen"
+    ],
+    "jawaban": "B",
+    "pembahasan": "FR 2025 menunjukkan tren soal berbasis studi kasus pertanian. Asam Absisat (ABA) adalah 'hormon stres' yang merespons kekeringan dengan menutup stomata.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_BL_03",
+    "pertanyaan": "FIELD REPORT 2025 (Pangan): Muncul soal tentang bioteknologi tradisional dalam pembuatan kecap dan tempe. Peran Aspergillus wentii dalam pemecahan protein menjadi asam amino merupakan contoh dari...",
+    "opsi": [
+      "Bioteknologi modern (DNA Rekombinan)",
+      "Teknik sterilisasi radiasi",
+      "Bioteknologi konvensional (Fermentasi)",
+      "Kloning genetik",
+      "Pemurnian enzim"
+    ],
+    "jawaban": "C",
+    "pembahasan": "FR 2025 seringkali mencampur materi biologi dasar dengan implementasi industri SMK. Fermentasi adalah ciri khas bioteknologi konvensional.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_BL_04",
+    "pertanyaan": "FIELD REPORT 2025 (Lingkungan): Siswa melaporkan soal tentang fenomena 'Algae Bloom' di perairan sekitar kawasan industri. Fenomena ini paling tepat dikaitkan dengan pencemaran...",
+    "opsi": [
+      "Tumpahan minyak mentah",
+      "Mikroplastik",
+      "Logam berat merkuri",
+      "Limbah fosfat dari detergen/pupuk (Eutrofikasi)",
+      "Peningkatan suhu air (Termal)"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Eutrofikasi akibat fosfat tinggi menyebabkan alga tumbuh tidak terkendali, menghabiskan oksigen dalam air.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_BL_05",
+    "pertanyaan": "FIELD REPORT 2025 (Genetika): Jika dilakukan persilangan antara individu bergolongan darah A heterozigot (AO) dengan B heterozigot (BO). Berdasarkan hukum Mendel, kemungkinan variasi golongan darah pada keturunan mereka adalah...",
+    "opsi": [
+      "Selalu AB",
+      "Hanya A dan B",
+      "Hanya O",
+      "Dominan AB dan O",
+      "Lengkap (A, B, AB, dan O)"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Soal genetika di TKA 2025 cenderung menggunakan angka dan rasio. Persilangan heterozigot ini menghasilkan 25% untuk masing-masing golongan darah.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

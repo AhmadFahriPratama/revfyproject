@@ -1,0 +1,708 @@
+{
+  "id": "sd-5-mat",
+  "tingkat": "SD Kelas 5",
+  "mapel": "Matematika",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "mat5-1",
+      "teks": "Sebuah peta memiliki skala 1 : 39000. Jika jarak kota A dan B pada peta adalah 10 cm, maka jarak sebenarnya adalah...",
+      "opsi": {
+        "A": "3.9 km",
+        "B": "39 km",
+        "C": "390 m",
+        "D": "0.39 km",
+        "E": "7.8 km"
+      },
+      "kunci": "A",
+      "pembahasan": "Jarak Sebenarnya (JS) = Jarak Peta (JP) / Skala = 10 x 39000 = 390000 cm. Konversi ke km: 390000 / 100.000 = 3.9 km.",
+      "trik": "JS = JP x Skala (hilangkan awalan 1:). Jangan lupa konversi cm ke km dengan membuang 5 nol."
+    },
+    {
+      "id": "mat5-2",
+      "teks": "Doni mengendarai mobil dengan kecepatan 41 km/jam. Jika ia menempuh perjalanan selama 2 jam, jarak yang ditempuh adalah...",
+      "opsi": {
+        "A": "92 km",
+        "B": "82 km",
+        "C": "62 km",
+        "D": "43 km",
+        "E": "820 m"
+      },
+      "kunci": "B",
+      "pembahasan": "Jarak (S) = Kecepatan (V) x Waktu (T) = 41 x 2 = 82 km.",
+      "trik": "Gunakan rumus ajaib segitiga J-K-W. J di atas, K dan W di bawah."
+    },
+    {
+      "id": "mat5-3",
+      "teks": "Volume kubus yang memiliki panjang rusuk 7 cm adalah...",
+      "opsi": {
+        "A": "49 cm³",
+        "B": "21 cm³",
+        "C": "343 cm³",
+        "D": "42 cm³",
+        "E": "171.5 cm³"
+      },
+      "kunci": "C",
+      "pembahasan": "Volume kubus = rusuk x rusuk x rusuk = 7 x 7 x 7 = 343 cm³.",
+      "trik": "V = s³. Ingat satuan volume adalah pangkat tiga (kubik)."
+    },
+    {
+      "id": "mat5-4",
+      "teks": "Sebuah keran mengisi bak mandi sebanyak 60 liter dalam waktu 3 menit. Debit air keran tersebut adalah...",
+      "opsi": {
+        "A": "180 liter/menit",
+        "B": "25 liter/menit",
+        "C": "18 liter/menit",
+        "D": "20 liter/menit",
+        "E": "63 liter/menit"
+      },
+      "kunci": "D",
+      "pembahasan": "Debit = Volume / Waktu = 60 / 3 = 20 liter/menit.",
+      "trik": "Debit identik dengan kecepatan untuk benda cair (V/W)."
+    },
+    {
+      "id": "mat5-5",
+      "teks": "Hasil dari 4/5 + 3/5 adalah...",
+      "opsi": {
+        "A": "7/10",
+        "B": "12/25",
+        "C": "20/15",
+        "D": "5/25",
+        "E": "35/25"
+      },
+      "kunci": "E",
+      "pembahasan": "Samakan penyebut dengan mencari KPK dari 5 dan 5, atau kalikan silang. (4x5 + 3x5) / (5x5) = 35/25.",
+      "trik": "Pastikan penyebut sama sebelum menjumlahkan pembilangnya."
+    },
+    {
+      "id": "mat5-6",
+      "teks": "Sebuah peta memiliki skala 1 : 51000. Jika jarak kota A dan B pada peta adalah 8 cm, maka jarak sebenarnya adalah...",
+      "opsi": {
+        "A": "4.08 km",
+        "B": "40.8 km",
+        "C": "408 m",
+        "D": "0.40800000000000003 km",
+        "E": "8.16 km"
+      },
+      "kunci": "A",
+      "pembahasan": "Jarak Sebenarnya (JS) = Jarak Peta (JP) / Skala = 8 x 51000 = 408000 cm. Konversi ke km: 408000 / 100.000 = 4.08 km.",
+      "trik": "JS = JP x Skala (hilangkan awalan 1:). Jangan lupa konversi cm ke km dengan membuang 5 nol."
+    },
+    {
+      "id": "mat5-7",
+      "teks": "Doni mengendarai mobil dengan kecepatan 42 km/jam. Jika ia menempuh perjalanan selama 3 jam, jarak yang ditempuh adalah...",
+      "opsi": {
+        "A": "136 km",
+        "B": "126 km",
+        "C": "106 km",
+        "D": "45 km",
+        "E": "1260 m"
+      },
+      "kunci": "B",
+      "pembahasan": "Jarak (S) = Kecepatan (V) x Waktu (T) = 42 x 3 = 126 km.",
+      "trik": "Gunakan rumus ajaib segitiga J-K-W. J di atas, K dan W di bawah."
+    },
+    {
+      "id": "mat5-8",
+      "teks": "Volume kubus yang memiliki panjang rusuk 5 cm adalah...",
+      "opsi": {
+        "A": "25 cm³",
+        "B": "15 cm³",
+        "C": "125 cm³",
+        "D": "30 cm³",
+        "E": "62.5 cm³"
+      },
+      "kunci": "C",
+      "pembahasan": "Volume kubus = rusuk x rusuk x rusuk = 5 x 5 x 5 = 125 cm³.",
+      "trik": "V = s³. Ingat satuan volume adalah pangkat tiga (kubik)."
+    },
+    {
+      "id": "mat5-9",
+      "teks": "Sebuah keran mengisi bak mandi sebanyak 110 liter dalam waktu 2 menit. Debit air keran tersebut adalah...",
+      "opsi": {
+        "A": "220 liter/menit",
+        "B": "60 liter/menit",
+        "C": "53 liter/menit",
+        "D": "55 liter/menit",
+        "E": "112 liter/menit"
+      },
+      "kunci": "D",
+      "pembahasan": "Debit = Volume / Waktu = 110 / 2 = 55 liter/menit.",
+      "trik": "Debit identik dengan kecepatan untuk benda cair (V/W)."
+    },
+    {
+      "id": "mat5-10",
+      "teks": "Hasil dari 2/4 + 3/4 adalah...",
+      "opsi": {
+        "A": "5/8",
+        "B": "6/16",
+        "C": "8/12",
+        "D": "-4/16",
+        "E": "20/16"
+      },
+      "kunci": "E",
+      "pembahasan": "Samakan penyebut dengan mencari KPK dari 4 dan 4, atau kalikan silang. (2x4 + 3x4) / (4x4) = 20/16.",
+      "trik": "Pastikan penyebut sama sebelum menjumlahkan pembilangnya."
+    },
+    {
+      "id": "mat5-11",
+      "teks": "Sebuah peta memiliki skala 1 : 24000. Jika jarak kota A dan B pada peta adalah 9 cm, maka jarak sebenarnya adalah...",
+      "opsi": {
+        "A": "2.16 km",
+        "B": "21.6 km",
+        "C": "216 m",
+        "D": "0.21600000000000003 km",
+        "E": "4.32 km"
+      },
+      "kunci": "A",
+      "pembahasan": "Jarak Sebenarnya (JS) = Jarak Peta (JP) / Skala = 9 x 24000 = 216000 cm. Konversi ke km: 216000 / 100.000 = 2.16 km.",
+      "trik": "JS = JP x Skala (hilangkan awalan 1:). Jangan lupa konversi cm ke km dengan membuang 5 nol."
+    },
+    {
+      "id": "mat5-12",
+      "teks": "Doni mengendarai mobil dengan kecepatan 70 km/jam. Jika ia menempuh perjalanan selama 3 jam, jarak yang ditempuh adalah...",
+      "opsi": {
+        "A": "220 km",
+        "B": "210 km",
+        "C": "190 km",
+        "D": "73 km",
+        "E": "2100 m"
+      },
+      "kunci": "B",
+      "pembahasan": "Jarak (S) = Kecepatan (V) x Waktu (T) = 70 x 3 = 210 km.",
+      "trik": "Gunakan rumus ajaib segitiga J-K-W. J di atas, K dan W di bawah."
+    },
+    {
+      "id": "mat5-13",
+      "teks": "Volume kubus yang memiliki panjang rusuk 9 cm adalah...",
+      "opsi": {
+        "A": "81 cm³",
+        "B": "27 cm³",
+        "C": "729 cm³",
+        "D": "54 cm³",
+        "E": "364.5 cm³"
+      },
+      "kunci": "C",
+      "pembahasan": "Volume kubus = rusuk x rusuk x rusuk = 9 x 9 x 9 = 729 cm³.",
+      "trik": "V = s³. Ingat satuan volume adalah pangkat tiga (kubik)."
+    },
+    {
+      "id": "mat5-14",
+      "teks": "Sebuah keran mengisi bak mandi sebanyak 140 liter dalam waktu 4 menit. Debit air keran tersebut adalah...",
+      "opsi": {
+        "A": "560 liter/menit",
+        "B": "40 liter/menit",
+        "C": "33 liter/menit",
+        "D": "35 liter/menit",
+        "E": "144 liter/menit"
+      },
+      "kunci": "D",
+      "pembahasan": "Debit = Volume / Waktu = 140 / 4 = 35 liter/menit.",
+      "trik": "Debit identik dengan kecepatan untuk benda cair (V/W)."
+    },
+    {
+      "id": "mat5-15",
+      "teks": "Hasil dari 3/7 + 3/3 adalah...",
+      "opsi": {
+        "A": "6/10",
+        "B": "9/21",
+        "C": "9/21",
+        "D": "-12/21",
+        "E": "30/21"
+      },
+      "kunci": "E",
+      "pembahasan": "Samakan penyebut dengan mencari KPK dari 7 dan 3, atau kalikan silang. (3x3 + 3x7) / (7x3) = 30/21.",
+      "trik": "Pastikan penyebut sama sebelum menjumlahkan pembilangnya."
+    },
+    {
+      "id": "mat5-16",
+      "teks": "Sebuah peta memiliki skala 1 : 11000. Jika jarak kota A dan B pada peta adalah 9 cm, maka jarak sebenarnya adalah...",
+      "opsi": {
+        "A": "0.99 km",
+        "B": "9.9 km",
+        "C": "99 m",
+        "D": "0.099 km",
+        "E": "1.98 km"
+      },
+      "kunci": "A",
+      "pembahasan": "Jarak Sebenarnya (JS) = Jarak Peta (JP) / Skala = 9 x 11000 = 99000 cm. Konversi ke km: 99000 / 100.000 = 0.99 km.",
+      "trik": "JS = JP x Skala (hilangkan awalan 1:). Jangan lupa konversi cm ke km dengan membuang 5 nol."
+    },
+    {
+      "id": "mat5-17",
+      "teks": "Doni mengendarai mobil dengan kecepatan 41 km/jam. Jika ia menempuh perjalanan selama 4 jam, jarak yang ditempuh adalah...",
+      "opsi": {
+        "A": "174 km",
+        "B": "164 km",
+        "C": "144 km",
+        "D": "45 km",
+        "E": "1640 m"
+      },
+      "kunci": "B",
+      "pembahasan": "Jarak (S) = Kecepatan (V) x Waktu (T) = 41 x 4 = 164 km.",
+      "trik": "Gunakan rumus ajaib segitiga J-K-W. J di atas, K dan W di bawah."
+    },
+    {
+      "id": "mat5-18",
+      "teks": "Volume kubus yang memiliki panjang rusuk 12 cm adalah...",
+      "opsi": {
+        "A": "144 cm³",
+        "B": "36 cm³",
+        "C": "1728 cm³",
+        "D": "72 cm³",
+        "E": "864 cm³"
+      },
+      "kunci": "C",
+      "pembahasan": "Volume kubus = rusuk x rusuk x rusuk = 12 x 12 x 12 = 1728 cm³.",
+      "trik": "V = s³. Ingat satuan volume adalah pangkat tiga (kubik)."
+    },
+    {
+      "id": "mat5-19",
+      "teks": "Sebuah keran mengisi bak mandi sebanyak 50 liter dalam waktu 3 menit. Debit air keran tersebut adalah...",
+      "opsi": {
+        "A": "150 liter/menit",
+        "B": "21.666666666666668 liter/menit",
+        "C": "14.666666666666668 liter/menit",
+        "D": "16.666666666666668 liter/menit",
+        "E": "53 liter/menit"
+      },
+      "kunci": "D",
+      "pembahasan": "Debit = Volume / Waktu = 50 / 3 = 16.666666666666668 liter/menit.",
+      "trik": "Debit identik dengan kecepatan untuk benda cair (V/W)."
+    },
+    {
+      "id": "mat5-20",
+      "teks": "Hasil dari 3/6 + 3/2 adalah...",
+      "opsi": {
+        "A": "6/8",
+        "B": "9/12",
+        "C": "6/18",
+        "D": "-12/12",
+        "E": "24/12"
+      },
+      "kunci": "E",
+      "pembahasan": "Samakan penyebut dengan mencari KPK dari 6 dan 2, atau kalikan silang. (3x2 + 3x6) / (6x2) = 24/12.",
+      "trik": "Pastikan penyebut sama sebelum menjumlahkan pembilangnya."
+    },
+    {
+      "id": "mat5-21",
+      "teks": "Sebuah peta memiliki skala 1 : 29000. Jika jarak kota A dan B pada peta adalah 7 cm, maka jarak sebenarnya adalah...",
+      "opsi": {
+        "A": "2.03 km",
+        "B": "20.299999999999997 km",
+        "C": "202.99999999999997 m",
+        "D": "0.20299999999999999 km",
+        "E": "4.06 km"
+      },
+      "kunci": "A",
+      "pembahasan": "Jarak Sebenarnya (JS) = Jarak Peta (JP) / Skala = 7 x 29000 = 203000 cm. Konversi ke km: 203000 / 100.000 = 2.03 km.",
+      "trik": "JS = JP x Skala (hilangkan awalan 1:). Jangan lupa konversi cm ke km dengan membuang 5 nol."
+    },
+    {
+      "id": "mat5-22",
+      "teks": "Doni mengendarai mobil dengan kecepatan 77 km/jam. Jika ia menempuh perjalanan selama 5 jam, jarak yang ditempuh adalah...",
+      "opsi": {
+        "A": "395 km",
+        "B": "385 km",
+        "C": "365 km",
+        "D": "82 km",
+        "E": "3850 m"
+      },
+      "kunci": "B",
+      "pembahasan": "Jarak (S) = Kecepatan (V) x Waktu (T) = 77 x 5 = 385 km.",
+      "trik": "Gunakan rumus ajaib segitiga J-K-W. J di atas, K dan W di bawah."
+    },
+    {
+      "id": "mat5-23",
+      "teks": "Volume kubus yang memiliki panjang rusuk 9 cm adalah...",
+      "opsi": {
+        "A": "81 cm³",
+        "B": "27 cm³",
+        "C": "729 cm³",
+        "D": "54 cm³",
+        "E": "364.5 cm³"
+      },
+      "kunci": "C",
+      "pembahasan": "Volume kubus = rusuk x rusuk x rusuk = 9 x 9 x 9 = 729 cm³.",
+      "trik": "V = s³. Ingat satuan volume adalah pangkat tiga (kubik)."
+    },
+    {
+      "id": "mat5-24",
+      "teks": "Sebuah keran mengisi bak mandi sebanyak 130 liter dalam waktu 6 menit. Debit air keran tersebut adalah...",
+      "opsi": {
+        "A": "780 liter/menit",
+        "B": "26.666666666666668 liter/menit",
+        "C": "19.666666666666668 liter/menit",
+        "D": "21.666666666666668 liter/menit",
+        "E": "136 liter/menit"
+      },
+      "kunci": "D",
+      "pembahasan": "Debit = Volume / Waktu = 130 / 6 = 21.666666666666668 liter/menit.",
+      "trik": "Debit identik dengan kecepatan untuk benda cair (V/W)."
+    },
+    {
+      "id": "mat5-25",
+      "teks": "Hasil dari 1/6 + 3/2 adalah...",
+      "opsi": {
+        "A": "4/8",
+        "B": "3/12",
+        "C": "2/18",
+        "D": "-16/12",
+        "E": "20/12"
+      },
+      "kunci": "E",
+      "pembahasan": "Samakan penyebut dengan mencari KPK dari 6 dan 2, atau kalikan silang. (1x2 + 3x6) / (6x2) = 20/12.",
+      "trik": "Pastikan penyebut sama sebelum menjumlahkan pembilangnya."
+    },
+    {
+      "id": "mat5-26",
+      "teks": "Sebuah peta memiliki skala 1 : 25000. Jika jarak kota A dan B pada peta adalah 11 cm, maka jarak sebenarnya adalah...",
+      "opsi": {
+        "A": "2.75 km",
+        "B": "27.5 km",
+        "C": "275 m",
+        "D": "0.275 km",
+        "E": "5.5 km"
+      },
+      "kunci": "A",
+      "pembahasan": "Jarak Sebenarnya (JS) = Jarak Peta (JP) / Skala = 11 x 25000 = 275000 cm. Konversi ke km: 275000 / 100.000 = 2.75 km.",
+      "trik": "JS = JP x Skala (hilangkan awalan 1:). Jangan lupa konversi cm ke km dengan membuang 5 nol."
+    },
+    {
+      "id": "mat5-27",
+      "teks": "Doni mengendarai mobil dengan kecepatan 51 km/jam. Jika ia menempuh perjalanan selama 4 jam, jarak yang ditempuh adalah...",
+      "opsi": {
+        "A": "214 km",
+        "B": "204 km",
+        "C": "184 km",
+        "D": "55 km",
+        "E": "2040 m"
+      },
+      "kunci": "B",
+      "pembahasan": "Jarak (S) = Kecepatan (V) x Waktu (T) = 51 x 4 = 204 km.",
+      "trik": "Gunakan rumus ajaib segitiga J-K-W. J di atas, K dan W di bawah."
+    },
+    {
+      "id": "mat5-28",
+      "teks": "Volume kubus yang memiliki panjang rusuk 7 cm adalah...",
+      "opsi": {
+        "A": "49 cm³",
+        "B": "21 cm³",
+        "C": "343 cm³",
+        "D": "42 cm³",
+        "E": "171.5 cm³"
+      },
+      "kunci": "C",
+      "pembahasan": "Volume kubus = rusuk x rusuk x rusuk = 7 x 7 x 7 = 343 cm³.",
+      "trik": "V = s³. Ingat satuan volume adalah pangkat tiga (kubik)."
+    },
+    {
+      "id": "mat5-29",
+      "teks": "Sebuah keran mengisi bak mandi sebanyak 100 liter dalam waktu 2 menit. Debit air keran tersebut adalah...",
+      "opsi": {
+        "A": "200 liter/menit",
+        "B": "55 liter/menit",
+        "C": "48 liter/menit",
+        "D": "50 liter/menit",
+        "E": "102 liter/menit"
+      },
+      "kunci": "D",
+      "pembahasan": "Debit = Volume / Waktu = 100 / 2 = 50 liter/menit.",
+      "trik": "Debit identik dengan kecepatan untuk benda cair (V/W)."
+    },
+    {
+      "id": "mat5-30",
+      "teks": "Hasil dari 2/4 + 1/4 adalah...",
+      "opsi": {
+        "A": "3/8",
+        "B": "2/16",
+        "C": "8/4",
+        "D": "4/16",
+        "E": "12/16"
+      },
+      "kunci": "E",
+      "pembahasan": "Samakan penyebut dengan mencari KPK dari 4 dan 4, atau kalikan silang. (2x4 + 1x4) / (4x4) = 12/16.",
+      "trik": "Pastikan penyebut sama sebelum menjumlahkan pembilangnya."
+    },
+    {
+      "id": "mat5-31",
+      "teks": "Sebuah peta memiliki skala 1 : 59000. Jika jarak kota A dan B pada peta adalah 11 cm, maka jarak sebenarnya adalah...",
+      "opsi": {
+        "A": "6.49 km",
+        "B": "64.9 km",
+        "C": "649 m",
+        "D": "0.649 km",
+        "E": "12.98 km"
+      },
+      "kunci": "A",
+      "pembahasan": "Jarak Sebenarnya (JS) = Jarak Peta (JP) / Skala = 11 x 59000 = 649000 cm. Konversi ke km: 649000 / 100.000 = 6.49 km.",
+      "trik": "JS = JP x Skala (hilangkan awalan 1:). Jangan lupa konversi cm ke km dengan membuang 5 nol."
+    },
+    {
+      "id": "mat5-32",
+      "teks": "Doni mengendarai mobil dengan kecepatan 48 km/jam. Jika ia menempuh perjalanan selama 2 jam, jarak yang ditempuh adalah...",
+      "opsi": {
+        "A": "106 km",
+        "B": "96 km",
+        "C": "76 km",
+        "D": "50 km",
+        "E": "960 m"
+      },
+      "kunci": "B",
+      "pembahasan": "Jarak (S) = Kecepatan (V) x Waktu (T) = 48 x 2 = 96 km.",
+      "trik": "Gunakan rumus ajaib segitiga J-K-W. J di atas, K dan W di bawah."
+    },
+    {
+      "id": "mat5-33",
+      "teks": "Volume kubus yang memiliki panjang rusuk 13 cm adalah...",
+      "opsi": {
+        "A": "169 cm³",
+        "B": "39 cm³",
+        "C": "2197 cm³",
+        "D": "78 cm³",
+        "E": "1098.5 cm³"
+      },
+      "kunci": "C",
+      "pembahasan": "Volume kubus = rusuk x rusuk x rusuk = 13 x 13 x 13 = 2197 cm³.",
+      "trik": "V = s³. Ingat satuan volume adalah pangkat tiga (kubik)."
+    },
+    {
+      "id": "mat5-34",
+      "teks": "Sebuah keran mengisi bak mandi sebanyak 120 liter dalam waktu 3 menit. Debit air keran tersebut adalah...",
+      "opsi": {
+        "A": "360 liter/menit",
+        "B": "45 liter/menit",
+        "C": "38 liter/menit",
+        "D": "40 liter/menit",
+        "E": "123 liter/menit"
+      },
+      "kunci": "D",
+      "pembahasan": "Debit = Volume / Waktu = 120 / 3 = 40 liter/menit.",
+      "trik": "Debit identik dengan kecepatan untuk benda cair (V/W)."
+    },
+    {
+      "id": "mat5-35",
+      "teks": "Hasil dari 1/7 + 2/2 adalah...",
+      "opsi": {
+        "A": "3/9",
+        "B": "2/14",
+        "C": "2/14",
+        "D": "-12/14",
+        "E": "16/14"
+      },
+      "kunci": "E",
+      "pembahasan": "Samakan penyebut dengan mencari KPK dari 7 dan 2, atau kalikan silang. (1x2 + 2x7) / (7x2) = 16/14.",
+      "trik": "Pastikan penyebut sama sebelum menjumlahkan pembilangnya."
+    },
+    {
+      "id": "mat5-36",
+      "teks": "Sebuah peta memiliki skala 1 : 34000. Jika jarak kota A dan B pada peta adalah 3 cm, maka jarak sebenarnya adalah...",
+      "opsi": {
+        "A": "1.02 km",
+        "B": "10.2 km",
+        "C": "102 m",
+        "D": "0.10200000000000001 km",
+        "E": "2.04 km"
+      },
+      "kunci": "A",
+      "pembahasan": "Jarak Sebenarnya (JS) = Jarak Peta (JP) / Skala = 3 x 34000 = 102000 cm. Konversi ke km: 102000 / 100.000 = 1.02 km.",
+      "trik": "JS = JP x Skala (hilangkan awalan 1:). Jangan lupa konversi cm ke km dengan membuang 5 nol."
+    },
+    {
+      "id": "mat5-37",
+      "teks": "Doni mengendarai mobil dengan kecepatan 45 km/jam. Jika ia menempuh perjalanan selama 2 jam, jarak yang ditempuh adalah...",
+      "opsi": {
+        "A": "100 km",
+        "B": "90 km",
+        "C": "70 km",
+        "D": "47 km",
+        "E": "900 m"
+      },
+      "kunci": "B",
+      "pembahasan": "Jarak (S) = Kecepatan (V) x Waktu (T) = 45 x 2 = 90 km.",
+      "trik": "Gunakan rumus ajaib segitiga J-K-W. J di atas, K dan W di bawah."
+    },
+    {
+      "id": "mat5-38",
+      "teks": "Volume kubus yang memiliki panjang rusuk 14 cm adalah...",
+      "opsi": {
+        "A": "196 cm³",
+        "B": "42 cm³",
+        "C": "2744 cm³",
+        "D": "84 cm³",
+        "E": "1372 cm³"
+      },
+      "kunci": "C",
+      "pembahasan": "Volume kubus = rusuk x rusuk x rusuk = 14 x 14 x 14 = 2744 cm³.",
+      "trik": "V = s³. Ingat satuan volume adalah pangkat tiga (kubik)."
+    },
+    {
+      "id": "mat5-39",
+      "teks": "Sebuah keran mengisi bak mandi sebanyak 80 liter dalam waktu 2 menit. Debit air keran tersebut adalah...",
+      "opsi": {
+        "A": "160 liter/menit",
+        "B": "45 liter/menit",
+        "C": "38 liter/menit",
+        "D": "40 liter/menit",
+        "E": "82 liter/menit"
+      },
+      "kunci": "D",
+      "pembahasan": "Debit = Volume / Waktu = 80 / 2 = 40 liter/menit.",
+      "trik": "Debit identik dengan kecepatan untuk benda cair (V/W)."
+    },
+    {
+      "id": "mat5-40",
+      "teks": "Hasil dari 1/5 + 1/2 adalah...",
+      "opsi": {
+        "A": "2/7",
+        "B": "1/10",
+        "C": "2/5",
+        "D": "-3/10",
+        "E": "7/10"
+      },
+      "kunci": "E",
+      "pembahasan": "Samakan penyebut dengan mencari KPK dari 5 dan 2, atau kalikan silang. (1x2 + 1x5) / (5x2) = 7/10.",
+      "trik": "Pastikan penyebut sama sebelum menjumlahkan pembilangnya."
+    },
+    {
+      "id": "mat5-41",
+      "teks": "Sebuah peta memiliki skala 1 : 28000. Jika jarak kota A dan B pada peta adalah 8 cm, maka jarak sebenarnya adalah...",
+      "opsi": {
+        "A": "2.24 km",
+        "B": "22.400000000000002 km",
+        "C": "224.00000000000003 m",
+        "D": "0.22400000000000003 km",
+        "E": "4.48 km"
+      },
+      "kunci": "A",
+      "pembahasan": "Jarak Sebenarnya (JS) = Jarak Peta (JP) / Skala = 8 x 28000 = 224000 cm. Konversi ke km: 224000 / 100.000 = 2.24 km.",
+      "trik": "JS = JP x Skala (hilangkan awalan 1:). Jangan lupa konversi cm ke km dengan membuang 5 nol."
+    },
+    {
+      "id": "mat5-42",
+      "teks": "Doni mengendarai mobil dengan kecepatan 47 km/jam. Jika ia menempuh perjalanan selama 3 jam, jarak yang ditempuh adalah...",
+      "opsi": {
+        "A": "151 km",
+        "B": "141 km",
+        "C": "121 km",
+        "D": "50 km",
+        "E": "1410 m"
+      },
+      "kunci": "B",
+      "pembahasan": "Jarak (S) = Kecepatan (V) x Waktu (T) = 47 x 3 = 141 km.",
+      "trik": "Gunakan rumus ajaib segitiga J-K-W. J di atas, K dan W di bawah."
+    },
+    {
+      "id": "mat5-43",
+      "teks": "Volume kubus yang memiliki panjang rusuk 9 cm adalah...",
+      "opsi": {
+        "A": "81 cm³",
+        "B": "27 cm³",
+        "C": "729 cm³",
+        "D": "54 cm³",
+        "E": "364.5 cm³"
+      },
+      "kunci": "C",
+      "pembahasan": "Volume kubus = rusuk x rusuk x rusuk = 9 x 9 x 9 = 729 cm³.",
+      "trik": "V = s³. Ingat satuan volume adalah pangkat tiga (kubik)."
+    },
+    {
+      "id": "mat5-44",
+      "teks": "Sebuah keran mengisi bak mandi sebanyak 50 liter dalam waktu 2 menit. Debit air keran tersebut adalah...",
+      "opsi": {
+        "A": "100 liter/menit",
+        "B": "30 liter/menit",
+        "C": "23 liter/menit",
+        "D": "25 liter/menit",
+        "E": "52 liter/menit"
+      },
+      "kunci": "D",
+      "pembahasan": "Debit = Volume / Waktu = 50 / 2 = 25 liter/menit.",
+      "trik": "Debit identik dengan kecepatan untuk benda cair (V/W)."
+    },
+    {
+      "id": "mat5-45",
+      "teks": "Hasil dari 4/3 + 1/3 adalah...",
+      "opsi": {
+        "A": "5/6",
+        "B": "4/9",
+        "C": "12/3",
+        "D": "9/9",
+        "E": "15/9"
+      },
+      "kunci": "E",
+      "pembahasan": "Samakan penyebut dengan mencari KPK dari 3 dan 3, atau kalikan silang. (4x3 + 1x3) / (3x3) = 15/9.",
+      "trik": "Pastikan penyebut sama sebelum menjumlahkan pembilangnya."
+    },
+    {
+      "id": "mat5-46",
+      "teks": "Sebuah peta memiliki skala 1 : 32000. Jika jarak kota A dan B pada peta adalah 9 cm, maka jarak sebenarnya adalah...",
+      "opsi": {
+        "A": "2.88 km",
+        "B": "28.799999999999997 km",
+        "C": "288 m",
+        "D": "0.288 km",
+        "E": "5.76 km"
+      },
+      "kunci": "A",
+      "pembahasan": "Jarak Sebenarnya (JS) = Jarak Peta (JP) / Skala = 9 x 32000 = 288000 cm. Konversi ke km: 288000 / 100.000 = 2.88 km.",
+      "trik": "JS = JP x Skala (hilangkan awalan 1:). Jangan lupa konversi cm ke km dengan membuang 5 nol."
+    },
+    {
+      "id": "mat5-47",
+      "teks": "Doni mengendarai mobil dengan kecepatan 59 km/jam. Jika ia menempuh perjalanan selama 2 jam, jarak yang ditempuh adalah...",
+      "opsi": {
+        "A": "128 km",
+        "B": "118 km",
+        "C": "98 km",
+        "D": "61 km",
+        "E": "1180 m"
+      },
+      "kunci": "B",
+      "pembahasan": "Jarak (S) = Kecepatan (V) x Waktu (T) = 59 x 2 = 118 km.",
+      "trik": "Gunakan rumus ajaib segitiga J-K-W. J di atas, K dan W di bawah."
+    },
+    {
+      "id": "mat5-48",
+      "teks": "Volume kubus yang memiliki panjang rusuk 9 cm adalah...",
+      "opsi": {
+        "A": "81 cm³",
+        "B": "27 cm³",
+        "C": "729 cm³",
+        "D": "54 cm³",
+        "E": "364.5 cm³"
+      },
+      "kunci": "C",
+      "pembahasan": "Volume kubus = rusuk x rusuk x rusuk = 9 x 9 x 9 = 729 cm³.",
+      "trik": "V = s³. Ingat satuan volume adalah pangkat tiga (kubik)."
+    },
+    {
+      "id": "mat5-49",
+      "teks": "Sebuah keran mengisi bak mandi sebanyak 110 liter dalam waktu 6 menit. Debit air keran tersebut adalah...",
+      "opsi": {
+        "A": "660 liter/menit",
+        "B": "23.333333333333332 liter/menit",
+        "C": "16.333333333333332 liter/menit",
+        "D": "18.333333333333332 liter/menit",
+        "E": "116 liter/menit"
+      },
+      "kunci": "D",
+      "pembahasan": "Debit = Volume / Waktu = 110 / 6 = 18.333333333333332 liter/menit.",
+      "trik": "Debit identik dengan kecepatan untuk benda cair (V/W)."
+    },
+    {
+      "id": "mat5-50",
+      "teks": "Hasil dari 2/5 + 3/5 adalah...",
+      "opsi": {
+        "A": "5/10",
+        "B": "6/25",
+        "C": "10/15",
+        "D": "-5/25",
+        "E": "25/25"
+      },
+      "kunci": "E",
+      "pembahasan": "Samakan penyebut dengan mencari KPK dari 5 dan 5, atau kalikan silang. (2x5 + 3x5) / (5x5) = 25/25.",
+      "trik": "Pastikan penyebut sama sebelum menjumlahkan pembilangnya."
+    }
+  ]
+}

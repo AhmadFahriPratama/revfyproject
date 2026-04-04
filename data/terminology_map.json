@@ -1,0 +1,21 @@
+{
+  "id": "terminology-map",
+  "terms": [
+    {
+      "key": "fr",
+      "label": "Field Report Rekonstruksi"
+    },
+    {
+      "key": "tryout",
+      "label": "Simulasi Ujian"
+    },
+    {
+      "key": "wajib",
+      "label": "Materi Wajib"
+    },
+    {
+      "key": "pilihan",
+      "label": "Materi Pilihan"
+    }
+  ]
+}

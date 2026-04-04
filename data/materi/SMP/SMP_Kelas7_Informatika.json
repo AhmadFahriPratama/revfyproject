@@ -1,0 +1,26 @@
+{
+  "id": "materi-smp-kls7-informatika",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "Informatika",
+  "materi": "Berpikir Komputasional, Perangkat Keras/Lunak, dan Etika Digital",
+  "deskripsi": "Informatika Kelas 7 memberikan pengenalan mengenai komputer (hardware dan software), algoritma sederhana, pengelolaan folder, serta dampak sosial informatika.",
+  "konten": [
+    {
+      "bab": "1. Berpikir Komputasional (BK)",
+      "teks": "Mengenal empat pondasi BK (Dekomposisi, Pengenalan Pola, Abstraksi, Algoritma) lewat teka-teki logika sederhana."
+    },
+    {
+      "bab": "2. Sistem Komputer",
+      "teks": "Identifikasi perangkat keras (hardware), perangkat lunak (software), dan cara kerja sistem operasi."
+    },
+    {
+      "bab": "3. TIK Dasar (Aplikasi Perkantoran)",
+      "teks": "Menggunakan pengolah kata, pengolah angka dasar, serta fitur surel dan presentasi."
+    },
+    {
+      "bab": "4. Dampak Sosial Informatika",
+      "teks": "Memahami etika berkomunikasi di dunia maya, jejak digital, keamanan data pribadi, dan hoax."
+    }
+  ],
+  "tag": ["smp-7", "informatika", "komputer", "algoritma", "teknologi"]
+}

@@ -1,0 +1,658 @@
+{
+  "id": "smp-9-tik",
+  "tingkat": "SMP",
+  "mapel": "Informatika",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "tik9-1",
+      "teks": "CMS (Content Management System) sangat populer dipakai untuk membuat website mudah karena...",
+      "opsi": {
+        "A": "Disediakan desain template drag-and-drop dinamis otomatis dpt diakses tanpa coding rumit penuh",
+        "B": "Harga servernya mahal dan sulit",
+        "C": "Harus mengetik ribuan kode murni dari nol",
+        "D": "Hanya di fungsikan di laptop saja"
+      },
+      "kunci": "A",
+      "pembahasan": "CMS seperti Wordpress memudahkan pembuatan situs layaknya menyusun puzzle / word editor tanpa mengetik koding pure html js rutin.",
+      "trik": "CMS = Mudah = Template."
+    },
+    {
+      "id": "tik9-2",
+      "teks": "Dalam Microsoft Excel, rumus yang bisa dipakai menjumlah totalkan isi sel / data tabel secara cepat adalah...",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=SUM()",
+        "C": "=IF()",
+        "D": "=VLOOKUP()"
+      },
+      "kunci": "B",
+      "pembahasan": "SUM untuk menjumlah nilai, AVERAGE rata-rata matematis, IF hitung logika bersyarat, Vlookup cari di blok vertikal.",
+      "trik": "SUM = Summary = Total."
+    },
+    {
+      "id": "tik9-3",
+      "teks": "Contoh aplikasi pemrograman berbasis Visual Blok adalah...",
+      "opsi": {
+        "A": "C++ dan Java",
+        "B": "PHP dan Laravel",
+        "C": "Scratch dan Blockly",
+        "D": "Assembler"
+      },
+      "kunci": "C",
+      "pembahasan": "Scratch menyajikan bahasa pemograman balok puzzle visual untuk melatih alogaritma anak sekolah pemula logika gerak.",
+      "trik": "Blok = Scratch."
+    },
+    {
+      "id": "tik9-4",
+      "teks": "Ketika kita memasukkan IF-ELSE di Scratch, blok tersebut termasuk tipe perintah...",
+      "opsi": {
+        "A": "Sensor input",
+        "B": "Gerakan Motion (Move)",
+        "C": "Suara (Sound effect)",
+        "D": "Percabangan Control (Pengambilan Keputusan Logic)"
+      },
+      "kunci": "D",
+      "pembahasan": "IF-ELSE adalah struktur percabangan yang bertugas memeriksa kondisi Benar/Salah untuk menjalankan skrip tertentu.",
+      "trik": "IF = Keputusan logika percabangan."
+    },
+    {
+      "id": "tik9-5",
+      "teks": "Salah satu bentuk kasus kejahatan siber (Cybercrime) yang berupa penipuan online menjebak password data kartu kredit seseorang disebut...",
+      "opsi": {
+        "A": "Phishing",
+        "B": "Debugging",
+        "C": "Downloading",
+        "D": "Upgrading system"
+      },
+      "kunci": "A",
+      "pembahasan": "Phishing memalsukan laman login aspal (misal bank palsu) agar mangsa membeberkan username/Sandinya terperdaya tipuan web duplikat.",
+      "trik": "Phishing = Mancing Data Rahasia."
+    },
+    {
+      "id": "smp-9-tik-6",
+      "teks": "Contoh aplikasi pemrograman berbasis Visual Blok adalah... (Latihan Intensif #6)",
+      "opsi": {
+        "A": "C++ dan Java",
+        "B": "Scratch dan Blockly",
+        "C": "PHP dan Laravel",
+        "D": "Assembler"
+      },
+      "kunci": "B",
+      "pembahasan": "Scratch menyajikan bahasa pemograman balok puzzle visual untuk melatih alogaritma anak sekolah pemula logika gerak.",
+      "trik": "Blok = Scratch."
+    },
+    {
+      "id": "smp-9-tik-7",
+      "teks": "Contoh aplikasi pemrograman berbasis Visual Blok adalah... (Latihan Intensif #7)",
+      "opsi": {
+        "A": "C++ dan Java",
+        "B": "PHP dan Laravel",
+        "C": "Scratch dan Blockly",
+        "D": "Assembler"
+      },
+      "kunci": "C",
+      "pembahasan": "Scratch menyajikan bahasa pemograman balok puzzle visual untuk melatih alogaritma anak sekolah pemula logika gerak.",
+      "trik": "Blok = Scratch."
+    },
+    {
+      "id": "smp-9-tik-8",
+      "teks": "Contoh aplikasi pemrograman berbasis Visual Blok adalah... (Latihan Intensif #8)",
+      "opsi": {
+        "A": "C++ dan Java",
+        "B": "PHP dan Laravel",
+        "C": "Assembler",
+        "D": "Scratch dan Blockly"
+      },
+      "kunci": "D",
+      "pembahasan": "Scratch menyajikan bahasa pemograman balok puzzle visual untuk melatih alogaritma anak sekolah pemula logika gerak.",
+      "trik": "Blok = Scratch."
+    },
+    {
+      "id": "smp-9-tik-9",
+      "teks": "Contoh aplikasi pemrograman berbasis Visual Blok adalah... (Latihan Intensif #9)",
+      "opsi": {
+        "A": "Scratch dan Blockly",
+        "B": "C++ dan Java",
+        "C": "PHP dan Laravel",
+        "D": "Assembler"
+      },
+      "kunci": "A",
+      "pembahasan": "Scratch menyajikan bahasa pemograman balok puzzle visual untuk melatih alogaritma anak sekolah pemula logika gerak.",
+      "trik": "Blok = Scratch."
+    },
+    {
+      "id": "smp-9-tik-10",
+      "teks": "Salah satu bentuk kasus kejahatan siber (Cybercrime) yang berupa penipuan online menjebak password data kartu kredit seseorang disebut... (Latihan Intensif #10)",
+      "opsi": {
+        "A": "Debugging",
+        "B": "Phishing",
+        "C": "Downloading",
+        "D": "Upgrading system"
+      },
+      "kunci": "B",
+      "pembahasan": "Phishing memalsukan laman login aspal (misal bank palsu) agar mangsa membeberkan username/Sandinya terperdaya tipuan web duplikat.",
+      "trik": "Phishing = Mancing Data Rahasia."
+    },
+    {
+      "id": "smp-9-tik-11",
+      "teks": "Salah satu bentuk kasus kejahatan siber (Cybercrime) yang berupa penipuan online menjebak password data kartu kredit seseorang disebut... (Latihan Intensif #11)",
+      "opsi": {
+        "A": "Debugging",
+        "B": "Downloading",
+        "C": "Phishing",
+        "D": "Upgrading system"
+      },
+      "kunci": "C",
+      "pembahasan": "Phishing memalsukan laman login aspal (misal bank palsu) agar mangsa membeberkan username/Sandinya terperdaya tipuan web duplikat.",
+      "trik": "Phishing = Mancing Data Rahasia."
+    },
+    {
+      "id": "smp-9-tik-12",
+      "teks": "CMS (Content Management System) sangat populer dipakai untuk membuat website mudah karena... (Latihan Intensif #12)",
+      "opsi": {
+        "A": "Harga servernya mahal dan sulit",
+        "B": "Harus mengetik ribuan kode murni dari nol",
+        "C": "Hanya di fungsikan di laptop saja",
+        "D": "Disediakan desain template drag-and-drop dinamis otomatis dpt diakses tanpa coding rumit penuh"
+      },
+      "kunci": "D",
+      "pembahasan": "CMS seperti Wordpress memudahkan pembuatan situs layaknya menyusun puzzle / word editor tanpa mengetik koding pure html js rutin.",
+      "trik": "CMS = Mudah = Template."
+    },
+    {
+      "id": "smp-9-tik-13",
+      "teks": "Ketika kita memasukkan IF-ELSE di Scratch, blok tersebut termasuk tipe perintah... (Latihan Intensif #13)",
+      "opsi": {
+        "A": "Percabangan Control (Pengambilan Keputusan Logic)",
+        "B": "Sensor input",
+        "C": "Gerakan Motion (Move)",
+        "D": "Suara (Sound effect)"
+      },
+      "kunci": "A",
+      "pembahasan": "IF-ELSE adalah struktur percabangan yang bertugas memeriksa kondisi Benar/Salah untuk menjalankan skrip tertentu.",
+      "trik": "IF = Keputusan logika percabangan."
+    },
+    {
+      "id": "smp-9-tik-14",
+      "teks": "CMS (Content Management System) sangat populer dipakai untuk membuat website mudah karena... (Latihan Intensif #14)",
+      "opsi": {
+        "A": "Harga servernya mahal dan sulit",
+        "B": "Disediakan desain template drag-and-drop dinamis otomatis dpt diakses tanpa coding rumit penuh",
+        "C": "Harus mengetik ribuan kode murni dari nol",
+        "D": "Hanya di fungsikan di laptop saja"
+      },
+      "kunci": "B",
+      "pembahasan": "CMS seperti Wordpress memudahkan pembuatan situs layaknya menyusun puzzle / word editor tanpa mengetik koding pure html js rutin.",
+      "trik": "CMS = Mudah = Template."
+    },
+    {
+      "id": "smp-9-tik-15",
+      "teks": "Dalam Microsoft Excel, rumus yang bisa dipakai menjumlah totalkan isi sel / data tabel secara cepat adalah... (Latihan Intensif #15)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=IF()",
+        "C": "=SUM()",
+        "D": "=VLOOKUP()"
+      },
+      "kunci": "C",
+      "pembahasan": "SUM untuk menjumlah nilai, AVERAGE rata-rata matematis, IF hitung logika bersyarat, Vlookup cari di blok vertikal.",
+      "trik": "SUM = Summary = Total."
+    },
+    {
+      "id": "smp-9-tik-16",
+      "teks": "Dalam Microsoft Excel, rumus yang bisa dipakai menjumlah totalkan isi sel / data tabel secara cepat adalah... (Latihan Intensif #16)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=IF()",
+        "C": "=VLOOKUP()",
+        "D": "=SUM()"
+      },
+      "kunci": "D",
+      "pembahasan": "SUM untuk menjumlah nilai, AVERAGE rata-rata matematis, IF hitung logika bersyarat, Vlookup cari di blok vertikal.",
+      "trik": "SUM = Summary = Total."
+    },
+    {
+      "id": "smp-9-tik-17",
+      "teks": "Contoh aplikasi pemrograman berbasis Visual Blok adalah... (Latihan Intensif #17)",
+      "opsi": {
+        "A": "Scratch dan Blockly",
+        "B": "C++ dan Java",
+        "C": "PHP dan Laravel",
+        "D": "Assembler"
+      },
+      "kunci": "A",
+      "pembahasan": "Scratch menyajikan bahasa pemograman balok puzzle visual untuk melatih alogaritma anak sekolah pemula logika gerak.",
+      "trik": "Blok = Scratch."
+    },
+    {
+      "id": "smp-9-tik-18",
+      "teks": "Dalam Microsoft Excel, rumus yang bisa dipakai menjumlah totalkan isi sel / data tabel secara cepat adalah... (Latihan Intensif #18)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=SUM()",
+        "C": "=IF()",
+        "D": "=VLOOKUP()"
+      },
+      "kunci": "B",
+      "pembahasan": "SUM untuk menjumlah nilai, AVERAGE rata-rata matematis, IF hitung logika bersyarat, Vlookup cari di blok vertikal.",
+      "trik": "SUM = Summary = Total."
+    },
+    {
+      "id": "smp-9-tik-19",
+      "teks": "Ketika kita memasukkan IF-ELSE di Scratch, blok tersebut termasuk tipe perintah... (Latihan Intensif #19)",
+      "opsi": {
+        "A": "Sensor input",
+        "B": "Gerakan Motion (Move)",
+        "C": "Percabangan Control (Pengambilan Keputusan Logic)",
+        "D": "Suara (Sound effect)"
+      },
+      "kunci": "C",
+      "pembahasan": "IF-ELSE adalah struktur percabangan yang bertugas memeriksa kondisi Benar/Salah untuk menjalankan skrip tertentu.",
+      "trik": "IF = Keputusan logika percabangan."
+    },
+    {
+      "id": "smp-9-tik-20",
+      "teks": "Dalam Microsoft Excel, rumus yang bisa dipakai menjumlah totalkan isi sel / data tabel secara cepat adalah... (Latihan Intensif #20)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=IF()",
+        "C": "=VLOOKUP()",
+        "D": "=SUM()"
+      },
+      "kunci": "D",
+      "pembahasan": "SUM untuk menjumlah nilai, AVERAGE rata-rata matematis, IF hitung logika bersyarat, Vlookup cari di blok vertikal.",
+      "trik": "SUM = Summary = Total."
+    },
+    {
+      "id": "smp-9-tik-21",
+      "teks": "Ketika kita memasukkan IF-ELSE di Scratch, blok tersebut termasuk tipe perintah... (Latihan Intensif #21)",
+      "opsi": {
+        "A": "Percabangan Control (Pengambilan Keputusan Logic)",
+        "B": "Sensor input",
+        "C": "Gerakan Motion (Move)",
+        "D": "Suara (Sound effect)"
+      },
+      "kunci": "A",
+      "pembahasan": "IF-ELSE adalah struktur percabangan yang bertugas memeriksa kondisi Benar/Salah untuk menjalankan skrip tertentu.",
+      "trik": "IF = Keputusan logika percabangan."
+    },
+    {
+      "id": "smp-9-tik-22",
+      "teks": "Ketika kita memasukkan IF-ELSE di Scratch, blok tersebut termasuk tipe perintah... (Latihan Intensif #22)",
+      "opsi": {
+        "A": "Sensor input",
+        "B": "Percabangan Control (Pengambilan Keputusan Logic)",
+        "C": "Gerakan Motion (Move)",
+        "D": "Suara (Sound effect)"
+      },
+      "kunci": "B",
+      "pembahasan": "IF-ELSE adalah struktur percabangan yang bertugas memeriksa kondisi Benar/Salah untuk menjalankan skrip tertentu.",
+      "trik": "IF = Keputusan logika percabangan."
+    },
+    {
+      "id": "smp-9-tik-23",
+      "teks": "Ketika kita memasukkan IF-ELSE di Scratch, blok tersebut termasuk tipe perintah... (Latihan Intensif #23)",
+      "opsi": {
+        "A": "Sensor input",
+        "B": "Gerakan Motion (Move)",
+        "C": "Percabangan Control (Pengambilan Keputusan Logic)",
+        "D": "Suara (Sound effect)"
+      },
+      "kunci": "C",
+      "pembahasan": "IF-ELSE adalah struktur percabangan yang bertugas memeriksa kondisi Benar/Salah untuk menjalankan skrip tertentu.",
+      "trik": "IF = Keputusan logika percabangan."
+    },
+    {
+      "id": "smp-9-tik-24",
+      "teks": "Contoh aplikasi pemrograman berbasis Visual Blok adalah... (Latihan Intensif #24)",
+      "opsi": {
+        "A": "C++ dan Java",
+        "B": "PHP dan Laravel",
+        "C": "Assembler",
+        "D": "Scratch dan Blockly"
+      },
+      "kunci": "D",
+      "pembahasan": "Scratch menyajikan bahasa pemograman balok puzzle visual untuk melatih alogaritma anak sekolah pemula logika gerak.",
+      "trik": "Blok = Scratch."
+    },
+    {
+      "id": "smp-9-tik-25",
+      "teks": "Ketika kita memasukkan IF-ELSE di Scratch, blok tersebut termasuk tipe perintah... (Latihan Intensif #25)",
+      "opsi": {
+        "A": "Percabangan Control (Pengambilan Keputusan Logic)",
+        "B": "Sensor input",
+        "C": "Gerakan Motion (Move)",
+        "D": "Suara (Sound effect)"
+      },
+      "kunci": "A",
+      "pembahasan": "IF-ELSE adalah struktur percabangan yang bertugas memeriksa kondisi Benar/Salah untuk menjalankan skrip tertentu.",
+      "trik": "IF = Keputusan logika percabangan."
+    },
+    {
+      "id": "smp-9-tik-26",
+      "teks": "Dalam Microsoft Excel, rumus yang bisa dipakai menjumlah totalkan isi sel / data tabel secara cepat adalah... (Latihan Intensif #26)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=SUM()",
+        "C": "=IF()",
+        "D": "=VLOOKUP()"
+      },
+      "kunci": "B",
+      "pembahasan": "SUM untuk menjumlah nilai, AVERAGE rata-rata matematis, IF hitung logika bersyarat, Vlookup cari di blok vertikal.",
+      "trik": "SUM = Summary = Total."
+    },
+    {
+      "id": "smp-9-tik-27",
+      "teks": "Ketika kita memasukkan IF-ELSE di Scratch, blok tersebut termasuk tipe perintah... (Latihan Intensif #27)",
+      "opsi": {
+        "A": "Sensor input",
+        "B": "Gerakan Motion (Move)",
+        "C": "Percabangan Control (Pengambilan Keputusan Logic)",
+        "D": "Suara (Sound effect)"
+      },
+      "kunci": "C",
+      "pembahasan": "IF-ELSE adalah struktur percabangan yang bertugas memeriksa kondisi Benar/Salah untuk menjalankan skrip tertentu.",
+      "trik": "IF = Keputusan logika percabangan."
+    },
+    {
+      "id": "smp-9-tik-28",
+      "teks": "Salah satu bentuk kasus kejahatan siber (Cybercrime) yang berupa penipuan online menjebak password data kartu kredit seseorang disebut... (Latihan Intensif #28)",
+      "opsi": {
+        "A": "Debugging",
+        "B": "Downloading",
+        "C": "Upgrading system",
+        "D": "Phishing"
+      },
+      "kunci": "D",
+      "pembahasan": "Phishing memalsukan laman login aspal (misal bank palsu) agar mangsa membeberkan username/Sandinya terperdaya tipuan web duplikat.",
+      "trik": "Phishing = Mancing Data Rahasia."
+    },
+    {
+      "id": "smp-9-tik-29",
+      "teks": "Dalam Microsoft Excel, rumus yang bisa dipakai menjumlah totalkan isi sel / data tabel secara cepat adalah... (Latihan Intensif #29)",
+      "opsi": {
+        "A": "=SUM()",
+        "B": "=AVERAGE()",
+        "C": "=IF()",
+        "D": "=VLOOKUP()"
+      },
+      "kunci": "A",
+      "pembahasan": "SUM untuk menjumlah nilai, AVERAGE rata-rata matematis, IF hitung logika bersyarat, Vlookup cari di blok vertikal.",
+      "trik": "SUM = Summary = Total."
+    },
+    {
+      "id": "smp-9-tik-30",
+      "teks": "Dalam Microsoft Excel, rumus yang bisa dipakai menjumlah totalkan isi sel / data tabel secara cepat adalah... (Latihan Intensif #30)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=SUM()",
+        "C": "=IF()",
+        "D": "=VLOOKUP()"
+      },
+      "kunci": "B",
+      "pembahasan": "SUM untuk menjumlah nilai, AVERAGE rata-rata matematis, IF hitung logika bersyarat, Vlookup cari di blok vertikal.",
+      "trik": "SUM = Summary = Total."
+    },
+    {
+      "id": "smp-9-tik-31",
+      "teks": "Dalam Microsoft Excel, rumus yang bisa dipakai menjumlah totalkan isi sel / data tabel secara cepat adalah... (Latihan Intensif #31)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=IF()",
+        "C": "=SUM()",
+        "D": "=VLOOKUP()"
+      },
+      "kunci": "C",
+      "pembahasan": "SUM untuk menjumlah nilai, AVERAGE rata-rata matematis, IF hitung logika bersyarat, Vlookup cari di blok vertikal.",
+      "trik": "SUM = Summary = Total."
+    },
+    {
+      "id": "smp-9-tik-32",
+      "teks": "Dalam Microsoft Excel, rumus yang bisa dipakai menjumlah totalkan isi sel / data tabel secara cepat adalah... (Latihan Intensif #32)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=IF()",
+        "C": "=VLOOKUP()",
+        "D": "=SUM()"
+      },
+      "kunci": "D",
+      "pembahasan": "SUM untuk menjumlah nilai, AVERAGE rata-rata matematis, IF hitung logika bersyarat, Vlookup cari di blok vertikal.",
+      "trik": "SUM = Summary = Total."
+    },
+    {
+      "id": "smp-9-tik-33",
+      "teks": "Ketika kita memasukkan IF-ELSE di Scratch, blok tersebut termasuk tipe perintah... (Latihan Intensif #33)",
+      "opsi": {
+        "A": "Percabangan Control (Pengambilan Keputusan Logic)",
+        "B": "Sensor input",
+        "C": "Gerakan Motion (Move)",
+        "D": "Suara (Sound effect)"
+      },
+      "kunci": "A",
+      "pembahasan": "IF-ELSE adalah struktur percabangan yang bertugas memeriksa kondisi Benar/Salah untuk menjalankan skrip tertentu.",
+      "trik": "IF = Keputusan logika percabangan."
+    },
+    {
+      "id": "smp-9-tik-34",
+      "teks": "Ketika kita memasukkan IF-ELSE di Scratch, blok tersebut termasuk tipe perintah... (Latihan Intensif #34)",
+      "opsi": {
+        "A": "Sensor input",
+        "B": "Percabangan Control (Pengambilan Keputusan Logic)",
+        "C": "Gerakan Motion (Move)",
+        "D": "Suara (Sound effect)"
+      },
+      "kunci": "B",
+      "pembahasan": "IF-ELSE adalah struktur percabangan yang bertugas memeriksa kondisi Benar/Salah untuk menjalankan skrip tertentu.",
+      "trik": "IF = Keputusan logika percabangan."
+    },
+    {
+      "id": "smp-9-tik-35",
+      "teks": "CMS (Content Management System) sangat populer dipakai untuk membuat website mudah karena... (Latihan Intensif #35)",
+      "opsi": {
+        "A": "Harga servernya mahal dan sulit",
+        "B": "Harus mengetik ribuan kode murni dari nol",
+        "C": "Disediakan desain template drag-and-drop dinamis otomatis dpt diakses tanpa coding rumit penuh",
+        "D": "Hanya di fungsikan di laptop saja"
+      },
+      "kunci": "C",
+      "pembahasan": "CMS seperti Wordpress memudahkan pembuatan situs layaknya menyusun puzzle / word editor tanpa mengetik koding pure html js rutin.",
+      "trik": "CMS = Mudah = Template."
+    },
+    {
+      "id": "smp-9-tik-36",
+      "teks": "Dalam Microsoft Excel, rumus yang bisa dipakai menjumlah totalkan isi sel / data tabel secara cepat adalah... (Latihan Intensif #36)",
+      "opsi": {
+        "A": "=AVERAGE()",
+        "B": "=IF()",
+        "C": "=VLOOKUP()",
+        "D": "=SUM()"
+      },
+      "kunci": "D",
+      "pembahasan": "SUM untuk menjumlah nilai, AVERAGE rata-rata matematis, IF hitung logika bersyarat, Vlookup cari di blok vertikal.",
+      "trik": "SUM = Summary = Total."
+    },
+    {
+      "id": "smp-9-tik-37",
+      "teks": "Contoh aplikasi pemrograman berbasis Visual Blok adalah... (Latihan Intensif #37)",
+      "opsi": {
+        "A": "Scratch dan Blockly",
+        "B": "C++ dan Java",
+        "C": "PHP dan Laravel",
+        "D": "Assembler"
+      },
+      "kunci": "A",
+      "pembahasan": "Scratch menyajikan bahasa pemograman balok puzzle visual untuk melatih alogaritma anak sekolah pemula logika gerak.",
+      "trik": "Blok = Scratch."
+    },
+    {
+      "id": "smp-9-tik-38",
+      "teks": "CMS (Content Management System) sangat populer dipakai untuk membuat website mudah karena... (Latihan Intensif #38)",
+      "opsi": {
+        "A": "Harga servernya mahal dan sulit",
+        "B": "Disediakan desain template drag-and-drop dinamis otomatis dpt diakses tanpa coding rumit penuh",
+        "C": "Harus mengetik ribuan kode murni dari nol",
+        "D": "Hanya di fungsikan di laptop saja"
+      },
+      "kunci": "B",
+      "pembahasan": "CMS seperti Wordpress memudahkan pembuatan situs layaknya menyusun puzzle / word editor tanpa mengetik koding pure html js rutin.",
+      "trik": "CMS = Mudah = Template."
+    },
+    {
+      "id": "smp-9-tik-39",
+      "teks": "CMS (Content Management System) sangat populer dipakai untuk membuat website mudah karena... (Latihan Intensif #39)",
+      "opsi": {
+        "A": "Harga servernya mahal dan sulit",
+        "B": "Harus mengetik ribuan kode murni dari nol",
+        "C": "Disediakan desain template drag-and-drop dinamis otomatis dpt diakses tanpa coding rumit penuh",
+        "D": "Hanya di fungsikan di laptop saja"
+      },
+      "kunci": "C",
+      "pembahasan": "CMS seperti Wordpress memudahkan pembuatan situs layaknya menyusun puzzle / word editor tanpa mengetik koding pure html js rutin.",
+      "trik": "CMS = Mudah = Template."
+    },
+    {
+      "id": "smp-9-tik-40",
+      "teks": "Salah satu bentuk kasus kejahatan siber (Cybercrime) yang berupa penipuan online menjebak password data kartu kredit seseorang disebut... (Latihan Intensif #40)",
+      "opsi": {
+        "A": "Debugging",
+        "B": "Downloading",
+        "C": "Upgrading system",
+        "D": "Phishing"
+      },
+      "kunci": "D",
+      "pembahasan": "Phishing memalsukan laman login aspal (misal bank palsu) agar mangsa membeberkan username/Sandinya terperdaya tipuan web duplikat.",
+      "trik": "Phishing = Mancing Data Rahasia."
+    },
+    {
+      "id": "smp-9-tik-41",
+      "teks": "CMS (Content Management System) sangat populer dipakai untuk membuat website mudah karena... (Latihan Intensif #41)",
+      "opsi": {
+        "A": "Disediakan desain template drag-and-drop dinamis otomatis dpt diakses tanpa coding rumit penuh",
+        "B": "Harga servernya mahal dan sulit",
+        "C": "Harus mengetik ribuan kode murni dari nol",
+        "D": "Hanya di fungsikan di laptop saja"
+      },
+      "kunci": "A",
+      "pembahasan": "CMS seperti Wordpress memudahkan pembuatan situs layaknya menyusun puzzle / word editor tanpa mengetik koding pure html js rutin.",
+      "trik": "CMS = Mudah = Template."
+    },
+    {
+      "id": "smp-9-tik-42",
+      "teks": "Ketika kita memasukkan IF-ELSE di Scratch, blok tersebut termasuk tipe perintah... (Latihan Intensif #42)",
+      "opsi": {
+        "A": "Sensor input",
+        "B": "Percabangan Control (Pengambilan Keputusan Logic)",
+        "C": "Gerakan Motion (Move)",
+        "D": "Suara (Sound effect)"
+      },
+      "kunci": "B",
+      "pembahasan": "IF-ELSE adalah struktur percabangan yang bertugas memeriksa kondisi Benar/Salah untuk menjalankan skrip tertentu.",
+      "trik": "IF = Keputusan logika percabangan."
+    },
+    {
+      "id": "smp-9-tik-43",
+      "teks": "Ketika kita memasukkan IF-ELSE di Scratch, blok tersebut termasuk tipe perintah... (Latihan Intensif #43)",
+      "opsi": {
+        "A": "Sensor input",
+        "B": "Gerakan Motion (Move)",
+        "C": "Percabangan Control (Pengambilan Keputusan Logic)",
+        "D": "Suara (Sound effect)"
+      },
+      "kunci": "C",
+      "pembahasan": "IF-ELSE adalah struktur percabangan yang bertugas memeriksa kondisi Benar/Salah untuk menjalankan skrip tertentu.",
+      "trik": "IF = Keputusan logika percabangan."
+    },
+    {
+      "id": "smp-9-tik-44",
+      "teks": "CMS (Content Management System) sangat populer dipakai untuk membuat website mudah karena... (Latihan Intensif #44)",
+      "opsi": {
+        "A": "Harga servernya mahal dan sulit",
+        "B": "Harus mengetik ribuan kode murni dari nol",
+        "C": "Hanya di fungsikan di laptop saja",
+        "D": "Disediakan desain template drag-and-drop dinamis otomatis dpt diakses tanpa coding rumit penuh"
+      },
+      "kunci": "D",
+      "pembahasan": "CMS seperti Wordpress memudahkan pembuatan situs layaknya menyusun puzzle / word editor tanpa mengetik koding pure html js rutin.",
+      "trik": "CMS = Mudah = Template."
+    },
+    {
+      "id": "smp-9-tik-45",
+      "teks": "Contoh aplikasi pemrograman berbasis Visual Blok adalah... (Latihan Intensif #45)",
+      "opsi": {
+        "A": "Scratch dan Blockly",
+        "B": "C++ dan Java",
+        "C": "PHP dan Laravel",
+        "D": "Assembler"
+      },
+      "kunci": "A",
+      "pembahasan": "Scratch menyajikan bahasa pemograman balok puzzle visual untuk melatih alogaritma anak sekolah pemula logika gerak.",
+      "trik": "Blok = Scratch."
+    },
+    {
+      "id": "smp-9-tik-46",
+      "teks": "CMS (Content Management System) sangat populer dipakai untuk membuat website mudah karena... (Latihan Intensif #46)",
+      "opsi": {
+        "A": "Harga servernya mahal dan sulit",
+        "B": "Disediakan desain template drag-and-drop dinamis otomatis dpt diakses tanpa coding rumit penuh",
+        "C": "Harus mengetik ribuan kode murni dari nol",
+        "D": "Hanya di fungsikan di laptop saja"
+      },
+      "kunci": "B",
+      "pembahasan": "CMS seperti Wordpress memudahkan pembuatan situs layaknya menyusun puzzle / word editor tanpa mengetik koding pure html js rutin.",
+      "trik": "CMS = Mudah = Template."
+    },
+    {
+      "id": "smp-9-tik-47",
+      "teks": "Salah satu bentuk kasus kejahatan siber (Cybercrime) yang berupa penipuan online menjebak password data kartu kredit seseorang disebut... (Latihan Intensif #47)",
+      "opsi": {
+        "A": "Debugging",
+        "B": "Downloading",
+        "C": "Phishing",
+        "D": "Upgrading system"
+      },
+      "kunci": "C",
+      "pembahasan": "Phishing memalsukan laman login aspal (misal bank palsu) agar mangsa membeberkan username/Sandinya terperdaya tipuan web duplikat.",
+      "trik": "Phishing = Mancing Data Rahasia."
+    },
+    {
+      "id": "smp-9-tik-48",
+      "teks": "Salah satu bentuk kasus kejahatan siber (Cybercrime) yang berupa penipuan online menjebak password data kartu kredit seseorang disebut... (Latihan Intensif #48)",
+      "opsi": {
+        "A": "Debugging",
+        "B": "Downloading",
+        "C": "Upgrading system",
+        "D": "Phishing"
+      },
+      "kunci": "D",
+      "pembahasan": "Phishing memalsukan laman login aspal (misal bank palsu) agar mangsa membeberkan username/Sandinya terperdaya tipuan web duplikat.",
+      "trik": "Phishing = Mancing Data Rahasia."
+    },
+    {
+      "id": "smp-9-tik-49",
+      "teks": "CMS (Content Management System) sangat populer dipakai untuk membuat website mudah karena... (Latihan Intensif #49)",
+      "opsi": {
+        "A": "Disediakan desain template drag-and-drop dinamis otomatis dpt diakses tanpa coding rumit penuh",
+        "B": "Harga servernya mahal dan sulit",
+        "C": "Harus mengetik ribuan kode murni dari nol",
+        "D": "Hanya di fungsikan di laptop saja"
+      },
+      "kunci": "A",
+      "pembahasan": "CMS seperti Wordpress memudahkan pembuatan situs layaknya menyusun puzzle / word editor tanpa mengetik koding pure html js rutin.",
+      "trik": "CMS = Mudah = Template."
+    },
+    {
+      "id": "smp-9-tik-50",
+      "teks": "Salah satu bentuk kasus kejahatan siber (Cybercrime) yang berupa penipuan online menjebak password data kartu kredit seseorang disebut... (Latihan Intensif #50)",
+      "opsi": {
+        "A": "Debugging",
+        "B": "Phishing",
+        "C": "Downloading",
+        "D": "Upgrading system"
+      },
+      "kunci": "B",
+      "pembahasan": "Phishing memalsukan laman login aspal (misal bank palsu) agar mangsa membeberkan username/Sandinya terperdaya tipuan web duplikat.",
+      "trik": "Phishing = Mancing Data Rahasia."
+    }
+  ]
+}

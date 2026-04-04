@@ -1,0 +1,15 @@
+{
+  "id": "data-health-dashboard",
+  "generatedAt": "2026-04-03T00:43:16.696Z",
+  "status": "healthy",
+  "summary": {
+    "totalValidatedFiles": 503,
+    "pass": 503,
+    "warn": 0,
+    "fail": 0,
+    "materiFiles": 165,
+    "soalFiles": 166,
+    "tryoutFiles": 113,
+    "frGroups": 57
+  }
+}

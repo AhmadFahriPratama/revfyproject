@@ -1,0 +1,26 @@
+{
+  "id": "materi-sd-kls3-bi",
+  "tingkat": "SD Kelas 3",
+  "mapel": "Bahasa Indonesia",
+  "materi": "Membaca Teks Agak Panjang, Paragraf, dan Kalimat Majemuk",
+  "deskripsi": "Materi Bahasa Indonesia Kelas 3 SD Kurikulum Merdeka (Fase B awal) yang berfokus pada transisi kemampuan membaca pemahaman, menemukan ide pokok paragraf, menulis kalimat panjang, serta memahami teks naratif, informatif, dan surat.",
+  "konten": [
+    {
+      "bab": "1. Membaca Teks Informasi dan Fiksi",
+      "teks": "Siswa membaca dongeng, fabel, atau artikel singkat (3-5 paragraf) lalu menjawab pertanyaan 5W1H (Apa, Siapa, Kapan, Di mana, Mengapa, Bagaimana) untuk memahami isi."
+    },
+    {
+      "bab": "2. Paragraf dan Ide Pokok",
+      "teks": "Mengenali bahwa cerita terdiri dari beberapa paragraf. Menemukan kalimat utama yang memuat ide pokok (gagasan ruang) pada suatu paragraf."
+    },
+    {
+      "bab": "3. Menulis Cerita Pendek",
+      "teks": "Berlatih menyusun karangan berdasarkan pengalaman atau gambar seri, menggunakan tanda baca koma (,), titik (.), dan tanda petik (\") dalam percakapan."
+    },
+    {
+      "bab": "4. Kalimat Majemuk dan Kata Hubung",
+      "teks": "Menggabungkan dua kalimat tunggal menjadi satu kalimat utuh dengan konjungsi seperti: 'dan', 'karena', 'tetapi', 'atau'."
+    }
+  ],
+  "tag": ["sd-3", "bahasa-indonesia", "paragraf", "membaca-pemahaman", "kalimat-majemuk"]
+}

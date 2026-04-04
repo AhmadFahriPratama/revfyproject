@@ -1,0 +1,657 @@
+{
+  "id": "TKA_SMP_PANCASILA_SOAL",
+  "mapel": "TKA SMP Pendidikan Pancasila",
+  "tingkat": "SMP",
+  "soal": [
+    {
+      "id": "SMP_PP_01",
+      "pertanyaan": "Sila pertama Pancasila dilambangkan dengan...",
+      "opsi": [
+        "Bintang",
+        "Rantai",
+        "Pohon Beringin",
+        "Kepala Banteng",
+        "Padi dan Kapas"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Bintang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_02",
+      "pertanyaan": "Ketua BPUPKI adalah...",
+      "opsi": [
+        "Ir. Soekarno",
+        "Dr. Radjiman Wedyodiningrat",
+        "Drs. Moh. Hatta",
+        "Mr. Soepomo",
+        "Achmad Subardjo"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Dr. Radjiman Wedyodiningrat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_03",
+      "pertanyaan": "Pancasila sebagai pandangan hidup bangsa disebut juga...",
+      "opsi": [
+        "Dasar negara",
+        "Sumber segala sumber hukum",
+        "Way of life",
+        "Landasan idiil",
+        "Konstitusi"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Way of life\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_04",
+      "pertanyaan": "Sidang pertama BPUPKI membahas tentang...",
+      "opsi": [
+        "UUD",
+        "Bentuk pemerintahan",
+        "Bendera negara",
+        "Dasar negara",
+        "Lagu kebangsaan"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Dasar negara\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_05",
+      "pertanyaan": "Rumusan Pancasila yang sah terdapat dalam...",
+      "opsi": [
+        "Piagam Jakarta",
+        "Pidato Soekarno",
+        "Naskah Proklamasi",
+        "Kitab Sutasoma",
+        "Pembukaan UUD 1945"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pembukaan UUD 1945\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_06",
+      "pertanyaan": "Lembaga yang berwenang mengubah UUD adalah...",
+      "opsi": [
+        "MPR",
+        "DPR",
+        "DPD",
+        "Presiden",
+        "MK"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"MPR\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_07",
+      "pertanyaan": "Hak DPR untuk meminta keterangan kepada pemerintah disebut...",
+      "opsi": [
+        "Hak Angket",
+        "Hak Interpelasi",
+        "Hak Menyatakan Pendapat",
+        "Hak Imunitas",
+        "Hak Budget"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hak Interpelasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_08",
+      "pertanyaan": "Warga negara yang baik adalah yang ... hukum.",
+      "opsi": [
+        "Menghindari",
+        "Melanggar",
+        "Mematuhi",
+        "Mengabaikan",
+        "Menantang"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Mematuhi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_09",
+      "pertanyaan": "Gotong royong merupakan cerminan sila ke-...",
+      "opsi": [
+        "1",
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Persatuan Indonesia. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_10",
+      "pertanyaan": "Kedaulatan berada di tangan rakyat dan dilaksanakan menurut UUD merupakan bunyi pasal ... ayat 2.",
+      "opsi": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "1"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_11",
+      "pertanyaan": "Alat pemersatu bangsa Indonesia adalah...",
+      "opsi": [
+        "Bahasa Indonesia",
+        "Lagu Barat",
+        "Mata uang Dollar",
+        "Film asing",
+        "Hobi masing-masing"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bahasa Indonesia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_12",
+      "pertanyaan": "Lembaga Yudikatif di Indonesia adalah...",
+      "opsi": [
+        "Presiden",
+        "MK dan MA",
+        "DPR",
+        "MPR",
+        "DPD"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"MK dan MA\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_13",
+      "pertanyaan": "Setiap orang bebas memilih agama. Ini adalah contoh hak...",
+      "opsi": [
+        "Ekonomi",
+        "Politik",
+        "Asasi Manusia",
+        "Sosial",
+        "Hukum"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Asasi Manusia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_14",
+      "pertanyaan": "Negara Indonesia adalah negara hukum. Bunyi pasal...",
+      "opsi": [
+        "1 ayat 1",
+        "1 ayat 2",
+        "2 ayat 1",
+        "1 ayat 3",
+        "3 ayat 1"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1 ayat 3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_15",
+      "pertanyaan": "Kepanjangan dari NKRI adalah...",
+      "opsi": [
+        "Negara Kedamaian Rakyat Indonesia",
+        "Negara Kebangsaan Republik Indonesia",
+        "Negara Kerakyatan Republik Indonesia",
+        "Negara Keadilan Rakyat Indonesia",
+        "Negara Kesatuan Republik Indonesia"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Negara Kesatuan Republik Indonesia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_16",
+      "pertanyaan": "Pemilu di Indonesia berasaskan Luber Jurdil. 'Jurdil' singkatan dari...",
+      "opsi": [
+        "Jujur dan Adil",
+        "Jujur dan Disiplin",
+        "Jelas dan Adil",
+        "Jujur dan Stabil",
+        "Jeli dan Adil"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jujur dan Adil\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_17",
+      "pertanyaan": "Lagu kebangsaan Indonesia Raya diciptakan oleh...",
+      "opsi": [
+        "Kusbini",
+        "W.R. Supratman",
+        "Ibu Sud",
+        "Ismail Marzuki",
+        "C. Simanjuntak"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"W.R. Supratman\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_18",
+      "pertanyaan": "Contoh pengamalan sila ke-4 di sekolah adalah...",
+      "opsi": [
+        "Berdoa sebelum belajar",
+        "Membantu teman jatuh",
+        "Musyawarah memilih ketua kelas",
+        "Upacara bendera",
+        "Tidak boros"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Musyawarah memilih ketua kelas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_19",
+      "pertanyaan": "Bhineka Tunggal Ika artinya...",
+      "opsi": [
+        "Berbeda-beda tetapi satu tujuan",
+        "Bersatu kita teguh bercerai kita runtuh",
+        "Bhineka artinya satu",
+        "Berbeda-beda tetapi tetap satu",
+        "Sama saja semuanya"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Berbeda-beda tetapi tetap satu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_20",
+      "pertanyaan": "Tugas utama PPKI adalah...",
+      "opsi": [
+        "Membentuk tentara",
+        "Melawan Belanda",
+        "Memilih Raja",
+        "Membuat peta",
+        "Mempersiapkan kemerdekaan"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mempersiapkan kemerdekaan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_21",
+      "pertanyaan": "Presiden sebagai kepala pemerintahan dibantu oleh...",
+      "opsi": [
+        "Menteri-menteri",
+        "DPR",
+        "Ketua MK",
+        "MPR",
+        "Rakyat"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menteri-menteri\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_22",
+      "pertanyaan": "Sila ke-5 Pancasila menekankan pada...",
+      "opsi": [
+        "Ketuhanan",
+        "Keadilan Sosial",
+        "Kemanusiaan",
+        "Persatuan",
+        "Kerakyatan"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi E karena sesuai dengan konsep utama pada soal, yaitu \"Keadilan Sosial\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_23",
+      "pertanyaan": "BPUPKI dibentuk oleh...",
+      "opsi": [
+        "Belanda",
+        "PBB",
+        "Jepang",
+        "Sekutu",
+        "Tokoh Indonesia"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Jepang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_24",
+      "pertanyaan": "Garis besar konstitusi negara disebut...",
+      "opsi": [
+        "Undang-undang",
+        "PP",
+        "Perpres",
+        "UUD",
+        "Perda"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"UUD\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_25",
+      "pertanyaan": "Amandemen UUD 1945 dilakukan sebanyak ... kali.",
+      "opsi": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_26",
+      "pertanyaan": "Bendera negara Indonesia adalah...",
+      "opsi": [
+        "Merah Putih",
+        "Merah Putih Biru",
+        "Merah Saja",
+        "Putih Merah",
+        "Bintang Sembilan"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Merah Putih\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_27",
+      "pertanyaan": "Lembaga yang menangani sengketa pemilu adalah...",
+      "opsi": [
+        "KPU",
+        "MK",
+        "Bawaslu",
+        "MA",
+        "Presiden"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"MK\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_28",
+      "pertanyaan": "Sumpah Pemuda dibacakan pada tanggal...",
+      "opsi": [
+        "17 Agustus 1945",
+        "1 Juni 1945",
+        "28 Oktober 1928",
+        "10 November 1945",
+        "20 Mei 1908"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"28 Oktober 1928\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_29",
+      "pertanyaan": "Berikut ini adalah kewajiban warga negara, kecuali...",
+      "opsi": [
+        "Membayar pajak",
+        "Membela negara",
+        "Menjaga fasilitas umum",
+        "Mendapatkan pendidikan gratis (hak)",
+        "Mematuhi lalu lintas"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Mendapatkan pendidikan gratis (hak)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_30",
+      "pertanyaan": "Lambang negara Indonesia adalah...",
+      "opsi": [
+        "Bunga Melati",
+        "Monas",
+        "Candi Borobudur",
+        "Padi",
+        "Garuda Pancasila"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Garuda Pancasila\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_31",
+      "pertanyaan": "Norma Kesopanan bersumber dari...",
+      "opsi": [
+        "Pergaulan masyarakat",
+        "Wahyu Tuhan",
+        "Hati nurani",
+        "Peraturan pemerintah",
+        "Adat istiadat kuno"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Pergaulan masyarakat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_32",
+      "pertanyaan": "Sila ke-2 Pancasila dilambangkan dengan...",
+      "opsi": [
+        "Bintang",
+        "Rantai",
+        "Pohon Beringin",
+        "Kepala Banteng",
+        "Padi Kapas"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rantai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_33",
+      "pertanyaan": "Indonesia menggunakan sistem pemerintahan...",
+      "opsi": [
+        "Monarki",
+        "Kekaisaran",
+        "Republik",
+        "Feadalisme",
+        "Kolonial"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Republik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_34",
+      "pertanyaan": "Anggota DPR dipilih melalui...",
+      "opsi": [
+        "Penunjukan Presiden",
+        "Seleksi CPNS",
+        "Warisan",
+        "Pemilihan Umum",
+        "Undian"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Pemilihan Umum\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_35",
+      "pertanyaan": "Pasal 29 UUD 1945 mengatur tentang...",
+      "opsi": [
+        "Pendidikan",
+        "Ekonomi",
+        "Pertahanan",
+        "Kesehatan",
+        "Agama"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Agama\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_36",
+      "pertanyaan": "Makna Sila ke-3 adalah...",
+      "opsi": [
+        "Persatuan Bangsa",
+        "Beriman",
+        "Adil",
+        "Demokrasi",
+        "Sejahtera"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Persatuan Bangsa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_37",
+      "pertanyaan": "Dasar negara Indonesia adalah...",
+      "opsi": [
+        "Burung Garuda",
+        "Pancasila",
+        "UUD 1945",
+        "NKRI",
+        "Bhineka Tunggal Ika"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Pancasila\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_38",
+      "pertanyaan": "Hari Lahir Pancasila diperingati setiap tanggal...",
+      "opsi": [
+        "17 Agustus",
+        "1 Oktober",
+        "1 Juni",
+        "28 Oktober",
+        "10 November"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"1 Juni\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_39",
+      "pertanyaan": "Lembaga yang bertugas mengawasi perilaku hakim adalah...",
+      "opsi": [
+        "MK",
+        "MA",
+        "DPR",
+        "Komisi Yudisial (KY)",
+        "KPK"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Komisi Yudisial (KY)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_40",
+      "pertanyaan": "Warna kuning emas pada burung Garuda melambangkan...",
+      "opsi": [
+        "Keberanian",
+        "Kesucian",
+        "Kesedihan",
+        "Kemiskinan",
+        "Kemegahan/Kejayaan"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kemegahan/Kejayaan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_41",
+      "pertanyaan": "Toleransi adalah...",
+      "opsi": [
+        "Menghargai perbedaan",
+        "Memaksakan kehendak",
+        "Membenci orang lain",
+        "Hanya berteman sesama",
+        "Mengikuti semua agama"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menghargai perbedaan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_42",
+      "pertanyaan": "Setiap warga negara berhak mendapat pendidikan. Pasal ... ayat 1.",
+      "opsi": [
+        "27",
+        "31",
+        "28",
+        "29",
+        "30"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi E karena sesuai dengan konsep utama pada soal, yaitu \"31\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_43",
+      "pertanyaan": "Semboyan Bhinneka Tunggal Ika diambil dari bahasa...",
+      "opsi": [
+        "Sansekerta",
+        "Melayu",
+        "Jawa Kuno",
+        "Arab",
+        "Inggris"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jawa Kuno\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_44",
+      "pertanyaan": "Berikut contoh sikap patriotisme, kecuali...",
+      "opsi": [
+        "Ikut upacara",
+        "Membeli produk dalam negeri",
+        "Belajar tekun untuk bangsa",
+        "Mementingkan diri sendiri",
+        "Membela nama baik negara"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Mementingkan diri sendiri\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_45",
+      "pertanyaan": "Kepala negara Indonesia adalah...",
+      "opsi": [
+        "Raja",
+        "Perdana Menteri",
+        "Sultan",
+        "Ketua MPR",
+        "Presiden"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Presiden\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_46",
+      "pertanyaan": "Dasar hukum amandemen UUD 1945 adalah pasal...",
+      "opsi": [
+        "37",
+        "1",
+        "3",
+        "33",
+        "29"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"37\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_47",
+      "pertanyaan": "Korupsi melanggar pengamalan Pancasila sila ke-...",
+      "opsi": [
+        "1",
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Keadilan sosial. Jawaban yang paling tepat adalah opsi E karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_48",
+      "pertanyaan": "Lambang pohon beringin bermakna...",
+      "opsi": [
+        "Kebutuhan pokok",
+        "Kekuatan",
+        "Persatuan/Tempat berteduh",
+        "Cahaya",
+        "Rantai persaudaraan"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Persatuan/Tempat berteduh\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_49",
+      "pertanyaan": "BUMN adalah singkatan dari...",
+      "opsi": [
+        "Badan Utama Milik Negara",
+        "Badan Usaha Masyarakat Nasional",
+        "Badan Utama Masyarakat Nasional",
+        "Badan Usaha Milik Negara",
+        "Badan Usaha Milik Nasional"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Badan Usaha Milik Negara\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_PP_50",
+      "pertanyaan": "Cinta tanah air dan bangsa adalah pengamalan sila ke-...",
+      "opsi": [
+        "1",
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    }
+  ]
+}

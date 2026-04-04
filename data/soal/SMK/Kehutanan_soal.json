@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMK_KH_01",
+    "pertanyaan": "Hutan yang berfungsi untuk menjaga kelestarian tanah, tata air, dan lingkungan hidup disebut hutan...",
+    "opsi": [
+      "Lindung",
+      "Produksi",
+      "Konservasi",
+      "Suaka Alam",
+      "Kota"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Hutan Lindung dikelola untuk perlindungan sistem penyangga kehidupan."
+  },
+  {
+    "id": "SMK_KH_02",
+    "pertanyaan": "Ilmu yang mempelajari teknik membudidayakan atau menanam hutan disebut...",
+    "opsi": [
+      "Geologi",
+      "Silvikultur",
+      "Agronomi",
+      "Ekologi",
+      "Zoologi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Silvikultur mencakup pembibitan, penanaman, hingga pemanenan pohon hutan."
+  },
+  {
+    "id": "SMK_KH_03",
+    "pertanyaan": "Alat yang digunakan untuk mengukur tinggi pohon secara trigonometri di lapangan adalah...",
+    "opsi": [
+      "Kompas",
+      "Pita Diameter",
+      "Clinometer",
+      "GPS",
+      "Meteran gulung"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Clinometer mengukur sudut kemiringan untuk menghitung tinggi objek dari jarak tertentu."
+  },
+  {
+    "id": "SMK_KH_04",
+    "pertanyaan": "Pengukuran diameter pohon (DBH) biasanya dilakukan pada ketinggian standar, yaitu...",
+    "opsi": [
+      "Asal saja",
+      "Paling bawah tanah",
+      "Puncak pohon",
+      "1,3 meter dari permukaan tanah (Setinggi Dada)",
+      "Satu jengkal saja"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Diameter at Breast Height (DBH) adalah standar pengukuran diameter pohon internasional."
+  },
+  {
+    "id": "SMK_KH_05",
+    "pertanyaan": "Jenis pohon yang kayunya sangat kuat, awet, dan sering digunakan untuk furnitur mewah di Indonesia adalah...",
+    "opsi": [
+      "Pinus",
+      "Sengon",
+      "Karet",
+      "Kelapa",
+      "Jati (Tectona grandis)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kayu jati memiliki ketahanan alami terhadap rayap dan cuaca."
+  },
+  {
+    "id": "SMK_KH_06",
+    "pertanyaan": "Aktivitas menanam kembali hutan yang telah gundul atau rusak disebut...",
+    "opsi": [
+      "Reboisasi",
+      "Abrasi",
+      "Erosi",
+      "Sertifikasi",
+      "Deforestasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Reboisasi bertujuan memulihkan fungsi ekosistem hutan."
+  },
+  {
+    "id": "SMK_KH_07",
+    "pertanyaan": "Berapakah jarak tanam standar yang sering digunakan pada penanaman hutan produksi seperti Jati?",
+    "opsi": [
+      "10 x 10 cm",
+      "3 x 3 m",
+      "1 x 1 m",
+      "10 x 10 m",
+      "Tak terbatas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Jarak tanam 3x3 meter memberikan ruang tumbuh yang cukup bagi tajuk pohon."
+  },
+  {
+    "id": "SMK_KH_08",
+    "pertanyaan": "Hama yang sering menyerang tanaman Pinus dan menyebabkan kerusakan pada batang adalah...",
+    "opsi": [
+      "Tikus",
+      "Burung pipit",
+      "Ulat Kantung / Penggerek Batang",
+      "Kucing",
+      "Kambing"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Penggerek batang merusak jaringan pengangkut pohon."
+  },
+  {
+    "id": "SMK_KH_09",
+    "pertanyaan": "Apa kepanjangan dari TPTI dalam manajemen pengelolaan hutan di Indonesia?",
+    "opsi": [
+      "Teknik Penanaman Tanaman Indah",
+      "Tempat Pemrosesan Tanah Industri",
+      "Tabel Pertumbuhan Tanaman Inti",
+      "Tebang Pilih Tanam Indonesia",
+      "Toko Penjual Tanaman Impor"
+    ],
+    "jawaban": 3,
+    "pembahasan": "TPTI mewajibkan penebangan hanya pada pohon dengan diameter tertentu dan menanam kembali."
+  },
+  {
+    "id": "SMK_KH_10",
+    "pertanyaan": "Alat navigasi yang menggunakan sinyal satelit untuk menentukan koordinat posisi di hutan adalah...",
+    "opsi": [
+      "Teropong",
+      "Kamera",
+      "Radio",
+      "Jam tangan",
+      "GPS (Global Positioning System)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "GPS sangat vital untuk pemetaan dan navigasi di dalam hutan belantara."
+  },
+  {
+    "id": "SMK_KH_11",
+    "pertanyaan": "Salah satu hasil hutan non-kayu yang berasal dari getah pohon Pinus adalah...",
+    "opsi": [
+      "Gondorukem dan Turpentin",
+      "Minyak Goreng",
+      "Susu",
+      "Madu",
+      "Bensin"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Gondorukem digunakan dalam industri cat, sabun, dan farmasi."
+  },
+  {
+    "id": "SMK_KH_12",
+    "pertanyaan": "Pohon yang sering digunakan untuk industri kertas (pulp) karena pertumbuhannya yang sangat cepat adalah...",
+    "opsi": [
+      "Jati",
+      "Akasia / Eucalyptus",
+      "Cendana",
+      "Ramin",
+      "Ulin"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Akasia dan Eucalyptus dipanen pada umur relatif muda (5-7 tahun) untuk industri kertas."
+  },
+  {
+    "id": "SMK_KH_13",
+    "pertanyaan": "Metode pengukuran luas lahan hutan menggunakan alat GPS yang dilakukan dengan berjalan mengelilingi batas lahan disebut...",
+    "opsi": [
+      "Plotting",
+      "Scanning",
+      "Tracking",
+      "Mixing",
+      "Drafting"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Data track GPS kemudian diolah menjadi poligon luas lahan di software GIS."
+  },
+  {
+    "id": "SMK_KH_14",
+    "pertanyaan": "Aktivitas pembuangan cabang-cabang pohon yang tidak diinginkan agar batang utama lurus dan berkualitas disebut...",
+    "opsi": [
+      "Penyiangan",
+      "Penyulaman",
+      "Tebang Habis",
+      "Pruning (Pemangkasan)",
+      "Pembibitan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pruning meningkatkan kualitas estetika dan kekuatan kayu inti."
+  },
+  {
+    "id": "SMK_KH_15",
+    "pertanyaan": "Tindakan mengganti bibit yang mati di lapangan dengan bibit baru yang sehat disebut...",
+    "opsi": [
+      "Pemupukan",
+      "Penjarangan",
+      "Pembersihan",
+      "Penyiraman",
+      "Penyulaman"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Penyulaman dilakukan agar jumlah tegakan pohon per hektar tetap sesuai rencana."
+  },
+  {
+    "id": "SMK_KH_16",
+    "pertanyaan": "Hasil hutan non-kayu yang berupa batang merambat berkayu dan banyak digunakan untuk furnitur anyaman adalah...",
+    "opsi": [
+      "Rotan",
+      "Bambu",
+      "Pandan",
+      "Eceng Gondok",
+      "Lidi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Indonesia merupakan penghasil rotan mentah terbesar di dunia."
+  },
+  {
+    "id": "SMK_KH_17",
+    "pertanyaan": "Puncak tertinggi pada pohon yang terdiri dari kumpulan dahan dan dedaunan disebut...",
+    "opsi": [
+      "Akar",
+      "Tajuk (Crown)",
+      "Batang",
+      "Ranting",
+      "Kulit"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kesehatan tajuk mencerminkan laju fotosintesis dan kesehatan keseluruhan pohon."
+  },
+  {
+    "id": "SMK_KH_18",
+    "pertanyaan": "Bagian hutan yang dikhususkan untuk menjaga keanekaragaman satwa langka disebut suaka...",
+    "opsi": [
+      "Alam",
+      "Wisata",
+      "Margasatwa",
+      "Komunal",
+      "Produksi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Suaka Margasatwa memiliki perlindungan hukum yang sangat ketat."
+  },
+  {
+    "id": "SMK_KH_19",
+    "pertanyaan": "Pohon yang dijuluki sebagai 'Kayu Besi' karena kekuatannya yang luar biasa dan awet hingga seratus tahun adalah...",
+    "opsi": [
+      "Kayu Putih",
+      "Kayu Pinus",
+      "Kayu Sengon",
+      "Kayu Ulin",
+      "Kayu Karet"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ulin berasal dari hutan Kalimantan dan Sumatera, sering digunakan untuk jembatan atau dermaga."
+  },
+  {
+    "id": "SMK_KH_20",
+    "pertanyaan": "Praktek penebangan hutan secara ilegal tanpa izin resmi pemerintah disebut...",
+    "opsi": [
+      "Logistik",
+      "Forestry",
+      "Conservation",
+      "Ecotourism",
+      "Illegal Logging"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembalakan liar merupakan penyebab utama kerusakan hutan dan bencana alam."
+  },
+  {
+    "id": "SMK_KH_21",
+    "pertanyaan": "Peralatan keselamatan (APD) yang wajib digunakan saat melakukan penebangan pohon dengan gergaji mesin (chainsaw) adalah...",
+    "opsi": [
+      "Helm keselamatan, pelindung telinga, dan sepatu bot",
+      "Sandal jepit",
+      "Kemeja santai",
+      "Jas hujan plastik",
+      "Topi koboi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Perlindungan diri sangat krusial karena pekerjaan di hutan berisiko tinggi."
+  },
+  {
+    "id": "SMK_KH_22",
+    "pertanyaan": "Apa manfaat 'Sekat Bakar' pada kawasan hutan rawan kebakaran?",
+    "opsi": [
+      "Tempat parkir",
+      "Memutus sebaran api agar tidak merambat ke area hutan yang lebih luas",
+      "Tempat membuang sampah",
+      "Sebagai jalur wisata",
+      "Area menanam rumput"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sekat bakar biasanya berupa lahan kosong atau jalan yang memisahkan blok hutan."
+  },
+  {
+    "id": "SMK_KH_23",
+    "pertanyaan": "Ilmu yang memanfaatkan citra satelit atau foto udara untuk memantau luas tutupan hutan disebut...",
+    "opsi": [
+      "Psikologi",
+      "Astronomi",
+      "Penginderaan Jauh (Remote Sensing)",
+      "Sejarah",
+      "Sosiologi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Penginderaan jauh memudahkan monitoring deforestasi dari jarak jauh."
+  },
+  {
+    "id": "SMK_KH_24",
+    "pertanyaan": "Cairan berwarna putih susu yang disadap dari pohon karet disebut...",
+    "opsi": [
+      "Madu",
+      "Resin",
+      "Minyak Atsiri",
+      "Lateks",
+      "Air Nira"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lateks diolah menjadi karet alam untuk ban, sarung tangan, dll."
+  },
+  {
+    "id": "SMK_KH_25",
+    "pertanyaan": "Tanaman hutan yang kayunya sangat wangi dan bernilai luar biasa mahal untuk bahan parfum adalah...",
+    "opsi": [
+      "Sawit",
+      "Jati",
+      "Akasia",
+      "Bambu",
+      "Gaharu dan Cendana"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gaharu dan Cendana termasuk komoditas hutan kelas atas."
+  },
+  {
+    "id": "SMK_KH_26",
+    "pertanyaan": "Proses pengeringan kayu secara alami di bawah sinar matahari disebut...",
+    "opsi": [
+      "Air Drying",
+      "Oven",
+      "Chemical Drying",
+      "Soaking",
+      "Boiling"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pengeringan udara bertujuan menurunkan kadar air agar kayu tidak melintir atau pecah."
+  },
+  {
+    "id": "SMK_KH_27",
+    "pertanyaan": "Berapakah kadar air ideal kayu yang siap untuk diproduksi menjadi furnitur ekspor?",
+    "opsi": [
+      "50-80%",
+      "8-12%",
+      "0%",
+      "100%",
+      "40%"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kadar air rendah menjamin stabilitas dimensi kayu."
+  },
+  {
+    "id": "SMK_KH_28",
+    "pertanyaan": "Alat potong kayu otomatis yang digunakan untuk menebang pohon hutan berdiameter besar disebut...",
+    "opsi": [
+      "Gergaji Tangan",
+      "Gunting Stek",
+      "Chainsaw (Gergaji Mesin)",
+      "Cangkul",
+      "Pisau Dapur"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pengoperasian chainsaw memerlukan keahlian khusus agar aman."
+  },
+  {
+    "id": "SMK_KH_29",
+    "pertanyaan": "Aktivitas menebang pohon secara merata di satu area hutan tanpa memilih disebut...",
+    "opsi": [
+      "Tebang Pilih",
+      "Penyulaman",
+      "Penyiraman",
+      "Tebang Habis",
+      "Pemupukan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tebang habis biasanya diikuti dengan penanaman kembali secara intensif (Hutan Tanaman Industri)."
+  },
+  {
+    "id": "SMK_KH_30",
+    "pertanyaan": "Salah satu fauna langka yang hanya ada di hutan Sumatera dan Kalimantan adalah...",
+    "opsi": [
+      "Unta",
+      "Kanguru",
+      "Penguin",
+      "Panda",
+      "Orangutan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Konservasi habitat Orangutan menjadi perhatian dunia internasional."
+  },
+  {
+    "id": "SMK_KH_31",
+    "pertanyaan": "Lapisan paling luar pada batang pohon yang berfungsi melindungi jaringan dalam disebut...",
+    "opsi": [
+      "Kulit Kayu (Bark)",
+      "Kambium",
+      "Zilem",
+      "Floem",
+      "Empulur"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kulit kayu melindungi dari serangan hama dan perubahan suhu."
+  },
+  {
+    "id": "SMK_KH_32",
+    "pertanyaan": "Jaringan pada pohon yang bertanggung jawab atas pertumbuhan diameter batang (pertumbuhan sekunder) adalah...",
+    "opsi": [
+      "Epidermis",
+      "Kambium",
+      "Stomata",
+      "Klorofil",
+      "Sumbu"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pohon berkambium (dikotil) dapat tumbuh membesar seiring waktu."
+  },
+  {
+    "id": "SMK_KH_33",
+    "pertanyaan": "Bagian pohon yang tertanam di bawah tanah dan berfungsi menyerap air serta menopang berdirinya pohon disebut...",
+    "opsi": [
+      "Ranting",
+      "Dahan",
+      "Akar",
+      "Pucuk",
+      "Buah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Akar yang kuat mencegah terjadinya tanah longsor di area pegunungan."
+  },
+  {
+    "id": "SMK_KH_34",
+    "pertanyaan": "Selembar peta perhutanan biasanya memiliki 'Legenda'. Fungsi legenda adalah...",
+    "opsi": [
+      "Menceritakan sejarah hutan",
+      "Menunjukkan arah mata angin saja",
+      "Menghitung luas hutan",
+      "Memberikan keterangan simbol-simbol yang ada pada peta",
+      "Sebagai hiasan peta"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Legenda memudahkan pembaca peta memahami informasi fisis di lapangan."
+  },
+  {
+    "id": "SMK_KH_35",
+    "pertanyaan": "Apa keunggulan menanam pohon jenis Sengon (Albisia)?",
+    "opsi": [
+      "Kayunya lebih keras dari besi",
+      "Bisa tumbuh di dalam air",
+      "Buahnya bisa dimakan",
+      "Tidak butuh matahari",
+      "Masa panen sangat cepat (Short Rotation)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sengon sering disebut 'pohon uang' karena cepat menghasilkan (5-6 tahun sudah bisa ditebang)."
+  },
+  {
+    "id": "SMK_KH_36",
+    "pertanyaan": "Limbah gergajian kayu yang dipadatkan menjadi bahan bakar alternatif berbentuk tabung kecil disebut...",
+    "opsi": [
+      "Wood Pellet",
+      "Bensin",
+      "Batu Bara",
+      "Lilin",
+      "Madu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Wood pellet merupakan energi terbarukan (biomassa) yang ramah lingkungan."
+  },
+  {
+    "id": "SMK_KH_37",
+    "pertanyaan": "Pengurangan populasi pohon dalam satu petak hutan agar sisa pohon lainnya tumbuh lebih maksimal disebut...",
+    "opsi": [
+      "Penghijauan",
+      "Penjarangan",
+      "Pembakaran",
+      "Penggundulan",
+      "Pengasapan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penjarangan mengurangi kompetisi nutrisi, air, dan cahaya matahari."
+  },
+  {
+    "id": "SMK_KH_38",
+    "pertanyaan": "Apa singkatan dari SVLK dalam perdagangan kayu di Indonesia?",
+    "opsi": [
+      "Sistem Validasi Lahan Kehutanan",
+      "Surat Verifikasi Laporan Kehutanan",
+      "Sertifikasi Verifikasi Legalitas Kayu",
+      "Standar Validasi Luas Kawasan",
+      "Sertifikat Vitamin Lahan Kayu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "SVLK adalah paspor legal bagi kayu Indonesia untuk bisa diekspor ke luar negeri (Uni Eropa, dll)."
+  },
+  {
+    "id": "SMK_KH_39",
+    "pertanyaan": "Berapakah luas satu hektar (ha) tanah jika dinyatakan dalam meter persegi?",
+    "opsi": [
+      "100 m^2",
+      "1.000 m^2",
+      "100.000 m^2",
+      "10.000 m^2",
+      "1.000.000 m^2"
+    ],
+    "jawaban": 3,
+    "pembahasan": "1 Hektar = 100 meter x 100 meter = 10.000 meter persegi."
+  },
+  {
+    "id": "SMK_KH_40",
+    "pertanyaan": "Hutan yang ditanam dengan tujuan sebagai bahan baku industri seperti bubur kertas disebut...",
+    "opsi": [
+      "Hutan Kota",
+      "Hutan Rakyat",
+      "Hutan Wisata",
+      "Hutan Adat",
+      "HTI (Hutan Tanaman Industri)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "HTI biasanya didominasi oleh satu jenis tanaman (Monokultur)."
+  },
+  {
+    "id": "SMK_KH_41",
+    "pertanyaan": "Dalam K3, warna 'Hijau' pada simbol kotak P3K berarti sebagai petunjuk...",
+    "opsi": [
+      "Pertolongan pertama / Lokasi aman",
+      "Larangan",
+      "Peringatan bahaya",
+      "Wajib memakai helm",
+      "Area tegangan tinggi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Warna hijau menunjukkan informasi keamanan dan medis."
+  },
+  {
+    "id": "SMK_KH_42",
+    "pertanyaan": "Jenis tanah di hutan yang sangat subur karena berasal dari pelapukan daun dan serasah disebut tanah...",
+    "opsi": [
+      "Pasir",
+      "Humus",
+      "Kapur",
+      "Gambut",
+      "Liat"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tanah humus kaya akan unsur hara organik yang dibutuhkan bibit pohon."
+  },
+  {
+    "id": "SMK_KH_43",
+    "pertanyaan": "Tanah yang terbentuk dari sisa tumbuhan di lahan basah yang tebal dan mudah terbakar jika kering disebut...",
+    "opsi": [
+      "Tanah Liat",
+      "Tanah Berpasir",
+      "Tanah Gambut",
+      "Tanah Vulkanik",
+      "Tanah Batu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Lahan gambut menyimpan karbon dalam jumlah besar butuh perlindungan khusus."
+  },
+  {
+    "id": "SMK_KH_44",
+    "pertanyaan": "Upaya pelestarian alam di dalam habitat aslinya disebut pelestarian...",
+    "opsi": [
+      "Ex-situ",
+      "Dinamis",
+      "Statis",
+      "In-situ",
+      "Modern"
+    ],
+    "jawaban": 3,
+    "pembahasan": "In-situ (dalam tempat asli), Ex-situ (di luar tempat asli seperti Kebun Binatang)."
+  },
+  {
+    "id": "SMK_KH_45",
+    "pertanyaan": "Manakah tanaman berikut yang dapat hidup di area pantai dan berfungsi mencegah abrasi?",
+    "opsi": [
+      "Cemara",
+      "Pohon Mangga",
+      "Padi",
+      "Singkong",
+      "Mangrove (Bakau)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Mangrove memiliki akar napas yang kuat menahan deburan ombak laut."
+  },
+  {
+    "id": "SMK_KH_46",
+    "pertanyaan": "Apa kelemahan utama kayu jika disimpan di tempat yang lembab?",
+    "opsi": [
+      "Kayu mudah berjamur dan diserang serangga (rayap/bubuk)",
+      "Kayu jadi makin kuat",
+      "Kayu berubah jadi besi",
+      "Kayu tidak bisa dipotong",
+      "Kayu jadi berkilau"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kelembaban tinggi merangsang pertumbuhan organisme perusak kayu."
+  },
+  {
+    "id": "SMK_KH_47",
+    "pertanyaan": "Zat pewarna alami dari kulit pohon sering digunakan dalam industri...",
+    "opsi": [
+      "Listrik",
+      "Batik dan Tekstil",
+      "Masak",
+      "Otomotif",
+      "Bangunan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kulit pohon Mangrove atau kayu Secang populer sebagai pewarna alami."
+  },
+  {
+    "id": "SMK_KH_48",
+    "pertanyaan": "Siapakah lembaga pemerintah yang mengurusi urusan hutan di Indonesia?",
+    "opsi": [
+      "Kemenkes",
+      "Kemendikbud",
+      "Kementerian Lingkungan Hidup dan Kehutanan (KLHK)",
+      "Kemenag",
+      "Kemenhub"
+    ],
+    "jawaban": 2,
+    "pembahasan": "KLHK bertanggung jawab atas pengelolaan hutan nasional secara luas."
+  },
+  {
+    "id": "SMK_KH_49",
+    "pertanyaan": "Gelar bagi teknisi kehutanan lulusan SMK adalah...",
+    "opsi": [
+      "Insinyur Hutan",
+      "Petani",
+      "Tukang kebun",
+      "Polisi Hutan (Jagawana) / Teknisi Perhutanan",
+      "Manager Mall"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Lulusan SMK kehutanan siap mengabdi di Perhutani, taman nasional, maupun HTI swasta."
+  },
+  {
+    "id": "SMK_KH_50",
+    "pertanyaan": "Manfaat mengikuti latihan soal Kehutanan di RevStudy bagi masa depan kamu adalah...",
+    "opsi": [
+      "Hanya buat seru-seruan",
+      "Supaya jago memanjat pohon",
+      "Biar bisa menebang pohon sesuka hati",
+      "Mendapatkan sertifikat iseng",
+      "Memperdalam teori kehutanan agar siap bekerja menjaga kelestarian paru-paru dunia"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Hutan adalah masa depan bumi, pengelolaannya membutuhkan tenaga yang handal dan cinta alam."
+  }
+]

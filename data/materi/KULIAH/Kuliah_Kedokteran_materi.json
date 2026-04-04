@@ -1,0 +1,53 @@
+{
+  "judul": "Pendidikan Dokter / Kedokteran Umum",
+  "tingkatan": "KULIAH",
+  "jurusan": "Kesehatan / Kedokteran",
+  "deskripsi": "Materi tingkat universitas mengenai anatomi sistemik, fisiologi manusia, biokimia klinis, patologi, farmakoterapi, serta etika kedokteran dan hukum medik.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Anatomi dan Fisiologi Sistemik",
+      "konten": "Struktur mikroskopis (histologi) dan makroskopis tubuh manusia. Sistem kardiovaskular, respirasi, pencernaan, saraf, serta mekanisme homeostasis tubuh.",
+      "tag": [
+        "kuliah kedokteran materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Biokimia Klinis dan Genetika",
+      "konten": "Metabolisme karbohidrat, lipid, protein. Enzimologi klinis, regulasi hormonal, dasar pewarisan sifat genetika, serta mutasi DNA dan penyakit genetik.",
+      "tag": [
+        "kuliah kedokteran materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Patologi dan Mikrobiologi Medik",
+      "konten": "Proses inflamasi, degenerasi sel, neoplasia (kanker). Pengenalan mikroorganisme penyebab penyakit (bakteri, virus, jamur), resistensi antibiotik, serta imunologi dasar.",
+      "tag": [
+        "kuliah kedokteran materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Keterampilan Klinis dan Diagnostik",
+      "konten": "Teknik anamnesis (wawancara medis), pemeriksaan fisik (inspeksi, palpasi, perkusi, auskultasi), serta interpretasi laboratorium dan penunjang (EKG, Rontgen).",
+      "tag": [
+        "kuliah kedokteran materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Etika Kedokteran dan Kesehatan Masyarakat",
+      "konten": "Prinsip dasar bioetika (beneficence, non-maleficence, autonomy, justice), rahasia medik, keselamatan pasien, serta konsep epidemiologi dan pencegahan penyakit.",
+      "tag": [
+        "kuliah kedokteran materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-kedokteran-materi",
+  "mapel": "Pendidikan Dokter / Kedokteran Umum",
+  "tag": [
+    "kuliah kedokteran materi"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mat-pk",
+  "tingkat": "UTBK",
+  "mapel": "Pengetahuan Kuantitatif",
+  "materi": "Pengetahuan Kuantitatif",
+  "deskripsi": "Materi ini menekankan pemahaman konsep kuantitatif dasar yang sering dipakai dalam konteks UTBK, seperti persentase, rasio, peluang, rata-rata, dan aljabar sederhana.",
+  "konten": [
+    {
+      "bab": "1. Persentase dan Perubahan Nilai",
+      "teks": "Persentase sering muncul dalam bentuk kenaikan, penurunan, diskon, atau pertumbuhan. Kesalahan paling umum adalah menjumlahkan angka persentase secara langsung tanpa mengubahnya dulu ke bentuk nilai yang benar."
+    },
+    {
+      "bab": "2. Rasio dan Proporsi",
+      "teks": "Rasio membandingkan dua besaran, sedangkan proporsi membantu mencari nilai yang belum diketahui dari perbandingan itu. Peserta perlu terbiasa memecah total menjadi sejumlah bagian agar soal cerita dapat diterjemahkan dengan cepat."
+    },
+    {
+      "bab": "3. Rata-Rata dan Interpretasi Data",
+      "teks": "Rata-rata adalah jumlah seluruh data dibagi banyak data, tetapi dalam UTBK peserta juga harus peka terhadap perubahan rata-rata saat data baru ditambahkan atau dihapus. Pemahaman konsep lebih penting daripada hafalan rumus tunggal."
+    },
+    {
+      "bab": "4. Peluang Dasar",
+      "teks": "Peluang dasar dihitung dari perbandingan kejadian yang diinginkan terhadap seluruh kejadian yang mungkin. Banyak peserta salah karena tidak memeriksa apakah semua kemungkinan memiliki peluang yang sama atau tidak."
+    },
+    {
+      "bab": "5. Aljabar Ringan Yang Sering Dipakai",
+      "teks": "Soal kuantitatif sering memakai bentuk aljabar sederhana seperti selisih kuadrat, persamaan linear, atau substitusi nilai. Keterampilan mengubah kalimat ke model matematika biasanya lebih menentukan daripada kerumitan perhitungannya."
+    },
+    {
+      "bab": "6. Strategi Hemat Waktu",
+      "teks": "Tandai informasi inti, tentukan apa yang ditanya, lalu pilih cara hitung paling pendek yang tetap sahih. Jika ada opsi yang jelas melanggar logika besar hasil perhitungan, lakukan eliminasi lebih dulu sebelum menghitung sampai akhir."
+    }
+  ],
+  "tag": [
+    "utbk",
+    "pengetahuan kuantitatif",
+    "persentase",
+    "rasio",
+    "peluang",
+    "tps"
+  ]
+}

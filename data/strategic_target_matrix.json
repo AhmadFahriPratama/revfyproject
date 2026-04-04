@@ -1,0 +1,33 @@
+{
+  "id": "strategic-target-matrix",
+  "targets": [
+    {
+      "phase": "V4",
+      "target": "personalization foundation"
+    },
+    {
+      "phase": "V5",
+      "target": "production operations"
+    },
+    {
+      "phase": "V6",
+      "target": "analytics readiness"
+    },
+    {
+      "phase": "V7",
+      "target": "bundle packaging"
+    },
+    {
+      "phase": "V8",
+      "target": "localization and accessibility"
+    },
+    {
+      "phase": "V9",
+      "target": "API and integration layer"
+    },
+    {
+      "phase": "V10",
+      "target": "autonomous growth policy"
+    }
+  ]
+}

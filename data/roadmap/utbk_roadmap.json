@@ -1,0 +1,48 @@
+{
+  "id": "roadmap-utbk",
+  "title": "UTBK Roadmap",
+  "category": "UTBK",
+  "badge": "Core Exam",
+  "highlight": "Mulai dari pemahaman subtes, lanjut ke latihan terarah, lalu simulasi penuh.",
+  "stages": [
+    {
+      "step": 1,
+      "title": "Bangun fondasi subtes",
+      "estimatedMinutes": 240,
+      "resources": [
+        "materi/UTBK/utbk_materi_lengkap.json"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Latihan per subtes",
+      "estimatedMinutes": 480,
+      "resources": [
+        "soal/UTBK/utbk_latihan_Penalaran_Umum.json",
+        "soal/UTBK/utbk_latihan_Pemahaman_Bacaan_dan_Menulis.json",
+        "soal/UTBK/utbk_latihan_Pengetahuan_dan_Pemahaman_Umum.json",
+        "soal/UTBK/utbk_latihan_Pengetahuan_Kuantitatif.json",
+        "soal/UTBK/utbk_latihan_Literasi_dalam_Bahasa_Indonesia.json",
+        "soal/UTBK/utbk_latihan_Literasi_dalam_Bahasa_Inggris.json",
+        "soal/UTBK/utbk_latihan_Penalaran_Matematika.json"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Analisis pola FR",
+      "estimatedMinutes": 180,
+      "resources": [
+        "fr_soal/UTBK/utbk2019_rekonstruksi_lintas_subtes.json",
+        "fr_soal/UTBK/utbk2025_rekonstruksi_lintas_subtes.json"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Simulasi tryout",
+      "estimatedMinutes": 195,
+      "resources": [
+        "tryout/UTBK/utbk_tryout_nasional.json"
+      ]
+    }
+  ]
+}

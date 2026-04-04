@@ -1,0 +1,53 @@
+{
+  "judul": "E-Commerce",
+  "tingkatan": "SMK",
+  "jurusan": "Bisnis Digital",
+  "deskripsi": "Materi mengenai perdagangan elektronik, platform marketplace, sistem pembayaran digital, logistik e-commerce, dan strategi jualan online.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar E-Commerce",
+      "konten": "E-Commerce (Electronic Commerce) adalah penyebaran, pembelian, penjualan, dan pemasaran barang/jasa melalui sistem elektronik. Jenis-jenisnya meliputi B2B (Business to Business), B2C (Business to Consumer), C2C (Consumer to Consumer), dan C2B (Consumer to Business).",
+      "tag": [
+        "bisnisdigital ecommerce materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Platform dan Marketplace",
+      "konten": "Mengenal berbagai platform jualan online mulai dari Website Mandiri (Shopify/WooCommerce), Marketplace (Shopee, Tokopedia, Lazada, Amazon), hingga Social Commerce (TikTok Shop, FB Marketplace). Pembahasan mengenai optimasi toko dan manajemen inventaris.",
+      "tag": [
+        "bisnisdigital ecommerce materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Sistem Pembayaran Digital (E-Payment)",
+      "konten": "Mekanisme transaksi online menggunakan Payment Gateway, E-Wallet (OVO, Dana, GoPay), Transfer Bank, Virtual Account, hingga sistem COD (Cash on Delivery). Keamanan transaksi dan perlindungan data konsumen menjadi prioritas utama.",
+      "tag": [
+        "bisnisdigital ecommerce materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Logistik dan Supply Chain E-Commerce",
+      "konten": "Proses pemenuhan pesanan (fulfillment), pergudangan, hingga pengiriman barang menggunakan jasa ekspedisi. Integrasi sistem pelacakan (tracking) dan manajemen retur (pengembalian barang) untuk menjaga kepuasan pelanggan.",
+      "tag": [
+        "bisnisdigital ecommerce materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Strategi Pertumbuhan E-Commerce",
+      "konten": "Pemanfaatan data analitik untuk melihat perilaku pembeli. Strategi promosi seperti Flash Sale, Gratis Ongkir, Cash Back, dan loyalitas member. Pengenalan model bisnis Dropshipping dan Reseller sebagai peluang usaha tanpa modal besar.",
+      "tag": [
+        "bisnisdigital ecommerce materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "bisnisdigital-ecommerce-materi",
+  "mapel": "E-Commerce",
+  "tag": [
+    "bisnisdigital ecommerce materi"
+  ]
+}

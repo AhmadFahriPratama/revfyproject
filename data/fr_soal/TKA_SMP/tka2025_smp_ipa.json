@@ -1,0 +1,54 @@
+{
+  "id": "FR_SMP_IPA_2025",
+  "mapel": "FR TKA SMP IPA",
+  "tingkat": "SMP",
+  "soal": [
+    {
+      "id": "FR_SMP_IPA_01",
+      "pertanyaan": "FR 2025: Muncul soal hitungan tentang konversi suhu dari Celsius ke Fahrenheit. Jika termometer Celsius menunjukkan 40 C, maka Fahrenheit menunjukkan...",
+      "opsi": [
+        "104 F",
+        "40 F",
+        "72 F",
+        "110 F",
+        "313 F"
+      ],
+      "jawaban": "A",
+      "pembahasan": "(9/5 x 40) + 32 = 72 + 32 = 104 F. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"104 F\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    },
+    {
+      "id": "FR_SMP_IPA_02",
+      "pertanyaan": "FR 2025: Soal biologi tentang jaring-jaring makanan. Jika populasi ular menurun drastis, maka kemungkinan yang terjadi pada populasi tikus adalah...",
+      "opsi": [
+        "Menurun",
+        "Meningkat drastis",
+        "Tetap",
+        "Punah",
+        "Bermigrasi"
+      ],
+      "jawaban": "B",
+      "pembahasan": "Ular adalah predator tikus. Tanpa predator, populasi tikus akan meningkat.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    },
+    {
+      "id": "FR_SMP_IPA_03",
+      "pertanyaan": "FR 2025: Soal fisik tentang Tuas (Pesawat Sederhana). Menghitung gaya minimum untuk mengangkat beban. Peserta melaporkan soal gambar tuas jenis pertama dengan beban 500 N.",
+      "opsi": [
+        "Memperpanjang lengan beban",
+        "Memperpendek lengan kuasa",
+        "Memperpanjang lengan kuasa",
+        "Menambah berat beban",
+        "Mengubah warna tuas"
+      ],
+      "jawaban": "C",
+      "pembahasan": "Agar gaya kecil, Lengan Kuasa harus lebih panjang dari Lengan Beban.",
+      "trik": "Fokus pada kata kunci soal.",
+      "tingkat": "sedang"
+    }
+  ],
+  "tahun": 2025,
+  "deskripsi": "Arsip rekonstruksi berdasarkan pola soal pada file tka2025_smp_ipa.json."
+}

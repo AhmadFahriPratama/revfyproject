@@ -1,0 +1,53 @@
+{
+  "judul": "Otomatisasi Tata Kelola Perkantoran",
+  "tingkatan": "SMK",
+  "jurusan": "Manajemen Perkantoran dan Layanan Bisnis",
+  "deskripsi": "Materi mengenai manajemen fasilitas kantor, tata ruang kantor, rapat bisnis, perjalanan dinas, dan pengadaan barang/jasa kantor.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar Tata Kelola Perkantoran",
+      "konten": "Pengertian tata kelola perkantoran (office management). Fokus pada perencanaan, pengorganisasian, pengarahan, dan pengawasan sumber daya kantor agar tujuan organisasi tercapai secara efektif dan efisien.",
+      "tag": [
+        "mplb tatakelola materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Manajemen Fasilitas dan Tata Ruang Kantor",
+      "konten": "Teknik penempatan perabot dan peralatan kantor (layout). Mengenal jenis tata ruang (terbuka, tertutup, berhias/panorama) serta pengaruh lingkungan fisik (cahaya, suara, warna) terhadap produktivitas kerja.",
+      "tag": [
+        "mplb tatakelola materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Manajemen Rapat (Meeting)",
+      "konten": "Prosedur persiapan rapat mulai dari penentuan agenda, undangan, hingga pengaturan tempat. Teknik memandu rapat serta penyusunan Notula (risalah rapat) sebagai dokumen hasil keputusan yang sah.",
+      "tag": [
+        "mplb tatakelola materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Manajemen Perjalanan Dinas",
+      "konten": "Langkah-langkah penanganan perjalanan dinas pimpinan. Mulai dari reservasi transportasi, akomodasi, penyusunan daftar perjalanan (itinerary), hingga pelaporan biaya perjalanan dinas (SPPD).",
+      "tag": [
+        "mplb tatakelola materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pengadaan dan Pemeliharaan Sarana Prasarana",
+      "konten": "Siklus hidup sarana kantor: perencanaan kebutuhan, pengadaan, pendistribusian, pemeliharaan rutin, hingga penghapusan barang yang sudah rusak atau tidak layak pakai (afkir).",
+      "tag": [
+        "mplb tatakelola materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "mplb-tatakelola-materi",
+  "mapel": "Otomatisasi Tata Kelola Perkantoran",
+  "tag": [
+    "mplb tatakelola materi"
+  ]
+}

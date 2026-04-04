@@ -1,0 +1,652 @@
+[
+  {
+    "id": "PR_PS_01",
+    "pertanyaan": "ANALOGI: Mata : Melihat = Telinga : ...",
+    "opsi": [
+      "Mendengar",
+      "Membaca",
+      "Berjalan",
+      "Mencium",
+      "Berbicara"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Hubungan Alat : Fungsi. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Mendengar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_PS_02",
+    "pertanyaan": "ANALOGI: Haus : Air = Lapar : ...",
+    "opsi": [
+      "Tidur",
+      "Makan",
+      "Minum",
+      "Lari",
+      "Haus"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Haus dihilangkan dengan air, lapar dihilangkan dengan makanan."
+  },
+  {
+    "id": "PR_PS_03",
+    "pertanyaan": "DERET ANGKA: 1, 4, 9, 16, 25, ...",
+    "opsi": [
+      "30",
+      "35",
+      "36",
+      "40",
+      "49"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Deret bilangan kuadrat (1^2, 2^2, 3^2, 4^2, 5^2, selanjutnya 6^2 = 36)."
+  },
+  {
+    "id": "PR_PS_04",
+    "pertanyaan": "DERET ANGKA: 3, 6, 12, 24, 48, ...",
+    "opsi": [
+      "70",
+      "80",
+      "100",
+      "96",
+      "120"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pola dikali 2 (x2). Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"96\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_PS_05",
+    "pertanyaan": "SINONIM: Iterasi = ...",
+    "opsi": [
+      "Penghapusan",
+      "Perencanaan",
+      "Pelaksanaan",
+      "Penilaian",
+      "Pengulangan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Iterasi berarti perulangan proses. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Pengulangan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_PS_06",
+    "pertanyaan": "ANTONIM: Konveks = ...",
+    "opsi": [
+      "Cekung (Konkaf)",
+      "Cembung",
+      "Bulat",
+      "Lurus",
+      "Lonjong"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Konveks adalah cembung, lawannya adalah konkaf (cekung)."
+  },
+  {
+    "id": "PR_PS_07",
+    "pertanyaan": "Jika p > q dan r < q, maka kesimpulan yang benar adalah...",
+    "opsi": [
+      "p < r",
+      "p > r",
+      "p = r",
+      "q > p",
+      "r > p"
+    ],
+    "jawaban": 1,
+    "pembahasan": "p > q > r, jadi p > r. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"p > r\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_PS_08",
+    "pertanyaan": "Tes Kraepelin atau Tes Koran biasanya meminta peserta untuk menjumlahkan dua angka berdekatan. Apa yang dinilai dari tes ini?",
+    "opsi": [
+      "IQ",
+      "Gelar akademik",
+      "Ketahanan kerja, kecepatan, ketelitian, dan stabilitas emosi",
+      "Kemampuan bahasa",
+      "Bakat menyanyi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tes ini mengukur konsistensi performa kerja dalam tekanan waktu."
+  },
+  {
+    "id": "PR_PS_09",
+    "pertanyaan": "Dalam tes gambar Wartegg, Anda diminta menyelesaikan 8 kotak gambar. Mengapa sebaiknya menggambar objek yang berbeda-beda?",
+    "opsi": [
+      "Agar terlihat berwarna",
+      "Supaya gambar cepat selesai",
+      "Mengikuti instruksi teman",
+      "Menunjukkan fleksibilitas, kreativitas, dan keragaman cara berpikir",
+      "Karena kotak gambarnya kecil"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Variasi gambar mencerminkan adaptabilitas yang baik."
+  },
+  {
+    "id": "PR_PS_10",
+    "pertanyaan": "Interpretasi Data: Sebuah perusahaan memiliki 100 karyawan. 60% adalah pria. Berapa jumlah karyawan wanita?",
+    "opsi": [
+      "20",
+      "30",
+      "50",
+      "60",
+      "40"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Wanita = 100% - 60% = 40%. Jumlah = 40% x 100 = 40 orang."
+  },
+  {
+    "id": "PR_PS_11",
+    "pertanyaan": "Logika Figural: Jika gambar A menjadi B, maka gambar C menjadi...",
+    "opsi": [
+      "Gambar dengan pola perubahan yang sama dengan A ke B",
+      "Gambar yang diputar 90 derajat",
+      "Gambar yang dicerminkan",
+      "Gambar kosong",
+      "Gambar berwarna merah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Analogi figural mencari pola perubahan yang identik antar pasangan gambar."
+  },
+  {
+    "id": "PR_PS_12",
+    "pertanyaan": "Sebuah mobil menempuh 120 km dengan 10 liter bensin. Berapa liter bensin untuk 360 km?",
+    "opsi": [
+      "20 liter",
+      "30 liter",
+      "25 liter",
+      "35 liter",
+      "40 liter"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Perbandingan senilai: (10/120) = x/360. x = (10 * 360) / 120 = 30 liter."
+  },
+  {
+    "id": "PR_PS_13",
+    "pertanyaan": "Seorang pedagang membeli barang seharga Rp 50.000 dan menjualnya Rp 60.000. Berapa persen keuntungannya?",
+    "opsi": [
+      "10%",
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Untung = 10.000. Persen = (10.000 / 50.000) * 100% = 20%."
+  },
+  {
+    "id": "PR_PS_14",
+    "pertanyaan": "Semua kucing adalah hewan. Sebagian kucing berwarna putih. Kesimpulannya...",
+    "opsi": [
+      "Semua hewan berwarna putih",
+      "Tidak ada hewan berwarna putih",
+      "Kucing bukan hewan",
+      "Sebagian hewan berwarna putih",
+      "Putih adalah hewan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Karena sebagian kucing berwarna putih, dan semua kucing adalah hewan, maka sebagian hewan (yaitu kucing-kucing tersebut) berwarna putih."
+  },
+  {
+    "id": "PR_PS_15",
+    "pertanyaan": "Jika hari ini Senin, maka 100 hari lagi adalah hari...",
+    "opsi": [
+      "Selasa",
+      "Kamis",
+      "Jumat",
+      "Sabtu",
+      "Rabu"
+    ],
+    "jawaban": 4,
+    "pembahasan": "100 mod 7 = 2 (sisa 2). Senin + 2 hari = Rabu."
+  },
+  {
+    "id": "PR_PS_16",
+    "pertanyaan": "Klasifikasi Kata: Manakah yang tidak termasuk kelompoknya?",
+    "opsi": [
+      "Apel",
+      "Meja",
+      "Kursi",
+      "Lemari",
+      "Ranjang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Apel adalah buah, sisanya adalah furnitur."
+  },
+  {
+    "id": "PR_PS_17",
+    "pertanyaan": "Manakah angka yang paling besar?",
+    "opsi": [
+      "2/3",
+      "5/6",
+      "3/4",
+      "4/5",
+      "1/2"
+    ],
+    "jawaban": 1,
+    "pembahasan": "5/6 (0,833) lebih besar dari 4/5 (0,8), 3/4 (0,75), 2/3 (0,66), dan 1/2 (0,5)."
+  },
+  {
+    "id": "PR_PS_18",
+    "pertanyaan": "Sebuah jam dinding menunjukkan pukul 03.00. Berapa derajat sudut yang dibentuk?",
+    "opsi": [
+      "30 derajat",
+      "60 derajat",
+      "90 derajat",
+      "120 derajat",
+      "180 derajat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tiap jam = 30 derajat. 3 x 30 = 90 derajat."
+  },
+  {
+    "id": "PR_PS_19",
+    "pertanyaan": "Tes spasial mencari gambar yang sama bila diputar (rotasi). Hal ini menilai...",
+    "opsi": [
+      "Ketajaman mata",
+      "Kecepatan mengetik",
+      "Kerapihan tulisan",
+      "Kemampuan visualisasi 3D",
+      "Daya ingat nama"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penting bagi profesi arsitek, desainer, atau teknik."
+  },
+  {
+    "id": "PR_PS_20",
+    "pertanyaan": "Apa itu Tes DISC dalam psikotes kerja?",
+    "opsi": [
+      "Tes memecahkan cakram",
+      "Tes ketangkasan fisik",
+      "Tes buta warna",
+      "Tes bahasa Inggris",
+      "Tes karakter (Dominance, Influence, Steadiness, Compliance)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "DISC memetakan profil perilaku seseorang di lingkungan kerja."
+  },
+  {
+    "id": "PR_PS_21",
+    "pertanyaan": "Logika Matematika: Jika 2x + 5 = 15, berapakah x?",
+    "opsi": [
+      "5",
+      "3",
+      "4",
+      "6",
+      "10"
+    ],
+    "jawaban": 0,
+    "pembahasan": "2x = 10, maka x = 5. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_PS_22",
+    "pertanyaan": "Sinonim dari 'PROGRESIF' adalah...",
+    "opsi": [
+      "Mundur",
+      "Maju",
+      "Diam",
+      "Lambat",
+      "Rusak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Progresif berarti menuju kearah kemajuan."
+  },
+  {
+    "id": "PR_PS_23",
+    "pertanyaan": "Antonim dari 'OPTIMIS' adalah...",
+    "opsi": [
+      "Semangat",
+      "Yakin",
+      "Pesimis",
+      "Senang",
+      "Berani"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Optimis yakin akan hal baik, Pesimis yakin akan hal buruk."
+  },
+  {
+    "id": "PR_PS_24",
+    "pertanyaan": "Sepeda : Roda = Manusia : ...",
+    "opsi": [
+      "Tangan",
+      "Kepala",
+      "Mata",
+      "Kaki",
+      "Baju"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sepeda berjalan dengan roda, manusia berjalan dengan kaki."
+  },
+  {
+    "id": "PR_PS_25",
+    "pertanyaan": "Jika Anda di kantor melihat teman mencuri barang kantor, apa yang Anda lakukan?",
+    "opsi": [
+      "Ikut mencuri",
+      "Diam saja karena bukan urusan saya",
+      "Meminta bagian",
+      "Melaporkannya di status WA saja",
+      "Menegurnya dan melaporkan sesuai prosedur perusahaan (Aspek Integritas)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Integritas adalah nilai mutlak dalam dunia kerja profesional."
+  },
+  {
+    "id": "PR_PS_26",
+    "pertanyaan": "Angka selanjutnya dari 2, 6, 18, 54, ...",
+    "opsi": [
+      "162",
+      "108",
+      "150",
+      "200",
+      "254"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pola dikali 3 (x3). Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"162\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_PS_27",
+    "pertanyaan": "Interpretasi Data: Keuntungan Januari 10 juta, Februari 15 juta, Maret 20 juta. Rata-rata keuntungan per bulan adalah...",
+    "opsi": [
+      "10 juta",
+      "15 juta",
+      "12,5 juta",
+      "17,5 juta",
+      "20 juta"
+    ],
+    "jawaban": 1,
+    "pembahasan": "(10 + 15 + 20) / 3 = 45 / 3 = 15 juta. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"15 juta\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_PS_28",
+    "pertanyaan": "Manakah yang bukan merupakan tes kepribadian?",
+    "opsi": [
+      "EPPS",
+      "MBTI",
+      "Matematika Dasar",
+      "Kraepelin",
+      "Wartegg"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Matematika dasar mengukur IQ/Aptitude, bukan kepribadian."
+  },
+  {
+    "id": "PR_PS_29",
+    "pertanyaan": "Jika sebuah proyek dikerjakan 5 orang selesai dalam 10 hari, berapa lama jika dikerjakan 10 orang?",
+    "opsi": [
+      "20 hari",
+      "2 hari",
+      "15 hari",
+      "5 hari",
+      "1 hari"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Perbandingan berbalik nilai: (5 * 10) / 10 = 5 hari."
+  },
+  {
+    "id": "PR_PS_30",
+    "pertanyaan": "Apa kepanjangan dari IQ?",
+    "opsi": [
+      "Inovative Question",
+      "Interesting Quality",
+      "Internal Quantity",
+      "International Quartet",
+      "Intelligence Quotient"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ukuran kecerdasan intelegensia seseorang."
+  },
+  {
+    "id": "PR_PS_31",
+    "pertanyaan": "ANALOGI: Kompor : Api = Kipas : ...",
+    "opsi": [
+      "Angin",
+      "Listrik",
+      "Panas",
+      "Dingin",
+      "Putar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kompor menghasilkan api, kipas menghasilkan angin."
+  },
+  {
+    "id": "PR_PS_32",
+    "pertanyaan": "Sebuah toko diskon 50% + 20%. Harga barang Rp 100.000. Berapa harga akhirnya?",
+    "opsi": [
+      "Rp 30.000",
+      "Rp 40.000",
+      "Rp 50.000",
+      "Rp 70.000",
+      "Rp 80.000"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Lapis 1: 100rb - 50% = 50rb. Lapis 2: 50rb - 20% (10rb) = 40rb."
+  },
+  {
+    "id": "PR_PS_33",
+    "pertanyaan": "Pilihlah kata yang memiliki arti paling dekat dengan 'EVAPORASI'",
+    "opsi": [
+      "Pengembunan",
+      "Pembekuan",
+      "Penguapan",
+      "Pencairan",
+      "Penyubliman"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Evaporasi adalah proses perubahan air menjadi uap."
+  },
+  {
+    "id": "PR_PS_34",
+    "pertanyaan": "Antonim dari 'STATIS' adalah...",
+    "opsi": [
+      "Diam",
+      "Tetap",
+      "Pasif",
+      "Dinamis (Bergerak)",
+      "Macet"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Statis berarti tidak berubah/diam. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Dinamis (Bergerak)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_PS_35",
+    "pertanyaan": "Serangga : Kaki enam = Manusia : ...",
+    "opsi": [
+      "Tangan lima",
+      "Jari sepuluh",
+      "Mata satu",
+      "Telinga tiga",
+      "Kaki dua"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Analogi ciri khas anggota tubuh. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kaki dua\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_PS_36",
+    "pertanyaan": "Tes analogi gambar sering digunakan untuk mengukur...",
+    "opsi": [
+      "Kemampuan berpikir logis non-verbal",
+      "Daya ingat",
+      "Kesehatan mata",
+      "Bakat melukis",
+      "Pengetahuan umum"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mengukur seberapa cepat otak menangkap pola perubahan gambar."
+  },
+  {
+    "id": "PR_PS_37",
+    "pertanyaan": "Angka yang hilang dari deret: 100, 95, 85, 70, ...",
+    "opsi": [
+      "65",
+      "50",
+      "60",
+      "55",
+      "45"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pola: -5, -10, -15, selanjutnya -20 (70-20 = 50)."
+  },
+  {
+    "id": "PR_PS_38",
+    "pertanyaan": "Jika X = 4 dan Y = 3, berapakah akar dari (X^2 + Y^2)?",
+    "opsi": [
+      "7",
+      "12",
+      "5",
+      "25",
+      "49"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Akar dari (16 + 9) = akar 25 = 5 (Tripel Phytagoras)."
+  },
+  {
+    "id": "PR_PS_39",
+    "pertanyaan": "Interpretasi Data: Jika total penjualan produk A adalah 100 unit dan produk B adalah 150 unit, berapa rasio perbandingan A : B?",
+    "opsi": [
+      "1 : 2",
+      "3 : 4",
+      "1 : 1",
+      "2 : 3",
+      "5 : 6"
+    ],
+    "jawaban": 3,
+    "pembahasan": "100 / 50 = 2; 150 / 50 = 3. Jadi 2 : 3. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2 : 3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_PS_40",
+    "pertanyaan": "Manakah yang merupakan tes untuk mengukur bakat kepemimpinan?",
+    "opsi": [
+      "Tes IQ",
+      "Tes Buta Warna",
+      "Tes Pemeriksaan Kesehatan",
+      "Tes Ketangkasan",
+      "LGD (Leaderless Group Discussion)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "LGD mengobservasi bagaimana seseorang berinteraksi dan memimpin diskusi kelompok tanpa ditunjuk."
+  },
+  {
+    "id": "PR_PS_41",
+    "pertanyaan": "ANALOGI: Hutan : Pohon = Kereta : ...",
+    "opsi": [
+      "Gerbong",
+      "Masinis",
+      "Stasiun",
+      "Rel",
+      "Tiket"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Hutan terdiri dari pohon-pohon, kereta terdiri dari gerbong-gerbong."
+  },
+  {
+    "id": "PR_PS_42",
+    "pertanyaan": "Jika 15 pekerja dapat memanen padi dalam 8 jam, berapa pekerja yang dibutuhkan agar selesai dalam 4 jam?",
+    "opsi": [
+      "20",
+      "30",
+      "25",
+      "35",
+      "40"
+    ],
+    "jawaban": 1,
+    "pembahasan": "(15 * 8) / 4 = 120 / 4 = 30 pekerja. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"30\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_PS_43",
+    "pertanyaan": "Apa itu Tes Pauli?",
+    "opsi": [
+      "Tes vokal",
+      "Tes lari",
+      "Tes penambahan angka secara terus menerus ke bawah pada kertas seukuran koran",
+      "Tes menggambar pohon",
+      "Tes wawancara"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mirip Kraepelin namun pengerjaannya ke arah bawah dan lembarannya lebih besar."
+  },
+  {
+    "id": "PR_PS_44",
+    "pertanyaan": "Saat pengerjaan Tes Pauli, grafik yang mendatar menunjukkan...",
+    "opsi": [
+      "Saraf terganggu",
+      "Peserta sedang bosan",
+      "Peserta mengantuk",
+      "Konsistensi kerja yang stabil",
+      "Tidak ada artinya"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Grafik ideal adalah sedikit menanjak dan stabil."
+  },
+  {
+    "id": "PR_PS_45",
+    "pertanyaan": "Kertas : Tulis = Tanah : ...",
+    "opsi": [
+      "Cangkul",
+      "Kotor",
+      "Batu",
+      "Pasir",
+      "Tanam"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kertas media untuk tulis, tanah media untuk tanam."
+  },
+  {
+    "id": "PR_PS_46",
+    "pertanyaan": "Jika hari ini adalah lusa dari hari Kamis, maka hari ini adalah...",
+    "opsi": [
+      "Sabtu",
+      "Jumat",
+      "Minggu",
+      "Senin",
+      "Selasa"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kamis + 2 hari = Sabtu. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sabtu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "PR_PS_47",
+    "pertanyaan": "Manakah angka berikut yang habis dibagi 3?",
+    "opsi": [
+      "121",
+      "456",
+      "782",
+      "991",
+      "104"
+    ],
+    "jawaban": 1,
+    "pembahasan": "4+5+6 = 15; 15 habis dibagi 3. Jadi 456 habis dibagi 3."
+  },
+  {
+    "id": "PR_PS_48",
+    "pertanyaan": "Bagian psikotes yang menanyakan 'Pernahkah Anda berbohong?' bertujuan mengukur...",
+    "opsi": [
+      "Kejahatan Anda",
+      "Daya ingat",
+      "Skala kejujuran (Lie Scale) / Konsistensi jawaban",
+      "Kemampuan imajinasi",
+      "Kebodohan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Orang yang mengaku tidak pernah berbohong sama sekali justru dianggap tidak jujur dalam tes."
+  },
+  {
+    "id": "PR_PS_49",
+    "pertanyaan": "Dalam Tes Menggambar Orang (DAP), apa yang sebaiknya digambar?",
+    "opsi": [
+      "Orang yang sedang tidur",
+      "Hanya sketsa kasar saja",
+      "Orang kartun",
+      "Orang yang sedang melakukan aktivitas kerja atau hobi yang produktif",
+      "Orang dari belakang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Aktivitas menunjukkan energi dan kesiapan untuk bekerja."
+  },
+  {
+    "id": "PR_PS_50",
+    "pertanyaan": "Latihan Psikotes secara rutin di RevStudy dapat membantu Anda...",
+    "opsi": [
+      "Menjadi ninja",
+      "Bosan cepat",
+      "Menghindari interview",
+      "Dapat uang kaget",
+      "Membiasakan otak dengan pola soal, mengurangi kecemasan, dan meningkatkan kecepatan pengerjaan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Fasilitas RevStudy sangat membantu kesiapan karir masa depan Anda."
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "judul": "Arsitektur dan Perencanaan (Lanjut)",
+  "tingkatan": "KULIAH",
+  "jurusan": "STEM / Arsitektur",
+  "deskripsi": "Materi tingkat universitas mengenai teori arsitektur, estetika bentuk, desain berkelanjutan (sustainable design), struktur dan konstruksi bangunan gedung bertingkat, serta perencanaan kota.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Teori dan Sejarah Arsitektur Dunia",
+      "konten": "Perkembangan langgam arsitektur dari Klasik, Gotik, Renaisans, Modernisme (Bauhaus), Post-Modern hingga Kontemporer. Tokoh-tokoh arsitek dunia dan pemikirannya (Le Corbusier, Frank Lloyd Wright, Zaha Hadid).",
+      "tag": [
+        "kuliah arsitektur materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Estetika dan Komposisi Arsitektur",
+      "konten": "Prinsip desain: Keseimbangan (Balance), Irama (Rhythm), Kesatuan (Unity), Titik Tekan (Emphasis), serta Proposi. Eksplorasi ruang, massa, dan bidang dalam desain 3D.",
+      "tag": [
+        "kuliah arsitektur materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Arsitektur Berkelanjutan dan Ekologi",
+      "konten": "Konsep Green Building, efisiensi energi, pencahayaan dan penghawaan alami (Passice Design). Penggunaan material lokal dan pengelolaan limbah bangunan (LCA).",
+      "tag": [
+        "kuliah arsitektur materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Struktur dan Utilitas Bangunan Gedung",
+      "konten": "Sistem struktur bentang lebar dan gedung tinggi (High-rise). Utilitas bangunan: Sistem plumbing, HVAC (Pendinginan), Elektrikal, serta pencegahan kebakaran (Fire Protection).",
+      "tag": [
+        "kuliah arsitektur materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Dasar Perencanaan Wilayah dan Kota (PWK)",
+      "konten": "Konsep tata guna lahan (Land Use), infrastruktur kota, ruang terbuka hijau, serta isu urbanisasi dan pemukiman (Slum area) di kota besar.",
+      "tag": [
+        "kuliah arsitektur materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-arsitektur-materi",
+  "mapel": "Arsitektur dan Perencanaan (Lanjut)",
+  "tag": [
+    "kuliah arsitektur materi"
+  ]
+}

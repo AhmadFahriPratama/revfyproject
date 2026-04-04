@@ -1,0 +1,53 @@
+{
+  "judul": "Usaha Layanan Wisata (ULW)",
+  "tingkatan": "SMK",
+  "jurusan": "Usaha Layanan Pariwisata",
+  "deskripsi": "Materi mengenai perencanaan perjalanan wisata, pemesanan tiket (ticketing), pengelolaan biro perjalanan, serta pemanduan wisata (guiding).",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Industri Perjalanan Wisata",
+      "konten": "Pengenalan Biper (Biro Perjalanan Wisata) dan APW (Agen Perjalanan Wisata). Perbedaan fungsi keduanya serta peran maskapai, hotel, dan objek wisata dalam rantai pasok pariwisata.",
+      "tag": [
+        "par ulw materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Perencanaan dan Penyusunan Paket Wisata",
+      "konten": "Langkah-langkah menyusun itinerary (daftar perjalanan), menghitung biaya paket wisata (tour costing), penentuan harga jual (selling price), serta teknik negosiasi dengan vendor (hotel/restoran/transport).",
+      "tag": [
+        "par ulw materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Reservasi dan Ticketing Dasar",
+      "konten": "Proses pemesanan tiket transportasi (pesawat, kereta api) dan akomodasi. Pengenalan kode kota (City Code), kode maskapai (Airline Code), serta penggunaan sistem reservasi komputer (GDS).",
+      "tag": [
+        "par ulw materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Teknik Pemanduan Wisata (Guiding)",
+      "konten": "Tugas dan fungsi pramuwisata (Tour Guide). Teknik berbicara di depan umum, penguasaan materi objek wisata, penanganan keluhan wisatawan, serta etika dan penampilan pramuwisata profesional.",
+      "tag": [
+        "par ulw materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pengelolaan Dokumen Perjalanan",
+      "konten": "Prosedur pengurusan dokumen internasional seperti Paspor, Visa, serta asuransi perjalanan. Pemahaman mengenai aturan imigrasi dan bea cukai di berbagai negara tujuan wisata.",
+      "tag": [
+        "par ulw materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "par-ulw-materi",
+  "mapel": "Usaha Layanan Wisata (ULW)",
+  "tag": [
+    "par ulw materi"
+  ]
+}

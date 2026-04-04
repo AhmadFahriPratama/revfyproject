@@ -1,0 +1,53 @@
+{
+  "judul": "Sertifikasi Akuntansi dan Audit (CA/CPA)",
+  "tingkatan": "KULIAH",
+  "jurusan": "Karir / Profesional",
+  "deskripsi": "Materi persiapan sertifikasi profesi akuntan meliputi standar akuntansi keuangan (IFRS/SAK), pengauditan lanjut, etika profesi, serta hukum bisnis.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pelaporan Keuangan dan IFRS/SAK",
+      "konten": "Kerangka konseptual pelaporan keuangan, standar pengakuan dan pengukuran aset, liabilitas, serta pendapatan berdasarkan PSAK terbaru yang berbasis IFRS.",
+      "tag": [
+        "kuliah akuntansi sertifikasi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Audit dan Jasa Asurans",
+      "konten": "Standar Profesional Akuntan Publik (SPAP), perencanaan audit berbasis risiko, pengumpulan bukti audit, pengujian pengendalian, serta pemberian opini audit.",
+      "tag": [
+        "kuliah akuntansi sertifikasi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Akuntansi Manajemen dan Keuangan",
+      "konten": "Analisis biaya produk dan jasa, penganggaran modal, manajemen kinerja (Balanced Scorecard), serta evaluasi investasi dan manajemen risiko keuangan.",
+      "tag": [
+        "kuliah akuntansi sertifikasi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Etika Profesi dan Tata Kelola (GCG)",
+      "konten": "Kode etik profesi akuntan (integritas, objektivitas, kompetensi), prinsip GCG (Transparency, Accountability, Responsibility, Independency, Fairness).",
+      "tag": [
+        "kuliah akuntansi sertifikasi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Hukum Bisnis dan Perpajakan",
+      "konten": "Aspek hukum dalam pendirian usaha, kepailitan, kontrak bisnis, serta peraturan perpajakan PPh dan PPN bagi entitas usaha di Indonesia.",
+      "tag": [
+        "kuliah akuntansi sertifikasi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-akuntansi-sertifikasi-materi",
+  "mapel": "Sertifikasi Akuntansi dan Audit (CA/CPA)",
+  "tag": [
+    "kuliah akuntansi sertifikasi materi"
+  ]
+}

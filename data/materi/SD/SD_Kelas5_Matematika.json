@@ -1,0 +1,30 @@
+{
+  "id": "materi-sd-kls5-mat",
+  "tingkat": "SD Kelas 5",
+  "mapel": "Matematika",
+  "materi": "Bilangan Cacah Besar, Operasi Pecahan, Skala & Debit, serta Kubus & Balok",
+  "deskripsi": "Materi Matematika Kelas 5 yang berfokus pada operasi bilangan cacah hingga 100.000, penjumlahan dan pengurangan pecahan beda penyebut, konsep perbandingan (skala, kecepatan, debit), serta pengenalan bangun ruang kubus dan balok (volume).",
+  "konten": [
+    {
+      "bab": "1. Bilangan Cacah hingga 100.000",
+      "teks": "Membaca dan menulis bilangan cacah besar. Melakukan operasi hitung campuran (penjumlahan, pengurangan, perkalian, pembagian) yang melibatkan tanda kurung."
+    },
+    {
+      "bab": "2. Penjumlahan dan Pengurangan Pecahan",
+      "teks": "Melakukan penjumlahan dan pengurangan pecahan biasa dan campuran dengan penyebut yang berbeda dengan cara menyamakan penyebut menggunakan KPK."
+    },
+    {
+      "bab": "3. Perkalian dan Pembagian Pecahan",
+      "teks": "Memahami konsep perkalian pecahan dengan bilangan bulat maupun sesama pecahan. Menyelesaikan soal pembagian pecahan biasa maupun pecahan desimal."
+    },
+    {
+      "bab": "4. Kecepatan, Debit, dan Skala",
+      "teks": "Menghitung jarak, waktu, dan kecepatan. Memahami dan menghitung debit aliran air (Volume/Waktu). Menggunakan skala pada denah atau peta untuk mencari jarak sebenarnya."
+    },
+    {
+      "bab": "5. Volume Kubus dan Balok",
+      "teks": "Menjelaskan dan menentukan volume bangun ruang berbentuk kubus (s x s x s) dan balok (p x l x t) serta hubungannya dengan pangkat tiga dan akar pangkat tiga."
+    }
+  ],
+  "tag": ["sd-5", "matematika", "pecahan", "skala-debit", "geometri-ruang"]
+}

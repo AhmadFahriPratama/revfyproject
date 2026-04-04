@@ -1,0 +1,708 @@
+{
+  "id": "smp-7-pjok",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "PJOK",
+  "tipe": "Latihan Soal",
+  "soal": [
+    {
+      "id": "smp-7-pjok-01",
+      "teks": "Dalam sepak bola, teknik mengoper bola jarak dekat paling akurat biasanya dilakukan dengan menggunakan kaki bagian... (Latihan #1)",
+      "opsi": {
+        "A": "Dalam",
+        "B": "Luar",
+        "C": "Punggung kaki",
+        "D": "Tumit",
+        "E": "Ujung jari (toe)"
+      },
+      "kunci": "A",
+      "pembahasan": "Operan jarak pendek (short pass) umumnya memakai kaki bagian dalam karena permukaannya lebih lebar, membuat arah bola lebih presisi dan mudah dikontrol.",
+      "trik": "Jarak dekat butuh ketepatan (akurasi) -> pakai kaki bagian dalam."
+    },
+    {
+      "id": "smp-7-pjok-02",
+      "teks": "Jump ball dalam permainan bola basket berfungsi untuk... (Latihan #2)",
+      "opsi": {
+        "A": "Mengakhiri pertandingan",
+        "B": "Memulai pertandingan dan jika bola diperebutkan (held ball)",
+        "C": "Hukuman pelanggaran (foul)",
+        "D": "Meminta time-out",
+        "E": "Mengatur pergantian pemain"
+      },
+      "kunci": "B",
+      "pembahasan": "Jump ball dilakukan wasit melempar bola di lingkaran tengah antara 2 pemain berlawanan, dilakukan untuk memulai game atau situasi bola tersendat.",
+      "trik": "Jump = Lompat untuk merebut lemparan wasit (Tip-off)."
+    },
+    {
+      "id": "smp-7-pjok-03",
+      "teks": "Berikut yang BUKAN teknik dasar permainan bola voli adalah... (Latihan #3)",
+      "opsi": {
+        "A": "Passing bawah",
+        "B": "Smash (Spike)",
+        "C": "Dribbling",
+        "D": "Blocking/Bendungan",
+        "E": "Servis"
+      },
+      "kunci": "C",
+      "pembahasan": "Dribbling (menggiring bola) adalah teknik bola basket atau sepak bola, bukan bola voli. Voli hanya dipukul/dipantulkan tidak digiring.",
+      "trik": "Voli tidak memantulkan bola ke lantai berulang kali."
+    },
+    {
+      "id": "smp-7-pjok-04",
+      "teks": "Salah satu nomor lari sprint dalam atletik meliputi... (Latihan #4)",
+      "opsi": {
+        "A": "Lari 1500 meter",
+        "B": "Lari 3000 meter jarak jauh",
+        "C": "Lari Maraton",
+        "D": "Lari 100 meter",
+        "E": "Lari lintas alam"
+      },
+      "kunci": "D",
+      "pembahasan": "Sprint (lari cepat) dilakukan padak jarak pendek (contoh 100 m, 200 m, 400 m). Jarak lainnya tergolong lari menengah/jauh.",
+      "trik": "Sprint = Cepat dan jaraknya pendek."
+    },
+    {
+      "id": "smp-7-pjok-05",
+      "teks": "Gaya pada renang yang posisi wajahnya selalu menghadap permukaan air dan bentuknya meniru hewan darat melompat ke air adalah gaya... (Latihan #5)",
+      "opsi": {
+        "A": "Bebas",
+        "B": "Punggung",
+        "C": "Kupu-kupu/Lumba-lumba",
+        "D": "Anjing",
+        "E": "Dada / Katak"
+      },
+      "kunci": "E",
+      "pembahasan": "Renang gaya dada dikenal masyarakat luas sebagai gaya katak, gerakannya stabil wajah ada di atas permukaan saat ambil nafas berulang.",
+      "trik": "Gaya santai/pemula dgn pergerakan kaki tangan mirip katak = Dada."
+    },
+    {
+      "id": "smp-7-pjok-06",
+      "teks": "Saat melakukan rol depan (guling depan), bagian tubuh yang pertama kali menyentuh matras setelah dua telapak tangan adalah... (Latihan #6)",
+      "opsi": {
+        "A": "Punggung / Tengkuk leher",
+        "B": "Ubun-ubun / Kepala bagian atas",
+        "C": "Pinggang",
+        "D": "Tulang ekor",
+        "E": "Bahu sebelah kanan"
+      },
+      "kunci": "A",
+      "pembahasan": "Setelah tangan, dagu ditempelkan ke dada, lalu kepala ditekuk ke dalam sehingga yang kena matras duluan (penopang badan) adalah tengkuk/belakang leher, bukan ubun-ubun.",
+      "trik": "Jangan bagian puncak kepala, pakai tengkuk/belakang leher agar tidak cedera."
+    },
+    {
+      "id": "smp-7-pjok-07",
+      "teks": "Zat gizi yang memiliki fungsi utama sebagai zat pembangun sel-sel tubuh dan pemulihan (pembaharuan sel) adalah... (Latihan #7)",
+      "opsi": {
+        "A": "Karbohidrat",
+        "B": "Protein",
+        "C": "Vitamin",
+        "D": "Mineral",
+        "E": "Lemak"
+      },
+      "kunci": "B",
+      "pembahasan": "Protein (hewani/nabati) berperan penting membentuk otot, memperbaiki jaringan yang rusak, tulang, dan darah.",
+      "trik": "Pembangun sel = Protein."
+    },
+    {
+      "id": "smp-7-pjok-08",
+      "teks": "Zat gizi sumber tenaga atau energi utama sehari-hari diperoleh dari makanan bergizi golongan... (Latihan #8)",
+      "opsi": {
+        "A": "Zat Besi",
+        "B": "Vitamin C",
+        "C": "Karbohidrat",
+        "D": "Kalsium",
+        "E": "Air"
+      },
+      "kunci": "C",
+      "pembahasan": "Energi tubuh dibakar paling mudah melalui makanan karbohidrat seperti gandum, beras, singkong, roti.",
+      "trik": "Tenaga utama buat gerak = Nasi/Karbohidrat."
+    },
+    {
+      "id": "smp-7-pjok-09",
+      "teks": "Dalam permainan kasti, anggota regu pemukul akan mendapatkan angka jika... (Latihan #9)",
+      "opsi": {
+        "A": "Bola tertangkap pihak penjaga",
+        "B": "Pukulan mengenai kepala wasit",
+        "C": "Menangkap bola secara langsung 3 kali berturut-turut",
+        "D": "Berhasil kembali ke ruang bebas / rumah setelah memukul dan berlari tanpa terkena lemparan bola mati",
+        "E": "Menyentuh base saja (walau tidak kembali)"
+      },
+      "kunci": "D",
+      "pembahasan": "Tujuan pemain pemukul adalah selamat berlari mencapat tiang hinggap (bases) hingga balik pulang/home.",
+      "trik": "Run/poin kasti didapat dari selamat kembali ke pos awal/rumah bebas."
+    },
+    {
+      "id": "smp-7-pjok-10",
+      "teks": "Gerak ritmik atau senam irama dalam PJOK memberikan manfaat paling besar bagi tubuh dalam hal... (Latihan #10)",
+      "opsi": {
+        "A": "Memperbesar massa otot tangan",
+        "B": "Kecepatan berlari jarak dekat",
+        "C": "Teknik bertahan bela diri",
+        "D": "Melempar bola sejauh mungkin",
+        "E": "Kelenturan (fleksibilitas) keluwesan sendi"
+      },
+      "kunci": "E",
+      "pembahasan": "Senam ritmik mengutamakan keselarasan, kelembutan, dan irama yang butuh kelenturan serta pelemasan tubuh, bukan otot kasar",
+      "trik": "Irama/Musik/Tari lekat erat korelasinya dng kelentukan/keluwesan tangan dan pinggang."
+    },
+    {
+      "id": "smp-7-pjok-11",
+      "teks": "Dalam sepak bola, teknik mengoper bola jarak dekat paling akurat biasanya dilakukan dengan menggunakan kaki bagian... (Latihan #11)",
+      "opsi": {
+        "A": "Dalam",
+        "B": "Luar",
+        "C": "Punggung kaki",
+        "D": "Tumit",
+        "E": "Ujung jari (toe)"
+      },
+      "kunci": "A",
+      "pembahasan": "Operan jarak pendek (short pass) umumnya memakai kaki bagian dalam karena permukaannya lebih lebar, membuat arah bola lebih presisi dan mudah dikontrol.",
+      "trik": "Jarak dekat butuh ketepatan (akurasi) -> pakai kaki bagian dalam."
+    },
+    {
+      "id": "smp-7-pjok-12",
+      "teks": "Jump ball dalam permainan bola basket berfungsi untuk... (Latihan #12)",
+      "opsi": {
+        "A": "Mengakhiri pertandingan",
+        "B": "Memulai pertandingan dan jika bola diperebutkan (held ball)",
+        "C": "Hukuman pelanggaran (foul)",
+        "D": "Meminta time-out",
+        "E": "Mengatur pergantian pemain"
+      },
+      "kunci": "B",
+      "pembahasan": "Jump ball dilakukan wasit melempar bola di lingkaran tengah antara 2 pemain berlawanan, dilakukan untuk memulai game atau situasi bola tersendat.",
+      "trik": "Jump = Lompat untuk merebut lemparan wasit (Tip-off)."
+    },
+    {
+      "id": "smp-7-pjok-13",
+      "teks": "Berikut yang BUKAN teknik dasar permainan bola voli adalah... (Latihan #13)",
+      "opsi": {
+        "A": "Passing bawah",
+        "B": "Smash (Spike)",
+        "C": "Dribbling",
+        "D": "Blocking/Bendungan",
+        "E": "Servis"
+      },
+      "kunci": "C",
+      "pembahasan": "Dribbling (menggiring bola) adalah teknik bola basket atau sepak bola, bukan bola voli. Voli hanya dipukul/dipantulkan tidak digiring.",
+      "trik": "Voli tidak memantulkan bola ke lantai berulang kali."
+    },
+    {
+      "id": "smp-7-pjok-14",
+      "teks": "Salah satu nomor lari sprint dalam atletik meliputi... (Latihan #14)",
+      "opsi": {
+        "A": "Lari 1500 meter",
+        "B": "Lari 3000 meter jarak jauh",
+        "C": "Lari Maraton",
+        "D": "Lari 100 meter",
+        "E": "Lari lintas alam"
+      },
+      "kunci": "D",
+      "pembahasan": "Sprint (lari cepat) dilakukan padak jarak pendek (contoh 100 m, 200 m, 400 m). Jarak lainnya tergolong lari menengah/jauh.",
+      "trik": "Sprint = Cepat dan jaraknya pendek."
+    },
+    {
+      "id": "smp-7-pjok-15",
+      "teks": "Gaya pada renang yang posisi wajahnya selalu menghadap permukaan air dan bentuknya meniru hewan darat melompat ke air adalah gaya... (Latihan #15)",
+      "opsi": {
+        "A": "Bebas",
+        "B": "Punggung",
+        "C": "Kupu-kupu/Lumba-lumba",
+        "D": "Anjing",
+        "E": "Dada / Katak"
+      },
+      "kunci": "E",
+      "pembahasan": "Renang gaya dada dikenal masyarakat luas sebagai gaya katak, gerakannya stabil wajah ada di atas permukaan saat ambil nafas berulang.",
+      "trik": "Gaya santai/pemula dgn pergerakan kaki tangan mirip katak = Dada."
+    },
+    {
+      "id": "smp-7-pjok-16",
+      "teks": "Saat melakukan rol depan (guling depan), bagian tubuh yang pertama kali menyentuh matras setelah dua telapak tangan adalah... (Latihan #16)",
+      "opsi": {
+        "A": "Punggung / Tengkuk leher",
+        "B": "Ubun-ubun / Kepala bagian atas",
+        "C": "Pinggang",
+        "D": "Tulang ekor",
+        "E": "Bahu sebelah kanan"
+      },
+      "kunci": "A",
+      "pembahasan": "Setelah tangan, dagu ditempelkan ke dada, lalu kepala ditekuk ke dalam sehingga yang kena matras duluan (penopang badan) adalah tengkuk/belakang leher, bukan ubun-ubun.",
+      "trik": "Jangan bagian puncak kepala, pakai tengkuk/belakang leher agar tidak cedera."
+    },
+    {
+      "id": "smp-7-pjok-17",
+      "teks": "Zat gizi yang memiliki fungsi utama sebagai zat pembangun sel-sel tubuh dan pemulihan (pembaharuan sel) adalah... (Latihan #17)",
+      "opsi": {
+        "A": "Karbohidrat",
+        "B": "Protein",
+        "C": "Vitamin",
+        "D": "Mineral",
+        "E": "Lemak"
+      },
+      "kunci": "B",
+      "pembahasan": "Protein (hewani/nabati) berperan penting membentuk otot, memperbaiki jaringan yang rusak, tulang, dan darah.",
+      "trik": "Pembangun sel = Protein."
+    },
+    {
+      "id": "smp-7-pjok-18",
+      "teks": "Zat gizi sumber tenaga atau energi utama sehari-hari diperoleh dari makanan bergizi golongan... (Latihan #18)",
+      "opsi": {
+        "A": "Zat Besi",
+        "B": "Vitamin C",
+        "C": "Karbohidrat",
+        "D": "Kalsium",
+        "E": "Air"
+      },
+      "kunci": "C",
+      "pembahasan": "Energi tubuh dibakar paling mudah melalui makanan karbohidrat seperti gandum, beras, singkong, roti.",
+      "trik": "Tenaga utama buat gerak = Nasi/Karbohidrat."
+    },
+    {
+      "id": "smp-7-pjok-19",
+      "teks": "Dalam permainan kasti, anggota regu pemukul akan mendapatkan angka jika... (Latihan #19)",
+      "opsi": {
+        "A": "Bola tertangkap pihak penjaga",
+        "B": "Pukulan mengenai kepala wasit",
+        "C": "Menangkap bola secara langsung 3 kali berturut-turut",
+        "D": "Berhasil kembali ke ruang bebas / rumah setelah memukul dan berlari tanpa terkena lemparan bola mati",
+        "E": "Menyentuh base saja (walau tidak kembali)"
+      },
+      "kunci": "D",
+      "pembahasan": "Tujuan pemain pemukul adalah selamat berlari mencapat tiang hinggap (bases) hingga balik pulang/home.",
+      "trik": "Run/poin kasti didapat dari selamat kembali ke pos awal/rumah bebas."
+    },
+    {
+      "id": "smp-7-pjok-20",
+      "teks": "Gerak ritmik atau senam irama dalam PJOK memberikan manfaat paling besar bagi tubuh dalam hal... (Latihan #20)",
+      "opsi": {
+        "A": "Memperbesar massa otot tangan",
+        "B": "Kecepatan berlari jarak dekat",
+        "C": "Teknik bertahan bela diri",
+        "D": "Melempar bola sejauh mungkin",
+        "E": "Kelenturan (fleksibilitas) keluwesan sendi"
+      },
+      "kunci": "E",
+      "pembahasan": "Senam ritmik mengutamakan keselarasan, kelembutan, dan irama yang butuh kelenturan serta pelemasan tubuh, bukan otot kasar",
+      "trik": "Irama/Musik/Tari lekat erat korelasinya dng kelentukan/keluwesan tangan dan pinggang."
+    },
+    {
+      "id": "smp-7-pjok-21",
+      "teks": "Dalam sepak bola, teknik mengoper bola jarak dekat paling akurat biasanya dilakukan dengan menggunakan kaki bagian... (Latihan #21)",
+      "opsi": {
+        "A": "Dalam",
+        "B": "Luar",
+        "C": "Punggung kaki",
+        "D": "Tumit",
+        "E": "Ujung jari (toe)"
+      },
+      "kunci": "A",
+      "pembahasan": "Operan jarak pendek (short pass) umumnya memakai kaki bagian dalam karena permukaannya lebih lebar, membuat arah bola lebih presisi dan mudah dikontrol.",
+      "trik": "Jarak dekat butuh ketepatan (akurasi) -> pakai kaki bagian dalam."
+    },
+    {
+      "id": "smp-7-pjok-22",
+      "teks": "Jump ball dalam permainan bola basket berfungsi untuk... (Latihan #22)",
+      "opsi": {
+        "A": "Mengakhiri pertandingan",
+        "B": "Memulai pertandingan dan jika bola diperebutkan (held ball)",
+        "C": "Hukuman pelanggaran (foul)",
+        "D": "Meminta time-out",
+        "E": "Mengatur pergantian pemain"
+      },
+      "kunci": "B",
+      "pembahasan": "Jump ball dilakukan wasit melempar bola di lingkaran tengah antara 2 pemain berlawanan, dilakukan untuk memulai game atau situasi bola tersendat.",
+      "trik": "Jump = Lompat untuk merebut lemparan wasit (Tip-off)."
+    },
+    {
+      "id": "smp-7-pjok-23",
+      "teks": "Berikut yang BUKAN teknik dasar permainan bola voli adalah... (Latihan #23)",
+      "opsi": {
+        "A": "Passing bawah",
+        "B": "Smash (Spike)",
+        "C": "Dribbling",
+        "D": "Blocking/Bendungan",
+        "E": "Servis"
+      },
+      "kunci": "C",
+      "pembahasan": "Dribbling (menggiring bola) adalah teknik bola basket atau sepak bola, bukan bola voli. Voli hanya dipukul/dipantulkan tidak digiring.",
+      "trik": "Voli tidak memantulkan bola ke lantai berulang kali."
+    },
+    {
+      "id": "smp-7-pjok-24",
+      "teks": "Salah satu nomor lari sprint dalam atletik meliputi... (Latihan #24)",
+      "opsi": {
+        "A": "Lari 1500 meter",
+        "B": "Lari 3000 meter jarak jauh",
+        "C": "Lari Maraton",
+        "D": "Lari 100 meter",
+        "E": "Lari lintas alam"
+      },
+      "kunci": "D",
+      "pembahasan": "Sprint (lari cepat) dilakukan padak jarak pendek (contoh 100 m, 200 m, 400 m). Jarak lainnya tergolong lari menengah/jauh.",
+      "trik": "Sprint = Cepat dan jaraknya pendek."
+    },
+    {
+      "id": "smp-7-pjok-25",
+      "teks": "Gaya pada renang yang posisi wajahnya selalu menghadap permukaan air dan bentuknya meniru hewan darat melompat ke air adalah gaya... (Latihan #25)",
+      "opsi": {
+        "A": "Bebas",
+        "B": "Punggung",
+        "C": "Kupu-kupu/Lumba-lumba",
+        "D": "Anjing",
+        "E": "Dada / Katak"
+      },
+      "kunci": "E",
+      "pembahasan": "Renang gaya dada dikenal masyarakat luas sebagai gaya katak, gerakannya stabil wajah ada di atas permukaan saat ambil nafas berulang.",
+      "trik": "Gaya santai/pemula dgn pergerakan kaki tangan mirip katak = Dada."
+    },
+    {
+      "id": "smp-7-pjok-26",
+      "teks": "Saat melakukan rol depan (guling depan), bagian tubuh yang pertama kali menyentuh matras setelah dua telapak tangan adalah... (Latihan #26)",
+      "opsi": {
+        "A": "Punggung / Tengkuk leher",
+        "B": "Ubun-ubun / Kepala bagian atas",
+        "C": "Pinggang",
+        "D": "Tulang ekor",
+        "E": "Bahu sebelah kanan"
+      },
+      "kunci": "A",
+      "pembahasan": "Setelah tangan, dagu ditempelkan ke dada, lalu kepala ditekuk ke dalam sehingga yang kena matras duluan (penopang badan) adalah tengkuk/belakang leher, bukan ubun-ubun.",
+      "trik": "Jangan bagian puncak kepala, pakai tengkuk/belakang leher agar tidak cedera."
+    },
+    {
+      "id": "smp-7-pjok-27",
+      "teks": "Zat gizi yang memiliki fungsi utama sebagai zat pembangun sel-sel tubuh dan pemulihan (pembaharuan sel) adalah... (Latihan #27)",
+      "opsi": {
+        "A": "Karbohidrat",
+        "B": "Protein",
+        "C": "Vitamin",
+        "D": "Mineral",
+        "E": "Lemak"
+      },
+      "kunci": "B",
+      "pembahasan": "Protein (hewani/nabati) berperan penting membentuk otot, memperbaiki jaringan yang rusak, tulang, dan darah.",
+      "trik": "Pembangun sel = Protein."
+    },
+    {
+      "id": "smp-7-pjok-28",
+      "teks": "Zat gizi sumber tenaga atau energi utama sehari-hari diperoleh dari makanan bergizi golongan... (Latihan #28)",
+      "opsi": {
+        "A": "Zat Besi",
+        "B": "Vitamin C",
+        "C": "Karbohidrat",
+        "D": "Kalsium",
+        "E": "Air"
+      },
+      "kunci": "C",
+      "pembahasan": "Energi tubuh dibakar paling mudah melalui makanan karbohidrat seperti gandum, beras, singkong, roti.",
+      "trik": "Tenaga utama buat gerak = Nasi/Karbohidrat."
+    },
+    {
+      "id": "smp-7-pjok-29",
+      "teks": "Dalam permainan kasti, anggota regu pemukul akan mendapatkan angka jika... (Latihan #29)",
+      "opsi": {
+        "A": "Bola tertangkap pihak penjaga",
+        "B": "Pukulan mengenai kepala wasit",
+        "C": "Menangkap bola secara langsung 3 kali berturut-turut",
+        "D": "Berhasil kembali ke ruang bebas / rumah setelah memukul dan berlari tanpa terkena lemparan bola mati",
+        "E": "Menyentuh base saja (walau tidak kembali)"
+      },
+      "kunci": "D",
+      "pembahasan": "Tujuan pemain pemukul adalah selamat berlari mencapat tiang hinggap (bases) hingga balik pulang/home.",
+      "trik": "Run/poin kasti didapat dari selamat kembali ke pos awal/rumah bebas."
+    },
+    {
+      "id": "smp-7-pjok-30",
+      "teks": "Gerak ritmik atau senam irama dalam PJOK memberikan manfaat paling besar bagi tubuh dalam hal... (Latihan #30)",
+      "opsi": {
+        "A": "Memperbesar massa otot tangan",
+        "B": "Kecepatan berlari jarak dekat",
+        "C": "Teknik bertahan bela diri",
+        "D": "Melempar bola sejauh mungkin",
+        "E": "Kelenturan (fleksibilitas) keluwesan sendi"
+      },
+      "kunci": "E",
+      "pembahasan": "Senam ritmik mengutamakan keselarasan, kelembutan, dan irama yang butuh kelenturan serta pelemasan tubuh, bukan otot kasar",
+      "trik": "Irama/Musik/Tari lekat erat korelasinya dng kelentukan/keluwesan tangan dan pinggang."
+    },
+    {
+      "id": "smp-7-pjok-31",
+      "teks": "Dalam sepak bola, teknik mengoper bola jarak dekat paling akurat biasanya dilakukan dengan menggunakan kaki bagian... (Latihan #31)",
+      "opsi": {
+        "A": "Dalam",
+        "B": "Luar",
+        "C": "Punggung kaki",
+        "D": "Tumit",
+        "E": "Ujung jari (toe)"
+      },
+      "kunci": "A",
+      "pembahasan": "Operan jarak pendek (short pass) umumnya memakai kaki bagian dalam karena permukaannya lebih lebar, membuat arah bola lebih presisi dan mudah dikontrol.",
+      "trik": "Jarak dekat butuh ketepatan (akurasi) -> pakai kaki bagian dalam."
+    },
+    {
+      "id": "smp-7-pjok-32",
+      "teks": "Jump ball dalam permainan bola basket berfungsi untuk... (Latihan #32)",
+      "opsi": {
+        "A": "Mengakhiri pertandingan",
+        "B": "Memulai pertandingan dan jika bola diperebutkan (held ball)",
+        "C": "Hukuman pelanggaran (foul)",
+        "D": "Meminta time-out",
+        "E": "Mengatur pergantian pemain"
+      },
+      "kunci": "B",
+      "pembahasan": "Jump ball dilakukan wasit melempar bola di lingkaran tengah antara 2 pemain berlawanan, dilakukan untuk memulai game atau situasi bola tersendat.",
+      "trik": "Jump = Lompat untuk merebut lemparan wasit (Tip-off)."
+    },
+    {
+      "id": "smp-7-pjok-33",
+      "teks": "Berikut yang BUKAN teknik dasar permainan bola voli adalah... (Latihan #33)",
+      "opsi": {
+        "A": "Passing bawah",
+        "B": "Smash (Spike)",
+        "C": "Dribbling",
+        "D": "Blocking/Bendungan",
+        "E": "Servis"
+      },
+      "kunci": "C",
+      "pembahasan": "Dribbling (menggiring bola) adalah teknik bola basket atau sepak bola, bukan bola voli. Voli hanya dipukul/dipantulkan tidak digiring.",
+      "trik": "Voli tidak memantulkan bola ke lantai berulang kali."
+    },
+    {
+      "id": "smp-7-pjok-34",
+      "teks": "Salah satu nomor lari sprint dalam atletik meliputi... (Latihan #34)",
+      "opsi": {
+        "A": "Lari 1500 meter",
+        "B": "Lari 3000 meter jarak jauh",
+        "C": "Lari Maraton",
+        "D": "Lari 100 meter",
+        "E": "Lari lintas alam"
+      },
+      "kunci": "D",
+      "pembahasan": "Sprint (lari cepat) dilakukan padak jarak pendek (contoh 100 m, 200 m, 400 m). Jarak lainnya tergolong lari menengah/jauh.",
+      "trik": "Sprint = Cepat dan jaraknya pendek."
+    },
+    {
+      "id": "smp-7-pjok-35",
+      "teks": "Gaya pada renang yang posisi wajahnya selalu menghadap permukaan air dan bentuknya meniru hewan darat melompat ke air adalah gaya... (Latihan #35)",
+      "opsi": {
+        "A": "Bebas",
+        "B": "Punggung",
+        "C": "Kupu-kupu/Lumba-lumba",
+        "D": "Anjing",
+        "E": "Dada / Katak"
+      },
+      "kunci": "E",
+      "pembahasan": "Renang gaya dada dikenal masyarakat luas sebagai gaya katak, gerakannya stabil wajah ada di atas permukaan saat ambil nafas berulang.",
+      "trik": "Gaya santai/pemula dgn pergerakan kaki tangan mirip katak = Dada."
+    },
+    {
+      "id": "smp-7-pjok-36",
+      "teks": "Saat melakukan rol depan (guling depan), bagian tubuh yang pertama kali menyentuh matras setelah dua telapak tangan adalah... (Latihan #36)",
+      "opsi": {
+        "A": "Punggung / Tengkuk leher",
+        "B": "Ubun-ubun / Kepala bagian atas",
+        "C": "Pinggang",
+        "D": "Tulang ekor",
+        "E": "Bahu sebelah kanan"
+      },
+      "kunci": "A",
+      "pembahasan": "Setelah tangan, dagu ditempelkan ke dada, lalu kepala ditekuk ke dalam sehingga yang kena matras duluan (penopang badan) adalah tengkuk/belakang leher, bukan ubun-ubun.",
+      "trik": "Jangan bagian puncak kepala, pakai tengkuk/belakang leher agar tidak cedera."
+    },
+    {
+      "id": "smp-7-pjok-37",
+      "teks": "Zat gizi yang memiliki fungsi utama sebagai zat pembangun sel-sel tubuh dan pemulihan (pembaharuan sel) adalah... (Latihan #37)",
+      "opsi": {
+        "A": "Karbohidrat",
+        "B": "Protein",
+        "C": "Vitamin",
+        "D": "Mineral",
+        "E": "Lemak"
+      },
+      "kunci": "B",
+      "pembahasan": "Protein (hewani/nabati) berperan penting membentuk otot, memperbaiki jaringan yang rusak, tulang, dan darah.",
+      "trik": "Pembangun sel = Protein."
+    },
+    {
+      "id": "smp-7-pjok-38",
+      "teks": "Zat gizi sumber tenaga atau energi utama sehari-hari diperoleh dari makanan bergizi golongan... (Latihan #38)",
+      "opsi": {
+        "A": "Zat Besi",
+        "B": "Vitamin C",
+        "C": "Karbohidrat",
+        "D": "Kalsium",
+        "E": "Air"
+      },
+      "kunci": "C",
+      "pembahasan": "Energi tubuh dibakar paling mudah melalui makanan karbohidrat seperti gandum, beras, singkong, roti.",
+      "trik": "Tenaga utama buat gerak = Nasi/Karbohidrat."
+    },
+    {
+      "id": "smp-7-pjok-39",
+      "teks": "Dalam permainan kasti, anggota regu pemukul akan mendapatkan angka jika... (Latihan #39)",
+      "opsi": {
+        "A": "Bola tertangkap pihak penjaga",
+        "B": "Pukulan mengenai kepala wasit",
+        "C": "Menangkap bola secara langsung 3 kali berturut-turut",
+        "D": "Berhasil kembali ke ruang bebas / rumah setelah memukul dan berlari tanpa terkena lemparan bola mati",
+        "E": "Menyentuh base saja (walau tidak kembali)"
+      },
+      "kunci": "D",
+      "pembahasan": "Tujuan pemain pemukul adalah selamat berlari mencapat tiang hinggap (bases) hingga balik pulang/home.",
+      "trik": "Run/poin kasti didapat dari selamat kembali ke pos awal/rumah bebas."
+    },
+    {
+      "id": "smp-7-pjok-40",
+      "teks": "Gerak ritmik atau senam irama dalam PJOK memberikan manfaat paling besar bagi tubuh dalam hal... (Latihan #40)",
+      "opsi": {
+        "A": "Memperbesar massa otot tangan",
+        "B": "Kecepatan berlari jarak dekat",
+        "C": "Teknik bertahan bela diri",
+        "D": "Melempar bola sejauh mungkin",
+        "E": "Kelenturan (fleksibilitas) keluwesan sendi"
+      },
+      "kunci": "E",
+      "pembahasan": "Senam ritmik mengutamakan keselarasan, kelembutan, dan irama yang butuh kelenturan serta pelemasan tubuh, bukan otot kasar",
+      "trik": "Irama/Musik/Tari lekat erat korelasinya dng kelentukan/keluwesan tangan dan pinggang."
+    },
+    {
+      "id": "smp-7-pjok-41",
+      "teks": "Dalam sepak bola, teknik mengoper bola jarak dekat paling akurat biasanya dilakukan dengan menggunakan kaki bagian... (Latihan #41)",
+      "opsi": {
+        "A": "Dalam",
+        "B": "Luar",
+        "C": "Punggung kaki",
+        "D": "Tumit",
+        "E": "Ujung jari (toe)"
+      },
+      "kunci": "A",
+      "pembahasan": "Operan jarak pendek (short pass) umumnya memakai kaki bagian dalam karena permukaannya lebih lebar, membuat arah bola lebih presisi dan mudah dikontrol.",
+      "trik": "Jarak dekat butuh ketepatan (akurasi) -> pakai kaki bagian dalam."
+    },
+    {
+      "id": "smp-7-pjok-42",
+      "teks": "Jump ball dalam permainan bola basket berfungsi untuk... (Latihan #42)",
+      "opsi": {
+        "A": "Mengakhiri pertandingan",
+        "B": "Memulai pertandingan dan jika bola diperebutkan (held ball)",
+        "C": "Hukuman pelanggaran (foul)",
+        "D": "Meminta time-out",
+        "E": "Mengatur pergantian pemain"
+      },
+      "kunci": "B",
+      "pembahasan": "Jump ball dilakukan wasit melempar bola di lingkaran tengah antara 2 pemain berlawanan, dilakukan untuk memulai game atau situasi bola tersendat.",
+      "trik": "Jump = Lompat untuk merebut lemparan wasit (Tip-off)."
+    },
+    {
+      "id": "smp-7-pjok-43",
+      "teks": "Berikut yang BUKAN teknik dasar permainan bola voli adalah... (Latihan #43)",
+      "opsi": {
+        "A": "Passing bawah",
+        "B": "Smash (Spike)",
+        "C": "Dribbling",
+        "D": "Blocking/Bendungan",
+        "E": "Servis"
+      },
+      "kunci": "C",
+      "pembahasan": "Dribbling (menggiring bola) adalah teknik bola basket atau sepak bola, bukan bola voli. Voli hanya dipukul/dipantulkan tidak digiring.",
+      "trik": "Voli tidak memantulkan bola ke lantai berulang kali."
+    },
+    {
+      "id": "smp-7-pjok-44",
+      "teks": "Salah satu nomor lari sprint dalam atletik meliputi... (Latihan #44)",
+      "opsi": {
+        "A": "Lari 1500 meter",
+        "B": "Lari 3000 meter jarak jauh",
+        "C": "Lari Maraton",
+        "D": "Lari 100 meter",
+        "E": "Lari lintas alam"
+      },
+      "kunci": "D",
+      "pembahasan": "Sprint (lari cepat) dilakukan padak jarak pendek (contoh 100 m, 200 m, 400 m). Jarak lainnya tergolong lari menengah/jauh.",
+      "trik": "Sprint = Cepat dan jaraknya pendek."
+    },
+    {
+      "id": "smp-7-pjok-45",
+      "teks": "Gaya pada renang yang posisi wajahnya selalu menghadap permukaan air dan bentuknya meniru hewan darat melompat ke air adalah gaya... (Latihan #45)",
+      "opsi": {
+        "A": "Bebas",
+        "B": "Punggung",
+        "C": "Kupu-kupu/Lumba-lumba",
+        "D": "Anjing",
+        "E": "Dada / Katak"
+      },
+      "kunci": "E",
+      "pembahasan": "Renang gaya dada dikenal masyarakat luas sebagai gaya katak, gerakannya stabil wajah ada di atas permukaan saat ambil nafas berulang.",
+      "trik": "Gaya santai/pemula dgn pergerakan kaki tangan mirip katak = Dada."
+    },
+    {
+      "id": "smp-7-pjok-46",
+      "teks": "Saat melakukan rol depan (guling depan), bagian tubuh yang pertama kali menyentuh matras setelah dua telapak tangan adalah... (Latihan #46)",
+      "opsi": {
+        "A": "Punggung / Tengkuk leher",
+        "B": "Ubun-ubun / Kepala bagian atas",
+        "C": "Pinggang",
+        "D": "Tulang ekor",
+        "E": "Bahu sebelah kanan"
+      },
+      "kunci": "A",
+      "pembahasan": "Setelah tangan, dagu ditempelkan ke dada, lalu kepala ditekuk ke dalam sehingga yang kena matras duluan (penopang badan) adalah tengkuk/belakang leher, bukan ubun-ubun.",
+      "trik": "Jangan bagian puncak kepala, pakai tengkuk/belakang leher agar tidak cedera."
+    },
+    {
+      "id": "smp-7-pjok-47",
+      "teks": "Zat gizi yang memiliki fungsi utama sebagai zat pembangun sel-sel tubuh dan pemulihan (pembaharuan sel) adalah... (Latihan #47)",
+      "opsi": {
+        "A": "Karbohidrat",
+        "B": "Protein",
+        "C": "Vitamin",
+        "D": "Mineral",
+        "E": "Lemak"
+      },
+      "kunci": "B",
+      "pembahasan": "Protein (hewani/nabati) berperan penting membentuk otot, memperbaiki jaringan yang rusak, tulang, dan darah.",
+      "trik": "Pembangun sel = Protein."
+    },
+    {
+      "id": "smp-7-pjok-48",
+      "teks": "Zat gizi sumber tenaga atau energi utama sehari-hari diperoleh dari makanan bergizi golongan... (Latihan #48)",
+      "opsi": {
+        "A": "Zat Besi",
+        "B": "Vitamin C",
+        "C": "Karbohidrat",
+        "D": "Kalsium",
+        "E": "Air"
+      },
+      "kunci": "C",
+      "pembahasan": "Energi tubuh dibakar paling mudah melalui makanan karbohidrat seperti gandum, beras, singkong, roti.",
+      "trik": "Tenaga utama buat gerak = Nasi/Karbohidrat."
+    },
+    {
+      "id": "smp-7-pjok-49",
+      "teks": "Dalam permainan kasti, anggota regu pemukul akan mendapatkan angka jika... (Latihan #49)",
+      "opsi": {
+        "A": "Bola tertangkap pihak penjaga",
+        "B": "Pukulan mengenai kepala wasit",
+        "C": "Menangkap bola secara langsung 3 kali berturut-turut",
+        "D": "Berhasil kembali ke ruang bebas / rumah setelah memukul dan berlari tanpa terkena lemparan bola mati",
+        "E": "Menyentuh base saja (walau tidak kembali)"
+      },
+      "kunci": "D",
+      "pembahasan": "Tujuan pemain pemukul adalah selamat berlari mencapat tiang hinggap (bases) hingga balik pulang/home.",
+      "trik": "Run/poin kasti didapat dari selamat kembali ke pos awal/rumah bebas."
+    },
+    {
+      "id": "smp-7-pjok-50",
+      "teks": "Gerak ritmik atau senam irama dalam PJOK memberikan manfaat paling besar bagi tubuh dalam hal... (Latihan #50)",
+      "opsi": {
+        "A": "Memperbesar massa otot tangan",
+        "B": "Kecepatan berlari jarak dekat",
+        "C": "Teknik bertahan bela diri",
+        "D": "Melempar bola sejauh mungkin",
+        "E": "Kelenturan (fleksibilitas) keluwesan sendi"
+      },
+      "kunci": "E",
+      "pembahasan": "Senam ritmik mengutamakan keselarasan, kelembutan, dan irama yang butuh kelenturan serta pelemasan tubuh, bukan otot kasar",
+      "trik": "Irama/Musik/Tari lekat erat korelasinya dng kelentukan/keluwesan tangan dan pinggang."
+    }
+  ]
+}

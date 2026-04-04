@@ -1,0 +1,41 @@
+{
+  "id": "mat-pm",
+  "tingkat": "UTBK",
+  "mapel": "Penalaran Matematika",
+  "materi": "Penalaran Matematika",
+  "deskripsi": "Materi ini menekankan pemodelan, pola, fungsi, geometri dasar, dan analisis data yang sering muncul pada Penalaran Matematika.",
+  "konten": [
+    {
+      "bab": "1. Membangun Model Matematis",
+      "teks": "Penalaran Matematika tidak hanya menanyakan hasil hitung, tetapi juga apakah peserta mampu membuat model yang sesuai dari informasi soal. Langkah pertama selalu berupa mengenali besaran, relasi, dan tujuan perhitungan sebelum memanipulasi angka."
+    },
+    {
+      "bab": "2. Pola dan Barisan Sederhana",
+      "teks": "Soal pola menguji kemampuan melihat keteraturan dari perubahan nilai, bentuk, atau relasi antarunsur. Peserta harus peka apakah pola bersifat linear, bertahap, berulang, atau membutuhkan pengamatan dua langkah sekaligus."
+    },
+    {
+      "bab": "3. Fungsi, Gradien, dan Perubahan",
+      "teks": "Konsep fungsi dan gradien membantu memahami hubungan dua variabel dan laju perubahan. Di UTBK, peserta sering diminta menafsirkan makna gradien atau menggunakan model linear sederhana dalam konteks nyata."
+    },
+    {
+      "bab": "4. Geometri Dasar dan Pengukuran",
+      "teks": "Geometri yang muncul biasanya tidak terlalu rumit, tetapi menuntut ketelitian pada definisi, satuan, dan hubungan antarukuran. Kesalahan kecil pada membaca bentuk atau satuan sering membuat hasil akhir meleset jauh."
+    },
+    {
+      "bab": "5. Data dan Penafsiran Hasil",
+      "teks": "Analisis data menuntut peserta membaca nilai terbesar, terkecil, jangkauan, atau kecenderungan perubahan dari data yang tersedia. Yang diuji bukan sekadar perhitungan, tetapi juga kemampuan menafsirkan arti hasil itu dalam konteks soal."
+    },
+    {
+      "bab": "6. Strategi Latihan",
+      "teks": "Saat berlatih, tulis langkah model terlebih dahulu sebelum menghitung agar kesalahan logika dapat terlihat sejak awal. Dengan pola ini, peserta akan lebih siap menghadapi soal yang tampak baru tetapi sebenarnya memakai konsep dasar yang sama."
+    }
+  ],
+  "tag": [
+    "utbk",
+    "penalaran matematika",
+    "fungsi",
+    "pola",
+    "geometri",
+    "analisis data"
+  ]
+}

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_SP_01",
+    "pertanyaan": "Besarnya gaya internal per satuan luas permukaan pada suatu material disebut...",
+    "opsi": [
+      "Tegangan (Stress)",
+      "Regangan (Strain)",
+      "Elastisitas",
+      "Momen Lentur",
+      "Gaya Geser"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tegangan diukur dalam satuan Pascal (N/m^2)."
+  },
+  {
+    "id": "KU_SP_02",
+    "pertanyaan": "Rasio antara perubahan panjang terhadap panjang awal material akibat adanya gaya disebut...",
+    "opsi": [
+      "Tegangan",
+      "Regangan (Strain)",
+      "Faktor Keamanan",
+      "Modulus Elastisitas",
+      "Poisson Ratio"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Regangan adalah besaran tanpa dimensi (unitless)."
+  },
+  {
+    "id": "KU_SP_03",
+    "pertanyaan": "Hukum yang menyatakan bahwa tegangan sebanding dengan regangan dalam batas elastisitas material disebut...",
+    "opsi": [
+      "Hukum Newton",
+      "Hukum Pascal",
+      "Hukum Hooke",
+      "Hukum Bernoulli",
+      "Hukum Ohm"
+    ],
+    "jawaban": 2,
+    "pembahasan": "E = Tegangan / Regangan (Modulus Young)."
+  },
+  {
+    "id": "KU_SP_04",
+    "pertanyaan": "Titik pada material di mana deformasi tetap (plastis) mulai terjadi setelah beban dilepaskan disebut...",
+    "opsi": [
+      "Titik Patah",
+      "Titik Pusat",
+      "Titik Beku",
+      "Titik Leleh (Yield Point)",
+      "Titik Didih"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Di atas titik leleh, material tidak akan kembali ke bentuk semula."
+  },
+  {
+    "id": "KU_SP_05",
+    "pertanyaan": "Alat ukur yang digunakan dalam pengujian penetrasi tanah di lapangan untuk mengetahui daya dukung tanah adalah...",
+    "opsi": [
+      "Theodolite",
+      "GPS",
+      "Termometer",
+      "Barometer",
+      "Sondir (CPT)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Cone Penetration Test (Sondir) sangat umum dilakukan sebelum membangun pondasi rumah/gedung."
+  },
+  {
+    "id": "KU_SP_06",
+    "pertanyaan": "Pondasi yang digunakan jika tanah keras berada sangat dalam dari permukaan tanah dinamakan pondasi...",
+    "opsi": [
+      "Dalam (seperti Tiang Pancang)",
+      "Dangkal",
+      "Menengah",
+      "Gantung",
+      "Apung"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tiang pancang atau bored pile meneruskan beban bangunan ke lapisan tanah keras di kedalaman."
+  },
+  {
+    "id": "KU_SP_07",
+    "pertanyaan": "Kecenderungan tanah untuk mengalami penurunan volume akibat pengeluaran air dari pori-pori tanah disebut...",
+    "opsi": [
+      "Erosi",
+      "Konsolidasi",
+      "Kompaksi",
+      "Likuefaksi",
+      "Abrasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Konsolidasi sangat penting diperhatikan pada tanah lempung (clay)."
+  },
+  {
+    "id": "KU_SP_08",
+    "pertanyaan": "Fenomena hilangnya kekuatan tanah akibat getaran gempa yang kuat sehingga tanah berperilaku seperti cairan disebut...",
+    "opsi": [
+      "Erosi",
+      "Tsunami",
+      "Likuefaksi (Pencairan Tanah)",
+      "Tanah Longsor",
+      "Oksidasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Likuefaksi sering terjadi pada tanah pasir jenuh air saat gempa bumi."
+  },
+  {
+    "id": "KU_SP_09",
+    "pertanyaan": "Bahan utama pembuat beton adalah campuran...",
+    "opsi": [
+      "Tanah, Air, Kayu",
+      "Besi, Plastik, Gas",
+      "Aspal, Batu, Minyak",
+      "Semen, Agregat (Pasir/Kerikil), dan Air",
+      "Kapur dan Jerami"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Reaksi kimia antara semen dan air dinamakan hidrasi."
+  },
+  {
+    "id": "KU_SP_10",
+    "pertanyaan": "Metode pengujian untuk mengetahui kekentalan (workability) campuran beton segar sebelum dituangkan disebut...",
+    "opsi": [
+      "Tes Kecepatan",
+      "Tes Warna",
+      "Tes Rasa",
+      "Tes Suara",
+      "Tes Slump"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Slump test dilakukan menggunakan kerucut Abrams."
+  },
+  {
+    "id": "KU_SP_11",
+    "pertanyaan": "Beton sangat kuat menahan gaya [...] namun sangat lemah menahan gaya [...]",
+    "opsi": [
+      "Tekan - Tarik",
+      "Tarik - Tekan",
+      "Geser - Lentur",
+      "Samping - Atas",
+      "Dalam - Luar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Karena lemah menahan tarik, beton perlu diberi tulangan baja (beton bertulang)."
+  },
+  {
+    "id": "KU_SP_12",
+    "pertanyaan": "Umur standar beton mencapai kekuatan maksimal (final set) untuk diuji kuat tekannya biasanya adalah...",
+    "opsi": [
+      "1 hari",
+      "28 hari",
+      "7 hari",
+      "100 hari",
+      "1 tahun"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kekuatan beton 28 hari dijadikan acuan desain struktur."
+  },
+  {
+    "id": "KU_SP_13",
+    "pertanyaan": "Prinsip dasar yang menyatakan bahwa total energi dalam aliran fluida adalah konstan disebut hukum...",
+    "opsi": [
+      "Hukum Pascal",
+      "Hukum Archimedes",
+      "Hukum Bernoulli",
+      "Hukum Newton",
+      "Hukum Kepler"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hubungan antara tekanan, kecepatan, dan ketinggian fluida."
+  },
+  {
+    "id": "KU_SP_14",
+    "pertanyaan": "Saluran irigasi yang berfungsi membawa air dari sumber menuju lahan pertanian disebut saluran...",
+    "opsi": [
+      "Sekunder",
+      "Tersier",
+      "Pembuang",
+      "Primer",
+      "Drainase"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Saluran primer adalah saluran utama yang paling besar."
+  },
+  {
+    "id": "KU_SP_15",
+    "pertanyaan": "Struktur bangunan yang berfungsi untuk menampung air sungai dalam jumlah besar untuk cadangan air atau listrik disebut...",
+    "opsi": [
+      "Jembatan",
+      "Menara",
+      "Terowongan",
+      "Dermaga",
+      "Bendungan (Dam)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bendungan memerlukan analisis geoteknik dan hidrolika yang sangat teliti."
+  },
+  {
+    "id": "KU_SP_16",
+    "pertanyaan": "Teknik pembangunan di mana baja tulangan ditarik terlebih dahulu sebelum beton dituang disebut beton...",
+    "opsi": [
+      "Beton Prategang (Prestressed Concrete)",
+      "Beton Ringan",
+      "Beton Siklop",
+      "Beton Massa",
+      "Beton Semprot"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penyediaan tegangan tekan awal pada beton untuk melawan tegangan tarik akibat beban."
+  },
+  {
+    "id": "KU_SP_17",
+    "pertanyaan": "Metode manajemen proyek untuk menentukan jalur kritis (durasi tersingkat penyelesaian proyek) disebut...",
+    "opsi": [
+      "GPS",
+      "CPM (Critical Path Method)",
+      "RAB",
+      "BIM",
+      "CAD"
+    ],
+    "jawaban": 1,
+    "pembahasan": "CPM membantu manajer proyek fokus pada aktivitas yang paling berpengaruh pada waktu."
+  },
+  {
+    "id": "KU_SP_18",
+    "pertanyaan": "Model digital cerdas yang mencakup geometri dan data teknis bangunan secara 3D disebut...",
+    "opsi": [
+      "Photoshop",
+      "Excel",
+      "BIM (Building Information Modeling)",
+      "Powerpoint",
+      "WhatsApp"
+    ],
+    "jawaban": 2,
+    "pembahasan": "BIM meminimalkan kesalahan desain antar disiplin (sipil, arsitek, MEP)."
+  },
+  {
+    "id": "KU_SP_19",
+    "pertanyaan": "Bagan balok yang menunjukkan jadwal waktu pelaksanaan setiap pekerjaan dalam sebuah proyek disebut...",
+    "opsi": [
+      "Flowchart",
+      "Pie Chart",
+      "Mind Map",
+      "Gantt Chart",
+      "Map"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Gantt chart divisualisasikan dengan batang horizontal berdurasi."
+  },
+  {
+    "id": "KU_SP_20",
+    "pertanyaan": "Dokumen yang memuat rincian volume dan harga satuan pekerjaan dalam konstruksi disebut...",
+    "opsi": [
+      "Ijazah",
+      "Sertifikat",
+      "KTP",
+      "Majalah",
+      "RAB (Rencana Anggaran Biaya)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "RAB menjadi acuan penawaran harga kontraktor kepada pemilik proyek."
+  },
+  {
+    "id": "KU_SP_21",
+    "pertanyaan": "Perkerasan jalan raya yang menggunakan aspal sebagai bahan ikat disebut perkerasan...",
+    "opsi": [
+      "Perkerasan Lentur (Flexible)",
+      "Perkerasan Kaku (Rigid)",
+      "Perkerasan Tanah",
+      "Perkerasan Kayu",
+      "Perkerasan Batu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Aspal bersifat viskoelastis dan lentur mengikuti beban kendaraan."
+  },
+  {
+    "id": "KU_SP_22",
+    "pertanyaan": "Perkerasan jalan raya yang menggunakan plat beton semen disebut perkerasan...",
+    "opsi": [
+      "Flexible",
+      "Rigid (Kaku)",
+      "Semu",
+      "Ringan",
+      "Pasir"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Perkerasan kaku memiliki daya tahan tinggi terhadap beban kendaraan berat."
+  },
+  {
+    "id": "KU_SP_23",
+    "pertanyaan": "Jenis jembatan yang memiliki kabel-kabel penggantung lurus dari pilar utama langsung ke geladak jalan disebut jembatan...",
+    "opsi": [
+      "Suspension Bridge",
+      "Arch Bridge",
+      "Cable-Stayed Bridge",
+      "Truss Bridge",
+      "Girder Bridge"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh: Jembatan Suramadu atau Jembatan Pasupati."
+  },
+  {
+    "id": "KU_SP_24",
+    "pertanyaan": "Analisis dampak lalu lintas untuk pembangunan gedung baru bertujuan agar...",
+    "opsi": [
+      "Gedung terlihat megah",
+      "Mengecat jalan",
+      "Menambah jumlah mobil",
+      "Mencegah kemacetan parah akibat bangkitan perjalanan baru",
+      "Mencari keuntungan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sering diistilahkan dengan Andalalin. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mencegah kemacetan parah akibat bangkitan perjalanan baru\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_SP_25",
+    "pertanyaan": "Besaran yang menunjukkan tingkat kemiringan suatu lereng atau jalan disebut...",
+    "opsi": [
+      "Volume",
+      "Arus",
+      "Potensi",
+      "Debit",
+      "Gradien / Kelandaian"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gradien yang terlalu tajam berbahaya bagi kendaraan berat (truk/bus)."
+  },
+  {
+    "id": "KU_SP_26",
+    "pertanyaan": "Dalam analisis struktur, titik yang tidak memiliki hambatan rotasi (sendi) memiliki jumlah reaksi perletakan sebanyak...",
+    "opsi": [
+      "2 gaya (Vertikal dan Horizontal)",
+      "1 gaya",
+      "3 gaya (Vertikal, Horizontal, Momen)",
+      "0 gaya",
+      "Tak terhingga"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Perletakan sendi hanya menahan gaya translasi tapi membiarkan rotasi."
+  },
+  {
+    "id": "KU_SP_27",
+    "pertanyaan": "Perletakan yang menahan gaya vertikal, horizontal, dan momen (rotasi) disebut perletakan...",
+    "opsi": [
+      "Sendi",
+      "Jepit (Fixed)",
+      "Rol",
+      "Bebas",
+      "Geser"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Perletakan jepit biasanya diasumsikan pada kolom gedung tinggi yang tertanam kuat."
+  },
+  {
+    "id": "KU_SP_28",
+    "pertanyaan": "Gaya yang bekerja sejajar dengan penampang melintang balok disebut gaya...",
+    "opsi": [
+      "Gaya Aksial",
+      "Gaya Normal",
+      "Gaya Geser (Shear Force)",
+      "Gaya Hidrostatis",
+      "Gaya Sentrifugal"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Gaya geser cenderung memotong balok. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Gaya Geser (Shear Force)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_SP_29",
+    "pertanyaan": "Kecenderungan beban untuk memutar suatu benda terhadap suatu titik disebut...",
+    "opsi": [
+      "Gaya",
+      "Tekanan",
+      "Energi",
+      "Momen",
+      "Daya"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Momen = Gaya x Jarak (M = F * d). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Momen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KU_SP_30",
+    "pertanyaan": "Kegagalan struktur berupa tekuk pada kolom yang langsing akibat beban tekan berlebih disebut...",
+    "opsi": [
+      "Fracture",
+      "Erosion",
+      "Sinking",
+      "Leaking",
+      "Buckling"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Buckling terjadi sebelum material mencapai batas kekuatan tekannya."
+  },
+  {
+    "id": "KU_SP_31",
+    "pertanyaan": "Nilai yang menunjukkan seberapa kaku suatu material (rasio stress/strain) disebut...",
+    "opsi": [
+      "Modulus Elastisitas (Modulus Young)",
+      "Nilai CBR",
+      "Suku Bunga",
+      "Berat Jenis",
+      "Viskositas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Baja memiliki modulus elastisitas yang jauh lebih tinggi dibanding kayu atau beton."
+  },
+  {
+    "id": "KU_SP_32",
+    "pertanyaan": "Alat ukur tanah yang digunakan untuk menentukan posisi koordinat X, Y, Z secara presisi dengan sistem digital disebut...",
+    "opsi": [
+      "Meteran Kain",
+      "Total Station",
+      "Kompas Saku",
+      "Senter",
+      "Kalkulator"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Total station menggabungkan fungsi theodolite dan EDM (Electronic Distance Measurement)."
+  },
+  {
+    "id": "KU_SP_33",
+    "pertanyaan": "Istilah 'Drainase' merujuk pada...",
+    "opsi": [
+      "Pemberian air pada tanaman",
+      "Penyimpanan air di tangki",
+      "Sistem pembuangan air permukaan agar tidak terjadi genangan/banjir",
+      "Penguapan air laut",
+      "Pemisahan kotoran"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Drainase perkotaan yang buruk menjadi penyebab utama banjir cileuncang."
+  },
+  {
+    "id": "KU_SP_34",
+    "pertanyaan": "Apa risiko penggunaan air laut untuk campuran beton?",
+    "opsi": [
+      "Beton jadi asin",
+      "Beton terlalu putih",
+      "Beton tidak mau kering",
+      "Kandungan garam (klorida) akan menyebabkan korosi/karat cepat pada baja tulangan",
+      "Tidak ada risiko"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hanya air tawar bersih yang boleh digunakan untuk beton struktural."
+  },
+  {
+    "id": "KU_SP_35",
+    "pertanyaan": "Logam utama yang digunakan untuk memperkuat beton (tulangan) adalah...",
+    "opsi": [
+      "Aluminium",
+      "Tembaga",
+      "Emas",
+      "Perak",
+      "Baja (Steel)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Baja memiliki nilai koefisien muai panas yang mirip dengan beton, sehingga cocok menyatu."
+  },
+  {
+    "id": "KU_SP_36",
+    "pertanyaan": "Bangunan pelindung pantai yang menjorok tegak lurus ke laut untuk menahan erosi pasir disebut...",
+    "opsi": [
+      "Groin",
+      "Dermaga",
+      "Breakwater",
+      "Seawall",
+      "Mercusuar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Groin menahan transport sedimen di sepanjang garis pantai."
+  },
+  {
+    "id": "KU_SP_37",
+    "pertanyaan": "Sistem penyediaan air bersih di perumahan biasanya bersumber dari, kecuali...",
+    "opsi": [
+      "PDAM",
+      "Air laut langsung tanpa diolah",
+      "Sumur Artois",
+      "Mata Air",
+      "Sungai yang diolah (WTP)"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Air laut harus melalui proses desalinasi yang mahal sebelum bisa dikonsumsi."
+  },
+  {
+    "id": "KU_SP_38",
+    "pertanyaan": "Uji slump beton yang ideal untuk pengerjaan konstruksi gedung biasanya berkisar antara...",
+    "opsi": [
+      "0 cm (sangat kaku)",
+      "50 cm (encer sekali)",
+      "8 - 12 cm",
+      "100 cm",
+      "Minus 5 cm"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Nilai slump 8-12 cm memudahkan pengerjaan (mudah dipadatkan)."
+  },
+  {
+    "id": "KU_SP_39",
+    "pertanyaan": "Bagian struktur bangunan yang paling bawah dan berhubungan langsung dengan tanah adalah...",
+    "opsi": [
+      "Atap",
+      "Plat Lantai",
+      "Dinding",
+      "Pondasi",
+      "Plafon"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pondasi harus mampu mendistribusikan beban seluruh bangunan ke tanah drngan aman."
+  },
+  {
+    "id": "KU_SP_40",
+    "pertanyaan": "Teknik pembangunan jalan di atas tanah yang sangat lembek (gambut) seringkali menggunakan sistem...",
+    "opsi": [
+      "Lapisan tipis",
+      "Aspal biasa langsung",
+      "Kayu lapis",
+      "Ban bekas",
+      "Cakar Ayam atau Pile Slab"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Konstruksi Cakar Ayam (ciptaan Prof. Sedijatmo) mencegah penurunan tanah yang tidak merata."
+  },
+  {
+    "id": "KU_SP_41",
+    "pertanyaan": "Apa itu 'Job Safety Analysis' (JSA) dalam konstruksi?",
+    "opsi": [
+      "Analisis identifikasi bahaya dan pengendalian risiko kecelakaan kerja sebelum memulai tugas",
+      "Cara melamar kerja",
+      "Cara menghitung gaji",
+      "Daftar nama pekerja",
+      "Mengecek kualitas semen"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Konstruksi adalah industri berisiko tinggi; keselamatan adalah prioritas utama."
+  },
+  {
+    "id": "KU_SP_42",
+    "pertanyaan": "Alat perlindungan diri (APD) wajib bagi pekerja di proyek konstruksi untuk melindungi kepala dari benturan benda jatuh adalah...",
+    "opsi": [
+      "Topi Cap",
+      "Safety Helmet (Helm Proyek)",
+      "Baret",
+      "Kupluk",
+      "Payung"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Helm proyek dirancang tahan benturan keras."
+  },
+  {
+    "id": "KU_SP_43",
+    "pertanyaan": "Kegiatan 'Surveying' dalam teknik sipil bertujuan untuk...",
+    "opsi": [
+      "Bertanya pendapat orang",
+      "Mencari barang hilang",
+      "Pemetaan lahan, penentuan batas, dan pengukuran level ketinggian tanah",
+      "Menggambar lukisan",
+      "Menghias taman"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Data survey adalah data awal paling krusial bagi seorang desainer sipil."
+  },
+  {
+    "id": "KU_SP_44",
+    "pertanyaan": "Dalam gambar teknik sipil, singkatan 'A' pada notasi 'A.01' biasanya merujuk pada disiplin...",
+    "opsi": [
+      "Sipil",
+      "Listrik",
+      "Mesin",
+      "Arsitektur",
+      "Kimia"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Nomor lembar gambar biasanya diawali kode disiplin (A=Arsitek, S=Sipil/Struktur)."
+  },
+  {
+    "id": "KU_SP_45",
+    "pertanyaan": "Kapasitas maksimal beban yang boleh lewat di suatu jembatan atau jalan disebut...",
+    "opsi": [
+      "Jumlah Penumpang",
+      "Banyaknya Mobil",
+      "Banyaknya Aspal",
+      "Harga Tol",
+      "MST (Muatan Sumbu Terberat)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Melebihi MST akan mempercepat kerusakan struktur jalan/jembatan secara drastis."
+  },
+  {
+    "id": "KU_SP_46",
+    "pertanyaan": "Teknologi 'Toll Road' di Indonesia menggunakan sistem pembayaran...",
+    "opsi": [
+      "Uang Elektronik (Cashless)",
+      "Tunai",
+      "Gratis selamanya",
+      "Tukar barang",
+      "Hutang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mempercepat arus lalu lintas di gerbang tol."
+  },
+  {
+    "id": "KU_SP_47",
+    "pertanyaan": "Limbah beton hasil bongkaran bangunan tua dapat dimanfaatkan kembali sebagai...",
+    "opsi": [
+      "Makanan",
+      "Agregat kasar daur ulang untuk beton non-struktural",
+      "Kain baju",
+      "Bahan bakar",
+      "Pupuk cair"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mendukung prinsip Green Construction dan sirkular ekonomi."
+  },
+  {
+    "id": "KU_SP_48",
+    "pertanyaan": "Tugas utama seorang 'Quality Control' (QC) di proyek konstruksi adalah...",
+    "opsi": [
+      "Membeli material semura mungkin",
+      "Mengatur keuangan",
+      "Memastikan material dan hasil pekerjaan sesuai dengan spesifikasi teknis yang direncanakan",
+      "Mencari pekerja baru",
+      "Membersihkan kantor"
+    ],
+    "jawaban": 2,
+    "pembahasan": "QC menjamin kualitas bangunan awet dan aman."
+  },
+  {
+    "id": "KU_SP_49",
+    "pertanyaan": "Satuan standar internasional (SI) untuk mengukur volume beton adalah...",
+    "opsi": [
+      "Kilogram",
+      "Meter lari",
+      "Liter",
+      "Meter kubik (m3)",
+      "Buku"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kapasitas truk molen (mixer truck) biasanya 5-7 m3."
+  },
+  {
+    "id": "KU_SP_50",
+    "pertanyaan": "Apa yang dimaksud dengan 'As-Built Drawing'?",
+    "opsi": [
+      "Gambar rencana sebelum membangun",
+      "Gambar sketsa tangan",
+      "Gambar promosi penjualan",
+      "Gambar bongkaran",
+      "Gambar rekaman akhir yang menunjukkan kondisi nyata bangunan yang telah selesai dibangun"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Penting sebagai dokumentasi untuk perawatan (maintenance) bangunan di masa depan."
+  }
+]

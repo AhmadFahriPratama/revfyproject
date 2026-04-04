@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_KI_01",
+    "pertanyaan": "Nomor atom suatu unsur menunjukkan jumlah...",
+    "opsi": [
+      "Proton dalam inti atom",
+      "Neutron dalam inti atom",
+      "Proton dan neutron",
+      "Elektron valensi",
+      "Massa atom"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Nomor atom Z = jumlah proton (identitas unsur)."
+  },
+  {
+    "id": "TKA_SMK_KI_02",
+    "pertanyaan": "Ikatan yang terbentuk akibat serah terima elektron antara unsur logam dan non-logam disebut...",
+    "opsi": [
+      "Ikatan Kovalen",
+      "Ikatan Ion",
+      "Ikatan Logam",
+      "Ikatan Hidrogen",
+      "Gaya Van der Waals"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Ikatan ion melibatkan gaya elektrostatik antar kation dan anion."
+  },
+  {
+    "id": "TKA_SMK_KI_03",
+    "pertanyaan": "Massa molar (Mr) dari air (H2O) adalah... (Ar H=1, O=16)",
+    "opsi": [
+      "17",
+      "20",
+      "18",
+      "33",
+      "16"
+    ],
+    "jawaban": 2,
+    "pembahasan": "(2 * 1) + 16 = 18 g/mol. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"18\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_04",
+    "pertanyaan": "Larutan yang memiliki pH < 7 bersifat...",
+    "opsi": [
+      "Basa",
+      "Netral",
+      "Garam",
+      "Asam",
+      "Amfoter"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Asam melepaskan ion H+ dalam air. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Asam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_05",
+    "pertanyaan": "Unsur yang terletak pada golongan VIIA (Halogen) adalah...",
+    "opsi": [
+      "Natrium (Na)",
+      "Helium (He)",
+      "Magnesium (Mg)",
+      "Besi (Fe)",
+      "Klorin (Cl)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Halogen: F, Cl, Br, I, At. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Klorin (Cl)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_06",
+    "pertanyaan": "Proses perkaratan pada besi merupakan contoh reaksi...",
+    "opsi": [
+      "Oksidasi (Oksidasi Logam)",
+      "Substitusi",
+      "Reduksi",
+      "Polimerisasi",
+      "Netralisasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Besi bereaksi dengan oksigen dan air membentuk oksida besi."
+  },
+  {
+    "id": "TKA_SMK_KI_07",
+    "pertanyaan": "Metode pencegahan korosi dengan melapisi seng pada permukaan besi disebut...",
+    "opsi": [
+      "Pengecatan",
+      "Galvanisasi",
+      "Pelumuran oli",
+      "Tin plating",
+      "Anode kurban"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Galvanisasi menggunakan seng untuk melindungi baja/besi."
+  },
+  {
+    "id": "TKA_SMK_KI_08",
+    "pertanyaan": "Berapakah mol dari 4 gram NaOH? (Mr NaOH = 40)",
+    "opsi": [
+      "1 mol",
+      "10 mol",
+      "0.1 mol",
+      "0.4 mol",
+      "4 mol"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mol = Massa / Mr = 4 / 40 = 0.1 mol. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"0.1 mol\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_09",
+    "pertanyaan": "Senyawa hidrokarbon yang hanya memiliki ikatan tunggal disebut...",
+    "opsi": [
+      "Alkena",
+      "Alkuna",
+      "Benzena",
+      "Alkana",
+      "Alkohol"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Alkana adalah hidrokarbon jenuh (CnH2n+2)."
+  },
+  {
+    "id": "TKA_SMK_KI_10",
+    "pertanyaan": "Bahan plastik yang sering digunakan untuk kemasan minuman (PET/PETE) adalah jenis...",
+    "opsi": [
+      "Polimer alam",
+      "Logam mulia",
+      "Bahan peledak",
+      "Kayu",
+      "Polimer sintetis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Plastik adalah polimer hasil industri kimia."
+  },
+  {
+    "id": "TKA_SMK_KI_11",
+    "pertanyaan": "Indikator alami yang bisa digunakan untuk menguji asam-basa adalah...",
+    "opsi": [
+      "Ekstrak kunyit",
+      "Air gula",
+      "Air garam",
+      "Minyak goreng",
+      "Kecap"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kunyit berubah warna menjadi merah bata dalam larutan basa."
+  },
+  {
+    "id": "TKA_SMK_KI_12",
+    "pertanyaan": "Zat yang berfungsi mempercepat laju reaksi tanpa ikut habis bereaksi disebut...",
+    "opsi": [
+      "Reaktan",
+      "Katalis",
+      "Produk",
+      "Inhibitor",
+      "Solvent"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Katalis menurunkan energi aktivasi reaksi."
+  },
+  {
+    "id": "TKA_SMK_KI_13",
+    "pertanyaan": "Partikel atom yang bermuatan negatif adalah...",
+    "opsi": [
+      "Proton",
+      "Neutron",
+      "Elektron",
+      "Positron",
+      "Nukleon"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Elektron\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_14",
+    "pertanyaan": "Ikatan kovalen terbentuk melalui...",
+    "opsi": [
+      "Perpindahan elektron",
+      "Lautan elektron",
+      "Gaya gravitasi",
+      "Pemakaian bersama pasangan elektron",
+      "Gesekan antar atom"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Terjadi umumnya antar sesama unsur non-logam."
+  },
+  {
+    "id": "TKA_SMK_KI_15",
+    "pertanyaan": "Larutan elektrolit kuat contohnya adalah...",
+    "opsi": [
+      "Larutan gula",
+      "Alkohol 70%",
+      "Air suling",
+      "Minyak tanah",
+      "Larutan asam klorida (HCl)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "HCl terionisasi sempurna dalam air. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Larutan asam klorida (HCl)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_16",
+    "pertanyaan": "Suhu di mana tekanan uap zat cair sama dengan tekanan udara luar disebut...",
+    "opsi": [
+      "Titik didih",
+      "Titik beku",
+      "Titik leleh",
+      "Titik kritis",
+      "Titik jenuh"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Titik didih\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_17",
+    "pertanyaan": "Logam yang paling baik daya hantar listriknya adalah...",
+    "opsi": [
+      "Besi",
+      "Tembaga (Cu)",
+      "Aluminium",
+      "Seng",
+      "Timbal"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tembaga digunakan secara luas untuk kabel listrik."
+  },
+  {
+    "id": "TKA_SMK_KI_18",
+    "pertanyaan": "Reaksi pembakaran sempurna gas metana (CH4) menghasilkan...",
+    "opsi": [
+      "CO dan H2O",
+      "C dan H2",
+      "CO2 dan H2O",
+      "O2 dan CH4",
+      "Arang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"CO2 dan H2O\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_19",
+    "pertanyaan": "Alat laboratorium yang digunakan untuk mengukur volume cairan secara teliti adalah...",
+    "opsi": [
+      "Gelas kimia (Beaker)",
+      "Tabung reaksi",
+      "Erlenmeyer",
+      "Pipet gondok / Gelas ukur",
+      "Botol semprot"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pipet gondok / Gelas ukur\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_20",
+    "pertanyaan": "Kadar oksigen (O2) di udara atmosfer bumi sekitar...",
+    "opsi": [
+      "78%",
+      "1%",
+      "0.03%",
+      "50%",
+      "21%"
+    ],
+    "jawaban": 4,
+    "pembahasan": "78% adalah Nitrogen. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"21%\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_21",
+    "pertanyaan": "Baterai aki (Lead-acid battery) menggunakan larutan elektrolit...",
+    "opsi": [
+      "Asam sulfat (H2SO4)",
+      "NaCl",
+      "NaOH",
+      "Alkohol",
+      "Air kelapa"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Asam sulfat (H2SO4)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_22",
+    "pertanyaan": "Senyawa yang memberikan warna merah pada lakmus biru adalah...",
+    "opsi": [
+      "Sabun",
+      "Cuka (Asam Asetat)",
+      "Air kapur",
+      "Soda kue",
+      "Pasta gigi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Asam memerahkan lakmus biru. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Cuka (Asam Asetat)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_23",
+    "pertanyaan": "Hukum Kekekalan Massa dikemukakan oleh...",
+    "opsi": [
+      "Dalton",
+      "Avogadro",
+      "Lavoisier",
+      "Gay-Lussac",
+      "Proust"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Lavoisier\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_24",
+    "pertanyaan": "Gas mulia (Golongan VIIIA) bersifat sangat stabil karena...",
+    "opsi": [
+      "Tidak punya elektron",
+      "Ukurannya sangat besar",
+      "Harganya mahal",
+      "Elektron valensinya sudah penuh (Duplet/Oktet)",
+      "Sangat panas"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Elektron valensinya sudah penuh (Duplet/Oktet)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_25",
+    "pertanyaan": "Salah satu polimer alam adalah...",
+    "opsi": [
+      "PVC",
+      "Nilon",
+      "Teflon",
+      "Stirofoam",
+      "Selulosa (Kayu/Kapas)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Selulosa (Kayu/Kapas)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_26",
+    "pertanyaan": "Pemisahan campuran berdasarkan perbedaan titik didih disebut...",
+    "opsi": [
+      "Distilasi (Penyulingan)",
+      "Filtrasi",
+      "Sublimasi",
+      "Kromatografi",
+      "Kristalisasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Distilasi (Penyulingan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_27",
+    "pertanyaan": "Lambang unsur Emas (Gold) adalah...",
+    "opsi": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Cu",
+      "Pb"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Au (Aurum). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Au\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_28",
+    "pertanyaan": "Zat yang memiliki bentuk dan volume tetap adalah zat...",
+    "opsi": [
+      "Cair",
+      "Gas",
+      "Padat",
+      "Plasma",
+      "Uap"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Padat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_29",
+    "pertanyaan": "Oksigen (O2) termasuk dalam kelompok...",
+    "opsi": [
+      "Senyawa",
+      "Campuran homogen",
+      "Koloid",
+      "Unsur",
+      "Suspensi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "O2 adalah molekul unsur karena terdiri dari atom sejenis."
+  },
+  {
+    "id": "TKA_SMK_KI_30",
+    "pertanyaan": "Perubahan fisika contohnya adalah...",
+    "opsi": [
+      "Kayu dibakar jadi arang",
+      "Besi berkarat",
+      "Susu jadi masam",
+      "Nasi jadi basi",
+      "Es mencair jadi air"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Perubahan fisika tidak menghasilkan zat baru."
+  },
+  {
+    "id": "TKA_SMK_KI_31",
+    "pertanyaan": "Jika gas dalam wadah tertutup volumenya diperkecil, maka tekanannya akan...",
+    "opsi": [
+      "Membesar",
+      "Mengecil",
+      "Tetap",
+      "Menjadi nol",
+      "Menghilang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Hukum Boyle. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Membesar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_32",
+    "pertanyaan": "Massa atom terpusat pada...",
+    "opsi": [
+      "Kulit atom",
+      "Inti atom (Nukleus)",
+      "Elektron valensi",
+      "Ruang kosong",
+      "Radiasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Inti atom (Nukleus)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_33",
+    "pertanyaan": "Asam yang terdapat dalam lambung manusia untuk membunuh kuman adalah...",
+    "opsi": [
+      "Asam Sulfat",
+      "Asam Jawa",
+      "Asam Klorida (HCl)",
+      "Asam Cuka",
+      "Asam Semut"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Asam Klorida (HCl)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_34",
+    "pertanyaan": "Pupuk Urea mengandung unsur hara utama berupa...",
+    "opsi": [
+      "Fosfor",
+      "Kalium",
+      "Kalsium",
+      "Nitrogen",
+      "Belerang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Nitrogen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_35",
+    "pertanyaan": "Penyepuhan logam menggunakan prinsip...",
+    "opsi": [
+      "Sel Volta",
+      "Sel Fotovoltaik",
+      "Sel Darah",
+      "Sel Surya",
+      "Sel Elektrolisis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sel Elektrolisis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_36",
+    "pertanyaan": "Sifat koloid yang menghamburkan cahaya disebut...",
+    "opsi": [
+      "Efek Tyndall",
+      "Gerak Brown",
+      "Adsorpsi",
+      "Koagulasi",
+      "Elektroforesis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Efek Tyndall\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_37",
+    "pertanyaan": "LPG (Liquefied Petroleum Gas) utamanya terdiri dari campuran gas...",
+    "opsi": [
+      "Metana dan Etana",
+      "Propana dan Butana",
+      "Heksana",
+      "Oksigen",
+      "Karbon dioksida"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Propana dan Butana\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_38",
+    "pertanyaan": "Senyawa yang berbau telur busuk adalah...",
+    "opsi": [
+      "CO2",
+      "NH3",
+      "H2S (Hidrogen Sulfida)",
+      "O2",
+      "H2O"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"H2S (Hidrogen Sulfida)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_39",
+    "pertanyaan": "Teflon (antilenget) merupakan polimer dari...",
+    "opsi": [
+      "Etena",
+      "Vinil klorida",
+      "Isoprena",
+      "Tetrafluoroetena",
+      "Glukosa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tetrafluoroetena\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_40",
+    "pertanyaan": "Reaksi eksoterm adalah reaksi yang...",
+    "opsi": [
+      "Menyerap panas dari lingkungan",
+      "Tidak ada perubahan suhu",
+      "Melibatkan es",
+      "Hanya terjadi di laboratorium",
+      "Melepaskan panas ke lingkungan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Melepaskan panas ke lingkungan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_41",
+    "pertanyaan": "Isotop adalah atom-atom dari unsur yang sama yang memiliki...",
+    "opsi": [
+      "Nomor atom sama, nomor massa berbeda",
+      "Nomor atom berbeda, nomor massa sama",
+      "Sifat kimia berbeda",
+      "Jumlah elektron berbeda",
+      "Warna berbeda"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Nomor atom sama, nomor massa berbeda\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_42",
+    "pertanyaan": "Air laut merupakan contoh...",
+    "opsi": [
+      "Unsur",
+      "Campuran homogen",
+      "Senyawa murni",
+      "Logam",
+      "Isolator"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Campuran homogen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_43",
+    "pertanyaan": "Apa bahaya gas Karbon Monoksida (CO) bagi manusia?",
+    "opsi": [
+      "Membuat mengantuk saja",
+      "Bagus untuk pernapasan",
+      "Berikatan kuat dengan hemoglobin sehingga menghalangi angkutan oksigen",
+      "Membuat lapar",
+      "Warna kulit jadi biru"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Berikatan kuat dengan hemoglobin sehingga menghalangi angkutan oksigen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_44",
+    "pertanyaan": "Konfigurasi elektron atom dengan nomor atom 11 (Natrium) adalah...",
+    "opsi": [
+      "2 8 2",
+      "2 9",
+      "10 1",
+      "2 8 1",
+      "2 2 7"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"2 8 1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_45",
+    "pertanyaan": "Sifat logam yang bisa ditarik jadi kawat panjang disebut...",
+    "opsi": [
+      "Keras",
+      "Malleability",
+      "Konduktivitas",
+      "Luster",
+      "Daktilitas (Ductility)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Daktilitas (Ductility)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_46",
+    "pertanyaan": "Mengapa air dan minyak tidak bisa bercampur?",
+    "opsi": [
+      "Karena perbedaan kepolaran molekul",
+      "Karena warnanya beda",
+      "Karena minyak lebih berat",
+      "Karena air itu suci",
+      "Karena wadahnya sempit"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Air polar, minyak non-polar. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Karena perbedaan kepolaran molekul\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_47",
+    "pertanyaan": "Zat aditif makanan yang berfungsi sebagai pengawet adalah...",
+    "opsi": [
+      "MSG (Micin)",
+      "Natrium Benzoat",
+      "Pewarna Tartrazin",
+      "Aspartam",
+      "Garam saja"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Natrium Benzoat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_48",
+    "pertanyaan": "Gas yang menyebabkan efek rumah kaca paling dominan adalah...",
+    "opsi": [
+      "Oksigen",
+      "Nitrogen",
+      "Karbon Dioksida (CO2)",
+      "Argon",
+      "Neon"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Karbon Dioksida (CO2)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_49",
+    "pertanyaan": "Penemu tabel periodik unsur modern yang pertama adalah...",
+    "opsi": [
+      "Newton",
+      "Bohr",
+      "Thomson",
+      "Mendeleev",
+      "Dalton"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mendeleev\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_KI_50",
+    "pertanyaan": "Apa peran Kimia dalam dunia industri SMK?",
+    "opsi": [
+      "Tidak ada",
+      "Cuma untuk meledakkan sesuatu",
+      "Hanya untuk cuci tangan",
+      "Supaya nilai rapor bagus",
+      "Membantu pemilihan material, proses produksi, dan kontrol kualitas produk"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Membantu pemilihan material, proses produksi, dan kontrol kualitas produk\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

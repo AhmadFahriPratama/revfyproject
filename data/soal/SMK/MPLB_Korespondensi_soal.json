@@ -1,0 +1,652 @@
+[
+  {
+    "id": "MPLB_KO_01",
+    "pertanyaan": "Proses penyampaian pesan dari komunikator kepada komunikan disebut...",
+    "opsi": [
+      "Komunikasi",
+      "Korespondensi",
+      "Sosialisasi",
+      "Interpretasi",
+      "Distribusi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Komunikasi adalah inti dari interaksi manusia, termasuk dalam lingkungan kerja kantor."
+  },
+  {
+    "id": "MPLB_KO_02",
+    "pertanyaan": "Surat yang dikeluarkan oleh instansi pemerintah dan bersifat kedinasan disebut...",
+    "opsi": [
+      "Surat Niaga",
+      "Surat Dinas",
+      "Surat Pribadi",
+      "Surat Lamaran",
+      "Surat Kuasa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Surat dinas resmi digunakan oleh lembaga negara/pemerintah untuk urusan administratif formal."
+  },
+  {
+    "id": "MPLB_KO_03",
+    "pertanyaan": "Bagian surat yang berisi identitas pengirim (Nama Instansi, Alamat, Logo, No. Telp) disebut...",
+    "opsi": [
+      "Kaki Surat",
+      "Isi Surat",
+      "Kepala Surat (Kop Surat)",
+      "Tembusan",
+      "Lampiran"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kop surat memberikan legalitas dan identitas resmi pada sebuah dokumen."
+  },
+  {
+    "id": "MPLB_KO_04",
+    "pertanyaan": "Surat yang digunakan untuk menawarkan barang atau jasa dalam dunia bisnis disebut...",
+    "opsi": [
+      "Surat Keputusan",
+      "Surat Instruksi",
+      "Surat Teguran",
+      "Surat Penawaran (Quotation)",
+      "Surat Memo"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Surat penawaran adalah salah satu jenis surat niaga yang bertujuan untuk promosi dan transaksi."
+  },
+  {
+    "id": "MPLB_KO_05",
+    "pertanyaan": "Alat komunikasi yang berisi pesan singkat dari atasan ke bawahan di dalam satu kantor disebut...",
+    "opsi": [
+      "Warkat Pos",
+      "Telegram",
+      "Faktur",
+      "Nota",
+      "Memo (Memorandum)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Memo atau nota internal digunakan untuk instruksi singkat dalam lingkup intern organisasi."
+  },
+  {
+    "id": "MPLB_KO_06",
+    "pertanyaan": "Lembar kertas yang berisi instruksi dari pimpinan mengenai tindak lanjut sebuah surat masuk disebut...",
+    "opsi": [
+      "Lembar Disposisi",
+      "Buku Agenda",
+      "Kartu Kendali",
+      "Buku Ekspedisi",
+      "Lembar Verifikasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Disposisi memuat perintah khusus dari pimpinan untuk staff terkait penyelesaian masalah dalam surat."
+  },
+  {
+    "id": "MPLB_KO_07",
+    "pertanyaan": "Buku yang digunakan untuk mencatat pengiriman surat keluar ke alamat tujuan eksternal disebut...",
+    "opsi": [
+      "Buku Klaper",
+      "Buku Ekspedisi Ekstern",
+      "Buku Ekspedisi Intern",
+      "Buku Agenda Kembar",
+      "Buku Kas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Buku ekspedisi ekstern menjamin adanya bukti bahwa surat telah dikirim ke kurir atau alamat luar."
+  },
+  {
+    "id": "MPLB_KO_08",
+    "pertanyaan": "Ciri bahasa surat yang 'Efektif' adalah...",
+    "opsi": [
+      "Menggunakan kata puitis",
+      "Satu kalimat menggunakan 50 kata",
+      "Jelas, Singkat, dan Padat",
+      "Banyak menggunakan istilah asing",
+      "Ditulis dengan huruf miring semua"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Surat kantor harus langsung pada pokok masalah (to the point) untuk efisiensi kerja."
+  },
+  {
+    "id": "MPLB_KO_09",
+    "pertanyaan": "Contoh salam penutup yang paling standar untuk surat niaga adalah...",
+    "opsi": [
+      "Halo bos,",
+      "Sampai jumpa,",
+      "Wassalam sekian,",
+      "Hormat kami,",
+      "Tertanda saya,"
+    ],
+    "jawaban": 3,
+    "pembahasan": "'Hormat kami' menunjukkan profesionalisme dalam hubungan bisnis."
+  },
+  {
+    "id": "MPLB_KO_10",
+    "pertanyaan": "Surat yang berisi pelimpahan wewenang dari pihak pertama ke pihak kedua disebut...",
+    "opsi": [
+      "Surat Keterangan",
+      "Surat Edaran",
+      "Surat Tugas",
+      "Surat Izin",
+      "Surat Kuasa"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Surat kuasa diperlukan saat seseorang berhalangan melakukan urusan formal sendiri."
+  },
+  {
+    "id": "MPLB_KO_11",
+    "pertanyaan": "Petugas yang bertugas menerima dan mengarahkan tamu di kantor disebut...",
+    "opsi": [
+      "Resepsionis",
+      "Sekretaris",
+      "Arsiparis",
+      "Satpam",
+      "Manajer"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Resepsionis adalah garda depan komunikasi lisan (face-to-face) di kantor."
+  },
+  {
+    "id": "MPLB_KO_12",
+    "pertanyaan": "Surat yang ditandai dengan kode 'SR' (Sangat Rahasia) berarti...",
+    "opsi": [
+      "Boleh dibaca semua orang",
+      "Hanya boleh dibuka oleh pejabat yang dituju",
+      "Dokumen umum untuk umum",
+      "Surat tanpa isi",
+      "Surat iklan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kerahasiaan adalah tingkat keamanan dokumen yang wajib dijaga ketat."
+  },
+  {
+    "id": "MPLB_KO_13",
+    "pertanyaan": "Format surat di mana seluruh bagian surat dimulai dari margin kiri (rata kiri) disebut...",
+    "opsi": [
+      "Block Style",
+      "Indented Style",
+      "Full Block Style",
+      "Hanging Paragraph",
+      "Official Style"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Full Block Style adalah format paling sederhana di mana tidak ada pengetikan yang menjorok ke dalam."
+  },
+  {
+    "id": "MPLB_KO_14",
+    "pertanyaan": "Fungsi tanggal surat dalam korespondensi adalah...",
+    "opsi": [
+      "Sebagai hiasan",
+      "Menentukan harga surat",
+      "Melihat hari libur",
+      "Mengetahui kapan surat dibuat dan batas waktu respon",
+      "Tanda tangan digital"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tanggal surat penting sebagai referensi kronologis dalam administrasi perkantoran."
+  },
+  {
+    "id": "MPLB_KO_15",
+    "pertanyaan": "Surat niaga yang dibuat pembeli karena barang yang diterima rusak disebut...",
+    "opsi": [
+      "Surat Pesanan",
+      "Surat Pengantar",
+      "Surat Perjanjian",
+      "Surat Penagihan",
+      "Surat Pengaduan (Claim)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Claim letter dikirim untuk meminta tanggung jawab penjual atas ketidaksesuaian barang."
+  },
+  {
+    "id": "MPLB_KO_16",
+    "pertanyaan": "Alat komunikasi jarak jauh yang mengirimkan data via line telepon ke mesin penerima disebut...",
+    "opsi": [
+      "Faksimile (Fax)",
+      "Radio",
+      "Intercom",
+      "Handy Talky",
+      "Televisi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Meskipun mulai tergeser email, Fax masih digunakan di beberapa instansi untuk pengiriman salinan dokumen cepat."
+  },
+  {
+    "id": "MPLB_KO_17",
+    "pertanyaan": "Penerjemahan pesan oleh komunikan dalam proses komunikasi disebut...",
+    "opsi": [
+      "Encoding",
+      "Decoding",
+      "Feedback",
+      "Noise",
+      "Channeling"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Decoding adalah proses memahami simbol/kata yang dikirimkan oleh komunikator."
+  },
+  {
+    "id": "MPLB_KO_18",
+    "pertanyaan": "Gangguan dalam komunikasi yang disebabkan oleh perbedaan bahasa/dialek disebut hambatan...",
+    "opsi": [
+      "Fisik",
+      "Psikologis",
+      "Semantik",
+      "Ekonomis",
+      "Teknis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hambatan semantik berkaitan dengan kesalahan penafsiran makna kata."
+  },
+  {
+    "id": "MPLB_KO_19",
+    "pertanyaan": "Surat yang dikirim tanpa amplop dan memiliki tarif tetap disebut...",
+    "opsi": [
+      "Telegram",
+      "Warkat Pos",
+      "Surat Kilat",
+      "Kartu Pos",
+      "Surat Tercatat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kartu pos biasanya berisi pesan pendek dan terbuka."
+  },
+  {
+    "id": "MPLB_KO_20",
+    "pertanyaan": "Penerimaan telepon di kantor harus dilakukan paling lambat pada dering ke...",
+    "opsi": [
+      "1 kali",
+      "5 kali",
+      "10 kali",
+      "Kapan saja",
+      "3 kali"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Standar pelayanan prima mengharuskan telepon diangkat segera (maksimal 3 dering)."
+  },
+  {
+    "id": "MPLB_KO_21",
+    "pertanyaan": "Yang termasuk perlengkapan pengiriman surat adalah...",
+    "opsi": [
+      "Amplop dan Perangko/Meterai",
+      "Mesin TIK",
+      "Kursi Kantor",
+      "Lemari Arsip",
+      "Papan Tulis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Amplop melindungi isi surat dan perangko/stempel pos adalah bukti pelunasan biaya kirim."
+  },
+  {
+    "id": "MPLB_KO_22",
+    "pertanyaan": "Surat resmi yang berisi pemberitahuan untuk banyak orang/instansi sekaligus disebut...",
+    "opsi": [
+      "Surat Terbuka",
+      "Surat Edaran (Circular)",
+      "Surat Izin",
+      "Surat Pengantar",
+      "Surat Konfirmasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Surat edaran memiliki satu isi namun ditujukan untuk khalayak luas."
+  },
+  {
+    "id": "MPLB_KO_23",
+    "pertanyaan": "Dalam penomoran surat 005/ADM/X/2023, angka 'X' biasanya menunjukkan...",
+    "opsi": [
+      "Urutan surat",
+      "Tahun (2023)",
+      "Bulan pembuatan (Oktober)",
+      "Nama divisi",
+      "Kode rahasia"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Penulisan bulan pada nomor surat resmi umumnya menggunakan angka romawi."
+  },
+  {
+    "id": "MPLB_KO_24",
+    "pertanyaan": "Fungsi stempel pada surat resmi adalah...",
+    "opsi": [
+      "Menambah keindahan",
+      "Syarat agar surat tidak lecek",
+      "Tanda surat sudah dibayar",
+      "Sebagai tanda sah sebuah dokumen oleh organisasi",
+      "Penghias tanda tangan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Stempel memberikan kekuatan hukum dan bukti autentikitas dari organisasi pengirim."
+  },
+  {
+    "id": "MPLB_KO_25",
+    "pertanyaan": "Surat elektronik yang dikirim melalui platform internet disebut...",
+    "opsi": [
+      "E-money",
+      "E-learning",
+      "E-book",
+      "E-commerce",
+      "E-mail"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Email adalah standar korespondensi tercepat di era digital."
+  },
+  {
+    "id": "MPLB_KO_26",
+    "pertanyaan": "Bagian surat yang diletakkan di bawah tanda tangan untuk menunjukkan file tambahan disebut...",
+    "opsi": [
+      "Lampiran",
+      "Hal",
+      "Tembusan",
+      "Inisial",
+      "Referensi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Lampiran memberitahu penerima bahwa ada dokumen lain yang disertakan bersama surat utama."
+  },
+  {
+    "id": "MPLB_KO_27",
+    "pertanyaan": "Salinan surat pemesanan barang yang disimpan di arsip pembeli disebut...",
+    "opsi": [
+      "Asli",
+      "Tindasan (Nindasan)",
+      "Faktur",
+      "Draft",
+      "Voucher"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tindasan berfungsi sebagai bukti internal perusahaan atas transaksi yang dilakukan."
+  },
+  {
+    "id": "MPLB_KO_28",
+    "pertanyaan": "Istilah 'U.p' (Untuk perhatian) digunakan pada alamat surat jika...",
+    "opsi": [
+      "Ditujukan ke instansi umum",
+      "Surat bersifat rahasia negara",
+      "Ditujukan ke pejabat spesifik di suatu instansi",
+      "Alamat tidak lengkap",
+      "Pengirim lupa nama kantornya"
+    ],
+    "jawaban": 2,
+    "pembahasan": "U.p membantu agar surat langsung sampai ke meja orang yang berkompeten menangani urusan tersebut."
+  },
+  {
+    "id": "MPLB_KO_29",
+    "pertanyaan": "Mesin penutup amplop otomatis sering digunakan di kantor besar untuk...",
+    "opsi": [
+      "Mempercantik bentuk amplop",
+      "Menghindari virus",
+      "Syarat dari kantor pos",
+      "Efisien waktu penanganan surat massal",
+      "Tanda tangan otomatis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Otomatisasi kantor bertujuan meningkatkan produktivitas pengerjaan tugas rutin."
+  },
+  {
+    "id": "MPLB_KO_30",
+    "pertanyaan": "Surat lamaran pekerjaan termasuk dalam jenis surat...",
+    "opsi": [
+      "Dinas",
+      "Niaga",
+      "Edaran",
+      "Keputusan",
+      "Pribadi bersifat Resmi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Dibuat oleh individu (pribadi) namun menggunakan bahasa dan format baku (resmi)."
+  },
+  {
+    "id": "MPLB_KO_31",
+    "pertanyaan": "Salah satu etika bertelepon adalah...",
+    "opsi": [
+      "Mengucapkan salam dan menyebutkan identitas diri/kantor",
+      "Berbicara sambil makan",
+      "Sambil bercanda dengan teman di samping",
+      "Langsung menutup telepon jika salah sambung",
+      "Bertanya masalah pribadi penelpon"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Etika telepon menjaga citra profesional perusahaan di mata publik."
+  },
+  {
+    "id": "MPLB_KO_32",
+    "pertanyaan": "Komunikasi yang dilakukan menggunakan gerak tubuh (body language) disebut komunikasi...",
+    "opsi": [
+      "Verbal",
+      "Non-verbal",
+      "Audio",
+      "Visual",
+      "Digital"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Ekspresi wajah, gestur, dan kontak mata adalah bagian penting dari komunikasi non-verbal."
+  },
+  {
+    "id": "MPLB_KO_33",
+    "pertanyaan": "Fungsi inisial pada pojok bawah surat adalah...",
+    "opsi": [
+      "Menandakan harga surat",
+      "Kode rahasia negara",
+      "Singkatan nama pengonsep dan pengetik surat",
+      "Tanda surat sudah dikirim",
+      "Tanda tangan pimpinan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Inisial berguna untuk pertanggungjawaban administratif jika ada kesalahan pengetikan/konsep."
+  },
+  {
+    "id": "MPLB_KO_34",
+    "pertanyaan": "Media komunikasi kantor yang berupa papan pengumuman termasuk media...",
+    "opsi": [
+      "Audio",
+      "Audio-Visual",
+      "Interaktif",
+      "Visual",
+      "Nirkabel"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Informasi disampaikan melalui penglihatan (teks/gambar)."
+  },
+  {
+    "id": "MPLB_KO_35",
+    "pertanyaan": "Surat niaga yang dikirim penjual untuk meminta pembayaran atas barang yang sudah dikirim disebut...",
+    "opsi": [
+      "Surat Penagihan (Collection Letter)",
+      "Surat Rekomendasi",
+      "Surat Pengenalan",
+      "Surat Referensi",
+      "Surat Pesanan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Surat penagihan dikirim secara bertahap (ingatan lembut s.d keras) hingga pelunasan dilakukan."
+  },
+  {
+    "id": "MPLB_KO_36",
+    "pertanyaan": "Penulisan alamat tujuan surat yang benar adalah...",
+    "opsi": [
+      "Yth. Direktur Utama PT Maju Jaya",
+      "Kepada Yth. Bapak Direktur Utama",
+      "Kepada Yth. PT Maju Jaya",
+      "Yth. Bapak PT Maju Jaya",
+      "Untuk Bapak Direktur"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tidak perlu menggunakan kata 'Kepada' dan 'Yth' secara bersamaan, cukup 'Yth' diikuti jabatan/nama."
+  },
+  {
+    "id": "MPLB_KO_37",
+    "pertanyaan": "Lembar formulir yang berisi catatan pesan telepon karena orang yang dituju tidak ada di tempat disebut...",
+    "opsi": [
+      "Lembar Disposisi",
+      "LPT (Lembar Pesan Telepon)",
+      "Buku Agenda",
+      "Buku Tamu",
+      "Nota Dinas"
+    ],
+    "jawaban": 1,
+    "pembahasan": "LPT membantu penyampaian informasi penting dari penelpon kepada karyawan yang sedang sibuk/keluar."
+  },
+  {
+    "id": "MPLB_KO_38",
+    "pertanyaan": "Surat yang berisi pengukuhan kerja sama bisnis antar dua pihak adalah...",
+    "opsi": [
+      "Surat Edaran",
+      "Surat Pemberhentian",
+      "Surat Perjanjian (Kontrak)",
+      "Surat Instruksi",
+      "Surat Kabar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Surat perjanjian mengikat secara hukum hak dan kewajiban masing-masing pihak."
+  },
+  {
+    "id": "MPLB_KO_39",
+    "pertanyaan": "Surat masuk yang dikategorikan 'Penting' harus dicatat menggunakan...",
+    "opsi": [
+      "Buku Agenda",
+      "Buku Klaper",
+      "Lembar Verifikasi",
+      "Kartu Kendali",
+      "Nota saja"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sistem kartu kendali digunakan untuk pelacakan surat yang memiliki nilai guna/urgensi tinggi."
+  },
+  {
+    "id": "MPLB_KO_40",
+    "pertanyaan": "Surat yang memberitahukan tentang pemindahan jabatan seseorang ke posisi lain disebut...",
+    "opsi": [
+      "Surat PHK",
+      "Surat Rekomendasi",
+      "Surat Peringatan",
+      "Surat Keterangan",
+      "Surat Mutasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Mutasi adalah bagian dari manajemen sumber daya manusia di kantor."
+  },
+  {
+    "id": "MPLB_KO_41",
+    "pertanyaan": "Alat bantu untuk melubangi kertas agar bisa dimasukkan ke dalam map (Snelhechter) adalah...",
+    "opsi": [
+      "Perforator",
+      "Stapler",
+      "Cutter",
+      "Gunting",
+      "Glue Stick"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Perforator adalah alat standar untuk persiapan pengarsipan dokumen fisik."
+  },
+  {
+    "id": "MPLB_KO_42",
+    "pertanyaan": "Surat niaga yang dikirim penjual untuk memperkenalkan produk baru disebut...",
+    "opsi": [
+      "Surat Permintaan Penawaran",
+      "Surat Pengenalan Perusahaan",
+      "Surat Pengiriman Barang",
+      "Surat Konfirmasi Pesanan",
+      "Surat Penolakan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Bertujuan memperluas target pasar dan menjalin relasi bisnis baru."
+  },
+  {
+    "id": "MPLB_KO_43",
+    "pertanyaan": "Informasi dalam surat dinas harus bersifat 'Objektif', artinya...",
+    "opsi": [
+      "Berdasarkan perasaan penulis",
+      "Hanya menguntungkan pimpinan",
+      "Berdasarkan kenyataan/fakta sebenarnya",
+      "Dipenuhi kata-kata pujian",
+      "Membingungkan pembaca"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Setiap pernyataan dalam surat resmi harus dapat dipertanggungjawabkan kebenarannya."
+  },
+  {
+    "id": "MPLB_KO_44",
+    "pertanyaan": "Prosedur pengiriman surat keluar lewat kantor pos biasanya menggunakan...",
+    "opsi": [
+      "Buku Kas",
+      "Buku Induk",
+      "Buku Agenda",
+      "Buku Ekspedisi",
+      "Buku Tamu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Buku ekspedisi digunakan sebagai tanda serah terima dari pihak kantor ke pihak pengirim (Pos/JNE/Kurir)."
+  },
+  {
+    "id": "MPLB_KO_45",
+    "pertanyaan": "Surat resmi yang dikeluarkan pimpinan untuk memberikan perintah kerja kepada bawahan disebut...",
+    "opsi": [
+      "Surat Instruksi",
+      "Surat Keterangan",
+      "Surat Edaran",
+      "Surat Berita Acara",
+      "Surat Tugas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Surat tugas berfungsi sebagai mandat resmi bagi karyawan untuk menjalankan aktivitas kedinasan di luar kantor."
+  },
+  {
+    "id": "MPLB_KO_46",
+    "pertanyaan": "Jenis lipatan surat di mana kertas dibagi tiga bagian sama besar lalu dilipat ke arah yang sama disebut...",
+    "opsi": [
+      "Standard Fold",
+      "Accordian Fold",
+      "Parallel Double Fold",
+      "French Fold",
+      "Single Fold"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Standard Fold (Lipatan Baku) adalah lipatan surat yang paling umum digunakan untuk amplop standar."
+  },
+  {
+    "id": "MPLB_KO_47",
+    "pertanyaan": "Dalam surat terdapat keterangan 'Tembusan'. Ini berarti...",
+    "opsi": [
+      "Surat tersebut bocor",
+      "Salinan surat dikirimkan juga ke pihak lain sebagai laporan/pemberitahuan",
+      "Ada lampiran uang",
+      "Surat tersebut palsu",
+      "Surat hanya untuk dibaca sekali saja"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tembusan (Carbon Copy) penting untuk koordinasi antar departemen."
+  },
+  {
+    "id": "MPLB_KO_48",
+    "pertanyaan": "Warkat yang bernilai sejarah dan disimpan selamanya disebut...",
+    "opsi": [
+      "Surat Biasa",
+      "Sampah Kantor",
+      "Arsip Vital / Statis",
+      "Draft Kasar",
+      "Buku Agenda"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Arsip vital dijaga kelestariannya karena memiliki nilai jangka panjang bagi organisasi."
+  },
+  {
+    "id": "MPLB_KO_49",
+    "pertanyaan": "Software pengolah kata (Word Processor) yang paling umum digunakan untuk korespondensi adalah...",
+    "opsi": [
+      "Microsoft Excel",
+      "Adobe Photoshop",
+      "Power Point",
+      "Microsoft Word",
+      "AutoCAD"
+    ],
+    "jawaban": 3,
+    "pembahasan": "MS Word memiliki fitur lengkap untuk pengetikan surat profesional."
+  },
+  {
+    "id": "MPLB_KO_50",
+    "pertanyaan": "Sapaan pembuka 'Dengan hormat,' selalu diakhiri dengan tanda baca...",
+    "opsi": [
+      "Titik (.)",
+      "Seru (!)",
+      "Titik dua (:)",
+      "Tanya (?)",
+      "Koma (,)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Penggunaan tanda koma setelah salam pembuka merupakan standar tata bahasa surat resmi Indonesia."
+  }
+]

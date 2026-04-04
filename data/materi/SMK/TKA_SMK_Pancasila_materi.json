@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Pendidikan Pancasila",
+  "tingkatan": "SMK",
+  "jurusan": "Semua Jurusan / Pilihan",
+  "deskripsi": "Materi persiapan TKA Pendidikan Pancasila untuk siswa SMK yang berfokus pada wawasan kebangsaan, hukum, dan etika bernegara di era modern.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Sejarah dan Kedudukan Pancasila",
+      "konten": "Proses perumusan Pancasila (BPUPKI-PPKI), kedudukan Pancasila sebagai dasar negara, pandangan hidup bangsa, serta ideologi terbuka.",
+      "tag": [
+        "tka smk pancasila materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: UUD NRI Tahun 1945 dan Konstitusi",
+      "konten": "Sejarah konstitusi Indonesia, makna pembukaan UUD 1945, sistem pembagian kekuasaan (Trias Politica), serta lembaga-lembaga negara.",
+      "tag": [
+        "tka smk pancasila materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Bhinneka Tunggal Ika dan NKRI",
+      "konten": "Makna persatuan dalam keberagaman, integrasi nasional, bentuk negara, serta prinsip otonomi daerah dalam bingkai NKRI.",
+      "tag": [
+        "tka smk pancasila materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Hak Azasi Manusia (HAM) dan Hukum",
+      "konten": "Dasar hukum HAM di Indonesia, kasus pelanggaran HAM, sistem peradilan nasional, serta pentingnya budaya antikorupsi bagi lulusan SMK.",
+      "tag": [
+        "tka smk pancasila materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pancasila dalam Kehidupan Global",
+      "konten": "Tantangan ideologi asing di era digital, posisi Indonesia di kancah internasional, serta peran warga negara (Civil Society) dalam pembangunan.",
+      "tag": [
+        "tka smk pancasila materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-pancasila-materi",
+  "mapel": "TKA SMK: Pendidikan Pancasila",
+  "tag": [
+    "tka smk pancasila materi"
+  ]
+}

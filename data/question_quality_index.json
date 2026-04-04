@@ -1,0 +1,1334 @@
+{
+  "id": "question-quality-index",
+  "totalFile": 166,
+  "entries": [
+    {
+      "path": "soal/CPNS/cpns_latihan_lengkap.json",
+      "itemCount": 3000,
+      "uniqueRatio": 0.288,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 1.44,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/CPNS/cpns_tiu_latihan.json",
+      "itemCount": 1000,
+      "uniqueRatio": 0.524,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 2.62,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/CPNS/cpns_tkp_latihan.json",
+      "itemCount": 1000,
+      "uniqueRatio": 0.04,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 0.2,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/CPNS/cpns_twk_latihan.json",
+      "itemCount": 1000,
+      "uniqueRatio": 0.3,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 1.5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Agroteknologi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Akuntansi_Sertifikasi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Arsitektur_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_CPNS_soal.json",
+      "itemCount": 3000,
+      "uniqueRatio": 0.288,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 1.44,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Ekonomi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Elektro_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Farmasi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Fisika_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_HI_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Hukum_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Informatika_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Kedokteran_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Kelautan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Keperawatan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Komunikasi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Matematika_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Persiapan_Kerja_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Psikologi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Psikotes_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/Kuliah_Sipil_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/KULIAH/kuliah_tpa_100_soal.json",
+      "itemCount": 100,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SD/SD_Kelas1_BahasaIndonesia.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.34,
+      "varietyScore": 5,
+      "balanceScore": 3.3
+    },
+    {
+      "path": "soal/SD/SD_Kelas1_Matematika.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.34,
+      "varietyScore": 5,
+      "balanceScore": 3.3
+    },
+    {
+      "path": "soal/SD/SD_Kelas2_BahasaIndonesia.json",
+      "itemCount": 50,
+      "uniqueRatio": 0.9,
+      "topAnswerRatio": 0.34,
+      "varietyScore": 4.5,
+      "balanceScore": 3.3
+    },
+    {
+      "path": "soal/SD/SD_Kelas2_Matematika.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.34,
+      "varietyScore": 5,
+      "balanceScore": 3.3
+    },
+    {
+      "path": "soal/SD/SD_Kelas3_BahasaIndonesia.json",
+      "itemCount": 50,
+      "uniqueRatio": 0.9,
+      "topAnswerRatio": 0.32,
+      "varietyScore": 4.5,
+      "balanceScore": 3.4
+    },
+    {
+      "path": "soal/SD/SD_Kelas3_IPAS.json",
+      "itemCount": 50,
+      "uniqueRatio": 0.96,
+      "topAnswerRatio": 0.3,
+      "varietyScore": 4.8,
+      "balanceScore": 3.5
+    },
+    {
+      "path": "soal/SD/SD_Kelas3_Matematika.json",
+      "itemCount": 50,
+      "uniqueRatio": 0.96,
+      "topAnswerRatio": 0.26,
+      "varietyScore": 4.8,
+      "balanceScore": 3.7
+    },
+    {
+      "path": "soal/SD/SD_Kelas4_BahasaIndonesia.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SD/SD_Kelas4_IPAS.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SD/SD_Kelas4_Matematika.json",
+      "itemCount": 50,
+      "uniqueRatio": 0.66,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 3.3,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SD/SD_Kelas5_BahasaIndonesia.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SD/SD_Kelas5_IPAS.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SD/SD_Kelas5_Matematika.json",
+      "itemCount": 50,
+      "uniqueRatio": 0.92,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 4.6,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SD/SD_Kelas6_BahasaIndonesia.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SD/SD_Kelas6_IPAS.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SD/SD_Kelas6_Matematika.json",
+      "itemCount": 50,
+      "uniqueRatio": 0.84,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 4.2,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMA/SMA_Biologi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMA/SMA_Ekonomi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMA/SMA_Fisika_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMA/SMA_Geografi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMA/SMA_Informatika_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMA/SMA_Kimia_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMA/SMA_MatematikaLanjut_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMA/SMA_Sejarah_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMA/SMA_Sosiologi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Agribisnis_Perikanan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Agribisnis_Tanaman_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Agribisnis_Ternak_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/AKL_AkuntansiDasar_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/AKL_AkuntansiKeuangan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/AKL_AkuntansiLembaga_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/AKL_KomputerAkuntansi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/AKL_LayananPerbankan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/AKL_Perpajakan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/AKL_Spreadsheet_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/BisnisDigital_DigitalBranding_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/BisnisDigital_ECommerce_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/BisnisDigital_MarketingDasar_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Kehutanan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Kesehatan_Farmasi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Kesehatan_Keperawatan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Maritime_Nautika_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Maritime_Teknika_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/MPLB_Kearsipan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/MPLB_Kepegawaian_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/MPLB_Keuangan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/MPLB_Korespondensi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/MPLB_TataKelola_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Pariwisata_Kuliner_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Pariwisata_Perhotelan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/PAR_Kecantikan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/PAR_Kuliner_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/PAR_Perhotelan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/PAR_ULW_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Seni_Animasi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Seni_Busana_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Seni_Kecantikan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Seni_Musik_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Seni_Tari_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Teknik_Konstruksi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Teknik_Listrik_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Teknik_Logistik_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Teknik_Mekatronika_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Teknik_Mesin_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/Teknik_Otomotif_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TI_Broadcasting_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TI_DKV_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TI_PPLG_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TI_TKJ_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_AkuntansiDasar_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Arab_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_BahasaIndonesia_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_BahasaInggris_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Biologi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Busana_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Ekonomi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Fisika_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Geografi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Jepang_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Kecantikan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Kimia_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Korea_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Kuliner_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Logistik_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_ManajemenPerkantoran_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Mandarin_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Matematika_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_MatLat_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Pancasila_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Perhotelan_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_PKK_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Sejarah_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_SeniBudaya_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMK/TKA_SMK_Sosiologi_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_BahasaIndonesia.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_BahasaInggris.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_Informatika.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_IPA.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_IPS.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_Matematika.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_PAI.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_PJOK.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_PPKn.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_Prakarya.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas7_SeniBudaya.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_BahasaIndonesia.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_BahasaInggris.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_Informatika.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_IPA.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_IPS.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_Matematika.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_PAI.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_PJOK.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_PPKn.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_Prakarya.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas8_SeniBudaya.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_BahasaIndonesia.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.26,
+      "varietyScore": 5,
+      "balanceScore": 3.7
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_BahasaInggris.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.26,
+      "varietyScore": 5,
+      "balanceScore": 3.7
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_Informatika.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.26,
+      "varietyScore": 5,
+      "balanceScore": 3.7
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_IPA.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.26,
+      "varietyScore": 5,
+      "balanceScore": 3.7
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_IPS.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.26,
+      "varietyScore": 5,
+      "balanceScore": 3.7
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_Matematika.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.26,
+      "varietyScore": 5,
+      "balanceScore": 3.7
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_PAI.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.26,
+      "varietyScore": 5,
+      "balanceScore": 3.7
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_PJOK.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.26,
+      "varietyScore": 5,
+      "balanceScore": 3.7
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_PPKn.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.26,
+      "varietyScore": 5,
+      "balanceScore": 3.7
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_Prakarya.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.26,
+      "varietyScore": 5,
+      "balanceScore": 3.7
+    },
+    {
+      "path": "soal/SMP/SMP_Kelas9_SeniBudaya.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.26,
+      "varietyScore": 5,
+      "balanceScore": 3.7
+    },
+    {
+      "path": "soal/TK/TK_FaseFondasi.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.34,
+      "varietyScore": 5,
+      "balanceScore": 3.3
+    },
+    {
+      "path": "soal/TKA_SMP/TKA_SMP_BahasaIndonesia_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/TKA_SMP/TKA_SMP_BahasaInggris_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/TKA_SMP/TKA_SMP_IPA_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/TKA_SMP/TKA_SMP_IPS_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/TKA_SMP/TKA_SMP_Matematika_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/TKA_SMP/TKA_SMP_Pancasila_soal.json",
+      "itemCount": 50,
+      "uniqueRatio": 1,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 5,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Literasi_dalam_Bahasa_Indonesia.json",
+      "itemCount": 5000,
+      "uniqueRatio": 0.8376,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 4.19,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Literasi_dalam_Bahasa_Inggris.json",
+      "itemCount": 5000,
+      "uniqueRatio": 0.39,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 1.95,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Pemahaman_Bacaan_dan_Menulis.json",
+      "itemCount": 5000,
+      "uniqueRatio": 0.084,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 0.42,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Penalaran_Matematika.json",
+      "itemCount": 5000,
+      "uniqueRatio": 0.836,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 4.18,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Penalaran_Umum.json",
+      "itemCount": 5000,
+      "uniqueRatio": 0.3998,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 2,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Pengetahuan_dan_Pemahaman_Umum.json",
+      "itemCount": 5000,
+      "uniqueRatio": 0.0578,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 0.29,
+      "balanceScore": 4
+    },
+    {
+      "path": "soal/UTBK/utbk_latihan_Pengetahuan_Kuantitatif.json",
+      "itemCount": 5000,
+      "uniqueRatio": 0.475,
+      "topAnswerRatio": 0.2,
+      "varietyScore": 2.38,
+      "balanceScore": 4
+    }
+  ]
+}

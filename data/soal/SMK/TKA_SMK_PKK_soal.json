@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_PKK_01",
+    "pertanyaan": "Karakteristik wirausahawan yang tidak mudah menyerah dan selalu berusaha mencari jalan keluar disebut...",
+    "opsi": [
+      "Pantang menyerah (Persistent)",
+      "Kreatif",
+      "Mandiri",
+      "Disiplin",
+      "Ambisius"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Persistent adalah kunci dalam menghadapi kegagalan bisnis."
+  },
+  {
+    "id": "TKA_SMK_PKK_02",
+    "pertanyaan": "Analisis SWOT digunakan untuk memetakan kekuatan, kelemahan, peluang, dan...",
+    "opsi": [
+      "Target (Sasaran)",
+      "Threats (Ancaman)",
+      "Total (Jumlah)",
+      "Technology (Teknologi)",
+      "Time (Waktu)"
+    ],
+    "jawaban": 1,
+    "pembahasan": "SWOT: Strengths, Weaknesses, Opportunities, Threats."
+  },
+  {
+    "id": "TKA_SMK_PKK_03",
+    "pertanyaan": "Singkatan dari HAKI adalah...",
+    "opsi": [
+      "Hak Atas Keadilan Indonesia",
+      "Hukum Asal Kekayaan Individu",
+      "Hak Atas Kekayaan Intelektual",
+      "Hak Asasi Keamanan Indonesia",
+      "Hukum Adat Kekayaan Internasional"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hak Atas Kekayaan Intelektual\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_04",
+    "pertanyaan": "Wirausahawan yang menciptakan barang baru yang belum pernah ada sebelumnya disebut melakukan...",
+    "opsi": [
+      "Imitasi",
+      "Modifikasi",
+      "Duplikasi",
+      "Inovasi",
+      "Adaptasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Inovasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_05",
+    "pertanyaan": "BEP (Break Even Point) adalah titik di mana perusahaan...",
+    "opsi": [
+      "Mengalami kerugian besar",
+      "Mencapai keuntungan maksimal",
+      "Bangkrut",
+      "Membayar hutang",
+      "Tidak rugi dan tidak untung (Titik Impas)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Total Pendapatan = Total Biaya. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Tidak rugi dan tidak untung (Titik Impas)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_06",
+    "pertanyaan": "Berikut ini yang termasuk unsur strategi pemasaran 4P adalah...",
+    "opsi": [
+      "Product, Price, Place, Promotion",
+      "People, Power, Policy, Paper",
+      "Plan, Play, Part, Post",
+      "Prime, Peak, Point, Page",
+      "Pesan, Padat, Pendek, Pintar"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Product, Price, Place, Promotion\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_07",
+    "pertanyaan": "Hak eksklusif yang diberikan negara kepada penemu atas hasil penemuannya di bidang teknologi disebut...",
+    "opsi": [
+      "Hak Cipta",
+      "Paten",
+      "Merek",
+      "Desain Industri",
+      "Rahasia Dagang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Paten\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_08",
+    "pertanyaan": "Alat untuk mempromosikan produk secara online melalui media sosial disebut pemasaran...",
+    "opsi": [
+      "Langsung",
+      "Gerilya",
+      "Digital",
+      "Telemarketing",
+      "Door-to-door"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Digital\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_09",
+    "pertanyaan": "Contoh biaya tetap (Fixed Cost) dalam usaha bengkel SMK adalah...",
+    "opsi": [
+      "Biaya bahan baku oli",
+      "Biaya listrik bulanan (variabel)",
+      "Upah lembur harian",
+      "Sewa tempat/gedung",
+      "Biaya promosi fleksibel"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Biaya tetap tidak dipengaruhi oleh volume produksi."
+  },
+  {
+    "id": "TKA_SMK_PKK_10",
+    "pertanyaan": "Prototipe produk adalah...",
+    "opsi": [
+      "Produk akhir yang dijual",
+      "Kemasan produk",
+      "Iklan produk",
+      "Laporan penjualan",
+      "Contoh atau model awal sebuah produk"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Contoh atau model awal sebuah produk\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_11",
+    "pertanyaan": "Metode produksi massal pertama kali dipopulerkan oleh Henry Ford menggunakan sistem...",
+    "opsi": [
+      "Lini Perakitan (Assembly Line)",
+      "Manual",
+      "Borongan",
+      "Custom",
+      "Rumah tangga"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Lini Perakitan (Assembly Line)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_12",
+    "pertanyaan": "Salah satu ciri kreatifitas adalah 'Thinking out of the box', artinya...",
+    "opsi": [
+      "Berpikir di dalam kotak",
+      "Berpikir unik dan melampaui kebiasaan umum",
+      "Berpikir sesuai aturan saja",
+      "Tidak mau berpikir",
+      "Berpikir sambil bersembunyi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Berpikir unik dan melampaui kebiasaan umum\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_13",
+    "pertanyaan": "Laporan yang menunjukkan hasil operasional usaha selama periode tertentu (pendapatan vs beban) disebut...",
+    "opsi": [
+      "Neraca",
+      "Laporan Arus Kas",
+      "Laporan Laba Rugi",
+      "Laporan Stok Barang",
+      "Daftar Hadir"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Laporan Laba Rugi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_14",
+    "pertanyaan": "Target pasar (Segmentasi) penting ditentukan agar...",
+    "opsi": [
+      "Produk laku ke siapa saja",
+      "Harganya mahal",
+      "Pesaing takut",
+      "Pemasaran lebih fokus dan efektif tepat sasaran",
+      "Banyak yang beli"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pemasaran lebih fokus dan efektif tepat sasaran\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_15",
+    "pertanyaan": "Warna, logo, dan nama yang membedakan produk satu dengan lainnya disebut...",
+    "opsi": [
+      "Label",
+      "Kemasan",
+      "Iklan",
+      "Harga",
+      "Merek (Brand)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Merek (Brand)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_16",
+    "pertanyaan": "Kegiatan mengontrol kualitas produk agar sesuai standar perusahaan disebut...",
+    "opsi": [
+      "Quality Control (QC)",
+      "Marketing",
+      "Financing",
+      "Editing",
+      "Publishing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Quality Control (QC)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_17",
+    "pertanyaan": "Wirausahawan yang fokus pada misi sosial kemanusiaan daripada sekadar profit disebut...",
+    "opsi": [
+      "Technopreneur",
+      "Sociopreneur",
+      "Ecopreneur",
+      "Edupreneur",
+      "Intrapreneur"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sociopreneur\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_18",
+    "pertanyaan": "Dokumen tertulis yang berisi rencana usaha secara menyeluruh disebut...",
+    "opsi": [
+      "Struktur Organisasi",
+      "Jurnal Umum",
+      "Proposal Usaha (Business Plan)",
+      "Daftar Gaji",
+      "Surat Lamaran"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Proposal Usaha (Business Plan)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_19",
+    "pertanyaan": "Keahlian wirausaha dalam mengelola konflik dan memimpin tim disebut...",
+    "opsi": [
+      "Hard skill",
+      "Mechanical skill",
+      "Digital skill",
+      "Soft skill (Leadership)",
+      "Writing skill"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Soft skill (Leadership)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_20",
+    "pertanyaan": "Perhitungan HPP (Harga Pokok Penjualan) adalah jumlah dari...",
+    "opsi": [
+      "Modal awal + Keuntungan",
+      "Harga jual - Diskon",
+      "Tabungan + Hutang",
+      "Hanya bahan baku saja",
+      "Biaya bahan baku + Biaya tenaga kerja + Biaya overhead"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Biaya bahan baku + Biaya tenaga kerja + Biaya overhead\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_21",
+    "pertanyaan": "Kemasan produk selain melindungi isi juga berfungsi sebagai...",
+    "opsi": [
+      "Media promosi dan penarik minat pembeli",
+      "Bahan bakar",
+      "Sampah",
+      "Pemberat barang",
+      "Alat pengangkut"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Media promosi dan penarik minat pembeli\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_22",
+    "pertanyaan": "Tahap akhir dalam proses pembuatan prototipe adalah...",
+    "opsi": [
+      "Pembuatan sketsa",
+      "Pengujian dan evaluasi",
+      "Pemilhan bahan",
+      "Diskusi ide",
+      "Menghitung harga"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pengujian dan evaluasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_23",
+    "pertanyaan": "Model pengujian produk dengan cara memberikan contoh produk kepada konsumen terbatas disebut...",
+    "opsi": [
+      "Mass production",
+      "Grand Opening",
+      "Limited Launch / Test Market",
+      "Flash Sale",
+      "Endorsement"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Limited Launch / Test Market\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_24",
+    "pertanyaan": "Resiko bisnis yang tidak dapat dihindari tetapi dapat dimitigasi adalah...",
+    "opsi": [
+      "Persaingan pasar",
+      "Bencana alam",
+      "Kesalahan manajemen",
+      "Semua benar",
+      "Tidak ada resiko"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Semua benar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_25",
+    "pertanyaan": "Salah satu ciri peluang usaha yang baik adalah...",
+    "opsi": [
+      "Hanya musiman",
+      "Meniru habis orang lain",
+      "Modalnya harus triliunan",
+      "Hanya untuk teman saja",
+      "Memiliki nilai jual dan berkelanjutan (Sustainable)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Memiliki nilai jual dan berkelanjutan (Sustainable)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_26",
+    "pertanyaan": "Apa kelebihan wirausahawan dibandingkan karyawan?",
+    "opsi": [
+      "Waktu fleksibel dan peluang income tidak terbatas namun risiko besar",
+      "Gaji tetap",
+      "Pasti kaya",
+      "Tidak perlu bekerja",
+      "Hanya santai saja"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Waktu fleksibel dan peluang income tidak terbatas namun risiko besar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_27",
+    "pertanyaan": "Media pemasaran yang menggunakan video pendek di TikTok/Reels disebut...",
+    "opsi": [
+      "Email Marketing",
+      "Content Marketing",
+      "Search Engine Marketing",
+      "Offline Marketing",
+      "Paper Marketing"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Content Marketing\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_28",
+    "pertanyaan": "Lembaga resmi pemerintah yang menerbitkan sertifikat Paten dan Merek adalah...",
+    "opsi": [
+      "DJP (Pajak)",
+      "Polisi",
+      "DJKI (Direktorat Jenderal Kekayaan Intelektual)",
+      "Kementerian Agama",
+      "BPOM"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"DJKI (Direktorat Jenderal Kekayaan Intelektual)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_29",
+    "pertanyaan": "Sertifikasi HALAL pada produk makanan bertujuan untuk...",
+    "opsi": [
+      "Agar harganya murah",
+      "Biar cepat basi",
+      "Supaya bungkusnya bagus",
+      "Menjamin kualitas dan kesesuaian syariat bagi konsumen Muslim",
+      "Hanya hiasan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menjamin kualitas dan kesesuaian syariat bagi konsumen Muslim\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_30",
+    "pertanyaan": "Keahlian negosiasi sangat diperlukan wirausahawan untuk...",
+    "opsi": [
+      "Memaksa orang beli",
+      "Menipu rekan bisnis",
+      "Bicara terus menerus",
+      "Marah-marah",
+      "Mendapatkan kesepakatan yang saling menguntungkan (Win-win solution)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mendapatkan kesepakatan yang saling menguntungkan (Win-win solution)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_31",
+    "pertanyaan": "Salah satu etika bisnis adalah 'Kejujuran', contohnya...",
+    "opsi": [
+      "Menjelaskan kondisi barang apa adanya kepada pembeli",
+      "Mengurangi timbangan",
+      "Menyalin konten orang lain",
+      "Sembunyikan cacat produk",
+      "Janji palsu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menjelaskan kondisi barang apa adanya kepada pembeli\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_32",
+    "pertanyaan": "Apa itu dropshipping?",
+    "opsi": [
+      "Membuat pabrik sendiri",
+      "Menjual barang orang lain tanpa menyetok barang (supplier kirim langsung ke pembeli)",
+      "Membeli barang bekas",
+      "Menjual barang di pasar",
+      "Membuang barang rusak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menjual barang orang lain tanpa menyetok barang (supplier kirim langsung ke pembeli)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_33",
+    "pertanyaan": "Penerapan konsep ramah lingkungan dalam bisnis disebut...",
+    "opsi": [
+      "Blue Ocean",
+      "Black Market",
+      "Green Business",
+      "White Label",
+      "Grey Area"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Green Business\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_34",
+    "pertanyaan": "Wirausahawan yang fokus pada bisnis berbasis teknologi digital disebut...",
+    "opsi": [
+      "Farmer",
+      "Labor",
+      "Traditional Trader",
+      "Technopreneur",
+      "Civil Servant"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Technopreneur\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_35",
+    "pertanyaan": "Laba bersih diperoleh dari...",
+    "opsi": [
+      "Pendapatan - Modal",
+      "Kas di bank",
+      "Hutang bank",
+      "Semua uang masuk",
+      "Laba Kotor - Beban operasional & Pajak"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Laba Kotor - Beban operasional & Pajak\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_36",
+    "pertanyaan": "Analisis peluang usaha dengan '5W+1H' mencakup...",
+    "opsi": [
+      "What, Why, Where, When, Who, How",
+      "Way, Wait, Water, Win, Wow, Hot",
+      "Web, WiFi, Windows, Word, Winrar, Hi",
+      "Work, Wake, Walk, Write, Watch, Hope",
+      "Bukan semua di atas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"What, Why, Where, When, Who, How\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_37",
+    "pertanyaan": "Contoh industri kreatif di bidang kriya yang cocok dikembangkan siswa SMK Bangunan adalah...",
+    "opsi": [
+      "Berjualan pulsa",
+      "Pembuatan furniture unik hasil limbah kayu",
+      "Menyanyi",
+      "Otomotif",
+      "Memasak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Pembuatan furniture unik hasil limbah kayu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_38",
+    "pertanyaan": "Hak Cipta (Copyright) melindungi karya di bidang...",
+    "opsi": [
+      "Teknologi mesin",
+      "Penemuan obat",
+      "Seni, Sastra, dan Ilmu Pengetahuan",
+      "Logo perusahaan",
+      "Nama orang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Seni, Sastra, dan Ilmu Pengetahuan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_39",
+    "pertanyaan": "Apa kelemahan dari bisnis produksi massal?",
+    "opsi": [
+      "Harganya mahal",
+      "Boros tenaga",
+      "Hasilnya kotor",
+      "Kurang fleksibel untuk perubahan desain secara cepat",
+      "Tidak laku"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kurang fleksibel untuk perubahan desain secara cepat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_40",
+    "pertanyaan": "Logo perusahaan harus 'Simple and Memorable', artinya...",
+    "opsi": [
+      "Rumit dan keren",
+      "Penuh warna-warni",
+      "Tulisannya banyak",
+      "Sama dengan toko sebelah",
+      "Sederhana dan mudah diingat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Sederhana dan mudah diingat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_41",
+    "pertanyaan": "Apa itu modal ventura?",
+    "opsi": [
+      "Investasi dari perusahaan ke startup/usaha yang berisiko tinggi",
+      "Pinjaman bank biasa",
+      "Tabungan pribadi",
+      "Emas murni",
+      "Uang palsu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Investasi dari perusahaan ke startup/usaha yang berisiko tinggi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_42",
+    "pertanyaan": "Metode pembayaran COD (Cash on Delivery) berarti...",
+    "opsi": [
+      "Cicilan",
+      "Bayar di tempat saat barang sampai",
+      "Transfer lunas",
+      "Hutang dulu",
+      "Bayar pakai koin"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bayar di tempat saat barang sampai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_43",
+    "pertanyaan": "Media sosial yang paling cocok untuk pemasaran produk visual estetis adalah...",
+    "opsi": [
+      "LinkedIn",
+      "WhatsApp saja",
+      "Instagram / Pinterest",
+      "Email",
+      "Koran"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Instagram / Pinterest\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_44",
+    "pertanyaan": "Ciri khas wirausahawan sukses adalah memiliki visi, artinya...",
+    "opsi": [
+      "Pemandangan indah",
+      "Banyak teman",
+      "Banyak uang",
+      "Pandangan jauh ke depan tentang tujuan bisnisnya",
+      "Tidur nyenyak"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Pandangan jauh ke depan tentang tujuan bisnisnya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_45",
+    "pertanyaan": "Mengapa pengarsipan dokumen transaksi penting bagi UKM?",
+    "opsi": [
+      "Biar penuh kantornya",
+      "Agar bisa dibakar nanti",
+      "Supaya sulit dicari",
+      "Iseng",
+      "Sebagai bukti hukum dan dasar penyusunan laporan keuangan yang akurat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sebagai bukti hukum dan dasar penyusunan laporan keuangan yang akurat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_46",
+    "pertanyaan": "Salah satu tantangan kewirausahaan di era 4.0 adalah...",
+    "opsi": [
+      "Persaingan global dan tuntutan adaptasi teknologi digital",
+      "Pasar semakin sempit",
+      "Masyarakat malas beli",
+      "Uang tidak ada",
+      "Internet dilarang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Persaingan global dan tuntutan adaptasi teknologi digital\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_47",
+    "pertanyaan": "Apa manfaat pameran produk kreatif bagi siswa SMK?",
+    "opsi": [
+      "Mencari pacar",
+      "Uji publik produk, mendapatkan feedback, dan membangun rasa percaya diri sebagai calon wirausaha",
+      "Biar bisa bolos",
+      "Agar dibilang keren",
+      "Main game bareng"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Uji publik produk, mendapatkan feedback, dan membangun rasa percaya diri sebagai calon wirausaha\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_48",
+    "pertanyaan": "Istilah 'Reseller' berarti...",
+    "opsi": [
+      "Pembuat barang",
+      "Pembeli saja",
+      "Penjual kembali barang yang sudah dibeli dari pihak lain",
+      "Kurir",
+      "Pemilik gudang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Penjual kembali barang yang sudah dibeli dari pihak lain\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_49",
+    "pertanyaan": "Modal usaha berupa mesin dan gedung disebut modal...",
+    "opsi": [
+      "Lancar",
+      "Abstrak",
+      "Pinjaman",
+      "Tetap",
+      "Luar"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tetap\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_PKK_50",
+    "pertanyaan": "Mengapa kurikulum SMK mewajibkan mata pelajaran PKK?",
+    "opsi": [
+      "Supaya siswa sibuk",
+      "Hanya pelengkap jam",
+      "Agar jago dagang di pasar",
+      "Tidak penting",
+      "Membekali lulusan agar mampu menciptakan lapangan kerja sendiri (Wirausaha) selain bekerja di industri"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Membekali lulusan agar mampu menciptakan lapangan kerja sendiri (Wirausaha) selain bekerja di industri\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

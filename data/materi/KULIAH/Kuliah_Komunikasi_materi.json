@@ -1,0 +1,53 @@
+{
+  "judul": "Ilmu Komunikasi (Dasar dan Strategis)",
+  "tingkatan": "KULIAH",
+  "jurusan": "Soshum / Komunikasi",
+  "deskripsi": "Materi tingkat universitas mengenai teori komunikasi, jurnalistik kontemporer, public relations (PR), periklanan, serta komunikasi digital dan media sosial.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Teori Komunikasi",
+      "konten": "Elemen dasar komunikasi (komunikator, pesan, media, komunikan, efek). Model komunikasi Lasswell, Shannon & Weaver, serta teori-teori tradisi sosiopsikologis dan kritis.",
+      "tag": [
+        "kuliah komunikasi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Public Relations (Hubungan Masyarakat)",
+      "konten": "Fungsi dan peran PR dalam organisasi, manajemen krisis, branding dan reputasi, serta penulisan siaran pers (press release) dan media relations.",
+      "tag": [
+        "kuliah komunikasi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Jurnalistik dan Produksi Media",
+      "konten": "Etika jurnalistik, teknik wawancara, penulisan berita (hard news/feature), struktur piramida terbalik, serta perkembangan jurnalisme warga (citizen journalism).",
+      "tag": [
+        "kuliah komunikasi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Teori Komunikasi Massa dan Digital",
+      "konten": "Agenda Setting, teori Jarum Hipodermik (Bullet Theory), Spiral of Silence, serta dampak media sosial terhadap opini publik dan fenomena hoax.",
+      "tag": [
+        "kuliah komunikasi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Komunikasi Antarpribadi dan Lintas Budaya",
+      "konten": "Komunikasi verbal dan non-verbal, manajemen konflik interpersonal, pemahaman terhadap stereotipe budaya, serta strategi negosiasi kreatif.",
+      "tag": [
+        "kuliah komunikasi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "kuliah-komunikasi-materi",
+  "mapel": "Ilmu Komunikasi (Dasar dan Strategis)",
+  "tag": [
+    "kuliah komunikasi materi"
+  ]
+}

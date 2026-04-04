@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KU_AR_01",
+    "pertanyaan": "Semboyan arsitektur modern 'Form Follows Function' (Bentuk mengikuti fungsi) dikemukakan oleh tokoh...",
+    "opsi": [
+      "Louis Sullivan",
+      "Le Corbusier",
+      "Frank Gehry",
+      "Zaha Hadid",
+      "Antoni Gaudi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Prinsip ini menekankan bahwa bentuk bangunan harus didasarkan pada tujuan penggunaannya."
+  },
+  {
+    "id": "KU_AR_02",
+    "pertanyaan": "Semboyan 'Less is More' yang menjadi ciri khas minimalisme modern dipopulerkan oleh...",
+    "opsi": [
+      "Walter Gropius",
+      "Mies van der Rohe",
+      "Rem Koolhaas",
+      "Kenzo Tange",
+      "Bjarke Ingels"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mies van der Rohe adalah salah satu pionir arsitektur modern dunia."
+  },
+  {
+    "id": "KU_AR_03",
+    "pertanyaan": "Langgam arsitektur yang lahir sebagai reaksi terhadap modernisme, ditandai dengan kembalinya kolom-kolom klasik dan dekorasi yang eklektik, disebut...",
+    "opsi": [
+      "Arsitektur Tradisional",
+      "Arsitektur Dekonstruksi",
+      "Arsitektur Post-Modern",
+      "Arsitektur Futuristik",
+      "Arsitektur Gotik"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Post-modernisme menggabungkan unsur-unsur sejarah dengan teknologi baru."
+  },
+  {
+    "id": "KU_AR_04",
+    "pertanyaan": "Salah satu prinsip desain arsitektur yang memberikan penekanan atau pusat perhatian pada suatu bagian bangunan disebut...",
+    "opsi": [
+      "Irama",
+      "Keseimbangan",
+      "Skala",
+      "Point of Interest (Emphasis / Vocal Point)",
+      "Harmoni"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Emphasis menarik mata pengamat menuju bagian terpenting dari desain."
+  },
+  {
+    "id": "KU_AR_05",
+    "pertanyaan": "Persepsi manusia terhadap ukuran suatu objek bangunan dibandingkan dengan ukuran tubuh manusia disebut...",
+    "opsi": [
+      "Proporsi",
+      "Dimensi",
+      "Perspektif",
+      "Volume",
+      "Skala Manusia"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Skala memastikan bangunan tidak terasa mengintimidasi atau terlalu sempit bagi pengguna."
+  },
+  {
+    "id": "KU_AR_06",
+    "pertanyaan": "Konsep desain bangunan yang memaksimalkan sirkulasi udara alami dan cahaya matahari tanpa menggunakan alat elektrikal bantuan (seperti AC) disebut...",
+    "opsi": [
+      "Passive Design",
+      "Active Design",
+      "Hybrid Design",
+      "Digital Design",
+      "Interior Design"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Passive design adalah langkah kunci dalam efisiensi energi bangunan."
+  },
+  {
+    "id": "KU_AR_07",
+    "pertanyaan": "Sertifikasi bangunan hijau (Green Building) yang resmi digunakan di Indonesia adalah...",
+    "opsi": [
+      "LEED",
+      "GREENSHIP (oleh GBCI)",
+      "BREEAM",
+      "CASBEE",
+      "ISO 9001"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Greenship menilai aspek penggunaan lahan, energi, air, dan material."
+  },
+  {
+    "id": "KU_AR_08",
+    "pertanyaan": "Faktor yang mengukur persentase ruang terbuka hijau (lahan yang tidak tertutup bangunan) di sebuah persil tanah disebut...",
+    "opsi": [
+      "KDB (Koefisien Dasar Bangunan)",
+      "KLB (Koefisien Lantai Bangunan)",
+      "KDH (Koefisien Dasar Hijau)",
+      "GSB (Garis Sempadan Bangunan)",
+      "IMB"
+    ],
+    "jawaban": 2,
+    "pembahasan": "KDH memastikan ketersediaan area resapan air."
+  },
+  {
+    "id": "KU_AR_09",
+    "pertanyaan": "Batas minimal jarak antara dinding paling luar bangunan dengan as jalan atau pagar depan disebut...",
+    "opsi": [
+      "KDB",
+      "KLB",
+      "RTB",
+      "GSB (Garis Sempadan Bangunan)",
+      "RTH"
+    ],
+    "jawaban": 3,
+    "pembahasan": "GSB bertujuan untuk ketertiban ruang dan ketersediaan trotoar/drainase."
+  },
+  {
+    "id": "KU_AR_10",
+    "pertanyaan": "Massa bangunan yang tersusun secara teratur dan berulang (seperti barisan kolom atau jendela) menciptakan kesan...",
+    "opsi": [
+      "Keseimbangan",
+      "Kekacauan",
+      "Statis",
+      "Melayang",
+      "Irama (Rhythm)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Irama memberikan gerak visual pada fasad bangunan."
+  },
+  {
+    "id": "KU_AR_11",
+    "pertanyaan": "Sistem struktur yang menggunakan kabel-kabel tarik untuk menopang atap bentang lebar disebut struktur...",
+    "opsi": [
+      "Tensile Structure / Membran",
+      "Folded Plate",
+      "Space Frame",
+      "Beam and Column",
+      "Truss"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: Atap stadion olahraga atau tenda raksasa."
+  },
+  {
+    "id": "KU_AR_12",
+    "pertanyaan": "Bagian bangunan yang berfungsi mengalirkan air hujan dari atap menuju saluran bawah tanah secara vertikal adalah...",
+    "opsi": [
+      "Talang Datar",
+      "Pipa Downpipe",
+      "Pompa",
+      "Kran",
+      "Bak Kontrol"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Downpipe harus memiliki diameter yang cukup agar tidak tersumbat."
+  },
+  {
+    "id": "KU_AR_13",
+    "pertanyaan": "Bahan bangunan yang sangat populer dalam arsitektur modern karena kejujuran material (asli), pengerjaan cepat, dan kuat adalah...",
+    "opsi": [
+      "Marmer Import",
+      "Kayu Jati tua",
+      "Beton Ekspos (Fair-faced Concrete)",
+      "Bata Merah",
+      "Bambu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Beton ekspos menonjolkan tekstur asli semen tanpa finishing cat."
+  },
+  {
+    "id": "KU_AR_14",
+    "pertanyaan": "Analisis yang dilakukan sebelum mendesain untuk mengetahui arah angin, sirkulasi matahari, kebisingan, dan pemandangan di sekitar lahan disebut...",
+    "opsi": [
+      "Analisis Harga",
+      "Analisis Struktur",
+      "Analisis Pasar",
+      "Analisis Tapak (Site Analysis)",
+      "Analisis Kimia"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Analisis tapak menentukan orientasi bangunan yang paling nyaman."
+  },
+  {
+    "id": "KU_AR_15",
+    "pertanyaan": "Apa kelebihan penggunaan material bambu dalam arsitektur tropis?",
+    "opsi": [
+      "Sangat berat",
+      "Tahan api selamanya",
+      "Tidak bisa busuk",
+      "Dihasilkan dari pabrik baja",
+      "Ramah lingkungan, murah, elastis, dan memiliki estetika alami yang kuat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bambu sering disebut sebagai 'baja hijau'."
+  },
+  {
+    "id": "KU_AR_16",
+    "pertanyaan": "Ruangan atau area di dalam gedung yang berfungsi sebagai jalur evakuasi saat terjadi kebakaran adalah...",
+    "opsi": [
+      "Tangga Darurat (Emergency Stairs)",
+      "Lift Barang",
+      "Mushola",
+      "Kamar Mandi",
+      "Gudang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tangga darurat harus dilapisi dinding tahan api dan memiliki tekanan udara positif."
+  },
+  {
+    "id": "KU_AR_17",
+    "pertanyaan": "Sistem pendingin ruangan terpusat untuk gedung besar disebut sistem...",
+    "opsi": [
+      "Kipas Angin",
+      "AC Central / Chiller",
+      "AC Split",
+      "Exhaust Fan",
+      "Pompa Air"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mendinginkan seluruh lantai gedung lewat saluran udara (ductwork)."
+  },
+  {
+    "id": "KU_AR_18",
+    "pertanyaan": "Gambar yang menunjukkan tampak bangunan dari arah atas (seperti burung melihat) secara horizontal di ketinggian tertentu disebut...",
+    "opsi": [
+      "Tampak Depan",
+      "Potongan (Section)",
+      "Denah (Plan)",
+      "Perspektif",
+      "Sketsa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Denah biasanya dipotong setinggi 1 meter dari lantai untuk memperlihatkan bukaan pintu/jendela."
+  },
+  {
+    "id": "KU_AR_19",
+    "pertanyaan": "Gambar yang menunjukkan irisan bangunan secara vertikal untuk melihat struktur bagian dalam disebut...",
+    "opsi": [
+      "Denah",
+      "Tampak Samping",
+      "Isometri",
+      "Potongan (Section)",
+      "Axonometry"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Potongan menunjukkan hubungan antar lantai dan struktur atap."
+  },
+  {
+    "id": "KU_AR_20",
+    "pertanyaan": "Teknik penggambaran 3D yang menggunakan satu atau lebih titik hilang agar terlihat nyata seperti pandangan mata manusia disebut...",
+    "opsi": [
+      "Ortogonal",
+      "Proyeksi",
+      "Simbol",
+      "Hatching",
+      "Perspektif"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Perspektif membantu klien memvisualisasikan hasil akhir desain."
+  },
+  {
+    "id": "KU_AR_21",
+    "pertanyaan": "Kompetisi desain arsitektur paling bergengsi di dunia yang setara dengan piala Nobel dinamakan...",
+    "opsi": [
+      "Pritzker Architecture Prize",
+      "Grammy Award",
+      "Oscar",
+      "BAFTA",
+      "Nobel Prize"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penghargaan ini diberikan setiap tahun sebagai penghormatan kepada arsitek yang masih hidup."
+  },
+  {
+    "id": "KU_AR_22",
+    "pertanyaan": "Gaya arsitektur yang lahir di Jerman (sekolah desain) yang mengutamakan fungsi, rasionalitas, dan produksi massal adalah...",
+    "opsi": [
+      "Barok",
+      "Bauhaus",
+      "Art Nouveau",
+      "Art Deco",
+      "Gotik"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Bauhaus memiliki pengaruh besar pada desain dunia hingga saat ini."
+  },
+  {
+    "id": "KU_AR_23",
+    "pertanyaan": "Jenis rumah tradisional Indonesia yang menggunakan struktur panggung dan atap berbentuk tanduk kerbau (gonjong) adalah...",
+    "opsi": [
+      "Rumah Joglo (Jawa)",
+      "Rumah Honai (Papua)",
+      "Rumah Gadang (Minangkabau)",
+      "Rumah Tongkonan (Toraja)",
+      "Rumah Gadang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Rumah Gadang merupakan mahakarya arsitektur nusantara di Sumatera Barat."
+  },
+  {
+    "id": "KU_AR_24",
+    "pertanyaan": "Konsep 'Smart City' dalam arsitektur mencakup hal-hal berikut, kecuali...",
+    "opsi": [
+      "Sistem transportasi terintegrasi",
+      "Penggunaan gedung hemat energi",
+      "E-government",
+      "Penghancuran seluruh hutan kota untuk dibangun mal",
+      "Manajemen limbah berbasis digital"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hutan kota (RTH) wajib ada dalam komponen kota cerdas yang berkelanjutan."
+  },
+  {
+    "id": "KU_AR_25",
+    "pertanyaan": "Apa itu 'Urban Sprawl'?",
+    "opsi": [
+      "Penataan taman kota",
+      "Pembangunan MRT",
+      "Pembatasan jumlah penduduk",
+      "Perayaan ulang tahun kota",
+      "Pemekaran area perkotaan yang tidak terkontrol ke pinggiran kota"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Urban sprawl menyebabkan inefisiensi infrastruktur dan hilangnya lahan pertanian."
+  },
+  {
+    "id": "KU_AR_26",
+    "pertanyaan": "Salah satu prinsip Arsitektur Tropis adalah penyediaan 'Overstek' yang berfungsi untuk...",
+    "opsi": [
+      "Melindungi dinding dan jendela dari teriasan sinar matahari langsung dan air hujan",
+      "Mempercantik atap saja",
+      "Tempat memasang lampu",
+      "Mengurangi ketinggian bangunan",
+      "Mengikat kabel listrik"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Teritisan (overstek) yang lebar sangat efektif untuk iklim di Indonesia."
+  },
+  {
+    "id": "KU_AR_27",
+    "pertanyaan": "Pemisahan antara area publik (lobi) dan area privat (kamar tidur) dalam sebuah rumah disebut dengan pembagian...",
+    "opsi": [
+      "Struktur",
+      "Zoning (Zonasi) Ruang",
+      "Sirkulasi",
+      "Estetika",
+      "Warna"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Zonasi menjaga privasi dan kenyamanan aktivitas penghuni."
+  },
+  {
+    "id": "KU_AR_28",
+    "pertanyaan": "Elemen sirkulasi vertikal di dalam bangunan yang digerakkan oleh motor listrik secara otomatis disebut...",
+    "opsi": [
+      "Tangga",
+      "Ramp",
+      "Lift (Elevator)",
+      "Jendela",
+      "Pintu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Wajib ada bagi bangunan gedung yang memiliki lebih dari 3-4 lantai."
+  },
+  {
+    "id": "KU_AR_29",
+    "pertanyaan": "Teknik penggambaran bayangan pada benda atau bangunan agar terlihat memiliki volume cahaya disebut...",
+    "opsi": [
+      "Tracing",
+      "Inking",
+      "Sketching",
+      "Rendering",
+      "Erasing"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Rendering (arsiran/warna) membuat desain terlihat lebih hidup."
+  },
+  {
+    "id": "KU_AR_30",
+    "pertanyaan": "Software (perangkat lunak) standar industri untuk menggambar teknik 2D dan 3D di arsitektur adalah...",
+    "opsi": [
+      "Microsoft Word",
+      "Winamp",
+      "Calculator",
+      "Notepad",
+      "AutoCAD / SketchUp / Revit"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Software CAD mempermudah pembuatan gambar kerja yang presisi."
+  },
+  {
+    "id": "KU_AR_31",
+    "pertanyaan": "Alat yang digunakan untuk mencetak gambar arsitektur berukuran besar (seperti kertas A1/A0) disebut...",
+    "opsi": [
+      "Plotter",
+      "Scanner",
+      "Printer rumahan",
+      "LCD Projector",
+      "Fotokopi kecil"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Plotter mampu mencetak garis detail dengan format kertas lebar."
+  },
+  {
+    "id": "KU_AR_32",
+    "pertanyaan": "Maket bangunan berfungsi sebagai...",
+    "opsi": [
+      "Mainan anak arsitek",
+      "Presentasi model fisik 3D bangunan dalam skala kecil agar mudah dipelajari ruangnya",
+      "Ganjal meja",
+      "Bahan bangunan asli",
+      "Hadiah ulang tahun"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Maket membantu pemahaman spasial (ruang) yang tidak bisa dilakukan hanya oleh gambar 2D."
+  },
+  {
+    "id": "KU_AR_33",
+    "pertanyaan": "Unit terkecil dari sistem pemukiman yang harus memiliki fasilitas sosial dan fasilitas umum adalah...",
+    "opsi": [
+      "Negara",
+      "Benua",
+      "Unit Lingkungan (Tetangga)",
+      "Dunia",
+      "Antariksa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Perencanaan tingkat lingkungan adalah dasar manajemen kota yang baik."
+  },
+  {
+    "id": "KU_AR_34",
+    "pertanyaan": "Konsep pengembangan kota yang berorientasi pada titik simpul transportasi massal (misal sekitar stasiun MRT/LRT) disebut...",
+    "opsi": [
+      "CBD",
+      "Zoning System",
+      "Housing Estate",
+      "TOD (Transit Oriented Development)",
+      "Industrial Zone"
+    ],
+    "jawaban": 3,
+    "pembahasan": "TOD mengurangi ketergantungan masyarakat pada kendaraan pribadi."
+  },
+  {
+    "id": "KU_AR_35",
+    "pertanyaan": "Pemisahan jalur pejalan kaki (pedestrian) dengan jalur kendaraan bermotor bertujuan untuk...",
+    "opsi": [
+      "Keindahan aspal",
+      "Agar motor bisa naik trotoar",
+      "Menyiram tanaman",
+      "Tempat berjualan pedagang liar saja",
+      "Keselamatan dan kenyamanan pejalan kaki"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Trotoar yang lebar dan aman adalah ciri kota yang manusiawi."
+  },
+  {
+    "id": "KU_AR_36",
+    "pertanyaan": "Gaya arsitektur gereja di Eropa pada abad pertengahan yang ditandai dengan jendela kaca patri berwarna dan lengkungan lancip adalah gaya...",
+    "opsi": [
+      "Gotik",
+      "Modern",
+      "Minimalis",
+      "Tropis",
+      "Zen"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Gaya Gotik ditekankan pada ketinggian bangunan yang mengarah ke langit (religiusitas)."
+  },
+  {
+    "id": "KU_AR_37",
+    "pertanyaan": "Apa itu 'Fasade' (Facade) bangunan?",
+    "opsi": [
+      "Lantai rumah",
+      "Tampilan luar (muka) suatu bangunan",
+      "Atap bangunan",
+      "Tanah bangunan",
+      "Sumur gedung"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Fasad adalah identitas visual bangunan yang dilihat orang dari luar."
+  },
+  {
+    "id": "KU_AR_38",
+    "pertanyaan": "Jenis material penutup atap yang paling baik meredam panas matahari untuk rumah tinggal adalah...",
+    "opsi": [
+      "Seng",
+      "Plat Baja",
+      "Genteng Tanah Liat / Keramik",
+      "Kaca",
+      "Beton tipis"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tanah liat memiliki sifat isolasi termal yang baik dibanding logam."
+  },
+  {
+    "id": "KU_AR_39",
+    "pertanyaan": "Penggunaan 'Void' (lubang bertingkat) di dalam rumah bertujuan untuk...",
+    "opsi": [
+      "Membuang air",
+      "Tempat menyimpan tangga",
+      "Mengecilkan rumah",
+      "Menciptakan kesan luas dan melancarkan sirkulasi udara antar lantai",
+      "Biar rumah berisik"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Void memberikan koneksi visual antar penghuni di lantai berbeda."
+  },
+  {
+    "id": "KU_AR_40",
+    "pertanyaan": "Penerangan yang berasal dari lampu buatan disebut penerangan...",
+    "opsi": [
+      "Alami",
+      "Cahaya Bulan",
+      "Aura",
+      "Sinar X",
+      "Buatan (Artificial Lighting)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pemanfaatan lampu harus memperhatikan nilai estetika dan besarnya daya (Watt)."
+  },
+  {
+    "id": "KU_AR_41",
+    "pertanyaan": "Unit yang digunakan untuk mengukur kuat penerangan di suatu permukaan (misal meja kerja) adalah...",
+    "opsi": [
+      "Lux",
+      "Watt",
+      "Volt",
+      "Mole",
+      "Candela"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Standar Lux untuk ruang kantor berbeda dengan Lux untuk gudang."
+  },
+  {
+    "id": "KU_AR_42",
+    "pertanyaan": "Salah satu ciri arsitektur Vernakular adalah...",
+    "opsi": [
+      "Menggunakan material import dari luar negeri",
+      "Mengadopsi kearifan lokal daerah setempat menggunakan material yang ada di sekitar",
+      "Dibangun oleh robot",
+      "Penuh dengan lampu neon",
+      "Bertema luar angkasa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Arsitektur vernakular sangat responsif terhadap iklim lokal."
+  },
+  {
+    "id": "KU_AR_43",
+    "pertanyaan": "Berapakah sudut kemiringan atap genteng yang ideal agar air hujan mengalir lancar namun tidak merosot?",
+    "opsi": [
+      "0 derajat (datar)",
+      "90 derajat (tegak)",
+      "30 - 35 derajat",
+      "180 derajat",
+      "Sesuai selera asal ekstrim"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kemiringan yang tepat mencegah kebocoran air saat hujan deras."
+  },
+  {
+    "id": "KU_AR_44",
+    "pertanyaan": "Bagian atap yang berfungsi sebagai jalur pertemuan dua bidang atap dan sering menjadi titik rawan bocor disebut...",
+    "opsi": [
+      "Usuk",
+      "Gording",
+      "Reng",
+      "Bubungan / Nok",
+      "Listplank"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bubungan harus ditutup dengan semen/genteng khusus (karpusan) agar kedap air."
+  },
+  {
+    "id": "KU_AR_45",
+    "pertanyaan": "Dalam arsitektur lansekap, elemen 'Softscape' meliputi...",
+    "opsi": [
+      "Kursi taman baja",
+      "Kolam semen",
+      "Jalan setapak batu",
+      "Lampu taman",
+      "Tanaman, rumput, dan pepohonan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Softscape memberikan elemen 'hidup' pada area taman."
+  },
+  {
+    "id": "KU_AR_46",
+    "pertanyaan": "Elemen 'Hardscape' pada desain taman meliputi...",
+    "opsi": [
+      "Bebatuan, pergola, perkerasan jalan, dan patung",
+      "Pohon Mangga",
+      "Air mancur saja",
+      "Tanah liat",
+      "Udara"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Hardscape memberikan struktur keras pada lansekap."
+  },
+  {
+    "id": "KU_AR_47",
+    "pertanyaan": "Seni menata interior bangunan agar fungsional dan indah disebut...",
+    "opsi": [
+      "Arsitektur Luar",
+      "Interior Design",
+      "Desain Produk",
+      "Seni Lukis",
+      "Teknik Sipil"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Interior design fokus pada pemilihan furnitur, warna dinding, dan pencahayaan dalam ruang."
+  },
+  {
+    "id": "KU_AR_48",
+    "pertanyaan": "Apa pengaruh warna merah pada interior sebuah restoran menurut psikologi warna?",
+    "opsi": [
+      "Membuat mengantuk",
+      "Menimbulkan rasa sedih",
+      "Meningkatkan nafsu makan dan energi",
+      "Supaya pelanggan cepat pergi",
+      "Mendinginkan suasana"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Warna-warna hangat (merah/jingga) sering digunakan untuk menstimulasi rasa lapar."
+  },
+  {
+    "id": "KU_AR_49",
+    "pertanyaan": "Keahlian utama yang wajib dimiliki seorang arsitek adalah...",
+    "opsi": [
+      "Menghitung uang bank",
+      "Hanya mahir menggambar garis saja",
+      "Bisa mengangkat semen",
+      "Berpikir spasial (keruangan) dan memecahkan masalah fungsi melalui bentuk bangunan",
+      "Bisa memasang kabel"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Arsitek harus mampu menyeimbangkan antara seni (estetika) dan teknik (kekuatan)."
+  },
+  {
+    "id": "KU_AR_50",
+    "pertanyaan": "Izin resmi dari pemerintah pusat/daerah untuk memulai pembangunan sebuah gedung disebut...",
+    "opsi": [
+      "KTP",
+      "Paspor",
+      "Kartu Keluarga",
+      "Nota Kontraktor",
+      "PBG (Persetujuan Bangunan Gedung) / dulu IMB"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Membangun tanpa PBG dapat dikenakan sanksi bongkar atau denda."
+  }
+]

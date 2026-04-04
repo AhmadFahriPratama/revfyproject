@@ -1,0 +1,17 @@
+{
+  "id": "sprint-calendar-templates",
+  "templates": [
+    {
+      "name": "7-day sprint",
+      "sessionsPerDay": 2
+    },
+    {
+      "name": "14-day sprint",
+      "sessionsPerDay": 2
+    },
+    {
+      "name": "30-day intensive",
+      "sessionsPerDay": 3
+    }
+  ]
+}

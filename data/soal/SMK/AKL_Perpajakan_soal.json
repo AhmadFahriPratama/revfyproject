@@ -1,0 +1,652 @@
+[
+  {
+    "id": "AKL_PJK_01",
+    "pertanyaan": "Fungsi pajak yang digunakan untuk membiayai pengeluaran-pengeluaran negara disebut fungsi...",
+    "opsi": [
+      "Anggaran (Budgetair)",
+      "Reguler",
+      "Distribusi",
+      "Nasional",
+      "Moneter"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Fungsi Budgetair berarti pajak merupakan sumber utama pendapatan negara untuk membiayai pengeluaran rutin dan pembangunan."
+  },
+  {
+    "id": "AKL_PJK_02",
+    "pertanyaan": "Asas pemungutan pajak di mana pajak dikenakan di tempat tinggal wajib pajak tanpa melihat asal penghasilan adalah...",
+    "opsi": [
+      "Asas Sumber",
+      "Asas Domisili",
+      "Asas Kebangsaan",
+      "Asas Kelayakan",
+      "Asas Ekonomis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Asas Domisili (Kependudukan) menyatakan negara berhak memungut pajak dari penduduknya baik penghasilan dari dalam maupun luar negeri."
+  },
+  {
+    "id": "AKL_PJK_03",
+    "pertanyaan": "Sistem pemungutan pajak di mana wajib pajak diberikan kepercayaan untuk mendaftar, menghitung, membayar, dan melaporkan pajaknya sendiri adalah...",
+    "opsi": [
+      "Official Assessment System",
+      "Withholding System",
+      "Self Assessment System",
+      "Manual Assessment System",
+      "Economic System"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Indonesia menggunakan Self Assessment System yang memberi peran aktif penuh kepada Wajib Pajak."
+  },
+  {
+    "id": "AKL_PJK_04",
+    "pertanyaan": "NPWP adalah sarana dalam administrasi perpajakan yang digunakan sebagai tanda pengenal diri atau identitas wajib pajak. Kepanjangan NPWP adalah...",
+    "opsi": [
+      "Nomor Pokok Warga Pajak",
+      "Nomor Pendaftaran Wajib Pajak",
+      "Nomor Persiapan Wajib Pajak",
+      "Nomor Pokok Wajib Pajak",
+      "Nomor Pengenal Wajib Pajak"
+    ],
+    "jawaban": 3,
+    "pembahasan": "NPWP (Nomor Pokok Wajib Pajak) wajib dimiliki oleh orang pribadi/badan yang memenuhi syarat subjektif dan objektif."
+  },
+  {
+    "id": "AKL_PJK_05",
+    "pertanyaan": "Surat yang digunakan oleh wajib pajak untuk melaporkan perhitungan dan pembayaran pajak yang terutang disebut...",
+    "opsi": [
+      "SSP",
+      "SKP",
+      "STP",
+      "NPWP",
+      "SPT"
+    ],
+    "jawaban": 4,
+    "pembahasan": "SPT (Surat Pemberitahuan) adalah dokumen resmi untuk lapor pajak ke Direktorat Jenderal Pajak."
+  },
+  {
+    "id": "AKL_PJK_06",
+    "pertanyaan": "Penghasilan Tidak Kena Pajak (PTKP) untuk Wajib Pajak Orang Pribadi (Status K/0 - Kawin tanpa tanggungan) saat ini adalah...",
+    "opsi": [
+      "Rp 58.500.000",
+      "Rp 54.000.000",
+      "Rp 63.000.000",
+      "Rp 67.500.000",
+      "Rp 72.000.000"
+    ],
+    "jawaban": 0,
+    "pembahasan": "PTKP Dasar (TK/0) = 54jt. Tambahan Kawin = 4,5jt. Total K/0 = 58,5 Juta per tahun."
+  },
+  {
+    "id": "AKL_PJK_07",
+    "pertanyaan": "Berapakah tarif PPh Pasal 21 untuk wajib pajak dengan penghasilan kena pajak 0 sampai 60 Juta rupiah per tahun?",
+    "opsi": [
+      "10%",
+      "5%",
+      "15%",
+      "25%",
+      "35%"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Berdasarkan UU HPP, lapisan (bracket) pertama PPh 21 adalah 5% untuk penghasilan s.d Rp 60.000.000."
+  },
+  {
+    "id": "AKL_PJK_08",
+    "pertanyaan": "Wajib pajak yang tidak memiliki NPWP akan dikenakan tarif PPh Pasal 21 lebih tinggi sebesar...",
+    "opsi": [
+      "10% lebih tinggi",
+      "50% lebih tinggi",
+      "20% lebih tinggi",
+      "100% lebih tinggi",
+      "Tidak dikenakan pajak"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Penerima penghasilan tanpa NPWP dipotong 120% (atau 20% lebih tinggi) dari tarif normal."
+  },
+  {
+    "id": "AKL_PJK_09",
+    "pertanyaan": "Pajak yang dikenakan atas penyerahan Barang Kena Pajak (BKP) atau Jasa Kena Pajak (JKP) adalah...",
+    "opsi": [
+      "PPh",
+      "PBB",
+      "Bea Materai",
+      "PPN",
+      "Pajak Ekspor"
+    ],
+    "jawaban": 3,
+    "pembahasan": "PPN (Pajak Pertambahan Nilai) adalah pajak konsumsi yang dipungut oleh pengusaha kena pajak (PKP)."
+  },
+  {
+    "id": "AKL_PJK_10",
+    "pertanyaan": "Tarif umum PPN di Indonesia per 1 April 2022 adalah...",
+    "opsi": [
+      "5%",
+      "10%",
+      "12%",
+      "15%",
+      "11%"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sesuai UU HPP, tarif PPN naik dari 10% menjadi 11% sejak April 2022."
+  },
+  {
+    "id": "AKL_PJK_11",
+    "pertanyaan": "Pihak yang memotong PPh Pasal 21 atas gaji karyawan adalah...",
+    "opsi": [
+      "Pemberi Kerja (Perusahaan)",
+      "Karyawan sendiri",
+      "Bank",
+      "Otoritas Jasa Keuangan",
+      "Dinas Sosial"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Perusahaan wajib memotong PPh 21 sebelum memberikan gaji bersih kepada karyawan (Withholding System)."
+  },
+  {
+    "id": "AKL_PJK_12",
+    "pertanyaan": "SSP adalah dokumen yang digunakan wajib pajak untuk...",
+    "opsi": [
+      "Melaporkan pajak",
+      "Membayar atau menyetor pajak ke kas negara",
+      "Mengajukan keberatan",
+      "Mendaftarkan perusahaan",
+      "Meminta restitusi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "SSP (Surat Setoran Pajak) digunakan sebagai bukti pembayaran pajak yang telah divalidasi oleh bank persepsi/kantor pos."
+  },
+  {
+    "id": "AKL_PJK_13",
+    "pertanyaan": "Berikut adalah objek pajak yang dikenakan tarif Bea Materai Rp 10.000, KECUALI...",
+    "opsi": [
+      "Surat Perjanjian",
+      "Akta Notaris",
+      "Surat lamaran kerja",
+      "Kwitansi pembayaran > Rp 5.000.000",
+      "Surat Berharga (Saham/Obligasi)"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Surat lamaran kerja bukan merupakan dokumen yang menjadi objek bea materai."
+  },
+  {
+    "id": "AKL_PJK_14",
+    "pertanyaan": "Pajak Bumi dan Bangunan (PBB) sektor Perdesaan dan Perkotaan (P2) merupakan jenis pajak...",
+    "opsi": [
+      "Pajak Pusat",
+      "Pajak Provinsi",
+      "Pajak Internasional",
+      "Pajak Kabupaten/Kota (Daerah)",
+      "Pajak Sukarela"
+    ],
+    "jawaban": 3,
+    "pembahasan": "PBB-P2 dikelola sepenuhnya oleh pemerintah daerah tingkat II (Kabupaten/Kota)."
+  },
+  {
+    "id": "AKL_PJK_15",
+    "pertanyaan": "Batas waktu pelaporan SPT Tahunan Wajib Pajak Orang Pribadi paling lambat tanggal...",
+    "opsi": [
+      "31 Januari",
+      "28 Februari",
+      "30 April",
+      "31 Desember",
+      "31 Maret"
+    ],
+    "jawaban": 4,
+    "pembahasan": "SPT OP harus lapor maksimal 3 bulan setelah tahun pajak berakhir (31 Maret)."
+  },
+  {
+    "id": "AKL_PJK_16",
+    "pertanyaan": "Batas waktu pelaporan SPT Tahunan Wajib Pajak Badan (Perusahaan) paling lambat tanggal...",
+    "opsi": [
+      "30 April",
+      "31 Maret",
+      "31 Mei",
+      "30 Juni",
+      "31 Juli"
+    ],
+    "jawaban": 0,
+    "pembahasan": "SPT Badan harus lapor maksimal 4 bulan setelah tahun pajak berakhir (30 April)."
+  },
+  {
+    "id": "AKL_PJK_17",
+    "pertanyaan": "Fasilitas pengembalian kelebihan pembayaran pajak disebut...",
+    "opsi": [
+      "Kompensasi",
+      "Restitusi",
+      "Reses",
+      "Revisi",
+      "Reduksi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Restitusi diajukan jika pajak yang dibayar lebih besar dari pajak yang terutang."
+  },
+  {
+    "id": "AKL_PJK_18",
+    "pertanyaan": "Pengusaha yang dalam setahun memiliki peredaran bruto/omzet di atas Rp 4,8 Miliar wajib dikukuhkan sebagai...",
+    "opsi": [
+      "Usaha Mikro",
+      "Eksportir Terpercaya",
+      "Pengusaha Kena Pajak (PKP)",
+      "BUMN",
+      "Wajib Pajak Patuh"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hanya PKP yang berhak memungut PPN dan membuat Faktur Pajak."
+  },
+  {
+    "id": "AKL_PJK_19",
+    "pertanyaan": "Bukti pungutan PPN yang dibuat oleh PKP saat menjual barang disebut...",
+    "opsi": [
+      "SPT Masa",
+      "Nota Retur",
+      "Kwitansi",
+      "Faktur Pajak",
+      "Invoice"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Faktur Pajak adalah bukti pungutan pajak yang dibuat oleh PKP karena penyerahan BKP/JKP."
+  },
+  {
+    "id": "AKL_PJK_20",
+    "pertanyaan": "Pajak yang bebannya tidak dapat dilimpahkan kepada orang lain disebut...",
+    "opsi": [
+      "Pajak Tidak Langsung",
+      "Pajak Pertambahan Nilai",
+      "Pajak Penjualan",
+      "Bea Cukai",
+      "Pajak Langsung"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh pajak langsung adalah PPh, karena subjek pajak yang terutang adalah pemikul bebannya."
+  },
+  {
+    "id": "AKL_PJK_21",
+    "pertanyaan": "Contoh pajak tidak langsung adalah...",
+    "opsi": [
+      "Pajak Pertambahan Nilai (PPN)",
+      "PPh Pasal 21",
+      "Pajak Bumi dan Bangunan",
+      "Pajak Kendaraan Bermotor",
+      "Pajak Warisan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "PPN adalah pajak tidak langsung karena bebannya dialihkan ke konsumen akhir."
+  },
+  {
+    "id": "AKL_PJK_22",
+    "pertanyaan": "Besarnya biaya jabatan yang boleh dikurangkan dalam perhitungan PPh 21 adalah 5% dengan maksimal...",
+    "opsi": [
+      "Rp 500.000 per bulan",
+      "Jawaban A dan B benar",
+      "Rp 6.000.000 per tahun",
+      "Rp 1.000.000 per bulan",
+      "Rp 12.000.000 per tahun"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biaya jabatan maksimal adalah Rp 500rb/bulan atau Rp 6jt/tahun."
+  },
+  {
+    "id": "AKL_PJK_23",
+    "pertanyaan": "Subjek pajak luar negeri adalah...",
+    "opsi": [
+      "WNA yang tinggal di Indonesia lebih dari 183 hari",
+      "Duta besar Indonesia di luar negeri",
+      "WNA/WNI yang tidak bertempat tinggal di Indonesia tetapi memperoleh penghasilan dari Indonesia",
+      "Turis yang hanya berkunjung 3 hari",
+      "Perusahaan nasional yang ekspor barang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Subjek pajak luar negeri dikenakan pajak hanya atas penghasilan yang bersumber dari Indonesia."
+  },
+  {
+    "id": "AKL_PJK_24",
+    "pertanyaan": "Sanksi bunga bagi wajib pajak yang terlambat membayar pajak terutang dihitung berdasarkan...",
+    "opsi": [
+      "Persentase tetap 2% per bulan",
+      "Denda 100rb per hari",
+      "Nominal tetap 1 Juta",
+      "Suku bunga acuan BI + markup dibagi 12",
+      "Hukuman kurungan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "UU HPP mengubah sanksi bunga menjadi tarif bunga pasar yang lebih dinamis."
+  },
+  {
+    "id": "AKL_PJK_25",
+    "pertanyaan": "Berikut ini yang BUKAN termasuk subjek pajak badan adalah...",
+    "opsi": [
+      "PT dan CV",
+      "Firma dan Kongsi",
+      "Koperasi dan Yayasan",
+      "Dana Pensiun",
+      "Unit Pelaksana dari instansi pemerintah"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Instansi pemerintah atau unit pelaksana biayanya dari APBN/APBD bukan subjek pajak badan."
+  },
+  {
+    "id": "AKL_PJK_26",
+    "pertanyaan": "Pajak atas bunga deposito, hadiah undian, dan penjualan saham di bursa efek bersifat...",
+    "opsi": [
+      "Final",
+      "Tidak Final",
+      "Opsional",
+      "Tanggguhan",
+      "Bebas Pajak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pajak Final berarti pajak yang telah dipotong tidak perlu digabungkan lagi dengan penghasilan lain di SPT Tahunan."
+  },
+  {
+    "id": "AKL_PJK_27",
+    "pertanyaan": "PPN Masukan adalah PPN yang...",
+    "opsi": [
+      "Dipungut saat kita menjual barang",
+      "Dibayar saat kita membeli barang/jasa dari PKP lain",
+      "Diberikan sebagai cashback",
+      "Dihapus oleh pemerintah",
+      "Hanya untuk impor"
+    ],
+    "jawaban": 1,
+    "pembahasan": "PPN Masukan dapat dikreditkan (dikurangi) dengan PPN Keluaran saat pelaporan SPT Masa."
+  },
+  {
+    "id": "AKL_PJK_28",
+    "pertanyaan": "Jika PPN Keluaran > PPN Masukan, maka yang terjadi adalah...",
+    "opsi": [
+      "Lebih Bayar",
+      "Nihil",
+      "Kurang Bayar (harus setor kas negara)",
+      "Restitusi",
+      "Pencabutan NPWP"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kurang bayar terjadi karena pajak yang dipungut dari konsumen lebih besar dari pajak yang kita bayar ke supplier."
+  },
+  {
+    "id": "AKL_PJK_29",
+    "pertanyaan": "Apa singkatan dari Fiskus?",
+    "opsi": [
+      "Ahli Ekonomi",
+      "Konsultan Pajak",
+      "Pembayar Pajak",
+      "Pejabat Pajak / Aparat Pajak",
+      "Direktur Perusahaan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Fiskus adalah sebutan bagi aparat negara yang bertugas melakukan monitoring dan penagihan pajak."
+  },
+  {
+    "id": "AKL_PJK_30",
+    "pertanyaan": "Pajak yang dikenakan atas barang-barang mewah untuk mengendalikan pola konsumsi disebut...",
+    "opsi": [
+      "PPN",
+      "PPh Final",
+      "Bea Masuk",
+      "Cukai",
+      "PPnBM"
+    ],
+    "jawaban": 4,
+    "pembahasan": "PPnBM (Pajak Penjualan atas Barang Mewah) dipungut hanya satu kali pada saat impor atau penyerahan oleh produsen."
+  },
+  {
+    "id": "AKL_PJK_31",
+    "pertanyaan": "Fasilitas pelaporan SPT yang dilakukan secara online tanpa perlu ke kantor pajak disebut...",
+    "opsi": [
+      "e-Filing",
+      "e-Nofa",
+      "e-Billing",
+      "e-Faktur",
+      "e-Bupot"
+    ],
+    "jawaban": 0,
+    "pembahasan": "e-Filing memungkinkan WP melapor pajak kapan saja melalui situs DJP Online."
+  },
+  {
+    "id": "AKL_PJK_32",
+    "pertanyaan": "Wajib pajak yang sengaja tidak melaporkan pajak sehingga merugikan pendapatan negara dapat dikenakan...",
+    "opsi": [
+      "Sanksi Administrasi",
+      "Jawaban A dan B benar",
+      "Sanksi Pidana (Penjara)",
+      "Pemberian piagam",
+      "Pembebasan hutang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sanksi pajak bisa berupa denda uang (administrasi) hingga kurungan penjara (pidana) untuk kasus berat."
+  },
+  {
+    "id": "AKL_PJK_33",
+    "pertanyaan": "Aset pajak yang memberikan hak kepada WP untuk mengurangi penghasilan bruto di masa depan disebut...",
+    "opsi": [
+      "Hutang Pajak",
+      "Pajak Tangguhan Aktiva",
+      "Kredit Pajak",
+      "Beban Fiskal",
+      "Amortisasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kredit pajak (misal PPh 22, 23, 24) berfungsi sebagai pengurang cicilan Pajak Terutang di akhir tahun."
+  },
+  {
+    "id": "AKL_PJK_34",
+    "pertanyaan": "Pemungutan pajak harus berdasarkan hukum (Undang-Undang), hal ini sesuai pasal...",
+    "opsi": [
+      "Pasal 27 ayat 1",
+      "Pasal 33 UUD 1945",
+      "Peraturan RT/RW",
+      "Pasal 23A UUD 1945",
+      "Instruksi Presiden"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pasal 23A berbunyi: 'Pajak dan pungutan lain yang bersifat memaksa untuk keperluan negara diatur dengan undang-undang'."
+  },
+  {
+    "id": "AKL_PJK_35",
+    "pertanyaan": "Penerimaan piutang restitusi pajak oleh perusahaan dijurnal dengan...",
+    "opsi": [
+      "Kas (D) dan Pendapatan Pajak (K)",
+      "Beban Pajak (D) dan Kas (K)",
+      "Hutang Pajak (D) dan Pendapatan (K)",
+      "Piutang (D) dan Modal (K)",
+      "Kas (D) dan Piutang Restitusi Pajak (K)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Saat dana restitusi cair, kas bertambah dan piutang pajak tersebut dihapus (dikredit)."
+  },
+  {
+    "id": "AKL_PJK_36",
+    "pertanyaan": "Objek PPh Pasal 23 yang paling umum adalah...",
+    "opsi": [
+      "Dividen, Bunga, Roda, dan Jasa tertentu",
+      "Upah harian buruh",
+      "Gaji Direktur",
+      "Penjualan Tanah",
+      "Impor Gandum"
+    ],
+    "jawaban": 0,
+    "pembahasan": "PPh 23 dikenakan atas penghasilan modal, penyerahan jasa, atau hadiah/penghargaan selain yang sudah dipotong PPh 21."
+  },
+  {
+    "id": "AKL_PJK_37",
+    "pertanyaan": "Sistem pemungutan di mana pihak ketiga (bukan pemerintah & bukan WP) yang memotong pajak disebut...",
+    "opsi": [
+      "Official Assessment",
+      "Withholding System",
+      "Full Self Assessment",
+      "Direct Payment",
+      "Indirect Tax"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Withholding System membebankan tugas memotong, menyetor, dan melapor kepada pihak ketiga (seperti pemberi kerja)."
+  },
+  {
+    "id": "AKL_PJK_38",
+    "pertanyaan": "Kode Billing digunakan untuk...",
+    "opsi": [
+      "Mendaftar akun DJP",
+      "Mengajukan kartu NPWP fisik",
+      "Alat identifikasi pembayaran pajak di Bank/Kantor Pos",
+      "Mengganti password email",
+      "Mencetak faktur pajak"
+    ],
+    "jawaban": 2,
+    "pembahasan": "e-Billing menggantikan SSP manual; nasabah membawa kode billing 15 digit untuk membayar pajak."
+  },
+  {
+    "id": "AKL_PJK_39",
+    "pertanyaan": "Dalam SPT Masa PPN, formulir lampiran 1111 A2 digunakan untuk melaporkan...",
+    "opsi": [
+      "Pembelian lokal",
+      "Daftar Penyusutan",
+      "Profil Perusahaan",
+      "Penjualan/Ekspor",
+      "Penyetoran PPh 21"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Formulir 1111 A2 berisi daftar faktur pajak keluaran (penjualan)."
+  },
+  {
+    "id": "AKL_PJK_40",
+    "pertanyaan": "Berikut ini alasan diterbitkannya Surat Tagihan Pajak (STP), KECUALI...",
+    "opsi": [
+      "Pajak dalam tahun berjalan tidak atau kurang dibayar",
+      "Hasil penelitian terdapat kekurangan pembayaran akibat salah tulis/hitung",
+      "WP dikenakan sanksi administrasi denda/bunga",
+      "Pengusaha yang sudah dikukuhkan PKP tidak membuat faktur pajak",
+      "Wajib pajak lapor tepat waktu"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Lapor tepat waktu adalah kewajiban yang tidak akan memicu terbitnya STP."
+  },
+  {
+    "id": "AKL_PJK_41",
+    "pertanyaan": "Yang termasuk dalam Penghasilan Kena Pajak (PKP) adalah...",
+    "opsi": [
+      "Penghasilan Bruto - Biaya Jabatan - PTKP",
+      "Gaji Pokok saja",
+      "Tabungan di Bank",
+      "Harta warisan",
+      "Sumbangan keagamaan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "PKP adalah dasar pengenaan tarif pajak setelah dikurangi biaya-biaya sah dan limit tidak kena pajak."
+  },
+  {
+    "id": "AKL_PJK_42",
+    "pertanyaan": "Pajak atas sewa tanah dan/atau bangunan dikenakan PPh Final Pasal 4 ayat (2) sebesar...",
+    "opsi": [
+      "5%",
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tarif PPh Final sewa bangunan adalah tetap 10% dari nilai bruto sewa."
+  },
+  {
+    "id": "AKL_PJK_43",
+    "pertanyaan": "Fasilitas 'Tax Holiday' biasanya diberikan kepada...",
+    "opsi": [
+      "Pedagang kaki lima",
+      "WP yang sedang liburan",
+      "Industri pionir/investasi skala besar untuk jangka waktu tertentu",
+      "Karyawan berprestasi",
+      "Perusahaan yang mau bangkrut"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tax Holiday adalah insentif berupa pembebasan PPh Badan untuk menarik investasi asing/besar ke industri strategis."
+  },
+  {
+    "id": "AKL_PJK_44",
+    "pertanyaan": "Penerimaan surat teguran karena nunggak pajak dapat berlanjut pada...",
+    "opsi": [
+      "Pemberian diskon pajak",
+      "Penghapusan NPWP",
+      "Kenaikan jabatanWP",
+      "Penyitaan aset oleh Juru Sita Pajak",
+      "Pemilihan WP Favorit"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penagihan aktif dapat sampai pada tahap sita dan lelang barang milik WP untuk melunasi hutang pajak."
+  },
+  {
+    "id": "AKL_PJK_45",
+    "pertanyaan": "Istilah 'Withholding Tax' berarti...",
+    "opsi": [
+      "Pajak yang dibayar sendiri",
+      "Pajak yang ditiadakan",
+      "Pajak ekspor impor",
+      "Pajak daerah",
+      "Pajak yang dipotong oleh pihak ketiga"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh withholding tax adalah PPh 21, 23, dan 26."
+  },
+  {
+    "id": "AKL_PJK_46",
+    "pertanyaan": "Zakat atau sumbangan keagamaan yang sifatnya wajib dapat...",
+    "opsi": [
+      "Mengurangi penghasilan bruto (jika lewat lembaga resmi yang diakui pemerintah)",
+      "Menambah pajak",
+      "Menjadi bukti pelunasan PPh",
+      "Menggantikan NPWP",
+      "Dikenakan PPN"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sumbangan keagamaan wajib (Zakat/Kolekte) dapat dikurangkan dari penghasilan bruto sebelum dihitung pajaknya."
+  },
+  {
+    "id": "AKL_PJK_47",
+    "pertanyaan": "Objek pajak PPh Pasal 22 biasanya berkaitan dengan...",
+    "opsi": [
+      "Bunga Bank",
+      "Kegiatan di bidang impor atau pembelian barang oleh instansi pemerintah",
+      "Sewa kendaraan",
+      "Gaji pegawai tetap",
+      "Hadiah perlombaan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "PPh 22 dipungut oleh bendahara pemerintah atau bank devisa."
+  },
+  {
+    "id": "AKL_PJK_48",
+    "pertanyaan": "Kriteria WP Orang Pribadi yang wajib memiliki NPWP adalah...",
+    "opsi": [
+      "Sudah berusia 17 tahun",
+      "Sudah memiliki KTP",
+      "Memiliki penghasilan di atas PTKP",
+      "Bekerja sebagai PNS saja",
+      "Memiliki hobi belanja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Jika penghasilan setahun masih di bawah PTKP, maka orang tersebut belum wajib mendaftar NPWP."
+  },
+  {
+    "id": "AKL_PJK_49",
+    "pertanyaan": "Akun 'Pajak Dibayar Dimuka' akan disajikan di dalam...",
+    "opsi": [
+      "Laporan Laba Rugi (sebagai Beban)",
+      "Laporan Perubahan Modal",
+      "Daftar Gaji",
+      "Neraca (sebagai Aset)",
+      "Buku Kas Umum"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Karena ia merupakan hak/tagihan kepada negara, maka dicatat sebagai aset lancar di neraca."
+  },
+  {
+    "id": "AKL_PJK_50",
+    "pertanyaan": "Prinsip pemungutan pajak 'Ease of Administration' berarti...",
+    "opsi": [
+      "Pajak harus besar agar negara kaya",
+      "Pajak harus sulit agar tidak bisa dimanipulasi",
+      "Pajak hanya untuk orang pintar",
+      "Sistem pajak harus berganti tiap bulan",
+      "Pajak harus mudah dihitung dan dibayar oleh masyarakat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kemudahan administrasi (seperti adanya e-Filing) akan meningkatkan tingkat kepatuhan wajib pajak."
+  }
+]

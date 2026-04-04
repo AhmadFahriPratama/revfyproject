@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_LOG_01",
+    "pertanyaan": "FR Kurir: Pelanggan mengajukan komplain karena paketnya rusak/basah. Tindakan kurir yang benar adalah...",
+    "opsi": [
+      "Meminta maaf, membantu proses pelaporan (Retur) via sistem aplikasi, dan tetap bersikap sopan",
+      "Kabur menjauh",
+      "Menyalahkan cuaca dengan marah",
+      "Memaksa pelanggan menerima",
+      "Membuang barang tersebut"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_LOG_02",
+    "pertanyaan": "FR BNSP: Apa perbedaan utama antara 'Forklift' dan 'Reach Truck' di gudang?",
+    "opsi": [
+      "Warna catnya saja",
+      "Reach Truck dirancang untuk lorong sempit dan ketinggian rak yang lebih tinggi",
+      "Forklift hanya untuk makanan",
+      "Reach Truck tidak pakai roda",
+      "Sama saja"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_LOG_03",
+    "pertanyaan": "FR Distribusi: Mengapa pengiriman ke wilayah Timur Indonesia (Papua) lebih mahal dibanding wilayah Jawa?",
+    "opsi": [
+      "Barangnya jadi lebih berat",
+      "Orangnya kaya",
+      "Biaya transportasi yang tinggi dan keterbatasan infrastruktur logistik",
+      "Bensinnya gratis",
+      "Hanya iseng"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_LOG_04",
+    "pertanyaan": "FR Gudang: Apa itu 'Dead Stock'?",
+    "opsi": [
+      "Stok hantu",
+      "Barang raib",
+      "Barang curian",
+      "Barang yang tersimpan dalam waktu sangat lama karena tidak laku (slow moving) dan berisiko rusak",
+      "Barang yang mati lampu"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_LOG_05",
+    "pertanyaan": "FR Teknologi: Manfaat utama pelacakan 'GPS Real-Time' pada armada logistik adalah...",
+    "opsi": [
+      "Biar sopir tidak kesepian",
+      "Untuk main game di jalan",
+      "Hanya formalitas",
+      "Mengurangi berat truk",
+      "Mengetahui posisi pasti barang dan estimasi waktu sampai demi kepuasan pelanggan"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

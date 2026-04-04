@@ -1,0 +1,48 @@
+{
+  "id": "roadmap-tka-smk",
+  "title": "TKA SMK Roadmap",
+  "category": "TKA_SMK",
+  "badge": "Vocational Track",
+  "highlight": "Mulai dari mapel wajib, lanjut pilihan sesuai bidang, lalu simulasi.",
+  "stages": [
+    {
+      "step": 1,
+      "title": "Latihan mapel wajib",
+      "estimatedMinutes": 240,
+      "resources": [
+        "soal/SMK/TKA_SMK_BahasaIndonesia_soal.json",
+        "soal/SMK/TKA_SMK_BahasaInggris_soal.json",
+        "soal/SMK/TKA_SMK_Matematika_soal.json",
+        "soal/SMK/TKA_SMK_Pancasila_soal.json"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Latihan mapel pilihan",
+      "estimatedMinutes": 300,
+      "resources": [
+        "soal/SMK/TKA_SMK_Biologi_soal.json",
+        "soal/SMK/TKA_SMK_Ekonomi_soal.json",
+        "soal/SMK/TKA_SMK_Fisika_soal.json"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "FR wajib dan pilihan",
+      "estimatedMinutes": 180,
+      "resources": [
+        "fr_soal/SMK/tka2025_smk_wajib_rekonstruksi.json",
+        "fr_soal/SMK/tka2025_smk_pilihan_rekonstruksi.json"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Tryout kategori terpisah",
+      "estimatedMinutes": 120,
+      "resources": [
+        "tryout/TKA_SMK/tka_smk_wajib_tryout_v01.json",
+        "tryout/TKA_SMK/tka_smk_pilihan_tryout_v01.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "AKL_AL_01",
+    "pertanyaan": "Standar akuntansi yang digunakan oleh instansi pemerintah di Indonesia adalah...",
+    "opsi": [
+      "SAP (Standar Akuntansi Pemerintahan)",
+      "SAK (Standar Akuntansi Keuangan)",
+      "IFRS",
+      "GAAP",
+      "ISO 9001"
+    ],
+    "jawaban": 0,
+    "pembahasan": "SAP ditetapkan dengan Peraturan Pemerintah (PP) untuk menjamin kualitas laporan keuangan instansi publik."
+  },
+  {
+    "id": "AKL_AL_02",
+    "pertanyaan": "Tujuan utama dari akuntansi sektor publik adalah...",
+    "opsi": [
+      "Mencari keuntungan sebesar-besarnya",
+      "Pertanggungjawaban kepada publik dan manajerial (pelayanan)",
+      "Menghindari audit pemerintah",
+      "Membayar dividen kepada rakyat",
+      "Menyetorkan modal ke bank industri"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Fokusnya bukan profit, melainkan efektivitas penggunaan dana anggaran demi kepentingan masyarakat."
+  },
+  {
+    "id": "AKL_AL_03",
+    "pertanyaan": "Dana yang diberikan pemerintah pusat kepada pemerintah desa disebut...",
+    "opsi": [
+      "Pajak Desa",
+      "Iuran Warga",
+      "Dana Desa",
+      "Hutang Desa",
+      "Modal Usaha"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dana Desa bersumber dari APBN yang diperuntukkan bagi pembangunan dan pemberdayaan desa."
+  },
+  {
+    "id": "AKL_AL_04",
+    "pertanyaan": "Dokumen rencana keuangan tahunan desa yang dibahas dan disetujui bersama oleh Pemerintah Desa dan BPD adalah...",
+    "opsi": [
+      "RAPBN",
+      "Nota Keuangan",
+      "RPJMDes",
+      "APBDes",
+      "KWK"
+    ],
+    "jawaban": 3,
+    "pembahasan": "APBDes (Anggaran Pendapatan dan Belanja Desa) adalah instrumen hukum pengelolaan keuangan desa."
+  },
+  {
+    "id": "AKL_AL_05",
+    "pertanyaan": "Dalam akuntansi pemerintah, akun 'Estimasi Pendapatan' dicatat pada sisi...",
+    "opsi": [
+      "Kredit pada Jurnal Pelaksanaan Anggaran",
+      "Neraca",
+      "Laporan Arus Kas",
+      "Hanya di Catatan Atas Laporan Keuangan",
+      "Debit pada Jurnal Pelaksanaan Anggaran"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Estimasi pendapatan didebit saat penetapan anggaran sebagai perkiraan dana yang akan masuk."
+  },
+  {
+    "id": "AKL_AL_06",
+    "pertanyaan": "Laporan yang menyajikan ringkasan sumber, alokasi, dan pemakaian sumber daya keuangan yang dikelola oleh pemerintah adalah...",
+    "opsi": [
+      "Laporan Realisasi Anggaran (LRA)",
+      "Neraca",
+      "Laporan Laba Rugi",
+      "Laporan Perubahan Modal",
+      "Laporan Operasional"
+    ],
+    "jawaban": 0,
+    "pembahasan": "LRA membandingkan antara anggaran yang ditetapkan dengan realisasi yang terjadi."
+  },
+  {
+    "id": "AKL_AL_07",
+    "pertanyaan": "Basis akuntansi yang mengakui pengaruh transaksi pada saat transaksi tersebut terjadi, tanpa memperhatikan kapan kas diterima atau dibayar, disebut...",
+    "opsi": [
+      "Basis Kas (Cash Basis)",
+      "Basis Akrual (Accrual Basis)",
+      "Basis Menuju Akrual",
+      "Basis Anggaran",
+      "Basis Gabungan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "SAP saat ini mewajibkan penggunaan basis akrual untuk pelaporan keuangan."
+  },
+  {
+    "id": "AKL_AL_08",
+    "pertanyaan": "Satuan kerja yang melaksanakan kebijakan teknis daerah (misal Dinas Pendidikan, Dinas Kesehatan) disebut...",
+    "opsi": [
+      "PPKD",
+      "KPK",
+      "SKPD",
+      "DPRD",
+      "BUMN"
+    ],
+    "jawaban": 2,
+    "pembahasan": "SKPD (Satuan Kerja Perangkat Daerah) adalah pengguna anggaran di tingkat daerah."
+  },
+  {
+    "id": "AKL_AL_09",
+    "pertanyaan": "Yang termasuk Pendapatan Asli Daerah (PAD) adalah...",
+    "opsi": [
+      "Dana Alokasi Umum (DAU)",
+      "Dana Alokasi Khusus (DAK)",
+      "Pinjaman Luar Negeri",
+      "Pajak Daerah dan Retribusi Daerah",
+      "Hibah Pemerintah Pusat"
+    ],
+    "jawaban": 3,
+    "pembahasan": "PAD merupakan sumber pendapatan yang digali dari potensi daerah itu sendiri."
+  },
+  {
+    "id": "AKL_AL_10",
+    "pertanyaan": "Laporan yang menunjukkan posisi keuangan pemerintah (aset, kewajiban, ekuitas) pada tanggal tertentu disebut...",
+    "opsi": [
+      "Laporan Arus Kas",
+      "CaLK",
+      "LRA",
+      "LPI",
+      "Neraca"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Persamaan dasar: Aset = Kewajiban + Ekuitas Dana."
+  },
+  {
+    "id": "AKL_AL_11",
+    "pertanyaan": "Dana perimbangan dari pemerintah pusat yang digunakan untuk memeratakan kemampuan keuangan antar daerah adalah...",
+    "opsi": [
+      "DAU (Dana Alokasi Umum)",
+      "PAD",
+      "Hasil Pajak",
+      "Laba BUMD",
+      "Retribusi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "DAU bertujuan mengurangi ketimpangan fiskal antar daerah di Indonesia."
+  },
+  {
+    "id": "AKL_AL_12",
+    "pertanyaan": "Selisih lebih/kurang antara realisasi pendapatan-LRA dan belanja selama satu periode pelaporan disebut...",
+    "opsi": [
+      "Laba Bersih",
+      "SiLPA (Selisih Lebih Realisasi Anggaran)",
+      "Defisit Kas",
+      "Modal Kerja",
+      "Pendapatan Diterima Dimuka"
+    ],
+    "jawaban": 1,
+    "pembahasan": "SiLPA merupakan indikator sisa dana anggaran yang belum terpakai."
+  },
+  {
+    "id": "AKL_AL_13",
+    "pertanyaan": "Azas pengelolaan keuangan desa di mana masyarakat terlibat dalam setiap tahap perencanaan adalah...",
+    "opsi": [
+      "Transparan",
+      "Akuntabel",
+      "Partisipatif",
+      "Sentralistik",
+      "Egoistik"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Masyarakat desa berhak memberikan masukan terhadap pembangunan desanya."
+  },
+  {
+    "id": "AKL_AL_14",
+    "pertanyaan": "Jurnal finansial dalam akuntansi SKPD digunakan untuk menyusun...",
+    "opsi": [
+      "LRA",
+      "Laporan Arus Kas saja",
+      "Hanya Catatan Lapkeu",
+      "Laporan Operasional (LO) dan Neraca",
+      "Anggaran tahun depan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jurnal finansial mencatat transaksi berdasarkan basis akrual."
+  },
+  {
+    "id": "AKL_AL_15",
+    "pertanyaan": "Pengeluaran kas dari entitas pelaporan ke entitas pelaporan lain dalam pemerintah daerah disebut transaksi...",
+    "opsi": [
+      "Intern",
+      "Ekstern",
+      "Fiktif",
+      "Hibah",
+      "Resiprokal / Antar Entitas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: RK-PPKD dan RK-SKPD dalam hubungan pusat dan cabang."
+  },
+  {
+    "id": "AKL_AL_16",
+    "pertanyaan": "Laporan yang memberikan informasi terperinci tentang penjelasan akun di laporan keuangan lainnya adalah...",
+    "opsi": [
+      "CaLK (Catatan atas Laporan Keuangan)",
+      "LRA",
+      "Neraca",
+      "LAK",
+      "LPSAL"
+    ],
+    "jawaban": 0,
+    "pembahasan": "CaLK menjelaskan narasi, kebijakan akuntansi, dan rincian angka laporan keuangan."
+  },
+  {
+    "id": "AKL_AL_17",
+    "pertanyaan": "Belanja modal dalam akuntansi pemerintah akan dilaporkan dalam...",
+    "opsi": [
+      "Hanya di Laba Rugi",
+      "Neraca sebagai Aset Tetap dan LRA sbg Belanja Modal",
+      "Beban Operasional",
+      "Hanya di Arus Kas",
+      "Dana Cadangan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Belanja modal menambah nilai aset tetap di neraca melalui mekanisme kapitalisasi."
+  },
+  {
+    "id": "AKL_AL_18",
+    "pertanyaan": "Siapa pemegang kekuasaan pengelolaan keuangan desa tertinggi?",
+    "opsi": [
+      "Sekretaris Desa",
+      "Camat",
+      "Kepala Desa",
+      "Bendahara Desa",
+      "Ketua BPD"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kepala Desa adalah PKPKD (Pemegang Kekuasaan Pengelolaan Keuangan Desa)."
+  },
+  {
+    "id": "AKL_AL_19",
+    "pertanyaan": "Laporan yang menyajikan informasi arus masuk dan keluar kas pemerintah selama satu periode disebut...",
+    "opsi": [
+      "LRA",
+      "Neraca Kas",
+      "Buku Bank",
+      "Laporan Arus Kas (LAK)",
+      "Kuitansi Terpadu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "LAK menyajikan arus kas dari aktivitas operasi, investasi, pendanaan, dan transitoris."
+  },
+  {
+    "id": "AKL_AL_20",
+    "pertanyaan": "Aset yang dimiliki instansi pemerintah daerah (misal mobil dinas, gedung kantor) disebut...",
+    "opsi": [
+      "BMN (Barang Milik Negara)",
+      "Aset Pribadi",
+      "Aset Lancar",
+      "Barang Penumpang",
+      "BMD (Barang Milik Daerah)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "BMD harus dikelola secara tertib administrasi, fungsional, dan memiliki kepastian hukum."
+  },
+  {
+    "id": "AKL_AL_21",
+    "pertanyaan": "Basis akuntansi di mana pendapatan diakui saat kas diterima dan belanja diakui saat kas dikeluarkan disebut...",
+    "opsi": [
+      "Basis Kas",
+      "Basis Akrual",
+      "Basis Anggaran",
+      "Basis Masa Depan",
+      "Basis Pembangunan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Dalam SAP, basis kas digunakan untuk menyusun Laporan Realisasi Anggaran (LRA)."
+  },
+  {
+    "id": "AKL_AL_22",
+    "pertanyaan": "Manakah akun yang tidak ada dalam akuntansi pemerintah?",
+    "opsi": [
+      "Belanja Modal",
+      "Laba Ditahan",
+      "Ekuitas",
+      "Aset Tetap",
+      "Pendapatan Asli Daerah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Istilah Laba Ditahan digunakan dalam akuntansi komersial, sementara di pemerintah lebih umum menggunakan Ekuitas atau SiLPA."
+  },
+  {
+    "id": "AKL_AL_23",
+    "pertanyaan": "Bantuan keuangan dari provinsi ke kabupaten/kota dengan tujuan khusus disebut...",
+    "opsi": [
+      "DAU",
+      "Hibah Internasional",
+      "DAK (Dana Alokasi Khusus)",
+      "Pajak Hotel",
+      "Retribusi Pasar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "DAK diberikan untuk mendanai kegiatan khusus yang menjadi prioritas nasional."
+  },
+  {
+    "id": "AKL_AL_24",
+    "pertanyaan": "Laporan Operasional (LO) disusun berdasarkan basis...",
+    "opsi": [
+      "Basis Kas",
+      "Basis Perkiraan",
+      "Basis Transaksi",
+      "Basis Akrual",
+      "Basis Pelayanan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "LO menyajikan pendapatan-LO dan beban yang terjadi dalam periode tersebut tanpa melihat arus kas."
+  },
+  {
+    "id": "AKL_AL_25",
+    "pertanyaan": "Selisih antara pendapatan-LO dan beban-LO disebut...",
+    "opsi": [
+      "Laba Kotor",
+      "SiLPA",
+      "Modal Bersih",
+      "Saldo Awal Anggaran",
+      "Surplus / Defisit-LO"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Istilah surplus digunakan jika pendapatan lebih besar daripada beban."
+  },
+  {
+    "id": "AKL_AL_26",
+    "pertanyaan": "Pihak yang bertugas melakukan penatausahaan keuangan di SKPD adalah...",
+    "opsi": [
+      "Bendahara Pengeluaran / Penerimaan",
+      "Kepala Dinas",
+      "Supir Dinas",
+      "Penjaga Kantor",
+      "Anggota DPRD"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bendahara bertanggung jawab penuh atas uang yang ada di bawah kewenangannya di SKPD."
+  },
+  {
+    "id": "AKL_AL_27",
+    "pertanyaan": "Akun 'RK-PPKD' (Rekening Koran Pejabat Pengelola Keuangan Daerah) pada buku SKPD diperlakukan sebagai...",
+    "opsi": [
+      "Aset",
+      "Ekuitas (Akun Timbal Balik)",
+      "Utang",
+      "Beban",
+      "Pendapatan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "RK-PPKD mencerminkan hubungan dana antara pusat (Pemda) dan cabang (SKPD)."
+  },
+  {
+    "id": "AKL_AL_28",
+    "pertanyaan": "Salah satu prinsip akuntansi pemerintah adalah 'Periodisitas', artinya...",
+    "opsi": [
+      "Laporan harus dibuat selamanya",
+      "Laporan hanya untuk pemerintah pusat",
+      "Laporan harus dibuat dalam rentang waktu tertentu (bulanan/tahunan)",
+      "Laporan tidak boleh dibocorkan",
+      "Laporan harus berwarna-warni"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Periodisitas membagi pelaporan keuangan instansi ke dalam periode-periode rutin (biasanya 1 tahun)."
+  },
+  {
+    "id": "AKL_AL_29",
+    "pertanyaan": "Apa yang dimaksud dengan 'Belanja Barang dan Jasa' dalam pemerintah?",
+    "opsi": [
+      "Membeli gedung baru",
+      "Membayar gaji PNS saja",
+      "Pemberian bantuan modal ke BUMN",
+      "Pembelian kebutuhan operasional kantor (misal alat tulis, sewa kantor)",
+      "Membayar hutang luar negeri"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Belanja ini habis pakai dalam satu periode anggaran (tidak dikapitalisasi jasai aset tetap)."
+  },
+  {
+    "id": "AKL_AL_30",
+    "pertanyaan": "Dana Sisa Lebih Pembiayaan Anggaran tahun sebelumnya yang digunakan tahun ini disebut...",
+    "opsi": [
+      "DAU",
+      "Hibah",
+      "Pajak",
+      "Bunga",
+      "SiLPA"
+    ],
+    "jawaban": 4,
+    "pembahasan": "SiLPA merupakan surplus anggaran yang dapat digunakan kembali pada periode berikutnya."
+  },
+  {
+    "id": "AKL_AL_31",
+    "pertanyaan": "Kepanjangan dari RKA-SKPD adalah...",
+    "opsi": [
+      "Rencana Kerja dan Anggaran SKPD",
+      "Rangkuman Kegiatan Anggaran SKPD",
+      "Rencana Keuangan Aktifa SKPD",
+      "Rilis Kinerja Anggaran SKPD",
+      "Rumusan Kebijakan Anggaran SKPD"
+    ],
+    "jawaban": 0,
+    "pembahasan": "RKA adalah usulan anggaran yang dibuat oleh setiap dinas sebelum disahkan menjadi DPA."
+  },
+  {
+    "id": "AKL_AL_32",
+    "pertanyaan": "Laporan yang wajib disusun oleh pemerintah desa sebagai bentuk pertanggungjawaban adalah...",
+    "opsi": [
+      "Laporan Laba Rugi Perusahaan",
+      "Laporan Realisasi Pelaksanaan APBDes",
+      "Laporan Penjualan Barang Desa",
+      "Laporan Jumlah Penduduk",
+      "Laporan Kelahiran Bayi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Satu siklus APBDes berakhir dengan laporan pertanggungjawaban di akhir tahun."
+  },
+  {
+    "id": "AKL_AL_33",
+    "pertanyaan": "Pengurangan nilai aset tetap di akuntansi pemerintah disebut...",
+    "opsi": [
+      "Beban Deplesi",
+      "Beban Amortisasi",
+      "Beban Penyusutan (Depresiasi)",
+      "Pengurangan Modal",
+      "Pelunasan Piutang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Aset tetap instansi pemerintah (kecuali tanah) harus disusutkan secara periodik."
+  },
+  {
+    "id": "AKL_AL_34",
+    "pertanyaan": "Akun 'Cadangan Piutang Tak Tertagih' dalam pemerintah berfungsi untuk...",
+    "opsi": [
+      "Menambah kekayaan negara",
+      "Menyogok pejabat",
+      "Membayar pensiunan",
+      "Menyajikan nilai piutang yang diragukan akan cair (taksiran)",
+      "Membeli kendaraan baru"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sama dengan akuntansi bisnis, nilai piutang negara harus disajikan pada nilai bersih yang dapat direalisasi (net realizable value)."
+  },
+  {
+    "id": "AKL_AL_35",
+    "pertanyaan": "Kewajiban jangka pendek pemerintah daerah meliputi...",
+    "opsi": [
+      "Hutang Pembangunan Gedung 10 tahun",
+      "Modal BUMD",
+      "Aset tetap dinas",
+      "Surplus anggaran",
+      "Utang Perhitungan Fihak Ketiga (PFK)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "PFK adalah potongan gaji (iuran pensiun, BPJS, pajak) yang harus disetorkan pemerintah ke kas negara."
+  },
+  {
+    "id": "AKL_AL_36",
+    "pertanyaan": "Dana Alokasi Umum (DAU) masuk dalam struktur APBD pada bagian...",
+    "opsi": [
+      "Pendapatan - Pendapatan Transfer",
+      "Belanja Pegawai",
+      "Pembiayaan Neto",
+      "Investasi Daerah",
+      "Pendapatan Asli Daerah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Transfer merupakan dana yang berasal dari level pemerintah yang lebih tinggi (pusat ke daerah)."
+  },
+  {
+    "id": "AKL_AL_37",
+    "pertanyaan": "Sistem pembukuan 'Single Entry' sering disebut dengan sistem...",
+    "opsi": [
+      "Berpasangan",
+      "Tata Buku (Pembukuan Tunggal)",
+      "Otomatis",
+      "Digitalisasi",
+      "Modern"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Single entry hanya mencatat kas masuk dan kas keluar (seperti buku saku/catatan sederhana)."
+  },
+  {
+    "id": "AKL_AL_38",
+    "pertanyaan": "SAP saat ini mewajibkan instansi pemerintah menggunakan sistem pembukuan...",
+    "opsi": [
+      "Single Entry",
+      "Tanpa Pencatatan",
+      "Double Entry (Berpasangan)",
+      "Lisan",
+      "Manual Saja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sistem berpasangan menghasilkan keseimbangan (balance) antara debit dan kredit."
+  },
+  {
+    "id": "AKL_AL_39",
+    "pertanyaan": "Waktu penyampaian laporan keuangan pemerintah daerah ke BPK paling lambat berapa bulan setelah tahun anggaran berakhir?",
+    "opsi": [
+      "1 Bulan",
+      "6 Bulan",
+      "12 Bulan",
+      "3 Bulan",
+      "24 Bulan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "UU Keuangan Negara mewajibkan laporan diserahkan selambatnya akhir Maret (3 bulan setelah tutup tahun)."
+  },
+  {
+    "id": "AKL_AL_40",
+    "pertanyaan": "Siapa yang bertugas memeriksa (mengaudit) laporan keuangan pemerintah?",
+    "opsi": [
+      "DPRD",
+      "Polisi",
+      "Siswa SMK",
+      "Ketua RT",
+      "BPK (Badan Pemeriksa Keuangan)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "BPK adalah lembaga mandiri yang berwenang mengaudit pengelolaan keuangan negara."
+  },
+  {
+    "id": "AKL_AL_41",
+    "pertanyaan": "Opini audit tertinggi yang bisa diraih pemerintah dari BPK adalah...",
+    "opsi": [
+      "WTP (Wajar Tanpa Pengecualian)",
+      "WDP (Wajar Dengan Pengecualian)",
+      "Disclaimer (Tidak Memberi Pendapat)",
+      "Adverse (Tidak Wajar)",
+      "Gagal"
+    ],
+    "jawaban": 0,
+    "pembahasan": "WTP atau Unqualified Opinion menunjukkan laporan keuangan sudah sesuai standar dan bebas salah saji material."
+  },
+  {
+    "id": "AKL_AL_42",
+    "pertanyaan": "Aset Desa dikelola oleh pemerintah desa dengan prinsip 'Utility', artinya...",
+    "opsi": [
+      "Hanya untuk disimpan",
+      "Harus memberikan manfaat bagi pelayanan dan pembangunan desa",
+      "Hanya untuk kepala desa",
+      "Boleh dijual bebas kapan saja",
+      "Harus disembunyikan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Aset dikelola untuk mensejahterakan warga desa."
+  },
+  {
+    "id": "AKL_AL_43",
+    "pertanyaan": "Tindakan mempercantik data anggaran agar terlihat surplus disebut...",
+    "opsi": [
+      "Akuntansi Forensik",
+      "Pencucian Uang",
+      "Window Dressing",
+      "Revaluasi",
+      "Closing Entry"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Window dressing adalah praktik manipulasi laporan keuangan yang tidak etis."
+  },
+  {
+    "id": "AKL_AL_44",
+    "pertanyaan": "Untuk keperluan audit, setiap transaksi pemerintah harus didukung oleh...",
+    "opsi": [
+      "Ingatan lisan bendahara",
+      "Surat kabar",
+      "Foto selfie saja",
+      "Bukti transaksi yang sah (Kuitansi, Faktur, Berita Acara)",
+      "Janji manis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Akuntansi pemerintah sangat kaku dalam hal kelengkapan bukti administrasi."
+  },
+  {
+    "id": "AKL_AL_45",
+    "pertanyaan": "Dalam Jurnal Pelaksanaan Anggaran, jika dilakukan belanja barang, maka di sisi kredit dicatat...",
+    "opsi": [
+      "Kas",
+      "Penerimaan Pembiayaan",
+      "Utang",
+      "Modal Kerja",
+      "Estimasi Perubahan Sal (Perubahan Saldo Anggaran Lebih)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Perubahan SAL mengimbangi pengeluaran belanja di sisi budgetari (LRA)."
+  },
+  {
+    "id": "AKL_AL_46",
+    "pertanyaan": "Apa itu 'Siklus Akuntansi'?",
+    "opsi": [
+      "Urutan prosedur pencatatan transaksi hingga penyusunan laporan keuangan",
+      "Gaya bersepeda karyawan kantor",
+      "Jumlah uang yang berputar di bank",
+      "Roda ekonomi dunia",
+      "Jadwal hari libur"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Meliputi penjurnalan, posting buku besar, neraca saldo, jurnal penyesuaian, hingga laporan keuangan."
+  },
+  {
+    "id": "AKL_AL_47",
+    "pertanyaan": "Neraca Saldo disusun setelah proses...",
+    "opsi": [
+      "Penjurnalan",
+      "Posting ke Buku Besar",
+      "Tutup Buku",
+      "Audit BPK",
+      "Pembayaran Hutang"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Neraca saldo merangkum saldo akhir dari setiap akun buku besar."
+  },
+  {
+    "id": "AKL_AL_48",
+    "pertanyaan": "Penerimaan Pajak Hotel oleh pemerintah kabupaten masuk dalam kategori...",
+    "opsi": [
+      "DAU",
+      "Dana Bagi Hasil",
+      "Pendapatan Asli Daerah (PAD)",
+      "Pendapatan Luar Biasa",
+      "Hibah Masyarakat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pajak hotel adalah salah satu primadona sumber PAD kabupaten/kota."
+  },
+  {
+    "id": "AKL_AL_49",
+    "pertanyaan": "Akun 'Cadangan Kas' digunakan apabila pemerintah ingin...",
+    "opsi": [
+      "Menyewa apartemen",
+      "Membagi-bagikan bonus bulanan",
+      "Menghapus data penduduk",
+      "Menyisihkan dana untuk keperluan penting/darurat di masa depan",
+      "Membeli saham luar negeri secara sembunyi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Dana cadangan dibentuk dengan Peraturan Daerah (Perda) untuk tujuan spesifik."
+  },
+  {
+    "id": "AKL_AL_50",
+    "pertanyaan": "Hubungan antara LRA dan Neraca pada akuntansi pemerintah melalui akun...",
+    "opsi": [
+      "Laba Rugi",
+      "Utang Piutang",
+      "Beban Pegawai",
+      "Hanya di lampiran",
+      "Ekuitas dan SiLPA"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Hasil akhir LRA (SiLPA) akan memengaruhi nilai ekuitas di dalam Neraca melalui Laporan Perubahan Ekuitas."
+  }
+]

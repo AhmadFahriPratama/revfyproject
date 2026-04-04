@@ -1,0 +1,657 @@
+{
+  "id": "TKA_SMP_IPA_SOAL",
+  "mapel": "TKA SMP IPA",
+  "tingkat": "SMP",
+  "soal": [
+    {
+      "id": "SMP_IPA_01",
+      "pertanyaan": "Satuan SI untuk massa adalah...",
+      "opsi": [
+        "Kilogram",
+        "Gram",
+        "Newton",
+        "Pascal",
+        "Meter"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kilogram\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_02",
+      "pertanyaan": "Perubahan wujud dari gas menjadi cair disebut...",
+      "opsi": [
+        "Mencair",
+        "Mengembun",
+        "Menyumblim",
+        "Menguap",
+        "Membeku"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Mengembun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_03",
+      "pertanyaan": "Suhu tubuh normal manusia (37 C) sama dengan ... Kelvin.",
+      "opsi": [
+        "273",
+        "300",
+        "310",
+        "370",
+        "100"
+      ],
+      "jawaban": 2,
+      "pembahasan": "37 + 273 = 310 K. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"310\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_04",
+      "pertanyaan": "Bagian sel yang berfungsi sebagai penghasil energi adalah...",
+      "opsi": [
+        "Ribosom",
+        "Lisosom",
+        "Inti sel",
+        "Mitokondria",
+        "Vakuola"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Mitokondria\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_05",
+      "pertanyaan": "Larutan yang memiliki pH < 7 disebut...",
+      "opsi": [
+        "Basa",
+        "Netral",
+        "Garam",
+        "Buffer",
+        "Asam"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Asam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_06",
+      "pertanyaan": "Gaya tarik-menarik antara molekul sejenis disebut...",
+      "opsi": [
+        "Kohesi",
+        "Adhesi",
+        "Kapilaritas",
+        "Gravitasi",
+        "Magnet"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kohesi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_07",
+      "pertanyaan": "Besaran yang dimensinya [L][T]^-1 adalah...",
+      "opsi": [
+        "Gaya",
+        "Kecepatan",
+        "Percepatan",
+        "Usaha",
+        "Daya"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Kecepatan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_08",
+      "pertanyaan": "Peredaran darah dari jantung ke paru-paru lalu kembali ke jantung adalah...",
+      "opsi": [
+        "Besar",
+        "Terbuka",
+        "Kecil",
+        "Ganda",
+        "Tunggal"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kecil\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_09",
+      "pertanyaan": "Hubungan antara dua mahkluk hidup yang satu untung dan satu rugi adalah...",
+      "opsi": [
+        "Mutualisme",
+        "Komensalisme",
+        "Amensalisme",
+        "Parasitisme",
+        "Karnivora"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Parasitisme\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_10",
+      "pertanyaan": "Planet terdekat dari matahari adalah...",
+      "opsi": [
+        "Venus",
+        "Mars",
+        "Bumi",
+        "Jupiter",
+        "Merkurius"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Merkurius\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_11",
+      "pertanyaan": "Zat yang menyebabkan efek rumah kaca adalah...",
+      "opsi": [
+        "Karbon Dioksida",
+        "Oksigen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Karbon Dioksida\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_12",
+      "pertanyaan": "Alat pengukur tekanan udara adalah...",
+      "opsi": [
+        "Termometer",
+        "Barometer",
+        "Higrometer",
+        "Anemometer",
+        "Manometer"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Barometer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_13",
+      "pertanyaan": "Enzim amilase di mulut berfungsi mengubah amilum menjadi...",
+      "opsi": [
+        "Protein",
+        "Lemak",
+        "Glukosa/Maltosa",
+        "Pepton",
+        "Asam amino"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Glukosa/Maltosa\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_14",
+      "pertanyaan": "Cermin yang bayangannya selalu tegak, maya, dan diperkecil adalah...",
+      "opsi": [
+        "Datar",
+        "Cekung",
+        "Ganda",
+        "Cembung",
+        "Lensa"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Cembung\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_15",
+      "pertanyaan": "Hukum Archimedes berkaitan dengan...",
+      "opsi": [
+        "Bunyi",
+        "Cahaya",
+        "Listrik",
+        "Magnet",
+        "Gaya Angkat Zat Cair"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Gaya Angkat Zat Cair\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_16",
+      "pertanyaan": "Organel sel yang hanya ada di tumbuhan adalah...",
+      "opsi": [
+        "Kloroplas",
+        "Sentriol",
+        "Sitosol",
+        "Membran sel",
+        "Dinding sel"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Kloroplas untuk fotosintesis. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kloroplas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_17",
+      "pertanyaan": "Pengangkutan air dari akar ke daun melalui pembuluh...",
+      "opsi": [
+        "Floem",
+        "Xilem",
+        "Kambium",
+        "Epidermis",
+        "Korteks"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Xilem\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_18",
+      "pertanyaan": "Bunyi yang frekuensinya di bawah 20 Hz disebut...",
+      "opsi": [
+        "Audiosonik",
+        "Ultrasonik",
+        "Infrasonik",
+        "Supersonik",
+        "Ekolokasi"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Infrasonik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_19",
+      "pertanyaan": "Hukum Newton II dirumuskan...",
+      "opsi": [
+        "v = s/t",
+        "W = F.s",
+        "P = F/A",
+        "F = m.a",
+        "Ek = 1/2mv^2"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"F = m.a\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_20",
+      "pertanyaan": "Urutan sistem pencernaan manusia yang benar adalah...",
+      "opsi": [
+        "Mulut-Lambung-Usus-Kerongkongan",
+        "Mulut-Usus-Lambung",
+        "Kerongkongan-Mulut-Lambung",
+        "Lambung-Mulut-Usus",
+        "Mulut-Kerongkongan-Lambung-Usus"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mulut-Kerongkongan-Lambung-Usus\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_21",
+      "pertanyaan": "Komponen biotik dalam ekosistem adalah...",
+      "opsi": [
+        "Tumbuhan",
+        "Udara",
+        "Air",
+        "Tanah",
+        "Cahaya"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Tumbuhan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_22",
+      "pertanyaan": "Alat reproduksi jantan pada bunga adalah...",
+      "opsi": [
+        "Putik",
+        "Benang sari",
+        "Mahkota",
+        "Kelopak",
+        "Tangkai"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Benang sari\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_23",
+      "pertanyaan": "Contoh perubahan kimia adalah...",
+      "opsi": [
+        "Es mencair",
+        "Garam larut",
+        "Kertas terbakar",
+        "Kaca pecah",
+        "Lilin meleleh"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kertas terbakar\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_24",
+      "pertanyaan": "Satuan daya dalam SI adalah...",
+      "opsi": [
+        "Joule",
+        "Volt",
+        "Ampere",
+        "Watt",
+        "Ohm"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Watt\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_25",
+      "pertanyaan": "Sendi yang memungkinkan gerakan ke segala arah adalah...",
+      "opsi": [
+        "Sendi engsel",
+        "Sendi putar",
+        "Sendi pelana",
+        "Sendi kaku",
+        "Sendi peluru"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sendi peluru\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_26",
+      "pertanyaan": "Zat adiktif yang terdapat dalam kopi adalah...",
+      "opsi": [
+        "Kafein",
+        "Nikotin",
+        "Morfin",
+        "Alkohol",
+        "Ganja"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kafein\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_27",
+      "pertanyaan": "Cahaya merambat lurus dibuktikan oleh...",
+      "opsi": [
+        "Pelangi",
+        "Bayang-bayang",
+        "Pensil patah di air",
+        "Kaca pembesar",
+        "Cermin cembung"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Bayang-bayang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_28",
+      "pertanyaan": "Bakteri yang membantu pembusukan di usus besar adalah...",
+      "opsi": [
+        "Rhizobium",
+        "Lactobacillus",
+        "E. coli",
+        "Salmonella",
+        "Amoeba"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"E. coli\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_29",
+      "pertanyaan": "Fenomena siang dan malam terjadi akibat...",
+      "opsi": [
+        "Revolusi bumi",
+        "Rotasi bulan",
+        "Eklips",
+        "Rotasi bumi",
+        "Gerhana"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rotasi bumi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_30",
+      "pertanyaan": "Energi yang dimiliki benda karena kedudukannya (ketinggian) disebut...",
+      "opsi": [
+        "Energi Kinetik",
+        "Energi Mekanik",
+        "Energi Kalor",
+        "Energi Bunyi",
+        "Energi Potensial"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Energi Potensial\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_31",
+      "pertanyaan": "Pencemaran air oleh nutrien berlebih disebut...",
+      "opsi": [
+        "Eutrofikasi",
+        "Erosi",
+        "Abubsi",
+        "Polusi",
+        "Degradasi"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Eutrofikasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_32",
+      "pertanyaan": "Asam lambung (HCl) berfungsi untuk...",
+      "opsi": [
+        "Mencerna lemak",
+        "Membunuh kuman",
+        "Mengubah glukosa",
+        "Menyerap air",
+        "Menggumpalkan susu"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Membunuh kuman\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_33",
+      "pertanyaan": "Alat optik yang digunakan untuk melihat benda renik adalah...",
+      "opsi": [
+        "Teleskop",
+        "Kaca pembesar",
+        "Mikroskop",
+        "Periskop",
+        "Kamera"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Mikroskop\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_34",
+      "pertanyaan": "Hukum Pascal diaplikasikan pada...",
+      "opsi": [
+        "Kapal selam",
+        "Balon udara",
+        "Pesawat terbang",
+        "Rem hidrolik",
+        "Termos"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Rem hidrolik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_35",
+      "pertanyaan": "Penulisan rumus air yang benar adalah...",
+      "opsi": [
+        "HO2",
+        "OH2",
+        "H2O2",
+        "CO2",
+        "H2O"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"H2O\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_36",
+      "pertanyaan": "Hewan yang bernapas dengan trakea adalah...",
+      "opsi": [
+        "Serangga",
+        "Ikan",
+        "Burung",
+        "Katak",
+        "Cacing"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Serangga\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_37",
+      "pertanyaan": "Kelebihan sel darah putih dalam tubuh disebut...",
+      "opsi": [
+        "Anemia",
+        "Leukemia",
+        "Hipertensi",
+        "Diabetes",
+        "Stroke"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Leukemia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_38",
+      "pertanyaan": "Gelombang yang arah rambatnya tegak lurus arah getarnya adalah...",
+      "opsi": [
+        "Longitudinal",
+        "Mekanik",
+        "Transversal",
+        "Elektromagnetik",
+        "Radio"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Transversal\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_39",
+      "pertanyaan": "Ciri khas mamalia adalah...",
+      "opsi": [
+        "Bertelur",
+        "Berdarah dingin",
+        "Memiliki sisik",
+        "Berambut dan menyusui",
+        "Bernapas dengan insang"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Berambut dan menyusui\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_40",
+      "pertanyaan": "Alat pelindung mata saat las adalah...",
+      "opsi": [
+        "Kacamata hitam",
+        "Kaca pembesar",
+        "Lensa kontak",
+        "Kacamata renang",
+        "Topeng las"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Topeng las\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_41",
+      "pertanyaan": "Fotosintesis menghasilkan...",
+      "opsi": [
+        "Oksigen dan Karbohidrat",
+        "Karbondioksida dan Air",
+        "Energi Panas",
+        "Protein",
+        "Sampah"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Oksigen dan Karbohidrat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_42",
+      "pertanyaan": "Benda yang tidak dapat menghantarkan panas disebut...",
+      "opsi": [
+        "Konduktor",
+        "Isolator",
+        "Semikonduktor",
+        "Radiator",
+        "Kolektor"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Isolator\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_43",
+      "pertanyaan": "Perpindahan panas melalui aliran zat perantara disebut...",
+      "opsi": [
+        "Konduksi",
+        "Radiasi",
+        "Konveksi",
+        "Induksi",
+        "Distraksi"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Konveksi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_44",
+      "pertanyaan": "Tugas utama paru-paru dalam ekskresi adalah membuang...",
+      "opsi": [
+        "Urin",
+        "Keringat",
+        "Empedu",
+        "CO2 dan Uap Air",
+        "Feses"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"CO2 dan Uap Air\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_45",
+      "pertanyaan": "Pelangi terbentuk akibat ... cahaya.",
+      "opsi": [
+        "Pemantulan",
+        "Penyerapan",
+        "Perambatan lurus",
+        "Polarisasi",
+        "Pembiasan dan Penguraian"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pembiasan dan Penguraian\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_46",
+      "pertanyaan": "Zat tunggal yang tidak bisa dibagi lagi secara kimia biasa adalah...",
+      "opsi": [
+        "Unsur",
+        "Senyawa",
+        "Campuran",
+        "Larutan",
+        "Molekul"
+      ],
+      "jawaban": 0,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Unsur\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_47",
+      "pertanyaan": "Logam yang berwujud cair pada suhu ruang adalah...",
+      "opsi": [
+        "Besi",
+        "Raksa (Merkuri)",
+        "Emas",
+        "Aluminium",
+        "Tembaga"
+      ],
+      "jawaban": 1,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Raksa (Merkuri)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_48",
+      "pertanyaan": "Pembuangan sisa metabolisme yang tidak berguna disebut...",
+      "opsi": [
+        "Nutrisi",
+        "Respirasi",
+        "Ekskresi",
+        "Reproduksi",
+        "Adaptasi"
+      ],
+      "jawaban": 2,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Ekskresi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_49",
+      "pertanyaan": "Unit terkecil penyusun makhluk hidup adalah...",
+      "opsi": [
+        "Jaringan",
+        "Organ",
+        "Sistem organ",
+        "Sel",
+        "Individu"
+      ],
+      "jawaban": 3,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Sel\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    },
+    {
+      "id": "SMP_IPA_50",
+      "pertanyaan": "Ilmu yang mempelajari hubungan timbal balik makhluk hidup dan lingkungan adalah...",
+      "opsi": [
+        "Biologi",
+        "Geologi",
+        "Astronomi",
+        "Fisika",
+        "Ekologi"
+      ],
+      "jawaban": 4,
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ekologi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+    }
+  ]
+}

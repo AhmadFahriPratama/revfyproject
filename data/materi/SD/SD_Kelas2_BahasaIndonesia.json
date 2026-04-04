@@ -1,0 +1,26 @@
+{
+  "id": "materi-sd-kls2-bi",
+  "tingkat": "SD Kelas 2",
+  "mapel": "Bahasa Indonesia",
+  "materi": "Membaca Lancar, Menulis Kalimat, dan Kosakata Sehari-hari",
+  "deskripsi": "Materi Bahasa Indonesia Kelas 2 SD (Fase A tingkat lanjut) yang berfokus pada kelancaran membaca, memahami isi teks pendek, menuliskan kalimat dengan huruf tegak bersambung, dan tanda baca dasar.",
+  "konten": [
+    {
+      "bab": "1. Membaca Teks dengan Lancar",
+      "teks": "Membaca nyaring paragraf cerita pendek dengan pelafalan yang jelas dan intonasi yang sesuai kalimat tanya, perintah, atau berita."
+    },
+    {
+      "bab": "2. Menulis Tegak Bersambung",
+      "teks": "Menulis kalimat menggunakan huruf tegak bersambung dengan memperhatikan perbandingan ukuran huruf kapital dan huruf kecil."
+    },
+    {
+      "bab": "3. Penggunaan Tanda Baca",
+      "teks": "Menggunakan tanda titik (.) pada akhir kalimat dan tanda tanya (?) pada kalimat yang menanyakan sesuatu. Menuliskan nama orang dan awal kalimat dengan huruf besar."
+    },
+    {
+      "bab": "4. Kosakata dan Kalimat Sederhana",
+      "teks": "Mengenal berbagai macam kata ganti, kata depan (di, ke, dari), serta berlatih menyusun kalimat SPOK (Subjek - Predikat - Objek - Keterangan) sederhana."
+    }
+  ],
+  "tag": ["sd-2", "bahasa-indonesia", "membaca-lancar", "tulis-tegak-bersambung", "tanda-baca"]
+}

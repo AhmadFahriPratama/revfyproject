@@ -1,0 +1,26 @@
+{
+  "id": "materi-smp-kls8-informatika",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "Informatika",
+  "materi": "Jaringan Komputer, Algoritma Pemrograman Lanjut, dan Analisis Data",
+  "deskripsi": "Informatika Kelas 8 menjurus pada pemahaman topologi jaringan/internet, teknik pemrograman visual lanjutan, serta cara mesin memproses data.",
+  "konten": [
+    {
+      "bab": "1. Jaringan Komputer dan Internet",
+      "teks": "Konsep dasar LAN, MAN, WAN, topologi jaringan, serta protokol internet dan keamanan berselancar (HTTPS)."
+    },
+    {
+      "bab": "2. Berfikir Komputasional dan Pemrograman Visual",
+      "teks": "Penerapan logika percabangan (if-else), pengulangan (loops/iteration), dan variabel dalam aplikasi pemrograman blok (seperti Scratch)."
+    },
+    {
+      "bab": "3. Analisis Data Dasar",
+      "teks": "Pengumpulan, peringkasan, visualisasi (grafik), dan interpretasi data menggunakan pengolah angka spreadsheet (Excel/Google Sheets)."
+    },
+    {
+      "bab": "4. Praktik Lintas Bidang (PLB)",
+      "teks": "Mengerjakan proyek kolaboratif yang menggabungkan kemampuan desain, logika pemrograman, dan pengumpulan data statistik sederhana."
+    }
+  ],
+  "tag": ["smp-8", "informatika", "jaringan", "pemrograman", "analisis-data"]
+}

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "PAR_ULW_01",
+    "pertanyaan": "Badan usaha yang menyelenggarakan seluruh kegiatan perjalanan wisata, mulai dari perencanaan hingga pelaksanaan disebut...",
+    "opsi": [
+      "Biro Perjalanan Wisata (BPW)",
+      "Agen Perjalanan Wisata (APW)",
+      "Objek Wisata",
+      "Dinas Pariwisata",
+      "Maskapai Penerbangan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "BPW memiliki kewenangan lebih luas dari APW, termasuk menyusun paket wisata sendiri."
+  },
+  {
+    "id": "PAR_ULW_02",
+    "pertanyaan": "Daftar rencana kegiatan perjalanan wisata yang disusun secara sistematis disebut...",
+    "opsi": [
+      "Kuitansi",
+      "Itinerary",
+      "Inaugurasi",
+      "Ilustrasi",
+      "Imigrasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Itinerary memuat rincian waktu, tempat, dan aktivitas wisatawan selama tour."
+  },
+  {
+    "id": "PAR_ULW_03",
+    "pertanyaan": "Proses menghitung seluruh biaya yang dikeluarkan untuk satu paket wisata disebut...",
+    "opsi": [
+      "Tour Planning",
+      "Tour Guiding",
+      "Tour Costing",
+      "Tour Managing",
+      "Tour Billing"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tour costing adalah dasar untuk menentukan harga jual paket wisata kepada konsumen."
+  },
+  {
+    "id": "PAR_ULW_04",
+    "pertanyaan": "Pihak yang bertugas memberikan penjelasan dan informasi mengenai objek wisata kepada wisatawan disebut...",
+    "opsi": [
+      "ポーター",
+      "Tour Leader",
+      "Driver",
+      "Tour Guide (Pramuwisata)",
+      "Manager"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pramuwisata harus menguasai materi sejarah, budaya, dan hal menarik dari objek yang dikunjungi."
+  },
+  {
+    "id": "PAR_ULW_05",
+    "pertanyaan": "Kode bandara 'CGK' merujuk pada bandara yang berlokasi di...",
+    "opsi": [
+      "Surabaya (Juanda)",
+      "Bali (Ngurah Rai)",
+      "Medan (Kualanamu)",
+      "Yogyakarta (YIA)",
+      "Jakarta (Soekarno-Hatta)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "CGK singkatan dari Cengkareng, wilayah lokasi bandara internasional Jakarta."
+  },
+  {
+    "id": "PAR_ULW_06",
+    "pertanyaan": "Sistem komputer yang digunakan biro perjalanan untuk memesan tiket pesawat di seluruh dunia disebut...",
+    "opsi": [
+      "GDS (Global Distribution System)",
+      "GPS",
+      "PDA",
+      "ATM",
+      "POS"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh GDS yang populer adalah Amadeus, Galileo, dan Sabre."
+  },
+  {
+    "id": "PAR_ULW_07",
+    "pertanyaan": "Dokumen yang dikeluarkan pemerintah suatu negara agar warga negaranya dapat keluar masuk wilayah negara disebut...",
+    "opsi": [
+      "Visa",
+      "Paspor",
+      "Boarding Pass",
+      "KTP",
+      "SIM"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Paspor adalah identitas internasional warga negara."
+  },
+  {
+    "id": "PAR_ULW_08",
+    "pertanyaan": "Izin yang diberikan oleh negara tujuan bagi warga asing untuk memasuki wilayahnya disebut...",
+    "opsi": [
+      "Paspor",
+      "Tiket",
+      "Visa",
+      "Asuransi",
+      "Sertifikat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Visa menunjukkan maksud dan durasi kunjungan orang asing."
+  },
+  {
+    "id": "PAR_ULW_09",
+    "pertanyaan": "Wisatawan yang melakukan perjalanan di dalam negeri (domestik) disebut...",
+    "opsi": [
+      "Wisman (Wisatawan Mancanegara)",
+      "Expatriate",
+      "Backpacker",
+      "Wisnus (Wisatawan Nusantara)",
+      "Nomad"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Wisnus memperkuat ekonomi pariwisata lokal."
+  },
+  {
+    "id": "PAR_ULW_10",
+    "pertanyaan": "Kegiatan wisata yang dilakukan oleh sekelompok orang dari satu perusahaan sebagai bentuk penghargaan disebut...",
+    "opsi": [
+      "Study Tour",
+      "Pilgrimage Tour",
+      "Adventure Tour",
+      "Family Tour",
+      "Incentive Tour"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Incentive tour adalah bagian dari MICE (Meeting, Incentive, Convention, Exhibition)."
+  },
+  {
+    "id": "PAR_ULW_11",
+    "pertanyaan": "Singkatan dari PNR dalam sistem reservasi ticketing adalah...",
+    "opsi": [
+      "Passenger Name Record",
+      "Plane Number Record",
+      "Personal Network Register",
+      "Public Name Report",
+      "Price Net Ratio"
+    ],
+    "jawaban": 0,
+    "pembahasan": "PNR berisi kode booking dan data detail penumpang."
+  },
+  {
+    "id": "PAR_ULW_12",
+    "pertanyaan": "Salah satu komponen biaya dalam paket wisata yang bersifat tetap (fixed cost) adalah...",
+    "opsi": [
+      "Makan siang",
+      "Sewa Bus / Transportasi",
+      "Tiket Masuk Objek",
+      "Snack box",
+      "Souvernir"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biaya bus tetap dibayar utuh meskipun jumlah peserta berkurang sedikit (selama masih dalam satu bus)."
+  },
+  {
+    "id": "PAR_ULW_13",
+    "pertanyaan": "Bagi wisatawan muslim, pemilihan restoran sangat memperhatikan ketersediaan makanan...",
+    "opsi": [
+      "Pedas",
+      "Vegetarian",
+      "Halal",
+      "Khas Lokal",
+      "Murah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kesesuaian selera dan keyakinan wisatawan adalah aspek penting perencanaan tour."
+  },
+  {
+    "id": "PAR_ULW_14",
+    "pertanyaan": "Teknik pemanduan wisata saat pertama kali menjemput wisatawan di bandara disebut...",
+    "opsi": [
+      "Transfer Out",
+      "Sightseeing",
+      "Full Day Tour",
+      "Transfer In",
+      "Overland"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Transfer In mencakup penjemputan ke bandara dan pengantaran ke hotel."
+  },
+  {
+    "id": "PAR_ULW_15",
+    "pertanyaan": "Pramuwisata yang bertugas hanya di dalam satu objek wisata tertentu (misal di museum) disebut...",
+    "opsi": [
+      "National Guide",
+      "Tour Manager",
+      "Travel Agent",
+      "Driver Guide",
+      "Local Guide"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Local guide memiliki pengetahuan mendalam tentang satu lokasi spesifik."
+  },
+  {
+    "id": "PAR_ULW_16",
+    "pertanyaan": "Dalam industri penerbangan, istilah 'Round Trip' (RT) berarti...",
+    "opsi": [
+      "Terbang pulang-pergi (PP)",
+      "Terbang ke satu arah saja",
+      "Terbang keliling dunia tanpa henti",
+      "Terbang dengan banyak transit",
+      "Terbang tanpa tiket"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tiket RT biasanya lebih murah dari beli dua kali tiket satu arah (One Way)."
+  },
+  {
+    "id": "PAR_ULW_17",
+    "pertanyaan": "Apa itu FIT (Free Independent Traveler)?",
+    "opsi": [
+      "Wisatawan yang bepergian dalam rombongan besar",
+      "Wisatawan yang bepergian sendiri atau kelompok kecil (biasanya keluarga) secara mandiri",
+      "Wisatawan yang tidak mau bayar tiket",
+      "Wisatawan yang hobi foto di hutan",
+      "Wisatawan yang hanya numpang tidur"
+    ],
+    "jawaban": 1,
+    "pembahasan": "FIT memiliki fleksibilitas tinggi dalam itinerary."
+  },
+  {
+    "id": "PAR_ULW_18",
+    "pertanyaan": "Apa itu GIT (Group Inclusive Tour)?",
+    "opsi": [
+      "Wisatawan yang bepergian diam-diam",
+      "Wisatawan yang hanya satu orang",
+      "Wisatawan yang bepergian rombongan dengan jadwal yang sudah pasti",
+      "Wisatawan yang membawa tenda sendiri",
+      "Wisatawan yang sedang tersesat"
+    ],
+    "jawaban": 2,
+    "pembahasan": "GIT biasanya menggunakan bus besar dan didampingi Tour Leader."
+  },
+  {
+    "id": "PAR_ULW_19",
+    "pertanyaan": "Istilah 'Check Out' bagi biro perjalanan wisata artinya...",
+    "opsi": [
+      "Membayar makanan",
+      "Membuka koper",
+      "Mencuci mobil tour",
+      "Proses kepulangan wisatawan dari hotel maupun akhir dari rangkaian tour",
+      "Memesan oleh-oleh"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penyelesaian seluruh administrasi dan layanan sebelum perpisahan."
+  },
+  {
+    "id": "PAR_ULW_20",
+    "pertanyaan": "Alat bantu yang dibawa pemandu wisata agar terlihat jelas oleh rombongannya di keramaian adalah...",
+    "opsi": [
+      "Terompet",
+      "Buku sejarah",
+      "Payung hitam",
+      "Kaca pembesar",
+      "Bendera Kecil / Flag"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Flag guide membantu peserta tour agar tidak terpisah dari rombongan."
+  },
+  {
+    "id": "PAR_ULW_21",
+    "pertanyaan": "Apa kepanjangan dari ASITA?",
+    "opsi": [
+      "Association of the Indonesian Tours and Travel Agencies",
+      "Asosiasi Siswa Pariwisata Indonesia",
+      "Agen Seluruh Indonesia Tanpa Ambiguitas",
+      "Asosiasi Industri Transportasi Udara",
+      "Aliansi Sapta Pesona Indonesia"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Wadah organisasi bagi pengusaha biro dan agen perjalanan di Indonesia."
+  },
+  {
+    "id": "PAR_ULW_22",
+    "pertanyaan": "Unsur 'Keamanan' dalam Sapta Pesona bertujuan agar wisatawan...",
+    "opsi": [
+      "Merasa takut",
+      "Merasa tenang, terlindungi, dan terbebas dari ancaman tindak kejahatan",
+      "Membayar mahal",
+      "Cepat pulang",
+      "Membawa senjata"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Rasa aman adalah prasyarat utama kunjungan wisatawan."
+  },
+  {
+    "id": "PAR_ULW_23",
+    "pertanyaan": "Produk pariwisata bersifat 'Intangible', artinya...",
+    "opsi": [
+      "Bisa disentuh dan dibawa pulang",
+      "Harganya gratis",
+      "Tidak berwujud (berupa pengalaman dan pelayanan)",
+      "Hanya untuk orang kaya",
+      "Bisa dimakan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Wisatawan membeli kenangan dan layanan, bukan benda fisik sepenuhnya."
+  },
+  {
+    "id": "PAR_ULW_24",
+    "pertanyaan": "Kegiatan mengamati objek wisata dari dalam bus yang sedang bergerak disebut...",
+    "opsi": [
+      "Transfer",
+      "Shopping",
+      "Hiking",
+      "Sightseeing",
+      "Diving"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pemandu wisata memberikan informasi sepanjang perjalanan di dalam bus."
+  },
+  {
+    "id": "PAR_ULW_25",
+    "pertanyaan": "Harga paket wisata per orang (per pax) dihitung dengan rumus...",
+    "opsi": [
+      "Biaya Makan + Biaya Tiket",
+      "Total Keuntungan - Biaya",
+      "Modal + Pajak",
+      "Harga Hotel x 2",
+      "Total Biaya / Jumlah Peserta"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembagian total biaya dengan proyeksi jumlah peserta."
+  },
+  {
+    "id": "PAR_ULW_26",
+    "pertanyaan": "Siapa yang bertanggung jawab memimpin seluruh rangkaian tour dari berangkat hingga pulang?",
+    "opsi": [
+      "Tour Leader",
+      "Tour Guide",
+      "Driver",
+      "Penerima Tamu",
+      "Bellboy"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tour Leader fokus pada manajemen rombongan, sedangkan Tour Guide fokus pada informasi objek."
+  },
+  {
+    "id": "PAR_ULW_27",
+    "pertanyaan": "Apa itu 'Optional Tour'?",
+    "opsi": [
+      "Tour yang wajib diikuti semua peserta",
+      "Tour tambahan di luar paket utama yang biaya dan keikutsertaannya bebas (pilihan)",
+      "Tour yang dibatalkan pimpinan",
+      "Tour khusus bagi manajer",
+      "Tour rahasia"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Biasanya dilakukan saat waktu luang (free time) dalam itinerary."
+  },
+  {
+    "id": "PAR_ULW_28",
+    "pertanyaan": "IATA adalah organisasi internasional yang mengatur bidang...",
+    "opsi": [
+      "Perhotelan",
+      "Kapal Pesiar",
+      "Penerbangan Sipil / Udara",
+      "Kereta Api Dunia",
+      "Kuliner"
+    ],
+    "jawaban": 2,
+    "pembahasan": "International Air Transport Association (IATA) mengatur standar tiket dan keamanan udara."
+  },
+  {
+    "id": "PAR_ULW_29",
+    "pertanyaan": "Pemisahan barang bawaan wisatawan di bandara yang akan dimasukkan ke bagasi pesawat disebut...",
+    "opsi": [
+      "Boarding",
+      "Take off",
+      "Landing",
+      "Check-in Bagasi",
+      "Security Check"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Barang bagasi akan diberikan label (Baggage Tag)."
+  },
+  {
+    "id": "PAR_ULW_30",
+    "pertanyaan": "Barang bawaan kecil yang boleh dibawa masuk ke dalam kabin pesawat disebut...",
+    "opsi": [
+      "Cargo",
+      "Excess Baggage",
+      "Lost Luggage",
+      "Fragile Bag",
+      "Cabin Baggage / Carry-on"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Beratnya terbatas (biasanya maksimal 7kg)."
+  },
+  {
+    "id": "PAR_ULW_31",
+    "pertanyaan": "Kegiatan wisata religi (ziarah) termasuk dalam kategori...",
+    "opsi": [
+      "Pilgrimage Tour",
+      "Educational Tour",
+      "Marine Tour",
+      "Culinary Tour",
+      "Business Tour"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tujuannya untuk menjalankan ibadah atau mengunjungi tempat suci."
+  },
+  {
+    "id": "PAR_ULW_32",
+    "pertanyaan": "Souvenir adalah produk pariwisata yang berfungsi sebagai...",
+    "opsi": [
+      "Peralatan mandi",
+      "Kenang-kenangan khas daerah wisata",
+      "Alat komunikasi",
+      "Beaya tambahan",
+      "Hadiah ulang tahun"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Souvenir membantu promosi wisata secara tidak langsung."
+  },
+  {
+    "id": "PAR_ULW_33",
+    "pertanyaan": "Dalam industri travel, 'Voucher Tour' berfungsi sebagai...",
+    "opsi": [
+      "Sampul paspor",
+      "Tiket pesawat palsu",
+      "Alat bayar / bukti pesanan layanan yang sudah lunas bagi vendor",
+      "Hadiah untuk driver",
+      "Buku catatan guide"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Voucher diserahkan kepada hotel atau restoran sebagai ganti uang tunai (karena BPW sudah bayar sebelumnya)."
+  },
+  {
+    "id": "PAR_ULW_34",
+    "pertanyaan": "Apa itu 'Low Season'?",
+    "opsi": [
+      "Musim ramai wisatawan",
+      "Musim hujan saja",
+      "Musim panen padi",
+      "Musim sepi kunjungan wisatawan (biasanya harga jadi murah)",
+      "Hari libur nasional"
+    ],
+    "jawaban": 3,
+    "pembahasan": "BPW sering membuat promo diskon pada saat low season."
+  },
+  {
+    "id": "PAR_ULW_35",
+    "pertanyaan": "Apa itu 'High Season'?",
+    "opsi": [
+      "Musim mendaki gunung",
+      "Saat hotel sedang diperbaiki",
+      "Waktu subuh",
+      "Saat banjir",
+      "Musim puncak kunjungan (biasanya saat libur sekolah/lebaran/natal)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pada high season, harga hotel dan transportasi melonjak tinggi."
+  },
+  {
+    "id": "PAR_ULW_36",
+    "pertanyaan": "Teknik berbicara pemandu wisata yang baik adalah...",
+    "opsi": [
+      "Jelas, ramah, tutur kata sopan, dan menggunakan humor secara proporsional",
+      "Bicara terus tanpa henti",
+      "Bicara sangat cepat agar tour cepat selesai",
+      "Hanya diam saja",
+      "Hanya membaca buku sejarah saja"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Komunikasi yang efektif membuat wisatawan tidak bosan."
+  },
+  {
+    "id": "PAR_ULW_37",
+    "pertanyaan": "Salah satu syarat fisik menjadi pramuwisata profesional adalah...",
+    "opsi": [
+      "Bisa lari maraton",
+      "Berpenampilan bersih, rapi (grooming), dan sehat jasmani",
+      "Selalu pakai baju warna mencolok",
+      "Bisa menyanyi rock",
+      "Bisa sulap"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Guide adalah representasi perusahaan dan daerah."
+  },
+  {
+    "id": "PAR_ULW_38",
+    "pertanyaan": "Jika wisatawan mengalami kecelakaan saat tour, langkah pertama guide adalah...",
+    "opsi": [
+      "Lari ketakutan",
+      "Merekam video untuk sosial media",
+      "Memberikan pertolongan pertama (P3K) dan segera membawa ke fasilitas medis terdekat",
+      "Meminta uang tambahan",
+      "Menyalahkan sopir"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Keselamatan jiwa wisatawan adalah prioritas utama."
+  },
+  {
+    "id": "PAR_ULW_39",
+    "pertanyaan": "Istilah 'Amenities' di objek wisata merujuk pada...",
+    "opsi": [
+      "Jumlah pohon",
+      "Tiket masuk utama",
+      "Jalan raya menuju lokasi",
+      "Fasilitas penunjang (toilet, tempat ibadah, area parkir, kantin)",
+      "Nama guide lokal"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Amenities yang lengkap membuat wisatawan betah berlama-lama."
+  },
+  {
+    "id": "PAR_ULW_40",
+    "pertanyaan": "Kegiatan menarik yang dilakukan di pantai (diving, surfing, snorkeling) termasuk...",
+    "opsi": [
+      "Mountain Tourism",
+      "Religious Tourism",
+      "Urban Tourism",
+      "Agriculture Tourism",
+      "Marine Tourism (Wisata Bahari)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Indonesia memiliki potensi wisata bahari yang luar biasa."
+  },
+  {
+    "id": "PAR_ULW_41",
+    "pertanyaan": "Apa itu 'Package Tour'?",
+    "opsi": [
+      "Produk wisata yang berisi gabungan minimal dua layanan (misal transportasi + hotel) dengan satu harga",
+      "Membeli nasi bungkus",
+      "Membungkus koper dengan plastik",
+      "Kado ulang tahun dari hotel",
+      "Kartu nama biro perjalanan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Memudahkan wisatawan karena tidak perlu mengurus satu per satu layanan."
+  },
+  {
+    "id": "PAR_ULW_42",
+    "pertanyaan": "Bagi tour planner, data 'Departure Time' tiket pesawat sangat penting untuk...",
+    "opsi": [
+      "Melihat model pesawat",
+      "Mengatur jadwal penjemputan ke bandara agar tidak terlambat",
+      "Menghitung konsumsi BBM bus",
+      "Memilih baju pramugari",
+      "Menentukan menu makan malam"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Keterlambatan ke bandara berakibat fatal (tiket hangus)."
+  },
+  {
+    "id": "PAR_ULW_43",
+    "pertanyaan": "Apa fungsi asuransi perjalanan (Travel Insurance)?",
+    "opsi": [
+      "Agar wisatawan tidak bisa pulang",
+      "Sebagai syarat beli bensin",
+      "Memberikan perlindungan finansial jika terjadi kecelakaan, sakit, atau kehilangan barang selama tour",
+      "Supaya tidak perlu bayar tiket masuk",
+      "Hadiah untuk pemandu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sangat disarankan terutama untuk perjalanan luar negeri atau wisata ekstrem."
+  },
+  {
+    "id": "PAR_ULW_44",
+    "pertanyaan": "Siapa yang mengeluarkan lisensi resmi bagi pramuwisata di Indonesia?",
+    "opsi": [
+      "Bank Indonesia",
+      "Kantor Pos",
+      "Kepala Sekolah",
+      "Himpunan Pramuwisata Indonesia (HPI) yang diketahui pemerintah daerah",
+      "Ketua RT"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kartu Tanda Pramuwisata (KTP) menunjukkan ia adalah guide resmi."
+  },
+  {
+    "id": "PAR_ULW_45",
+    "pertanyaan": "Faktor 'Accessibility' dalam pariwisata berarti...",
+    "opsi": [
+      "Kecanggihan kamera",
+      "Keanggotaan klub wisata",
+      "Kemampuan bahasa guide",
+      "Kecepatan internet di puncak gunung",
+      "Kemudahan akses transportasi menuju ke objek wisata"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jalan rusak atau ketiadaan transportasi umum menghambat kunjungan wisata."
+  },
+  {
+    "id": "PAR_ULW_46",
+    "pertanyaan": "Mengambil foto tanpa izin kepada penduduk lokal (terutama suku pedalaman) hukumnya adalah...",
+    "opsi": [
+      "Tidak sopan dan melanggar etika pariwisata",
+      "Wajib dilakukan",
+      "Hanya jika cuaca bagus",
+      "Boleh asalkan pakai kamera mahal",
+      "Hanya jika sedang ramai"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Guide harus mengingatkan wisatawan untuk menghormati adat istiadat setempat."
+  },
+  {
+    "id": "PAR_ULW_47",
+    "pertanyaan": "Apa itu 'Sustainable Tourism'?",
+    "opsi": [
+      "Pariwisata yang cepat selesai",
+      "Pariwisata berkelanjutan (menjaga alam dan budaya untuk generasi masa depan)",
+      "Pariwisata yang merusak hutan",
+      "Membakar sampah di pantai",
+      "Membangun gedung tinggi di tengah sawah"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mengurangi dampak negatif pariwisata terhadap lingkungan."
+  },
+  {
+    "id": "PAR_ULW_48",
+    "pertanyaan": "Dalam istilah perhotelan, 'No Show' berarti...",
+    "opsi": [
+      "Tamu datang tepat waktu",
+      "Tamu yang tidak menyukai pertunjukan",
+      "Tamu yang sudah memesan tapi tidak datang tanpa pemberitahuan",
+      "Tamu yang tidak mau bayar",
+      "Tamu yang sedang tidur"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kamar tetap ditahan namun tamu tidak muncul."
+  },
+  {
+    "id": "PAR_ULW_49",
+    "pertanyaan": "Informasi 'Estimated Time of Arrival' (ETA) menunjukkan...",
+    "opsi": [
+      "Perkiraan waktu keberangkatan",
+      "Jumlah penumpang",
+      "Nomor kursi",
+      "Perkiraan waktu kedatangan",
+      "Suhu udara"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Membantu tim penjemput mengatur jadwal stand-by."
+  },
+  {
+    "id": "PAR_ULW_50",
+    "pertanyaan": "Pariwisata yang berbasis pada minat khusus (seperti pengamatan burung atau penelitian sejarah) disebut...",
+    "opsi": [
+      "Mass Tourism",
+      "Leisure Tourism",
+      "Beach Tourism",
+      "Fun Tourism",
+      "Special Interest Tourism"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Segmen pasar kecil namun biasanya memiliki daya beli yang tinggi."
+  }
+]

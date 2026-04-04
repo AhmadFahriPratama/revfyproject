@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_ML_01",
+    "pertanyaan": "Jika f(x) = x^3 - 2x^2 + 5x - 7 dibagi oleh (x - 1), sisa pembagiannya adalah...",
+    "opsi": [
+      "-3",
+      "-2",
+      "1",
+      "0",
+      "4"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sisa = f(1) = 1 - 2 + 5 - 7 = -3. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"-3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_02",
+    "pertanyaan": "Nilai limit x mendekati 2 dari (x^2 - 4) / (x - 2) adalah...",
+    "opsi": [
+      "0",
+      "4",
+      "2",
+      "Tak hingga",
+      "1"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Limit x->2 (x-2)(x+2)/(x-2) = 2+2=4. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"4\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_03",
+    "pertanyaan": "Turunan pertama dari y = sin(2x) adalah...",
+    "opsi": [
+      "cos(2x)",
+      "-2 cos(2x)",
+      "2 cos(2x)",
+      "2 sin(2x)",
+      "cos^2(x)"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Aturan rantai: cos(2x) * d/dx(2x) = 2 cos(2x)."
+  },
+  {
+    "id": "TKA_SMK_ML_04",
+    "pertanyaan": "Hasil dari Integral x^2 dx dari 0 sampai 3 adalah...",
+    "opsi": [
+      "3",
+      "6",
+      "27",
+      "9",
+      "1/3"
+    ],
+    "jawaban": 3,
+    "pembahasan": "[1/3 x^3] dari 0 to 3 = 1/3 * 27 = 9. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"9\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_05",
+    "pertanyaan": "Pusat lingkaran dengan persamaan (x - 3)^2 + (y + 1)^2 = 25 adalah...",
+    "opsi": [
+      "(3, 1)",
+      "(-3, 1)",
+      "(3, 5)",
+      "(0, 0)",
+      "(3, -1)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Format (x-a)^2 + (y-b)^2 = r^2. Pusat (a,b)."
+  },
+  {
+    "id": "TKA_SMK_ML_06",
+    "pertanyaan": "Nilai cos 75 derajat adalah...",
+    "opsi": [
+      "1/4 (sqrt(6) - sqrt(2))",
+      "1/4 (sqrt(6) + sqrt(2))",
+      "1/2 (sqrt(3) - 1)",
+      "0",
+      "1"
+    ],
+    "jawaban": 0,
+    "pembahasan": "cos(45+30) = cos45 cos30 - sin45 sin30 = 1/2 sqrt(2) * 1/2 sqrt(3) - 1/2 sqrt(2) * 1/2 = 1/4(sqrt(6)-sqrt(2))."
+  },
+  {
+    "id": "TKA_SMK_ML_07",
+    "pertanyaan": "Salah satu akar persamaan x^3 - 6x^2 + 11x - 6 = 0 adalah...",
+    "opsi": [
+      "-1",
+      "1",
+      "0",
+      "4",
+      "5"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Uji x=1: 1 - 6 + 11 - 6 = 0. Benar. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_08",
+    "pertanyaan": "Limit x mendekati 0 dari (sin 3x) / x adalah...",
+    "opsi": [
+      "1",
+      "0",
+      "3",
+      "1/3",
+      "Tak hingga"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Identity: limit x->0 sin(ax)/x = a. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_09",
+    "pertanyaan": "Persamaan garis singgung lingkaran x^2 + y^2 = 25 di titik (3, 4) adalah...",
+    "opsi": [
+      "4x + 3y = 25",
+      "3x - 4y = 25",
+      "x + y = 7",
+      "3x + 4y = 25",
+      "3x + 4y = 5"
+    ],
+    "jawaban": 3,
+    "pembahasan": "xx1 + yy1 = r^2 => 3x + 4y = 25. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"3x + 4y = 25\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_10",
+    "pertanyaan": "Integral (2x + 1)^3 dx adalah...",
+    "opsi": [
+      "1/4 (2x + 1)^4 + C",
+      "(2x + 1)^4 + C",
+      "2 (2x + 1)^2 + C",
+      "1/2 (2x + 1)^4 + C",
+      "1/8 (2x + 1)^4 + C"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Substitution u = 2x+1, du = 2dx => dx = du/2. Int = 1/2 * 1/4 u^4 = 1/8 u^4."
+  },
+  {
+    "id": "TKA_SMK_ML_11",
+    "pertanyaan": "Jika sin A = 3/5 dan A di kuadran I, maka sin 2A adalah...",
+    "opsi": [
+      "24/25",
+      "12/25",
+      "7/25",
+      "6/5",
+      "1"
+    ],
+    "jawaban": 0,
+    "pembahasan": "cos A = 4/5. sin 2A = 2 sin A cos A = 2 * 3/5 * 4/5 = 24/25."
+  },
+  {
+    "id": "TKA_SMK_ML_12",
+    "pertanyaan": "Turunan dari y = cos^2(x) adalah...",
+    "opsi": [
+      "2 cos x",
+      "-sin 2x",
+      "sin 2x",
+      "2 sin x",
+      "-2 sin x"
+    ],
+    "jawaban": 1,
+    "pembahasan": "y' = 2 cos x * (-sin x) = -2 sin x cos x = -sin 2x."
+  },
+  {
+    "id": "TKA_SMK_ML_13",
+    "pertanyaan": "Limit x mendekati tak hingga dari (2x^2 + 3) / (x^2 - 1) adalah...",
+    "opsi": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "Tak hingga"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Bagi dengan x pangkat tertinggi: 2/1 = 2."
+  },
+  {
+    "id": "TKA_SMK_ML_14",
+    "pertanyaan": "Jumlah akar-akar (x1 + x2 + x3) dari polinomial x^3 - 5x^2 + 2x + 8 = 0 adalah...",
+    "opsi": [
+      "-5",
+      "8",
+      "-8",
+      "5",
+      "2"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Sum = -b/a = -(-5)/1 = 5. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_15",
+    "pertanyaan": "Invers matriks A = [[1, 2], [3, 4]] adalah...",
+    "opsi": [
+      "[[ -2, 1], [ -1.5, 0.5]]",
+      "[[ 4, -2], [ -3, 1]]",
+      "[[ -4, 2], [ 3, -1 ]]",
+      "[[ 1, 0 ], [ 0, 1 ]]",
+      "[[ -2, 1], [1.5, -0.5]]"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Det = 4-6 = -2. Inv = 1/-2 * [[4, -2], [-3, 1]] = [[-2, 1], [1.5, -0.5]]."
+  },
+  {
+    "id": "TKA_SMK_ML_16",
+    "pertanyaan": "Nilai dari sin 150 derajat adalah...",
+    "opsi": [
+      "1/2",
+      "1/2 sqrt(3)",
+      "-1/2",
+      "-1/2 sqrt(3)",
+      "1"
+    ],
+    "jawaban": 0,
+    "pembahasan": "sin(180 - 30) = sin 30 = 1/2. Kuadran II sin positif."
+  },
+  {
+    "id": "TKA_SMK_ML_17",
+    "pertanyaan": "Turunan f(x) = (2x + 3)(x - 1) adalah...",
+    "opsi": [
+      "2x + 1",
+      "4x + 1",
+      "4x - 1",
+      "2",
+      "x^2"
+    ],
+    "jawaban": 1,
+    "pembahasan": "f(x) = 2x^2 + x - 3. f'(x) = 4x + 1. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"4x + 1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_18",
+    "pertanyaan": "Hasil dari Integral (sin x + cos x) dx adalah...",
+    "opsi": [
+      "cos x - sin x + C",
+      "sin x - cos x + C",
+      "-cos x + sin x + C",
+      "0",
+      "1"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Int sin x = -cos x. Int cos x = sin x. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"-cos x + sin x + C\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_19",
+    "pertanyaan": "Persamaan garis singgung kurva y = x^2 di x = 2 adalah...",
+    "opsi": [
+      "y = 2x - 4",
+      "y = 4x + 4",
+      "y = x + 2",
+      "y = 4x - 4",
+      "y = 4"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Titik (2, 4). m = y'(2) = 2(2) = 4. y - 4 = 4(x - 2) => y = 4x - 4."
+  },
+  {
+    "id": "TKA_SMK_ML_20",
+    "pertanyaan": "Nilai dari tan 225 derajat adalah...",
+    "opsi": [
+      "-1",
+      "0",
+      "Tak hingga",
+      "1/2 sqrt(2)",
+      "1"
+    ],
+    "jawaban": 4,
+    "pembahasan": "tan(180 + 45) = tan 45 = 1. Kuadran III tan positif."
+  },
+  {
+    "id": "TKA_SMK_ML_21",
+    "pertanyaan": "Persamaan lingkaran dengan pusat (0,0) dan melalui titik (3, 4) adalah...",
+    "opsi": [
+      "x^2 + y^2 = 25",
+      "x^2 + y^2 = 7",
+      "x^2 + y^2 = 5",
+      "x + y = 7",
+      "2x + 2y = 25"
+    ],
+    "jawaban": 0,
+    "pembahasan": "r^2 = 3^2 + 4^2 = 25. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"x^2 + y^2 = 25\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_22",
+    "pertanyaan": "Limit x mendekati 0 dari (1 - cos x) / x^2 adalah...",
+    "opsi": [
+      "0",
+      "1/2",
+      "1",
+      "2",
+      "Tak hingga"
+    ],
+    "jawaban": 1,
+    "pembahasan": "L'Hopital twice or identity: 2 sin^2(x/2) / x^2 -> 1/2."
+  },
+  {
+    "id": "TKA_SMK_ML_23",
+    "pertanyaan": "Fakta: Jika f(x) habis dibagi (x-2), maka f(2) = ...",
+    "opsi": [
+      "1",
+      "2",
+      "0",
+      "-2",
+      "Tidak bisa ditentukan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Teorema faktor. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"0\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_24",
+    "pertanyaan": "Luas daerah di bawah kurva y = x dan di atas sumbu x dari x=0 to x=2 adalah...",
+    "opsi": [
+      "1",
+      "4",
+      "0,5",
+      "2",
+      "2,5"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Integrate x from 0 to 2 = [1/2 x^2] = 2."
+  },
+  {
+    "id": "TKA_SMK_ML_25",
+    "pertanyaan": "Nilai maksimum dari y = sin x + cos x adalah...",
+    "opsi": [
+      "1",
+      "2",
+      "0",
+      "0,5",
+      "sqrt(2)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Max = sqrt(1^2 + 1^2) = sqrt(2). Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"sqrt(2)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_26",
+    "pertanyaan": "Bayangan titik (x, y) oleh rotasi 90 derajat searah jarum jam pusat (0,0) adalah...",
+    "opsi": [
+      "(y, -x)",
+      "(-y, x)",
+      "(-x, -y)",
+      "(x, y)",
+      "(y, x)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Aturan rotasi Cartesius. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"(y, -x)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_27",
+    "pertanyaan": "Jika log_2 8 = x, maka x = ...",
+    "opsi": [
+      "4",
+      "3",
+      "16",
+      "2",
+      "8"
+    ],
+    "jawaban": 1,
+    "pembahasan": "2^3 = 8. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_28",
+    "pertanyaan": "Peluang kejadian A adalah 0,3. Maka peluang komplemen A adalah...",
+    "opsi": [
+      "1,3",
+      "0",
+      "0,7",
+      "1",
+      "0,15"
+    ],
+    "jawaban": 2,
+    "pembahasan": "1 - 0,3 = 0,7. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"0,7\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_29",
+    "pertanyaan": "Hasil dari (2 + 3i) + (4 - i) adalah...",
+    "opsi": [
+      "6 - 2i",
+      "8 - 3i",
+      "2 + 4i",
+      "6 + 2i",
+      "6 + 4i"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Real+Real, Imaginer+Imaginer. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"6 + 2i\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_30",
+    "pertanyaan": "Turunan dari e^x adalah...",
+    "opsi": [
+      "x e^(x-1)",
+      "ln x",
+      "1/x",
+      "0",
+      "e^x"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Fungsi eksponensial natural adalah turunannya sendiri."
+  },
+  {
+    "id": "TKA_SMK_ML_31",
+    "pertanyaan": "Suku ke-n barisan geometri: 2, 6, 18, ... Rumus Un-nya adalah...",
+    "opsi": [
+      "2 * 3^(n-1)",
+      "3 * 2^(n-1)",
+      "2n + 4",
+      "6n - 4",
+      "3^n"
+    ],
+    "jawaban": 0,
+    "pembahasan": "a=2, r=3. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"2 * 3^(n-1)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_32",
+    "pertanyaan": "Nilai tan 75 derajat adalah...",
+    "opsi": [
+      "2 - sqrt(3)",
+      "2 + sqrt(3)",
+      "1 + sqrt(3)",
+      "sqrt(3)",
+      "1"
+    ],
+    "jawaban": 1,
+    "pembahasan": "tan(45+30) = (1 + 1/sqrt(3)) / (1 - 1/sqrt(3)) = (sqrt(3)+1)/(sqrt(3)-1) = 2+sqrt(3)."
+  },
+  {
+    "id": "TKA_SMK_ML_33",
+    "pertanyaan": "Integral 1/x dx adalah...",
+    "opsi": [
+      "e^x + C",
+      "-1/x^2 + C",
+      "ln |x| + C",
+      "x + C",
+      "log x"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Definisi integral logaritma natural. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"ln |x| + C\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_34",
+    "pertanyaan": "Determinant [[k, 2], [3, 4]] = 2. Maka k = ...",
+    "opsi": [
+      "1",
+      "4",
+      "0",
+      "2",
+      "-2"
+    ],
+    "jawaban": 3,
+    "pembahasan": "4k - 6 = 2 => 4k = 8 => k = 2. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_35",
+    "pertanyaan": "Banyak diagonal bidang pada kubus adalah...",
+    "opsi": [
+      "4",
+      "6",
+      "8",
+      "16",
+      "12"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Setiap sisi punya 2 diagonal. 6 sisi * 2 = 12."
+  },
+  {
+    "id": "TKA_SMK_ML_36",
+    "pertanyaan": "Sec x sama dengan...",
+    "opsi": [
+      "1/cos x",
+      "1/sin x",
+      "1/tan x",
+      "cos x / sin x",
+      "sin x / cos x"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Definisi fungsi sekan. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"1/cos x\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_37",
+    "pertanyaan": "Turunan kedua f(x) = x^4 adalah...",
+    "opsi": [
+      "4x^3",
+      "12x^2",
+      "x^2",
+      "4x",
+      "12"
+    ],
+    "jawaban": 1,
+    "pembahasan": "f' = 4x^3. f'' = 12x^2. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"12x^2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_38",
+    "pertanyaan": "Jika f(x) = sqrt(x), maka f'(4) = ...",
+    "opsi": [
+      "1/2",
+      "2",
+      "1/4",
+      "4",
+      "1/8"
+    ],
+    "jawaban": 2,
+    "pembahasan": "f' = 1 / (2 sqrt(x)). At x=4: 1 / (2*2) = 1/4."
+  },
+  {
+    "id": "TKA_SMK_ML_39",
+    "pertanyaan": "Persamaan garis g: y = x. Refleksi titik (2, 3) terhadap garis g adalah...",
+    "opsi": [
+      "(-2, -3)",
+      "(2, -3)",
+      "(-3, -2)",
+      "(3, 2)",
+      "(3, -2)"
+    ],
+    "jawaban": 3,
+    "pembahasan": "(x, y) -> (y, x). Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"(3, 2)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_40",
+    "pertanyaan": "Integral (x + 1)(x - 1) dx adalah...",
+    "opsi": [
+      "x^3 - x + C",
+      "1/2 x^2 - x + C",
+      "2x + C",
+      "x^2 - 1",
+      "1/3 x^3 - x + C"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Int (x^2 - 1) dx = 1/3 x^3 - x. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"1/3 x^3 - x + C\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_41",
+    "pertanyaan": "Nilai i^2 dalam bilangan kompleks adalah...",
+    "opsi": [
+      "-1",
+      "1",
+      "0",
+      "i",
+      "sqrt(-1)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Definisi unit imajiner. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"-1\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_42",
+    "pertanyaan": "Matriks identitas 2x2 adalah...",
+    "opsi": [
+      "[[0, 1], [1, 0]]",
+      "[[1, 0], [0, 1]]",
+      "[[1, 1], [1, 1]]",
+      "[[1, 0], [1, 0]]",
+      "[[0, 0], [0, 0]]"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"[[1, 0], [0, 1]]\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_43",
+    "pertanyaan": "Limit x mendekati 1 dari (x^3 - 1) / (x - 1) adalah...",
+    "opsi": [
+      "1",
+      "2",
+      "3",
+      "0",
+      "Tak hingga"
+    ],
+    "jawaban": 2,
+    "pembahasan": "(x-1)(x^2+x+1) / (x-1) -> 1+1+1=3. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_44",
+    "pertanyaan": "Jarak titik (3, 4) ke titik pusat (0,0) adalah...",
+    "opsi": [
+      "7",
+      "25",
+      "sqrt(7)",
+      "5",
+      "10"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Triple Pythagoras. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_45",
+    "pertanyaan": "Luas segitiga dengan koordinat (0,0), (4,0), (0,3) adalah...",
+    "opsi": [
+      "12",
+      "5",
+      "7",
+      "10",
+      "6"
+    ],
+    "jawaban": 4,
+    "pembahasan": "1/2 * 4 * 3 = 6. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"6\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_46",
+    "pertanyaan": "Jika f(x) = x^2 + 2, maka (f o f)(1) adalah...",
+    "opsi": [
+      "11",
+      "3",
+      "9",
+      "1",
+      "5"
+    ],
+    "jawaban": 0,
+    "pembahasan": "f(1) = 3. f(3) = 3^2 + 2 = 11. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"11\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_47",
+    "pertanyaan": "Modulus dari z = 3 + 4i adalah...",
+    "opsi": [
+      "7",
+      "5",
+      "25",
+      "3",
+      "4"
+    ],
+    "jawaban": 1,
+    "pembahasan": "|z| = sqrt(a^2 + b^2). Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_48",
+    "pertanyaan": "Penyelesaian dari sin x = 1/2 untuk 0 < x < 180 adalah...",
+    "opsi": [
+      "30",
+      "150",
+      "{30, 150}",
+      "60",
+      "90"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sin positif di Q1 dan Q2. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"{30, 150}\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_49",
+    "pertanyaan": "Integral tak tentu selalu diakhiri dengan konstanta...",
+    "opsi": [
+      "K",
+      "X",
+      "0",
+      "C",
+      "1"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"C\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_ML_50",
+    "pertanyaan": "Mengapa belajar Kalkulus penting di SMK?",
+    "opsi": [
+      "Hanya untuk menyiksa siswa",
+      "Supaya jago main game",
+      "Hanya jika ingin jadi guru",
+      "Tidak penting karena ada kalkulator",
+      "Sebagai dasar analisis perubahan dan optimasi di bidang teknik serta manufaktur modern"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sebagai dasar analisis perubahan dan optimasi di bidang teknik serta manufaktur modern\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

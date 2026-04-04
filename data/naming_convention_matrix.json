@@ -1,0 +1,29 @@
+{
+  "id": "naming-convention-matrix",
+  "rules": [
+    {
+      "domain": "materi",
+      "pattern": "materi/<KATEGORI>/<nama_file>.json"
+    },
+    {
+      "domain": "soal",
+      "pattern": "soal/<KATEGORI>/<nama_file>.json"
+    },
+    {
+      "domain": "fr",
+      "pattern": "fr_soal/<KATEGORI>/<tahun>_<kategori>_<tipe>.json"
+    },
+    {
+      "domain": "tryout",
+      "pattern": "tryout/<KATEGORI>/<nama_tryout>.json"
+    },
+    {
+      "domain": "roadmap",
+      "pattern": "roadmap/<kategori>_roadmap.json"
+    },
+    {
+      "domain": "index",
+      "pattern": "<nama>_index.json"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Teknik Konstruksi dan Properti",
+  "tingkatan": "SMK",
+  "jurusan": "Teknik / Konstruksi",
+  "deskripsi": "Materi mengenai pengenalan jenis bangunan, material konstruksi (beton, kayu, baja), ilmu ukur tanah, gambar teknik bangunan, serta manajemen proyek dasar.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengenalan Bisnis Konstruksi dan Properti",
+      "konten": "Jenis-jenis bangunan (gedung, jalan, jembatan, bendungan). Siklus hidup proyek konstruksi: Perencanaan (Planning), Pelelangan (Tender), Pelaksanaan (Construction), dan Pemeliharaan (Maintenance).",
+      "tag": [
+        "teknik konstruksi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Dasar Gambar Teknik Bangunan",
+      "konten": "Penggunaan alat gambar arsitektur, simbol-simbol bahan bangunan, pembuatan denah, tampak (depan/samping), serta potongan bangunan. Pengenalan software AutoCAD/Sketchup dasar.",
+      "tag": [
+        "teknik konstruksi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Material dan Struktur Bangunan",
+      "konten": "Sifat semen, pasir, kerikil (beton). Dasar pondasi (batu kali, cakar ayam), struktur kolom, balok, dan dinding (hebel, bata merah). Pengenalan konstruksi kayu dan baja ringan.",
+      "tag": [
+        "teknik konstruksi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Ilmu Ukur Tanah Dasar (Surveying)",
+      "konten": "Pengenalan alat ukur tanah: Waterpas (Theodolite digital) untuk menentukan beda tinggi, penggunaan meteran gulung, serta pemahaman tentang koordinat dan kontur tanah.",
+      "tag": [
+        "teknik konstruksi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: K3LH di Lingkungan Konstruksi",
+      "konten": "Penerapan keselamatan kerja di ketinggian (scaffolding), penggunaan body harness, helm proyek, rompi reflektor. Pengelolaan limbah konstruksi agar tidak merusak lingkungan sekitar.",
+      "tag": [
+        "teknik konstruksi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "teknik-konstruksi-materi",
+  "mapel": "Dasar-Dasar Teknik Konstruksi dan Properti",
+  "tag": [
+    "teknik konstruksi materi"
+  ]
+}

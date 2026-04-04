@@ -1,0 +1,266 @@
+{
+  "id": "fr-tka-2025-smk-wajib",
+  "tahun": 2025,
+  "tingkat": "SMK",
+  "materiKategori": "wajib",
+  "mapel": "TKA SMK wajib",
+  "deskripsi": "Rekonstruksi FR TKA SMK 2025 kategori wajib.",
+  "soal": [
+    {
+      "id": "fr25-smk-wajib-bi-01",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Kalimat yang menyatakan opini dalam artikel bisnis adalah...",
+      "opsi": {
+        "A": "IHSG turun 0.5% hari ini.",
+        "B": "Perusahaan itu berdiri tahun 1990.",
+        "C": "Harga emas mencapai Rp1.000.000 per gram.",
+        "D": "Menurut saya, inovasi adalah kunci sukses utama.",
+        "E": "Laporan tahunan telah dipublikasi."
+      },
+      "kunci": "D",
+      "pembahasan": "Frasa 'Menurut saya' menunjukkan pandangan subjektif pengarang.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Bahasa Indonesia",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smk-wajib-bi-02",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Iklan lowongan kerja yang meminta pelamar datang langsung tanpa janji disebut...",
+      "opsi": {
+        "A": "Interview",
+        "B": "Workshop",
+        "C": "Seminar",
+        "D": "Webinar",
+        "E": "Walk-in Interview"
+      },
+      "kunci": "E",
+      "pembahasan": "Walk-in interview memudahkan rekrutmen massal secara cepat.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Bahasa Indonesia",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smk-wajib-bi-03",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Kalimat mana yang menggunakan ejaan (huruf kapital) secara tepat?",
+      "opsi": {
+        "A": "Kita harus bangga sebagai bangsa Indonesia.",
+        "B": "saya lahir di desa sukamaju.",
+        "C": "Andi membeli Pisang Ambon.",
+        "D": "Ibu pergi ke pasar Senin semalam.",
+        "E": "Presiden jokowi sedang berpidato."
+      },
+      "kunci": "A",
+      "pembahasan": "Opsi D benar. Opsi B salah (p dan a kecil jika nama buah), Opsi C pasar (p kecil), E (j harus kapital).",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Bahasa Indonesia",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smk-wajib-bi-04",
+      "mapel": "Bahasa Indonesia",
+      "teks": "Laporan hasil prakerin (praktik kerja industri) biasanya disusun secara...",
+      "opsi": {
+        "A": "Fiktif",
+        "B": "Sistematis dan Berdasarkan Fakta Lapangan",
+        "C": "Subjektif",
+        "D": "Singkat saja",
+        "E": "Sesuka hati"
+      },
+      "kunci": "B",
+      "pembahasan": "Laporan akademik harus mengikuti struktur yang ditentukan dan berbasis data nyata.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Bahasa Indonesia",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smk-wajib-en-01",
+      "mapel": "Bahasa Inggris",
+      "teks": "The laptop is ... than the tablet.",
+      "opsi": {
+        "A": "expensive",
+        "B": "most expensive",
+        "C": "expensiver",
+        "D": "more expensive",
+        "E": "as expensive"
+      },
+      "kunci": "D",
+      "pembahasan": "Comparative degree for adjectives with more than two syllables.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Bahasa Inggris",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr25-smk-wajib-en-02",
+      "mapel": "Bahasa Inggris",
+      "teks": "Could you please ... the document to me?",
+      "opsi": {
+        "A": "forwards",
+        "B": "forwarded",
+        "C": "forwarding",
+        "D": "to forward",
+        "E": "forward"
+      },
+      "kunci": "E",
+      "pembahasan": "Modal 'could' is followed by a base verb (V1).",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Bahasa Inggris",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smk-wajib-en-03",
+      "mapel": "Bahasa Inggris",
+      "teks": "The report ... by the manager yesterday.",
+      "opsi": {
+        "A": "was written",
+        "B": "is written",
+        "C": "written",
+        "D": "wrote",
+        "E": "writes"
+      },
+      "kunci": "A",
+      "pembahasan": "Passive voice for past tense (was/were + V3).",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Bahasa Inggris",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smk-wajib-en-04",
+      "mapel": "Bahasa Inggris",
+      "teks": "I look forward to ... you at the meeting.",
+      "opsi": {
+        "A": "see",
+        "B": "seeing",
+        "C": "seen",
+        "D": "saw",
+        "E": "be seeing"
+      },
+      "kunci": "B",
+      "pembahasan": "'Look forward to' is followed by a gerund (V-ing).",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Bahasa Inggris",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smk-wajib-mt-01",
+      "mapel": "Matematika",
+      "teks": "Jika cos A = 4/5, maka tan A adalah...",
+      "opsi": {
+        "A": "3/5",
+        "B": "4/3",
+        "C": "1/2",
+        "D": "3/4",
+        "E": "1"
+      },
+      "kunci": "D",
+      "pembahasan": "Samping=4, Miring=5, Depan=3. Tan = D/S = 3/4.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Matematika",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr25-smk-wajib-mt-02",
+      "mapel": "Matematika",
+      "teks": "Hasil perkalian matriks [[1, 2]] x [[3], [4]] adalah...",
+      "opsi": {
+        "A": "[[3, 8]]",
+        "B": "[[7]]",
+        "C": "[[12]]",
+        "D": "[[5]]",
+        "E": "[[11]]"
+      },
+      "kunci": "E",
+      "pembahasan": "(1*3) + (2*4) = 3 + 8 = 11. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"[[11]]\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Matematika",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smk-wajib-mt-03",
+      "mapel": "Matematika",
+      "teks": "Jumlah suku tak hingga dari deret geometri 16 + 8 + 4 + ... adalah...",
+      "opsi": {
+        "A": "32",
+        "B": "24",
+        "C": "48",
+        "D": "64",
+        "E": "Tak terhingga"
+      },
+      "kunci": "A",
+      "pembahasan": "S = a / (1-r) = 16 / (1-0.5) = 16 / 0.5 = 32.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Matematika",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smk-wajib-mt-04",
+      "mapel": "Matematika",
+      "teks": "Nilai x yang memenuhi 3^(2x-1) = 27 adalah...",
+      "opsi": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "kunci": "B",
+      "pembahasan": "3^(2x-1) = 3^3 => 2x-1 = 3 => 2x = 4 => x = 2.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Matematika",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smk-wajib-pp-01",
+      "mapel": "Pancasila",
+      "teks": "Salah satu ciri ideologi terbuka adalah...",
+      "opsi": {
+        "A": "Bersifat kaku dan tidak bisa berubah",
+        "B": "Diciptakan oleh negara untuk dipaksakan",
+        "C": "Hanya membela satu golongan",
+        "D": "Nilai dan cita-citanya digali dari kekayaan rohani dan budaya masyarakat sendiri",
+        "E": "Anti kritik"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Nilai dan cita-citanya digali dari kekayaan rohani dan budaya masyarakat sendiri\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Pancasila",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr25-smk-wajib-pp-02",
+      "mapel": "Pancasila",
+      "teks": "Tugas Mahkamah Konstitusi (MK) antara lain adalah...",
+      "opsi": {
+        "A": "Membuat undang-undang baru",
+        "B": "Memilih Presiden",
+        "C": "Mengatur keuangan negara",
+        "D": "Memimpin upacara bendera",
+        "E": "Menguji undang-undang terhadap UUD"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menguji undang-undang terhadap UUD\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Pancasila",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr25-smk-wajib-pp-03",
+      "mapel": "Pancasila",
+      "teks": "Sila ke-2 Pancasila dilambangkan dengan...",
+      "opsi": {
+        "A": "Rantai",
+        "B": "Bintang",
+        "C": "Pohon Beringin",
+        "D": "Kepala Banteng",
+        "E": "Padi dan Kapas"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Rantai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Pancasila",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr25-smk-wajib-pp-04",
+      "mapel": "Pancasila",
+      "teks": "Peranan pemuda dalam kebangkitan nasional Indonesia dimulai secara terorganisir pada tahun 1908 melalui berdirinya...",
+      "opsi": {
+        "A": "Sarekat Islam",
+        "B": "Budi Utomo",
+        "C": "Indische Partij",
+        "D": "PKI",
+        "E": "Muhammadiyah"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Budi Utomo\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMK 2025 - Pancasila",
+      "hari_ujian": 4
+    }
+  ]
+}

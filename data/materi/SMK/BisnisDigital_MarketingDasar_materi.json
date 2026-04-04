@@ -1,0 +1,53 @@
+{
+  "judul": "Marketing Dasar",
+  "tingkatan": "SMK",
+  "jurusan": "Bisnis Digital",
+  "deskripsi": "Materi mengenai konsep dasar pemasaran, riset pasar, segmentasi konsumen, marketing mix (4P/7P), dan etika bisnis.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Konsep dan Fungsi Pemasaran",
+      "konten": "Pemasaran adalah aktivitas, serangkaian institusi, dan proses menciptakan, mengomunikasikan, menyampaikan, dan mempertukarkan tawaran yang bernilai bagi pelanggan. Fungsi utamanya meliputi fungsi pertukaran (pembelian/penjualan), fungsi fisis (pengangkutan/penyimpanan), dan fungsi penyedia sarana.",
+      "tag": [
+        "bisnisdigital marketingdasar materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Riset Pasar dan Analisis Peluang",
+      "konten": "Riset pasar adalah proses sistematis mengumpulkan data tentang target pasar dan konsumen. Meliputi analisis SWOT (Strengths, Weaknesses, Opportunities, Threats) untuk memahami posisi bisnis di tengah persaingan.",
+      "tag": [
+        "bisnisdigital marketingdasar materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Segmentasi, Targeting, dan Positioning (STP)",
+      "konten": "Segmentasi: membagi pasar menjadi kelompok pembeli yang berbeda (geografis, demografis, psikografis). Targeting: memilih segmen yang akan dilayani. Positioning: menancapkan citra produk di benak konsumen agar berbeda dari pesaing.",
+      "tag": [
+        "bisnisdigital marketingdasar materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Bauran Pemasaran (Marketing Mix)",
+      "konten": "Strategi 4P untuk produk fisik: Product (Produk), Price (Harga), Place (Tempat/Distribusi), dan Promotion (Promosi). Untuk jasa, ditambah 3P lagi: People, Process, dan Physical Evidence.",
+      "tag": [
+        "bisnisdigital marketingdasar materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Etika Bisnis dan Kepuasan Pelanggan",
+      "konten": "Bisnis harus dijalankan dengan jujur dan bertanggung jawab terhadap lingkungan serta konsumen. Kepuasan pelanggan adalah kunci loyalitas, yang diukur dari kesesuaian antara ekspektasi dan realitas layanan yang diterima.",
+      "tag": [
+        "bisnisdigital marketingdasar materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "bisnisdigital-marketingdasar-materi",
+  "mapel": "Marketing Dasar",
+  "tag": [
+    "bisnisdigital marketingdasar materi"
+  ]
+}

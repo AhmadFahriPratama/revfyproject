@@ -1,0 +1,53 @@
+{
+  "judul": "Sosiologi (SMA IPS)",
+  "tingkatan": "SMA",
+  "jurusan": "IPS / Peminatan Sosial",
+  "deskripsi": "Materi mengenai interaksi sosial, nilai dan norma, sosialisasi, penyimpangan, struktur sosial, serta perubahan sosial di masyarakat.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Fungsi Sosiologi untuk Mengenali Gejala Sosial",
+      "konten": "Pengertian sosiologi sebagai ilmu pengetahuan sosial, ciri-ciri sosiologi (empiris, teoretis, kumulatif, non-etis). Peran sosiologi dalam pemecahan masalah sosial dan pembangunan.",
+      "tag": [
+        "sma sosiologi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Interaksi Sosial dan Gejala Sosial",
+      "konten": "Syarat interaksi sosial (kontak dan komunikasi), faktor pendorong interaksi (imitasi, sugesti, identifikasi, simpati, empati). Bentuk-bentuk interaksi asosiatif dan disosiatif.",
+      "tag": [
+        "sma sosiologi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Nilai, Norma, dan Sosialisasi",
+      "konten": "Pengertian nilai sosial dan jenis-jenis norma (cara, kebiasaan, tata kelakuan, adat istiadat). Tahapan sosialisasi primer dan sekunder, serta peran agen sosialisasi (keluarga, sekolah, teman, media).",
+      "tag": [
+        "sma sosiologi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Kelompok Sosial dalam Masyarakat Multikultural",
+      "konten": "Proses pembentukan kelompok sosial, dinamika kelompok, serta keberagaman budaya di Indonesia. Masalah primordialisme, etnosentrisme, dan pentingnya integrasi sosial.",
+      "tag": [
+        "sma sosiologi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Perubahan Sosial dan Modernisasi",
+      "konten": "Faktor penyebab dan penghambat perubahan sosial. Dampak perubahan sosial: modernisasi, westernisasi, sekularisasi, serta perilaku masyarakat dalam menghadapi globalisasi.",
+      "tag": [
+        "sma sosiologi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "sma-sosiologi-materi",
+  "mapel": "Sosiologi (SMA IPS)",
+  "tag": [
+    "sma sosiologi materi"
+  ]
+}

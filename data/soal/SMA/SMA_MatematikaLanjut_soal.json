@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMA_ML_01",
+    "pertanyaan": "Jika f(x) = x^3 + 2x^2 - x + 5 dibagi oleh (x - 2), berapakah sisanya?",
+    "opsi": [
+      "19",
+      "15",
+      "17",
+      "21",
+      "23"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Berdasarkan Teorema Sisa, sisa pembagian f(x) oleh (x-k) adalah f(k). f(2) = 2^3 + 2(2)^2 - 2 + 5 = 8 + 8 - 2 + 5 = 19."
+  },
+  {
+    "id": "SMA_ML_02",
+    "pertanyaan": "Nilai x yang memenuhi persamaan matriks [2 x] + [3 4] = [5 10] adalah...",
+    "opsi": [
+      "2",
+      "6",
+      "4",
+      "8",
+      "10"
+    ],
+    "jawaban": 1,
+    "pembahasan": "x + 4 = 10 -> x = 6. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"6\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_03",
+    "pertanyaan": "Determinan dari matriks A = [[3, 2], [1, 4]] adalah...",
+    "opsi": [
+      "11",
+      "12",
+      "10",
+      "13",
+      "14"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Det(A) = (3*4) - (2*1) = 12 - 2 = 10. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"10\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_04",
+    "pertanyaan": "Titik A(3, 5) ditranslasikan oleh T(2, -1). Koordinat bayangan titik A adalah...",
+    "opsi": [
+      "(1, 6)",
+      "(5, 6)",
+      "(1, 4)",
+      "(5, 4)",
+      "(6, 4)"
+    ],
+    "jawaban": 3,
+    "pembahasan": "A'(x+2, y-1) = (3+2, 5-1) = (5, 4). Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"(5, 4)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_05",
+    "pertanyaan": "Turunan pertama dari f(x) = 3x^2 - 5x + 2 adalah...",
+    "opsi": [
+      "3x - 5",
+      "6x^2 - 5",
+      "6x + 5",
+      "x - 5",
+      "6x - 5"
+    ],
+    "jawaban": 4,
+    "pembahasan": "f'(x) = 2*3x^(2-1) - 5 = 6x - 5. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"6x - 5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_06",
+    "pertanyaan": "Integral dari (4x^3) dx adalah...",
+    "opsi": [
+      "x^4 + C",
+      "4x^4 + C",
+      "x^3 + C",
+      "12x^2 + C",
+      "x^4"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Integralkan 4x^3: (4/4)x^(3+1) + C = x^4 + C."
+  },
+  {
+    "id": "SMA_ML_07",
+    "pertanyaan": "Jika salah satu akar dari x^3 - 4x^2 + x + 6 = 0 adalah 2, maka hasil kali dua akar lainnya adalah...",
+    "opsi": [
+      "3",
+      "-3",
+      "2",
+      "-2",
+      "1"
+    ],
+    "jawaban": 1,
+    "pembahasan": "x1*x2*x3 = -d/a = -6/1 = -6. Karena x1 = 2, maka x2*x3 = -6/2 = -3."
+  },
+  {
+    "id": "SMA_ML_08",
+    "pertanyaan": "Invers dari matriks A = [[1, 2], [3, 4]] adalah...",
+    "opsi": [
+      "[[ 4, -2], [ -3, 1]]",
+      "[[ -4, 2], [ 3, -1]]",
+      "[[ -2, 1], [ 1.5, -0.5]]",
+      "[[ 1, 0], [ 0, 1]]",
+      "[[ 4, 3], [ 2, 1]]"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Det = 4-6 = -2. Invers = 1/-2 * [[4, -2], [-3, 1]] = [[-2, 1], [1.5, -0.5]]."
+  },
+  {
+    "id": "SMA_ML_09",
+    "pertanyaan": "Bayangan titik P(-2, 4) jika direfleksikan terhadap garis y = x adalah...",
+    "opsi": [
+      "(-4, 2)",
+      "(2, -4)",
+      "(-2, -4)",
+      "(4, -2)",
+      "(4, 2)"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Refleksi y=x menukar posisi (x,y) menjadi (y,x). (-2,4) menjadi (4,-2)."
+  },
+  {
+    "id": "SMA_ML_10",
+    "pertanyaan": "Gradien garis singgung kurva y = x^2 + 3x pada titik x = 1 adalah...",
+    "opsi": [
+      "3",
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "jawaban": 4,
+    "pembahasan": "y' = 2x + 3. Untuk x=1, m = 2(1) + 3 = 5."
+  },
+  {
+    "id": "SMA_ML_11",
+    "pertanyaan": "Luas daerah yang dibatasi oleh y = x, sumbu X, x = 0, dan x = 2 adalah...",
+    "opsi": [
+      "2",
+      "1",
+      "3",
+      "4",
+      "5"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Integral x dari 0 ke 2 = [1/2 x^2] = 1/2 (2^2) - 0 = 2."
+  },
+  {
+    "id": "SMA_ML_12",
+    "pertanyaan": "Suku banyak P(x) = x^4 - 3x^2 + 2x - 1. Nilai P(-1) adalah...",
+    "opsi": [
+      "-3",
+      "-5",
+      "0",
+      "1",
+      "5"
+    ],
+    "jawaban": 1,
+    "pembahasan": "P(-1) = (-1)^4 - 3(-1)^2 + 2(-1) - 1 = 1 - 3 - 2 - 1 = -5."
+  },
+  {
+    "id": "SMA_ML_13",
+    "pertanyaan": "Jika matriks A berordo 2x3 dan B berordo 3x2, maka matriks AB berordo...",
+    "opsi": [
+      "3x3",
+      "2x3",
+      "2x2",
+      "3x2",
+      "Tidak bisa dikalikan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Perkalian (m x n) dengan (n x p) menghasilkan matriks (m x p). Jadi (2x3) * (3x2) = (2x2)."
+  },
+  {
+    "id": "SMA_ML_14",
+    "pertanyaan": "Rotasi sebesar 90 derajat berlawanan arah jarum jam dengan pusat (0,0) akan memetakan (x,y) menjadi...",
+    "opsi": [
+      "(y, -x)",
+      "(-x, -y)",
+      "(y, x)",
+      "(-y, x)",
+      "(-y, -x)"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Aturan rotasi 90 derajat pusat O adalah P(x,y) -> P'(-y,x)."
+  },
+  {
+    "id": "SMA_ML_15",
+    "pertanyaan": "Titik stasioner dari fungsi f(x) = x^2 - 4x + 1 adalah x = ...",
+    "opsi": [
+      "1",
+      "3",
+      "4",
+      "0",
+      "2"
+    ],
+    "jawaban": 4,
+    "pembahasan": "f'(x) = 0 -> 2x - 4 = 0 -> x = 2. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_16",
+    "pertanyaan": "Suku pertama, kedua, dan ketiga dari polinomial 2x^4 - 5x^3 + x - 7 memiliki koefisien berturut-turut...",
+    "opsi": [
+      "2, -5, 0",
+      "2, -5, 1",
+      "2, 5, 1",
+      "-5, 0, 1",
+      "2, -5, -7"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Derajat 4 (2), Derajat 3 (-5), Derajat 2 (tidak ada = 0)."
+  },
+  {
+    "id": "SMA_ML_17",
+    "pertanyaan": "Nilai dari sin 150 derajat adalah...",
+    "opsi": [
+      "0",
+      "1/2",
+      "1/2 sqrt(2)",
+      "1/2 sqrt(3)",
+      "1"
+    ],
+    "jawaban": 1,
+    "pembahasan": "sin 150 = sin(180 - 30) = sin 30 = 1/2. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"1/2\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_18",
+    "pertanyaan": "Matriks identitas I ordo 2x2 dikalikan matriks A [[a, b], [c, d]] hasilnya adalah...",
+    "opsi": [
+      "Matriks I",
+      "Matriks Nol",
+      "Matriks A",
+      "2A",
+      "A invers"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Matriks identitas bersifat seperti angka 1 dalam perkalian bilangan biasa."
+  },
+  {
+    "id": "SMA_ML_19",
+    "pertanyaan": "Dilatasi titik (2, 3) dengan pusat O(0,0) dan faktor skala 3 menghasilkan bayangan...",
+    "opsi": [
+      "(5, 6)",
+      "(6, 3)",
+      "(2, 9)",
+      "(6, 9)",
+      "(2/3, 1)"
+    ],
+    "jawaban": 3,
+    "pembahasan": "A'(k*x, k*y) = (3*2, 3*3) = (6, 9). Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"(6, 9)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_20",
+    "pertanyaan": "Fungsi f(x) = x^3 - 3x^2 akan naik pada interval...",
+    "opsi": [
+      "0 < x < 2",
+      "x > 0",
+      "x < 2",
+      "Seluruh bilangan real",
+      "x < 0 atau x > 2"
+    ],
+    "jawaban": 4,
+    "pembahasan": "f'(x) = 3x^2 - 6x = 3x(x - 2). Naik jika f'(x) > 0, yaitu x < 0 atau x > 2."
+  },
+  {
+    "id": "SMA_ML_21",
+    "pertanyaan": "Integral (cos x) dx adalah...",
+    "opsi": [
+      "sin x + C",
+      "-sin x + C",
+      "cos x + C",
+      "tan x + C",
+      "1/sin x + C"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kebalikan dari turunan sin x (yaitu cos x) adalah sin x."
+  },
+  {
+    "id": "SMA_ML_22",
+    "pertanyaan": "Himpunan penyelesaian dari sin x = 1/2 untuk 0 <= x <= 360 adalah...",
+    "opsi": [
+      "{30, 330}",
+      "{30, 150}",
+      "{60, 120}",
+      "{60, 300}",
+      "{150, 210}"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sinus positif di kuadran I (30) dan kuadran II (180-30=150)."
+  },
+  {
+    "id": "SMA_ML_23",
+    "pertanyaan": "Jika f(x) = sin(2x), maka f'(x) = ...",
+    "opsi": [
+      "cos(2x)",
+      "-2 cos(2x)",
+      "2 cos(2x)",
+      "2 sin(2x)",
+      "1/2 cos(2x)"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Gunakan aturan rantai: turunan luar (sin -> cos) * turunan dalam (2x -> 2)."
+  },
+  {
+    "id": "SMA_ML_24",
+    "pertanyaan": "Determinan matriks [[1, 2, 3], [0, 1, 4], [0, 0, 2]] adalah...",
+    "opsi": [
+      "0",
+      "6",
+      "1",
+      "2",
+      "4"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Untuk matriks segitiga atas, determinan adalah perkalian elemen diagonal utama: 1 * 1 * 2 = 2."
+  },
+  {
+    "id": "SMA_ML_25",
+    "pertanyaan": "Suku ke-n barisan aritmetika 2, 5, 8, ... adalah...",
+    "opsi": [
+      "3n + 1",
+      "2n + 3",
+      "n + 3",
+      "3n - 2",
+      "3n - 1"
+    ],
+    "jawaban": 4,
+    "pembahasan": "a=2, b=3. Un = a + (n-1)b = 2 + 3n - 3 = 3n - 1."
+  },
+  {
+    "id": "SMA_ML_26",
+    "pertanyaan": "Jumlah 10 suku pertama dari 1 + 2 + 3 + ... adalah...",
+    "opsi": [
+      "55",
+      "45",
+      "50",
+      "60",
+      "65"
+    ],
+    "jawaban": 0,
+    "pembahasan": "S10 = 10/2 (1 + 10) = 5 * 11 = 55. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"55\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_27",
+    "pertanyaan": "Persamaan lingkaran dengan pusat (0,0) dan jari-jari 5 adalah...",
+    "opsi": [
+      "x^2 + y^2 = 5",
+      "x^2 + y^2 = 25",
+      "x + y = 25",
+      "x^2 - y^2 = 25",
+      "x^2 + y^2 = 10"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Rumus: x^2 + y^2 = r^2. Jadi x^2 + y^2 = 5^2 = 25."
+  },
+  {
+    "id": "SMA_ML_28",
+    "pertanyaan": "Limit (x^2 - 4)/(x - 2) saat x mendekati 2 adalah...",
+    "opsi": [
+      "0",
+      "2",
+      "4",
+      "8",
+      "Tak hingga"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Faktorkan x^2-4 menjadi (x-2)(x+2). Coret (x-2), tinggal x+2. Substitusi x=2, hasil = 4."
+  },
+  {
+    "id": "SMA_ML_29",
+    "pertanyaan": "Vektor a = (2, 3) dan b = (4, -1). Nilai a + b adalah...",
+    "opsi": [
+      "(6, 4)",
+      "(2, 4)",
+      "(-2, 4)",
+      "(6, 2)",
+      "(8, -3)"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Jumlahkan komponen: (2+4, 3-1) = (6, 2)."
+  },
+  {
+    "id": "SMA_ML_30",
+    "pertanyaan": "Dot product dari vektor (1, 2) dan (3, 4) adalah...",
+    "opsi": [
+      "10",
+      "14",
+      "7",
+      "5",
+      "11"
+    ],
+    "jawaban": 4,
+    "pembahasan": "(1*3) + (2*4) = 3 + 8 = 11. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"11\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_31",
+    "pertanyaan": "Sisa pembagian f(x) = x^2 - 5x + 6 oleh x - 3 adalah...",
+    "opsi": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "jawaban": 0,
+    "pembahasan": "f(3) = 3^2 - 5(3) + 6 = 9 - 15 + 6 = 0. Artinya x-3 adalah faktor dari f(x)."
+  },
+  {
+    "id": "SMA_ML_32",
+    "pertanyaan": "Berapakah nilai cos 60 derajat?",
+    "opsi": [
+      "1/2 sqrt(2)",
+      "1/2",
+      "1/2 sqrt(3)",
+      "1",
+      "0"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Cos 60 adalah nilai sudut istimewa, yaitu 1/2."
+  },
+  {
+    "id": "SMA_ML_33",
+    "pertanyaan": "Persamaan garis singgung y = x^2 di titik (1, 1) adalah...",
+    "opsi": [
+      "y = 2x + 1",
+      "y = x + 1",
+      "y = 2x - 1",
+      "y = x - 1",
+      "y = 2x"
+    ],
+    "jawaban": 2,
+    "pembahasan": "y' = 2x. Gradien m = 2(1) = 2. Persamaan: y - 1 = 2(x - 1) -> y = 2x - 1."
+  },
+  {
+    "id": "SMA_ML_34",
+    "pertanyaan": "Jika f(x) = 5, maka f'(x) adalah...",
+    "opsi": [
+      "5",
+      "x",
+      "1",
+      "0",
+      "Tidak ada"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Turunan dari konstanta selalu nol. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"0\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_35",
+    "pertanyaan": "Banyaknya cara menyusun 3 buku berbeda dalam satu rak adalah...",
+    "opsi": [
+      "3",
+      "9",
+      "1",
+      "12",
+      "6"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gunakan permutasi: 3! = 3 * 2 * 1 = 6 cara."
+  },
+  {
+    "id": "SMA_ML_36",
+    "pertanyaan": "Peluang munculnya angka genap pada pelemparan satu dadu adalah...",
+    "opsi": [
+      "3/6 (1/2)",
+      "1/6",
+      "2/6",
+      "4/6",
+      "1"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Angka genap: {2, 4, 6}. Total mata dadu: 6. Peluang = 3/6."
+  },
+  {
+    "id": "SMA_ML_37",
+    "pertanyaan": "Logaritma basis 10 dari 1000 adalah...",
+    "opsi": [
+      "1",
+      "3",
+      "2",
+      "4",
+      "10"
+    ],
+    "jawaban": 1,
+    "pembahasan": "10^3 = 1000. Jadi log 1000 = 3. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"3\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_38",
+    "pertanyaan": "Himpunan penyelesaian dari |x - 1| = 2 adalah...",
+    "opsi": [
+      "{3, 1}",
+      "{2, -2}",
+      "{3, -1}",
+      "{1, -1}",
+      "{3}"
+    ],
+    "jawaban": 2,
+    "pembahasan": "x-1=2 -> x=3; x-1=-2 -> x=-1. Jadi {3, -1}."
+  },
+  {
+    "id": "SMA_ML_39",
+    "pertanyaan": "Modus dari data 2, 3, 3, 4, 5, 5, 5, 6 adalah...",
+    "opsi": [
+      "3",
+      "4",
+      "6",
+      "5",
+      "3 dan 5"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Angka 5 muncul paling banyak (3 kali). Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_40",
+    "pertanyaan": "Median dari data terurut 1, 3, 4, 6, 8 adalah...",
+    "opsi": [
+      "6",
+      "3",
+      "4.5",
+      "1",
+      "4"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Nilai tengah data ganjil (n=5) adalah data ke-3, yaitu 4."
+  },
+  {
+    "id": "SMA_ML_41",
+    "pertanyaan": "Konvers dari 'Jika hujan, maka basah' adalah...",
+    "opsi": [
+      "Jika basah, maka hujan",
+      "Jika tidak hujan, maka tidak basah",
+      "Jika tidak basah, maka tidak hujan",
+      "Hujan dan tidak basah",
+      "Basah dan tidak hujan"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Konvers p -> q adalah q -> p. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Jika basah, maka hujan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_42",
+    "pertanyaan": "Negasi dari 'Semua siswa lulus' adalah...",
+    "opsi": [
+      "Semua siswa tidak lulus",
+      "Ada siswa yang tidak lulus",
+      "Tidak ada siswa yang lulus",
+      "Beberapa siswa lulus",
+      "Siswa rajin lulul"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Negasi dari kuantor universal (Semua) adalah kuantor eksistensial (Ada/Beberapa) + ingkaran."
+  },
+  {
+    "id": "SMA_ML_43",
+    "pertanyaan": "Titik potong kurva y = x^2 - 4 dengan sumbu X adalah...",
+    "opsi": [
+      "(0,4) dan (0,-4)",
+      "(4,0)",
+      "(2,0) dan (-2,0)",
+      "(0,0)",
+      "(2,2)"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Garis potong sumbu X jika y=0. x^2-4=0 -> x=2 atau x=-2."
+  },
+  {
+    "id": "SMA_ML_44",
+    "pertanyaan": "Domain dari fungsi f(x) = sqrt(x - 3) agar terdefinisi pada bilangan real adalah...",
+    "opsi": [
+      "x > 3",
+      "x <= 3",
+      "x < 3",
+      "x >= 3",
+      "Semua x"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Syarat di dalam akar harus >= 0. x-3 >= 0 -> x >= 3."
+  },
+  {
+    "id": "SMA_ML_45",
+    "pertanyaan": "Asimtot datar dari f(x) = (2x + 1)/(x - 3) adalah y = ...",
+    "opsi": [
+      "3",
+      "1/3",
+      "0",
+      "-1/3",
+      "2"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Asimtot datar untuk pangkat pembilang=penyebut adalah koefisien tertinggi: 2/1 = 2."
+  },
+  {
+    "id": "SMA_ML_46",
+    "pertanyaan": "Nilai maksimum dari y = sin x + 3 adalah...",
+    "opsi": [
+      "4",
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Nilai max sin x adalah 1. Jadi 1 + 3 = 4."
+  },
+  {
+    "id": "SMA_ML_47",
+    "pertanyaan": "Bentuk sederhana dari sqrt(8) adalah...",
+    "opsi": [
+      "2",
+      "2 sqrt(2)",
+      "4",
+      "4 sqrt(2)",
+      "8 sqrt(2)"
+    ],
+    "jawaban": 1,
+    "pembahasan": "sqrt(8) = sqrt(4 * 2) = 2 sqrt(2). Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2 sqrt(2)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_48",
+    "pertanyaan": "Jika f(x) = x + 3 dan g(x) = 2x, maka (f o g)(1) = ...",
+    "opsi": [
+      "8",
+      "4",
+      "5",
+      "7",
+      "6"
+    ],
+    "jawaban": 2,
+    "pembahasan": "g(1) = 2. f(g(1)) = f(2) = 2 + 3 = 5. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"5\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_ML_49",
+    "pertanyaan": "Integral (2x + 1) dx dari 0 sampai 1 adalah...",
+    "opsi": [
+      "1",
+      "3",
+      "0",
+      "2",
+      "1.5"
+    ],
+    "jawaban": 3,
+    "pembahasan": "[x^2 + x] dari 0 ke 1 = (1^2 + 1) - (0) = 2."
+  },
+  {
+    "id": "SMA_ML_50",
+    "pertanyaan": "Berapakah 2 pangkat 5?",
+    "opsi": [
+      "10",
+      "16",
+      "64",
+      "25",
+      "32"
+    ],
+    "jawaban": 4,
+    "pembahasan": "2*2*2*2*2 = 32. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"32\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

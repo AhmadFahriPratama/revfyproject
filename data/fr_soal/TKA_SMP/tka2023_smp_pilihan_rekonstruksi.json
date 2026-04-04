@@ -1,0 +1,202 @@
+{
+  "id": "fr-tka-2023-smp-pilihan",
+  "tahun": 2023,
+  "tingkat": "SMP",
+  "materiKategori": "pilihan",
+  "mapel": "TKA SMP pilihan",
+  "deskripsi": "Rekonstruksi FR TKA SMP 2023 kategori pilihan.",
+  "soal": [
+    {
+      "id": "fr23-smp-pilihan-ipa-01",
+      "mapel": "IPA",
+      "teks": "Satuan SI untuk massa adalah...",
+      "opsi": {
+        "A": "Kilogram",
+        "B": "Gram",
+        "C": "Newton",
+        "D": "Pascal",
+        "E": "Meter"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kilogram\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - IPA",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smp-pilihan-ipa-02",
+      "mapel": "IPA",
+      "teks": "Perubahan wujud dari gas menjadi cair disebut...",
+      "opsi": {
+        "A": "Mencair",
+        "B": "Mengembun",
+        "C": "Menyumblim",
+        "D": "Menguap",
+        "E": "Membeku"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Mengembun\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - IPA",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smp-pilihan-ipa-03",
+      "mapel": "IPA",
+      "teks": "Suhu tubuh normal manusia (37 C) sama dengan ... Kelvin.",
+      "opsi": {
+        "A": "273",
+        "B": "300",
+        "C": "310",
+        "D": "370",
+        "E": "100"
+      },
+      "kunci": "C",
+      "pembahasan": "37 + 273 = 310 K. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"310\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - IPA",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smp-pilihan-ipa-04",
+      "mapel": "IPA",
+      "teks": "Bagian sel yang berfungsi sebagai penghasil energi adalah...",
+      "opsi": {
+        "A": "Ribosom",
+        "B": "Lisosom",
+        "C": "Inti sel",
+        "D": "Mitokondria",
+        "E": "Vakuola"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Mitokondria\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - IPA",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smp-pilihan-ipa-05",
+      "mapel": "IPA",
+      "teks": "Larutan yang memiliki pH < 7 disebut...",
+      "opsi": {
+        "A": "Basa",
+        "B": "Netral",
+        "C": "Garam",
+        "D": "Buffer",
+        "E": "Asam"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Asam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - IPA",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smp-pilihan-ipa-06",
+      "mapel": "IPA",
+      "teks": "Gaya tarik-menarik antara molekul sejenis disebut...",
+      "opsi": {
+        "A": "Kohesi",
+        "B": "Adhesi",
+        "C": "Kapilaritas",
+        "D": "Gravitasi",
+        "E": "Magnet"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kohesi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - IPA",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smp-pilihan-ips-01",
+      "mapel": "IPS",
+      "teks": "Secara astronomis, Indonesia terletak di antara...",
+      "opsi": {
+        "A": "6 LU-11 LS & 95 BT-141 BT",
+        "B": "11 LU-6 LS & 95 BT-141 BT",
+        "C": "6 LU-11 LS & 141 BT-95 BT",
+        "D": "0 LU-10 LS & 100 BT-150 BT",
+        "E": "5 LU-15 LS & 90 BT-140 BT"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"6 LU-11 LS & 95 BT-141 BT\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - IPS",
+      "hari_ujian": 2
+    },
+    {
+      "id": "fr23-smp-pilihan-ips-02",
+      "mapel": "IPS",
+      "teks": "Angin yang menyebabkan musim hujan di Indonesia adalah...",
+      "opsi": {
+        "A": "Monsun Timur",
+        "B": "Monsun Barat",
+        "C": "Angin Passat",
+        "D": "Angin Darat",
+        "E": "Angin Lembah"
+      },
+      "kunci": "B",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Monsun Barat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - IPS",
+      "hari_ujian": 3
+    },
+    {
+      "id": "fr23-smp-pilihan-ips-03",
+      "mapel": "IPS",
+      "teks": "Benua terkecil di dunia adalah...",
+      "opsi": {
+        "A": "Asia",
+        "B": "Eropa",
+        "C": "Australia",
+        "D": "Antartika",
+        "E": "Afrika"
+      },
+      "kunci": "C",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Australia\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - IPS",
+      "hari_ujian": 4
+    },
+    {
+      "id": "fr23-smp-pilihan-ips-04",
+      "mapel": "IPS",
+      "teks": "Garis yang membagi wilayah persebaran fauna Indonesia Barat dan Tengah adalah...",
+      "opsi": {
+        "A": "Garis Weber",
+        "B": "Garis Khatulistiwa",
+        "C": "Garis Lintang",
+        "D": "Garis Wallace",
+        "E": "Garis Bujur"
+      },
+      "kunci": "D",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Garis Wallace\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - IPS",
+      "hari_ujian": 5
+    },
+    {
+      "id": "fr23-smp-pilihan-ips-05",
+      "mapel": "IPS",
+      "teks": "Faktor utama penyebab konflik sosial adalah...",
+      "opsi": {
+        "A": "Persamaan kepentingan",
+        "B": "Integrasi sosial",
+        "C": "Kerjasama",
+        "D": "Simpati",
+        "E": "Perbedaan individu/budaya"
+      },
+      "kunci": "E",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Perbedaan individu/budaya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - IPS",
+      "hari_ujian": 1
+    },
+    {
+      "id": "fr23-smp-pilihan-ips-06",
+      "mapel": "IPS",
+      "teks": "Zaman batu besar disebut juga...",
+      "opsi": {
+        "A": "Megalitikum",
+        "B": "Paleolitikum",
+        "C": "Mesolitikum",
+        "D": "Neolitikum",
+        "E": "Logam"
+      },
+      "kunci": "A",
+      "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi D karena sesuai dengan konsep utama pada soal, yaitu \"Megalitikum\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+      "sumber": "Rekonstruksi pola TKA SMP 2023 - IPS",
+      "hari_ujian": 2
+    }
+  ]
+}

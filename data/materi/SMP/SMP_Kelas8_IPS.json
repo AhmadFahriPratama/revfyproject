@@ -1,0 +1,26 @@
+{
+  "id": "materi-smp-kls8-ips",
+  "tingkat": "SMP Kelas 8",
+  "mapel": "IPS",
+  "materi": "Negara ASEAN, Mobilitas Sosial, Pelaku Ekonomi, dan Masa Penjajahan",
+  "deskripsi": "Materi IPS Kelas 8 fokus pada cakupan regional ASEAN, dinamika sosial masyarakat, perdagangan antarnegara, serta sejarah pergerakan kebangsaan Indonesia.",
+  "konten": [
+    {
+      "bab": "1. Interaksi Keruangan dalam Kehidupan di Negara-Negara ASEAN",
+      "teks": "Mengenal negara ASEAN (geografis, iklim, SDA), bentuk kerja sama (ekonomi, politik, sosial-budaya), dan pengaruh interaksi ruang."
+    },
+    {
+      "bab": "2. Pengaruh Interaksi Sosial terhadap Kehidupan Sosial dan Kebangsaan",
+      "teks": "Menganalisis mobilitas sosial (vertikal/horizontal), pluralitas/keragaman masyarakat Indonesia, serta resolusi konflik dan integrasi sosial."
+    },
+    {
+      "bab": "3. Keunggulan dan Keterbatasan Antarruang serta Peran Pelaku Ekonomi",
+      "teks": "Memahami peran Rumah Tangga Konsumen (RTK) dan Produsen (RTP), perdagangan antardaerah/pulau, serta konsep perdagangan internasional."
+    },
+    {
+      "bab": "4. Perubahan Masyarakat Indonesia pada Masa Penjajahan dan Tumbuhnya Semangat Kebangsaan",
+      "teks": "Sejarah kedatangan bangsa Barat (Portugis, Spanyol, Belanda), sistem tanam paksa, kebijakan kolonial, hingga masa Pergerakan Nasional (Budi Utomo, Sumpah Pemuda)."
+    }
+  ],
+  "tag": ["smp-8", "ips", "asean", "mobilitas-sosial", "perdagangan", "sejarah-penjajahan"]
+}

@@ -1,0 +1,1177 @@
+{
+  "id": "cpns-tryout-v01",
+  "judul": "Try Out CPNS Lengkap V01",
+  "durasiMenit": 100,
+  "soal": [
+    {
+      "id": "to-cpns-v1-001",
+      "pertanyaan": "Premis 1: Semua mahasiswa Akuntansi belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras lulus dengan pujian. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Akuntansi pasti lulus dengan pujian.",
+        "C": "Semua mahasiswa Akuntansi lulus dengan pujian.",
+        "D": "Semua yang lulus dengan pujian adalah mahasiswa Akuntansi.",
+        "E": "Sebagian mahasiswa Akuntansi tidak belajar keras."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Akuntansi pasti lulus dengan pujian. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "to-cpns-v1-002",
+      "pertanyaan": "Deret angka 2, 5, 8, 11, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "11",
+        "B": "14",
+        "C": "17",
+        "D": "20",
+        "E": "12"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pola deret bertambah tetap 3 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 3 dari angka terakhir menjadi 14."
+    },
+    {
+      "id": "to-cpns-v1-003",
+      "pertanyaan": "Analogi: dokter : pasien = guru : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "murid",
+        "D": "jadwal",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "dokter berhubungan langsung dengan pasien sebagai objek kerja utama. Hubungan setara terjadi antara guru dan murid."
+    },
+    {
+      "id": "to-cpns-v1-004",
+      "pertanyaan": "Jika y = 3x dan x = 12, nilai y adalah?",
+      "opsi": {
+        "A": "33",
+        "B": "48",
+        "C": "15",
+        "D": "36",
+        "E": "9"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 12 ke persamaan y = 3x sehingga diperoleh y = 36."
+    },
+    {
+      "id": "to-cpns-v1-005",
+      "pertanyaan": "Premis 1: Semua mahasiswa Manajemen tekun membaca referensi. Premis 2: Beberapa mahasiswa yang tekun membaca referensi mendapat nilai tertinggi. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Sebagian mahasiswa Manajemen tidak tekun membaca referensi.",
+        "B": "Beberapa mahasiswa Manajemen pasti mendapat nilai tertinggi.",
+        "C": "Semua mahasiswa Manajemen mendapat nilai tertinggi.",
+        "D": "Semua yang mendapat nilai tertinggi adalah mahasiswa Manajemen.",
+        "E": "Tidak dapat ditarik kesimpulan pasti dari kedua premis."
+      },
+      "jawaban": "E",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Manajemen pasti mendapat nilai tertinggi. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "to-cpns-v1-006",
+      "pertanyaan": "Deret angka 3, 7, 11, 15, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "19",
+        "B": "15",
+        "C": "23",
+        "D": "27",
+        "E": "17"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pola deret bertambah tetap 4 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 4 dari angka terakhir menjadi 19."
+    },
+    {
+      "id": "to-cpns-v1-007",
+      "pertanyaan": "Analogi: arsitek : bangunan = editor : ...",
+      "opsi": {
+        "A": "agenda",
+        "B": "naskah",
+        "C": "ruangan",
+        "D": "catatan",
+        "E": "jadwal"
+      },
+      "jawaban": "B",
+      "pembahasan": "arsitek berhubungan langsung dengan bangunan sebagai objek kerja utama. Hubungan setara terjadi antara editor dan naskah."
+    },
+    {
+      "id": "to-cpns-v1-008",
+      "pertanyaan": "Jika y = 4x dan x = 15, nilai y adalah?",
+      "opsi": {
+        "A": "11",
+        "B": "56",
+        "C": "60",
+        "D": "75",
+        "E": "19"
+      },
+      "jawaban": "C",
+      "pembahasan": "Substitusikan x = 15 ke persamaan y = 4x sehingga diperoleh y = 60."
+    },
+    {
+      "id": "to-cpns-v1-009",
+      "pertanyaan": "Premis 1: Semua mahasiswa Arsitektur rutin mengikuti bimbingan. Premis 2: Beberapa mahasiswa yang rutin mengikuti bimbingan menjadi finalis lomba. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Semua yang menjadi finalis lomba adalah mahasiswa Arsitektur.",
+        "B": "Sebagian mahasiswa Arsitektur tidak rutin mengikuti bimbingan.",
+        "C": "Beberapa mahasiswa Arsitektur pasti menjadi finalis lomba.",
+        "D": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "E": "Semua mahasiswa Arsitektur menjadi finalis lomba."
+      },
+      "jawaban": "D",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Arsitektur pasti menjadi finalis lomba. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "to-cpns-v1-010",
+      "pertanyaan": "Deret angka 4, 9, 14, 19, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "22",
+        "B": "19",
+        "C": "29",
+        "D": "34",
+        "E": "24"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pola deret bertambah tetap 5 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 5 dari angka terakhir menjadi 24."
+    },
+    {
+      "id": "to-cpns-v1-011",
+      "pertanyaan": "Analogi: hakim : putusan = analis : ...",
+      "opsi": {
+        "A": "laporan",
+        "B": "agenda",
+        "C": "ruangan",
+        "D": "catatan",
+        "E": "jadwal"
+      },
+      "jawaban": "A",
+      "pembahasan": "hakim berhubungan langsung dengan putusan sebagai objek kerja utama. Hubungan setara terjadi antara analis dan laporan."
+    },
+    {
+      "id": "to-cpns-v1-012",
+      "pertanyaan": "Jika y = 5x dan x = 18, nilai y adalah?",
+      "opsi": {
+        "A": "23",
+        "B": "90",
+        "C": "13",
+        "D": "85",
+        "E": "108"
+      },
+      "jawaban": "B",
+      "pembahasan": "Substitusikan x = 18 ke persamaan y = 5x sehingga diperoleh y = 90."
+    },
+    {
+      "id": "to-cpns-v1-013",
+      "pertanyaan": "Premis 1: Semua mahasiswa Ilmu Komunikasi tepat waktu mengumpulkan tugas. Premis 2: Beberapa mahasiswa yang tepat waktu mengumpulkan tugas menyelesaikan proyek tepat waktu. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Semua mahasiswa Ilmu Komunikasi menyelesaikan proyek tepat waktu.",
+        "B": "Semua yang menyelesaikan proyek tepat waktu adalah mahasiswa Ilmu Komunikasi.",
+        "C": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "D": "Sebagian mahasiswa Ilmu Komunikasi tidak tepat waktu mengumpulkan tugas.",
+        "E": "Beberapa mahasiswa Ilmu Komunikasi pasti menyelesaikan proyek tepat waktu."
+      },
+      "jawaban": "C",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Ilmu Komunikasi pasti menyelesaikan proyek tepat waktu. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "to-cpns-v1-014",
+      "pertanyaan": "Deret angka 5, 11, 17, 23, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "41",
+        "B": "27",
+        "C": "23",
+        "D": "29",
+        "E": "35"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pola deret bertambah tetap 6 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 6 dari angka terakhir menjadi 29."
+    },
+    {
+      "id": "to-cpns-v1-015",
+      "pertanyaan": "Analogi: nahkoda : kapal = pilot : ...",
+      "opsi": {
+        "A": "jadwal",
+        "B": "agenda",
+        "C": "ruangan",
+        "D": "catatan",
+        "E": "pesawat"
+      },
+      "jawaban": "E",
+      "pembahasan": "nahkoda berhubungan langsung dengan kapal sebagai objek kerja utama. Hubungan setara terjadi antara pilot dan pesawat."
+    },
+    {
+      "id": "to-cpns-v1-016",
+      "pertanyaan": "Jika y = 6x dan x = 21, nilai y adalah?",
+      "opsi": {
+        "A": "126",
+        "B": "27",
+        "C": "15",
+        "D": "120",
+        "E": "147"
+      },
+      "jawaban": "A",
+      "pembahasan": "Substitusikan x = 21 ke persamaan y = 6x sehingga diperoleh y = 126."
+    },
+    {
+      "id": "to-cpns-v1-017",
+      "pertanyaan": "Premis 1: Semua mahasiswa Akuntansi aktif berlatih soal. Premis 2: Beberapa mahasiswa yang aktif berlatih soal mendapat beasiswa. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Beberapa mahasiswa Akuntansi pasti mendapat beasiswa.",
+        "B": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "C": "Semua mahasiswa Akuntansi mendapat beasiswa.",
+        "D": "Semua yang mendapat beasiswa adalah mahasiswa Akuntansi.",
+        "E": "Sebagian mahasiswa Akuntansi tidak aktif berlatih soal."
+      },
+      "jawaban": "B",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Akuntansi pasti mendapat beasiswa. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "to-cpns-v1-018",
+      "pertanyaan": "Deret angka 6, 13, 20, 27, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "41",
+        "B": "48",
+        "C": "34",
+        "D": "32",
+        "E": "27"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pola deret bertambah tetap 7 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 7 dari angka terakhir menjadi 34."
+    },
+    {
+      "id": "to-cpns-v1-019",
+      "pertanyaan": "Analogi: kurator : koleksi = pustakawan : ...",
+      "opsi": {
+        "A": "catatan",
+        "B": "jadwal",
+        "C": "agenda",
+        "D": "katalog",
+        "E": "ruangan"
+      },
+      "jawaban": "D",
+      "pembahasan": "kurator berhubungan langsung dengan koleksi sebagai objek kerja utama. Hubungan setara terjadi antara pustakawan dan katalog."
+    },
+    {
+      "id": "to-cpns-v1-020",
+      "pertanyaan": "Jika y = 7x dan x = 24, nilai y adalah?",
+      "opsi": {
+        "A": "192",
+        "B": "31",
+        "C": "17",
+        "D": "161",
+        "E": "168"
+      },
+      "jawaban": "E",
+      "pembahasan": "Substitusikan x = 24 ke persamaan y = 7x sehingga diperoleh y = 168."
+    },
+    {
+      "id": "to-cpns-v1-021",
+      "pertanyaan": "Premis 1: Semua mahasiswa Manajemen rajin berdiskusi. Premis 2: Beberapa mahasiswa yang rajin berdiskusi menjadi asisten praktikum. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "B": "Beberapa mahasiswa Manajemen pasti menjadi asisten praktikum.",
+        "C": "Semua mahasiswa Manajemen menjadi asisten praktikum.",
+        "D": "Semua yang menjadi asisten praktikum adalah mahasiswa Manajemen.",
+        "E": "Sebagian mahasiswa Manajemen tidak rajin berdiskusi."
+      },
+      "jawaban": "A",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Manajemen pasti menjadi asisten praktikum. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "to-cpns-v1-022",
+      "pertanyaan": "Deret angka 7, 15, 23, 31, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "31",
+        "B": "39",
+        "C": "47",
+        "D": "55",
+        "E": "37"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pola deret bertambah tetap 8 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 8 dari angka terakhir menjadi 39."
+    },
+    {
+      "id": "to-cpns-v1-023",
+      "pertanyaan": "Analogi: programer : kode = akuntan : ...",
+      "opsi": {
+        "A": "ruangan",
+        "B": "catatan",
+        "C": "laporan",
+        "D": "jadwal",
+        "E": "agenda"
+      },
+      "jawaban": "C",
+      "pembahasan": "programer berhubungan langsung dengan kode sebagai objek kerja utama. Hubungan setara terjadi antara akuntan dan laporan."
+    },
+    {
+      "id": "to-cpns-v1-024",
+      "pertanyaan": "Jika y = 8x dan x = 27, nilai y adalah?",
+      "opsi": {
+        "A": "208",
+        "B": "243",
+        "C": "35",
+        "D": "216",
+        "E": "19"
+      },
+      "jawaban": "D",
+      "pembahasan": "Substitusikan x = 27 ke persamaan y = 8x sehingga diperoleh y = 216."
+    },
+    {
+      "id": "to-cpns-v1-025",
+      "pertanyaan": "Premis 1: Semua mahasiswa Arsitektur belajar keras. Premis 2: Beberapa mahasiswa yang belajar keras lulus dengan pujian. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Sebagian mahasiswa Arsitektur tidak belajar keras.",
+        "B": "Beberapa mahasiswa Arsitektur pasti lulus dengan pujian.",
+        "C": "Semua mahasiswa Arsitektur lulus dengan pujian.",
+        "D": "Semua yang lulus dengan pujian adalah mahasiswa Arsitektur.",
+        "E": "Tidak dapat ditarik kesimpulan pasti dari kedua premis."
+      },
+      "jawaban": "E",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Arsitektur pasti lulus dengan pujian. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "to-cpns-v1-026",
+      "pertanyaan": "Deret angka 8, 17, 26, 35, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "44",
+        "B": "35",
+        "C": "53",
+        "D": "62",
+        "E": "42"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pola deret bertambah tetap 9 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 9 dari angka terakhir menjadi 44."
+    },
+    {
+      "id": "to-cpns-v1-027",
+      "pertanyaan": "Analogi: montir : mesin = apoteker : ...",
+      "opsi": {
+        "A": "agenda",
+        "B": "resep",
+        "C": "ruangan",
+        "D": "catatan",
+        "E": "jadwal"
+      },
+      "jawaban": "B",
+      "pembahasan": "montir berhubungan langsung dengan mesin sebagai objek kerja utama. Hubungan setara terjadi antara apoteker dan resep."
+    },
+    {
+      "id": "to-cpns-v1-028",
+      "pertanyaan": "Jika y = 9x dan x = 30, nilai y adalah?",
+      "opsi": {
+        "A": "21",
+        "B": "261",
+        "C": "270",
+        "D": "300",
+        "E": "39"
+      },
+      "jawaban": "C",
+      "pembahasan": "Substitusikan x = 30 ke persamaan y = 9x sehingga diperoleh y = 270."
+    },
+    {
+      "id": "to-cpns-v1-029",
+      "pertanyaan": "Premis 1: Semua mahasiswa Ilmu Komunikasi tekun membaca referensi. Premis 2: Beberapa mahasiswa yang tekun membaca referensi mendapat nilai tertinggi. Kesimpulan yang tepat adalah?",
+      "opsi": {
+        "A": "Semua yang mendapat nilai tertinggi adalah mahasiswa Ilmu Komunikasi.",
+        "B": "Sebagian mahasiswa Ilmu Komunikasi tidak tekun membaca referensi.",
+        "C": "Beberapa mahasiswa Ilmu Komunikasi pasti mendapat nilai tertinggi.",
+        "D": "Tidak dapat ditarik kesimpulan pasti dari kedua premis.",
+        "E": "Semua mahasiswa Ilmu Komunikasi mendapat nilai tertinggi."
+      },
+      "jawaban": "D",
+      "pembahasan": "Dua premis itu belum cukup untuk memastikan mahasiswa Ilmu Komunikasi pasti mendapat nilai tertinggi. Karena itu, kesimpulan pasti tidak dapat ditarik dari informasi yang tersedia."
+    },
+    {
+      "id": "to-cpns-v1-030",
+      "pertanyaan": "Deret angka 9, 12, 15, 18, ... Angka berikutnya adalah?",
+      "opsi": {
+        "A": "19",
+        "B": "18",
+        "C": "24",
+        "D": "27",
+        "E": "21"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pola deret bertambah tetap 3 setiap langkah. Karena itu, suku berikutnya diperoleh dengan menambah 3 dari angka terakhir menjadi 21."
+    },
+    {
+      "id": "to-cpns-v1-031",
+      "pertanyaan": "Pancasila sebagai dasar negara tercantum dalam Pembukaan UUD 1945 alinea dalam konteks konstitusi pada paket 01?",
+      "opsi": {
+        "A": "Keempat",
+        "B": "Pertama",
+        "C": "Kedua",
+        "D": "Ketiga",
+        "E": "Kelima"
+      },
+      "jawaban": "A",
+      "pembahasan": "Rumusan Pancasila tercantum pada alinea keempat Pembukaan UUD 1945."
+    },
+    {
+      "id": "to-cpns-v1-032",
+      "pertanyaan": "Lembaga yang melantik Presiden dan Wakil Presiden hasil pemilu adalah pada evaluasi wawasan kebangsaan pada paket 02?",
+      "opsi": {
+        "A": "DPD",
+        "B": "MPR",
+        "C": "MA",
+        "D": "MK",
+        "E": "DPR"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pelantikan Presiden dan Wakil Presiden dilakukan oleh MPR."
+    },
+    {
+      "id": "to-cpns-v1-033",
+      "pertanyaan": "Semboyan Bhinneka Tunggal Ika menekankan dalam latihan dasar ASN pada paket 03?",
+      "opsi": {
+        "A": "Kebebasan tanpa batas",
+        "B": "Persaingan antar suku",
+        "C": "Persatuan dalam keberagaman",
+        "D": "Keseragaman budaya",
+        "E": "Pemisahan antar daerah"
+      },
+      "jawaban": "C",
+      "pembahasan": "Makna utama Bhinneka Tunggal Ika adalah persatuan meskipun masyarakat Indonesia beragam."
+    },
+    {
+      "id": "to-cpns-v1-034",
+      "pertanyaan": "Ketua BPUPKI adalah pada sesi pendalaman materi pada paket 04?",
+      "opsi": {
+        "A": "Mr. Muh. Yamin",
+        "B": "Ir. Soekarno",
+        "C": "Drs. Moh. Hatta",
+        "D": "Dr. Radjiman Wedyodiningrat",
+        "E": "Mr. Soepomo"
+      },
+      "jawaban": "D",
+      "pembahasan": "BPUPKI dipimpin oleh Dr. Radjiman Wedyodiningrat."
+    },
+    {
+      "id": "to-cpns-v1-035",
+      "pertanyaan": "Amandemen UUD 1945 telah dilakukan sebanyak dalam materi pilar negara pada paket 05?",
+      "opsi": {
+        "A": "1 kali",
+        "B": "2 kali",
+        "C": "3 kali",
+        "D": "5 kali",
+        "E": "4 kali"
+      },
+      "jawaban": "E",
+      "pembahasan": "Amandemen UUD 1945 dilakukan empat kali pada periode 1999-2002."
+    },
+    {
+      "id": "to-cpns-v1-036",
+      "pertanyaan": "Sila keempat Pancasila menekankan pada simulasi CAT pada paket 06?",
+      "opsi": {
+        "A": "Musyawarah untuk mufakat",
+        "B": "Kebebasan mutlak individu",
+        "C": "Persaingan ekonomi",
+        "D": "Kekuasaan absolut",
+        "E": "Kesamaan profesi"
+      },
+      "jawaban": "A",
+      "pembahasan": "Sila keempat menekankan kerakyatan dan permusyawaratan."
+    },
+    {
+      "id": "to-cpns-v1-037",
+      "pertanyaan": "Bentuk negara Indonesia adalah dalam modul integrasi nasional pada paket 07?",
+      "opsi": {
+        "A": "Konfederasi",
+        "B": "Negara Kesatuan",
+        "C": "Monarki",
+        "D": "Protektorat",
+        "E": "Federasi"
+      },
+      "jawaban": "B",
+      "pembahasan": "Indonesia adalah Negara Kesatuan Republik Indonesia."
+    },
+    {
+      "id": "to-cpns-v1-038",
+      "pertanyaan": "Hak DPR untuk meminta keterangan kepada pemerintah disebut pada pembahasan kebangsaan pada paket 08?",
+      "opsi": {
+        "A": "Hak Imunitas",
+        "B": "Hak Grasi",
+        "C": "Hak Interpelasi",
+        "D": "Hak Angket",
+        "E": "Hak Budget"
+      },
+      "jawaban": "C",
+      "pembahasan": "Hak interpelasi adalah hak DPR untuk meminta keterangan kepada pemerintah."
+    },
+    {
+      "id": "to-cpns-v1-039",
+      "pertanyaan": "Nilai yang menjiwai sila kedua Pancasila adalah dalam konteks sejarah nasional pada paket 09?",
+      "opsi": {
+        "A": "Kepentingan kelompok",
+        "B": "Kekuasaan mutlak",
+        "C": "Persaingan bebas",
+        "D": "Kemanusiaan yang adil dan beradab",
+        "E": "Kepatuhan tanpa kritik"
+      },
+      "jawaban": "D",
+      "pembahasan": "Sila kedua menekankan penghormatan terhadap martabat manusia dan perlakuan yang adil."
+    },
+    {
+      "id": "to-cpns-v1-040",
+      "pertanyaan": "Lembaga yang berwenang menguji undang-undang terhadap UUD 1945 adalah pada topik bela negara pada paket 10?",
+      "opsi": {
+        "A": "Mahkamah Agung",
+        "B": "Komisi Yudisial",
+        "C": "DPR",
+        "D": "MPR",
+        "E": "Mahkamah Konstitusi"
+      },
+      "jawaban": "E",
+      "pembahasan": "Mahkamah Konstitusi berwenang melakukan judicial review terhadap undang-undang."
+    },
+    {
+      "id": "to-cpns-v1-041",
+      "pertanyaan": "Arti penting persatuan dalam NKRI adalah dalam konteks konstitusi pada paket 11?",
+      "opsi": {
+        "A": "Menjaga keutuhan bangsa dalam keberagaman",
+        "B": "Menghapus semua perbedaan budaya",
+        "C": "Menolak seluruh budaya lokal",
+        "D": "Menyeragamkan semua pendapat",
+        "E": "Mengutamakan kelompok sendiri"
+      },
+      "jawaban": "A",
+      "pembahasan": "Persatuan bertujuan menjaga keutuhan bangsa sambil tetap menghormati perbedaan."
+    },
+    {
+      "id": "to-cpns-v1-042",
+      "pertanyaan": "Tokoh yang dikenal sebagai Bapak Koperasi Indonesia adalah pada evaluasi wawasan kebangsaan pada paket 12?",
+      "opsi": {
+        "A": "Soepomo",
+        "B": "Mohammad Hatta",
+        "C": "Mohammad Yamin",
+        "D": "Sutan Sjahrir",
+        "E": "Soekarno"
+      },
+      "jawaban": "B",
+      "pembahasan": "Mohammad Hatta dikenal sebagai Bapak Koperasi Indonesia karena gagasan dan perannya dalam ekonomi kerakyatan."
+    },
+    {
+      "id": "to-cpns-v1-043",
+      "pertanyaan": "Pancasila sebagai dasar negara tercantum dalam Pembukaan UUD 1945 alinea dalam latihan dasar ASN pada paket 13?",
+      "opsi": {
+        "A": "Ketiga",
+        "B": "Kelima",
+        "C": "Keempat",
+        "D": "Pertama",
+        "E": "Kedua"
+      },
+      "jawaban": "C",
+      "pembahasan": "Rumusan Pancasila tercantum pada alinea keempat Pembukaan UUD 1945."
+    },
+    {
+      "id": "to-cpns-v1-044",
+      "pertanyaan": "Lembaga yang melantik Presiden dan Wakil Presiden hasil pemilu adalah pada sesi pendalaman materi pada paket 14?",
+      "opsi": {
+        "A": "MK",
+        "B": "DPR",
+        "C": "DPD",
+        "D": "MPR",
+        "E": "MA"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pelantikan Presiden dan Wakil Presiden dilakukan oleh MPR."
+    },
+    {
+      "id": "to-cpns-v1-045",
+      "pertanyaan": "Semboyan Bhinneka Tunggal Ika menekankan dalam materi pilar negara pada paket 15?",
+      "opsi": {
+        "A": "Keseragaman budaya",
+        "B": "Pemisahan antar daerah",
+        "C": "Kebebasan tanpa batas",
+        "D": "Persaingan antar suku",
+        "E": "Persatuan dalam keberagaman"
+      },
+      "jawaban": "E",
+      "pembahasan": "Makna utama Bhinneka Tunggal Ika adalah persatuan meskipun masyarakat Indonesia beragam."
+    },
+    {
+      "id": "to-cpns-v1-046",
+      "pertanyaan": "Ketua BPUPKI adalah pada simulasi CAT pada paket 16?",
+      "opsi": {
+        "A": "Dr. Radjiman Wedyodiningrat",
+        "B": "Ir. Soekarno",
+        "C": "Drs. Moh. Hatta",
+        "D": "Mr. Soepomo",
+        "E": "Mr. Muh. Yamin"
+      },
+      "jawaban": "A",
+      "pembahasan": "BPUPKI dipimpin oleh Dr. Radjiman Wedyodiningrat."
+    },
+    {
+      "id": "to-cpns-v1-047",
+      "pertanyaan": "Amandemen UUD 1945 telah dilakukan sebanyak dalam modul integrasi nasional pada paket 17?",
+      "opsi": {
+        "A": "2 kali",
+        "B": "4 kali",
+        "C": "3 kali",
+        "D": "5 kali",
+        "E": "1 kali"
+      },
+      "jawaban": "B",
+      "pembahasan": "Amandemen UUD 1945 dilakukan empat kali pada periode 1999-2002."
+    },
+    {
+      "id": "to-cpns-v1-048",
+      "pertanyaan": "Sila keempat Pancasila menekankan pada pembahasan kebangsaan pada paket 18?",
+      "opsi": {
+        "A": "Kekuasaan absolut",
+        "B": "Kesamaan profesi",
+        "C": "Musyawarah untuk mufakat",
+        "D": "Kebebasan mutlak individu",
+        "E": "Persaingan ekonomi"
+      },
+      "jawaban": "C",
+      "pembahasan": "Sila keempat menekankan kerakyatan dan permusyawaratan."
+    },
+    {
+      "id": "to-cpns-v1-049",
+      "pertanyaan": "Bentuk negara Indonesia adalah dalam konteks sejarah nasional pada paket 19?",
+      "opsi": {
+        "A": "Protektorat",
+        "B": "Federasi",
+        "C": "Konfederasi",
+        "D": "Negara Kesatuan",
+        "E": "Monarki"
+      },
+      "jawaban": "D",
+      "pembahasan": "Indonesia adalah Negara Kesatuan Republik Indonesia."
+    },
+    {
+      "id": "to-cpns-v1-050",
+      "pertanyaan": "Hak DPR untuk meminta keterangan kepada pemerintah disebut pada topik bela negara pada paket 20?",
+      "opsi": {
+        "A": "Hak Angket",
+        "B": "Hak Budget",
+        "C": "Hak Imunitas",
+        "D": "Hak Grasi",
+        "E": "Hak Interpelasi"
+      },
+      "jawaban": "E",
+      "pembahasan": "Hak interpelasi adalah hak DPR untuk meminta keterangan kepada pemerintah."
+    },
+    {
+      "id": "to-cpns-v1-051",
+      "pertanyaan": "Nilai yang menjiwai sila kedua Pancasila adalah dalam konteks konstitusi pada paket 21?",
+      "opsi": {
+        "A": "Kemanusiaan yang adil dan beradab",
+        "B": "Kekuasaan mutlak",
+        "C": "Persaingan bebas",
+        "D": "Kepatuhan tanpa kritik",
+        "E": "Kepentingan kelompok"
+      },
+      "jawaban": "A",
+      "pembahasan": "Sila kedua menekankan penghormatan terhadap martabat manusia dan perlakuan yang adil."
+    },
+    {
+      "id": "to-cpns-v1-052",
+      "pertanyaan": "Lembaga yang berwenang menguji undang-undang terhadap UUD 1945 adalah pada evaluasi wawasan kebangsaan pada paket 22?",
+      "opsi": {
+        "A": "Komisi Yudisial",
+        "B": "Mahkamah Konstitusi",
+        "C": "DPR",
+        "D": "MPR",
+        "E": "Mahkamah Agung"
+      },
+      "jawaban": "B",
+      "pembahasan": "Mahkamah Konstitusi berwenang melakukan judicial review terhadap undang-undang."
+    },
+    {
+      "id": "to-cpns-v1-053",
+      "pertanyaan": "Arti penting persatuan dalam NKRI adalah dalam latihan dasar ASN pada paket 23?",
+      "opsi": {
+        "A": "Menyeragamkan semua pendapat",
+        "B": "Mengutamakan kelompok sendiri",
+        "C": "Menjaga keutuhan bangsa dalam keberagaman",
+        "D": "Menghapus semua perbedaan budaya",
+        "E": "Menolak seluruh budaya lokal"
+      },
+      "jawaban": "C",
+      "pembahasan": "Persatuan bertujuan menjaga keutuhan bangsa sambil tetap menghormati perbedaan."
+    },
+    {
+      "id": "to-cpns-v1-054",
+      "pertanyaan": "Tokoh yang dikenal sebagai Bapak Koperasi Indonesia adalah pada sesi pendalaman materi pada paket 24?",
+      "opsi": {
+        "A": "Sutan Sjahrir",
+        "B": "Soekarno",
+        "C": "Soepomo",
+        "D": "Mohammad Hatta",
+        "E": "Mohammad Yamin"
+      },
+      "jawaban": "D",
+      "pembahasan": "Mohammad Hatta dikenal sebagai Bapak Koperasi Indonesia karena gagasan dan perannya dalam ekonomi kerakyatan."
+    },
+    {
+      "id": "to-cpns-v1-055",
+      "pertanyaan": "Pancasila sebagai dasar negara tercantum dalam Pembukaan UUD 1945 alinea dalam materi pilar negara pada paket 25?",
+      "opsi": {
+        "A": "Pertama",
+        "B": "Kedua",
+        "C": "Ketiga",
+        "D": "Kelima",
+        "E": "Keempat"
+      },
+      "jawaban": "E",
+      "pembahasan": "Rumusan Pancasila tercantum pada alinea keempat Pembukaan UUD 1945."
+    },
+    {
+      "id": "to-cpns-v1-056",
+      "pertanyaan": "Lembaga yang melantik Presiden dan Wakil Presiden hasil pemilu adalah pada simulasi CAT pada paket 01?",
+      "opsi": {
+        "A": "MPR",
+        "B": "DPR",
+        "C": "DPD",
+        "D": "MA",
+        "E": "MK"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pelantikan Presiden dan Wakil Presiden dilakukan oleh MPR."
+    },
+    {
+      "id": "to-cpns-v1-057",
+      "pertanyaan": "Semboyan Bhinneka Tunggal Ika menekankan dalam modul integrasi nasional pada paket 02?",
+      "opsi": {
+        "A": "Pemisahan antar daerah",
+        "B": "Persatuan dalam keberagaman",
+        "C": "Kebebasan tanpa batas",
+        "D": "Persaingan antar suku",
+        "E": "Keseragaman budaya"
+      },
+      "jawaban": "B",
+      "pembahasan": "Makna utama Bhinneka Tunggal Ika adalah persatuan meskipun masyarakat Indonesia beragam."
+    },
+    {
+      "id": "to-cpns-v1-058",
+      "pertanyaan": "Ketua BPUPKI adalah pada pembahasan kebangsaan pada paket 03?",
+      "opsi": {
+        "A": "Mr. Soepomo",
+        "B": "Mr. Muh. Yamin",
+        "C": "Dr. Radjiman Wedyodiningrat",
+        "D": "Ir. Soekarno",
+        "E": "Drs. Moh. Hatta"
+      },
+      "jawaban": "C",
+      "pembahasan": "BPUPKI dipimpin oleh Dr. Radjiman Wedyodiningrat."
+    },
+    {
+      "id": "to-cpns-v1-059",
+      "pertanyaan": "Amandemen UUD 1945 telah dilakukan sebanyak dalam konteks sejarah nasional pada paket 04?",
+      "opsi": {
+        "A": "5 kali",
+        "B": "1 kali",
+        "C": "2 kali",
+        "D": "4 kali",
+        "E": "3 kali"
+      },
+      "jawaban": "D",
+      "pembahasan": "Amandemen UUD 1945 dilakukan empat kali pada periode 1999-2002."
+    },
+    {
+      "id": "to-cpns-v1-060",
+      "pertanyaan": "Sila keempat Pancasila menekankan pada topik bela negara pada paket 05?",
+      "opsi": {
+        "A": "Kebebasan mutlak individu",
+        "B": "Persaingan ekonomi",
+        "C": "Kekuasaan absolut",
+        "D": "Kesamaan profesi",
+        "E": "Musyawarah untuk mufakat"
+      },
+      "jawaban": "E",
+      "pembahasan": "Sila keempat menekankan kerakyatan dan permusyawaratan."
+    },
+    {
+      "id": "to-cpns-v1-061",
+      "pertanyaan": "Anda sedang menyusun laporan, lalu warga datang mengajukan keluhan layanan di unit layanan publik pada skenario 01?",
+      "opsi": {
+        "A": "Menghentikan sejenak pekerjaan dan melayani warga dengan ramah sesuai prosedur",
+        "B": "Mengabaikan warga karena laporan lebih penting",
+        "C": "Memarahi warga karena datang tanpa janji",
+        "D": "Meminta warga menyelesaikan sendiri",
+        "E": "Menyuruh warga kembali besok"
+      },
+      "jawaban": "A",
+      "pembahasan": "Orientasi pelayanan publik menuntut respons ramah dan solusi yang tetap sesuai prosedur."
+    },
+    {
+      "id": "to-cpns-v1-062",
+      "pertanyaan": "Rekan kerja melakukan kesalahan yang membuat tim ditegur atasan saat menangani warga pada skenario 02?",
+      "opsi": {
+        "A": "Meminta pindah unit",
+        "B": "Mengajak rekan berdiskusi mencari solusi dan mencegah kesalahan terulang",
+        "C": "Menyebarkan kesalahannya ke grup kantor",
+        "D": "Menyalahkan rekan di depan atasan",
+        "E": "Diam karena bukan kesalahan Anda"
+      },
+      "jawaban": "B",
+      "pembahasan": "TKP memberi nilai tinggi pada kerja sama, ketenangan, dan penyelesaian masalah."
+    },
+    {
+      "id": "to-cpns-v1-063",
+      "pertanyaan": "Anda menerima tugas baru dengan aplikasi yang belum pernah digunakan dalam koordinasi antarrekan pada skenario 03?",
+      "opsi": {
+        "A": "Menggunakan cara lama tanpa izin",
+        "B": "Menolak tugas itu",
+        "C": "Mempelajari aplikasi tersebut dan meminta arahan seperlunya agar pekerjaan tetap berjalan",
+        "D": "Menunggu tanpa berinisiatif",
+        "E": "Menyalahkan pimpinan"
+      },
+      "jawaban": "C",
+      "pembahasan": "Adaptasi dan kemauan belajar adalah ciri penting profesionalisme ASN."
+    },
+    {
+      "id": "to-cpns-v1-064",
+      "pertanyaan": "Dalam rapat tim, pendapat Anda berbeda dengan mayoritas di kantor pelayanan terpadu pada skenario 04?",
+      "opsi": {
+        "A": "Keluar dari rapat",
+        "B": "Memaksakan pendapat dengan keras",
+        "C": "Menyindir rekan yang berbeda pendapat",
+        "D": "Menyampaikan alasan secara sopan lalu menerima keputusan bersama",
+        "E": "Membiarkan rapat gagal"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pilihan terbaik menunjukkan komunikasi sehat dan penghargaan pada keputusan bersama."
+    },
+    {
+      "id": "to-cpns-v1-065",
+      "pertanyaan": "Anda mengetahui data layanan belum diperbarui padahal akan dipublikasikan saat tugas mendesak datang bersamaan pada skenario 05?",
+      "opsi": {
+        "A": "Tetap mempublikasikan agar cepat selesai",
+        "B": "Menghapus data lama tanpa verifikasi",
+        "C": "Diam agar tidak dianggap lambat",
+        "D": "Menyalahkan petugas sebelumnya",
+        "E": "Memeriksa ulang data dan melaporkan kondisi sebenarnya sebelum dipublikasikan"
+      },
+      "jawaban": "E",
+      "pembahasan": "Integritas menuntut ketepatan data dan keberanian menyampaikan kondisi yang sebenarnya."
+    },
+    {
+      "id": "to-cpns-v1-066",
+      "pertanyaan": "Masyarakat dari latar budaya berbeda datang ke kantor Anda di unit layanan publik pada skenario 06?",
+      "opsi": {
+        "A": "Memberi layanan yang sama dengan tetap menghormati latar belakang mereka",
+        "B": "Membuat candaan tentang budaya mereka",
+        "C": "Menghindari komunikasi",
+        "D": "Menyuruh orang lain menangani tanpa alasan",
+        "E": "Hanya melayani yang paling dikenal"
+      },
+      "jawaban": "A",
+      "pembahasan": "Kepekaan sosial budaya dan kesetaraan layanan adalah nilai penting pada TKP."
+    },
+    {
+      "id": "to-cpns-v1-067",
+      "pertanyaan": "Atasan meminta Anda membantu unit lain yang sedang kewalahan saat menangani warga pada skenario 07?",
+      "opsi": {
+        "A": "Membiarkan situasi memburuk",
+        "B": "Mengatur prioritas pekerjaan lalu membantu tanpa mengabaikan tugas utama",
+        "C": "Mengeluh di depan tim",
+        "D": "Menolak karena bukan unit Anda",
+        "E": "Menyalahkan unit lain"
+      },
+      "jawaban": "B",
+      "pembahasan": "Respons terbaik menunjukkan kolaborasi, tanggung jawab, dan pengelolaan prioritas yang baik."
+    },
+    {
+      "id": "to-cpns-v1-068",
+      "pertanyaan": "Sistem pelayanan mendadak berubah dan warga mulai kebingungan dalam koordinasi antarrekan pada skenario 08?",
+      "opsi": {
+        "A": "Menunda layanan sampai suasana sepi",
+        "B": "Menyuruh warga mencari tahu sendiri",
+        "C": "Menjelaskan perubahan dengan sabar dan membantu warga beradaptasi",
+        "D": "Menyalahkan pembuat kebijakan",
+        "E": "Menganggap keluhan warga berlebihan"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pelayanan publik menuntut empati, komunikasi jelas, dan kesiapan membantu saat perubahan terjadi."
+    },
+    {
+      "id": "to-cpns-v1-069",
+      "pertanyaan": "Anda sedang menyusun laporan, lalu warga datang mengajukan keluhan layanan di kantor pelayanan terpadu pada skenario 09?",
+      "opsi": {
+        "A": "Menyuruh warga kembali besok",
+        "B": "Mengabaikan warga karena laporan lebih penting",
+        "C": "Memarahi warga karena datang tanpa janji",
+        "D": "Menghentikan sejenak pekerjaan dan melayani warga dengan ramah sesuai prosedur",
+        "E": "Meminta warga menyelesaikan sendiri"
+      },
+      "jawaban": "D",
+      "pembahasan": "Orientasi pelayanan publik menuntut respons ramah dan solusi yang tetap sesuai prosedur."
+    },
+    {
+      "id": "to-cpns-v1-070",
+      "pertanyaan": "Rekan kerja melakukan kesalahan yang membuat tim ditegur atasan saat tugas mendesak datang bersamaan pada skenario 10?",
+      "opsi": {
+        "A": "Menyalahkan rekan di depan atasan",
+        "B": "Diam karena bukan kesalahan Anda",
+        "C": "Meminta pindah unit",
+        "D": "Menyebarkan kesalahannya ke grup kantor",
+        "E": "Mengajak rekan berdiskusi mencari solusi dan mencegah kesalahan terulang"
+      },
+      "jawaban": "E",
+      "pembahasan": "TKP memberi nilai tinggi pada kerja sama, ketenangan, dan penyelesaian masalah."
+    },
+    {
+      "id": "to-cpns-v1-071",
+      "pertanyaan": "Anda menerima tugas baru dengan aplikasi yang belum pernah digunakan di unit layanan publik pada skenario 11?",
+      "opsi": {
+        "A": "Mempelajari aplikasi tersebut dan meminta arahan seperlunya agar pekerjaan tetap berjalan",
+        "B": "Menunggu tanpa berinisiatif",
+        "C": "Menyalahkan pimpinan",
+        "D": "Menggunakan cara lama tanpa izin",
+        "E": "Menolak tugas itu"
+      },
+      "jawaban": "A",
+      "pembahasan": "Adaptasi dan kemauan belajar adalah ciri penting profesionalisme ASN."
+    },
+    {
+      "id": "to-cpns-v1-072",
+      "pertanyaan": "Dalam rapat tim, pendapat Anda berbeda dengan mayoritas saat menangani warga pada skenario 12?",
+      "opsi": {
+        "A": "Menyindir rekan yang berbeda pendapat",
+        "B": "Menyampaikan alasan secara sopan lalu menerima keputusan bersama",
+        "C": "Membiarkan rapat gagal",
+        "D": "Keluar dari rapat",
+        "E": "Memaksakan pendapat dengan keras"
+      },
+      "jawaban": "B",
+      "pembahasan": "Pilihan terbaik menunjukkan komunikasi sehat dan penghargaan pada keputusan bersama."
+    },
+    {
+      "id": "to-cpns-v1-073",
+      "pertanyaan": "Anda mengetahui data layanan belum diperbarui padahal akan dipublikasikan dalam koordinasi antarrekan pada skenario 13?",
+      "opsi": {
+        "A": "Menyalahkan petugas sebelumnya",
+        "B": "Tetap mempublikasikan agar cepat selesai",
+        "C": "Memeriksa ulang data dan melaporkan kondisi sebenarnya sebelum dipublikasikan",
+        "D": "Menghapus data lama tanpa verifikasi",
+        "E": "Diam agar tidak dianggap lambat"
+      },
+      "jawaban": "C",
+      "pembahasan": "Integritas menuntut ketepatan data dan keberanian menyampaikan kondisi yang sebenarnya."
+    },
+    {
+      "id": "to-cpns-v1-074",
+      "pertanyaan": "Masyarakat dari latar budaya berbeda datang ke kantor Anda di kantor pelayanan terpadu pada skenario 14?",
+      "opsi": {
+        "A": "Hanya melayani yang paling dikenal",
+        "B": "Membuat candaan tentang budaya mereka",
+        "C": "Menghindari komunikasi",
+        "D": "Memberi layanan yang sama dengan tetap menghormati latar belakang mereka",
+        "E": "Menyuruh orang lain menangani tanpa alasan"
+      },
+      "jawaban": "D",
+      "pembahasan": "Kepekaan sosial budaya dan kesetaraan layanan adalah nilai penting pada TKP."
+    },
+    {
+      "id": "to-cpns-v1-075",
+      "pertanyaan": "Atasan meminta Anda membantu unit lain yang sedang kewalahan saat tugas mendesak datang bersamaan pada skenario 15?",
+      "opsi": {
+        "A": "Menolak karena bukan unit Anda",
+        "B": "Menyalahkan unit lain",
+        "C": "Membiarkan situasi memburuk",
+        "D": "Mengeluh di depan tim",
+        "E": "Mengatur prioritas pekerjaan lalu membantu tanpa mengabaikan tugas utama"
+      },
+      "jawaban": "E",
+      "pembahasan": "Respons terbaik menunjukkan kolaborasi, tanggung jawab, dan pengelolaan prioritas yang baik."
+    },
+    {
+      "id": "to-cpns-v1-076",
+      "pertanyaan": "Sistem pelayanan mendadak berubah dan warga mulai kebingungan di unit layanan publik pada skenario 16?",
+      "opsi": {
+        "A": "Menjelaskan perubahan dengan sabar dan membantu warga beradaptasi",
+        "B": "Menyalahkan pembuat kebijakan",
+        "C": "Menganggap keluhan warga berlebihan",
+        "D": "Menunda layanan sampai suasana sepi",
+        "E": "Menyuruh warga mencari tahu sendiri"
+      },
+      "jawaban": "A",
+      "pembahasan": "Pelayanan publik menuntut empati, komunikasi jelas, dan kesiapan membantu saat perubahan terjadi."
+    },
+    {
+      "id": "to-cpns-v1-077",
+      "pertanyaan": "Anda sedang menyusun laporan, lalu warga datang mengajukan keluhan layanan saat menangani warga pada skenario 17?",
+      "opsi": {
+        "A": "Memarahi warga karena datang tanpa janji",
+        "B": "Menghentikan sejenak pekerjaan dan melayani warga dengan ramah sesuai prosedur",
+        "C": "Meminta warga menyelesaikan sendiri",
+        "D": "Menyuruh warga kembali besok",
+        "E": "Mengabaikan warga karena laporan lebih penting"
+      },
+      "jawaban": "B",
+      "pembahasan": "Orientasi pelayanan publik menuntut respons ramah dan solusi yang tetap sesuai prosedur."
+    },
+    {
+      "id": "to-cpns-v1-078",
+      "pertanyaan": "Rekan kerja melakukan kesalahan yang membuat tim ditegur atasan dalam koordinasi antarrekan pada skenario 18?",
+      "opsi": {
+        "A": "Menyebarkan kesalahannya ke grup kantor",
+        "B": "Menyalahkan rekan di depan atasan",
+        "C": "Mengajak rekan berdiskusi mencari solusi dan mencegah kesalahan terulang",
+        "D": "Diam karena bukan kesalahan Anda",
+        "E": "Meminta pindah unit"
+      },
+      "jawaban": "C",
+      "pembahasan": "TKP memberi nilai tinggi pada kerja sama, ketenangan, dan penyelesaian masalah."
+    },
+    {
+      "id": "to-cpns-v1-079",
+      "pertanyaan": "Anda menerima tugas baru dengan aplikasi yang belum pernah digunakan di kantor pelayanan terpadu pada skenario 19?",
+      "opsi": {
+        "A": "Menolak tugas itu",
+        "B": "Menunggu tanpa berinisiatif",
+        "C": "Menyalahkan pimpinan",
+        "D": "Mempelajari aplikasi tersebut dan meminta arahan seperlunya agar pekerjaan tetap berjalan",
+        "E": "Menggunakan cara lama tanpa izin"
+      },
+      "jawaban": "D",
+      "pembahasan": "Adaptasi dan kemauan belajar adalah ciri penting profesionalisme ASN."
+    },
+    {
+      "id": "to-cpns-v1-080",
+      "pertanyaan": "Dalam rapat tim, pendapat Anda berbeda dengan mayoritas saat tugas mendesak datang bersamaan pada skenario 20?",
+      "opsi": {
+        "A": "Keluar dari rapat",
+        "B": "Memaksakan pendapat dengan keras",
+        "C": "Menyindir rekan yang berbeda pendapat",
+        "D": "Membiarkan rapat gagal",
+        "E": "Menyampaikan alasan secara sopan lalu menerima keputusan bersama"
+      },
+      "jawaban": "E",
+      "pembahasan": "Pilihan terbaik menunjukkan komunikasi sehat dan penghargaan pada keputusan bersama."
+    },
+    {
+      "id": "to-cpns-v1-081",
+      "pertanyaan": "Anda mengetahui data layanan belum diperbarui padahal akan dipublikasikan di unit layanan publik pada skenario 21?",
+      "opsi": {
+        "A": "Memeriksa ulang data dan melaporkan kondisi sebenarnya sebelum dipublikasikan",
+        "B": "Menghapus data lama tanpa verifikasi",
+        "C": "Diam agar tidak dianggap lambat",
+        "D": "Menyalahkan petugas sebelumnya",
+        "E": "Tetap mempublikasikan agar cepat selesai"
+      },
+      "jawaban": "A",
+      "pembahasan": "Integritas menuntut ketepatan data dan keberanian menyampaikan kondisi yang sebenarnya."
+    },
+    {
+      "id": "to-cpns-v1-082",
+      "pertanyaan": "Masyarakat dari latar budaya berbeda datang ke kantor Anda saat menangani warga pada skenario 22?",
+      "opsi": {
+        "A": "Menghindari komunikasi",
+        "B": "Memberi layanan yang sama dengan tetap menghormati latar belakang mereka",
+        "C": "Menyuruh orang lain menangani tanpa alasan",
+        "D": "Hanya melayani yang paling dikenal",
+        "E": "Membuat candaan tentang budaya mereka"
+      },
+      "jawaban": "B",
+      "pembahasan": "Kepekaan sosial budaya dan kesetaraan layanan adalah nilai penting pada TKP."
+    },
+    {
+      "id": "to-cpns-v1-083",
+      "pertanyaan": "Atasan meminta Anda membantu unit lain yang sedang kewalahan dalam koordinasi antarrekan pada skenario 23?",
+      "opsi": {
+        "A": "Mengeluh di depan tim",
+        "B": "Menolak karena bukan unit Anda",
+        "C": "Mengatur prioritas pekerjaan lalu membantu tanpa mengabaikan tugas utama",
+        "D": "Menyalahkan unit lain",
+        "E": "Membiarkan situasi memburuk"
+      },
+      "jawaban": "C",
+      "pembahasan": "Respons terbaik menunjukkan kolaborasi, tanggung jawab, dan pengelolaan prioritas yang baik."
+    },
+    {
+      "id": "to-cpns-v1-084",
+      "pertanyaan": "Sistem pelayanan mendadak berubah dan warga mulai kebingungan di kantor pelayanan terpadu pada skenario 24?",
+      "opsi": {
+        "A": "Menyuruh warga mencari tahu sendiri",
+        "B": "Menyalahkan pembuat kebijakan",
+        "C": "Menganggap keluhan warga berlebihan",
+        "D": "Menjelaskan perubahan dengan sabar dan membantu warga beradaptasi",
+        "E": "Menunda layanan sampai suasana sepi"
+      },
+      "jawaban": "D",
+      "pembahasan": "Pelayanan publik menuntut empati, komunikasi jelas, dan kesiapan membantu saat perubahan terjadi."
+    },
+    {
+      "id": "to-cpns-v1-085",
+      "pertanyaan": "Anda sedang menyusun laporan, lalu warga datang mengajukan keluhan layanan saat tugas mendesak datang bersamaan pada skenario 25?",
+      "opsi": {
+        "A": "Menyuruh warga kembali besok",
+        "B": "Mengabaikan warga karena laporan lebih penting",
+        "C": "Memarahi warga karena datang tanpa janji",
+        "D": "Meminta warga menyelesaikan sendiri",
+        "E": "Menghentikan sejenak pekerjaan dan melayani warga dengan ramah sesuai prosedur"
+      },
+      "jawaban": "E",
+      "pembahasan": "Orientasi pelayanan publik menuntut respons ramah dan solusi yang tetap sesuai prosedur."
+    },
+    {
+      "id": "to-cpns-v1-086",
+      "pertanyaan": "Rekan kerja melakukan kesalahan yang membuat tim ditegur atasan di unit layanan publik pada skenario 26?",
+      "opsi": {
+        "A": "Mengajak rekan berdiskusi mencari solusi dan mencegah kesalahan terulang",
+        "B": "Diam karena bukan kesalahan Anda",
+        "C": "Meminta pindah unit",
+        "D": "Menyebarkan kesalahannya ke grup kantor",
+        "E": "Menyalahkan rekan di depan atasan"
+      },
+      "jawaban": "A",
+      "pembahasan": "TKP memberi nilai tinggi pada kerja sama, ketenangan, dan penyelesaian masalah."
+    },
+    {
+      "id": "to-cpns-v1-087",
+      "pertanyaan": "Anda menerima tugas baru dengan aplikasi yang belum pernah digunakan saat menangani warga pada skenario 27?",
+      "opsi": {
+        "A": "Menyalahkan pimpinan",
+        "B": "Mempelajari aplikasi tersebut dan meminta arahan seperlunya agar pekerjaan tetap berjalan",
+        "C": "Menggunakan cara lama tanpa izin",
+        "D": "Menolak tugas itu",
+        "E": "Menunggu tanpa berinisiatif"
+      },
+      "jawaban": "B",
+      "pembahasan": "Adaptasi dan kemauan belajar adalah ciri penting profesionalisme ASN."
+    },
+    {
+      "id": "to-cpns-v1-088",
+      "pertanyaan": "Dalam rapat tim, pendapat Anda berbeda dengan mayoritas dalam koordinasi antarrekan pada skenario 28?",
+      "opsi": {
+        "A": "Membiarkan rapat gagal",
+        "B": "Keluar dari rapat",
+        "C": "Menyampaikan alasan secara sopan lalu menerima keputusan bersama",
+        "D": "Memaksakan pendapat dengan keras",
+        "E": "Menyindir rekan yang berbeda pendapat"
+      },
+      "jawaban": "C",
+      "pembahasan": "Pilihan terbaik menunjukkan komunikasi sehat dan penghargaan pada keputusan bersama."
+    },
+    {
+      "id": "to-cpns-v1-089",
+      "pertanyaan": "Anda mengetahui data layanan belum diperbarui padahal akan dipublikasikan di kantor pelayanan terpadu pada skenario 29?",
+      "opsi": {
+        "A": "Tetap mempublikasikan agar cepat selesai",
+        "B": "Menghapus data lama tanpa verifikasi",
+        "C": "Diam agar tidak dianggap lambat",
+        "D": "Memeriksa ulang data dan melaporkan kondisi sebenarnya sebelum dipublikasikan",
+        "E": "Menyalahkan petugas sebelumnya"
+      },
+      "jawaban": "D",
+      "pembahasan": "Integritas menuntut ketepatan data dan keberanian menyampaikan kondisi yang sebenarnya."
+    },
+    {
+      "id": "to-cpns-v1-090",
+      "pertanyaan": "Masyarakat dari latar budaya berbeda datang ke kantor Anda saat tugas mendesak datang bersamaan pada skenario 30?",
+      "opsi": {
+        "A": "Hanya melayani yang paling dikenal",
+        "B": "Membuat candaan tentang budaya mereka",
+        "C": "Menghindari komunikasi",
+        "D": "Menyuruh orang lain menangani tanpa alasan",
+        "E": "Memberi layanan yang sama dengan tetap menghormati latar belakang mereka"
+      },
+      "jawaban": "E",
+      "pembahasan": "Kepekaan sosial budaya dan kesetaraan layanan adalah nilai penting pada TKP."
+    }
+  ]
+}

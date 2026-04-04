@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_TKJ_01",
+    "pertanyaan": "FIELD REPORT 2025 (Networking): Pada ujian TKA SMK 2025, muncul soal tentang keamanan jaringan. Apa langkah pertama yang paling tepat jika terdeteksi serangan 'Brute Force' pada Router Mikrotik?",
+    "opsi": [
+      "Mengonfigurasi 'IP Firewall Filter' dengan 'Chain Input' dan 'Action Drop' untuk IP penyerang",
+      "Mematikan router total",
+      "Menghapus semua user admin",
+      "Mengganti kabel LAN",
+      "Melakukan reset factory"
+    ],
+    "jawaban": "A",
+    "pembahasan": "FR 2025 menekankan keamanan siber. Filter firewall adalah pertahanan pertama yang efektif tanpa mengganggu layanan keseluruhan.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_TKJ_02",
+    "pertanyaan": "FIELD REPORT 2025 (Cloud): Dalam implementasi server lokal menggunakan Docker, perintah apa yang digunakan untuk menjalankan container di latar belakang (background)?",
+    "opsi": [
+      "docker run -it",
+      "docker run -d",
+      "docker start -p",
+      "docker build -t",
+      "docker stop -a"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Muncul di FR 2024-2025: Operasi containerization. Flag '-d' (detached mode) sangat krusial di industri.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_TKJ_03",
+    "pertanyaan": "FIELD REPORT 2025 (Hardware): Saat melakukan troubleshooting PC yang 'No Display' namun kipas berputar, langkah awal yang paling logis menurut standar industri adalah...",
+    "opsi": [
+      "Mengganti Processor",
+      "Membeli monitor baru",
+      "Membersihkan pin RAM menggunakan penghapus/alcohol dan memasangnya kembali",
+      "Mengganti Power Supply unit besar",
+      "Menginstal ulang Windows"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Masalah RAM adalah penyebab paling umum (90%) kasus No Display pada PC rakitan.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_TKJ_04",
+    "pertanyaan": "FIELD REPORT 2025 (Wireless): Apa fungsi utama dari fitur 'Band Steering' pada Access Point modern?",
+    "opsi": [
+      "Mengunci pengguna agar tidak bisa internetan",
+      "Membuat sinyal menembus tembok besi",
+      "Menurunkan kecepatan internet",
+      "Mengarahkan perangkat klien ke frekuensi yang lebih optimal (biasanya dari 2.4GHz ke 5GHz) secara otomatis",
+      "Mengganti password WiFi secara otomatis"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Band Steering adalah standar teknologi WiFi 6 yang sering muncul di soal teknis terbaru.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_TKJ_05",
+    "pertanyaan": "FIELD REPORT 2025 (Linux): Untuk melihat log aktivitas sistem secara Real-Time pada Linux Server, perintah yang digunakan adalah...",
+    "opsi": [
+      "cat /var/log/syslog",
+      "ls -l /var/log/",
+      "nano /etc/log",
+      "grep \"error\" syslog",
+      "tail -f /var/log/syslog"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Tail dengan flag -f (follow) sangat membantu sysadmin memantau error saat itu juga.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

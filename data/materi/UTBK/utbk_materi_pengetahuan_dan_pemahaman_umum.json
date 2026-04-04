@@ -1,0 +1,41 @@
+{
+  "id": "mat-ppu",
+  "tingkat": "UTBK",
+  "mapel": "Pengetahuan dan Pemahaman Umum",
+  "materi": "Pengetahuan dan Pemahaman Umum",
+  "deskripsi": "Materi ini memfokuskan latihan pada hubungan makna kata, klasifikasi konsep, analogi, dan penalaran verbal umum.",
+  "konten": [
+    {
+      "bab": "1. Makna Kata Dalam Konteks",
+      "teks": "Banyak soal meminta peserta menentukan makna kata yang paling dekat berdasarkan kalimat, bukan berdasarkan kamus semata. Karena itu, konteks penggunaan kata harus dibaca dulu sebelum menilai pilihan sinonim atau antonim."
+    },
+    {
+      "bab": "2. Relasi Kata dan Analogi",
+      "teks": "Analogi menguji apakah peserta mampu melihat pola hubungan antara pasangan kata, seperti alat dengan fungsi, profesi dengan objek kerja, atau bagian dengan keseluruhan. Kunci mengerjakannya adalah mencari jenis hubungan terlebih dahulu sebelum melihat opsi."
+    },
+    {
+      "bab": "3. Klasifikasi dan Generalisasi",
+      "teks": "Soal klasifikasi menuntut peserta menentukan konsep yang mencakup beberapa unsur sekaligus, sedangkan generalisasi meminta peserta menarik cakupan yang tepat dari data yang tersedia. Kesalahan umum terjadi ketika peserta memilih konsep yang terlalu sempit atau terlalu luas."
+    },
+    {
+      "bab": "4. Hubungan Dua Pernyataan",
+      "teks": "Peserta perlu membedakan apakah dua pernyataan saling menguatkan, saling membatasi, bertentangan, atau tidak berhubungan langsung. Kemampuan ini membantu memahami struktur nalar verbal secara lebih presisi dan mengurangi jawaban berdasarkan intuisi semata."
+    },
+    {
+      "bab": "5. Distraktor Yang Sering Menjebak",
+      "teks": "Distraktor pada subtes ini sering tampak benar karena mirip bunyi atau dekat makna, tetapi tidak tepat dalam relasi yang diminta. Karena itu, jangan berhenti pada kemiripan permukaan; pastikan hubungan logis antarunsurnya benar-benar sepadan."
+    },
+    {
+      "bab": "6. Pola Latihan Efektif",
+      "teks": "Saat berlatih, tuliskan alasan singkat mengapa jawaban benar dan mengapa empat opsi lain salah. Cara ini memperkuat sensitivitas terhadap nuansa makna dan membuat ketelitian verbal berkembang lebih stabil."
+    }
+  ],
+  "tag": [
+    "utbk",
+    "pengetahuan dan pemahaman umum",
+    "analogi",
+    "verbal",
+    "makna kata",
+    "tps"
+  ]
+}

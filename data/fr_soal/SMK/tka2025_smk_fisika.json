@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_FS_01",
+    "pertanyaan": "FR Kelistrikan: Sebuah alat pemanas 550 Watt digunakan pada tegangan 220 Volt. Berapakah hambatan kawat pemanas tersebut?",
+    "opsi": [
+      "88 Ohm",
+      "40 Ohm",
+      "110 Ohm",
+      "440 Ohm",
+      "220 Ohm"
+    ],
+    "jawaban": "A",
+    "pembahasan": "P = V^2 / R => R = 220^2 / 550 = 48400 / 550 = 88 Ohm.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_FS_02",
+    "pertanyaan": "FR Mekanik: Berapa gaya minimal untuk mengangkat beban 1000 N menggunakan tuas (pengungkit) jika lengan beban 1m dan lengan kuasa 4m?",
+    "opsi": [
+      "4000 N",
+      "250 N",
+      "500 N",
+      "100 N",
+      "2500 N"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Fk * Lk = Wb * Lb => Fk * 4 = 1000 * 1 => Fk = 250 N.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_FS_03",
+    "pertanyaan": "FR Energi: Sebuah panel surya mengubah energi cahaya matahari menjadi energi listrik. Jika efisiensinya 20% dan cahaya yang datang 1000 Watt, listrik yang dihasilkan adalah...",
+    "opsi": [
+      "20 Watt",
+      "100 Watt",
+      "200 Watt",
+      "50 Watt",
+      "800 Watt"
+    ],
+    "jawaban": "C",
+    "pembahasan": "20% dari 1000 = 200 Watt. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"200 Watt\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_FS_04",
+    "pertanyaan": "FR Motor Listrik: Apa fungsi 'Komutator' pada motor listrik DC?",
+    "opsi": [
+      "Menyambung kabel",
+      "Menjadi magnet permanen",
+      "Pendingin motor",
+      "Pembalik arah arus agar motor terus berputar searah",
+      "Pengatur kecepatan"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_FS_05",
+    "pertanyaan": "FR Material: Mengapa perunggu lebih baik digunakan untuk bantalan (bearing) mesin daripada besi biasa?",
+    "opsi": [
+      "Karena lebih berkilau",
+      "Karena harganya sangat murah",
+      "Karena mudah patah",
+      "Karena bisa menarik magnet",
+      "Karena memiliki koefisien gesek yang rendah dan tahan aus"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

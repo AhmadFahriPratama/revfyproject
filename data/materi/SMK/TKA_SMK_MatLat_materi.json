@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Matematika Tingkat Lanjut",
+  "tingkatan": "SMK",
+  "jurusan": "Teknik / Pilihan",
+  "deskripsi": "Materi persiapan TKA tingkat lanjut untuk siswa SMK yang berfokus pada kalkulus, polinomial, dan trigonometri kompleks.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Polinomial (Suku Banyak)",
+      "konten": "Operasi pembagian polinomial, teorema sisa, teorema faktor, serta menentukan akar-akar persamaan suku banyak.",
+      "tag": [
+        "tka smk matlat materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Limit dan Turunan Fungsi",
+      "konten": "Limit fungsi aljabar dan trigonometri, aturan rantai turunan, serta aplikasi turunan dalam menentukan nilai maksimum/minimum.",
+      "tag": [
+        "tka smk matlat materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Integral Lanjut",
+      "konten": "Teknik substitusi integral, integral parsial sederhana, serta menghitung luas daerah di bawah kurva.",
+      "tag": [
+        "tka smk matlat materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Rumus Jumlah dan Selisih Sudut",
+      "konten": "Identitas trigonometri (sin, cos, tan), rumus sudut rangkap, serta penyelesaian persamaan trigonometri.",
+      "tag": [
+        "tka smk matlat materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Lingkaran Lanjut dan Irisan Kerucut",
+      "konten": "Persamaan lingkaran, garis singgung lingkaran, serta pengenalan dasar parabola, elips, dan hiperbola.",
+      "tag": [
+        "tka smk matlat materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-matlat-materi",
+  "mapel": "TKA SMK: Matematika Tingkat Lanjut",
+  "tag": [
+    "tka smk matlat materi"
+  ]
+}

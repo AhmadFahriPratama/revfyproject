@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Biologi",
+  "tingkatan": "SMK",
+  "jurusan": "Kesehatan / Pertanian / Pilihan",
+  "deskripsi": "Materi persiapan TKA Biologi untuk siswa SMK yang berfokus pada biologi sel, anatomi fisiologi manusia, serta bioteknologi terapan.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Biologi Sel dan Struktur Mikro",
+      "konten": "Komponen kimia sel, organel sel hewan dan tumbuhan, mekanisme transpor membran (difusi/osmosis), serta reproduksi sel (mitosis/meiosis).",
+      "tag": [
+        "tka smk biologi materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Struktur dan Fungsi Jaringan",
+      "konten": "Jaringan tubuh hewan (epitel, otot, saraf, ikat) dan tumbuhan (meristem, epidermis, pengangkut) serta fungsinya dalam sistem organ.",
+      "tag": [
+        "tka smk biologi materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Sistem Organ Manusia",
+      "konten": "Sistem pencernaan, pernapasan, sirkulasi (darah), ekskresi, serta sistem saraf dan koordinasi pada manusia.",
+      "tag": [
+        "tka smk biologi materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Hereditas dan Genetika",
+      "konten": "Hukum Mendel, penyimpangan semu hukum Mendel, struktur DNA/RNA, sintesis protein, serta mutasi genetik dasar.",
+      "tag": [
+        "tka smk biologi materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Ekologi dan Bioteknologi Terapan",
+      "konten": "Interaksi dalam ekosistem, perubahan lingkungan, bioteknologi konvensional (fermentasi) dan modern (rekayasa genetika) di industri pangan/kesehatan.",
+      "tag": [
+        "tka smk biologi materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-biologi-materi",
+  "mapel": "TKA SMK: Biologi",
+  "tag": [
+    "tka smk biologi materi"
+  ]
+}

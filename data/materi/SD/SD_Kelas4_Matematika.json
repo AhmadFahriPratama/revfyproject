@@ -1,0 +1,30 @@
+{
+  "id": "materi-sd-kls4-mat",
+  "tingkat": "SD Kelas 4",
+  "mapel": "Matematika",
+  "materi": "Bilangan Cacah, Pecahan, FPB KPK, Segi Banyak, dan Statistika Dasar",
+  "deskripsi": "Materi Matematika Kelas 4 SD Kurikulum Merdeka yang mencakup bilangan cacah hingga 10.000, pecahan senilai, kelipatan dan faktor, bangun datar segi banyak, keliling dan luas, serta pengolahan data sederhana.",
+  "konten": [
+    {
+      "bab": "1. Bilangan Cacah hingga 10.000",
+      "teks": "Membaca, menulis, dan membandingkan bilangan cacah sampai 10.000. Memahami nilai tempat (ribuan, ratusan, puluhan, satuan) serta melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian bilangan cacah."
+    },
+    {
+      "bab": "2. Pecahan",
+      "teks": "Mengenal pecahan senilai menggunakan gambar dan model konkret. Menyederhanakan pecahan dan membandingkan dua pecahan dengan pembilang atau penyebut yang sama maupun berbeda."
+    },
+    {
+      "bab": "3. Kelipatan dan Faktor (FPB & KPK)",
+      "teks": "Menentukan kelipatan dan faktor dari suatu bilangan. Menjelaskan kelipatan persekutuan dan faktor persekutuan. Serta menentukan KPK (Kelipatan Persekutuan Terkecil) dan FPB (Faktor Persekutuan Terbesar) dari dua bilangan berkaitan dengan kehidupan sehari-hari."
+    },
+    {
+      "bab": "4. Bangun Datar dan Segi Banyak",
+      "teks": "Mengidentifikasi berbagai bentuk bangun datar segi banyak beraturan dan tak beraturan. Menghitung keliling dan luas persegi, persegi panjang, dan segitiga serta menyelesaikan masalah yang berkaitan dengan keliling dan luas."
+    },
+    {
+      "bab": "5. Pengolahan Data",
+      "teks": "Mengumpulkan data diri dan lingkungan. Menyajikan data tersebut dalam bentuk tabel dan diagram batang. Membaca serta menafsirkan data dari diagram batang sederhana."
+    }
+  ],
+  "tag": ["sd-4", "matematika", "pecahan", "fpb-kpk", "segi-banyak", "diagram-batang"]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "materi-smp-kls7-mat",
+  "tingkat": "SMP Kelas 7",
+  "mapel": "Matematika",
+  "materi": "Bilangan, Himpunan, Aljabar Linear Satu Variabel, dan Geometri Dasar",
+  "deskripsi": "Mencakup pondasi matematika SMP seperti bilangan bulat dan pecahan, konsep dasar himpunan, PLSV, rasio, arimetika sosial, serta garis dan sudut.",
+  "konten": [
+    {
+      "bab": "1. Bilangan",
+      "teks": "Melakukan operasi hitung bilangan bulat dan pecahan. Mengaplikasikan FPB dan KPK dalam masalah kehidupan nyata serta mengenalkan bilangan berpangkat bulat positif."
+    },
+    {
+      "bab": "2. Himpunan",
+      "teks": "Mengenal konsep himpunan, diagram Venn, himpunan semesta, irisan, gabungan, selisih (difference), dan komplemen pada himpunan."
+    },
+    {
+      "bab": "3. Bentuk Aljabar dan Persamaan/Pertidaksamaan Linear Satu Variabel (PLSV)",
+      "teks": "Menyederhanakan bentuk aljabar dasar (penjumlahan/pengurangan suku sejenis). Menyelesaikan PLSV dan PTLSV (Pertidaksamaan)."
+    },
+    {
+      "bab": "4. Perbandingan",
+      "teks": "Membedakan perbandingan senilai (proporsi) dan berbalik nilai dengan berbagai contoh soal sehari-hari (skala peta, upah, pakan)."
+    },
+    {
+      "bab": "5. Aritmetika Sosial",
+      "teks": "Menghitung nilai tukar/uang, persen, keuntungan, kerugian, diskon, bunga tunggal, pajak, dan bruto/tara/neto."
+    },
+    {
+      "bab": "6. Garis dan Sudut",
+      "teks": "Mengidentifikasi jenis-jenis sudut (siku, lancip, tumpul) serta hubungan antar sudut pada dua garis sejajar yang dipotong garis transversal."
+    }
+  ],
+  "tag": ["smp-7", "matematika", "himpunan", "plsv", "perbandingan", "aritmetika-sosial", "aljabar"]
+}

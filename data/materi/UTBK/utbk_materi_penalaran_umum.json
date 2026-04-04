@@ -1,0 +1,41 @@
+{
+  "id": "mat-pu",
+  "tingkat": "UTBK",
+  "mapel": "Penalaran Umum",
+  "materi": "Penalaran Umum",
+  "deskripsi": "Panduan belajar Penalaran Umum yang menekankan validitas argumen, inferensi, dan evaluasi simpulan.",
+  "konten": [
+    {
+      "bab": "1. Hakikat Penalaran Umum",
+      "teks": "Penalaran Umum menguji kemampuan memahami premis, memeriksa hubungan logis, lalu menarik simpulan yang paling sah. Fokus utama subtes ini bukan hafalan istilah, melainkan ketelitian membaca batas informasi yang benar-benar tersedia di soal."
+    },
+    {
+      "bab": "2. Membedakan Fakta, Asumsi, dan Simpulan",
+      "teks": "Fakta adalah informasi yang tertulis langsung dalam stimulus, sedangkan asumsi adalah hal yang sering ikut dibawa peserta tanpa disadari. Latihan paling penting adalah menandai mana data yang eksplisit dan mana dugaan tambahan agar simpulan tidak melampaui premis."
+    },
+    {
+      "bab": "3. Tipe Soal Yang Sering Muncul",
+      "teks": "Bentuk soal yang umum meliputi inferensi, penguatan argumen, pelemahan argumen, hubungan sebab-akibat, dan urutan logis. Masing-masing tipe menuntut strategi yang sedikit berbeda, tetapi semuanya tetap bergantung pada konsistensi terhadap premis awal."
+    },
+    {
+      "bab": "4. Strategi Mengerjakan Cepat",
+      "teks": "Mulailah dengan meringkas isi stimulus menjadi dua atau tiga informasi inti, lalu cocokan setiap opsi dengan informasi itu. Jika sebuah opsi terdengar masuk akal tetapi menambahkan informasi baru, opsi tersebut biasanya harus dieliminasi."
+    },
+    {
+      "bab": "5. Jebakan Distraktor",
+      "teks": "Distraktor Penalaran Umum sering berbentuk pernyataan yang terlalu mutlak, membalik relasi, atau memperluas kesimpulan melebihi data. Peserta sering terjebak karena membaca cepat dan merasa opsi itu benar secara umum, padahal tidak dijamin oleh stimulus."
+    },
+    {
+      "bab": "6. Pola Latihan Efektif",
+      "teks": "Latihan terbaik dilakukan dengan membahas alasan mengapa empat opsi lain salah, bukan hanya mencari satu opsi yang benar. Dengan cara itu, kemampuan menahan asumsi dan membaca struktur argumen akan berkembang jauh lebih cepat."
+    }
+  ],
+  "tag": [
+    "utbk",
+    "penalaran umum",
+    "inferensi",
+    "argumen",
+    "simpulan",
+    "tps"
+  ]
+}

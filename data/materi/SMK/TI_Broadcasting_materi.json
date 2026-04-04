@@ -1,0 +1,53 @@
+{
+  "judul": "Broadcasting dan Perfilman",
+  "tingkatan": "SMK",
+  "jurusan": "TI / Broadcasting",
+  "deskripsi": "Materi mengenai teknik olah vokal, penyiar radio/TV, teknik kamera video, editing video, naskah drama/berita, serta produksi program siaran.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Dasar-Dasar Penyiaran (Broadcasting)",
+      "konten": "Pengertian broadcasting, sejarah radio dan televisi. Peran kru produksi (produser, sutradara, kameramen) serta etika penyiaran dan regulasi KPI (Komisi Penyiaran Indonesia).",
+      "tag": [
+        "ti broadcasting materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Teknik Kamera Video dan Tata Cahaya",
+      "konten": "Jenis-jenis kamera video, pergerakan kamera (pan, tilt, dolly, zoom). Dasar tata cahaya (Three Point Lighting: Key, Fill, Back Light) serta teknik framing gambar.",
+      "tag": [
+        "ti broadcasting materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Penulisan Naskah dan Storyboard",
+      "konten": "Teknik menulis naskah berita (5W+1H), naskah drama/film, serta pembuatan storyboard sebagai panduan visual sebelum syuting.",
+      "tag": [
+        "ti broadcasting materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Teknik Olah Vokal dan Presenting",
+      "konten": "Keahlian menjadi penyiar atau presenter. Latihan pernapasan, artikulasi, intonasi, serta teknik membaca teks berita (reading news) dan membawakan acara (MC).",
+      "tag": [
+        "ti broadcasting materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Pascaproduksi (Editing Video)",
+      "konten": "Pengenalan software editing (Adobe Premiere Pro/CapCut). Teknik memotong klip (cut), transisi, pemberian judul/subtitle, serta pengolahan audio dan rendering hasil akhir.",
+      "tag": [
+        "ti broadcasting materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "ti-broadcasting-materi",
+  "mapel": "Broadcasting dan Perfilman",
+  "tag": [
+    "ti broadcasting materi"
+  ]
+}

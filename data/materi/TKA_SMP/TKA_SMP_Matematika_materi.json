@@ -1,0 +1,70 @@
+{
+  "id": "TKA_SMP_MAT",
+  "mapel": "TKA SMP Matematika 2025",
+  "tingkatan": "SMP",
+  "materiKategori": "wajib",
+  "tag": [
+    "tka",
+    "smp",
+    "matematika",
+    "aljabar",
+    "geometri",
+    "perbandingan"
+  ],
+  "deskripsi": "Panduan materi Matematika untuk TKA SMP 2025 yang mencakup bilangan, aljabar, perbandingan, geometri, statistika, dan pemodelan masalah kontekstual.",
+  "daftarMateri": [
+    {
+      "sub": "Bab 1: Bilangan dan Operasi Hitung",
+      "isi": "Siswa perlu menguasai operasi pada bilangan bulat, pecahan, desimal, persen, perpangkatan, dan bentuk akar sederhana. Kesalahan paling umum terjadi pada tanda negatif, urutan operasi, dan perubahan bentuk pecahan ke persen atau desimal.",
+      "tag": [
+        "tka smp matematika materi",
+        "bab-1"
+      ]
+    },
+    {
+      "sub": "Bab 2: Aljabar Dasar",
+      "isi": "Materi ini mencakup suku, koefisien, bentuk aljabar, operasi aljabar, pemfaktoran sederhana, dan substitusi nilai. Soal sering menguji kemampuan menerjemahkan situasi ke bentuk aljabar lalu menyederhanakannya secara tepat.",
+      "tag": [
+        "tka smp matematika materi",
+        "bab-2"
+      ]
+    },
+    {
+      "sub": "Bab 3: Persamaan dan Pertidaksamaan",
+      "isi": "Siswa harus memahami persamaan linear satu variabel, pertidaksamaan linear, dan penggunaannya dalam soal cerita. Kunci utamanya adalah menjaga keseimbangan operasi pada kedua ruas dan menafsirkan hasil dalam konteks soal.",
+      "tag": [
+        "tka smp matematika materi",
+        "bab-3"
+      ]
+    },
+    {
+      "sub": "Bab 4: Perbandingan, Skala, dan Persen",
+      "isi": "Topik ini sangat sering muncul karena dekat dengan kehidupan sehari-hari, seperti peta, campuran, kecepatan, dan diskon. Siswa perlu mampu membedakan perbandingan senilai dan berbalik nilai agar tidak tertukar dalam penyelesaian.",
+      "tag": [
+        "tka smp matematika materi",
+        "bab-4"
+      ]
+    },
+    {
+      "sub": "Bab 5: Geometri dan Pengukuran",
+      "isi": "Materi meliputi sudut, bangun datar, keliling, luas, hubungan garis sejajar, serta pengenalan bangun ruang sederhana. Pada TKA, ketelitian membaca informasi gambar dan satuan sangat penting agar hasil perhitungan tidak keliru.",
+      "tag": [
+        "tka smp matematika materi",
+        "bab-5"
+      ]
+    },
+    {
+      "sub": "Bab 6: Statistika, Peluang, dan Strategi Soal",
+      "isi": "Siswa perlu memahami rata-rata, median, modus, penyajian data, dan peluang sederhana. Saat mengerjakan soal, biasakan menulis apa yang diketahui dan ditanyakan agar proses hitung lebih terarah dan kesalahan logika bisa dikurangi.",
+      "tag": [
+        "tka smp matematika materi",
+        "bab-6"
+      ]
+    }
+  ],
+  "ringkasan": [
+    "Dasar bilangan dan aljabar harus kuat karena menjadi fondasi banyak soal lain.",
+    "Perbandingan, persen, dan geometri adalah topik yang sering muncul dalam bentuk soal cerita.",
+    "Ketelitian langkah hitung sama pentingnya dengan memahami konsep."
+  ]
+}

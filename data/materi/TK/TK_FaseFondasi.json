@@ -1,0 +1,30 @@
+{
+  "id": "materi-tk-fondasi-01",
+  "tingkat": "TK",
+  "mapel": "Fase Fondasi",
+  "materi": "Pengenalan Jati Diri, Agama, dan Dasar Literasi",
+  "deskripsi": "Materi esensial PAUD/TK Kurikulum Merdeka yang berfokus pada pembentukan karakter dasar, motorik, dan pengenalan literasi STEAM tingkat awal.",
+  "konten": [
+    {
+      "bab": "1. Nilai Agama & Budi Pekerti",
+      "teks": "Anak diajak mengenali ciptaan Tuhan, membiasakan doa harian, menjaga kebersihan diri (mandi, sikat gigi), serta bersikap sopan santun seperti mengucapkan tolong, maaf, dan terima kasih."
+    },
+    {
+      "bab": "2. Jati Diri & Motorik",
+      "teks": "Anak mengenali identitas dirinya (nama, usia, anggota keluarga). Membangun kemandirian (makan sendiri, merapikan mainan) dan melatih motorik kasar (melompat, berlari) serta motorik halus (memegang pensil, menempel)."
+    },
+    {
+      "bab": "3. Literasi & STEAM Dasar",
+      "teks": "Anak mulai mengenali huruf abjad, mengaitkan bunyi panjang-pendek, membilang angka 1-10 secara berurutan, mengenali warna dasar, bentuk geometri sederhana (lingkaran, segitiga, kotak), serta mengeksplorasi alam sekitar."
+    },
+    {
+      "bab": "4. Sosial Emosional dan Kemandirian",
+      "teks": "Anak belajar menunggu giliran, berbagi mainan, dan menyampaikan perasaan dengan kata-kata sederhana. Pembiasaan ini membantu anak mengenali emosi diri, menghargai teman, dan tumbuh lebih mandiri dalam kegiatan sehari-hari."
+    },
+    {
+      "bab": "5. Seni, Imajinasi, dan Komunikasi",
+      "teks": "Anak diajak bernyanyi, menggambar, menari, dan bercerita untuk melatih ekspresi diri serta keberanian berkomunikasi. Kegiatan seni juga membantu perkembangan imajinasi, koordinasi gerak, dan rasa percaya diri pada tahap fondasi."
+    }
+  ],
+  "tag": ["paud", "fondasi", "karakter", "literasi-awal", "motorik"]
+}

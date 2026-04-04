@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMA_KIM_01",
+    "pertanyaan": "Partikel penyusun inti atom adalah...",
+    "opsi": [
+      "Proton dan Neutron",
+      "Proton dan Elektron",
+      "Neutron dan Elektron",
+      "Hanya Proton",
+      "Hanya Neutron"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Inti atom terdiri dari proton yang bermuatan positif dan neutron yang netral."
+  },
+  {
+    "id": "SMA_KIM_02",
+    "pertanyaan": "Nomor atom suatu unsur menunjukkan jumlah...",
+    "opsi": [
+      "Neutron dalam inti",
+      "Proton dalam inti",
+      "Massa atom",
+      "Elektron valensi",
+      "Kulit atom"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Nomor atom (Z) adalah jumlah proton. Pada atom netral, jumlah proton sama dengan jumlah elektron."
+  },
+  {
+    "id": "SMA_KIM_03",
+    "pertanyaan": "Unsur dengan konfigurasi elektron 2, 8, 8, 1 terletak pada golongan...",
+    "opsi": [
+      "IIA",
+      "IIIA",
+      "IA",
+      "IVA",
+      "VIIIA"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Elektron valensi (elektron terluar) adalah 1, sehingga termasuk golongan IA."
+  },
+  {
+    "id": "SMA_KIM_04",
+    "pertanyaan": "Ikatan yang terbentuk akibat penggunaan bersama pasangan elektron disebut...",
+    "opsi": [
+      "Ikatan Ion",
+      "Ikatan Logam",
+      "Ikatan Hidrogen",
+      "Ikatan Kovalen",
+      "Gaya Van der Waals"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ikatan kovalen terjadi antar unsur non-logam dengan berbagi elektron."
+  },
+  {
+    "id": "SMA_KIM_05",
+    "pertanyaan": "Senyawa NaCl (Garam Dapur) merupakan contoh senyawa dengan ikatan...",
+    "opsi": [
+      "Kovalen Polar",
+      "Kovalen Non-Polar",
+      "Logam",
+      "Koordinasi",
+      "Ion"
+    ],
+    "jawaban": 4,
+    "pembahasan": "NaCl terbentuk dari Na+ (logam) dan Cl- (non-logam) melalui gaya elektrostatik (ionik)."
+  },
+  {
+    "id": "SMA_KIM_06",
+    "pertanyaan": "Massa 1 mol atom karbon-12 adalah...",
+    "opsi": [
+      "12 gram",
+      "1 gram",
+      "6 gram",
+      "22.4 gram",
+      "6.02 x 10^23 gram"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Massa molar sama dengan massa atom relatif (Ar) dalam satuan gram/mol. Ar C = 12."
+  },
+  {
+    "id": "SMA_KIM_07",
+    "pertanyaan": "Volume 1 mol gas pada keadaan standar (STP) adalah...",
+    "opsi": [
+      "2.24 Liter",
+      "22.4 Liter",
+      "11.2 Liter",
+      "24.4 Liter",
+      "44.8 Liter"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pada 0 C dan 1 atm, volume molar gas ideal adalah 22.4 Liter/mol."
+  },
+  {
+    "id": "SMA_KIM_08",
+    "pertanyaan": "Sebanyak 2 mol gas H2 bereaksi dengan O2 membentuk H2O. Massa H2O yang dihasilkan adalah (Ar H=1, O=16)...",
+    "opsi": [
+      "18 gram",
+      "9 gram",
+      "36 gram",
+      "20 gram",
+      "40 gram"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Persamaan: 2H2 + O2 -> 2H2O. 2 mol H2 menghasilkan 2 mol H2O. Massa = 2 mol * 18 g/mol = 36 gram."
+  },
+  {
+    "id": "SMA_KIM_09",
+    "pertanyaan": "Larutan yang dapat mempertahankan nilai pH meskipun ditambah sedikit asam atau basa disebut...",
+    "opsi": [
+      "Larutan Elektrolit",
+      "Larutan Garam",
+      "Larutan Jenuh",
+      "Larutan Penyangga (Buffer)",
+      "Larutan Koloid"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Buffer mengandung pasangan asam/basa konjugasi yang menstabilkan pH."
+  },
+  {
+    "id": "SMA_KIM_10",
+    "pertanyaan": "pH dari larutan HCl 0.01 M adalah...",
+    "opsi": [
+      "1",
+      "3",
+      "7",
+      "12",
+      "2"
+    ],
+    "jawaban": 4,
+    "pembahasan": "HCl asam kuat. [H+] = M = 10^-2. pH = -log[10^-2] = 2."
+  },
+  {
+    "id": "SMA_KIM_11",
+    "pertanyaan": "Hasil reaksi antara asam dan basa akan menghasilkan...",
+    "opsi": [
+      "Garam dan Air",
+      "Gas Hidrogen",
+      "Logam Mulia",
+      "Oksida Besi",
+      "Alkohol"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Reaksi netralisasi: Asam + Basa -> Garam + H2O."
+  },
+  {
+    "id": "SMA_KIM_12",
+    "pertanyaan": "Senyawa hidrokarbon yang hanya memiliki ikatan tunggal disebut...",
+    "opsi": [
+      "Alkena",
+      "Alkana",
+      "Alkuna",
+      "Benzena",
+      "Alkohol"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Alkana adalah hidrokarbon jenuh dengan rumus umum CnH2n+2."
+  },
+  {
+    "id": "SMA_KIM_13",
+    "pertanyaan": "Rumus molekul dari gas metana adalah...",
+    "opsi": [
+      "C2H6",
+      "C3H8",
+      "CH4",
+      "CH3OH",
+      "CO2"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Metana (n=1) adalah anggota pertama deret alkana."
+  },
+  {
+    "id": "SMA_KIM_14",
+    "pertanyaan": "Gugus fungsi -OH terdapat pada senyawa...",
+    "opsi": [
+      "Eter",
+      "Aldehid",
+      "Asam Karboksilat",
+      "Alkohol (Alkanol)",
+      "Ester"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Gugus hidroksil (-OH) adalah ciri khas senyawa golongan alkohol."
+  },
+  {
+    "id": "SMA_KIM_15",
+    "pertanyaan": "Sifat koligatif larutan bergantung pada...",
+    "opsi": [
+      "Jenis zat terlarut",
+      "Warna larutan",
+      "Rasa larutan",
+      "Bentuk wadah",
+      "Jumlah partikel zat terlarut"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sifat koligatif (penurunan titik beku, dll) tidak melihat 'apa' zatnya, tapi 'berapa banyak' partikelnya."
+  },
+  {
+    "id": "SMA_KIM_16",
+    "pertanyaan": "Bensin memiliki komponen utama yaitu...",
+    "opsi": [
+      "Isooktana dan n-Heptana",
+      "Metana dan Etana",
+      "Propana dan Butana",
+      "Benzena",
+      "Alkohol"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bilangan oktan ditentukan oleh perbandingan isooktana dan n-heptana."
+  },
+  {
+    "id": "SMA_KIM_17",
+    "pertanyaan": "Hukum Kekekalan Massa dikemukakan oleh...",
+    "opsi": [
+      "Dalton",
+      "Lavoisier",
+      "Avogadro",
+      "Proust",
+      "Mendeleev"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Lavoisier menyatakan massa zat sebelum dan sesudah reaksi adalah sama dalam sistem tertutup."
+  },
+  {
+    "id": "SMA_KIM_18",
+    "pertanyaan": "Unsur VIIA (Halogen) sangat reaktif karena...",
+    "opsi": [
+      "Memiliki 8 elektron valensi",
+      "Sangat stabil",
+      "Kurang 1 elektron untuk mencapai oktet",
+      "Merupakan gas mulia",
+      "Mudah melepas elektron"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Halogen memiliki 7 elektron valensi, sehingga sangat mudah menarik 1 elektron dari unsur lain."
+  },
+  {
+    "id": "SMA_KIM_19",
+    "pertanyaan": "Proses pemisahan campuran berdasarkan perbedaan titik didih disebut...",
+    "opsi": [
+      "Filtrasi",
+      "Kristalisasi",
+      "Kromatografi",
+      "Distilasi (Penyulingan)",
+      "Sublimasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Distilasi digunakan untuk memurnikan air atau memisahkan fraksi minyak bumi."
+  },
+  {
+    "id": "SMA_KIM_20",
+    "pertanyaan": "Warna nyala unsur Natrium (Na) adalah...",
+    "opsi": [
+      "Merah",
+      "Hijau",
+      "Ungu",
+      "Biru",
+      "Kuning"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Setiap logam alkali memberikan warna nyala khas; Na adalah kuning keemasan."
+  },
+  {
+    "id": "SMA_KIM_21",
+    "pertanyaan": "Indikator lakmus merah akan berubah menjadi biru jika dicelupkan ke...",
+    "opsi": [
+      "Air Sabun (Basa)",
+      "Asam Klorida",
+      "Cuka",
+      "Air Jeruk",
+      "Air Murni"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Basa merubah lakmus merah jadi biru; Asam merubah lakmus biru jadi merah."
+  },
+  {
+    "id": "SMA_KIM_22",
+    "pertanyaan": "Berapakah bilangan oksidasi (Biloks) Oksigen dalam senyawa umumnya?",
+    "opsi": [
+      "+1",
+      "-2",
+      "+2",
+      "-1",
+      "0"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dalam sebagian besar senyawa, Oksigen memiliki biloks -2."
+  },
+  {
+    "id": "SMA_KIM_23",
+    "pertanyaan": "Reaksi pelepasan elektron disebut reaksi...",
+    "opsi": [
+      "Reduksi",
+      "Substitusi",
+      "Oksidasi",
+      "Adisi",
+      "Eliminasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Oksidasi = Lepas elektron. Reduksi = Terima elektron."
+  },
+  {
+    "id": "SMA_KIM_24",
+    "pertanyaan": "Sel yang mengubah energi kimia menjadi energi listrik adalah...",
+    "opsi": [
+      "Sel Elektrolisis",
+      "Sel Fotosintesis",
+      "Sel Hewan",
+      "Sel Volta",
+      "Sel Surya"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh sel volta adalah baterai dan aki."
+  },
+  {
+    "id": "SMA_KIM_25",
+    "pertanyaan": "Laju reaksi dapat dipercepat dengan menambahkan...",
+    "opsi": [
+      "Inhibitor",
+      "Air",
+      "Garam",
+      "Wadah besar",
+      "Katalis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Katalis menurunkan energi aktivasi tanpa ikut bereaksi secara permanen."
+  },
+  {
+    "id": "SMA_KIM_26",
+    "pertanyaan": "Hukum termokimia yang menyatakan entalpi reaksi tidak bergantung jalan reaksi adalah...",
+    "opsi": [
+      "Hukum Hess",
+      "Hukum Henry",
+      "Hukum Raoult",
+      "Hukum Gay-Lussac",
+      "Hukum Boyle"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Hukum Hess memungkinkan perhitungan delta H melalui penjumlahan beberapa sub-reaksi."
+  },
+  {
+    "id": "SMA_KIM_27",
+    "pertanyaan": "Unsur yang paling elektronegatif dalam tabel periodik adalah...",
+    "opsi": [
+      "Oksigen",
+      "Fluorin (F)",
+      "Klorin",
+      "Helium",
+      "Fransium"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Fluorin berada di pojok kanan atas (kecuali gas mulia), memiliki daya tarik elektron terkuat."
+  },
+  {
+    "id": "SMA_KIM_28",
+    "pertanyaan": "Bentuk molekul CH4 adalah...",
+    "opsi": [
+      "Linier",
+      "Segitiga Datar",
+      "Tetrahedral",
+      "Oktahedral",
+      "Bipiramida Segitiga"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Karbon memiliki 4 domain elektron yang saling tolak menolak membentuk sudut 109.5 derajat."
+  },
+  {
+    "id": "SMA_KIM_29",
+    "pertanyaan": "Isotop adalah atom-atom yang memiliki...",
+    "opsi": [
+      "Nomor atom berbeda, nomor massa sama",
+      "Jumlah neutron sama",
+      "Jumlah elektron valensi sama",
+      "Nomor atom sama, nomor massa berbeda",
+      "Semua jawaban salah"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: C-12, C-13, C-14. Semuanya Karbon (P=6) tapi beratnya beda."
+  },
+  {
+    "id": "SMA_KIM_30",
+    "pertanyaan": "Zat yang dilarutkan ke dalam pelarut disebut...",
+    "opsi": [
+      "Solven",
+      "Koloid",
+      "Suspensi",
+      "Emulsi",
+      "Solut"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Solut (Zat Terlarut) + Solven (Pelarut) = Larutan."
+  },
+  {
+    "id": "SMA_KIM_31",
+    "pertanyaan": "Susu dan santan merupakan contoh sistem...",
+    "opsi": [
+      "Koloid",
+      "Larutan Sejati",
+      "Suspensi Kasar",
+      "Unsur",
+      "Senyawa"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Koloid berada di antara larutan dan suspensi, tidak mengendap tapi menghamburkan cahaya."
+  },
+  {
+    "id": "SMA_KIM_32",
+    "pertanyaan": "Efek penghamburan cahaya oleh partikel kolid disebut...",
+    "opsi": [
+      "Gerak Brown",
+      "Efek Tyndall",
+      "Adsorpsi",
+      "Koagulasi",
+      "Dialisis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh Tyndall: sorot lampu mobil saat kabut atau sinar matahari di sela pohon."
+  },
+  {
+    "id": "SMA_KIM_33",
+    "pertanyaan": "Suatu reaksi kimia yang melepaskan kalor ke lingkungan disebut...",
+    "opsi": [
+      "Endoterm",
+      "Isoterm",
+      "Eksoterm",
+      "Adiabatik",
+      "Reversibel"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Eksoterm ditandai dengan kenaikan suhu lingkungan dan Delta H bernilai negatif."
+  },
+  {
+    "id": "SMA_KIM_34",
+    "pertanyaan": "Polimer alam yang terdapat pada kayu dan kapas adalah...",
+    "opsi": [
+      "Protein",
+      "Amilum",
+      "Karet Alam",
+      "Selulosa",
+      "Polietilena"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Selulosa adalah karbohidrat kompleks penyusun dinding sel tumbuhan."
+  },
+  {
+    "id": "SMA_KIM_35",
+    "pertanyaan": "Hormon insulin dan enzim termasuk dalam kelompok...",
+    "opsi": [
+      "Lemak",
+      "Karbohidrat",
+      "Asam Nukleat",
+      "Vitamin",
+      "Protein"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Protein berfungsi sebagai biokatalis (enzim) dan pengatur (hormon)."
+  },
+  {
+    "id": "SMA_KIM_36",
+    "pertanyaan": "Garam dapur (NaCl) jika dilarutkan dalam air akan bersifat...",
+    "opsi": [
+      "Netral",
+      "Asam Kuat",
+      "Basa Lemah",
+      "Asam Lemah",
+      "Semua salah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Garam dari asam kuat (HCl) dan basa kuat (NaOH) tidak terhidrolisis, pH = 7."
+  },
+  {
+    "id": "SMA_KIM_37",
+    "pertanyaan": "Unsur Radioaktif yang digunakan untuk menentukan umur fosil adalah...",
+    "opsi": [
+      "Uranium-235",
+      "Karbon-14",
+      "Iodin-131",
+      "Kobalt-60",
+      "Fosfor-32"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Carbon dating memanfaatkan waktu paruh C-14 yang stabil."
+  },
+  {
+    "id": "SMA_KIM_38",
+    "pertanyaan": "Air sadah adalah air yang mengandung banyak ion...",
+    "opsi": [
+      "Na+ dan K+",
+      "Fe2+ dan Cu2+",
+      "Ca2+ dan Mg2+",
+      "Cl- dan Br-",
+      "H+ dan OH-"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kesadahan menyebabkan sabun sulit berbusa dan timbulnya kerak pada ketel air."
+  },
+  {
+    "id": "SMA_KIM_39",
+    "pertanyaan": "Senyawa yang memiliki rumus molekul sama tetapi struktur berbeda disebut...",
+    "opsi": [
+      "Isotop",
+      "Isoton",
+      "Isobar",
+      "Isomer",
+      "Isokhor"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Isomer struktur atau ruang sering terjadi pada senyawa karbon."
+  },
+  {
+    "id": "SMA_KIM_40",
+    "pertanyaan": "Oksida nitrogen nitrogen (NOx) di atmosfir dapat menyebabkan...",
+    "opsi": [
+      "Gempa bumi",
+      "Tsunami",
+      "Erosi",
+      "Pelapukan biologi",
+      "Hujan Asam"
+    ],
+    "jawaban": 4,
+    "pembahasan": "NOx dan SOx bereaksi dengan air hujan membentuk asam nitrat/sulfat."
+  },
+  {
+    "id": "SMA_KIM_41",
+    "pertanyaan": "Logam yang paling baik menghantarkan listrik adalah...",
+    "opsi": [
+      "Perak (Ag)",
+      "Besi",
+      "Tembaga",
+      "Emas",
+      "Aluminium"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Perak adalah konduktor terbaik, namun tembaga lebih banyak digunakan karena harga."
+  },
+  {
+    "id": "SMA_KIM_42",
+    "pertanyaan": "Reaksi penyabunan (Saponifikasi) adalah reaksi antara...",
+    "opsi": [
+      "Asam dan Basa",
+      "Lemak/Minyak dengan Basa Kuat",
+      "Alkohol dan Asam",
+      "Gula dan Air",
+      "Protein dan Enzim"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Reaksi ini menghasilkan gliserol dan sabun."
+  },
+  {
+    "id": "SMA_KIM_43",
+    "pertanyaan": "Proses perkaratan besi merupakan contoh reaksi...",
+    "opsi": [
+      "Reduksi",
+      "Substitusi",
+      "Oksidasi (Korosi)",
+      "Hidrolisis",
+      "Netralisasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Besi bereaksi dengan oksigen dan air membentuk karat (oksida besi terhidrasi)."
+  },
+  {
+    "id": "SMA_KIM_44",
+    "pertanyaan": "Gas yang dapat memadamkan api karena massa jenisnya lebih berat dari udara adalah...",
+    "opsi": [
+      "H2",
+      "O2",
+      "N2",
+      "CO2",
+      "He"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Karbondioksida menyelimuti api dan memutus kontak dengan oksigen."
+  },
+  {
+    "id": "SMA_KIM_45",
+    "pertanyaan": "Zat warna klorofil pada daun mengandung unsur logam...",
+    "opsi": [
+      "Fe",
+      "Cu",
+      "Zn",
+      "Ca",
+      "Mg"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Magnesium adalah ion pusat dalam struktur porfirin klorofil."
+  },
+  {
+    "id": "SMA_KIM_46",
+    "pertanyaan": "Alkena memiliki ikatan...",
+    "opsi": [
+      "Rangkap 2",
+      "Tunggal",
+      "Rangkap 3",
+      "Kovalen koordinasi",
+      "Logam"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Rumus umum alkena: CnH2n (memiliki minimal 1 ikatan C=C)."
+  },
+  {
+    "id": "SMA_KIM_47",
+    "pertanyaan": "Hukum perbandingan volume dikemukakan oleh...",
+    "opsi": [
+      "Dalton",
+      "Gay-Lussac",
+      "Proust",
+      "Avogadro",
+      "Charles"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Volume gas-gas yang bereaksi berbanding sebagai bilangan bulat sederhana."
+  },
+  {
+    "id": "SMA_KIM_48",
+    "pertanyaan": "Konstanta Avogadro bernilai...",
+    "opsi": [
+      "3.14",
+      "9.8",
+      "6.02 x 10^23",
+      "1.6 x 10^-19",
+      "22.4"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Menunjukkan jumlah partikel dalam 1 mol zat."
+  },
+  {
+    "id": "SMA_KIM_49",
+    "pertanyaan": "Asam kuat di laboratorium yang sering disebut air keras untuk aki adalah...",
+    "opsi": [
+      "HCl",
+      "HNO3",
+      "CH3COOH",
+      "H2SO4 (Asam Sulfat)",
+      "NaOH"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Asam sulfat pekat bersifat korosif dan elektrolit kuat."
+  },
+  {
+    "id": "SMA_KIM_50",
+    "pertanyaan": "Ozon (O3) di lapisan stratosfer berfungsi melindungi bumi dari...",
+    "opsi": [
+      "Meteor",
+      "Gelombang Radio",
+      "Hujan deras",
+      "Angin matahari",
+      "Sinar Ultraviolet (UV)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Lapisan ozon menyerap radiasi UV berbahaya yang dapat menyebabkan kanker kulit."
+  }
+]

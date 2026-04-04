@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMA_SO_01",
+    "pertanyaan": "Sosiologi sebagai ilmu yang didasarkan pada pengamatan nyata dan logis, bukan sekadar imajinasi atau dugaan, disebut bersifat...",
+    "opsi": [
+      "Empiris",
+      "Teoretis",
+      "Kumulatif",
+      "Non-etis",
+      "Dinamis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Empiris berarti sosiologi berlandaskan pada observasi kenyataan di lapangan."
+  },
+  {
+    "id": "SMA_SO_02",
+    "pertanyaan": "Sosiologi tidak mempermasalahkan baik atau buruknya suatu fakta, melainkan menjelaskan fakta tersebut secara analitis. Sifat ini disebut...",
+    "opsi": [
+      "Empiris",
+      "Non-etis",
+      "Teoretis",
+      "Kumulatif",
+      "Objektif"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Non-etis berarti sosiologi netral dan tidak menghakimi moralitas suatu tindakan."
+  },
+  {
+    "id": "SMA_SO_03",
+    "pertanyaan": "Syarat terjadinya interaksi sosial adalah adanya...",
+    "opsi": [
+      "Uang dan materi",
+      "Status dan peran",
+      "Kontak sosial dan komunikasi",
+      "Tempat dan waktu",
+      "Satu orang saja"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kontak fisik atau non-fisik disertai pertukaran pesan (komunikasi) adalah inti interaksi."
+  },
+  {
+    "id": "SMA_SO_04",
+    "pertanyaan": "Sikap meniru orang lain baik penampilan maupun tingkah laku tanpa filter yang kuat disebut...",
+    "opsi": [
+      "Simpati",
+      "Empati",
+      "Identifikasi",
+      "Imitasi",
+      "Sugesti"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Imitasi adalah langkah awal seseorang dalam proses sosialisasi."
+  },
+  {
+    "id": "SMA_SO_05",
+    "pertanyaan": "Keinginan seseorang untuk menjadi sama persis dengan tokoh idolanya disebut...",
+    "opsi": [
+      "Imitasi",
+      "Simpati",
+      "Sugesti",
+      "Motivasi",
+      "Identifikasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Identifikasi lebih dalam daripada imitasi karena ada keinginan menjadi identik."
+  },
+  {
+    "id": "SMA_SO_06",
+    "pertanyaan": "Norma yang didasarkan pada ajaran agama yang berasal dari wahyu Tuhan disebut norma...",
+    "opsi": [
+      "Agama",
+      "Hukum",
+      "Kesusilaan",
+      "Kesopanan",
+      "Adat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Norma agama bersifat universal bagi pemeluknya dan memiliki sanksi akhirat."
+  },
+  {
+    "id": "SMA_SO_07",
+    "pertanyaan": "Agen sosialisasi pertama dan paling utama dalam kehidupan seseorang adalah...",
+    "opsi": [
+      "Sekolah",
+      "Keluarga",
+      "Teman sebaya",
+      "Media Massa",
+      "Lingkungan Kerja"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Keluarga memberikan nilai-nilai dasar pertama (sosialisasi primer)."
+  },
+  {
+    "id": "SMA_SO_08",
+    "pertanyaan": "Perilaku yang tidak sesuai dengan nilai dan norma yang berlaku di masyarakat disebut...",
+    "opsi": [
+      "Interaksi sosial",
+      "Sosialisasi",
+      "Penyimpangan sosial",
+      "Integrasi sosial",
+      "Akulturasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Deviasi sosial terjadi akibat gagalnya proses sosialisasi atau pengaruh lingkungan buruk."
+  },
+  {
+    "id": "SMA_SO_09",
+    "pertanyaan": "Proses peleburan dua kebudayaan yang berbeda menjadi satu kebudayaan baru tanpa menghilangkan unsur asli disebut...",
+    "opsi": [
+      "Asimilasi",
+      "Amalgamasi",
+      "Difusi",
+      "Akulturasi",
+      "Evolusi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Akulturasi menghasilkan percampuran yang harmonis (misal: Menara Kudus)."
+  },
+  {
+    "id": "SMA_SO_10",
+    "pertanyaan": "Sikap yang menganggap budayanya sendiri paling hebat dan merendahkan budaya orang lain disebut...",
+    "opsi": [
+      "Relativisme budaya",
+      "Xenosentrisme",
+      "Nasionalisme",
+      "Primordialisme",
+      "Etnosentrisme"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Etnosentrisme dapat menghambat integrasi sosial dalam masyarakat multikultural."
+  },
+  {
+    "id": "SMA_SO_11",
+    "pertanyaan": "Perubahan sosial yang berlangsung cepat dan menyangkut sendi-sendi kehidupan masyarakat disebut...",
+    "opsi": [
+      "Revolusi",
+      "Evolusi",
+      "Inovasi",
+      "Asimilasi",
+      "Stabilisasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh revolusi: Revolusi Industri atau Reformasi 1998."
+  },
+  {
+    "id": "SMA_SO_12",
+    "pertanyaan": "Kelompok sosial yang anggotanya memiliki hubungan sangat akrab, personal, dan intim disebut...",
+    "opsi": [
+      "Patembayan (Gesellschaft)",
+      "Paguyuban (Gemeinschaft)",
+      "Kelompok Formal",
+      "Kelompok Sekunder",
+      "Massa"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Paguyuban didasarkan pada ikatan batin yang murni dan alami (seperti keluarga)."
+  },
+  {
+    "id": "SMA_SO_13",
+    "pertanyaan": "Kelompok sosial yang ikatannya didasarkan pada kepentingan sesaat dan kontrak hukum disebut...",
+    "opsi": [
+      "Gemeinschaft",
+      "In-group",
+      "Gesellschaft (Patembayan)",
+      "Reference group",
+      "Out-group"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh patembayan: Perseroan Terbatas (PT) atau serikat pekerja."
+  },
+  {
+    "id": "SMA_SO_14",
+    "pertanyaan": "Tahap sosialisasi di mana seorang anak mulai memahami perannya dan meniru orang dewasa disebut...",
+    "opsi": [
+      "Preparatory stage",
+      "Game stage",
+      "Generalized others",
+      "Play stage",
+      "Final stage"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Play stage: Anak mulai bermain 'peran-peranan' (misal jadi dokter-dokteran)."
+  },
+  {
+    "id": "SMA_SO_15",
+    "pertanyaan": "Penilaian baik-buruk, benar-salah terhadap sesuatu yang dianut masyarakat disebut...",
+    "opsi": [
+      "Norma",
+      "Sanksi",
+      "Tradisi",
+      "Hukum",
+      "Nilai"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Nilai adalah cita-cita atau pandangan mental yang dianggap penting."
+  },
+  {
+    "id": "SMA_SO_16",
+    "pertanyaan": "Usaha untuk mendamaikan pihak-pihak yang sedang berkonflik melalui pihak ketiga yang netral dan keputusannya mengikat disebut...",
+    "opsi": [
+      "Arbitrase",
+      "Mediasi",
+      "Konsiliasi",
+      "Kompromi",
+      "Koersi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Keputusan arbiter wajib ditaati oleh kedua pihak yang bersengketa."
+  },
+  {
+    "id": "SMA_SO_17",
+    "pertanyaan": "Penyelesaian konflik melalui pihak ketiga yang hanya bertugas memberi nasihat (keputusan tidak mengikat) disebut...",
+    "opsi": [
+      "Arbitrase",
+      "Mediasi",
+      "Koersi",
+      "Stalemate",
+      "Gencatan senjata"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mediator hanya membantu mempertemukan keinginan kedua belah pihak."
+  },
+  {
+    "id": "SMA_SO_18",
+    "pertanyaan": "Pembedaan masyarakat secara vertikal yang menunjukkan adanya lapisan/tingkatan disebut...",
+    "opsi": [
+      "Diferensiasi Sosial",
+      "Struktur Sosial",
+      "Stratifikasi Sosial",
+      "Mobilitas Sosial",
+      "Integrasi Sosial"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Stratifikasi biasanya didasarkan pada kekayaan, kekuasaan, atau kehormatan."
+  },
+  {
+    "id": "SMA_SO_19",
+    "pertanyaan": "Pembedaan masyarakat secara horizontal berdasarkan perbedaan ras, agama, atau suku disebut...",
+    "opsi": [
+      "Stratifikasi Sosial",
+      "Akulturasi",
+      "Amalgamasi",
+      "Diferensiasi Sosial",
+      "Modernisasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Diferensiasi tidak menunjukkan tingkatan mana yang lebih tinggi atau rendah."
+  },
+  {
+    "id": "SMA_SO_20",
+    "pertanyaan": "Kenaikan status individu dari lapisan bawah ke lapisan atas disebut mobilitas...",
+    "opsi": [
+      "Vertikal Turun",
+      "Horizontal",
+      "Antargenerasi",
+      "Geografis",
+      "Vertikal Naik (Social Climbing)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: Seorang guru yang diangkat menjadi kepala sekolah."
+  },
+  {
+    "id": "SMA_SO_21",
+    "pertanyaan": "Perpindahan profesi ke bidang lain yang setingkat disebut mobilitas...",
+    "opsi": [
+      "Horizontal",
+      "Vertikal",
+      "Intragenerasi",
+      "Struktural",
+      "Intergenerasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: Seorang teller bank pindah menjadi admin di perusahaan asuransi."
+  },
+  {
+    "id": "SMA_SO_22",
+    "pertanyaan": "Asimilasi dapat terjadi dengan mudah jika masyarakat memiliki sikap...",
+    "opsi": [
+      "Apatis",
+      "Toleransi",
+      "Etnosentrisme",
+      "Xenofobia",
+      "Primordialisme"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Toleransi membuka ruang bagi perpaduan antar budaya berbeda."
+  },
+  {
+    "id": "SMA_SO_23",
+    "pertanyaan": "Faktor luar yang menghambat perubahan sosial adalah...",
+    "opsi": [
+      "Penduduk yang heterogen",
+      "Penemuan baru",
+      "Benteng tradisi yang kuat / kolot",
+      "Sikap menghargai karya",
+      "Kontak dengan budaya asing"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Vested interest atau kepentingan yang tertanam kuat cenderung menutup diri dari perubahan."
+  },
+  {
+    "id": "SMA_SO_24",
+    "pertanyaan": "Gaya hidup yang kebarat-baratan tanpa menyaring nilai positifnya disebut...",
+    "opsi": [
+      "Modernisasi",
+      "Globalisasi",
+      "Sosialisasi",
+      "Westernisasi",
+      "Nasionalisasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Westernisasi sering dianggap sebagai peniruan buta terhadap budaya barat."
+  },
+  {
+    "id": "SMA_SO_25",
+    "pertanyaan": "Proses masuknya individu ke dalam suatu organisasi (menaruh kepercayaan) untuk mengurangi konflik disebut...",
+    "opsi": [
+      "Koalisi",
+      "Joint Venture",
+      "Kerjasama",
+      "Asimilasi",
+      "Kooptasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kooptasi adalah penerimaan unsur-unsur baru dalam kepemimpinan."
+  },
+  {
+    "id": "SMA_SO_26",
+    "pertanyaan": "Sanksi pada norma adat istiadat biasanya berupa...",
+    "opsi": [
+      "Pengucilan atau dikeluarkan dari komunitas adat",
+      "Penjara",
+      "Hukuman mati",
+      "Denda uang kepada polisi",
+      "Dosa akhirat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Norma adat memiliki ikatan emosional dan sosial yang kuat bagi komunitasnya."
+  },
+  {
+    "id": "SMA_SO_27",
+    "pertanyaan": "Interaksi sosial yang bersifat merusak keteraturan disebut interaksi...",
+    "opsi": [
+      "Asosiatif",
+      "Disosiatif",
+      "Akomodatif",
+      "Asimilatif",
+      "Komunikatif"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Disosiatif meliputi persaingan, kontravensi, dan pertentangan."
+  },
+  {
+    "id": "SMA_SO_28",
+    "pertanyaan": "Persaingan yang menyehatkan (sportif) disebut kompetisi. Jika persaingan mulai menjatuhkan lawan dengan fitnah disebut...",
+    "opsi": [
+      "Akomodasi",
+      "Pertikaian",
+      "Kontravensi",
+      "Kerjasama",
+      "Asimilasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kontravensi berada di antara persaingan dan konflik terbuka."
+  },
+  {
+    "id": "SMA_SO_29",
+    "pertanyaan": "Hubungan kekerabatan yang didasarkan pada garis keturunan Ayah disebut...",
+    "opsi": [
+      "Matrilineal",
+      "Bilateral",
+      "Unilineal",
+      "Patrilineal",
+      "Multilinieal"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Suku Batak dan Bali adalah contoh masyarakat patrilineal."
+  },
+  {
+    "id": "SMA_SO_30",
+    "pertanyaan": "Masyarakat multikultural di Indonesia dapat bersatu melalui semboyan...",
+    "opsi": [
+      "Tut Wuri Handayani",
+      "Merdeka atau Mati",
+      "Ing Ngarso Sung Tulodo",
+      "Pantang Menyerah",
+      "Bhinneka Tunggal Ika"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Bhinneka Tunggal Ika mengakui keragaman sebagai satu kesatuan bangsa."
+  },
+  {
+    "id": "SMA_SO_31",
+    "pertanyaan": "Mobilitas sosial satu keluarga di mana anak memiliki pendidikan lebih tinggi dari orang tua adalah mobilitas...",
+    "opsi": [
+      "Intergenerasi Naik",
+      "Intragenerasi",
+      "Horizontal",
+      "Geografis",
+      "Struktural"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Intergenerasi melibatkan perbandingan antara garis keturunan."
+  },
+  {
+    "id": "SMA_SO_32",
+    "pertanyaan": "Konflik yang timbul karena perebutan sumber daya ekonomi yang terbatas disebut penyebab konflik faktor...",
+    "opsi": [
+      "Kepribadian",
+      "Kepentingan",
+      "Budaya",
+      "Status",
+      "Ideologi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Perbedaan kepentingan ekonomi atau politik sering memicu pertikaian."
+  },
+  {
+    "id": "SMA_SO_33",
+    "pertanyaan": "Sosiologi mikro berfokus pada pengamatan terhadap...",
+    "opsi": [
+      "Pemerintah",
+      "Sistem politik dunia",
+      "Interaksi individu dan kelompok kecil",
+      "Agama-agama dunia",
+      "Sejarah bangsa"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mikro sosiologi mempelajari perilaku individu dalam situasi tatap muka."
+  },
+  {
+    "id": "SMA_SO_34",
+    "pertanyaan": "Perilaku merokok di kalangan remaja yang dianggap keren bagi kelompoknya melambangkan kegagalan sosialisasi pada agen...",
+    "opsi": [
+      "Keluarga",
+      "Sekolah",
+      "Media Massa",
+      "Teman Sebaya (Peer group)",
+      "Teman Bermain"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Tekanan teman sebaya (peer pressure) sangat kuat dalam membentuk perilaku remaja."
+  },
+  {
+    "id": "SMA_SO_35",
+    "pertanyaan": "Proses penyesuaian unsur-unsur masyarakat yang berbeda sehingga menjadi satu kesatuan yang bulat disebut...",
+    "opsi": [
+      "Konflik",
+      "Disintegrasi",
+      "Revolusi",
+      "Diferensiasi",
+      "Integrasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Integrasi menciptakan harmoni dan stabilitas sosial."
+  },
+  {
+    "id": "SMA_SO_36",
+    "pertanyaan": "Masalah sosial yang timbul akibat ketimpangan antara jumlah penduduk dan lapangan kerja adalah...",
+    "opsi": [
+      "Kemiskinan dan Pengangguran",
+      "Kejahatan",
+      "Pencemaran",
+      "Korupsi",
+      "Demo"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ketidakseimbangan ekonomi memicu masalah sosial sistemik."
+  },
+  {
+    "id": "SMA_SO_37",
+    "pertanyaan": "Penelitian sosiologi sering menggunakan metode wawancara mendalam untuk mendapatkan data...",
+    "opsi": [
+      "Kuantitatif",
+      "Kualitatif",
+      "Statistik",
+      "Angka",
+      "Eksperimen"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Data kualitatif fokus pada makna dan penjelasan naratif."
+  },
+  {
+    "id": "SMA_SO_38",
+    "pertanyaan": "Apa yang dimaksud dengan 'Social Control' (Pengendalian Sosial)?",
+    "opsi": [
+      "Polisi menangkap penjahat",
+      "Membayar denda tilang",
+      "Cara-cara agar individu berperilaku sesuai norma di masyarakat",
+      "Membuat pagar tinggi",
+      "Mengunci pintu rumah"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pengendalian bisa bersifat persuasif (nasihat) atau koersif (paksaan)."
+  },
+  {
+    "id": "SMA_SO_39",
+    "pertanyaan": "Faktor pendorong perubahan sosial dari dalam masyarakat (intern) adalah...",
+    "opsi": [
+      "Bencana alam",
+      "Peperangan antar negara",
+      "Pengaruh budaya asing",
+      "Penemuan baru (Invention)",
+      "Gempa bumi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penemuan teknologi (misal: internet) mengubah pola hidup dari dalam."
+  },
+  {
+    "id": "SMA_SO_40",
+    "pertanyaan": "Westernisasi berbeda dengan modernisasi. Modernisasi lebih menekankan pada...",
+    "opsi": [
+      "Berpakaian ala Amerika",
+      "Gaya bicara bahasa Inggris",
+      "Banyak makan junk food",
+      "Sering ke bioskop",
+      "Pola pikir rasional dan penguasaan iptek"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Modernisasi adalah perubahan menuju kemajuan peradaban yang rasional."
+  },
+  {
+    "id": "SMA_SO_41",
+    "pertanyaan": "Stratifikasi sosial yang bersifat 'Tertutup' artinya...",
+    "opsi": [
+      "Status diperoleh berdasarkan kelahiran dan hampir tidak mungkin pindah lapisan",
+      "Orang bisa bebas naik turun kelas sosial",
+      "Semua orang dianggap sama",
+      "Tidak ada pemimpin",
+      "Hanya untuk orang kaya"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Contoh: Sistem kasta di India atau feodalisme kuno."
+  },
+  {
+    "id": "SMA_SO_42",
+    "pertanyaan": "Apa itu 'Generalized Others' dalam tahap sosialisasi?",
+    "opsi": [
+      "Hanya meniru ibu",
+      "Sudah mampu memahami norma secara luas dalam masyarakat",
+      "Hanya bermain sendirian",
+      "Belum bisa bicara",
+      "Sudah tua"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tahap di mana individu benar-benar menjadi warga masyarakat yang sadar aturan."
+  },
+  {
+    "id": "SMA_SO_43",
+    "pertanyaan": "Sosiologi dikategorikan sebagai 'Pure Science', artinya...",
+    "opsi": [
+      "Hanya untuk percobaan di lab",
+      "Ilmu yang tidak berguna",
+      "Ilmu pengetahuan murni untuk mengembangkan teori",
+      "Ilmu yang mudah dipelajari",
+      "Ilmu tentang alam"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Tujuan utamanya adalah menambah khazanah pengetahuan manusia tentang masyarakat."
+  },
+  {
+    "id": "SMA_SO_44",
+    "pertanyaan": "Perilaku tertib mengantre di tempat umum adalah perwujudan dari...",
+    "opsi": [
+      "Norma Hukum",
+      "Norma Agama",
+      "Kekerasan",
+      "Norma Kesopanan dan Kebiasaan",
+      "Hobi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Mengantre menunjukkan penghargaan terhadap hak orang lain."
+  },
+  {
+    "id": "SMA_SO_45",
+    "pertanyaan": "Masyarakat urban (kota) biasanya memiliki solidaritas...",
+    "opsi": [
+      "Mekanik",
+      "Tradisional",
+      "Batiniah",
+      "Penuh kekeluargaan",
+      "Organik"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Solidaritas organik didasarkan pada pembagian kerja yang kompleks selerti organ tubuh."
+  },
+  {
+    "id": "SMA_SO_46",
+    "pertanyaan": "Kecenderungan untuk lebih menyukai budaya asing daripada budaya sendiri disebut...",
+    "opsi": [
+      "Xenosentrisme",
+      "Etnosentrisme",
+      "Nasionalisme",
+      "Patriotisme",
+      "Sekularisme"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kebalikan dari etnosentrisme. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Xenosentrisme\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_SO_47",
+    "pertanyaan": "Dampak negatif dari ketidaksiapan masyarakat menghadapi perubahan sosial adalah...",
+    "opsi": [
+      "Integrasi",
+      "Anomi (kehilangan pegangan nilai)",
+      "Kemajuan ekonomi",
+      "Modernisasi",
+      "Peningkatan pendidikan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Anomi menyebabkan kebingungan perilaku karena norma lama ditinggal tapi norma baru belum mapan."
+  },
+  {
+    "id": "SMA_SO_48",
+    "pertanyaan": "Perubahan mode pakaian yang berganti setiap tahun termasuk perubahan sosial...",
+    "opsi": [
+      "Berpengaruh besar",
+      "Dikehendaki",
+      "Berpengaruh kecil",
+      "Tidak direncanakan",
+      "Struktural"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Fashion tidak mengubah struktur dasar lembaga sosial masyarakat."
+  },
+  {
+    "id": "SMA_SO_49",
+    "pertanyaan": "Sering membantu korban bencana alam menunjukkan implementasi dari faktor...",
+    "opsi": [
+      "Imitasi",
+      "Sugesti",
+      "Simpati saja",
+      "Empati",
+      "Identifikasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Empati adalah simpati mendalam yang disertai tindakan nyata."
+  },
+  {
+    "id": "SMA_SO_50",
+    "pertanyaan": "Pentingnya sosiologi bagi pemerintah adalah untuk...",
+    "opsi": [
+      "Mencari harta karun",
+      "Menghukum rakyat",
+      "Mencetak buku",
+      "Membuat senjata",
+      "Dasar pengambilan kebijakan pembangunan sosial yang tepat sasaran"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Data sosiologis meminimalkan dampak negatif kebijakan publik."
+  }
+]

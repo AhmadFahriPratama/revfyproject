@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMK_MK_01",
+    "pertanyaan": "Komponen elektronika yang berfungsi untuk menghambat aliran arus listrik disebut...",
+    "opsi": [
+      "Resistor",
+      "Kapasitor",
+      "Transistor",
+      "Induktor",
+      "Dioda"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Resistor membatasi arus sesuai dengan nilai hambatannya (Ohm)."
+  },
+  {
+    "id": "SMK_MK_02",
+    "pertanyaan": "Satuan dari tegangan listrik dalam Sistem Internasional (SI) adalah...",
+    "opsi": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt",
+      "Farad"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tegangan diukur dalam Volt menggunakan Voltmeter."
+  },
+  {
+    "id": "SMK_MK_03",
+    "pertanyaan": "Hukum Ohm menyatakan hubungan antara tegangan (V), arus (I), dan hambatan (R) sebagai...",
+    "opsi": [
+      "V = I + R",
+      "I = V * R",
+      "V = I * R",
+      "R = V * I",
+      "V = I / R"
+    ],
+    "jawaban": 2,
+    "pembahasan": "V = I * R (Tegangan = Arus kali Hambatan)."
+  },
+  {
+    "id": "SMK_MK_04",
+    "pertanyaan": "Alat ukur yang digunakan untuk melihat bentuk gelombang sinyal listrik secara visual adalah...",
+    "opsi": [
+      "Multimeter",
+      "Wattmeter",
+      "Tachometer",
+      "Osiloskop",
+      "Manometer"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Osiloskop menampilkan grafik tegangan terhadap waktu."
+  },
+  {
+    "id": "SMK_MK_05",
+    "pertanyaan": "Komponen semikonduktor yang berfungsi sebagai saklar elektronik atau penguat sinyal adalah...",
+    "opsi": [
+      "Resistor",
+      "Kapasitor",
+      "Induktor",
+      "Transformator",
+      "Transistor"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Transistor memiliki tiga kaki utama: Basis, Kolektor, dan Emitor."
+  },
+  {
+    "id": "SMK_MK_06",
+    "pertanyaan": "Sensor yang digunakan untuk mendeteksi keberadaan objek logam tanpa menyentuhnya adalah...",
+    "opsi": [
+      "Sensor Proximity Induktif",
+      "Sensor LDR",
+      "Sensor Ultrasonik",
+      "Termokopel",
+      "Limit Switch"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Proximity induktif bekerja berdasarkan medan elektromagnetik untuk mendeteksi logam."
+  },
+  {
+    "id": "SMK_MK_07",
+    "pertanyaan": "Aktuator yang mampu berputar dengan presisi sudut tertentu (derajat) dan sering digunakan pada lengan robot adalah...",
+    "opsi": [
+      "Motor AC",
+      "Motor Servo",
+      "Motor DC Magnet Permanen",
+      "Solenoid",
+      "Kompresor"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Motor servo memiliki sistem feedback untuk kontrol posisi yang akurat."
+  },
+  {
+    "id": "SMK_MK_08",
+    "pertanyaan": "Singkatan dari PLC dalam sistem otomasi industri adalah...",
+    "opsi": [
+      "Power Logic Circuit",
+      "Personal Logical Control",
+      "Programmable Logic Controller",
+      "Primary Line Connection",
+      "Pneumatic Logic Component"
+    ],
+    "jawaban": 2,
+    "pembahasan": "PLC adalah komputer khusus industri untuk mengontrol proses manufaktur."
+  },
+  {
+    "id": "SMK_MK_09",
+    "pertanyaan": "Bahasa pemrograman PLC yang paling umum digunakan dan berbentuk mirip diagram rangkaian listrik disebut...",
+    "opsi": [
+      "C++",
+      "Python",
+      "Structured Text (ST)",
+      "Ladder Diagram (LD)",
+      "Assembly"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ladder Diagram menggunakan simbol kontak (NO/NC) dan coil (Output)."
+  },
+  {
+    "id": "SMK_MK_10",
+    "pertanyaan": "Dalam sistem pneumatik, media yang digunakan untuk mentransfer energi adalah...",
+    "opsi": [
+      "Oli Hidrolik",
+      "Listrik",
+      "Air",
+      "Uap panas",
+      "Udara Bertekanan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pneumatik menggunakan udara yang dikompresi oleh kompresor."
+  },
+  {
+    "id": "SMK_MK_11",
+    "pertanyaan": "Komponen hidrolik yang berfungsi sebagai penampung oli sekaligus pendingin adalah...",
+    "opsi": [
+      "Reservoir (Tangki)",
+      "Pompa",
+      "Akumulator",
+      "Filter",
+      "Valve"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Reservoir adalah tempat penyimpanan oli hidrolik dalam sistem."
+  },
+  {
+    "id": "SMK_MK_12",
+    "pertanyaan": "Alat yang berfungsi mengubah energi listrik menjadi energi mekanik putar adalah...",
+    "opsi": [
+      "Generator",
+      "Motor Listrik",
+      "Transformator",
+      "Inverter",
+      "Baterai"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Motor listrik bekerja berdasarkan prinsip induksi elektromagnetik."
+  },
+  {
+    "id": "SMK_MK_13",
+    "pertanyaan": "Mikrokontroler populer yang bersifat Open Source dan mudah dipelajari untuk pemula mekatronika adalah...",
+    "opsi": [
+      "Pentium 4",
+      "Core i7",
+      "Arduino",
+      "Raspberry Pi 5",
+      "PLC Siemens"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Arduino menyediakan platform hardware dan software yang mudah digunakan."
+  },
+  {
+    "id": "SMK_MK_14",
+    "pertanyaan": "Gerbang logika yang keluarannya akan bernilai '1' hanya jika kedua masukannya bernilai '1' adalah...",
+    "opsi": [
+      "OR",
+      "NOT",
+      "XOR",
+      "AND",
+      "NAND"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Gerbang AND (Dan) memerlukan semua input ON untuk mengaktifkan output."
+  },
+  {
+    "id": "SMK_MK_15",
+    "pertanyaan": "Komponen pneumatik yang berfungsi menggerakkan beban secara linier (maju-mundur) adalah...",
+    "opsi": [
+      "Kompresor",
+      "Katup 3/2",
+      "Manometer",
+      "Selang",
+      "Silinder (Actuator)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Silinder mengubah energi udara bertekanan menjadi gerakan mekanik linier."
+  },
+  {
+    "id": "SMK_MK_16",
+    "pertanyaan": "Apa keunggulan sistem hidrolik dibandingkan sistem pneumatik?",
+    "opsi": [
+      "Mampu mengangkat beban yang jauh lebih berat (tenaga besar)",
+      "Lebih bersih",
+      "Udara gratis didapat",
+      "Lebih murah perawatannya",
+      "Mudah dibuang jika bocor"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Fluida (oli) tidak mudah dikompresi sehingga tenaga yang dihasilkan lebih besar dan stabil."
+  },
+  {
+    "id": "SMK_MK_17",
+    "pertanyaan": "Robot yang dirancang untuk bekerja berdampingan dengan manusia dalam satu ruang kerja disebut...",
+    "opsi": [
+      "Humanoid",
+      "Collaborative Robot (Cobot)",
+      "Drone",
+      "AGV",
+      "Industrial Arm"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Cobot memiliki sensor keamanan yang sensitif untuk mencegah cedera pada manusia."
+  },
+  {
+    "id": "SMK_MK_18",
+    "pertanyaan": "Komponen elektronika yang hanya mengalirkan arus listrik ke satu arah saja disebut...",
+    "opsi": [
+      "Resistor",
+      "Kapasitor",
+      "Dioda",
+      "Switch",
+      "Relay"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dioda berfungsi sebagai penyearah arus (Rectifier)."
+  },
+  {
+    "id": "SMK_MK_19",
+    "pertanyaan": "Relay adalah komponen saklar yang bekerja berdasarkan prinsip...",
+    "opsi": [
+      "Panas",
+      "Cahaya",
+      "Tekanan Udara",
+      "Elektromagnetik",
+      "Gaya Gravitasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Arus kecil pada koil menimbulkan medan magnet yang menarik kontak saklar."
+  },
+  {
+    "id": "SMK_MK_20",
+    "pertanyaan": "Metode pemecahan masalah pada sistem mekatronika dengan cara memeriksa satu per satu komponen dari input ke output disebut...",
+    "opsi": [
+      "Brainstorming",
+      "Debugging",
+      "Maintenance",
+      "Kalibrasi",
+      "Troubleshooting"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Troubleshooting bertujuan menemukan penyebab kegagalan sistem."
+  },
+  {
+    "id": "SMK_MK_21",
+    "pertanyaan": "Bagian mikrokontroler yang berfungsi untuk menyimpan program yang telah dibuat adalah...",
+    "opsi": [
+      "EEPROM / Flash Memory",
+      "RAM",
+      "Register",
+      "ALU",
+      "CPU"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Flash memory menyimpan program secara permanen meski listrik mati."
+  },
+  {
+    "id": "SMK_MK_22",
+    "pertanyaan": "Pin pada Arduino yang dapat menerima sinyal bervariasi antara 0 hingga 5 Volt disebut pin...",
+    "opsi": [
+      "Digital",
+      "Analog Input",
+      "PWM",
+      "GND",
+      "VCC"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Analog Pin menggunakan fitur ADC (Analog to Digital Converter)."
+  },
+  {
+    "id": "SMK_MK_23",
+    "pertanyaan": "Apa fungsi 'Pull-up Resistor' pada input mikrokontroler?",
+    "opsi": [
+      "Memperbesar arus",
+      "Mempercepat prosesor",
+      "Menghilangkan noise (sinyal mengambang) agar input tetap logika HIGH saat saklar terbuka",
+      "Mencegah kebakaran",
+      "Mengurangi tegangan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pull-up memastikan kondisi logika yang pasti (definitive state) pada pin input."
+  },
+  {
+    "id": "SMK_MK_24",
+    "pertanyaan": "Satuan kapasitansi pada komponen kapasitor adalah...",
+    "opsi": [
+      "Henry",
+      "Tesla",
+      "Weber",
+      "Farad",
+      "Coulomb"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Biasanya dinyatakan dalam mikroFarad (uF) atau nanoFarad (nF)."
+  },
+  {
+    "id": "SMK_MK_25",
+    "pertanyaan": "Transformator (Trafo) Step-down berfungsi untuk...",
+    "opsi": [
+      "Menaikkan arus",
+      "Mengubah AC menjadi DC",
+      "Menaikkan daya",
+      "Menyeimbangkan beban",
+      "Menurunkan tegangan AC"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Step-down menurunkan level tegangan AC (misal 220V ke 12V)."
+  },
+  {
+    "id": "SMK_MK_26",
+    "pertanyaan": "Pada sistem manufaktur otomatis, HMI (Human Machine Interface) berfungsi sebagai...",
+    "opsi": [
+      "Media visualisasi dan kontrol bagi operator untuk memantau mesin",
+      "Otak sistem",
+      "Kabel penghubung",
+      "Sumber daya listrik",
+      "Sensor suhu"
+    ],
+    "jawaban": 0,
+    "pembahasan": "HMI biasanya berupa layar sentuh (Touchscreen) yang terhubung ke PLC."
+  },
+  {
+    "id": "SMK_MK_27",
+    "pertanyaan": "Program di PLC yang berjalan terus menerus dari atas ke bawah dan kembali lagi ke atas disebut...",
+    "opsi": [
+      "Loop",
+      "Scan Cycle",
+      "Jump",
+      "Restart",
+      "Delay"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kecepatan scan cycle menentukan responsivitas sistem otomasi."
+  },
+  {
+    "id": "SMK_MK_28",
+    "pertanyaan": "Solenoid Valve pada sistem pneumatik dikendalikan oleh...",
+    "opsi": [
+      "Tangan operator",
+      "Tekanan air",
+      "Sinyal listrik (arus listrik)",
+      "Matahari",
+      "Baterai jam"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Solenoid mengubah sinyal elektrik menjadi gerakan mekanik untuk membuka/tutup katup."
+  },
+  {
+    "id": "SMK_MK_29",
+    "pertanyaan": "Alat yang digunakan untuk membersihkan udara dari air dan kotoran pada sistem pneumatik adalah...",
+    "opsi": [
+      "Kompresor",
+      "Silinder",
+      "Air Tank",
+      "FRL (Filter, Regulator, Lubricator)",
+      "Hose"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Unit FRL menjamin kualitas udara yang masuk ke sistem."
+  },
+  {
+    "id": "SMK_MK_30",
+    "pertanyaan": "Tindakan pencegahan agar mesin tidak rusak mendadak disebut...",
+    "opsi": [
+      "Corrective Maintenance",
+      "Breakdown Maintenance",
+      "Repair",
+      "Refurbishment",
+      "Preventive Maintenance (Perawatan Terencana)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Preventive maintenance meliputi pelumasan, pembersihan, dan inspeksi rutin."
+  },
+  {
+    "id": "SMK_MK_31",
+    "pertanyaan": "Satuan daya listrik adalah...",
+    "opsi": [
+      "Watt",
+      "Volt",
+      "Ampere",
+      "Joule",
+      "Newton"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Watt (W) adalah hasil kali Tegangan (V) dan Arus (I)."
+  },
+  {
+    "id": "SMK_MK_32",
+    "pertanyaan": "Motor stepper bergerak berdasarkan...",
+    "opsi": [
+      "Tegangan konstan",
+      "Pulsa-pulsa listrik (step)",
+      "Bahan bakar",
+      "Magnet kompas",
+      "Angin"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Satu pulsa menghasilkan satu langkah pergerakan sudut yang tetap."
+  },
+  {
+    "id": "SMK_MK_33",
+    "pertanyaan": "Sensor LDR (Light Dependent Resistor) bekerja berdasarkan perubahan...",
+    "opsi": [
+      "Suhu",
+      "Kelembaban",
+      "Intensitas Cahaya",
+      "Jarak",
+      "Tekanan suara"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Nilai hambatan LDR berbanding terbalik dengan cahaya yang mengenainya."
+  },
+  {
+    "id": "SMK_MK_34",
+    "pertanyaan": "Kontak saklar yang dalam keadaan normal (tidak ditekan) sudah dalam kondisi tertutup disebut...",
+    "opsi": [
+      "Normally Open (NO)",
+      "Toggle",
+      "Push Button",
+      "Normally Closed (NC)",
+      "Selector"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kontak NC akan terbuka (putus) saat saklar ditekan atau diaktifkan."
+  },
+  {
+    "id": "SMK_MK_35",
+    "pertanyaan": "Penggunaan alat pelindung diri (APD) yang paling penting saat menyolder rangkaian elektronika adalah...",
+    "opsi": [
+      "Helm",
+      "Sepatu bot",
+      "Earmuff",
+      "Pelampung",
+      "Masker dan kacamata pelindung"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Masker melindungi dari asap timbal (flux) dan kacamata dari percikan timah panas."
+  },
+  {
+    "id": "SMK_MK_36",
+    "pertanyaan": "Rangkaian 'Full Bridge Rectifier' (Dioda Jembatan) berfungsi untuk...",
+    "opsi": [
+      "Mengubah arus AC menjadi DC gelombang penuh",
+      "Menurunkan tegangan",
+      "Membuat filter sinyal",
+      "Menyimpan muatan",
+      "Mematikan rangkaian"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Empat dioda disusun untuk menyearahkan siklus positif dan negatif AC."
+  },
+  {
+    "id": "SMK_MK_37",
+    "pertanyaan": "Apa itu 'Sistem Open Loop' pada kontrol mekatronika?",
+    "opsi": [
+      "Sistem yang memiliki umpan balik",
+      "Sistem kontrol yang tidak menggunakan umpan balik (feedback) untuk mengoreksi kesalahan",
+      "Sistem yang selalu terbuka tutup",
+      "Sistem baterai",
+      "Sistem manual"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Contoh: Mesin cuci yang berhenti berdasarkan waktu, bukan tingkat kebersihan pakaian."
+  },
+  {
+    "id": "SMK_MK_38",
+    "pertanyaan": "Sistem kontrol 'Closed Loop' (Loop Tertutup) memerlukan komponen...",
+    "opsi": [
+      "Saklar manual",
+      "Kabel tebal",
+      "Sensor sebagai umpan balik (Feedback)",
+      "Lampu indikator",
+      "Sekring"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Output dipantau oleh sensor dan dibandingkan dengan input referensi."
+  },
+  {
+    "id": "SMK_MK_39",
+    "pertanyaan": "Dalam industri otomotif, robot pengelasan (Spot Welding) termasuk jenis robot...",
+    "opsi": [
+      "Mobile Robot",
+      "Humanoid",
+      "Diver",
+      "Articulated Robot (Lengan Robot)",
+      "Medical Robot"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Robot articulated memiliki banyak sendi (DOF) untuk menjangkau area sulit."
+  },
+  {
+    "id": "SMK_MK_40",
+    "pertanyaan": "Singkatan dari PWM yang sering digunakan untuk mengatur kecepatan motor DC adalah...",
+    "opsi": [
+      "Power Watt Management",
+      "Primary Wave Mode",
+      "Parallel Work Matrix",
+      "Position Weight Method",
+      "Pulse Width Modulation"
+    ],
+    "jawaban": 4,
+    "pembahasan": "PWM mengatur lebar pulsa tegangan untuk mengontrol rata-rata daya yang masuk ke motor."
+  },
+  {
+    "id": "SMK_MK_41",
+    "pertanyaan": "Apa fungsi 'Heat Sink' pada komponen elektronika daya?",
+    "opsi": [
+      "Membuang panas berlebih dari komponen ke udara sekitar",
+      "Sebagai hiasan",
+      "Menyerap air",
+      "Mambuat komponen dingin di dalam air",
+      "Penyangga kabel"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Tanpa heat sink, komponen seperti transistor daya atau IC dapat terbakar (Overheat)."
+  },
+  {
+    "id": "SMK_MK_42",
+    "pertanyaan": "Aliran elektron yang mengalir searah dari kutub positif ke negatif (secara teori konvensional) disebut arus...",
+    "opsi": [
+      "AC (Alternating Current)",
+      "DC (Direct Current)",
+      "Frekuensi",
+      "Gelombang sinus",
+      "Statis"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Baterai dan Aki adalah sumber arus DC. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"DC (Direct Current)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMK_MK_43",
+    "pertanyaan": "Alat yang digunakan untuk menyambungkan dua kabel dengan cara melelehkan timah adalah...",
+    "opsi": [
+      "Obeng",
+      "Tang Potong",
+      "Solder",
+      "Cutter",
+      "Kikir"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Soldering menciptakan sambungan listrik yang permanen dan kuat."
+  },
+  {
+    "id": "SMK_MK_44",
+    "pertanyaan": "Sistem bilangan yang hanya terdiri dari dua angka, 0 dan 1, disebut...",
+    "opsi": [
+      "Desimal",
+      "Oktal",
+      "Heksadesimal",
+      "Biner",
+      "Romawi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Biner adalah bahasa dasar sistem komputer dan digital."
+  },
+  {
+    "id": "SMK_MK_45",
+    "pertanyaan": "Manakah komponen berikut yang merupakan Aktuator Pneumatik?",
+    "opsi": [
+      "LDR",
+      "Arduino",
+      "Baterai",
+      "Resistor",
+      "Silinder Kerja Ganda"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Silinder mengubah energi pneumatik menjadi kerja mekanis."
+  },
+  {
+    "id": "SMK_MK_46",
+    "pertanyaan": "Warna khas pada kabel Grounding di instalasi listrik standar adalah...",
+    "opsi": [
+      "Kuning strip Hijau",
+      "Merah",
+      "Hitam",
+      "Biru",
+      "Cokelat"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ground berfungsi sebagai pengaman dari kebocoran arus."
+  },
+  {
+    "id": "SMK_MK_47",
+    "pertanyaan": "Apa kepanjangan SCADA dalam sistem monitoring industri?",
+    "opsi": [
+      "System Control and Digital Automation",
+      "Supervisory Control and Data Acquisition",
+      "Scanning Code and Digital Analysis",
+      "Standard Connection and Data Access",
+      "Serial Control and Digital Application"
+    ],
+    "jawaban": 1,
+    "pembahasan": "SCADA mengumpulkan data dari banyak PLC di lapangan untuk dipantau secara terpusat."
+  },
+  {
+    "id": "SMK_MK_48",
+    "pertanyaan": "Sensor PIR (Passive Infrared) sering digunakan untuk mendeteksi...",
+    "opsi": [
+      "Suhu air",
+      "Warna benda",
+      "Gerakan manusia (melalui radiasi panas tubuh)",
+      "Suara hujan",
+      "Tingkat kelembaban"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sensor PIR adalah komponen utama lampu otomatis atau alarm maling."
+  },
+  {
+    "id": "SMK_MK_49",
+    "pertanyaan": "Sebuah motor mekatronika sering dilengkapi dengan 'Encoder' untuk...",
+    "opsi": [
+      "Menambah tenaga",
+      "Menghemat listrik",
+      "Mendinginkan motor",
+      "Membaca posisi atau kecepatan putaran motor (Feedback)",
+      "Mempercantik tampilan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Encoder mengirimkan pulsa yang merepresentasikan pergerakan poros motor."
+  },
+  {
+    "id": "SMK_MK_50",
+    "pertanyaan": "Gelar bagi teknisi mekatronika lulusan SMK adalah...",
+    "opsi": [
+      "Sarjana Teknik",
+      "Teknisi Pratama (Amd)",
+      "Dokter Teknik",
+      "Manager",
+      "Lulusan Kompeten (Tenaga Terampil)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Siswa SMK dididik menjadi tenaga kerja terampil yang siap pakai di industri."
+  }
+]

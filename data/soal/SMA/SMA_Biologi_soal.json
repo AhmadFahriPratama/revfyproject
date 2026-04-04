@@ -1,0 +1,652 @@
+[
+  {
+    "id": "SMA_BIO_01",
+    "pertanyaan": "Organel sel yang berfungsi sebagai pusat pembangkit energi (ATP) adalah...",
+    "opsi": [
+      "Mitokondria",
+      "Nukleus",
+      "Ribosom",
+      "Lisosom",
+      "Badan Golgi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Mitokondria melakukan respirasi seluler untuk menghasilkan energi."
+  },
+  {
+    "id": "SMA_BIO_02",
+    "pertanyaan": "Perpindahan air melalui membran semipermeabel dari larutan encer ke pekat disebut...",
+    "opsi": [
+      "Difusi",
+      "Osmosis",
+      "Eksositosis",
+      "Endositosis",
+      "Transpor Aktif"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Osmosis adalah difusi khusus air demi mencapai kesetimbangan konsentrasi."
+  },
+  {
+    "id": "SMA_BIO_03",
+    "pertanyaan": "Organel yang hanya dimiliki oleh sel tumbuhan adalah...",
+    "opsi": [
+      "Mitokondria dan Nukleus",
+      "Ribosom dan Vakuola",
+      "Dinding Sel dan Kloroplas",
+      "Sentriol dan Lisosom",
+      "Membran Sel dan Sitoplasma"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dinding sel memberi kekakuan, dan kloroplas untuk fotosintesis."
+  },
+  {
+    "id": "SMA_BIO_04",
+    "pertanyaan": "Jaringan pengangkut pada tumbuhan yang mengedarkan hasil fotosintesis adalah...",
+    "opsi": [
+      "Xilem",
+      "Epidermis",
+      "Kambium",
+      "Floem",
+      "Parenkim"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Floem membawa gula dari daun ke seluruh bagian tubuh tumbuhan."
+  },
+  {
+    "id": "SMA_BIO_05",
+    "pertanyaan": "Enzim amilase di dalam mulut berfungsi untuk memecah...",
+    "opsi": [
+      "Lemak menjadi asam lemak",
+      "Protein menjadi asam amino",
+      "Vitamin menjadi mineral",
+      "Air menjadi oksigen",
+      "Karbohidrat (Amilum) menjadi glukosa/maltosa"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Penyernaan kimiawi karbohidrat dimulai di mulut dengan bantuan kelenjar ludah."
+  },
+  {
+    "id": "SMA_BIO_06",
+    "pertanyaan": "Bagian jantung yang berfungsi memompa darah kaya oksigen ke seluruh tubuh adalah...",
+    "opsi": [
+      "Bilik Kiri (Ventrikel Kiri)",
+      "Serambi Kanan",
+      "Bilik Kanan",
+      "Serambi Kiri",
+      "Vena Kava"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bilik kiri memiliki dinding otot tebal untuk memompa darah ke sistemik."
+  },
+  {
+    "id": "SMA_BIO_07",
+    "pertanyaan": "Pertukaran gas oksigen dan karbon dioksida terjadi di...",
+    "opsi": [
+      "Trakea",
+      "Alveolus",
+      "Bronkus",
+      "Hidung",
+      "Faring"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Alveolus adalah kantung udara tipis tempat difusi gas berlangsung."
+  },
+  {
+    "id": "SMA_BIO_08",
+    "pertanyaan": "Organ ekskresi yang berfungsi menyaring darah dan membuang limbah urea adalah...",
+    "opsi": [
+      "Hati",
+      "Paru-paru",
+      "Ginjal",
+      "Kulit",
+      "Usus Besar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Ginjal menghasilkan urine sebagai hasil penyaringan darah."
+  },
+  {
+    "id": "SMA_BIO_09",
+    "pertanyaan": "Hormon insulin diproduksi oleh organ...",
+    "opsi": [
+      "Hati",
+      "Lambung",
+      "Ginjal",
+      "Pankreas",
+      "Tiroid"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Islet Langerhans di pankreas mengatur kadar gula darah melalui insulin."
+  },
+  {
+    "id": "SMA_BIO_10",
+    "pertanyaan": "Unit dasar penyusun DNA disebut...",
+    "opsi": [
+      "Protein",
+      "Asam Amino",
+      "Kromosom",
+      "Gen",
+      "Nukleotida"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Nukleotida terdiri dari gula deoksiribosa, fosfat, dan basa nitrogen."
+  },
+  {
+    "id": "SMA_BIO_11",
+    "pertanyaan": "Pembelahan sel yang menghasilkan 4 sel anak dengan jumlah kromosom setengah dari induknya disebut...",
+    "opsi": [
+      "Meiosis",
+      "Mitosis",
+      "Amitosis",
+      "Fusi",
+      "Fragmentasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Meiosis terjadi pada pembentukan sel kelamin (gamet)."
+  },
+  {
+    "id": "SMA_BIO_12",
+    "pertanyaan": "Interaksi antara lebah dan bunga merupakan contoh simbiosis...",
+    "opsi": [
+      "Komensalisme",
+      "Mutualisme",
+      "Parasitisme",
+      "Amensalisme",
+      "Kompetisi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Keduanya diuntungkan: lebah dapat nektar, bunga terbantu penyerbukannya."
+  },
+  {
+    "id": "SMA_BIO_13",
+    "pertanyaan": "Bapak Evolusi yang mengemukakan teori seleksi alam adalah...",
+    "opsi": [
+      "Jean-Baptiste Lamarck",
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Louis Pasteur",
+      "Antonie van Leeuwenhoek"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Darwin merumuskan evolusi melalui pengamatan di kepulauan Galapagos."
+  },
+  {
+    "id": "SMA_BIO_14",
+    "pertanyaan": "Berikut adalah urutan tingkatan klasifikasi makhluk hidup dari tertinggi ke terendah...",
+    "opsi": [
+      "Spesies - Genus - Famili - Ordo - Kelas - Filum - Kingdom",
+      "Kingdom - Ordo - Filum - Genus - Spesies",
+      "Dunia - Akar - Daun - Bunga",
+      "Kingdom - Filum - Kelas - Ordo - Famili - Genus - Spesies",
+      "Hewan - Tumbuhan - Jamur"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Urutan taksonomi standar internasional. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Kingdom - Filum - Kelas - Ordo - Famili - Genus - Spesies\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_BIO_15",
+    "pertanyaan": "Zat hijau daun yang berperan menangkap energi cahaya matahari disebut...",
+    "opsi": [
+      "Karoten",
+      "Antosianin",
+      "Xantofil",
+      "Melanin",
+      "Klorofil"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Klorofil terdapat di dalam kloroplas. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Klorofil\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_BIO_16",
+    "pertanyaan": "Hasil akhir dari proses fotosintesis adalah...",
+    "opsi": [
+      "Oksigen dan Glukosa",
+      "CO2 dan Air",
+      "Energi dan Kalor",
+      "Asam Laktat",
+      "Karbon"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Fotosintesis mengubah CO2 dan H2O jadi makanan (C6H12O6) dan O2 menggunakan cahaya."
+  },
+  {
+    "id": "SMA_BIO_17",
+    "pertanyaan": "Penyakit akibat kurangnya jumlah hemoglobin atau sel darah merah disebut...",
+    "opsi": [
+      "Leukimia",
+      "Anemia",
+      "Hipotensi",
+      "Hipertensi",
+      "Hemofilia"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Anemia menyebabkan tubuh cepat lelah karena pasokan oksigen berkurang."
+  },
+  {
+    "id": "SMA_BIO_18",
+    "pertanyaan": "Kelainan genetika di mana darah sulit membeku saat luka adalah...",
+    "opsi": [
+      "Buta Warna",
+      "Albino",
+      "Hemofilia",
+      "Diabetes",
+      "Asma"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Hemofilia diturunkan secara genetik melalui kromosom X."
+  },
+  {
+    "id": "SMA_BIO_19",
+    "pertanyaan": "Pencernaan kimiawi protein di lambung dilakukan oleh enzim...",
+    "opsi": [
+      "Ptialin",
+      "Lipase",
+      "Maltase",
+      "Pepsin",
+      "Tripsin"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pepsin aktif dalam suasana asam (HCl) untuk memecah protein jadi pepton."
+  },
+  {
+    "id": "SMA_BIO_20",
+    "pertanyaan": "Alat pernapasan pada ikan adalah...",
+    "opsi": [
+      "Paru-paru",
+      "Trakea",
+      "Kulit",
+      "Stomata",
+      "Insang"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Insang menyerap oksigen terlarut di dalam air."
+  },
+  {
+    "id": "SMA_BIO_21",
+    "pertanyaan": "Bagian sel yang berfungsi mengatur seluruh aktivitas sel adalah...",
+    "opsi": [
+      "Nukleus (Inti Sel)",
+      "Sitoplasma",
+      "Membran",
+      "Ribosom",
+      "Vakuola"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Nukleus mengandung materi genetik yang mengontrol fungsi sel."
+  },
+  {
+    "id": "SMA_BIO_22",
+    "pertanyaan": "Tulang penyusun tengkorak termasuk jenis tulang...",
+    "opsi": [
+      "Tulang Pipa",
+      "Tulang Pipih",
+      "Tulang Pendek",
+      "Tulang Tak Beraturan",
+      "Tulang Rawan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tulang pipih berfungsi melindungi organ vital di dalamnya (otak)."
+  },
+  {
+    "id": "SMA_BIO_23",
+    "pertanyaan": "Persendian yang memungkinkan gerak ke segala arah disebut sendi...",
+    "opsi": [
+      "Sendi Engsel",
+      "Sendi Pelana",
+      "Sendi Peluru",
+      "Sendi Putar",
+      "Sendi Geser"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh: sendi pada bahu dan panggul. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Sendi Peluru\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_BIO_24",
+    "pertanyaan": "Urutan saluran peredaran darah kecil yang benar adalah...",
+    "opsi": [
+      "Jantung - Seluruh Tubuh - Jantung",
+      "Hati - Ginjal - Jantung",
+      "Otak - Jantung - Paru",
+      "Jantung - Paru-paru - Jantung",
+      "Vena - Arteri - Kapiler"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bilik Kanan -> Arteri Pulmonalis -> Paru -> Vena Pulmonalis -> Serambi Kiri."
+  },
+  {
+    "id": "SMA_BIO_25",
+    "pertanyaan": "Kumpulan dari beberapa populasi yang hidup di wilayah yang sama disebut...",
+    "opsi": [
+      "Individu",
+      "Biosfer",
+      "Ekosistem",
+      "Bioma",
+      "Komunitas"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Komunitas hanya mencakup komponen biotik (makhluk hidup)."
+  },
+  {
+    "id": "SMA_BIO_26",
+    "pertanyaan": "Bakteri yang membantu pembusukan makanan di usus besar manusia adalah...",
+    "opsi": [
+      "Escherichia coli",
+      "Salmonella typhi",
+      "Lactobacillus bulgaricus",
+      "Acetobacter xylinum",
+      "Mycobacterium"
+    ],
+    "jawaban": 0,
+    "pembahasan": "E. coli selain membusukkan sisa makanan juga memproduksi Vitamin K."
+  },
+  {
+    "id": "SMA_BIO_27",
+    "pertanyaan": "Zat yang memberikan warna biru-ungu pada bunga disebut...",
+    "opsi": [
+      "Klorofil",
+      "Antosianin",
+      "Karoten",
+      "Hb",
+      "Melanin"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Antosianin adalah pigmen larut air yang peka terhadap pH."
+  },
+  {
+    "id": "SMA_BIO_28",
+    "pertanyaan": "Respirasi aerob membutuhkan...",
+    "opsi": [
+      "Karbon Dioksida",
+      "Nitrogen",
+      "Oksigen",
+      "Sulfur",
+      "Alkohol"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Aerob berarti menggunakan oksigen bebas untuk memecah glukosa jadi energi."
+  },
+  {
+    "id": "SMA_BIO_29",
+    "pertanyaan": "Virus Covid-19 menyerang organ...",
+    "opsi": [
+      "Pencernaan",
+      "Saraf",
+      "Ekskresi",
+      "Pernapasan",
+      "Reproduksi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Target utamanya adalah jaringan paru-paru dan saluran napas."
+  },
+  {
+    "id": "SMA_BIO_30",
+    "pertanyaan": "Alat perkembangbiakan jantan pada bunga disebut...",
+    "opsi": [
+      "Putik",
+      "Mahkota",
+      "Kelopak",
+      "Tangkai",
+      "Benang Sari"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Benang sari memproduksi serbuk sari (polen)."
+  },
+  {
+    "id": "SMA_BIO_31",
+    "pertanyaan": "Hewan yang memakan tumbuhan dan hewan lain disebut...",
+    "opsi": [
+      "Omnivora",
+      "Herbivora",
+      "Karnivora",
+      "Insektivora",
+      "Detritivora"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Omnivora melingkupi pemakan segala (tumbuhan + daging)."
+  },
+  {
+    "id": "SMA_BIO_32",
+    "pertanyaan": "Ciri makhluk hidup yang bertujuan melestarikan jenisnya agar tidak punah adalah...",
+    "opsi": [
+      "Bernapas",
+      "Berkembang biak (Reproduksi)",
+      "Bergerak",
+      "Peka terhadap rangsang",
+      "Tumbuh"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Tanpa reproduksi, suatu spesies akan mengalami kepunahan."
+  },
+  {
+    "id": "SMA_BIO_33",
+    "pertanyaan": "Vitamin yang larut dalam lemak adalah...",
+    "opsi": [
+      "B dan C",
+      "Hanya C",
+      "A, D, E, dan K",
+      "Hanya B12",
+      "Semua vitamin"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Singkatan mudah ingat: ADEK. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"A, D, E, dan K\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_BIO_34",
+    "pertanyaan": "Pertumbuhan sekunder pada batang dikotil disebabkan oleh aktivitas...",
+    "opsi": [
+      "Ujung akar",
+      "Epidermis",
+      "Floem",
+      "Kambium",
+      "Xilem"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kambium membelah ke arah dalam membentuk xilem dan luar membentuk floem, sehingga batang membesar."
+  },
+  {
+    "id": "SMA_BIO_35",
+    "pertanyaan": "Penerapan bioteknologi konvensional dalam pembuatan tempe memanfaatkan jamur...",
+    "opsi": [
+      "Saccharomyces cerevisiae",
+      "Aspergillus niger",
+      "Neurospora sitophila",
+      "Penicillium",
+      "Rhizopus oryzae"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Rhizopus berfungsi membentuk hifa putih yang menyatukan kedelai jadi tempe."
+  },
+  {
+    "id": "SMA_BIO_36",
+    "pertanyaan": "Tulang belakang manusia terdiri dari 33 ruas. Bagian leher berjumlah...",
+    "opsi": [
+      "7 ruas",
+      "5 ruas",
+      "12 ruas",
+      "4 ruas",
+      "2 ruas"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Vertebra servikalis berjumlah 7 ruas. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"7 ruas\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "SMA_BIO_37",
+    "pertanyaan": "Otot yang bekerja secara tidak sadar dan terdapat pada dinding lambung adalah...",
+    "opsi": [
+      "Otot Lurik",
+      "Otot Polos",
+      "Otot Jantung",
+      "Otot Bisep",
+      "Otot Rangka"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Otot polos bekerja involunter di organ dalam."
+  },
+  {
+    "id": "SMA_BIO_38",
+    "pertanyaan": "Penulisan nama ilmiah yang benar untuk Padi adalah...",
+    "opsi": [
+      "oryza sativa",
+      "Oryza Sativa",
+      "Oryza sativa (italic/miring)",
+      "OryzaSativa",
+      "padi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sistem Binomial Nomenklatur: Kata pertama Huruf Kapital, kata kedua huruf kecil, keduanya dicetak miring/garis bawahi."
+  },
+  {
+    "id": "SMA_BIO_39",
+    "pertanyaan": "Urutan jalannya udara pernapasan saat menghirup adalah...",
+    "opsi": [
+      "Mulut - Ginjal - Paru",
+      "Trakea - hidung - faring",
+      "Jantung - Paru - Hidung",
+      "Hidung - Faring - Laring - Trakea - Alveolus",
+      "Hidung - Mulut - Perut"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Udara pertama kali disaring dan dilembabkan di rongga hidung."
+  },
+  {
+    "id": "SMA_BIO_40",
+    "pertanyaan": "Hubungan antara tulang yang satu dengan tulang lainnya yang tidak dapat digerakkan sama sekali disebut...",
+    "opsi": [
+      "Amfiartrosis",
+      "Diartrosis",
+      "Artikulasi",
+      "Fraktura",
+      "Sinartrosis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Contoh: antar tulang penyusun batok kepala."
+  },
+  {
+    "id": "SMA_BIO_41",
+    "pertanyaan": "Pusat keseimbangan tubuh pada otak terletak di...",
+    "opsi": [
+      "Otak Kecil (Serebelm)",
+      "Otak Besar (Serebrum)",
+      "Sumsum Lanjutan",
+      "Hipotalamus",
+      "Talamus"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Serebelum mengoordinasi gerakan otot dan menjaga keseimbangan."
+  },
+  {
+    "id": "SMA_BIO_42",
+    "pertanyaan": "Unit fungsional terkecil dari ginjal disebut...",
+    "opsi": [
+      "Neuron",
+      "Nefron",
+      "Alveolus",
+      "Vili",
+      "Kapiler"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Satu ginjal memiliki jutaan nefron untuk filtrasi darah."
+  },
+  {
+    "id": "SMA_BIO_43",
+    "pertanyaan": "Ciri khas bioteknologi modern adalah...",
+    "opsi": [
+      "Hanya menggunakan mikroba secara utuh",
+      "Hanya untuk produk makanan",
+      "Melibatkan manipulasi gen atau DNA (Rekayasa Genetika)",
+      "Tidak menggunakan alat laboratorium",
+      "Proses fermentasi sederhana"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contohnya pembuatan hormon insulin buatan."
+  },
+  {
+    "id": "SMA_BIO_44",
+    "pertanyaan": "Penyakit 'Kencing Manis' disebabkan oleh kurangnya hormon...",
+    "opsi": [
+      "Adrenalin",
+      "Tiroksin",
+      "Estrogen",
+      "Insulin",
+      "Testosteron"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Insulin gagal memasukkan glukosa dari darah ke dalam sel."
+  },
+  {
+    "id": "SMA_BIO_45",
+    "pertanyaan": "Berikut ini komponen abiotik dalam ekosistem, KECUALI...",
+    "opsi": [
+      "Suhu",
+      "Cahaya matahari",
+      "Tanah",
+      "Derajat keasaman (pH)",
+      "Pengurai (Jamur/Bakteri)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pengurai adalah komponen biotik (hidup)."
+  },
+  {
+    "id": "SMA_BIO_46",
+    "pertanyaan": "Alat reproduksi wanita yang berfungsi sebagai tempat pembuahan (fertilisasi) adalah...",
+    "opsi": [
+      "Oviduk (Tuba Fallopi)",
+      "Rahim (Uterus)",
+      "Vagina",
+      "Ovarium",
+      "Serviks"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pertemuan sel telur dan sperma terjadi di saluran telur (Oviduk)."
+  },
+  {
+    "id": "SMA_BIO_47",
+    "pertanyaan": "Zat aditif makanan yang berfungsi sebagai pewarna alami oranye adalah...",
+    "opsi": [
+      "Daun Pandan",
+      "Kunyit / Wortel",
+      "Buah Naga",
+      "Tartrazin",
+      "MSG"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kunyit mengandung kurkumin yang memberi warna kuning-oranye."
+  },
+  {
+    "id": "SMA_BIO_48",
+    "pertanyaan": "Bagian darah yang berfungsi mengangkut oksigen adalah...",
+    "opsi": [
+      "Plasma Darah",
+      "Sel Darah Putih (Leukosit)",
+      "Sel Darah Merah (Eritrosit)",
+      "Keping Darah (Trombosit)",
+      "Sari Makanan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Eritrosit mengandung hemoglobin yang mengikat oksigen."
+  },
+  {
+    "id": "SMA_BIO_49",
+    "pertanyaan": "Teori biogenesis 'Omne vivum ex vivo' berarti...",
+    "opsi": [
+      "Makhluk hidup berasal dari benda mati",
+      "Makhluk hidup berasal dari telur",
+      "Dunia diciptakan secara tiba-tiba",
+      "Makhluk hidup berasal dari makhluk hidup sebelumnya",
+      "Kehidupan berasal dari ketiadaan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Membantah teori Abiogenesis (Generatio Spontanea)."
+  },
+  {
+    "id": "SMA_BIO_50",
+    "pertanyaan": "Organel yang berperan dalam proses pencernaan intraseluler adalah...",
+    "opsi": [
+      "Mitokondria",
+      "Sentriol",
+      "Vakuola",
+      "Dinding Sel",
+      "Lisosom"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Lisosom mengandung enzim hidrolitik untuk memecah zat di dalam sel."
+  }
+]

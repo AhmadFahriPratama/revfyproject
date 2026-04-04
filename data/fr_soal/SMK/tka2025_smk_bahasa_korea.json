@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_KR_01",
+    "pertanyaan": "FR Dunia Kerja: Saat menyapa atasan (Sajangnim) di pagi hari di kantor Korea, sikap yang benar adalah...",
+    "opsi": [
+      "Annyeong haseyo, Sajangnim (sambil membungkukkan badan)",
+      "Annyeong!",
+      "Makan yuk Pak",
+      "Oi!",
+      "Yoboseyo"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Membungkuk menunjukkan rasa hormat kepada senior/atasan.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KR_02",
+    "pertanyaan": "FR Budaya Makan: Saat makan bersama orang Korea yang lebih tua (senior), etika yang benar adalah...",
+    "opsi": [
+      "Mulai makan duluan sebelum senior",
+      "Menunggu orang yang paling tua mulai makan terlebih dahulu sebagai tanda hormat",
+      "Makan sambil berdiri",
+      "Berbicara sangat keras",
+      "Langsung pulang sebelum selesai"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KR_03",
+    "pertanyaan": "FR Sosial: Mengapa orang Korea sering menanyakan umur saat pertama kali bertemu?",
+    "opsi": [
+      "Hanya penasaran",
+      "Supaya bisa kasih hadiah",
+      "Untuk menentukan tingkatan bahasa (Polite/Banmal) yang akan digunakan",
+      "Ingin tahu kapan ulang tahun",
+      "Lagi iseng"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KR_04",
+    "pertanyaan": "FR Industri: Apa nama program resmi pemerintah Indonesia-Korea untuk pengiriman tenaga kerja SMK ke Korea?",
+    "opsi": [
+      "Program Jisshuu",
+      "Hanyu",
+      "SJLPT",
+      "EPS-TOPIK (Program G to G)",
+      "KLPT"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_KR_05",
+    "pertanyaan": "FR Digital: Kata 'Palli-palli' (Cepat-cepat) menggambarkan budaya Korea yang...",
+    "opsi": [
+      "Suka lambat",
+      "Suka malas-malasan",
+      "Hanya suka berlari",
+      "Tidak suka waktu",
+      "Sangat dinamis, kompetitif, dan menghargai kecepatan efisiensi"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

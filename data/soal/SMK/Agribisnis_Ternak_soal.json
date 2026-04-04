@@ -1,0 +1,652 @@
+[
+  {
+    "id": "AG_TR_01",
+    "pertanyaan": "Hewan yang memiliki sistem pencernaan khusus (lambung jamak) untuk mengolah serat kasar seperti rumput disebut...",
+    "opsi": [
+      "Ruminansia",
+      "Unggas",
+      "Karnivora",
+      "Omnivora",
+      "Primata"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Ruminansia (seperti sapi, kambing) memiliki lambung yang terbagi menjadi 4 bagian: Rumen, Retikulum, Omasum, dan Abomasum."
+  },
+  {
+    "id": "AG_TR_02",
+    "pertanyaan": "Manakah yang termasuk ke dalam kelompok ternak ruminansia besar?",
+    "opsi": [
+      "Ayam",
+      "Sapi dan Kerbau",
+      "Kambing dan Domba",
+      "Kelinci",
+      "Itik"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sapi dan kerbau adalah contoh ruminansia dengan ukuran tubuh yang besar."
+  },
+  {
+    "id": "AG_TR_03",
+    "pertanyaan": "Ayam yang khusus dibudidayakan untuk diambil dagingnya disebut ayam...",
+    "opsi": [
+      "Petelur (Layer)",
+      "Hias",
+      "Pedaging (Broiler)",
+      "Aduan",
+      "Kampung"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Ayam broiler memiliki pertumbuhan otot (daging) yang sangat cepat dalam waktu singkat."
+  },
+  {
+    "id": "AG_TR_04",
+    "pertanyaan": "Ayam yang khusus dibudidayakan untuk diambil telurnya secara rutin disebut ayam...",
+    "opsi": [
+      "Broiler",
+      "Boiler",
+      "Pedaging",
+      "Layer / Petelur",
+      "Bangkok"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ayam layer mulai bertelur pada umur sekitar 18-20 minggu."
+  },
+  {
+    "id": "AG_TR_05",
+    "pertanyaan": "Bahan pangan yang merupakan sumber protein hewani cair terbaik yang dihasilkan oleh sapi perah adalah...",
+    "opsi": [
+      "Minyak",
+      "Daging",
+      "Telur",
+      "Keringat",
+      "Susu"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Susu sapi perah (seperti jenis Friesian Holstein) kaya akan lemak dan kalsium."
+  },
+  {
+    "id": "AG_TR_06",
+    "pertanyaan": "Bahan pakan ternak berupa rumput-rumputan atau kacang-kacangan disebut pakan...",
+    "opsi": [
+      "Hijauan",
+      "Konsentrat",
+      "Mineral",
+      "Vitamin",
+      "Fermentasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Hijauan adalah sumber serat utama bagi ternak ruminansia."
+  },
+  {
+    "id": "AG_TR_07",
+    "pertanyaan": "Pakan penguat yang memiliki kadar protein tinggi dan serat kasar rendah (biasanya berbentuk tepung atau butiran) disebut...",
+    "opsi": [
+      "Rumput Gajah",
+      "Konsentrat",
+      "Jerami",
+      "Legum",
+      "Silase"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Konsentrat mempercepat pertumbuhan dan meningkatkan produktivitas ternak."
+  },
+  {
+    "id": "AG_TR_08",
+    "pertanyaan": "Penyimpanan hijauan pakan ternak dalam kondisi segar melalui proses fermentasi di dalam silo disebut...",
+    "opsi": [
+      "Hay",
+      "Kompos",
+      "Silase",
+      "Konsentrat",
+      "Puyer"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Silase dilakukan agar pakan tetap bernutrisi tinggi meskipun saat musim kemarau."
+  },
+  {
+    "id": "AG_TR_09",
+    "pertanyaan": "Pakan hijauan yang dikeringkan di bawah sinar matahari untuk disimpan lama disebut...",
+    "opsi": [
+      "Silase",
+      "Pelet",
+      "Mash",
+      "Hay",
+      "Crumble"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Hay adalah rumput kering yang awet disimpan."
+  },
+  {
+    "id": "AG_TR_10",
+    "pertanyaan": "Kandang yang alasnya ditinggikan dari permukaan tanah (memiliki kolong) disebut kandang...",
+    "opsi": [
+      "Lemprak",
+      "Beton",
+      "Tertutup (Close House)",
+      "Koloni",
+      "Panggung"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Kandang panggung memudahkan pembersihan kotoran (feses) melalui celah lantai."
+  },
+  {
+    "id": "AG_TR_11",
+    "pertanyaan": "Lantai kandang ayam petelur yang dibuat miring ke arah depan bertujuan untuk...",
+    "opsi": [
+      "Agar telur yang dikeluarkan langsung menggelinding ke depan sehingga mudah diambil",
+      "Agar ayam mudah tidur",
+      "Supaya air minum tidak tumpah",
+      "Menambah keindahan",
+      "Membantu pencernaan ayam"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Meminimalkan risiko telur pecah atau kotor terkena injakan ayam."
+  },
+  {
+    "id": "AG_TR_12",
+    "pertanyaan": "Tindakan pencegahan penyakit pada ternak dengan cara menyuntikkan bibit penyakit yang sudah dilemahkan ke dalam tubuh disebut...",
+    "opsi": [
+      "Pengobatan",
+      "Vaksinasi",
+      "Sterilisasi",
+      "Karantina",
+      "Inseminasi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Vaksinasi melatih sistem imun tubuh ternak agar kebal terhadap penyakit tertentu."
+  },
+  {
+    "id": "AG_TR_13",
+    "pertanyaan": "Penyakit menular pada hewan yang dapat menular ke manusia disebut penyakit...",
+    "opsi": [
+      "Epidemi",
+      "Pandemi",
+      "Zoonosis",
+      "Simbiosis",
+      "Parasit"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Contoh zoonosis: Flu Burung (H5N1), Antraks, Rabies."
+  },
+  {
+    "id": "AG_TR_14",
+    "pertanyaan": "Penyakit kaki dan mulut (PMK) biasanya menyerang ternak golongan...",
+    "opsi": [
+      "Unggas",
+      "Burung Puyuh",
+      "Kucing",
+      "Ruminansia dan Babi (hewan berkuku belah)",
+      "Ikan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "PMK sangat menular dan merugikan peternak sapi/kambing."
+  },
+  {
+    "id": "AG_TR_15",
+    "pertanyaan": "Hewan penghasil serat kain wol yang terkenal dengan bulunya yang tebal adalah...",
+    "opsi": [
+      "Kambing Kacang",
+      "Sapi Limousin",
+      "Kuda",
+      "Kelinci Anggora",
+      "Domba (Merino)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Domba merino dicukur bulunya untuk industri tekstil."
+  },
+  {
+    "id": "AG_TR_16",
+    "pertanyaan": "Istilah 'Laktasi' pada sapi perah merujuk pada periode...",
+    "opsi": [
+      "Masa produksi susu (menyusui)",
+      "Masa kehamilan",
+      "Masa birahi",
+      "Masa penggemukan",
+      "Masa pertumbuhan awal"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sapi harus dipantau nutrisinya agar produksi susu laktasi maksimal."
+  },
+  {
+    "id": "AG_TR_17",
+    "pertanyaan": "Teknik perkawinan buatan dengan bantuan manusia dengan cara memasukkan semen (sperma) ke rahim betina disebut...",
+    "opsi": [
+      "Perkawinan Alam",
+      "Inseminasi Buatan (IB) / Kawin Suntik",
+      "Kloning",
+      "Mutasi Gen",
+      "Bayi Tabung"
+    ],
+    "jawaban": 1,
+    "pembahasan": "IB mempercepat perbaikan mutu genetik ternak tanpa mendatangkan pejantan besar secara fisik."
+  },
+  {
+    "id": "AG_TR_18",
+    "pertanyaan": "Wadah atau tempat untuk menetaskan telur secara buatan menggunakan pengatur suhu panas disebut...",
+    "opsi": [
+      "Kandang Koloni",
+      "Kotak Kayu",
+      "Mesin Tetas (Incubator)",
+      "Oven",
+      "Sarung Tangan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mesin tetas meniru suhu hangat tubuh induk ayam saat mengerami."
+  },
+  {
+    "id": "AG_TR_19",
+    "pertanyaan": "Bahan yang ditaburkan di alas kandang ayam (sekam/serbuk gergaji) untuk menyerap kotoran dan menjaga suhu disebut...",
+    "opsi": [
+      "Pupuk",
+      "Pakan",
+      "Vitamin",
+      "Litter",
+      "Seprai"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Litter harus tetap kering agar kaki ayam tidak terkena amonia dari kotorannya."
+  },
+  {
+    "id": "AG_TR_20",
+    "pertanyaan": "Tanda-tanda ternak yang sedang sakit adalah, kecuali...",
+    "opsi": [
+      "Nafsu makan menurun drastis",
+      "Suhu tubuh di atas atau di bawah normal",
+      "Mata sayu dan hidung kering (pada ruminansia)",
+      "Kotoran encer atau berdarah",
+      "Lincah dan aktif bergerak"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Ternak lincah adalah tanda ternak sehat."
+  },
+  {
+    "id": "AG_TR_21",
+    "pertanyaan": "Gas yang dihasilkan dari limbah kotoran ternak yang ditampung dalam wadah kedap udara (biodigester) disebut...",
+    "opsi": [
+      "Biogas (Metana)",
+      "Gas LPG",
+      "Gas Oksigen",
+      "Gas Nitrogen",
+      "Asap"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Biogas dapat digunakan sebagai bahan bakar memasak yang ramah lingkungan."
+  },
+  {
+    "id": "AG_TR_22",
+    "pertanyaan": "Pemotongan tanduk pada pedet (anak sapi) dilakukan agar...",
+    "opsi": [
+      "Sapi terlihat cantik",
+      "Mencegah perkelahian antar ternak yang dapat melukai satu sama lain",
+      "Tanduk tidak patah",
+      "Sapi lebih cepat gemuk",
+      "Sapi tidak berteriak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mengurangi risiko cidera pada ternak dan peternak."
+  },
+  {
+    "id": "AG_TR_23",
+    "pertanyaan": "Bibit ayam umur satu hari sampai beberapa hari disebut dengan istilah...",
+    "opsi": [
+      "Pullet",
+      "DOD (Day Old Duck)",
+      "DOC (Day Old Chick)",
+      "Cockerel",
+      "Hen"
+    ],
+    "jawaban": 2,
+    "pembahasan": "DOC memerlukan perawatan suhu hangat (brooding) yang sangat teliti."
+  },
+  {
+    "id": "AG_TR_24",
+    "pertanyaan": "Penyediaan lampu penghangat di dalam kandang DOC ayam disebut tahap...",
+    "opsi": [
+      "Grower",
+      "Finishing",
+      "Mating",
+      "Brooding",
+      "Catching"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Membantu anak ayam yang belum memiliki bulu tebal untuk menjaga suhu tubuh."
+  },
+  {
+    "id": "AG_TR_25",
+    "pertanyaan": "Ciri khas ternak ruminansia adalah memiliki kebiasaan...",
+    "opsi": [
+      "Terbang tinggi",
+      "Berenang di air",
+      "Memangsa hewan lain",
+      "Tidur sambil berdiri",
+      "Memamah biak (mengeluarkan kembali makanan dari perut untuk dikunyah lagi)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Dilakukan agar pakan berserat kasar menjadi lebih halus dan mudah dicerna mikroba lambung."
+  },
+  {
+    "id": "AG_TR_26",
+    "pertanyaan": "Usaha peternakan yang bertujuan untuk menghasilkan bibit atau keturunan unggul disebut peternakan...",
+    "opsi": [
+      "Breeding (Pembibitan)",
+      "Fattening (Penggemukan)",
+      "Trading (Perdagangan)",
+      "Slaughtering (Pemotongan)",
+      "Processing (Pengolahan)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Fokus pada seleksi genetik dan reproduksi."
+  },
+  {
+    "id": "AG_TR_27",
+    "pertanyaan": "Usaha peternakan yang bertujuan untuk menghasilkan berat badan maksimal dalam waktu singkat untuk dijual dagingnya disebut...",
+    "opsi": [
+      "Breeding",
+      "Fattening (Penggemukan)",
+      "Perawatan",
+      "Penelitian",
+      "Eksperimen"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sering diterapkan pada sapi potong dan ayam broiler."
+  },
+  {
+    "id": "AG_TR_28",
+    "pertanyaan": "Unsur hara dalam pakan yang berfungsi sebagai pembangun otot (daging) dan jaringan tubuh adalah...",
+    "opsi": [
+      "Karbohidrat",
+      "Serat Kasar",
+      "Protein",
+      "Lemak",
+      "Mineral"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pakan tinggi protein sangat penting pada masa pertumbuhan."
+  },
+  {
+    "id": "AG_TR_29",
+    "pertanyaan": "Unsur hara dalam pakan yang berfungsi sebagai sumber energi utama untuk beraktivitas adalah...",
+    "opsi": [
+      "Protein",
+      "Vitamin",
+      "Air",
+      "Lemak dan Karbohidrat",
+      "Kapuk"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Bahan pakan sumber energi contohnya jagung dan dedak padi."
+  },
+  {
+    "id": "AG_TR_30",
+    "pertanyaan": "Alat pengukur suhu udara di dalam kandang ternak adalah...",
+    "opsi": [
+      "Barometer",
+      "Higrometer",
+      "Amperemeter",
+      "Anemometer",
+      "Termometer"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Suhu yang terlalu panas dapat menyebabkan ternak mengalami stres panas (heat stress)."
+  },
+  {
+    "id": "AG_TR_31",
+    "pertanyaan": "Komponen pakan tambahan dalam jumlah sedikit namun penting untuk metabolisme (misal premix) disebut...",
+    "opsi": [
+      "Feed Additive / suplemen",
+      "Bahan Utama",
+      "Garam saja",
+      "Racun",
+      "Air"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Additive mengandung asam amino sintetik, vitamin, dan mineral mikro."
+  },
+  {
+    "id": "AG_TR_32",
+    "pertanyaan": "Zat kapur (Kalsium) sangat penting bagi ayam petelur untuk...",
+    "opsi": [
+      "Memperindah bulu",
+      "Pembentukan kerabang (cangkang) telur yang kuat agar tidak mudah pecah",
+      "Supaya suara ayam kencang",
+      "Menambah nafsu makan",
+      "Mencegah kantuk"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kekurangan kalsium menyebabkan telur berkulit lembek."
+  },
+  {
+    "id": "AG_TR_33",
+    "pertanyaan": "Sediaan vaksin yang dimasukkan melalui air minum atau dicampur pakan biasanya untuk ternak...",
+    "opsi": [
+      "Sapi",
+      "Kuda",
+      "Unggas (Ayam/Itik)",
+      "Gajah",
+      "Unta"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Sangat efektif untuk memvaksinasi ribuan ekor ayam sekaligus."
+  },
+  {
+    "id": "AG_TR_34",
+    "pertanyaan": "Prosedur 'Biosekuriti' di peternakan bertujuan untuk...",
+    "opsi": [
+      "Menghitung jumlah ternak",
+      "Membayar asuransi",
+      "Membeli pakan murah",
+      "Mencegah masuk dan menyebarnya kuman penyakit ke dalam area peternakan",
+      "Membatalkan pesanan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: penyemprotan disinfektan pada kendaraan yang masuk dan pembatasan orang asing."
+  },
+  {
+    "id": "AG_TR_35",
+    "pertanyaan": "Waktu pemanenan telur ayam ras petelur yang paling ideal dilakukan sebanyak...",
+    "opsi": [
+      "Seminggu sekali",
+      "Sebulan sekali",
+      "Hanya saat dibutuhkan saja",
+      "Saat malam hari",
+      "1-3 kali sehari supaya telur tetap bersih dan segar"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Telur yang terlalu lama di kandang berisiko pecah atau kotor."
+  },
+  {
+    "id": "AG_TR_36",
+    "pertanyaan": "Warna kuning telur dipengaruhi oleh kandungan...",
+    "opsi": [
+      "Zat pigmen (misal jagung kuning) dalam pakan",
+      "Air dalam pakan",
+      "Kecepatan angin",
+      "Bentuk kandang",
+      "Suara musik di kandang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Jagung mengandung xantofil yang membuat kuning telur berwarna jingga sehat."
+  },
+  {
+    "id": "AG_TR_37",
+    "pertanyaan": "Hasil sampingan peternakan berupa kotoran ternak dapat diolah menjadi...",
+    "opsi": [
+      "Makanan manusia",
+      "Pupuk Organik / Kompos",
+      "Bahan bangunan beton",
+      "Plastik bungkus",
+      "Minyak goreng"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mengintegrasikan peternakan dan pertanian (integrasi ternak-tanaman)."
+  },
+  {
+    "id": "AG_TR_38",
+    "pertanyaan": "Alat untuk mengupas atau mencukur bulu domba disebut...",
+    "opsi": [
+      "Pisau Dapur",
+      "Pahat",
+      "Gunting Cukur Elektrik (Clippers)",
+      "Tang",
+      "Obeng"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dilakukan secara hati-hati agar tidak melukai kulit domba."
+  },
+  {
+    "id": "AG_TR_39",
+    "pertanyaan": "Sapi penghasil daging terbanyak (sapi potong) unggulan dunia, kecuali...",
+    "opsi": [
+      "Limousin",
+      "Simmental",
+      "Brahman",
+      "Friesian Holstein (FH)",
+      "Aberdeen Angus"
+    ],
+    "jawaban": 3,
+    "pembahasan": "FH atau Friesian Holstein adalah spesialis sapi perah (penghasil susu)."
+  },
+  {
+    "id": "AG_TR_40",
+    "pertanyaan": "Kebersihan air minum bagi ternak sangat penting karena...",
+    "opsi": [
+      "Agar air terlihat bening",
+      "Lampu kandang jadi terang",
+      "Harga air mahal",
+      "Supaya lantai kandang basah",
+      "Air adalah pelarut nutrisi dan pengatur suhu tubuh; air kotor sebagai sumber penyakit"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Air minum harus tersedia secara ad-libitum (tidak boleh habis)."
+  },
+  {
+    "id": "AG_TR_41",
+    "pertanyaan": "Istilah 'Culling' dalam peternakan artinya...",
+    "opsi": [
+      "Mengeluarkan atau membuang ternak yang produktivitasnya rendah atau sakit menular",
+      "Memberikan makan berlebih",
+      "Mempercantik kandang",
+      "Mengajak ternak jalan-jalan",
+      "Memfoto ternak"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Penting untuk efisiensi biaya pakan dan pencegahan penyakit."
+  },
+  {
+    "id": "AG_TR_42",
+    "pertanyaan": "Induk babi atau induk sapi yang sedang dalam masa menyusui anaknya memerlukan pakan dengan porsi...",
+    "opsi": [
+      "Lebih seidkit",
+      "Lebih banyak dan bergizi (berkualitas)",
+      "Tetap sama",
+      "Hanya air putih",
+      "Pakan yang sudah busuk"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Kebutuhan energi meningkat tajam untuk memproduksi air susu."
+  },
+  {
+    "id": "AG_TR_43",
+    "pertanyaan": "Aktivitas 'Herding' atau menggembala ternak di padang rumput terbuka dilakukan agar...",
+    "opsi": [
+      "Ternak merasa bosan",
+      "Ternak hilang",
+      "Ternak mendapatkan pakan segar langsung dan berolahraga di alam bebas",
+      "Agar ternak kehujanan",
+      "Dilihat oleh orang banyak"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Umum dilakukan pada peternakan domba atau sapi di padang rumput luas (savana)."
+  },
+  {
+    "id": "AG_TR_44",
+    "pertanyaan": "Pekerjaan 'Butcher' (Tukang Jagal) di RPH (Rumah Pemotongan Hewan) harus memperhatikan...",
+    "opsi": [
+      "Ketajaman pisau saja",
+      "Warna baju penonton",
+      "Uang tip",
+      "Kecepatan pemotongan dan prinsip kesejahteraan hewan (animal welfare) serta syariat agama (halal)",
+      "Model rambu lalu lintas"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penyembelihan harus dilakukan secara cepat dan higienis."
+  },
+  {
+    "id": "AG_TR_45",
+    "pertanyaan": "Bagian tubuh sapi yang paling banyak mengandung daging (otot) utama berada di...",
+    "opsi": [
+      "Ekor",
+      "Kepala",
+      "Mulut",
+      "Kuku",
+      "Paha belakang dan punggung (Loin)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Daerah sirloin dan tenderloin adalah bagian termahal."
+  },
+  {
+    "id": "AG_TR_46",
+    "pertanyaan": "Ikan lele, nila, dan gurami termasuk dalam bidang agribisnis...",
+    "opsi": [
+      "Perikanan (Akuakultur)",
+      "Tanaman Pangan",
+      "Peternakan Darat",
+      "Hutan Kemasyarakatan",
+      "Perkebunan Sawit"
+    ],
+    "jawaban": 0,
+    "pembahasan": "SMK Perikanan secara khusus mempelajari budidaya hewan air."
+  },
+  {
+    "id": "AG_TR_47",
+    "pertanyaan": "Berapakah jumlah kaki ayam normal?",
+    "opsi": [
+      "1 kaki",
+      "2 kaki",
+      "3 kaki",
+      "4 kaki",
+      "Tidak berkaki"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Ayam termasuk hewan bipedal (berkaki dua)."
+  },
+  {
+    "id": "AG_TR_48",
+    "pertanyaan": "Berasal dari manakah susu cair murni yang kita minum?",
+    "opsi": [
+      "Hasil peras buah kelapa",
+      "Hasil rebusan daging",
+      "Hasil peras ambing (puting) induk mamalia seperti sapi atau kambing",
+      "Air hujan",
+      "Laboratorium kimia murni"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Susu adalah sekresi kelenjar ambing untuk menutrisi anaknya."
+  },
+  {
+    "id": "AG_TR_49",
+    "pertanyaan": "Dalam industri telur, 'Egg Grading' dilakukan untuk mengecek telur, kecuali...",
+    "opsi": [
+      "Kebersihan cangkang",
+      "Keutuhan (tidak retak)",
+      "Ukuran/Berat",
+      "Warna ayam yang bertelur",
+      "Isi di dalamnya (melalui candling)"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Kualitas telur tidak ditentukan oleh warna bulu ayam penelurnya."
+  },
+  {
+    "id": "AG_TR_50",
+    "pertanyaan": "Mengapa peternak dilarang memberikan antibiotik secara sembarangan sebagai pemacu pertumbuhan ternak?",
+    "opsi": [
+      "Agar antibiotik tidak habis",
+      "Agar ternak tidak sombong",
+      "Karena obatnya pahit",
+      "Supaya ternak tetap kurus",
+      "Dapat meninggalkan residu berbahaya bagi kesehatan manusia yang mengonsumsi daging/telurnya"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Hormon pertumbuhan dan penyalahgunaan antibiotik (AGP) dilarang oleh pemerintah untuk keamanan pangan."
+  }
+]

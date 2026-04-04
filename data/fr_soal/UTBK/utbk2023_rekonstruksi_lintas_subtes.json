@@ -1,0 +1,344 @@
+{
+  "id": "fr-utbk-2023",
+  "tahun": 2023,
+  "mapel": "Lintas Subtes UTBK",
+  "deskripsi": "Rekonstruksi FR UTBK 2023 lintas subtes berdasarkan pola soal dan ringkasan testimoni peserta.",
+  "soal": [
+    {
+      "id": "f23-pu-01",
+      "hari_ujian": 5,
+      "subtes": "Penalaran Umum",
+      "teks": "Semua petugas yang mengikuti pelatihan wajib membawa berkas. Sebagian peserta pelatihan ternyata membawa berkas berlabel khusus. Simpulan yang pasti benar adalah?",
+      "opsi": {
+        "A": "Sebagian berkas dimiliki oleh petugas yang mengikuti pelatihan.",
+        "B": "Tidak ada petugas yang mengikuti pelatihan memiliki berkas.",
+        "C": "Semua petugas yang mengikuti pelatihan memiliki berkas.",
+        "D": "Tidak dapat disimpulkan hubungan antara berkas dan petugas yang mengikuti pelatihan.",
+        "E": "Semua berkas dimiliki oleh petugas yang mengikuti pelatihan."
+      },
+      "kunci": "A",
+      "pembahasan": "Karena semua petugas yang mengikuti pelatihan wajib membawa berkas, maka ketika diketahui sebagian peserta pelatihan membawa berkas berlabel khusus, paling aman disimpulkan bahwa sebagian berkas itu terkait peserta pelatihan. Opsi lain terlalu kuat atau bertentangan dengan premis.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-pu-02",
+      "hari_ujian": 1,
+      "subtes": "Penalaran Umum",
+      "teks": "Eka, Farhan, Alya, Bima harus presentasi satu per satu. Eka tampil sebelum Farhan. Alya tampil setelah Bima. Farhan tidak berdampingan dengan Bima. Urutan yang mungkin adalah?",
+      "opsi": {
+        "A": "Alya - Bima - Farhan - Eka",
+        "B": "Bima - Eka - Farhan - Alya",
+        "C": "Bima - Farhan - Eka - Alya",
+        "D": "Eka - Alya - Bima - Farhan",
+        "E": "Farhan - Bima - Alya - Eka"
+      },
+      "kunci": "B",
+      "pembahasan": "Periksa tiap opsi terhadap tiga syarat: posisi Eka sebelum Farhan, posisi Alya sesudah Bima, dan Farhan tidak berdampingan dengan Bima. Hanya urutan Bima - Eka - Farhan - Alya yang memenuhi semuanya.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-pu-03",
+      "hari_ujian": 2,
+      "subtes": "Penalaran Umum",
+      "teks": "Sebuah program kualitas udara mencatat capaian awal 140 satuan. Setelah intervensi pertama naik 52 satuan, tetapi pada evaluasi lanjutan turun 15 satuan. Kelompok pembanding berakhir pada 165 satuan. Simpulan yang paling tepat adalah?",
+      "opsi": {
+        "A": "Tidak ada perubahan pada topik kualitas udara karena kenaikan dan penurunan saling meniadakan.",
+        "B": "Program pada topik kualitas udara hanya meningkat jika dibandingkan dengan kelompok B.",
+        "C": "Program pada topik kualitas udara tetap menunjukkan peningkatan bersih sebesar 37 satuan.",
+        "D": "Kelompok B pasti lebih efektif daripada program pada topik kualitas udara.",
+        "E": "Program pada topik kualitas udara mengalami penurunan bersih sebesar 15 satuan."
+      },
+      "kunci": "C",
+      "pembahasan": "Capaian akhir program adalah 140 + 52 - 15 = 177. Jadi ada peningkatan bersih 37 satuan. Data kelompok pembanding tidak mengubah fakta peningkatan bersih program utama.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-pbm-01",
+      "hari_ujian": 5,
+      "subtes": "Pemahaman Bacaan dan Menulis",
+      "teks": "Manakah perbaikan kalimat yang paling efektif untuk menyampaikan gagasan tentang proposal kegiatan terkait ketahanan energi pada program semester ini?",
+      "opsi": {
+        "A": "proposal kegiatan tentang ketahanan energi perlu dikembangkan bertahap agar jelas tujuan sasaran dan indikator keberhasilannya adalah.",
+        "B": "proposal kegiatan tentang ketahanan energi dikembangkan berdasarkan data kebutuhan, karena supaya tujuan dan indikatornya jelas.",
+        "C": "proposal kegiatan tentang ketahanan energi perlu dikembangkan agar tujuan, sasaran, indikator keberhasilannya jelas berdasarkan data kebutuhan.",
+        "D": "proposal kegiatan tentang ketahanan energi perlu dikembangkan berdasarkan data kebutuhan agar tujuan, sasaran, dan indikator keberhasilannya jelas.",
+        "E": "proposal kegiatan tentang ketahanan energi perlu dikembangkan berdasarkan data kebutuhan agar tujuan yang jelas, sasaran, dan keberhasilan indikator."
+      },
+      "kunci": "D",
+      "pembahasan": "Kalimat benar harus hemat, logis, dan gramatikal. Opsi benar menjaga subjek-predikat tetap jelas serta menyusun rincian tujuan, sasaran, dan indikator secara paralel.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-pbm-02",
+      "hari_ujian": 1,
+      "subtes": "Pemahaman Bacaan dan Menulis",
+      "teks": "Susunlah kalimat berikut agar menjadi paragraf yang padu dalam proposal resmi. (1) proposal kegiatan tentang ketahanan energi diusulkan pada awal semester. (2) Guru meminta data kebutuhan siswa sebelum proposal kegiatan dijalankan. (3) Data tersebut dipakai untuk menentukan prioritas kegiatan. (4) Setelah prioritas ditetapkan, sekolah dikembangkan jadwal pelaksanaan berdasarkan data kebutuhan.",
+      "opsi": {
+        "A": "1-2-3-4",
+        "B": "2-3-1-4",
+        "C": "1-3-2-4",
+        "D": "3-2-1-4",
+        "E": "2-1-3-4"
+      },
+      "kunci": "E",
+      "pembahasan": "Kalimat (2) paling tepat menjadi pembuka karena memperkenalkan kebutuhan data. Kalimat (1) menjelaskan konteks usulan program, lalu (3) menjelaskan fungsi data, dan (4) menjadi akibat logis setelah prioritas ditentukan.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-pbm-03",
+      "hari_ujian": 2,
+      "subtes": "Pemahaman Bacaan dan Menulis",
+      "teks": "Kata baku yang tepat untuk mengisi bagian rumpang pada kalimat berikut adalah: \"Sekolah membutuhkan [rumpang] data sebelum menyusun kebijakan baru.\" Kalimat ini dipakai pada agenda pembelajaran untuk proposal kegiatan bertema ketahanan energi.",
+      "opsi": {
+        "A": "analisis",
+        "B": "penganalisa",
+        "C": "analitis",
+        "D": "teranalisis",
+        "E": "menganalisis"
+      },
+      "kunci": "A",
+      "pembahasan": "Kata yang dibutuhkan harus sesuai kelas kata dan konteks kalimat. Opsi benar adalah \"analisis\" karena paling tepat secara makna dan bentuk baku.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-ppu-01",
+      "hari_ujian": 5,
+      "subtes": "Pengetahuan dan Pemahaman Umum",
+      "teks": "Cermati kalimat berikut. Dalam kalimat \"Panitia bersikap netral agar penilaian tetap adil bagi semua peserta. pada tahap akhir penilaian dalam memo resmi dalam evaluasi angkatan baru.\", makna ungkapan \"netral\" yang paling dekat adalah?",
+      "opsi": {
+        "A": "sangat ragu",
+        "B": "tidak memihak",
+        "C": "memihak satu pihak",
+        "D": "sangat tegas",
+        "E": "terlalu lunak"
+      },
+      "kunci": "B",
+      "pembahasan": "Ungkapan \"netral\" harus dipahami dari konteks kalimat. Opsi benar adalah \"tidak memihak\" karena paling mendekati makna yang dimaksud, sedangkan pilihan lain tidak sesuai dengan nuansa konteksnya.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-ppu-02",
+      "hari_ujian": 1,
+      "subtes": "Pengetahuan dan Pemahaman Umum",
+      "teks": "Hubungan antarkata berikut setara dengan hubungan kata navigator : peta setara dengan hubungan kata pilot : kata manakah yang paling tepat?",
+      "opsi": {
+        "A": "penumpang",
+        "B": "agenda",
+        "C": "rute",
+        "D": "catatan",
+        "E": "ruangan"
+      },
+      "kunci": "C",
+      "pembahasan": "navigator berhubungan langsung dengan peta sebagai objek kerja utama. Secara setara, pilot berhubungan langsung dengan rute.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-ppu-03",
+      "hari_ujian": 2,
+      "subtes": "Pengetahuan dan Pemahaman Umum",
+      "teks": "Dalam daftar berikut yang paling tepat dirangkum dengan satu istilah payung pada latihan kategori pada penilaian proyek, istilah yang paling tepat untuk mencakup kata-kata gunting, kertas, penghapus, lem adalah?",
+      "opsi": {
+        "A": "bumbu dapur",
+        "B": "alat musik",
+        "C": "alat berat",
+        "D": "perlengkapan belajar",
+        "E": "bahan bakar"
+      },
+      "kunci": "D",
+      "pembahasan": "Semua unsur pada daftar termasuk ke dalam kategori \"perlengkapan belajar\". Pilihan lain tidak cukup luas atau justru berada pada kategori yang berbeda.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-pk-01",
+      "hari_ujian": 5,
+      "subtes": "Pengetahuan Kuantitatif",
+      "teks": "Nilai kuis Rina pada tiga pertemuan berturut-turut adalah 19, 11, dan 7. Rata-rata nilainya adalah?",
+      "opsi": {
+        "A": "37",
+        "B": "19",
+        "C": "13",
+        "D": "15",
+        "E": "12.33"
+      },
+      "kunci": "E",
+      "pembahasan": "Rata-rata = (19 + 11 + 7) / 3 = 37 / 3 = 12.33.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-pk-02",
+      "hari_ujian": 1,
+      "subtes": "Pengetahuan Kuantitatif",
+      "teks": "Sebuah kotak berisi 9 bola merah, 2 bola biru, dan 6 bola hijau. Jika diambil satu bola secara acak, peluang terambil bola merah adalah?",
+      "opsi": {
+        "A": "9/17",
+        "B": "9/11",
+        "C": "2/17",
+        "D": "11/17",
+        "E": "6/17"
+      },
+      "kunci": "A",
+      "pembahasan": "Peluang = banyak kejadian yang diinginkan / banyak seluruh kejadian = 9/17.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-pk-03",
+      "hari_ujian": 2,
+      "subtes": "Pengetahuan Kuantitatif",
+      "teks": "Jika x = 6 dan y = 7, maka nilai x^2 - y^2 adalah?",
+      "opsi": {
+        "A": "85",
+        "B": "-13",
+        "C": "-1",
+        "D": "-12",
+        "E": "0"
+      },
+      "kunci": "B",
+      "pembahasan": "Gunakan selisih kuadrat: x^2 - y^2 = (x + y)(x - y) = (6 + 7)(6 - 7) = 13 x -1 = -13.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-lbi-01",
+      "hari_ujian": 5,
+      "subtes": "Literasi dalam Bahasa Indonesia",
+      "teks": "Komunitas warga menguji program perpustakaan sekolah melalui jadwal layanan baru selama dua triwulan. Program itu tidak hanya berfokus pada keaktifan peserta, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada tahap awal, pelaksana kesulitan menyatukan data dari beberapa sumber. Pada akhir periode, keluhan warga turun 19 laporan dan capaian utama dinilai dari ketepatan pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nGagasan utama bacaan tersebut adalah?",
+      "opsi": {
+        "A": "Program dianggap berhasil hanya jika jumlah kegiatannya bertambah drastis.",
+        "B": "Evaluasi tidak diperlukan selama keaktifan peserta sudah tercatat.",
+        "C": "Keberhasilan program dinilai bukan hanya dari jumlah kegiatan, tetapi juga dari ketepatan pelaksanaan yang semakin stabil.",
+        "D": "Keberhasilan program tidak berkaitan dengan ketepatan pelaksanaan.",
+        "E": "Pelaksana program menolak semua bentuk pengukuran dampak."
+      },
+      "kunci": "C",
+      "pembahasan": "Bacaan menekankan bahwa ukuran keberhasilan tidak berhenti pada kenaikan peserta, tetapi terutama pada kualitas partisipasi yang stabil. Itulah ide sentral teks.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-lbi-02",
+      "hari_ujian": 1,
+      "subtes": "Literasi dalam Bahasa Indonesia",
+      "teks": "Komunitas warga menguji program perpustakaan sekolah melalui jadwal layanan baru selama dua triwulan. Program itu tidak hanya berfokus pada keaktifan peserta, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada tahap awal, pelaksana kesulitan menyatukan data dari beberapa sumber. Pada akhir periode, keluhan warga turun 19 laporan dan capaian utama dinilai dari ketepatan pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nSimpulan yang paling logis berdasarkan bacaan adalah?",
+      "opsi": {
+        "A": "Evaluasi menyebabkan ketepatan pelaksanaan pasti memburuk.",
+        "B": "Evaluasi membuat semua kegiatan sebelumnya menjadi tidak relevan.",
+        "C": "Evaluasi hanya berguna jika keaktifan peserta menurun tajam.",
+        "D": "Evaluasi yang baik membantu penilai melihat dampak program perpustakaan sekolah secara lebih akurat.",
+        "E": "Evaluasi tidak berkaitan dengan pengukuran dampak program."
+      },
+      "kunci": "D",
+      "pembahasan": "Teks menyatakan bahwa cara evaluasi diperbaiki agar dampak program terukur. Dari situ dapat disimpulkan bahwa evaluasi yang baik membuat dampak program lebih akurat untuk dinilai.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-lbi-03",
+      "hari_ujian": 2,
+      "subtes": "Literasi dalam Bahasa Indonesia",
+      "teks": "Komunitas warga menguji program perpustakaan sekolah melalui jadwal layanan baru selama dua triwulan. Program itu tidak hanya berfokus pada keaktifan peserta, tetapi juga memperbaiki cara evaluasi agar dampaknya lebih terukur. Pada tahap awal, pelaksana kesulitan menyatukan data dari beberapa sumber. Pada akhir periode, keluhan warga turun 19 laporan dan capaian utama dinilai dari ketepatan pelaksanaan yang semakin stabil, bukan semata-mata dari banyaknya kegiatan yang tercatat.\n\nMakna kata \"terukur\" pada bacaan tersebut paling dekat dengan?",
+      "opsi": {
+        "A": "disembunyikan dari publik",
+        "B": "dilaksanakan secara terpisah",
+        "C": "dijalankan dengan terburu-buru",
+        "D": "dipaksakan tanpa persiapan",
+        "E": "dapat dinilai dengan jelas"
+      },
+      "kunci": "E",
+      "pembahasan": "Dalam konteks bacaan, \"terukur\" berarti dapat dinilai atau dihitung dengan jelas. Kata yang paling dekat maknanya adalah \"terukur\" dalam arti measurable, bukan kata-kata lain yang tidak terkait dengan proses penilaian.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-lbe-01",
+      "hari_ujian": 5,
+      "subtes": "Literasi dalam Bahasa Inggris",
+      "teks": "A youth community tested a traffic discipline program for two terms through a new service schedule. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve attendance consistency. At the beginning, the organizers had trouble combining data from multiple sources. By the end of the period, community complaints fell by 23 reports, program consistency became more stable, and participants said the program was easier to follow.\n\nWhat is the main idea of the passage?",
+      "opsi": {
+        "A": "The program improved attendance consistency by using clear targets and consistent routines.",
+        "B": "The program failed because it offered too few activities.",
+        "C": "The institution removed all feedback sessions from the program.",
+        "D": "Participants found the program harder to follow over time.",
+        "E": "Improvement only happened after a budget increase."
+      },
+      "kunci": "A",
+      "pembahasan": "The passage explains that the school improved participation through clear targets, feedback, and consistent routines. Therefore, the best answer is the option that captures that central message.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-lbe-02",
+      "hari_ujian": 1,
+      "subtes": "Literasi dalam Bahasa Inggris",
+      "teks": "A youth community tested a traffic discipline program for two terms through a new service schedule. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve attendance consistency. At the beginning, the organizers had trouble combining data from multiple sources. By the end of the period, community complaints fell by 23 reports, program consistency became more stable, and participants said the program was easier to follow.\n\nWhy did participation become more stable?",
+      "opsi": {
+        "A": "Because teachers reduced all academic work.",
+        "B": "Because the routines were simpler and easier for participants to follow.",
+        "C": "Because the school stopped measuring participation.",
+        "D": "Because students were forced to join every activity.",
+        "E": "Because the program removed all targets and deadlines."
+      },
+      "kunci": "B",
+      "pembahasan": "The final sentence states that students found the program easier to follow. This supports the conclusion that simple routines helped participation become more stable.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-lbe-03",
+      "hari_ujian": 2,
+      "subtes": "Literasi dalam Bahasa Inggris",
+      "teks": "A youth community tested a traffic discipline program for two terms through a new service schedule. Instead of adding many new activities, the institution focused on clear targets, regular feedback, and simpler routines to improve attendance consistency. At the beginning, the organizers had trouble combining data from multiple sources. By the end of the period, community complaints fell by 23 reports, program consistency became more stable, and participants said the program was easier to follow.\n\nThe word \"stable\" in the passage is closest in meaning to?",
+      "opsi": {
+        "A": "unclear",
+        "B": "optional",
+        "C": "steady",
+        "D": "sudden",
+        "E": "fragile"
+      },
+      "kunci": "C",
+      "pembahasan": "In context, \"stable\" means steady or consistent over time. The other options do not match that meaning.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-pm-01",
+      "hari_ujian": 5,
+      "subtes": "Penalaran Matematika",
+      "teks": "Garis melalui titik (27, 80) dan (33, 116). Gradien garis tersebut adalah?",
+      "opsi": {
+        "A": "0.17",
+        "B": "5",
+        "C": "7",
+        "D": "6",
+        "E": "1.09"
+      },
+      "kunci": "D",
+      "pembahasan": "Gradien m = (y2 - y1)/(x2 - x1) = (116 - 80)/(33 - 27) = 36/6 = 6.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-pm-02",
+      "hari_ujian": 1,
+      "subtes": "Penalaran Matematika",
+      "teks": "Tarif parkir minibus di kampus dinyatakan dengan model y = 13x, dengan x menyatakan jumlah jam. Jika kendaraan parkir selama 7 jam, nilai y adalah?",
+      "opsi": {
+        "A": "98",
+        "B": "78",
+        "C": "-6",
+        "D": "20",
+        "E": "91"
+      },
+      "kunci": "E",
+      "pembahasan": "Masukkan x = 7 ke model y = 13x, sehingga y = 13 x 7 = 91.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    },
+    {
+      "id": "f23-pm-03",
+      "hari_ujian": 2,
+      "subtes": "Penalaran Matematika",
+      "teks": "Data hasil pengukuran adalah 36, 33, 50, 57. Jangkauan data tersebut adalah?",
+      "opsi": {
+        "A": "24",
+        "B": "57",
+        "C": "44",
+        "D": "69",
+        "E": "33"
+      },
+      "kunci": "A",
+      "pembahasan": "Jangkauan = nilai terbesar - nilai terkecil = 57 - 33 = 24.",
+      "sumber": "Rekonstruksi pola subtes UTBK 2023 dan rangkuman testimoni peserta"
+    }
+  ]
+}

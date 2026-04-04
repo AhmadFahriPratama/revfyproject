@@ -1,0 +1,77 @@
+[
+  {
+    "id": "FR_SMK_HTL_01",
+    "pertanyaan": "FR BNSP: Apa perbedaan 'Check' (mencentang) dan 'Double Check' dalam standar pembersihan kamar?",
+    "opsi": [
+      "Double check dilakukan oleh supervisor untuk memastikan kamar benar-benar 100% siap",
+      "Sama saja cuma nama beda",
+      "Check dilakukan tamu",
+      "Double check hanya untuk kamar VIP",
+      "Tidak perlu dicek"
+    ],
+    "jawaban": "A",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_HTL_02",
+    "pertanyaan": "FR Perhotelan: Saat tamu komplain air panas mati, langkah pertama staf FO adalah...",
+    "opsi": [
+      "Menyuruh tamu mandi air dingin",
+      "Meminta maaf, segera menghubungi bagian Engineering, dan memantau perbaikan",
+      "Menyalahkan cuaca",
+      "Menawarkan diskon langsung",
+      "Diam saja"
+    ],
+    "jawaban": "B",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_HTL_03",
+    "pertanyaan": "FR Event: Ruang pertemuan berukuran besar di hotel disebut...",
+    "opsi": [
+      "Suite",
+      "Kitchen",
+      "Ballroom",
+      "Lobby",
+      "Gallery"
+    ],
+    "jawaban": "C",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_HTL_04",
+    "pertanyaan": "FR Housekeeping: Apa yang harus dilakukan jika staf HK menemukan barang berharga milik tamu tertinggal di kamar (Lost & Found)?",
+    "opsi": [
+      "Disimpan sendiri",
+      "Dibuang",
+      "Diberikan ke teman",
+      "Segera melapor ke supervisor/FO dan mencatatkannya di buku Lost & Found",
+      "Pura-pura tidak melihat"
+    ],
+    "jawaban": "D",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  },
+  {
+    "id": "FR_SMK_HTL_05",
+    "pertanyaan": "FR Laundry: Mengapa baju berbahan Sutra (Silk) tidak boleh dicuci dengan mesin cuci standar?",
+    "opsi": [
+      "Biar terlihat mahal",
+      "Mesin cucinya jadi rusak",
+      "Waktunya jadi lama",
+      "Dilarang pemerintah",
+      "Seratnya halus dan mudah rusak/menciut jika terkena putaran kencang dan air panas (Sebaiknya Dry Clean)"
+    ],
+    "jawaban": "E",
+    "pembahasan": "Analisis mendalam berdasarkan Field Report 2025.",
+    "trik": "Fokus pada kata kunci soal.",
+    "tingkat": "sedang"
+  }
+]

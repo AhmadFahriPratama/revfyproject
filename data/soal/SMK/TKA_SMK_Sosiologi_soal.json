@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_SO_01",
+    "pertanyaan": "Objek studi sosiologi adalah...",
+    "opsi": [
+      "Masyarakat dan interaksi di dalamnya",
+      "Individu manusia saja",
+      "Benda-benda purbakala",
+      "Sistem pemerintahan negara",
+      "Gejala alam"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Sosiologi mempelajari hubungan antarmanusia dan hasil dari hubungan tersebut."
+  },
+  {
+    "id": "TKA_SMK_SO_02",
+    "pertanyaan": "Syarat terjadinya interaksi sosial menurut Soerjono Soekanto adalah...",
+    "opsi": [
+      "Tatapan mata dan senyuman",
+      "Kontak sosial dan komunikasi",
+      "Uang dan jabatan",
+      "Tempat dan waktu",
+      "Persamaan hobi"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kontak sosial dan komunikasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_03",
+    "pertanyaan": "Faktor pendorong interaksi di mana seseorang ingin menjadi sama persis dengan orang lain disebut...",
+    "opsi": [
+      "Imitasi",
+      "Sugesti",
+      "Identifikasi",
+      "Simpati",
+      "Empati"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Identifikasi lebih mendalam daripada imitasi."
+  },
+  {
+    "id": "TKA_SMK_SO_04",
+    "pertanyaan": "Norma yang sanksinya berupa perasaan bersalah atau cemoohan masyarakat karena berkaitan dengan kepantasan disebut...",
+    "opsi": [
+      "Norma Hukum",
+      "Norma Agama",
+      "Norma Adat",
+      "Norma Kesopanan / Kesusilaan",
+      "Norma Kelompok"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Norma Kesopanan / Kesusilaan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_05",
+    "pertanyaan": "Proses belajar seorang individu untuk mengenal dan menyesuaikan diri dengan nilai dan norma di lingkungannya disebut...",
+    "opsi": [
+      "Modernisasi",
+      "Westernisasi",
+      "Urbanisasi",
+      "Asimilasi",
+      "Sosialisasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Sosialisasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_06",
+    "pertanyaan": "Bapak Sosiologi Dunia adalah...",
+    "opsi": [
+      "Auguste Comte",
+      "Karl Marx",
+      "Max Weber",
+      "Emile Durkheim",
+      "Pitirim Sorokin"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Comte memperkenalkan istilah Sosiologi dalam bukunya 'Cours de Philosophie Positive'."
+  },
+  {
+    "id": "TKA_SMK_SO_07",
+    "pertanyaan": "Stratifikasi sosial yang terjadi akibat perbedaan tingkat pendidikan atau kekayaan biasanya bersifat...",
+    "opsi": [
+      "Tertutup",
+      "Terbuka",
+      "Campuran",
+      "Kaku",
+      "Permanen"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Dapat berubah seiring usaha individu (Achieved Status)."
+  },
+  {
+    "id": "TKA_SMK_SO_08",
+    "pertanyaan": "Akomodasi konflik melalui pihak ketiga yang keputusannya bersifat mengikat disebut...",
+    "opsi": [
+      "Mediasi",
+      "Konsiliasi",
+      "Arbitrasi",
+      "Kompromi",
+      "Stalemate"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Mediasi tidak mengikat, Arbitrasi mengikat."
+  },
+  {
+    "id": "TKA_SMK_SO_09",
+    "pertanyaan": "Perubahan sosial yang terjadi secara lambat dalam kurun waktu yang sangat lama disebut...",
+    "opsi": [
+      "Revolusi",
+      "Inovasi",
+      "Reformasi",
+      "Evolusi",
+      "Stagnasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Evolusi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_10",
+    "pertanyaan": "Masuknya budaya asing tanpa menghilangkan unsur budaya asli sehingga membentuk perpaduan baru disebut...",
+    "opsi": [
+      "Asimilasi",
+      "Amalgamasi",
+      "Anarki",
+      "Antagonis",
+      "Akulturasi"
+    ],
+    "jawaban": 4,
+    "pembahasan": "A + B = AB. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Akulturasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_11",
+    "pertanyaan": "Kelompok sosial terkecil dalam masyarakat yang menjadi agen sosialisasi utama adalah...",
+    "opsi": [
+      "Keluarga",
+      "Sekolah",
+      "Kelompok Bermain",
+      "Media Massa",
+      "Lingkungan Kerja"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Keluarga\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_12",
+    "pertanyaan": "Gaya hidup remaja yang suka meniru pola hidup orang Barat disebut...",
+    "opsi": [
+      "Modernisasi",
+      "Westernisasi",
+      "Globalisasi",
+      "Individualisme",
+      "Sekularisme"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Westernisasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_13",
+    "pertanyaan": "Norma hukum memiliki sanksi yang bersifat...",
+    "opsi": [
+      "Menakutkan",
+      "Opsional",
+      "Tegas, Nyata, dan Mengikat",
+      "Rahasia",
+      "Hanya untuk rakyat kecil"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tegas, Nyata, dan Mengikat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_14",
+    "pertanyaan": "Contoh 'Achieved Status' (status yang diperjuangkan) adalah...",
+    "opsi": [
+      "Gelar bangsawan",
+      "Anak raja",
+      "Kasta",
+      "Gelar Sarjana / Profesi Teknisi",
+      "Jenis kelamin"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Gelar Sarjana / Profesi Teknisi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_15",
+    "pertanyaan": "Salah satu dampak negatif globalisasi di bidang budaya adalah...",
+    "opsi": [
+      "Terjadinya pertukaran ilmu",
+      "Meningkatnya pariwisata",
+      "Mudahnya akses transportasi",
+      "Produktivitas naik",
+      "Hilangnya nilai-nilai lokal / kearifan lokal"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Hilangnya nilai-nilai lokal / kearifan lokal\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_16",
+    "pertanyaan": "Konsep 'Looking Glass Self' dikemukakan oleh...",
+    "opsi": [
+      "Charles Horton Cooley",
+      "Herbert Mead",
+      "Jean Piaget",
+      "Sigmund Freud",
+      "Thomas Hobbes"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Cermin diri melalui penilaian orang lain."
+  },
+  {
+    "id": "TKA_SMK_SO_17",
+    "pertanyaan": "Integrasi sosial akan sulit tercapai jika...",
+    "opsi": [
+      "Adanya toleransi",
+      "Adanya etnosentrisme yang berlebihan",
+      "Persamaan visi",
+      "Saling menghargai",
+      "Kontrol sosial yang baik"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Etnosentrisme menganggap budaya sendiri paling unggul."
+  },
+  {
+    "id": "TKA_SMK_SO_18",
+    "pertanyaan": "Penelitian sosiologi yang dilakukan dengan cara mengamati langsung perilaku subjek disebut metode...",
+    "opsi": [
+      "Eksperimen",
+      "Wawancara",
+      "Observasi",
+      "Angket",
+      "Studi Dokumen"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Observasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_19",
+    "pertanyaan": "Perilaku menyimpang (Deviating behavior) adalah perilaku yang...",
+    "opsi": [
+      "Sesuai norma masyarakat",
+      "Hanya dilakukan oleh orang kaya",
+      "Dihargai oleh pimpinan",
+      "Tidak sesuai dengan norma atau nilai yang berlaku",
+      "Membantu sesama"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tidak sesuai dengan norma atau nilai yang berlaku\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_20",
+    "pertanyaan": "Diferensiasi sosial membedakan masyarakat secara...",
+    "opsi": [
+      "Vertikal (bertingkat)",
+      "Miring",
+      "Acak",
+      "Individual",
+      "Horizontal (sejajar)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Misal berdasarkan ras, agama, suku (tidak ada yang lebih tinggi)."
+  },
+  {
+    "id": "TKA_SMK_SO_21",
+    "pertanyaan": "Ketimpangan sosial ekonomi sering terjadi akibat...",
+    "opsi": [
+      "Akses sumber daya yang tidak merata",
+      "Pemerataan pendidikan",
+      "Saling tolong menolong",
+      "Keadilan hukum",
+      "Demokrasi"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Akses sumber daya yang tidak merata\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_22",
+    "pertanyaan": "Konsep 'Gemeinschaft' (Paguyuban) dan 'Gesellschaft' (Patembayan) dikemukakan oleh...",
+    "opsi": [
+      "Max Weber",
+      "Ferdinand Tonnies",
+      "Karl Marx",
+      "Robert K. Merton",
+      "Selosoemardjan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Gemeinschaft (ikatan batin/darah), Gesellschaft (ikatan kepentingan/kontrak)."
+  },
+  {
+    "id": "TKA_SMK_SO_23",
+    "pertanyaan": "Kerumunan yang bersifat spontan dan tidak bertahan lama disebut...",
+    "opsi": [
+      "Publik",
+      "Massa",
+      "Crowd",
+      "Kelompok Primer",
+      "Organisasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Crowd\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_24",
+    "pertanyaan": "Ciri khas masyarakat kota menurut sosiologi adalah...",
+    "opsi": [
+      "Sangat toleran dan ramah",
+      "Homogen",
+      "Gotong royong kuat",
+      "Heterogen dan individualistik",
+      "Suka gosip"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Heterogen dan individualistik\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_25",
+    "pertanyaan": "Salah satu syarat penemuan baru (Inovasi) diterima masyarakat adalah...",
+    "opsi": [
+      "Masyarakat merasa sangat takut",
+      "Harganya sangat mahal",
+      "Dilarang pemerintah",
+      "Cuma untuk orang kaya",
+      "Adanya kegunaan praktis bagi masyarakat"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Adanya kegunaan praktis bagi masyarakat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_26",
+    "pertanyaan": "Fakta Sosial merupakan ide utama dari sosiolog...",
+    "opsi": [
+      "Emile Durkheim",
+      "Max Weber",
+      "Herbert Spencer",
+      "Notonagoro",
+      "Sutomo"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Emile Durkheim\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_27",
+    "pertanyaan": "Bentuk kearifan lokal masyarakat Indonesia dalam gotong royong di Bali dikenal sebagai...",
+    "opsi": [
+      "Subak",
+      "Ngayah",
+      "Banjar",
+      "Gugur Gunung",
+      "Mapalus"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Subak adalah sistem irigasi, Ngayah adalah gotong royong."
+  },
+  {
+    "id": "TKA_SMK_SO_28",
+    "pertanyaan": "Upaya sadar masyarakat untuk memperbaiki nasib sendiri secara mandiri disebut...",
+    "opsi": [
+      "Eksploitasi",
+      "Kolonisasi",
+      "Pemberdayaan",
+      "Intervensi",
+      "Diskriminasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Pemberdayaan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_29",
+    "pertanyaan": "Faktor geografis seperti wilayah kepulauan mengakibatkan terjadinya diferensiasi...",
+    "opsi": [
+      "Agama",
+      "Ras",
+      "Ekonomi",
+      "Suku Bangsa dan Budaya",
+      "Status Sosial"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Suku Bangsa dan Budaya\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_30",
+    "pertanyaan": "Sosiologi bersifat Non-Etis, artinya...",
+    "opsi": [
+      "Tidak punya etika",
+      "Hanya memuji yang baik",
+      "Mencari kesalahan orang lain",
+      "Kaku",
+      "Tidak mempersoalkan baik atau buruknya fakta, tetapi menjelaskan fakta tersebut secara analitis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tidak mempersoalkan baik atau buruknya fakta, tetapi menjelaskan fakta tersebut secara analitis\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_31",
+    "pertanyaan": "Norma yang muncul dari tradisi turun-temurun disebut...",
+    "opsi": [
+      "Customs (Adat Istiadat)",
+      "Laws",
+      "Mores",
+      "Folkways",
+      "Usage"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Customs (Adat Istiadat)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_32",
+    "pertanyaan": "Sosialisasi yang terjadi pada tahap sekolah (agen sekolah) bersifat...",
+    "opsi": [
+      "Primer",
+      "Sekunder",
+      "Tersier",
+      "Pribadi",
+      "Rahasia"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sekunder\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_33",
+    "pertanyaan": "Pemusatan kelompok sosial di suatu wilayah tertentu disebut...",
+    "opsi": [
+      "Segregasi",
+      "Disintegrasi",
+      "Aglomerasi",
+      "Urbanisasi",
+      "Transmigrasi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Aglomerasi\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_34",
+    "pertanyaan": "Mobilitas sosial vertikal ke atas (Social climbing) contohnya adalah...",
+    "opsi": [
+      "Karyawan dipecat",
+      "Pindah tempat tinggal saja",
+      "Ganti nama",
+      "Pedagang kecil menjadi pengusaha sukses",
+      "Tetap jadi pengangguran"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pedagang kecil menjadi pengusaha sukses\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_35",
+    "pertanyaan": "Tawuran antar pelajar merupakan bentuk interaksi sosial...",
+    "opsi": [
+      "Asosiatif",
+      "Inovatif",
+      "Subjektif",
+      "Kooperatif",
+      "Disosiatif"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Disosiatif mengarah pada perpecahan. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Disosiatif\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_36",
+    "pertanyaan": "Agen sosialisasi yang sangat berpengaruh pada perilaku remaja saat ini melalui konten visual adalah...",
+    "opsi": [
+      "Media Massa (Media Sosial)",
+      "Keluarga",
+      "Lembaga Agama",
+      "Pemerintah",
+      "Suku"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Media Massa (Media Sosial)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_37",
+    "pertanyaan": "Konsep 'Teori Konflik' yang menyatakan bahwa sejarah masyarakat adalah sejarah perjuangan kelas dikemukakan oleh...",
+    "opsi": [
+      "Ralf Dahrendorf",
+      "Karl Marx",
+      "Lewis Coser",
+      "Herbert Marcuse",
+      "Antonio Gramsci"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Karl Marx\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_38",
+    "pertanyaan": "Dampak positif kearifan lokal adalah...",
+    "opsi": [
+      "Membuat masyarakat kuno",
+      "Menghambat inovasi",
+      "Melambangkan identitas diri dan menjaga keseimbangan alam",
+      "Meningkatkan biaya hidup",
+      "Hanya untuk pariwisata"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Melambangkan identitas diri dan menjaga keseimbangan alam\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_39",
+    "pertanyaan": "Istilah 'Anomie' untuk menggambarkan keadaan masyarakat tanpa norma dikemukakan oleh...",
+    "opsi": [
+      "Robert Merton",
+      "C. Wright Mills",
+      "Abraham Maslow",
+      "Emile Durkheim",
+      "Sigmund Freud"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Emile Durkheim\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_40",
+    "pertanyaan": "Nilai sosial yang dianggap paling penting untuk keselamatan masyarakat disebut...",
+    "opsi": [
+      "Nilai Vital",
+      "Nilai Material",
+      "Nilai Kerohanian",
+      "Nilai Tambah",
+      "Nilai Dominan"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Nilai Dominan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_41",
+    "pertanyaan": "Stratifikasi sosial pada sistem kasta di India bersifat...",
+    "opsi": [
+      "Tertutup",
+      "Terbuka",
+      "Campuran",
+      "Liberal",
+      "Demokratis"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Status diperoleh berdasarkan kelahiran (Ascribed Status)."
+  },
+  {
+    "id": "TKA_SMK_SO_42",
+    "pertanyaan": "Peranan sosiologi bagi teknisi SMK di tempat kerja adalah...",
+    "opsi": [
+      "Agar tidak capek",
+      "Memahami dinamika hubungan kerja, budaya organisasi, dan komunikasi antar karyawan",
+      "Supaya jago las",
+      "Biar cepat pulang",
+      "Tidak ada gunanya"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Memahami dinamika hubungan kerja, budaya organisasi, dan komunikasi antar karyawan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_43",
+    "pertanyaan": "Masyarakat multikultural adalah masyarakat yang...",
+    "opsi": [
+      "Punya satu budaya saja",
+      "Selalu berperang",
+      "Terdiri dari beragam latar belakang budaya yang hidup berdampingan secara setara",
+      "Hanya ada di kota",
+      "Kaya raya"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Terdiri dari beragam latar belakang budaya yang hidup berdampingan secara setara\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_44",
+    "pertanyaan": "Salah satu ciri kelompok primer adalah...",
+    "opsi": [
+      "Jumlah anggota sangat banyak",
+      "Hubungan bersifat formal dan tertulis",
+      "Hanya bertahan satu hari",
+      "Hubungan bersifat akrab, personal, dan informal (face to face)",
+      "Berorientasi pada laba"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Contoh: Keluarga, sahabat karib. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Hubungan bersifat akrab, personal, dan informal (face to face)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_45",
+    "pertanyaan": "Teori 'Evolusi Multilinear' menyatakan bahwa...",
+    "opsi": [
+      "Semua bangsa melewati tahap yang sama",
+      "Tidak ada perubahan",
+      "Hanya revolusi yang penting",
+      "Semua kembali ke purba",
+      "Masyarakat berkembang melalui jalur berbeda tetapi menuju arah yang sama"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Masyarakat berkembang melalui jalur berbeda tetapi menuju arah yang sama\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_46",
+    "pertanyaan": "Pemberian gelar pahlawan merupakan bentuk kontrol sosial bersifat...",
+    "opsi": [
+      "Persuasif (Reward)",
+      "Represif",
+      "Preventif",
+      "Coercive",
+      "Formal"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi C karena sesuai dengan konsep utama pada soal, yaitu \"Persuasif (Reward)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_47",
+    "pertanyaan": "Urbanisasi berlebih di kota besar mengakibatkan munculnya...",
+    "opsi": [
+      "Kekosongan penduduk",
+      "Pemukiman kumuh (Slum area)",
+      "Lahan pertanian luas",
+      "Banyak taman",
+      "Udara segar"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Pemukiman kumuh (Slum area)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_48",
+    "pertanyaan": "Globalisasi membuat jarak ruang dan waktu terasa hilang, konsep ini disebut...",
+    "opsi": [
+      "Digital Divide",
+      "Culture Shock",
+      "Time-Space Compression",
+      "Laggard",
+      "Diffusion"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Time-Space Compression\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_49",
+    "pertanyaan": "Tindakan sosial yang didasarkan pada pertimbangan akal budi untuk mencapai tujuan disebut tindakan...",
+    "opsi": [
+      "Rasional Berorientasi Nilai",
+      "Afektif",
+      "Tradisional",
+      "Rasional Instrumental",
+      "Irasional"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Max Weber's Action Theory. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Rasional Instrumental\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_SO_50",
+    "pertanyaan": "Sosiologi mengajarkan kita untuk tidak 'Common Sense' saja, artinya...",
+    "opsi": [
+      "Harus pakai logika perasaan",
+      "Tidak boleh berpikir umum",
+      "Harus ikut-ikutan",
+      "Hanya baca berita utama",
+      "Harus menguji kebenaran asumsi melalui data dan fakta ilmiah"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Harus menguji kebenaran asumsi melalui data dan fakta ilmiah\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

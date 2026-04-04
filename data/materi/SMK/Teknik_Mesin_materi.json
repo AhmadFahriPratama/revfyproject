@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Teknik Mesin",
+  "tingkatan": "SMK",
+  "jurusan": "Teknik / Mesin",
+  "deskripsi": "Materi mengenai pengenalan perkakas tangan, proses pemesinan dasar (bubut, frais), gambar teknik, material teknik, serta keselamatan kerja (K3).",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Keselamatan dan Kesehatan Kerja (K3)",
+      "konten": "Penggunaan Alat Pelindung Diri (APD) seperti helm, safety shoes, kaca mata, dan earplug. Prosedur penanganan kecelakaan kerja dan pentingnya kebersihan bengkel (5S/5R).",
+      "tag": [
+        "teknik mesin materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Gambar Teknik Mesin",
+      "konten": "Pengenalan alat gambar (penggaris, jangka, mal), standar huruf dan garis, proyeksi Amerika dan Eropa, serta pembacaan etiket (kepala gambar).",
+      "tag": [
+        "teknik mesin materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Alat Ukur Presisi",
+      "konten": "Penggunaan dan pembacaan alat ukur mekanik: Jangka Sorong (Vernier Caliper) dengan ketelitian 0.02/0.05 mm dan Mikrometer Sekrup dengan ketelitian 0.01 mm.",
+      "tag": [
+        "teknik mesin materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Alat Perkakas Tangan dan Bertenaga",
+      "konten": "Penggunaan kikir (berbagai bentuk), gergaji besi, palu, ragum, serta mesin gerinda tangan dan mesin bor meja untuk pekerjaan dasar bangku.",
+      "tag": [
+        "teknik mesin materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Dasar Proses Pemesinan",
+      "konten": "Pengenalan Mesin Bubut (lathe) untuk benda silindris dan Mesin Frais (milling) untuk benda bidang datar/profil. Kecepatan potong, gerak makan, dan jenis pahat mesin.",
+      "tag": [
+        "teknik mesin materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "teknik-mesin-materi",
+  "mapel": "Dasar-Dasar Teknik Mesin",
+  "tag": [
+    "teknik mesin materi"
+  ]
+}

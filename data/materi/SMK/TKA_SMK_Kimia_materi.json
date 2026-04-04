@@ -1,0 +1,53 @@
+{
+  "judul": "TKA SMK: Kimia",
+  "tingkatan": "SMK",
+  "jurusan": "Teknik / Kesehatan / Pilihan",
+  "deskripsi": "Materi persiapan TKA Kimia untuk siswa SMK yang berfokus pada struktur materi, reaksi kimia terapan, dan kimia industri.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Struktur Atom dan Sistem Periodik",
+      "konten": "Partikel penyusun atom (proton, elektron, neutron), konfigurasi elektron, letak unsur dalam tabel periodik, serta sifat keperiodikan unsur.",
+      "tag": [
+        "tka smk kimia materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Ikatan Kimia dan Bentuk Molekul",
+      "konten": "Ikatan ion, ikatan kovalen, ikatan logam, gaya antarmolekul, serta pengaruhnya terhadap titik didih dan titik leleh material.",
+      "tag": [
+        "tka smk kimia materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Stoikiometri dan Larutan",
+      "konten": "Konsep mol, persamaan reaksi setara, perhitungan massa/volume, konsentrasi larutan (molaritas), serta sifat asam-basa.",
+      "tag": [
+        "tka smk kimia materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Hidrokarbon dan Polimer Industri",
+      "konten": "Struktur alkana, alkena, alkuna, pengenalan minyak bumi, serta jenis-jenis polimer (plastik, karet, serat) yang digunakan di industri SMK.",
+      "tag": [
+        "tka smk kimia materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Elektrokimia dan Korosi",
+      "konten": "Sel volta (baterai/aki), sel elektrolisis (penyepuhan logam), serta teknik pencegahan korosi (karat) pada material teknik.",
+      "tag": [
+        "tka smk kimia materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "tka-smk-kimia-materi",
+  "mapel": "TKA SMK: Kimia",
+  "tag": [
+    "tka smk kimia materi"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "materi-sd-kls1-mat",
+  "tingkat": "SD Kelas 1",
+  "mapel": "Matematika",
+  "materi": "Bilangan, Aljabar Dasar, dan Bangun Datar",
+  "deskripsi": "Materi esensial Matematika Kelas 1 SD Kurikulum Merdeka (Fase A) yang berfokus pada pengenalan bilangan 1-20, operasi dasar penjumlahan/pengurangan, mengenal waktu, dan bangun datar.",
+  "konten": [
+    {
+      "bab": "1. Mengenal Bilangan 1-20",
+      "teks": "Siswa belajar menghitung, membaca, menulis, dan membandingkan (lebih banyak/lebih sedikit) kumpulan benda dari 1 sampai 20."
+    },
+    {
+      "bab": "2. Penjumlahan dan Pengurangan (sampai 10)",
+      "teks": "Operasi hitung sederhana penjumlahan (menggabungkan benda) dan pengurangan (memisahkan benda/diambil) menggunakan bantuan benda konkret (jari, kelereng, dll)."
+    },
+    {
+      "bab": "3. Mengenal Bentuk Bangun Datar",
+      "teks": "Mengenal bentuk dua dimensi dasar yang sering ditemui: segitiga, lingkaran, dan segi empat (persegi/persegi panjang)."
+    },
+    {
+      "bab": "4. Pengukuran & Waktu (Sederhana)",
+      "teks": "Mengetahui istilah letak (kiri, kanan, atas, bawah), membandingkan panjang/berat dengan jengkal tangan, serta mengenal waktu pagi, siang, dan malam."
+    }
+  ],
+  "tag": ["sd-1", "matematika", "hitung", "penjumlahan", "bangun-datar"]
+}

@@ -1,0 +1,53 @@
+{
+  "judul": "Dasar-Dasar Tata Kecantikan",
+  "tingkatan": "SMK",
+  "jurusan": "Seni / Kecantikan",
+  "deskripsi": "Materi mengenai industri kecantikan, anatomi kulit dan rambut, perawatan kulit wajah (facial), teknik tata rias wajah (make up), serta perawatan tangan dan kaki (manicure-pedicure).",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Pengantar Industri Kecantikan",
+      "konten": "Sejarah kecantikan, peluang karir (MUA, Hairdresser, Skin Expert), etika profesional kecantikan, serta kebersihan diri (personal hygiene) terapis.",
+      "tag": [
+        "seni kecantikan materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Anatomi dan Fisiologi Kecantikan",
+      "konten": "Struktur kulit (epidermis, dermis, hipodermis), jenis kulit (normal, kering, berminyak, kombinasi). Struktur rambut dan siklus pertumbuhan rambut.",
+      "tag": [
+        "seni kecantikan materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Perawatan Kulit Wajah (Facial)",
+      "konten": "Langkah-langkah pembersihan (cleansing), penyegaran (toning), pelembab (moisturizing). Teknik pijat wajah dasar dan pengenalan jenis masker wajah.",
+      "tag": [
+        "seni kecantikan materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Tata Rias Wajah (Make Up) Korektif",
+      "konten": "Pengenalan alat make up (brush, sponge). Teknik aplikasi foundation, bedak, eye shadow, blush on, serta teknik shading/highlighting untuk koreksi bentuk wajah.",
+      "tag": [
+        "seni kecantikan materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Perawatan Tangan dan Kaki (Nail Art Dasar)",
+      "konten": "Teknik pemotongan kuku yang benar, perapihan kutikula, massage tangan/kaki, serta teknik pewarnaan kuku (nail polish) yang rapi dan artistik.",
+      "tag": [
+        "seni kecantikan materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "seni-kecantikan-materi",
+  "mapel": "Dasar-Dasar Tata Kecantikan",
+  "tag": [
+    "seni kecantikan materi"
+  ]
+}

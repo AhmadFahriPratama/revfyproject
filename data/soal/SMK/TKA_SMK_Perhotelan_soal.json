@@ -1,0 +1,652 @@
+[
+  {
+    "id": "TKA_SMK_HTL_01",
+    "pertanyaan": "Pihak yang bertugas menyambut tamu di lobi dan membawakan barang bawaan tamu ke kamar disebut...",
+    "opsi": [
+      "Bellboy / Porter / Concierge",
+      "Receptionist",
+      "Room Boy",
+      "Waiter",
+      "Manager"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Bellboy adalah garda terdepan layanan barang tamu."
+  },
+  {
+    "id": "TKA_SMK_HTL_02",
+    "pertanyaan": "Lantai atau area umum di hotel seperti lobi dan lorong dibersihkan oleh bagian...",
+    "opsi": [
+      "Room Attendant",
+      "Public Area Attendant",
+      "Laundry Staf",
+      "Front Desk Agent",
+      "Chef"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Public Area Attendant\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_03",
+    "pertanyaan": "Istilah 'Make Up Room' dalam perhotelan berarti...",
+    "opsi": [
+      "Menghias kamar untuk pengantin",
+      "Mengecat tembok kamar",
+      "Membersihkan dan menata kembali kamar tamu",
+      "Memperbaiki AC kamar",
+      "Memberi kompensasi kamar"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kegiatan rutin housekeeping. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Membersihkan dan menata kembali kamar tamu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_04",
+    "pertanyaan": "Alat untuk menata meja makan lengkap dengan sendok, garpu, dan gelas disebut...",
+    "opsi": [
+      "Table Cloth",
+      "Buffet",
+      "Menu Card",
+      "Table Setting",
+      "Tray"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Table Setting\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_05",
+    "pertanyaan": "Kamar yang dipesan oleh tamu tetapi tamu tersebut tidak datang tanpa pemberitahuan disebut...",
+    "opsi": [
+      "Walk-in Guest",
+      "Check-out",
+      "Daily Use",
+      "Stay over",
+      "No Show"
+    ],
+    "jawaban": 4,
+    "pembahasan": "No show biasanya dikenakan biaya pembatalan."
+  },
+  {
+    "id": "TKA_SMK_HTL_06",
+    "pertanyaan": "Apa tugas utama dari bagian 'Laundry' di hotel?",
+    "opsi": [
+      "Mencuci dan menyetrika linen hotel serta pakaian tamu",
+      "Memasak",
+      "Melayani check-in",
+      "Menjaga keamanan",
+      "Membersihkan kolam renang"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mencuci dan menyetrika linen hotel serta pakaian tamu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_07",
+    "pertanyaan": "Pakaian atau seragam kerja karyawan hotel yang rapi, bersih, dan sesuai standar disebut...",
+    "opsi": [
+      "Style",
+      "Grooming",
+      "Fashion",
+      "Costume",
+      "Armor"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Grooming mencakup kebersihan rambut, kuku, dan bau badan."
+  },
+  {
+    "id": "TKA_SMK_HTL_08",
+    "pertanyaan": "Sapaan standar saat mengangkat telepon di hotel adalah...",
+    "opsi": [
+      "Halo, siapa ini?",
+      "Ya, ada apa?",
+      "Salam (Selamat Pagi/Siang), Nama Hotel, Nama Staff, 'May I help you?'",
+      "Wait a minute",
+      "Jangan telepon dulu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Salam (Selamat Pagi/Siang), Nama Hotel, Nama Staff, 'May I help you?'\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_09",
+    "pertanyaan": "Proses merapikan tempat tidur di hotel mengikuti urutan...",
+    "opsi": [
+      "Bantal dulu baru sprei",
+      "Terserah yang penting rapi",
+      "Guling saja sudah cukup",
+      "Sprei (Sheet), Selimut (Blanket), Bantal (Pillow Case), Bed Cover",
+      "Hanya ganti bantal"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Urutan sistematis untuk efisiensi waktu kerja."
+  },
+  {
+    "id": "TKA_SMK_HTL_10",
+    "pertanyaan": "Fasilitas hotel berupa kotak penyimpanan barang berharga di dalam kamar disebut...",
+    "opsi": [
+      "Wardrobe",
+      "Minibar",
+      "Drawer",
+      "Luggage Rack",
+      "Safety Deposit Box (SDB)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Safety Deposit Box (SDB)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_11",
+    "pertanyaan": "Dokumen rekaman identitas tamu saat check-in disebut...",
+    "opsi": [
+      "Registration Card",
+      "Invoice",
+      "Voucher",
+      "Menu",
+      "Log Book"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Registration Card\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_12",
+    "pertanyaan": "Membawa piring kotor dari meja tamu ke area cuci (Dishwashing) disebut teknik...",
+    "opsi": [
+      "Serving",
+      "Clearing Up",
+      "Storing",
+      "Opening",
+      "Closing"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Clearing Up\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_13",
+    "pertanyaan": "Istilah perhotelan 'Twin Bed' artinya kamar tersebut memiliki...",
+    "opsi": [
+      "Satu kasur besar (untuk berdua)",
+      "Tiga tempat tidur",
+      "Dua tempat tidur terpisah (masing-masing satu orang)",
+      "Hanya sofa",
+      "Kasur susun"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Dua tempat tidur terpisah (masing-masing satu orang)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_14",
+    "pertanyaan": "Bahan kimia pembersih kaca biasanya disebut...",
+    "opsi": [
+      "Floor Cleaner",
+      "Toilet Bowl Cleaner",
+      "Furniture Polish",
+      "Glass Cleaner / Windex",
+      "Air Freshener"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Glass Cleaner / Windex\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_15",
+    "pertanyaan": "Kegiatan menawarkan upgrade kamar atau menu yang lebih mahal kepada tamu agar pendapatan hotel meningkat disebut...",
+    "opsi": [
+      "Downselling",
+      "Discounting",
+      "Retailing",
+      "Marketing",
+      "Upselling"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Upselling\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_16",
+    "pertanyaan": "Peralatan laundry untuk menyetrika kemeja dengan uap air disebut...",
+    "opsi": [
+      "Steam Iron / Steamer",
+      "Dry Iron",
+      "Washing Machine",
+      "Tumble Dryer",
+      "Vacuum Cleaner"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Steam Iron / Steamer\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_17",
+    "pertanyaan": "Tamu yang datang ke hotel untuk menginap tanpa melakukan reservasi terlebih dahulu disebut...",
+    "opsi": [
+      "Reserved guest",
+      "Walk-in guest",
+      "VIP guest",
+      "Group guest",
+      "No show"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Walk-in guest\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_18",
+    "pertanyaan": "Aspek paling penting dalam pelayanan hotel adalah 'Sincerity', artinya...",
+    "opsi": [
+      "Sombong",
+      "Marah-marah",
+      "Ketulusan dalam melayani",
+      "Hanya demi uang",
+      "Bekerja sangat pelan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ketulusan dalam melayani\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_19",
+    "pertanyaan": "Linen yang digunakan sebagai alas meja makan sebelum diletakkan piring disebut...",
+    "opsi": [
+      "Napkin",
+      "Runner",
+      "Skirting",
+      "Table Cloth",
+      "Towel"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Table Cloth\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_20",
+    "pertanyaan": "Waktu standar tamu harus meninggalkan kamar (Check-out) di kebanyakan hotel Indonesia adalah jam...",
+    "opsi": [
+      "09.00 WIB",
+      "15.00 WIB",
+      "18.00 WIB",
+      "00.00 WIB",
+      "12.00 WIB"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"12.00 WIB\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_21",
+    "pertanyaan": "Alatan penyedot debu untuk membersihkan karpet lobi adalah...",
+    "opsi": [
+      "Vacuum Cleaner",
+      "Broom",
+      "Mop",
+      "Squeegee",
+      "Brush"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Vacuum Cleaner\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_22",
+    "pertanyaan": "Apa itu 'Complimentary'?",
+    "opsi": [
+      "Barang yang harus dibayar mahal",
+      "Barang atau layanan gratis yang diberikan hotel kepada tamu (misal: Air mineral)",
+      "Denda karena merusak barang",
+      "Nama jabatan manajer",
+      "Surat peringatan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Barang atau layanan gratis yang diberikan hotel kepada tamu (misal: Air mineral)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_23",
+    "pertanyaan": "Cara membawa nampan (tray) yang berisi piring makanan yang benar adalah...",
+    "opsi": [
+      "Dipeluk di dada",
+      "Dijinjing di bawah",
+      "Diletakkan di telapak tangan setinggi bahu agar stabil",
+      "Ditaruh di atas kepala",
+      "Diseret"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Diletakkan di telapak tangan setinggi bahu agar stabil\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_24",
+    "pertanyaan": "Istilah status kamar 'Occuiped' berarti kamar tersebut...",
+    "opsi": [
+      "Kosong",
+      "Rusak",
+      "Sedang dibersihkan",
+      "Sedang terisi oleh tamu",
+      "Akan kedatangan tamu"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sedang terisi oleh tamu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_25",
+    "pertanyaan": "Perusahaan yang menyewakan gudang atau tempat penyimpanan barang dalam logistik hotel disebut...",
+    "opsi": [
+      "Kitchen",
+      "Reception",
+      "Clinic",
+      "Garage",
+      "Inventory / Store"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Inventory / Store\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_26",
+    "pertanyaan": "Apa manfaat 'English for Hotel' bagi lulusan SMK Perhotelan?",
+    "opsi": [
+      "Berkomunikasi secara profesional dengan tamu mancanegara yang merupakan mayoritas pasar hotel berbintang",
+      "Hanya untuk nilai",
+      "Biar bisa dengerin lagu",
+      "Tidak ada gunanya",
+      "Supaya gaya"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Berkomunikasi secara profesional dengan tamu mancanegara yang merupakan mayoritas pasar hotel berbintang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_27",
+    "pertanyaan": "Kain serbet yang diletakkan di pangkuan tamu saat makan di restoran disebut...",
+    "opsi": [
+      "Table runner",
+      "Napkin / Guest Napkin",
+      "Curtain",
+      "Towel",
+      "Sprei"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Napkin / Guest Napkin\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_28",
+    "pertanyaan": "Apa tugas utama dari 'Night Auditor'?",
+    "opsi": [
+      "Menyapu malam-malam",
+      "Menjaga pintu hotel",
+      "Mengaudit laporan keuangan dan memastikan transaksi hari itu selesai sebelum hari baru dimulai",
+      "Tidur di kantor",
+      "Memasak sarapan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengaudit laporan keuangan dan memastikan transaksi hari itu selesai sebelum hari baru dimulai\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_29",
+    "pertanyaan": "Prosedur darurat jika terjadi kebakaran di hotel adalah...",
+    "opsi": [
+      "Berlari rebutan eskalator",
+      "Sembunyi di bawah kasur",
+      "Melompat dari jendela",
+      "Mengikuti arah panah jalur evakuasi menuju Assembly Point melalui tangga darurat",
+      "Tidak melakukan apa-apa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mengikuti arah panah jalur evakuasi menuju Assembly Point melalui tangga darurat\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_30",
+    "pertanyaan": "Apa itu 'In-room Dining' (Room Service)?",
+    "opsi": [
+      "Tamu masak sendiri di kamar",
+      "Makan bersama manajer",
+      "Mencuci piring di kamar",
+      "Bekal makanan dari rumah",
+      "Layanan pemesanan makanan dan minuman untuk dinikmati di dalam kamar tamu"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Layanan pemesanan makanan dan minuman untuk dinikmati di dalam kamar tamu\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_31",
+    "pertanyaan": "Jenis hotel yang terletak di tengah kota dan biasanya untuk tamu bisnis disebut...",
+    "opsi": [
+      "City Hotel",
+      "Resort Hotel",
+      "Motel",
+      "Airport Hotel",
+      "Hostel"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"City Hotel\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_32",
+    "pertanyaan": "Status kamar 'Out of Order' (OOO) berarti kamar tersebut...",
+    "opsi": [
+      "Sangat bersih",
+      "Sedang dalam perbaikan besar dan tidak bisa dijual",
+      "Siap huni",
+      "Kamar hantu",
+      "Kamar simpanan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Sedang dalam perbaikan besar dan tidak bisa dijual\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_33",
+    "pertanyaan": "Alat pel lantai manual terdiri dari gagang dan kain penyerap disebut...",
+    "opsi": [
+      "Broom",
+      "Bucket",
+      "Mop",
+      "Polisher",
+      "Dustpan"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Mop\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_34",
+    "pertanyaan": "Pekerjaan 'Valet Parking' bertugas untuk...",
+    "opsi": [
+      "Mencuci mobil",
+      "Berjualan tiket",
+      "Menjual ban mobil",
+      "Membantu tamu memarkirkan dan mengambilkan mobil",
+      "Menjadi sopir bus"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Membantu tamu memarkirkan dan mengambilkan mobil\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_35",
+    "pertanyaan": "Apa perbedaan 'Double Bed' dan 'King Size Bed'?",
+    "opsi": [
+      "Warnanya",
+      "Harganya sama saja",
+      "King Size khusus untuk raja",
+      "Double Bed punya 2 bantal",
+      "Ukurannya (King Size jauh lebih besar dan luas)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Ukurannya (King Size jauh lebih besar dan luas)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_36",
+    "pertanyaan": "Kegiatan 'Check-out' yang dilakukan sangat cepat karena tamu sudah lunas di awal disebut...",
+    "opsi": [
+      "Express Check-out",
+      "Slow Check-out",
+      "Refund",
+      "Void",
+      "Pending"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Express Check-out\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_37",
+    "pertanyaan": "Layanan laundry di mana baju dikembalikan pada hari yang sama disebut...",
+    "opsi": [
+      "Normal Service",
+      "Same Day Service / Express Laundry",
+      "Dry Cleaning saja",
+      "Self Service",
+      "Next Year Service"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Same Day Service / Express Laundry\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_38",
+    "pertanyaan": "Berapa banyak 'Guest Towel' standar yang biasanya tersedia di kamar hotel berbintang (untuk 2 orang)?",
+    "opsi": [
+      "1",
+      "10",
+      "2 (Bath Towel + Hand Towel + Face Towel per orang)",
+      "Tidak ada",
+      "Hanya tisu"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"2 (Bath Towel + Hand Towel + Face Towel per orang)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_39",
+    "pertanyaan": "Apa itu 'Turndown Service'?",
+    "opsi": [
+      "Pengusiran tamu",
+      "Membersihkan lantai",
+      "Mengganti lampu rusak",
+      "Menyiapkan tempat tidur untuk siap digunakan tidur (biasanya sore/malam hari)",
+      "Menagih hutang"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Menyiapkan tempat tidur untuk siap digunakan tidur (biasanya sore/malam hari)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_40",
+    "pertanyaan": "Seorang waiter harus menyajikan makanan dari sisi ... tamu.",
+    "opsi": [
+      "Kiri",
+      "Depan muka",
+      "Bawah meja",
+      "Mana saja bebas",
+      "Kanan (Sesuai standar internasional lazimnya)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kanan (Sesuai standar internasional lazimnya)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_41",
+    "pertanyaan": "Alat penghitung tagihan tamu saat check-out di front office adalah...",
+    "opsi": [
+      "System/PMS (Property Management System)",
+      "Kalkulator tangan",
+      "Sempoa",
+      "Kertas buram",
+      "Tidak dihitung"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"System/PMS (Property Management System)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_42",
+    "pertanyaan": "Apa gelar untuk pemimpin tertinggi di sebuah hotel?",
+    "opsi": [
+      "Manager Operasional",
+      "General Manager (GM)",
+      "Supervisor",
+      "Owner",
+      "Investor"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"General Manager (GM)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_43",
+    "pertanyaan": "Pekerjaan 'Pastry' di hotel bertanggung jawab atas...",
+    "opsi": [
+      "Nasi goreng",
+      "Sup",
+      "Roti, kue, dan hidangan penutup (Dessert)",
+      "Minuman kopi",
+      "Kebersihan dapur"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Roti, kue, dan hidangan penutup (Dessert)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_44",
+    "pertanyaan": "Istilah perhotelan 'House Use' artinya kamar tersebut digunakan untuk...",
+    "opsi": [
+      "Tamu bayar",
+      "Gudang",
+      "Tempat karaoke",
+      "Kepentingan internal hotel/karyawan/manajemen",
+      "Dibiarkan rusak"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Kepentingan internal hotel/karyawan/manajemen\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_45",
+    "pertanyaan": "Mengapa penggunaan tanda 'Wet Floor' (Lantai Basah) sangat penting?",
+    "opsi": [
+      "Hanya hiasan kuning",
+      "Promosi warna kuning",
+      "Agar lantai cepat kering",
+      "Sudah aturan main",
+      "Mencegah tamu/karyawan terpeleset (K3)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mencegah tamu/karyawan terpeleset (K3)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_46",
+    "pertanyaan": "Bagian hotel yang mengurusi pemeliharaan AC, Listrik, dan Plumbing adalah...",
+    "opsi": [
+      "Engineering",
+      "Housekeeping",
+      "Accounting",
+      "HRD",
+      "Marketing"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Engineering\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_47",
+    "pertanyaan": "Metode penyajian makanan di mana tamu mengambil sendiri makanannya disebut...",
+    "opsi": [
+      "A la Carte",
+      "Buffet / Prasmanan",
+      "Table D'hote",
+      "Catering",
+      "Fast Food"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Buffet / Prasmanan\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_48",
+    "pertanyaan": "Apa itu 'Amenities'?",
+    "opsi": [
+      "Nama tamu",
+      "Biaya tambahan",
+      "Perlengkapan mandi sekali pakai di kamar (Sabun, Sampo, Sikat Gigi)",
+      "Pajak hotel",
+      "Alat pemadam api"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Perlengkapan mandi sekali pakai di kamar (Sabun, Sampo, Sikat Gigi)\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_49",
+    "pertanyaan": "Sikap 'Assertive' dalam menangani tamu yang marah artinya...",
+    "opsi": [
+      "Lemah dan pasrah",
+      "Sangat agresif",
+      "Diam saja",
+      "Tegas namun sopan dan tidak emosional",
+      "Tertawa"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Tegas namun sopan dan tidak emosional\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "TKA_SMK_HTL_50",
+    "pertanyaan": "Apa manfaat PKL (Praktek Kerja Lapangan) bagi siswa SMK Perhotelan?",
+    "opsi": [
+      "Biar bisa libur sekolah",
+      "Mencari uang saja",
+      "Hanya syarat lulus",
+      "Tidak ada gunanya",
+      "Mendapatkan pengalaman nyata standar industri perhotelan dan membangun jejaring kerja"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pembahasan inti belum ditulis lengkap. Jawaban yang paling tepat adalah opsi B karena sesuai dengan konsep utama pada soal, yaitu \"Mendapatkan pengalaman nyata standar industri perhotelan dan membangun jejaring kerja\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  }
+]

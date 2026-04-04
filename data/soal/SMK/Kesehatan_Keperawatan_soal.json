@@ -1,0 +1,652 @@
+[
+  {
+    "id": "KS_KP_01",
+    "pertanyaan": "Pelopor keperawatan modern dunia yang dikenal sebagai 'The Lady with the Lamp' adalah...",
+    "opsi": [
+      "Florence Nightingale",
+      "Virginia Henderson",
+      "Jean Watson",
+      "Dorothea Orem",
+      "Callista Roy"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Florence Nightingale berjasa besar dalam mengubah standar sanitasi dan profesionalisme perawat."
+  },
+  {
+    "id": "KS_KP_02",
+    "pertanyaan": "Berapakah frekuensi nadi normal pada orang dewasa dalam kondisi istirahat?",
+    "opsi": [
+      "30-40 kali per menit",
+      "60-100 kali per menit",
+      "40-60 kali per menit",
+      "100-140 kali per menit",
+      "140-160 kali per menit"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Nadi di atas 100 disebut Takikardia, di bawah 60 disebut Bradikardia."
+  },
+  {
+    "id": "KS_KP_03",
+    "pertanyaan": "Tekanan darah normal rata-rata pada orang dewasa adalah...",
+    "opsi": [
+      "90/60 mmHg",
+      "140/90 mmHg",
+      "120/80 mmHg",
+      "160/100 mmHg",
+      "180/110 mmHg"
+    ],
+    "jawaban": 2,
+    "pembahasan": "120 (Sistolik) / 80 (Diastolik) dianggap tekanan darah ideal."
+  },
+  {
+    "id": "KS_KP_04",
+    "pertanyaan": "Suhu tubuh normal manusia berkisar antara...",
+    "opsi": [
+      "35,0 - 36,0 Celcius",
+      "37,5 - 38,5 Celcius",
+      "38,0 - 39,5 Celcius",
+      "36,5 - 37,5 Celcius",
+      "40,0 - 41,0 Celcius"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Suhu di atas 37,5 biasanya dikategorikan sebagai demam (febris)."
+  },
+  {
+    "id": "KS_KP_05",
+    "pertanyaan": "Frekuensi pernapasan (respirasi) normal pada dewasa adalah...",
+    "opsi": [
+      "8-12 kali per menit",
+      "25-30 kali per menit",
+      "30-40 kali per menit",
+      "40-60 kali per menit",
+      "16-24 kali per menit"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Satu respirasi dihitung dari satu kali menghirup dan satu kali mengeluarkan napas."
+  },
+  {
+    "id": "KS_KP_06",
+    "pertanyaan": "Posisi pasien tidur telentang dengan bagian kepala lebih tinggi dari kaki (sekitar 45-60 derajat) disebut posisi...",
+    "opsi": [
+      "Fowler",
+      "Supinasi",
+      "Pronasi",
+      "Trendelenburg",
+      "Sims"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Posisi Fowler membantu pasien mengurangi sesak napas."
+  },
+  {
+    "id": "KS_KP_07",
+    "pertanyaan": "Posisi pasien tidur telentang di mana kaki lebih tinggi daripada kepala disebut posisi...",
+    "opsi": [
+      "Fowler",
+      "Trendelenburg",
+      "Semi Fowler",
+      "Lithotomy",
+      "Dorsal Recumbent"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Digunakan untuk meningkatkan aliran darah ke otak pada pasien syok."
+  },
+  {
+    "id": "KS_KP_08",
+    "pertanyaan": "Alat yang digunakan untuk mendengarkan suara jantung dan paru-paru adalah...",
+    "opsi": [
+      "Sphygnomanometer",
+      "Termometer",
+      "Stetoskop",
+      "Tongue Spatel",
+      "Refleks Hammer"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Stetoskop memperkuat suara internal tubuh untuk didiagnosis."
+  },
+  {
+    "id": "KS_KP_09",
+    "pertanyaan": "Alat yang digunakan untuk mengukur tekanan darah disebut...",
+    "opsi": [
+      "Stetoskop",
+      "Pulse Oximeter",
+      "Glukometer",
+      "Tensimeter / Sphygnomanometer",
+      "Nebulizer"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Ada jenis tensimeter air raksa, jarum (aneroid), dan digital."
+  },
+  {
+    "id": "KS_KP_10",
+    "pertanyaan": "Sistem tubuh yang berfungsi mengedarkan oksigen dan sari makanan ke seluruh sel tubuh adalah...",
+    "opsi": [
+      "Sistem Respirasi",
+      "Sistem Pencernaan",
+      "Sistem Ekskresi",
+      "Sistem Imun",
+      "Sistem Kardiovaskular (Peredaran Darah)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Jantung memompa darah ke seluruh tubuh melalui pembuluh darah."
+  },
+  {
+    "id": "KS_KP_11",
+    "pertanyaan": "Pertukaran antara O2 (Oksigen) dan CO2 (Karbondioksida) pada paru-paru terjadi di...",
+    "opsi": [
+      "Alveolus",
+      "Trakea",
+      "Bronkus",
+      "Esofagus",
+      "Laring"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Alveolus adalah kantung udara kecil yang dikelilingi pembuluh darah kapiler."
+  },
+  {
+    "id": "KS_KP_12",
+    "pertanyaan": "Cairan yang dikeluarkan oleh ginjal sebagai hasil penyaringan darah disebut...",
+    "opsi": [
+      "Feses",
+      "Urin",
+      "Keringat",
+      "Saliva",
+      "Sputum"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Urin mengandung zat sisa metabolisme yang tidak dibutuhkan tubuh."
+  },
+  {
+    "id": "KS_KP_13",
+    "pertanyaan": "Tindakan mencuci tangan yang paling efektif mencegah infeksi di RS adalah mencuci tangan...",
+    "opsi": [
+      "Hanya dengan air",
+      "Hanya sebelum makan",
+      "Menggunakan sabun/antiseptik dan air mengalir (6 langkah WHO)",
+      "Hanya jika tangan terlihat kotor",
+      "Hanya setelah keluar kamar mandi"
+    ],
+    "jawaban": 2,
+    "pembahasan": "6 langkah mencuci tangan WHO adalah standar keselamatan pasien."
+  },
+  {
+    "id": "KS_KP_14",
+    "pertanyaan": "Tindakan perawat dalam menjaga kerahasiaan data penyakit pasien termasuk dalam prinsip etika...",
+    "opsi": [
+      "Beneficence (Berbuat Baik)",
+      "Non-maleficence (Tidak Merugikan)",
+      "Justice (Keadilan)",
+      "Confidentiality (Kerahasiaan)",
+      "Autonomy (Kemandirian)"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Perawat dilarang membocorkan data medis pasien tanpa izin."
+  },
+  {
+    "id": "KS_KP_15",
+    "pertanyaan": "Luka baring yang diakibatkan oleh penekanan terus menerus pada area tubuh yang menonjol disebut...",
+    "opsi": [
+      "Luka Bakar",
+      "Luka Sayat",
+      "Eksim",
+      "Kutu Air",
+      "Dekubitus"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Pasien tirah baring lama harus dimiringkan kanan/kiri setiap 2 jam untuk mencegah dekubitus."
+  },
+  {
+    "id": "KS_KP_16",
+    "pertanyaan": "Zat gizi yang berfungsi sebagai sumber energi utama bagi tubuh manusia adalah...",
+    "opsi": [
+      "Karbohidrat",
+      "Protein",
+      "Lemak",
+      "Vitamin",
+      "Mineral"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Karbohidrat ditemukan pada nasi, gandum, jagung, dan umbi-umbian."
+  },
+  {
+    "id": "KS_KP_17",
+    "pertanyaan": "Zat gizi yang berfungsi sebagai zat pembangun dan memperbaiki sel yang rusak adalah...",
+    "opsi": [
+      "Karbohidrat",
+      "Protein",
+      "Vitamin",
+      "Air",
+      "Lemak"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Protein hewani (daging, telur) dan nabati (tahu, tempe)."
+  },
+  {
+    "id": "KS_KP_18",
+    "pertanyaan": "Pertolongan Pertama Pada Kecelakaan (P3K) pada orang yang pingsan adalah...",
+    "opsi": [
+      "Memberikan minum air panas langsung",
+      "Memaksanya berdiri",
+      "Memposisikan kaki lebih tinggi dari kepala agar aliran darah ke otak lancar",
+      "Menyiram air dingin ke wajah",
+      "Memijat jantung dengan keras"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Membaringkan rata dan mengangkat kaki membantu pemulihan kesadaran."
+  },
+  {
+    "id": "KS_KP_19",
+    "pertanyaan": "Fase komunikasi terapeutik di mana perawat dan pasien mendiskusikan rencana kerja untuk pertama kalinya disebut fase...",
+    "opsi": [
+      "Pra-interaksi",
+      "Kerja",
+      "Terminasi",
+      "Orientasi / Perkenalan",
+      "Evaluasi"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Pada fase orientasi, perawat juga membangun kepercayaan (trust)."
+  },
+  {
+    "id": "KS_KP_20",
+    "pertanyaan": "Seorang pasien mengeluh sesak napas. Posisi tidur manakah yang harus segera diberikan perawat?",
+    "opsi": [
+      "Supinasi (Terlentang lurus)",
+      "Pronasi (Tengkurap)",
+      "Trendelenburg (Kaki tinggi)",
+      "Dorsal Recumbent",
+      "Semi Fowler / Fowler (Setengah duduk)"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Duduk atau setengah duduk memperluas ekspansi paru."
+  },
+  {
+    "id": "KS_KP_21",
+    "pertanyaan": "Tanda-tanda terjadinya peradangan (inflamasi) pada luka, kecuali...",
+    "opsi": [
+      "Anemia (Kurang Darah)",
+      "Dolor (Nyeri)",
+      "Calor (Panas)",
+      "Rubor (Kemerahan)",
+      "Tumor (Bengkak)"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Anemia bukan merupakan tanda lokal peradangan."
+  },
+  {
+    "id": "KS_KP_22",
+    "pertanyaan": "Pembersihan area genital (kemaluan) pada pasien yang tidak mampu melakukannya sendiri disebut...",
+    "opsi": [
+      "Oral Hygiene",
+      "Vulva Hygiene",
+      "Body Hygiene",
+      "Foot Care",
+      "Hair Care"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Penting untuk mencegah infeksi saluran kemih."
+  },
+  {
+    "id": "KS_KP_23",
+    "pertanyaan": "Alat bantu jalan yang dipakai di bawah ketiak pasien disebut...",
+    "opsi": [
+      "Walker",
+      "Kursi Roda",
+      "Kruk",
+      "Tongkat",
+      "Kran"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Kruk memindahkan tumpuan berat badan ke tangan."
+  },
+  {
+    "id": "KS_KP_24",
+    "pertanyaan": "Dalam sistem perapasan, organ yang sering disebut sebagai 'kotak suara' adalah...",
+    "opsi": [
+      "Faring",
+      "Trakea",
+      "Paru-paru",
+      "Laring",
+      "Hidung"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Laring berisi pita suara yang bergetar saat kita bicara."
+  },
+  {
+    "id": "KS_KP_25",
+    "pertanyaan": "Istilah medis untuk kekurangan sel darah merah dalam tubuh adalah...",
+    "opsi": [
+      "Hipertensi",
+      "Leukemia",
+      "Hemofilia",
+      "Diabetes",
+      "Anemia"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Gejala anemia biasanya lemas, pucat, dan sering pusing."
+  },
+  {
+    "id": "KS_KP_26",
+    "pertanyaan": "Penyakit yang ditandai dengan kadar gula darah di atas normal disebut...",
+    "opsi": [
+      "Diabetes Mellitus",
+      "Hipotensi",
+      "Gastritis",
+      "Asma",
+      "TBC"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Disebabkan oleh gangguan hormon insulin."
+  },
+  {
+    "id": "KS_KP_27",
+    "pertanyaan": "Penyempitan saluran pernapasan yang menyebabkan napas berbunyi (wheezing) disebut...",
+    "opsi": [
+      "Batuk",
+      "Asma",
+      "Bronkhitis",
+      "Pneumonia",
+      "Flu"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Asma sering dipicu oleh alergi, debu, atau cuaca dingin."
+  },
+  {
+    "id": "KS_KP_28",
+    "pertanyaan": "Nilai normal SpO2 (kadar oksigen dalam darah) yang diukur dengan oximeter adalah...",
+    "opsi": [
+      "70 - 80%",
+      "80 - 90%",
+      "95 - 100%",
+      "50 - 60%",
+      "10 - 20%"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Nilai di bawah 94% memerlukan observasi ketat atau bantuan oksigen."
+  },
+  {
+    "id": "KS_KP_29",
+    "pertanyaan": "Tindakan memasukkan cairan atau makanan cair melalui selang ke lambung disebut pemasangan...",
+    "opsi": [
+      "Infus",
+      "Kateter Urine",
+      "Oksigen Masker",
+      "NGT (Nasogastric Tube)",
+      "Splalk"
+    ],
+    "jawaban": 3,
+    "pembahasan": "NGT dimasukkan melalui lubang hidung hingga ke lambung."
+  },
+  {
+    "id": "KS_KP_30",
+    "pertanyaan": "Proses sterilisasi alat kesehatan menggunakan uap panas bertekanan tinggi dilakukan menggunakan alat...",
+    "opsi": [
+      "Oven",
+      "Kulkas Medis",
+      "Mikroskop",
+      "Sentrifuse",
+      "Autoklaf"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Autoklaf membunuh semua mikroorganisme termasuk spora bakteri."
+  },
+  {
+    "id": "KS_KP_31",
+    "pertanyaan": "Kadar normal kolesterol dalam darah sebaiknya di bawah...",
+    "opsi": [
+      "200 mg/dL",
+      "100 mg/dL",
+      "400 mg/dL",
+      "600 mg/dL",
+      "1000 mg/dL"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Kolesterol tinggi berisiko memicu penyakit jantung dan stroke."
+  },
+  {
+    "id": "KS_KP_32",
+    "pertanyaan": "Posisi tubuh di mana pasien berbaring miring dengan kaki ditekuk ke arah perut disebut...",
+    "opsi": [
+      "Knee Chest",
+      "Sims",
+      "Dorsal Recumbent",
+      "Lithotomy",
+      "Fowler"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Sering digunakan untuk pemeriksaan rektum atau pemberian obat melalui anus."
+  },
+  {
+    "id": "KS_KP_33",
+    "pertanyaan": "Tulang penyusun lengan atas manusia adalah...",
+    "opsi": [
+      "Femur",
+      "Radius",
+      "Humerus",
+      "Ulna",
+      "Tibia"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Femur adalah tulang paha, Tibia tulang kering."
+  },
+  {
+    "id": "KS_KP_34",
+    "pertanyaan": "Tulang paha yang merupakan tulang terpanjang dan terkuat di tubuh manusia disebut...",
+    "opsi": [
+      "Klavikula",
+      "Skapula",
+      "Patela",
+      "Femur",
+      "Mandibula"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Femur menopang sebagian besar berat tubuh."
+  },
+  {
+    "id": "KS_KP_35",
+    "pertanyaan": "Sistem saraf pusat terdiri dari...",
+    "opsi": [
+      "Saraf Tepi saja",
+      "Pancaindra",
+      "Otot dan Tulang",
+      "Lambung dan Intestin",
+      "Otak dan Sumsum Tulang Belakang"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Zat komando seluruh aktivitas tubuh. Jawaban yang paling tepat adalah opsi A karena sesuai dengan konsep utama pada soal, yaitu \"Otak dan Sumsum Tulang Belakang\". Opsi lain tidak dipilih karena kurang tepat, tidak lengkap, atau tidak sesuai konteks yang diminta."
+  },
+  {
+    "id": "KS_KP_36",
+    "pertanyaan": "Penerapan etika perawat 'Autonomy' berarti...",
+    "opsi": [
+      "Menghargai hak pasien untuk mengambil keputusan atas dirinya sendiri",
+      "Perawat memaksa pasien sembuh",
+      "Memberikan bantuan uang",
+      "Membayar rumah sakit",
+      "Mencarikan donor darah"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Pasien berhak menolak atau setuju (informed consent) terhadap tindakan medis."
+  },
+  {
+    "id": "KS_KP_37",
+    "pertanyaan": "Kebersihan mulut (oral hygiene) pada pasien koma bertujuan untuk...",
+    "opsi": [
+      "Agar gigi putih berkilau",
+      "Mencegah infeksi paru (Pneumonia) akibat kotoran/bakteri mulut terhirup",
+      "Agar pasien terbangun",
+      "Mengurangi bau ruangan",
+      "Menambah berat badan"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Mulut kotor menjadi sarang bakteri berbahaya bagi penderita yang lemah."
+  },
+  {
+    "id": "KS_KP_38",
+    "pertanyaan": "Tindakan memandikan pasien di atas tempat tidur dilakukan jika pasien...",
+    "opsi": [
+      "Malas ke kamar mandi",
+      "Ingin dimanjakan",
+      "Mengalami kelumpuhan atau dalam kondisi lemah (tirah baring total)",
+      "Tidak punya baju ganti",
+      "Lagi tidur siang"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Bertujuan menjaga kebersihan kulit dan kenyamanan pasien."
+  },
+  {
+    "id": "KS_KP_39",
+    "pertanyaan": "Limbah medis seperti jarum suntik bekas harus dibuang ke dalam wadah khusus bernama...",
+    "opsi": [
+      "Plastik Hitam",
+      "Plastik Kuning",
+      "Bak sampah umum",
+      "Safety Box (Wadah benda tajam)",
+      "Selokan"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Penting agar tidak menusuk petugas sampah dan mencegah penularan penyakit menular."
+  },
+  {
+    "id": "KS_KP_40",
+    "pertanyaan": "Warna plastik sampah medis untuk limbah infeksius (bekas perban, darah) adalah...",
+    "opsi": [
+      "Hitam",
+      "Merah",
+      "Ungu",
+      "Hijau",
+      "Kuning"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Plastik kuning menandakan sampah tersebut harus dimusnahkan dengan insinerator (pembakaran suhu tinggi)."
+  },
+  {
+    "id": "KS_KP_41",
+    "pertanyaan": "Lambung dalam sistem pencernaan berfungsi untuk...",
+    "opsi": [
+      "Melakukan pencernaan kimiawi dengan asam lambung dan enzim",
+      "Menyerap air",
+      "Membuang racun",
+      "Memproduksi sel darah",
+      "Mengatur suhu tubuh"
+    ],
+    "jawaban": 0,
+    "pembahasan": "Lambung menghancurkan makanan menjadi bentuk cairan (chyme)."
+  },
+  {
+    "id": "TE_KP_42",
+    "pertanyaan": "Organ tubuh yang berfungsi menetralisir racun yang masuk ke tubuh adalah...",
+    "opsi": [
+      "Jantung",
+      "Hati (Liver)",
+      "Paru-paru",
+      "Usus Halus",
+      "Ginjal"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Hati menyaring racun dari darah yang berasal dari sistem pencernaan."
+  },
+  {
+    "id": "KS_KP_43",
+    "pertanyaan": "Istilah medis untuk penglihatan jauh yang tidak jelas (rabun jauh) adalah...",
+    "opsi": [
+      "Hipermetropi",
+      "Presbiopi",
+      "Miopi",
+      "Katarak",
+      "Glaukoma"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Dapat dibantu dengan kacamata berlensa negatif (cekung)."
+  },
+  {
+    "id": "KS_KP_44",
+    "pertanyaan": "Nadi yang terletak di pergelangan tangan searah dengan jempol disebut nadi...",
+    "opsi": [
+      "Carotis",
+      "Brachialis",
+      "Femoralis",
+      "Radialis",
+      "Dorsalis Pedis"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Arteri Radialis adalah tempat paling umum mengecek nadi."
+  },
+  {
+    "id": "KS_KP_45",
+    "pertanyaan": "Nadi yang terletak di area leher disebut nadi...",
+    "opsi": [
+      "Radialis",
+      "Temporal",
+      "Poplitea",
+      "Apikal",
+      "Carotis"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Nadi karotis sering dicek saat kondisi darurat (pasien tidak sadar)."
+  },
+  {
+    "id": "KS_KP_46",
+    "pertanyaan": "Cairan infus standar yang digunakan untuk mengganti cairan tubuh yang hilang (dehidrasi) adalah...",
+    "opsi": [
+      "NaCl 0,9%",
+      "Alkohol",
+      "Sirup",
+      "Betadine",
+      "Air Mineral"
+    ],
+    "jawaban": 0,
+    "pembahasan": "NaCl 0,9% bersifat isotonis (sama dengan cairan tubuh)."
+  },
+  {
+    "id": "KS_KP_47",
+    "pertanyaan": "Seseorang yang detak jantungnya berhenti total secara tiba-tiba disebut mengalami...",
+    "opsi": [
+      "Stroke",
+      "Henti Jantung (Cardiac Arrest)",
+      "Asma",
+      "Demam",
+      "Luka"
+    ],
+    "jawaban": 1,
+    "pembahasan": "Memerlukan tindakan RJP (Resusitasi Jantung Paru) segera."
+  },
+  {
+    "id": "KS_KP_48",
+    "pertanyaan": "Alat bantu pernapasan yang menutupi hidung dan mulut pasien disebut...",
+    "opsi": [
+      "Kanula Nasal",
+      "Infus",
+      "Masker Oksigen",
+      "Termometer",
+      "Perban"
+    ],
+    "jawaban": 2,
+    "pembahasan": "Masker memberikan konsentrasi oksigen lebih tinggi dibanding kanula nasal (selang hidung)."
+  },
+  {
+    "id": "KS_KP_49",
+    "pertanyaan": "Penyakit menular yang menyerang paru-paru akibat infeksi bakteri Mycobacterium Tuberculosis adalah...",
+    "opsi": [
+      "HIV",
+      "Tipus",
+      "Kanker",
+      "TBC",
+      "DBD"
+    ],
+    "jawaban": 3,
+    "pembahasan": "Gejala TBC biasanya batuk berdahak lama (lebih dari 2-3 minggu)."
+  },
+  {
+    "id": "KS_KP_50",
+    "pertanyaan": "Ciri khas seorang asisten perawat yang profesional adalah...",
+    "opsi": [
+      "Judas dan pemarah",
+      "Sering datang terlambat",
+      "Banyak mengeluh di depan pasien",
+      "Tidak peduli kebersihan",
+      "Ramah, sabar, rapi, dan bertanggung jawab"
+    ],
+    "jawaban": 4,
+    "pembahasan": "Sikap (attitude) sangat menentukan proses penyembuhan psikis pasien."
+  }
+]

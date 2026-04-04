@@ -1,0 +1,53 @@
+{
+  "judul": "Pengembangan Perangkat Lunak dan Gim (PPLG)",
+  "tingkatan": "SMK",
+  "jurusan": "TI / PPLG",
+  "deskripsi": "Materi mengenai dasar-dasar pemrograman, algoritma, desain basis data, pengembangan web, serta pembuatan aset dan logika gim.",
+  "daftarMateri": [
+    {
+      "bab": "Bab 1: Logika dan Algoritma Dasar",
+      "konten": "Pengertian algoritma, penulisan algoritma (pseudocode dan flowchart). Struktur kontrol dasar: percabangan (if-else, switch) dan perulangan (for, while, do-while).",
+      "tag": [
+        "ti pplg materi",
+        "bab-1"
+      ]
+    },
+    {
+      "bab": "Bab 2: Pemrograman Berorientasi Objek (OOP)",
+      "konten": "Konsep class dan object, inheritance (pewarisan), encapsulation (pengkapsulan), polymorphism, serta pengenalan bahasa pemrograman seperti Java, C#, atau Python.",
+      "tag": [
+        "ti pplg materi",
+        "bab-2"
+      ]
+    },
+    {
+      "bab": "Bab 3: Pemrograman Web (Front-End & Back-End)",
+      "konten": "Struktur dokumen HTML, styling dengan CSS, interaktivitas dengan JavaScript. Pengenalan sisi server: PHP atau Node.js, serta konektivitas ke basis data.",
+      "tag": [
+        "ti pplg materi",
+        "bab-3"
+      ]
+    },
+    {
+      "bab": "Bab 4: Sistem Basis Data (Database)",
+      "konten": "Model data relasional, desain tabel, normalisasi data, serta penguasaan perintah SQL (DDL, DML, DCL). Penggunaan DBMS seperti MySQL, PostgreSQL, atau SQL Server.",
+      "tag": [
+        "ti pplg materi",
+        "bab-4"
+      ]
+    },
+    {
+      "bab": "Bab 5: Desain dan Pengembangan Gim",
+      "konten": "Pengenalan Game Engine (Unity/Godot). Pembuatan aset 2D/3D, logika pergerakan pemain, sistem skor, serta pemahaman mengenai Game Design Document (GDD).",
+      "tag": [
+        "ti pplg materi",
+        "bab-5"
+      ]
+    }
+  ],
+  "id": "ti-pplg-materi",
+  "mapel": "Pengembangan Perangkat Lunak dan Gim (PPLG)",
+  "tag": [
+    "ti pplg materi"
+  ]
+}

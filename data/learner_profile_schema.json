@@ -1,0 +1,56 @@
+{
+  "id": "learner-profile-schema",
+  "version": "v4",
+  "fields": [
+    {
+      "key": "targetExam",
+      "type": "string",
+      "required": true
+    },
+    {
+      "key": "targetCategory",
+      "type": "string",
+      "required": true
+    },
+    {
+      "key": "currentLevel",
+      "type": "string",
+      "required": true
+    },
+    {
+      "key": "weakTopics",
+      "type": "string[]",
+      "required": false
+    },
+    {
+      "key": "strongTopics",
+      "type": "string[]",
+      "required": false
+    },
+    {
+      "key": "preferredSessionMinutes",
+      "type": "number",
+      "required": false
+    },
+    {
+      "key": "preferredPracticeMode",
+      "type": "string",
+      "required": false
+    },
+    {
+      "key": "lastRoadmapStage",
+      "type": "number",
+      "required": false
+    },
+    {
+      "key": "accuracyByCategory",
+      "type": "object",
+      "required": false
+    },
+    {
+      "key": "recentTryoutScores",
+      "type": "object[]",
+      "required": false
+    }
+  ]
+}
