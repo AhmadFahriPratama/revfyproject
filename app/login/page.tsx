@@ -13,7 +13,7 @@ export default function LoginPage() {
         </section>
       }
     >
-      <LoginPanel />
+      <LoginPanel mode="login" />
     </Suspense>
   );
 }

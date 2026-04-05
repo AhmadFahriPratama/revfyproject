@@ -4,16 +4,15 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { FormEvent, useEffect, useState } from "react";
 
 import { DepthButton } from "@/components/depth-button";
-import { HeroModel } from "@/components/hero-model";
 import { LogoMark } from "@/components/logo-mark";
 import { useAuth } from "@/lib/auth";
 
 const focusOptions = ["UTBK", "CPNS", "SMK/SMA", "SMP", "Tryout Camp"];
 
-export function LoginPanel() {
+export function LoginPanel({ mode = "login" }: { mode?: "login" | "sign-in" }) {
   const router = useRouter();
   const searchParams = useSearchParams();
-  const { ready, session, login } = useAuth();
+  const { ready, session, login, register } = useAuth();
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [authCode, setAuthCode] = useState("");
@@ -21,7 +20,16 @@ export function LoginPanel() {
   const [error, setError] = useState("");
   const [submitting, setSubmitting] = useState(false);
   const normalizedUsername = username.trim().toLowerCase();
-  const requiresAuthenticator = normalizedUsername === "balrev";
+  const requiresAuthenticator = mode === "login" && normalizedUsername === "balrev";
+  const nextLink = searchParams.get("next");
+  const title = mode === "login" ? "Masuk ke akun Anda" : "Buat akun baru dengan cepat";
+  const description =
+    mode === "login"
+      ? "Masuk untuk membuka dashboard, progres belajar, bookmark, dan akses tryout yang sudah aktif."
+      : "Buat akun Revfy untuk menyimpan progres, memakai token tryout, dan lanjut belajar dari perangkat mana pun.";
+  const primaryLabel =
+    mode === "login" ? (requiresAuthenticator ? "Verifikasi & masuk" : "Masuk ke panel") : "Buat akun sekarang";
+  const alternateHref = `${mode === "login" ? "/sign-in" : "/login"}${nextLink ? `?next=${encodeURIComponent(nextLink)}` : ""}`;
 
   useEffect(() => {
     if (!ready || !session) {
@@ -53,35 +61,37 @@ export function LoginPanel() {
     setSubmitting(true);
 
     try {
-      const nextSession = await login(username, password, focus, authCode);
-      const nextPath = searchParams.get("next");
+      const nextSession =
+        mode === "login" ? await login(username, password, focus, authCode) : await register(username, password, focus);
 
-      router.push(nextSession.role === "admin" ? "/admin" : nextPath || "/dashboard");
+      router.push(nextSession.role === "admin" ? "/admin" : nextLink || "/dashboard");
     } catch (loginError) {
-      setError(loginError instanceof Error ? loginError.message : "Login gagal.");
+      setError(loginError instanceof Error ? loginError.message : mode === "login" ? "Login gagal." : "Pembuatan akun gagal.");
     } finally {
       setSubmitting(false);
     }
   };
 
   return (
-    <section className="auth-shell">
+    <section className="auth-shell auth-shell--single">
       <div className="auth-copy glass-panel">
-        <LogoMark subtitle="Masuk ke akun Revfy" />
-        <span className="eyebrow">Login</span>
-        <h1>Masuk dengan alur yang ringkas</h1>
-        <p>Akses dashboard, bookmark, dan riwayat tryout dari satu halaman login yang lebih sederhana di desktop maupun mobile.</p>
+        <LogoMark subtitle={mode === "login" ? "Masuk ke akun Revfy" : "Mulai akun Revfy baru"} />
+        <span className="eyebrow">{mode === "login" ? "Login" : "Sign In"}</span>
+        <h1>{title}</h1>
+        <p>{description}</p>
         <div className="chip-row">
           <span className="tone-chip">Ringkas</span>
-          <span className="tone-chip">Aman</span>
-          <span className="tone-chip">Responsif</span>
+          <span className="tone-chip">Mobile friendly</span>
+          <span className="tone-chip">Tanpa 3D</span>
         </div>
         <div className="auth-helper">
-          <strong>{requiresAuthenticator ? "Mode admin aktif" : "Login belajar biasa"}</strong>
+          <strong>{requiresAuthenticator ? "Mode admin aktif" : mode === "login" ? "Masuk ke akun lama" : "Pendaftaran akun baru"}</strong>
           <p>
             {requiresAuthenticator
               ? "Username balrev membutuhkan password admin dan 6 digit kode dari Google Authenticator."
-              : "Gunakan username dan password untuk masuk. Fokus belajar bisa diubah kapan saja setelah login."}
+              : mode === "login"
+                ? "Gunakan username dan password yang sudah terdaftar. Fokus belajar bisa diperbarui saat masuk."
+                : "Pilih username, password, lalu fokus belajar awal Anda untuk mulai memakai Revfy."}
           </p>
         </div>
         <form className="auth-form" onSubmit={handleSubmit}>
@@ -126,14 +136,13 @@ export function LoginPanel() {
           </label>
           {error ? <p className="form-error">{error}</p> : null}
           <div className="hero-actions">
-            <DepthButton type="submit">{submitting ? "Memproses..." : requiresAuthenticator ? "Verifikasi & masuk" : "Masuk ke panel"}</DepthButton>
-            <DepthButton href="/subscription" tone="ghost">
-              Lihat subscription
+            <DepthButton type="submit">{submitting ? "Memproses..." : primaryLabel}</DepthButton>
+            <DepthButton href={alternateHref} tone="ghost">
+              {mode === "login" ? "Buat akun baru" : "Sudah punya akun"}
             </DepthButton>
           </div>
         </form>
       </div>
-      <HeroModel variant="brand" label="Akses akun Revfy" />
     </section>
   );
 }

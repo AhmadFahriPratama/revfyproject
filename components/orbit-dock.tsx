@@ -24,6 +24,10 @@ function isActive(pathname: string, href: string) {
 export function OrbitDock() {
   const pathname = usePathname();
 
+  if (pathname === "/login" || pathname === "/sign-in") {
+    return null;
+  }
+
   return (
     <div className="orbit-dock">
       <div className="orbit-dock__panel orbit-dock__panel--desktop">
@@ -47,8 +51,6 @@ export function OrbitDock() {
             </Link>
           ))}
         </nav>
-        <ThemeToggle />
-        <BookmarkDrawer compact />
       </div>
     </div>
   );

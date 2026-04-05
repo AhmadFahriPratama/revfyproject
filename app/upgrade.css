@@ -161,6 +161,11 @@ body::before {
 .page-shell {
   width: min(1280px, calc(100% - 2rem));
   padding-top: 1.6rem;
+  padding-bottom: 8rem;
+}
+
+.app-chrome {
+  padding-bottom: 1rem;
 }
 
 .logo-mark__link {
@@ -523,6 +528,14 @@ body::before {
   place-items: center;
   min-height: 100%;
   background: radial-gradient(circle at center, rgba(118, 248, 255, 0.14), transparent 28%), var(--surface-strong);
+}
+
+.model-card__fallback--static {
+  background:
+    radial-gradient(circle at 24% 24%, rgba(118, 248, 255, 0.16), transparent 20%),
+    radial-gradient(circle at 76% 70%, rgba(127, 108, 255, 0.16), transparent 24%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0)),
+    var(--surface-strong);
 }
 
 .model-card__overlay {
@@ -1058,6 +1071,7 @@ body::before {
 .site-footer {
   align-items: flex-start;
   padding-top: 0.75rem;
+  padding-bottom: 8.5rem;
 }
 
 .site-footer__group {
@@ -1073,6 +1087,12 @@ body::before {
 
 .auth-shell {
   align-items: stretch;
+}
+
+.auth-shell--single {
+  grid-template-columns: minmax(0, 1fr);
+  width: min(100%, 680px);
+  margin: 0 auto;
 }
 
 .auth-copy {
@@ -1229,6 +1249,7 @@ body::before {
   .page-shell {
     width: min(100% - 1rem, 1280px);
     padding-top: 1rem;
+    padding-bottom: 10rem;
   }
 
   body::before {
@@ -1338,5 +1359,9 @@ body::before {
 
   .admin-analytics-grid {
     grid-template-columns: 1fr;
+  }
+
+  .site-footer {
+    padding-bottom: 10.5rem;
   }
 }

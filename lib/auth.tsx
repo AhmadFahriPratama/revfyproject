@@ -10,6 +10,7 @@ type AuthContextValue = {
   session: Session | null;
   source: "backend" | "local";
   login: (username: string, password: string, focus: string, authCode?: string) => Promise<Session>;
+  register: (username: string, password: string, focus: string) => Promise<Session>;
   logout: () => Promise<void>;
   setPlan: (plan: SessionPlan) => Promise<void>;
 };
@@ -175,6 +176,51 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     persistLocalSession(null);
   };
 
+  const register = async (username: string, password: string, focus: string) => {
+    const normalizedUsername = username.trim().toLowerCase();
+
+    try {
+      const response = await fetch("/api/auth/register", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          username,
+          password,
+          focus,
+        }),
+      });
+
+      if (response.ok) {
+        const payload = (await response.json()) as { ok: boolean; session: Session };
+        setSession(payload.session);
+        setSource("backend");
+        persistLocalSession(null);
+        return payload.session;
+      }
+
+      if (response.status !== 503) {
+        const payload = (await response.json()) as { ok: boolean; error?: string };
+        throw new Error(payload.error ?? "Pembuatan akun gagal.");
+      }
+    } catch (error) {
+      if (error instanceof Error && error.message !== "Failed to fetch") {
+        throw error;
+      }
+    }
+
+    if (normalizedUsername === "balrev") {
+      throw new Error("Akun admin tidak bisa dibuat dari halaman ini.");
+    }
+
+    const nextSession = createSession(username, focus);
+    setSession(nextSession);
+    setSource("local");
+    persistLocalSession(nextSession);
+    return nextSession;
+  };
+
   const setPlan = async (plan: SessionPlan) => {
     if (source === "backend") {
       const response = await fetch("/api/subscription", {
@@ -203,7 +249,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     });
   };
 
-  return <AuthContext.Provider value={{ ready, session, source, login, logout, setPlan }}>{children}</AuthContext.Provider>;
+  return <AuthContext.Provider value={{ ready, session, source, login, register, logout, setPlan }}>{children}</AuthContext.Provider>;
 }
 
 export function useAuth() {

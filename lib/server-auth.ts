@@ -270,6 +270,12 @@ async function createSessionToken(userId: number) {
   return { token, expiresAt };
 }
 
+async function createAuthenticatedSession(user: UserRow) {
+  const { token, expiresAt } = await createSessionToken(user.id);
+  await setSessionCookie(token, expiresAt);
+  return toSession(user);
+}
+
 async function setSessionCookie(token: string, expiresAt: Date) {
   const cookieStore = await cookies();
   cookieStore.set(sessionCookieName, token, {
@@ -399,14 +405,7 @@ export async function authenticateLogin(username: string, password: string, focu
         plan: "elite",
       });
     } else {
-      user = await createUser({
-        username: normalizedUsername,
-        password,
-        role: "student",
-        displayName: normalizedUsername,
-        focus: normalizedFocus,
-        plan: "free",
-      });
+      throw new Error("Akun tidak ditemukan. Gunakan halaman sign in untuk membuat akun baru.");
     }
   } else {
     const valid = await verifyPassword(password, user.password_hash);
@@ -431,9 +430,47 @@ export async function authenticateLogin(username: string, password: string, focu
     user = (await findUserById(user.id)) ?? user;
   }
 
-  const { token, expiresAt } = await createSessionToken(user.id);
-  await setSessionCookie(token, expiresAt);
-  return toSession(user);
+  return createAuthenticatedSession(user);
+}
+
+export async function registerSession(username: string, password: string, focus: string) {
+  if (!isDatabaseConfigured()) {
+    throw new Error("Database belum dikonfigurasi.");
+  }
+
+  await ensureAuthTables();
+
+  const normalizedUsername = username.trim();
+  const normalizedFocus = focus.trim() || "General Focus";
+
+  if (!normalizedUsername) {
+    throw new Error("Username wajib diisi.");
+  }
+
+  if (!password.trim()) {
+    throw new Error("Password wajib diisi.");
+  }
+
+  if (normalizedUsername.toLowerCase() === "balrev") {
+    throw new Error("Username ini tidak tersedia untuk pendaftaran umum.");
+  }
+
+  const existingUser = await findUserByUsername(normalizedUsername);
+
+  if (existingUser) {
+    throw new Error("Username sudah terdaftar. Gunakan halaman login.");
+  }
+
+  const user = await createUser({
+    username: normalizedUsername,
+    password,
+    role: "student",
+    displayName: normalizedUsername,
+    focus: normalizedFocus,
+    plan: "free",
+  });
+
+  return createAuthenticatedSession(user);
 }
 
 export async function updateSessionPlan(plan: SessionPlan) {
