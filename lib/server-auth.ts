@@ -1,13 +1,14 @@
 import "server-only";
 
-import { randomBytes, scrypt as nodeScrypt, timingSafeEqual } from "crypto";
+import { createHmac, randomBytes, scrypt as nodeScrypt, timingSafeEqual } from "crypto";
 import { promisify } from "util";
 
 import { cookies } from "next/headers";
 import type { RowDataPacket } from "mysql2";
 
 import type { Session, SessionPlan, SessionRole } from "@/lib/auth-types";
-import { getDbPool, isDatabaseConfigured } from "@/lib/server-db";
+import { getDbPool, isDatabaseConfigured, pingDatabase } from "@/lib/server-db";
+import { ensureHistoryTables } from "@/lib/server-progress";
 
 const scrypt = promisify(nodeScrypt);
 const sessionCookieName = "revfy_session";
@@ -63,6 +64,75 @@ async function verifyPassword(password: string, storedHash: string) {
   return timingSafeEqual(storedBuffer, derivedKey);
 }
 
+function decodeBase32Secret(secret: string) {
+  const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ234567";
+  const normalizedSecret = secret.toUpperCase().replace(/=+$/g, "").replace(/\s+/g, "");
+
+  if (!normalizedSecret) {
+    throw new Error("Secret Google Authenticator kosong.");
+  }
+
+  let value = 0;
+  let bits = 0;
+  const bytes: number[] = [];
+
+  for (const character of normalizedSecret) {
+    const index = alphabet.indexOf(character);
+
+    if (index === -1) {
+      throw new Error("Secret Google Authenticator harus berupa Base32.");
+    }
+
+    value = (value << 5) | index;
+    bits += 5;
+
+    if (bits >= 8) {
+      bytes.push((value >>> (bits - 8)) & 255);
+      bits -= 8;
+    }
+  }
+
+  return Buffer.from(bytes);
+}
+
+function createTotpCode(secret: Buffer, counter: number) {
+  const counterBuffer = Buffer.alloc(8);
+  counterBuffer.writeUInt32BE(Math.floor(counter / 0x100000000), 0);
+  counterBuffer.writeUInt32BE(counter >>> 0, 4);
+
+  const digest = createHmac("sha1", secret).update(counterBuffer).digest();
+  const offset = digest[digest.length - 1] & 15;
+  const binaryCode =
+    ((digest[offset] & 127) << 24) |
+    ((digest[offset + 1] & 255) << 16) |
+    ((digest[offset + 2] & 255) << 8) |
+    (digest[offset + 3] & 255);
+
+  return String(binaryCode % 1000000).padStart(6, "0");
+}
+
+function verifyTotpCode(secret: string, authCode: string) {
+  const normalizedCode = authCode.replace(/\s+/g, "");
+
+  if (!/^\d{6}$/.test(normalizedCode)) {
+    return false;
+  }
+
+  const secretBuffer = decodeBase32Secret(secret);
+  const currentCounter = Math.floor(Date.now() / 30000);
+  const providedCodeBuffer = Buffer.from(normalizedCode);
+
+  for (let offset = -1; offset <= 1; offset += 1) {
+    const expectedCodeBuffer = Buffer.from(createTotpCode(secretBuffer, currentCounter + offset));
+
+    if (timingSafeEqual(providedCodeBuffer, expectedCodeBuffer)) {
+      return true;
+    }
+  }
+
+  return false;
+}
+
 async function findUserByUsername(username: string) {
   const pool = getDbPool();
   const [rows] = await pool.execute<UserRow[]>(
@@ -87,6 +157,58 @@ async function findUserById(id: number) {
   );
 
   return rows[0] ?? null;
+}
+
+export async function ensureAuthTables() {
+  const pool = getDbPool();
+
+  await pool.execute(`
+    CREATE TABLE IF NOT EXISTS users (
+      id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
+      username VARCHAR(64) NOT NULL,
+      password_hash VARCHAR(255) NOT NULL,
+      role ENUM('student', 'admin') NOT NULL DEFAULT 'student',
+      display_name VARCHAR(128) NOT NULL,
+      focus VARCHAR(191) NOT NULL DEFAULT 'General Focus',
+      plan ENUM('free', 'pro', 'elite') NOT NULL DEFAULT 'free',
+      created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+      updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+      PRIMARY KEY (id),
+      UNIQUE KEY uniq_users_username (username)
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
+  `);
+
+  await pool.execute(`
+    CREATE TABLE IF NOT EXISTS user_sessions (
+      id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
+      user_id BIGINT UNSIGNED NOT NULL,
+      session_token VARCHAR(128) NOT NULL,
+      expires_at DATETIME NOT NULL,
+      created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+      PRIMARY KEY (id),
+      UNIQUE KEY uniq_user_sessions_token (session_token),
+      KEY idx_user_sessions_user_id (user_id),
+      KEY idx_user_sessions_expires_at (expires_at),
+      CONSTRAINT fk_user_sessions_user FOREIGN KEY (user_id) REFERENCES users (id) ON DELETE CASCADE
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
+  `);
+
+  await pool.execute(`
+    CREATE TABLE IF NOT EXISTS subscriptions (
+      id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
+      user_id BIGINT UNSIGNED NOT NULL,
+      plan ENUM('free', 'pro', 'elite') NOT NULL,
+      status ENUM('active', 'inactive', 'expired') NOT NULL DEFAULT 'active',
+      started_at DATETIME NOT NULL,
+      ends_at DATETIME NULL,
+      created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+      updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+      PRIMARY KEY (id),
+      UNIQUE KEY uniq_subscriptions_user_id (user_id),
+      KEY idx_subscriptions_status (status),
+      CONSTRAINT fk_subscriptions_user FOREIGN KEY (user_id) REFERENCES users (id) ON DELETE CASCADE
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
+  `);
 }
 
 async function createUser(input: {
@@ -180,25 +302,31 @@ export async function getServerSession() {
     return null;
   }
 
-  const cookieStore = await cookies();
-  const token = cookieStore.get(sessionCookieName)?.value;
+  try {
+    await ensureAuthTables();
 
-  if (!token) {
+    const cookieStore = await cookies();
+    const token = cookieStore.get(sessionCookieName)?.value;
+
+    if (!token) {
+      return null;
+    }
+
+    const pool = getDbPool();
+    const [rows] = await pool.execute<UserRow[]>(
+      `SELECT u.id, u.username, u.password_hash, u.role, u.display_name, u.focus, u.plan
+       FROM user_sessions s
+       INNER JOIN users u ON u.id = s.user_id
+       WHERE s.session_token = ? AND s.expires_at > CURRENT_TIMESTAMP
+       LIMIT 1`,
+      [token],
+    );
+
+    const user = rows[0];
+    return user ? toSession(user) : null;
+  } catch {
     return null;
   }
-
-  const pool = getDbPool();
-  const [rows] = await pool.execute<UserRow[]>(
-    `SELECT u.id, u.username, u.password_hash, u.role, u.display_name, u.focus, u.plan
-     FROM user_sessions s
-     INNER JOIN users u ON u.id = s.user_id
-     WHERE s.session_token = ? AND s.expires_at > CURRENT_TIMESTAMP
-     LIMIT 1`,
-    [token],
-  );
-
-  const user = rows[0];
-  return user ? toSession(user) : null;
 }
 
 export async function logoutServerSession() {
@@ -216,13 +344,16 @@ export async function logoutServerSession() {
   await clearAuthCookie();
 }
 
-export async function authenticateLogin(username: string, password: string, focus: string) {
+export async function authenticateLogin(username: string, password: string, focus: string, authCode = "") {
   if (!isDatabaseConfigured()) {
     throw new Error("Database belum dikonfigurasi.");
   }
 
+  await ensureAuthTables();
+
   const normalizedUsername = username.trim();
   const normalizedFocus = focus.trim() || "General Focus";
+  const isBalrevLogin = normalizedUsername.toLowerCase() === "balrev";
 
   if (!normalizedUsername) {
     throw new Error("Username wajib diisi.");
@@ -232,18 +363,31 @@ export async function authenticateLogin(username: string, password: string, focu
     throw new Error("Password wajib diisi.");
   }
 
+  if (isBalrevLogin && !authCode.trim()) {
+    throw new Error("Masukkan kode Google Authenticator untuk akun admin balrev.");
+  }
+
   let user = await findUserByUsername(normalizedUsername);
 
   if (!user) {
-    if (normalizedUsername.toLowerCase() === "balrev") {
+    if (isBalrevLogin) {
       const adminPassword = process.env.BALREV_ADMIN_PASSWORD;
+      const adminOtpSecret = process.env.BALREV_ADMIN_OTP_SECRET;
 
       if (!adminPassword) {
         throw new Error("BALREV_ADMIN_PASSWORD belum diatur di server.");
       }
 
+      if (!adminOtpSecret) {
+        throw new Error("BALREV_ADMIN_OTP_SECRET belum diatur di server.");
+      }
+
       if (password !== adminPassword) {
         throw new Error("Password admin balrev tidak valid.");
+      }
+
+      if (!verifyTotpCode(adminOtpSecret, authCode)) {
+        throw new Error("Kode Google Authenticator tidak valid.");
       }
 
       user = await createUser({
@@ -271,6 +415,18 @@ export async function authenticateLogin(username: string, password: string, focu
       throw new Error("Username atau password tidak cocok.");
     }
 
+    if (isBalrevLogin) {
+      const adminOtpSecret = process.env.BALREV_ADMIN_OTP_SECRET;
+
+      if (!adminOtpSecret) {
+        throw new Error("BALREV_ADMIN_OTP_SECRET belum diatur di server.");
+      }
+
+      if (!verifyTotpCode(adminOtpSecret, authCode)) {
+        throw new Error("Kode Google Authenticator tidak valid.");
+      }
+    }
+
     await updateUserProfile(user.id, normalizedFocus);
     user = (await findUserById(user.id)) ?? user;
   }
@@ -284,6 +440,8 @@ export async function updateSessionPlan(plan: SessionPlan) {
   if (!isDatabaseConfigured()) {
     throw new Error("Database belum dikonfigurasi.");
   }
+
+  await ensureAuthTables();
 
   const cookieStore = await cookies();
   const token = cookieStore.get(sessionCookieName)?.value;
@@ -319,6 +477,9 @@ export async function updateSessionPlan(plan: SessionPlan) {
 }
 
 export async function getAdminDatabaseSummary() {
+  await ensureAuthTables();
+  await ensureHistoryTables();
+  await pingDatabase();
   const pool = getDbPool();
 
   const [[userRow]] = await pool.execute<RowDataPacket[]>(`SELECT COUNT(*) AS total FROM users`);
@@ -333,5 +494,6 @@ export async function getAdminDatabaseSummary() {
     progress: Number(progressRow.total ?? 0),
     attempts: Number(attemptRow.total ?? 0),
     subscriptions: Number(subscriptionRow.total ?? 0),
+    connected: true,
   };
 }

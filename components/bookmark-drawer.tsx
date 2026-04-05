@@ -5,14 +5,14 @@ import { useState } from "react";
 
 import { useExperience } from "@/lib/experience";
 
-export function BookmarkDrawer() {
+export function BookmarkDrawer({ compact = false }: { compact?: boolean }) {
   const { bookmarks, toggleBookmark } = useExperience();
   const [open, setOpen] = useState(false);
 
   return (
     <>
-      <button type="button" className="orbit-dock__button" onClick={() => setOpen((current) => !current)}>
-        <span>Tersimpan</span>
+      <button type="button" className={compact ? "orbit-dock__button orbit-dock__button--compact" : "orbit-dock__button"} onClick={() => setOpen((current) => !current)}>
+        <span>{compact ? "Simpan" : "Tersimpan"}</span>
         <strong>{bookmarks.length}</strong>
       </button>
       {open ? (

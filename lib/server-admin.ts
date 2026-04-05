@@ -5,7 +5,11 @@ import { randomBytes } from "crypto";
 import type { ResultSetHeader, RowDataPacket } from "mysql2";
 
 import type { SessionPlan, SessionRole } from "@/lib/auth-types";
+import { pingDatabase } from "@/lib/server-db";
 import { getDbPool } from "@/lib/server-db";
+import { ensureAuthTables } from "@/lib/server-auth";
+import { ensureHistoryTables } from "@/lib/server-progress";
+import { ensureTryoutAccessTables } from "@/lib/server-tryout-access";
 
 type CountRow = RowDataPacket & {
   total: number;
@@ -114,6 +118,7 @@ async function findUserIdByUsername(username: string) {
 }
 
 export async function ensureAdminTables() {
+  await ensureAuthTables();
   const pool = getDbPool();
 
   await pool.execute(`
@@ -339,8 +344,12 @@ export async function createAdminRedeemCodes({
 }
 
 export async function getAdminWorkspaceSnapshot() {
+  await ensureAuthTables();
+  await ensureHistoryTables();
   await ensureAdminTables();
+  await ensureTryoutAccessTables();
   await refreshRedeemCodeStatuses();
+  await pingDatabase();
 
   const pool = getDbPool();
 
@@ -354,6 +363,8 @@ export async function getAdminWorkspaceSnapshot() {
   const [[activeRedeemRow]] = await pool.execute<CountRow[]>(
     `SELECT COUNT(*) AS total FROM redeem_codes WHERE status = 'active' AND (expires_at IS NULL OR expires_at > CURRENT_TIMESTAMP)`,
   );
+  const [[tryoutTokenRow]] = await pool.execute<CountRow[]>(`SELECT COUNT(*) AS total FROM tryout_access_tokens`);
+  const [[activeTryoutTokenRow]] = await pool.execute<CountRow[]>(`SELECT COUNT(*) AS total FROM tryout_access_tokens WHERE status = 'active'`);
 
   const [roleRows] = await pool.execute<RoleBreakdownRow[]>(
     `SELECT role, COUNT(*) AS total FROM users GROUP BY role ORDER BY total DESC, role ASC`,
@@ -376,6 +387,9 @@ export async function getAdminWorkspaceSnapshot() {
       subscriptions: Number(subscriptionRow.total ?? 0),
       redeemCodes: Number(redeemRow.total ?? 0),
       activeRedeemCodes: Number(activeRedeemRow.total ?? 0),
+      tryoutTokens: Number(tryoutTokenRow.total ?? 0),
+      activeTryoutTokens: Number(activeTryoutTokenRow.total ?? 0),
+      databaseConnected: 1,
     },
     roleBreakdown: roleRows.map((row) => ({ role: row.role, total: Number(row.total ?? 0) })),
     planBreakdown: planRows.map((row) => ({ plan: row.plan, total: Number(row.total ?? 0) })),

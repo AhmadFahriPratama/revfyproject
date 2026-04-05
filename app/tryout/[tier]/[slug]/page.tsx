@@ -3,8 +3,14 @@ import { notFound } from "next/navigation";
 import { DepthButton } from "@/components/depth-button";
 import { HeroModel } from "@/components/hero-model";
 import { PageIntro } from "@/components/page-intro";
+import { TryoutStartPanel } from "@/components/tryout-start-panel";
 import { getTryoutDetail, getTryoutDetailParams } from "@/lib/dataset";
+import { dailyTryoutTokenChannelUrl } from "@/lib/marketing";
+import { getServerSession } from "@/lib/server-auth";
+import { getTryoutAccessStatus } from "@/lib/server-tryout-access";
 import type { AccessTier } from "@/lib/catalog";
+
+export const revalidate = 300;
 
 export function generateStaticParams() {
   return getTryoutDetailParams();
@@ -23,6 +29,9 @@ export default async function TryoutDetailPage({ params }: { params: Promise<{ t
     notFound();
   }
 
+  const session = await getServerSession();
+  const access = await getTryoutAccessStatus(session, tier as AccessTier, slug);
+
   return (
     <div className="stack-xl">
       <PageIntro
@@ -31,8 +40,7 @@ export default async function TryoutDetailPage({ params }: { params: Promise<{ t
         description="Halaman ini menampilkan ringkasan set, contoh soal, dan tombol untuk mulai simulasi agar Anda bisa menilai set sebelum mengerjakannya."
         badges={[detail.entry.category, detail.entry.mode, detail.focus]}
         actions={[
-          { label: tier === "gratis" ? "Kembali ke tryout gratis" : "Kembali ke tryout berbayar", href: `/tryout/${tier}`, tone: "ghost" },
-          { label: "Mulai simulasi", href: `/simulasi/${tier}/${slug}`, tone: "cyan" },
+          { label: "Kembali ke lineup tryout", href: "/tryout", tone: "ghost" },
         ]}
         stats={[
           { label: "Tier", value: tier.toUpperCase() },
@@ -42,6 +50,8 @@ export default async function TryoutDetailPage({ params }: { params: Promise<{ t
       >
         <HeroModel variant={tier === "gratis" ? "core" : "premium"} label={`${detail.entry.category} detail tryout`} />
       </PageIntro>
+
+      <TryoutStartPanel tier={tier as AccessTier} slug={slug} title={detail.title} channelUrl={dailyTryoutTokenChannelUrl} initialAccess={access} />
 
       <section className="content-grid content-grid--three">
         {detail.extraMeta.map((item) => (

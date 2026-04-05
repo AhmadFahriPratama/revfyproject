@@ -3,20 +3,21 @@
 import { createContext, useContext, useEffect, useState } from "react";
 
 type Quality = "high" | "medium" | "lite";
-type QualityPreference = Quality | "auto";
+type ThemeMode = "dark" | "light";
 
 type PerformanceContextValue = {
   ready: boolean;
   quality: Quality;
-  preference: QualityPreference;
+  theme: ThemeMode;
   enable3d: boolean;
   reducedMotion: boolean;
   compactUi: boolean;
-  setPreference: (preference: QualityPreference) => void;
+  setTheme: (theme: ThemeMode) => void;
+  toggleTheme: () => void;
 };
 
 const PerformanceContext = createContext<PerformanceContextValue | null>(null);
-const storageKey = "revfy.performance.preference.v1";
+const storageKey = "revfy.appearance.theme.v1";
 
 function resolveQuality(width: number, reducedMotion: boolean): Quality {
   if (reducedMotion || width < 720) {
@@ -31,54 +32,66 @@ function resolveQuality(width: number, reducedMotion: boolean): Quality {
 }
 
 export function PerformanceProvider({ children }: { children: React.ReactNode }) {
-  const [preference, setPreferenceState] = useState<QualityPreference>("auto");
+  const [theme, setThemeState] = useState<ThemeMode>("dark");
   const [state, setState] = useState<PerformanceContextValue>({
     ready: false,
     quality: "medium",
-    preference: "auto",
+    theme: "dark",
     enable3d: true,
     reducedMotion: false,
     compactUi: false,
-    setPreference: () => undefined,
+    setTheme: () => undefined,
+    toggleTheme: () => undefined,
   });
 
   useEffect(() => {
     const media = window.matchMedia("(prefers-reduced-motion: reduce)");
-    const storedPreference = window.localStorage.getItem(storageKey) as QualityPreference | null;
+    const colorSchemeMedia = window.matchMedia("(prefers-color-scheme: light)");
+    const storedTheme = window.localStorage.getItem(storageKey) as ThemeMode | null;
 
-    if (storedPreference === "auto" || storedPreference === "high" || storedPreference === "medium" || storedPreference === "lite") {
-      setPreferenceState(storedPreference);
+    if (storedTheme === "dark" || storedTheme === "light") {
+      setThemeState(storedTheme);
+    } else {
+      setThemeState(colorSchemeMedia.matches ? "light" : "dark");
     }
 
     const update = () => {
       const reducedMotion = media.matches;
       const width = window.innerWidth;
-      const autoQuality = resolveQuality(width, reducedMotion);
-      const quality = preference === "auto" ? autoQuality : preference;
+      const quality = resolveQuality(width, reducedMotion);
+
+      document.documentElement.dataset.theme = theme;
 
       setState({
         ready: true,
         quality,
-        preference,
+        theme,
         enable3d: !reducedMotion && quality !== "lite",
         reducedMotion,
         compactUi: width < 960,
-        setPreference: (nextPreference) => {
-          setPreferenceState(nextPreference);
-          window.localStorage.setItem(storageKey, nextPreference);
+        setTheme: (nextTheme) => {
+          setThemeState(nextTheme);
+          window.localStorage.setItem(storageKey, nextTheme);
+        },
+        toggleTheme: () => {
+          const nextTheme = theme === "dark" ? "light" : "dark";
+          setThemeState(nextTheme);
+          window.localStorage.setItem(storageKey, nextTheme);
         },
       });
     };
 
     update();
     media.addEventListener("change", update);
+    colorSchemeMedia.addEventListener("change", update);
     window.addEventListener("resize", update);
 
     return () => {
       media.removeEventListener("change", update);
+      colorSchemeMedia.removeEventListener("change", update);
       window.removeEventListener("resize", update);
     };
-  }, [preference]);
+  }, [theme]);
 
   return <PerformanceContext.Provider value={state}>{children}</PerformanceContext.Provider>;
 }

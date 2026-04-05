@@ -15,3 +15,5 @@ next-env.d.ts
 deployment.zip
 temp_deploy_key
 temp_deploy_key.pub
+vps_key
+ssh_key_rdl.txt

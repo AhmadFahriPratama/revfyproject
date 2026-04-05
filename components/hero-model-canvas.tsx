@@ -16,6 +16,7 @@ const variants = {
 
 type VariantName = keyof typeof variants;
 type Quality = "high" | "medium" | "lite";
+type ThemeMode = "dark" | "light";
 
 function ModelCluster({ variant, quality }: { variant: VariantName; quality: Quality }) {
   const palette = variants[variant];
@@ -70,12 +71,12 @@ function ModelCluster({ variant, quality }: { variant: VariantName; quality: Qua
   );
 }
 
-export function HeroModelCanvas({ variant, quality }: { variant: VariantName; quality: Quality }) {
+export function HeroModelCanvas({ variant, quality, theme }: { variant: VariantName; quality: Quality; theme: ThemeMode }) {
   return (
     <Canvas camera={{ position: [0, 0, 5], fov: 45 }} dpr={[1, quality === "high" ? 1.6 : 1.2]}>
-      <ambientLight intensity={1} />
-      <directionalLight position={[4, 3, 4]} intensity={1.6} color="#ffffff" />
-      <pointLight position={[-4, -3, 3]} intensity={1.25} color={variants[variant].secondary} />
+      <ambientLight intensity={theme === "dark" ? 1 : 1.15} />
+      <directionalLight position={[4, 3, 4]} intensity={theme === "dark" ? 1.6 : 1.35} color="#ffffff" />
+      <pointLight position={[-4, -3, 3]} intensity={theme === "dark" ? 1.25 : 1.05} color={variants[variant].secondary} />
       <ModelCluster variant={variant} quality={quality} />
     </Canvas>
   );

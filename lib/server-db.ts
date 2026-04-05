@@ -34,3 +34,9 @@ export function getDbPool() {
 
   return pool;
 }
+
+export async function pingDatabase() {
+  const db = getDbPool();
+  await db.query("SELECT 1");
+  return true;
+}

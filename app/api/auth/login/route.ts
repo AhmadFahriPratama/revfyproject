@@ -10,10 +10,10 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ ok: false, error: "Database belum dikonfigurasi." }, { status: 503 });
   }
 
-  const body = (await request.json()) as { username?: string; password?: string; focus?: string };
+  const body = (await request.json()) as { username?: string; password?: string; focus?: string; authCode?: string };
 
   try {
-    const session = await authenticateLogin(body.username ?? "", body.password ?? "", body.focus ?? "");
+    const session = await authenticateLogin(body.username ?? "", body.password ?? "", body.focus ?? "", body.authCode ?? "");
     return NextResponse.json({ ok: true, session });
   } catch (error) {
     return NextResponse.json(

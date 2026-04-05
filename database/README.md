@@ -15,6 +15,8 @@ database/
     schema.sql
   history/
     schema.sql
+  tryout-access/
+    schema.sql
   content/
     schema.sql
 ```
@@ -33,6 +35,7 @@ Jika ingin maintain schema per domain, gunakan file sesuai folder:
 - `database/session/schema.sql`
 - `database/subscription/schema.sql`
 - `database/history/schema.sql`
+- `database/tryout-access/schema.sql`
 - `database/content/schema.sql`
 
 ## Catatan

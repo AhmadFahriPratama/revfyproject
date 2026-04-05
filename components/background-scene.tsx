@@ -14,9 +14,23 @@ const DynamicBackgroundScene = dynamic(
 );
 
 export function BackgroundScene() {
-  const { enable3d, quality } = usePerformance();
+  const { enable3d, quality, theme } = usePerformance();
   const pathname = usePathname();
   const [active, setActive] = useState(false);
+  const [allowViewportCanvas, setAllowViewportCanvas] = useState(false);
+
+  useEffect(() => {
+    const updateViewport = () => {
+      setAllowViewportCanvas(window.innerWidth > 960 && !window.matchMedia("(prefers-reduced-motion: reduce)").matches);
+    };
+
+    updateViewport();
+    window.addEventListener("resize", updateViewport);
+
+    return () => {
+      window.removeEventListener("resize", updateViewport);
+    };
+  }, []);
 
   useEffect(() => {
     const timeout = window.setTimeout(() => setActive(true), 300);
@@ -31,7 +45,7 @@ export function BackgroundScene() {
 
   return (
     <div className="scene-layer" aria-hidden="true">
-      {enable3d && allowCanvas && active ? <DynamicBackgroundScene quality={quality} /> : null}
+      {enable3d && allowCanvas && allowViewportCanvas && active ? <DynamicBackgroundScene quality={quality} theme={theme} /> : null}
       <div className="scene-poster" />
       <div className="scene-vignette" />
     </div>

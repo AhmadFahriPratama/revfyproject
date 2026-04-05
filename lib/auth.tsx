@@ -9,7 +9,7 @@ type AuthContextValue = {
   ready: boolean;
   session: Session | null;
   source: "backend" | "local";
-  login: (username: string, password: string, focus: string) => Promise<Session>;
+  login: (username: string, password: string, focus: string, authCode?: string) => Promise<Session>;
   logout: () => Promise<void>;
   setPlan: (plan: SessionPlan) => Promise<void>;
 };
@@ -20,15 +20,14 @@ const AuthContext = createContext<AuthContextValue | null>(null);
 
 function createSession(username: string, focus: string): Session {
   const normalized = username.trim();
-  const admin = normalized.toLowerCase() === "balrev";
 
   return {
     username: normalized,
-    displayName: admin ? "Balrev Control" : normalized,
-    role: admin ? "admin" : "student",
-    plan: admin ? "elite" : "free",
+    displayName: normalized,
+    role: "student",
+    plan: "free",
     focus,
-    streak: admin ? 21 : 7,
+    streak: 7,
   };
 }
 
@@ -40,7 +39,14 @@ function readLocalSession() {
   }
 
   try {
-    return JSON.parse(raw) as Session;
+    const session = JSON.parse(raw) as Session;
+
+    if (session.role === "admin") {
+      window.localStorage.removeItem(storageKey);
+      return null;
+    }
+
+    return session;
   } catch {
     window.localStorage.removeItem(storageKey);
     return null;
@@ -108,7 +114,9 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     };
   }, []);
 
-  const login = async (username: string, password: string, focus: string) => {
+  const login = async (username: string, password: string, focus: string, authCode = "") => {
+    const normalizedUsername = username.trim().toLowerCase();
+
     try {
       const response = await fetch("/api/auth/login", {
         method: "POST",
@@ -119,6 +127,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
           username,
           password,
           focus,
+          authCode,
         }),
       });
 
@@ -138,6 +147,10 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       if (error instanceof Error && error.message !== "Failed to fetch") {
         throw error;
       }
+    }
+
+    if (normalizedUsername === "balrev") {
+      throw new Error("Login admin memerlukan server aktif dan kode Google Authenticator.");
     }
 
     const nextSession = createSession(username, focus);

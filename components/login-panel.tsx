@@ -16,9 +16,12 @@ export function LoginPanel() {
   const { ready, session, login } = useAuth();
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
+  const [authCode, setAuthCode] = useState("");
   const [focus, setFocus] = useState(focusOptions[0]);
   const [error, setError] = useState("");
   const [submitting, setSubmitting] = useState(false);
+  const normalizedUsername = username.trim().toLowerCase();
+  const requiresAuthenticator = normalizedUsername === "balrev";
 
   useEffect(() => {
     if (!ready || !session) {
@@ -42,10 +45,15 @@ export function LoginPanel() {
       return;
     }
 
+    if (requiresAuthenticator && authCode.trim().length !== 6) {
+      setError("Masukkan 6 digit kode Google Authenticator untuk akun admin.");
+      return;
+    }
+
     setSubmitting(true);
 
     try {
-      const nextSession = await login(username, password, focus);
+      const nextSession = await login(username, password, focus, authCode);
       const nextPath = searchParams.get("next");
 
       router.push(nextSession.role === "admin" ? "/admin" : nextPath || "/dashboard");
@@ -61,22 +69,51 @@ export function LoginPanel() {
       <div className="auth-copy glass-panel">
         <LogoMark subtitle="Masuk ke akun Revfy" />
         <span className="eyebrow">Login</span>
-        <h1>Masuk untuk lanjut belajar</h1>
-        <p>Akses dashboard, bookmark, riwayat tryout, dan rekomendasi belajar dari satu akun.</p>
+        <h1>Masuk dengan alur yang ringkas</h1>
+        <p>Akses dashboard, bookmark, dan riwayat tryout dari satu halaman login yang lebih sederhana di desktop maupun mobile.</p>
         <div className="chip-row">
-          <span className="tone-chip">Cepat</span>
+          <span className="tone-chip">Ringkas</span>
           <span className="tone-chip">Aman</span>
-          <span className="tone-chip">Praktis</span>
+          <span className="tone-chip">Responsif</span>
+        </div>
+        <div className="auth-helper">
+          <strong>{requiresAuthenticator ? "Mode admin aktif" : "Login belajar biasa"}</strong>
+          <p>
+            {requiresAuthenticator
+              ? "Username balrev membutuhkan password admin dan 6 digit kode dari Google Authenticator."
+              : "Gunakan username dan password untuk masuk. Fokus belajar bisa diubah kapan saja setelah login."}
+          </p>
         </div>
         <form className="auth-form" onSubmit={handleSubmit}>
-          <label className="field-block">
-            <span>Username</span>
-            <input value={username} onChange={(event) => setUsername(event.target.value)} placeholder="contoh: revfyuser" />
-          </label>
-          <label className="field-block">
-            <span>Password</span>
-            <input type="password" value={password} onChange={(event) => setPassword(event.target.value)} placeholder="masukkan password login" />
-          </label>
+          <div className="auth-form__grid">
+            <label className="field-block">
+              <span>Username</span>
+              <input value={username} onChange={(event) => setUsername(event.target.value)} placeholder="contoh: revfyuser" autoComplete="username" />
+            </label>
+            <label className="field-block">
+              <span>Password</span>
+              <input
+                type="password"
+                value={password}
+                onChange={(event) => setPassword(event.target.value)}
+                placeholder="masukkan password login"
+                autoComplete="current-password"
+              />
+            </label>
+          </div>
+          {requiresAuthenticator ? (
+            <label className="field-block">
+              <span>Kode Google Authenticator</span>
+              <input
+                value={authCode}
+                onChange={(event) => setAuthCode(event.target.value.replace(/\D/g, "").slice(0, 6))}
+                placeholder="6 digit kode"
+                inputMode="numeric"
+                autoComplete="one-time-code"
+              />
+              <small className="field-hint">Masukkan kode 6 digit yang sedang aktif dari aplikasi Google Authenticator.</small>
+            </label>
+          ) : null}
           <label className="field-block">
             <span>Fokus saat ini</span>
             <select value={focus} onChange={(event) => setFocus(event.target.value)}>
@@ -89,7 +126,7 @@ export function LoginPanel() {
           </label>
           {error ? <p className="form-error">{error}</p> : null}
           <div className="hero-actions">
-            <DepthButton type="submit">{submitting ? "Memproses..." : "Masuk ke panel"}</DepthButton>
+            <DepthButton type="submit">{submitting ? "Memproses..." : requiresAuthenticator ? "Verifikasi & masuk" : "Masuk ke panel"}</DepthButton>
             <DepthButton href="/subscription" tone="ghost">
               Lihat subscription
             </DepthButton>

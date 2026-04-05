@@ -102,7 +102,7 @@ export function DashboardPanel({ recommendations, milestones }: { recommendation
         badges={[`Plan ${session.plan.toUpperCase()}`, `Fokus ${session.focus}`, `${session.streak} hari beruntun`]}
         note="Gunakan dashboard ini untuk melihat progres, membuka bookmark, dan memilih tryout berikutnya dengan lebih cepat."
         actions={[
-          { label: "Buka tryout gratis", href: "/tryout/gratis" },
+          { label: "Buka tryout harian", href: "/tryout" },
           { label: "Lihat paket", href: "/subscription", tone: "cyan" },
         ]}
         stats={[
@@ -192,10 +192,10 @@ export function DashboardPanel({ recommendations, milestones }: { recommendation
         <div>
           <span className="eyebrow">Lanjut Belajar</span>
           <h2>Naikkan intensitas latihan saat sudah siap</h2>
-          <p>Buka tryout berbayar dan pilih paket belajar yang paling sesuai dengan target Anda.</p>
+          <p>Buka lineup tryout hari ini lalu pilih paket belajar yang paling sesuai dengan target Anda.</p>
         </div>
-        <DepthButton href="/tryout/berbayar" tone="ghost">
-          Lihat tryout berbayar
+        <DepthButton href="/tryout" tone="ghost">
+          Lihat tryout hari ini
         </DepthButton>
       </section>
     </div>

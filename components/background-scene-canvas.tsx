@@ -6,6 +6,26 @@ import * as THREE from "three";
 import { useRef } from "react";
 
 type Quality = "high" | "medium" | "lite";
+type ThemeMode = "dark" | "light";
+
+const scenePalette = {
+  dark: {
+    background: "#04030b",
+    fog: "#04030b",
+    directional: "#9a8dff",
+    secondary: "#70f8ff",
+    accent: "#ff82cf",
+    sparkles: "#b8b6ff",
+  },
+  light: {
+    background: "#eef5ff",
+    fog: "#eef5ff",
+    directional: "#7d6dff",
+    secondary: "#3bc7d6",
+    accent: "#ff7eb6",
+    sparkles: "#7f8cff",
+  },
+} satisfies Record<ThemeMode, { background: string; fog: string; directional: string; secondary: string; accent: string; sparkles: string }>;
 
 const orbitalNodes = [
   { position: [3.2, 1.3, -0.8], scale: 0.36, color: "#70f8ff" },
@@ -78,20 +98,21 @@ function AmbientField({ quality }: { quality: Quality }) {
   );
 }
 
-export function BackgroundSceneCanvas({ quality }: { quality: Quality }) {
+export function BackgroundSceneCanvas({ quality, theme }: { quality: Quality; theme: ThemeMode }) {
   const starCount = quality === "high" ? 1600 : quality === "medium" ? 900 : 380;
   const sparkleCount = quality === "high" ? 48 : quality === "medium" ? 28 : 12;
+  const palette = scenePalette[theme];
 
   return (
     <Canvas camera={{ position: [0, 0, 8], fov: 52 }} dpr={[1, quality === "high" ? 1.5 : 1.2]}>
-      <color attach="background" args={["#04030b"]} />
-      <fog attach="fog" args={["#04030b", 8, 18]} />
+      <color attach="background" args={[palette.background]} />
+      <fog attach="fog" args={[palette.fog, 8, 18]} />
       <ambientLight intensity={0.8} />
-      <directionalLight position={[4, 4, 3]} intensity={1.8} color="#9a8dff" />
-      <pointLight position={[-4, -3, 2]} intensity={1.3} color="#70f8ff" />
-      <pointLight position={[5, 2, -2]} intensity={1.15} color="#ff82cf" />
+      <directionalLight position={[4, 4, 3]} intensity={1.8} color={palette.directional} />
+      <pointLight position={[-4, -3, 2]} intensity={1.3} color={palette.secondary} />
+      <pointLight position={[5, 2, -2]} intensity={1.15} color={palette.accent} />
       <Stars radius={80} depth={40} count={starCount} factor={3.4} fade speed={0.9} />
-      <Sparkles count={sparkleCount} size={4.2} scale={[11, 7, 4]} speed={0.18} color="#b8b6ff" />
+      <Sparkles count={sparkleCount} size={4.2} scale={[11, 7, 4]} speed={0.18} color={palette.sparkles} />
       <BrandMonolith />
       <AmbientField quality={quality} />
     </Canvas>

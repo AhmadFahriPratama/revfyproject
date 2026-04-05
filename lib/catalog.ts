@@ -72,6 +72,18 @@ export type TryoutCard = {
   path: string;
 };
 
+export type DailyTryoutRotation = {
+  key: string;
+  total: number;
+  freeCount: number;
+  premiumCount: number;
+  nextRefreshAt: string;
+  nextRefreshLabel: string;
+  free: TryoutCard[];
+  premium: TryoutCard[];
+  all: TryoutCard[];
+};
+
 export type MaterialTrack = {
   category: string;
   slug: string;
@@ -89,6 +101,12 @@ const matrixEntries = matrixIndex.entries as MatrixEntry[];
 const tryoutEntries = tryoutIndex.entries as IndexEntry[];
 const sprintSet = utbkFinalSprint as SprintSet;
 const authenticQuestions = informatikaAuthentic as AuthenticQuestion[];
+
+const dayMs = 24 * 60 * 60 * 1000;
+const jakartaOffsetMs = 7 * 60 * 60 * 1000;
+const dailyLineupMin = 5;
+const dailyLineupMax = 7;
+const dailyFreeSlots = 1;
 
 const categoryCopy: Record<string, string> = {
   CPNS: "Lintasan numerik dan verbal dengan simulasi padat.",
@@ -205,16 +223,10 @@ export const homeDestinations = [
     badge: "Contoh",
   },
   {
-    href: "/tryout/gratis",
-    title: "Tryout Gratis",
-    description: "Masuk cepat ke mini drill, section test, dan final sprint tanpa biaya.",
-    badge: "Gratis",
-  },
-  {
-    href: "/tryout/berbayar",
-    title: "Tryout Berbayar",
-    description: "Paket besar untuk simulasi panjang, bank soal penuh, dan mode intensif.",
-    badge: "Berbayar",
+    href: "/tryout",
+    title: "Tryout Harian",
+    description: "Lineup tryout diacak harian agar pilihan tetap fokus: 1 gratis dan sisanya premium.",
+    badge: "Harian",
   },
   {
     href: "/subscription",
@@ -246,15 +258,13 @@ export const materialTracks: MaterialTrack[] = Array.from(groupedByCategory.entr
 
 export const allTryoutCatalog = matrixEntries.map(toTryoutCard);
 
-export const freeTryouts = allTryoutCatalog
-  .filter((entry) => entry.accessTier === "gratis")
-  .slice(0, 6)
-  .map((entry) => entry);
+export const freeTryoutPool = allTryoutCatalog.filter((entry) => entry.accessTier === "gratis");
 
-export const premiumTryouts = allTryoutCatalog
-  .filter((entry) => entry.accessTier === "berbayar" && entry.itemCountValue >= 90)
-  .slice(0, 6)
-  .map((entry) => entry);
+export const premiumTryoutPool = allTryoutCatalog.filter((entry) => entry.accessTier === "berbayar" && entry.itemCountValue >= 90);
+
+export const freeTryouts = freeTryoutPool.slice(0, 6).map((entry) => entry);
+
+export const premiumTryouts = premiumTryoutPool.slice(0, 6).map((entry) => entry);
 
 export const practiceSamples = sprintSet.soal.slice(0, 4).map((question, index) => ({
   id: question.id,
@@ -340,7 +350,100 @@ export const adminModeDistribution = Array.from(
   }))
   .sort((left, right) => Number(right.total.replace(/\./g, "")) - Number(left.total.replace(/\./g, "")));
 
-export const dashboardRecommendations = [...premiumTryouts.slice(0, 3), ...freeTryouts.slice(0, 2)];
+function formatCountdown(totalMs: number) {
+  const safeMs = Math.max(totalMs, 0);
+  const totalMinutes = Math.floor(safeMs / (60 * 1000));
+  const hours = Math.floor(totalMinutes / 60);
+  const minutes = totalMinutes % 60;
+
+  if (hours === 0) {
+    return `${minutes} menit lagi`;
+  }
+
+  return `${hours} jam ${minutes.toString().padStart(2, "0")} menit lagi`;
+}
+
+function createSeed(value: string) {
+  let hash = 1779033703;
+
+  for (let index = 0; index < value.length; index += 1) {
+    hash = Math.imul(hash ^ value.charCodeAt(index), 3432918353);
+    hash = (hash << 13) | (hash >>> 19);
+  }
+
+  return hash >>> 0;
+}
+
+function createGenerator(seed: number) {
+  let state = seed >>> 0;
+
+  return () => {
+    state = (state + 0x6d2b79f5) >>> 0;
+    let value = Math.imul(state ^ (state >>> 15), 1 | state);
+    value ^= value + Math.imul(value ^ (value >>> 7), 61 | value);
+    return ((value ^ (value >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+function shuffleWithSeed<T>(items: T[], seedKey: string) {
+  const generator = createGenerator(createSeed(seedKey));
+  const next = [...items];
+
+  for (let index = next.length - 1; index > 0; index -= 1) {
+    const swapIndex = Math.floor(generator() * (index + 1));
+    [next[index], next[swapIndex]] = [next[swapIndex], next[index]];
+  }
+
+  return next;
+}
+
+function getJakartaDayNumber(date: Date) {
+  return Math.floor((date.getTime() + jakartaOffsetMs) / dayMs);
+}
+
+function getRotationKey(date: Date) {
+  const shifted = new Date(date.getTime() + jakartaOffsetMs);
+  const year = shifted.getUTCFullYear();
+  const month = `${shifted.getUTCMonth() + 1}`.padStart(2, "0");
+  const day = `${shifted.getUTCDate()}`.padStart(2, "0");
+
+  return `${year}-${month}-${day}`;
+}
+
+function getNextRefreshAt(date: Date) {
+  return new Date((getJakartaDayNumber(date) + 1) * dayMs - jakartaOffsetMs);
+}
+
+export function getDailyTryoutRotation(date = new Date()): DailyTryoutRotation {
+  const key = getRotationKey(date);
+  const nextRefresh = getNextRefreshAt(date);
+  const total = dailyLineupMin + (createSeed(`${key}:size`) % (dailyLineupMax - dailyLineupMin + 1));
+
+  const dailyFree = shuffleWithSeed(freeTryoutPool, `${key}:free`).slice(0, Math.min(dailyFreeSlots, total, freeTryoutPool.length));
+
+  const premiumSlots = Math.max(total - dailyFree.length, 0);
+  const dailyPremium = shuffleWithSeed(premiumTryoutPool, `${key}:premium`).slice(0, Math.min(premiumSlots, premiumTryoutPool.length));
+  const all = [...dailyFree, ...dailyPremium];
+
+  return {
+    key,
+    total: all.length,
+    freeCount: dailyFree.length,
+    premiumCount: dailyPremium.length,
+    nextRefreshAt: nextRefresh.toISOString(),
+    nextRefreshLabel: formatCountdown(nextRefresh.getTime() - date.getTime()),
+    free: dailyFree,
+    premium: dailyPremium,
+    all,
+  };
+}
+
+export function getDashboardRecommendations(date = new Date()) {
+  const rotation = getDailyTryoutRotation(date);
+  return [...rotation.premium.slice(0, 4), ...rotation.free.slice(0, 1)];
+}
+
+export const dashboardRecommendations = getDashboardRecommendations();
 
 export const adminExplorerItems = allTryoutCatalog.map((entry) => ({
   id: entry.id,

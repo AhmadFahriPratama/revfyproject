@@ -5,6 +5,7 @@ import { useDeferredValue, useEffect, useMemo, useState } from "react";
 import { DepthButton } from "@/components/depth-button";
 import { PageIntro } from "@/components/page-intro";
 import { useAuth, type SessionPlan, type SessionRole } from "@/lib/auth";
+import { dailyTryoutTokenChannelUrl } from "@/lib/marketing";
 
 type PageStat = {
   label: string;
@@ -21,6 +22,9 @@ type WorkspaceSummary = {
   subscriptions: number;
   redeemCodes: number;
   activeRedeemCodes: number;
+  tryoutTokens: number;
+  activeTryoutTokens: number;
+  databaseConnected: number;
 };
 
 type WorkspaceBreakdown = {
@@ -62,6 +66,19 @@ type WorkspacePayload = {
   recentRedeemCodes: RedeemCode[];
 };
 
+type TryoutToken = {
+  id: number;
+  code: string;
+  tokenScope: "gratis" | "berbayar" | "all";
+  status: "active" | "disabled" | "expired" | "depleted";
+  usageLimit: number;
+  usageCount: number;
+  note: string | null;
+  expiresAt: string | null;
+  createdAt: string;
+  createdByUsername: string | null;
+};
+
 const numberFormatter = new Intl.NumberFormat("id-ID");
 
 const emptySummary: WorkspaceSummary = {
@@ -74,6 +91,9 @@ const emptySummary: WorkspaceSummary = {
   subscriptions: 0,
   redeemCodes: 0,
   activeRedeemCodes: 0,
+  tryoutTokens: 0,
+  activeTryoutTokens: 0,
+  databaseConnected: 0,
 };
 
 const roleOptions: SessionRole[] = ["student", "admin"];
@@ -110,6 +130,23 @@ function formatCodeStatus(status: RedeemCode["status"]) {
   }
 }
 
+function formatTokenScope(scope: TryoutToken["tokenScope"]) {
+  return scope === "all" ? "Semua tryout" : scope === "gratis" ? "Gratis" : "Berbayar";
+}
+
+function formatTokenStatus(status: TryoutToken["status"]) {
+  switch (status) {
+    case "active":
+      return "Aktif";
+    case "expired":
+      return "Expired";
+    case "depleted":
+      return "Kuota habis";
+    default:
+      return "Nonaktif";
+  }
+}
+
 function toRoleBreakdown(items: Array<{ role: SessionRole; total: number }>): WorkspaceBreakdown[] {
   return items.map((item) => ({ label: formatRole(item.role), total: item.total }));
 }
@@ -120,18 +157,26 @@ function toPlanBreakdown(items: Array<{ plan: SessionPlan; total: number }>): Wo
 
 export function AdminPanel({ stats }: { stats: PageStat[] }) {
   const { session, source } = useAuth();
+  const [activeView, setActiveView] = useState<"overview" | "tokens" | "users" | "redeem">("overview");
   const [workspace, setWorkspace] = useState<WorkspacePayload | null>(null);
   const [workspaceStatus, setWorkspaceStatus] = useState("Memuat data admin...");
   const [users, setUsers] = useState<AdminUser[]>([]);
   const [usersStatus, setUsersStatus] = useState("Memuat daftar user...");
   const [codes, setCodes] = useState<RedeemCode[]>([]);
   const [codesStatus, setCodesStatus] = useState("Memuat redeem code...");
+  const [tokens, setTokens] = useState<TryoutToken[]>([]);
+  const [tokensStatus, setTokensStatus] = useState("Memuat token tryout...");
+  const [tokenFilter, setTokenFilter] = useState<"all" | "active" | "disabled" | "expired" | "depleted">("all");
   const [userQuery, setUserQuery] = useState("");
   const deferredUserQuery = useDeferredValue(userQuery);
   const [savingUsername, setSavingUsername] = useState<string | null>(null);
   const [creatingCodes, setCreatingCodes] = useState(false);
+  const [creatingTokens, setCreatingTokens] = useState(false);
+  const [updatingTokenId, setUpdatingTokenId] = useState<number | null>(null);
+  const [copyingTokenId, setCopyingTokenId] = useState<number | null>(null);
   const [roleDrafts, setRoleDrafts] = useState<Record<string, SessionRole>>({});
   const [createStatus, setCreateStatus] = useState<string | null>(null);
+  const [tokenStatus, setTokenStatus] = useState<string | null>(null);
   const [createForm, setCreateForm] = useState({
     plan: "pro" as SessionPlan,
     quantity: "3",
@@ -140,17 +185,25 @@ export function AdminPanel({ stats }: { stats: PageStat[] }) {
     expiresAt: "",
     note: "Promo admin batch terbaru",
   });
+  const [tokenForm, setTokenForm] = useState({
+    tokenScope: "berbayar" as "gratis" | "berbayar" | "all",
+    quantity: "1",
+    usageLimit: "50",
+    prefix: "DAILY",
+    expiresAt: "",
+    note: "Token gratis harian dari channel",
+  });
 
   const adminUnavailable = source === "local";
 
   const summaryCards = useMemo(
     () => [
       { label: "Pengguna", value: formatCount(workspace?.summary.users ?? emptySummary.users) },
+      { label: "Database", value: workspace?.summary.databaseConnected ? "Online" : "Offline" },
       { label: "Sesi aktif", value: formatCount(workspace?.summary.sessions ?? emptySummary.sessions) },
+      { label: "Token aktif", value: formatCount(workspace?.summary.activeTryoutTokens ?? emptySummary.activeTryoutTokens) },
       { label: "Redeem aktif", value: formatCount(workspace?.summary.activeRedeemCodes ?? emptySummary.activeRedeemCodes) },
       { label: "Subscription", value: formatCount(workspace?.summary.subscriptions ?? emptySummary.subscriptions) },
-      { label: "Progres", value: formatCount(workspace?.summary.progress ?? emptySummary.progress) },
-      { label: "Riwayat", value: formatCount(workspace?.summary.attempts ?? emptySummary.attempts) },
     ],
     [workspace],
   );
@@ -163,6 +216,8 @@ export function AdminPanel({ stats }: { stats: PageStat[] }) {
       setUsersStatus("Daftar user belum tersedia.");
       setCodes([]);
       setCodesStatus("Redeem code belum tersedia.");
+      setTokens([]);
+      setTokensStatus("Token tryout belum tersedia.");
       return;
     }
 
@@ -218,12 +273,37 @@ export function AdminPanel({ stats }: { stats: PageStat[] }) {
       }
     };
 
-    void Promise.all([loadWorkspace(), loadCodes()]);
+    const loadTokens = async () => {
+      try {
+        const response = await fetch(`/api/admin/tryout-tokens?limit=12&status=${encodeURIComponent(tokenFilter)}`, { cache: "no-store" });
+        const payload = (await response.json()) as { ok?: boolean; tokens?: TryoutToken[]; error?: string };
+
+        if (cancelled) {
+          return;
+        }
+
+        if (!response.ok) {
+          setTokens([]);
+          setTokensStatus(payload.error ?? "Token tryout tidak bisa dimuat.");
+          return;
+        }
+
+        setTokens(payload.tokens ?? []);
+        setTokensStatus("Token tryout berhasil dimuat.");
+      } catch {
+        if (!cancelled) {
+          setTokens([]);
+          setTokensStatus("Token tryout belum bisa dimuat sekarang.");
+        }
+      }
+    };
+
+    void Promise.all([loadWorkspace(), loadCodes(), loadTokens()]);
 
     return () => {
       cancelled = true;
     };
-  }, [adminUnavailable]);
+  }, [adminUnavailable, tokenFilter]);
 
   useEffect(() => {
     if (adminUnavailable) {
@@ -300,6 +380,18 @@ export function AdminPanel({ stats }: { stats: PageStat[] }) {
 
     setCodes(payload.codes ?? []);
     setCodesStatus("Redeem code berhasil dimuat.");
+  };
+
+  const refreshTokens = async () => {
+    const response = await fetch(`/api/admin/tryout-tokens?limit=12&status=${encodeURIComponent(tokenFilter)}`, { cache: "no-store" });
+    const payload = (await response.json()) as { ok?: boolean; tokens?: TryoutToken[]; error?: string };
+
+    if (!response.ok) {
+      throw new Error(payload.error ?? "Token tryout tidak bisa diperbarui.");
+    }
+
+    setTokens(payload.tokens ?? []);
+    setTokensStatus("Token tryout berhasil dimuat.");
   };
 
   const handleRoleSave = async (user: AdminUser) => {
@@ -381,6 +473,115 @@ export function AdminPanel({ stats }: { stats: PageStat[] }) {
     }
   };
 
+  const handleCreateTokens = async (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+    setCreatingTokens(true);
+    setTokenStatus("Membuat token tryout baru...");
+
+    try {
+      const response = await fetch("/api/admin/tryout-tokens", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          tokenScope: tokenForm.tokenScope,
+          quantity: Number(tokenForm.quantity),
+          usageLimit: Number(tokenForm.usageLimit),
+          prefix: tokenForm.prefix,
+          note: tokenForm.note,
+          expiresAt: tokenForm.expiresAt || undefined,
+        }),
+      });
+      const payload = (await response.json()) as { ok?: boolean; tokens?: TryoutToken[]; error?: string };
+
+      if (!response.ok || !payload.tokens) {
+        throw new Error(payload.error ?? "Token tryout gagal dibuat.");
+      }
+
+      setTokens((current) => [...payload.tokens!, ...current].slice(0, 12));
+      await refreshWorkspace();
+      await refreshTokens();
+      setTokenStatus(`${payload.tokens.length} token tryout baru berhasil dibuat.`);
+    } catch (error) {
+      setTokenStatus(error instanceof Error ? error.message : "Token tryout gagal dibuat.");
+    } finally {
+      setCreatingTokens(false);
+    }
+  };
+
+  const handleGenerateDailyToken = async () => {
+    setCreatingTokens(true);
+    setTokenStatus("Membuat atau mengambil token harian WhatsApp...");
+
+    try {
+      const response = await fetch("/api/admin/tryout-tokens", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          action: "generate_daily_whatsapp",
+          usageLimit: Number(tokenForm.usageLimit),
+        }),
+      });
+      const payload = (await response.json()) as { ok?: boolean; token?: TryoutToken; error?: string };
+
+      if (!response.ok || !payload.token) {
+        throw new Error(payload.error ?? "Token harian WhatsApp gagal dibuat.");
+      }
+
+      await refreshWorkspace();
+      await refreshTokens();
+      setTokenStatus(`Token harian siap: ${payload.token.code}`);
+    } catch (error) {
+      setTokenStatus(error instanceof Error ? error.message : "Token harian WhatsApp gagal dibuat.");
+    } finally {
+      setCreatingTokens(false);
+    }
+  };
+
+  const handleCopyToken = async (token: TryoutToken) => {
+    setCopyingTokenId(token.id);
+
+    try {
+      await navigator.clipboard.writeText(token.code);
+      setTokenStatus(`Token ${token.code} berhasil disalin.`);
+    } catch {
+      setTokenStatus(`Gagal menyalin token ${token.code}.`);
+    } finally {
+      setCopyingTokenId(null);
+    }
+  };
+
+  const handleToggleTokenStatus = async (token: TryoutToken, nextStatus: "active" | "disabled") => {
+    setUpdatingTokenId(token.id);
+    setTokenStatus(`${nextStatus === "disabled" ? "Menonaktifkan" : "Mengaktifkan"} token ${token.code}...`);
+
+    try {
+      const response = await fetch("/api/admin/tryout-tokens", {
+        method: "PATCH",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ tokenId: token.id, status: nextStatus }),
+      });
+      const payload = (await response.json()) as { ok?: boolean; token?: TryoutToken; error?: string };
+
+      if (!response.ok || !payload.token) {
+        throw new Error(payload.error ?? "Status token tidak bisa diubah.");
+      }
+
+      await refreshWorkspace();
+      await refreshTokens();
+      setTokenStatus(`Token ${payload.token.code} sekarang ${formatTokenStatus(payload.token.status).toLowerCase()}.`);
+    } catch (error) {
+      setTokenStatus(error instanceof Error ? error.message : "Status token tidak bisa diubah.");
+    } finally {
+      setUpdatingTokenId(null);
+    }
+  };
+
   if (!session) {
     return null;
   }
@@ -389,10 +590,10 @@ export function AdminPanel({ stats }: { stats: PageStat[] }) {
     <div className="stack-xl">
       <PageIntro
         eyebrow="Admin"
-        title="Panel admin yang fokus ke redeem code, role user, dan stats"
-        description="Area admin dipusatkan ke tiga pekerjaan inti: memantau statistik, membuat redeem code, dan mengubah role user dengan cepat."
+        title="Admin workspace yang lebih ringkas untuk token, user, dan database"
+        description="Panel admin disederhanakan menjadi beberapa view inti supaya pembuatan token, pengelolaan user, dan pemantauan database lebih cepat dipakai sehari-hari."
         badges={[`User ${session.username}`, `Role ${session.role.toUpperCase()}`, `Plan ${session.plan.toUpperCase()}`]}
-        note="Gunakan halaman ini untuk tugas admin yang paling sering dipakai tanpa informasi tambahan yang tidak perlu."
+        note="Pilih view yang ingin dibuka, lalu fokus ke satu jenis pekerjaan admin tanpa layar yang terlalu penuh."
         stats={stats}
       >
         <div className="glass-panel card-surface admin-hero-card">
@@ -423,7 +624,36 @@ export function AdminPanel({ stats }: { stats: PageStat[] }) {
         </div>
       </PageIntro>
 
-      <section className="content-grid content-grid--two">
+      <section className="glass-panel card-surface admin-view-switcher">
+        <div className="browser-toolbar__filters">
+          {[
+            { key: "overview", label: "Overview" },
+            { key: "tokens", label: "Token Tryout" },
+            { key: "users", label: "User" },
+            { key: "redeem", label: "Redeem Code" },
+          ].map((item) => (
+            <button
+              key={item.key}
+              type="button"
+              className={activeView === item.key ? "filter-pill filter-pill--active" : "filter-pill"}
+              onClick={() => setActiveView(item.key as "overview" | "tokens" | "users" | "redeem")}
+            >
+              {item.label}
+            </button>
+          ))}
+        </div>
+        <p className="sub-copy">
+          {activeView === "overview"
+            ? "Ringkasan database, distribusi akun, dan activity terbaru."
+            : activeView === "tokens"
+              ? "Buat dan pantau token mulai tryout yang akan dibagikan ke user."
+              : activeView === "users"
+                ? "Cari user lalu ubah role dari satu panel yang lebih fokus."
+                : "Kelola redeem code plan tanpa bercampur dengan token tryout."}
+        </p>
+      </section>
+
+      {activeView === "overview" ? <section className="content-grid content-grid--two">
         <article className="glass-panel card-surface">
           <div className="section-heading">
             <span className="eyebrow">Platform Stats</span>
@@ -476,6 +706,167 @@ export function AdminPanel({ stats }: { stats: PageStat[] }) {
           </div>
         </article>
 
+        <article className="glass-panel card-surface">
+          <div className="section-heading">
+            <span className="eyebrow">Tryout Token</span>
+            <h2>Status token mulai tryout</h2>
+          </div>
+          <p>{tokensStatus}</p>
+          <div className="analytics-grid admin-analytics-grid">
+            <article className="glass-panel stat-surface">
+              <span>Total token</span>
+              <strong>{formatCount(workspace?.summary.tryoutTokens ?? emptySummary.tryoutTokens)}</strong>
+            </article>
+            <article className="glass-panel stat-surface">
+              <span>Token aktif</span>
+              <strong>{formatCount(workspace?.summary.activeTryoutTokens ?? emptySummary.activeTryoutTokens)}</strong>
+            </article>
+            <article className="glass-panel stat-surface">
+              <span>Total grant</span>
+              <strong>{tokens.reduce((total, token) => total + token.usageCount, 0)}</strong>
+            </article>
+          </div>
+          <div className="stack-sm">
+            {tokens.slice(0, 4).map((token) => (
+              <div key={token.id} className="list-row admin-code-row">
+                <div>
+                  <strong>{token.code}</strong>
+                  <p>
+                    {formatTokenScope(token.tokenScope)} · {formatTokenStatus(token.status)} · {token.usageCount}/{token.usageLimit} dipakai
+                  </p>
+                </div>
+                <span>{token.createdByUsername ?? "system"}</span>
+              </div>
+            ))}
+          </div>
+        </article>
+      </section> : null}
+
+      {activeView === "tokens" ? <section className="content-grid content-grid--two">
+        <article className="glass-panel card-surface admin-form-panel">
+          <div className="section-heading">
+            <span className="eyebrow">Tryout Token Builder</span>
+            <h2>Buat token untuk memulai tryout</h2>
+          </div>
+          <p>Token ini cocok untuk campaign referral, token gratis harian, atau akses tryout premium tanpa upgrade plan penuh.</p>
+          <div className="glass-inset start-panel__channel">
+            <strong>Channel WhatsApp harian</strong>
+            <a href={dailyTryoutTokenChannelUrl} target="_blank" rel="noreferrer" className="inline-link">
+              {dailyTryoutTokenChannelUrl}
+            </a>
+          </div>
+          <form className="stack-md" onSubmit={handleCreateTokens}>
+            <div className="content-grid content-grid--two">
+              <label className="field-block">
+                <span>Scope</span>
+                <select value={tokenForm.tokenScope} onChange={(event) => setTokenForm((current) => ({ ...current, tokenScope: event.target.value as "gratis" | "berbayar" | "all" }))} disabled={adminUnavailable || creatingTokens}>
+                  <option value="berbayar">Berbayar</option>
+                  <option value="gratis">Gratis</option>
+                  <option value="all">Semua tryout</option>
+                </select>
+              </label>
+              <label className="field-block">
+                <span>Jumlah token</span>
+                <input type="number" min={1} max={20} value={tokenForm.quantity} onChange={(event) => setTokenForm((current) => ({ ...current, quantity: event.target.value }))} disabled={adminUnavailable || creatingTokens} />
+              </label>
+              <label className="field-block">
+                <span>Kuota pakai</span>
+                <input type="number" min={1} max={5000} value={tokenForm.usageLimit} onChange={(event) => setTokenForm((current) => ({ ...current, usageLimit: event.target.value }))} disabled={adminUnavailable || creatingTokens} />
+              </label>
+              <label className="field-block">
+                <span>Prefix</span>
+                <input value={tokenForm.prefix} onChange={(event) => setTokenForm((current) => ({ ...current, prefix: event.target.value.toUpperCase() }))} placeholder="DAILY" disabled={adminUnavailable || creatingTokens} />
+              </label>
+            </div>
+            <label className="field-block">
+              <span>Expired at</span>
+              <input type="datetime-local" value={tokenForm.expiresAt} onChange={(event) => setTokenForm((current) => ({ ...current, expiresAt: event.target.value }))} disabled={adminUnavailable || creatingTokens} />
+            </label>
+            <label className="field-block">
+              <span>Catatan</span>
+              <input value={tokenForm.note} onChange={(event) => setTokenForm((current) => ({ ...current, note: event.target.value }))} placeholder="Token gratis harian dari channel" disabled={adminUnavailable || creatingTokens} />
+            </label>
+            <div className="admin-inline-actions">
+              <DepthButton type="submit" tone="cyan" className="admin-submit-button">
+                {creatingTokens ? "Membuat token..." : "Buat token tryout"}
+              </DepthButton>
+              <DepthButton tone="ghost" onClick={() => void handleGenerateDailyToken()}>
+                Buat token harian WA
+              </DepthButton>
+              <span className="sub-copy">{tokenStatus ?? tokensStatus}</span>
+            </div>
+          </form>
+        </article>
+
+        <article className="glass-panel card-surface">
+          <div className="section-heading">
+            <span className="eyebrow">Token List</span>
+            <h2>Token tryout terbaru</h2>
+          </div>
+          <div className="browser-toolbar__filters">
+            {[
+              { key: "all", label: "Semua" },
+              { key: "active", label: "Aktif" },
+              { key: "disabled", label: "Nonaktif" },
+              { key: "expired", label: "Expired" },
+              { key: "depleted", label: "Habis" },
+            ].map((item) => (
+              <button
+                key={item.key}
+                type="button"
+                className={tokenFilter === item.key ? "filter-pill filter-pill--active" : "filter-pill"}
+                onClick={() => setTokenFilter(item.key as typeof tokenFilter)}
+              >
+                {item.label}
+              </button>
+            ))}
+          </div>
+          <p className="sub-copy">Menampilkan token dengan filter {tokenFilter === "all" ? "semua status" : tokenFilter}.</p>
+          <div className="stack-sm">
+            {tokens.length > 0 ? (
+              tokens.map((token) => (
+                <div key={token.id} className="list-row admin-code-row">
+                  <div>
+                    <strong>{token.code}</strong>
+                    <p>
+                      {formatTokenScope(token.tokenScope)} · {formatTokenStatus(token.status)} · {token.usageCount}/{token.usageLimit} dipakai
+                    </p>
+                    <p className="sub-copy">
+                      Dibuat {formatDate(token.createdAt)}
+                      {token.expiresAt ? ` · Expired ${formatDate(token.expiresAt)}` : " · Tanpa expiry"}
+                    </p>
+                    {token.note ? <p className="sub-copy">{token.note}</p> : null}
+                  </div>
+                  <div className="admin-token-actions">
+                    <span>{token.createdByUsername ?? "system"}</span>
+                    <button type="button" className="bookmark-drawer__remove" onClick={() => void handleCopyToken(token)}>
+                      {copyingTokenId === token.id ? "Menyalin..." : "Copy"}
+                    </button>
+                    {token.status === "active" || token.status === "disabled" ? (
+                      <button
+                        type="button"
+                        className="bookmark-drawer__remove"
+                        onClick={() => void handleToggleTokenStatus(token, token.status === "active" ? "disabled" : "active")}
+                      >
+                        {updatingTokenId === token.id ? "Menyimpan..." : token.status === "active" ? "Disable" : "Aktifkan"}
+                      </button>
+                    ) : null}
+                  </div>
+                </div>
+              ))
+            ) : (
+              <div className="list-row">
+                <div>
+                  <strong>Belum ada token tryout</strong>
+                  <p>Buat token pertama untuk campaign referral atau token gratis harian.</p>
+                </div>
+              </div>
+            )}
+          </div>
+        </article>
+      </section> : null}
+
+      {activeView === "redeem" ? <section className="content-grid content-grid--two">
         <article className="glass-panel card-surface admin-form-panel">
           <div className="section-heading">
             <span className="eyebrow">Redeem Builder</span>
@@ -558,9 +949,43 @@ export function AdminPanel({ stats }: { stats: PageStat[] }) {
             </div>
           </form>
         </article>
-      </section>
+        <article className="glass-panel card-surface">
+          <div className="section-heading">
+            <span className="eyebrow">Recent Codes</span>
+            <h2>Redeem code terbaru yang sudah diterbitkan</h2>
+          </div>
+          <p>{codesStatus}</p>
+          <div className="stack-sm">
+            {codes.length > 0 ? (
+              codes.map((code) => (
+                <div key={code.id} className="list-row admin-code-row">
+                  <div>
+                    <strong>{code.code}</strong>
+                    <p>
+                      {formatPlan(code.plan)} · {formatCodeStatus(code.status)} · {code.usageCount}/{code.usageLimit} terpakai
+                    </p>
+                    <p className="sub-copy">
+                      Dibuat {formatDate(code.createdAt)}
+                      {code.expiresAt ? ` · Expired ${formatDate(code.expiresAt)}` : " · Tanpa expiry"}
+                    </p>
+                    {code.note ? <p className="sub-copy">{code.note}</p> : null}
+                  </div>
+                  <span>{code.createdByUsername ?? "system"}</span>
+                </div>
+              ))
+            ) : (
+              <div className="list-row">
+                <div>
+                  <strong>Belum ada redeem code</strong>
+                  <p>Buat batch pertama dari form di samping untuk mulai membagikan akses plan.</p>
+                </div>
+              </div>
+            )}
+          </div>
+        </article>
+      </section> : null}
 
-      <section className="content-grid content-grid--two">
+      {activeView === "overview" ? <section className="content-grid content-grid--two">
         <article className="glass-panel card-surface">
           <div className="section-heading">
             <span className="eyebrow">Recent Codes</span>
@@ -625,9 +1050,9 @@ export function AdminPanel({ stats }: { stats: PageStat[] }) {
             )}
           </div>
         </article>
-      </section>
+      </section> : null}
 
-      <section className="glass-panel card-surface">
+      {activeView === "users" ? <section className="glass-panel card-surface">
         <div className="section-heading">
           <span className="eyebrow">User Roles</span>
           <h2>Edit role user langsung dari panel admin</h2>
@@ -697,7 +1122,7 @@ export function AdminPanel({ stats }: { stats: PageStat[] }) {
             </div>
           )}
         </div>
-      </section>
+      </section> : null}
     </div>
   );
 }

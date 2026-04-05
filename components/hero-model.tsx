@@ -21,19 +21,19 @@ const variantLabels = {
 type VariantName = keyof typeof variantLabels;
 
 export function HeroModel({ variant = "core", label }: { variant?: VariantName; label?: string }) {
-  const { enable3d, quality } = usePerformance();
+  const { enable3d, quality, theme } = usePerformance();
 
   return (
     <div className="model-card">
       {enable3d ? (
-        <DynamicHeroCanvas variant={variant} quality={quality} />
+        <DynamicHeroCanvas variant={variant} quality={quality} theme={theme} />
       ) : (
         <div className="model-card__fallback">
           <LogoMark subtitle="Tampilan ringan" />
         </div>
       )}
       <div className="model-card__overlay">
-        <span>{quality === "high" ? "3D tinggi" : quality === "medium" ? "3D sedang" : "3D ringan"}</span>
+        <span>{theme === "dark" ? "Visual gelap interaktif" : "Visual terang interaktif"}</span>
         <strong>{label ?? variantLabels[variant]}</strong>
       </div>
     </div>

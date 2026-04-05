@@ -16,6 +16,7 @@ type CommandLink = {
 const defaultLinks: CommandLink[] = [
   { href: "/", label: "Home", description: "Halaman utama" },
   { href: "/materi", label: "Materi", description: "Daftar materi per kategori" },
+  { href: "/tryout", label: "Tryout", description: "Lineup tryout harian yang sedang aktif" },
   { href: "/latihan-soal", label: "Latihan Soal", description: "Drill cepat dan pembahasan" },
   { href: "/soal-asli", label: "Soal Asli", description: "Contoh soal dan pembahasan" },
   { href: "/tryout/gratis", label: "Tryout Gratis", description: "Tryout yang bisa dicoba langsung" },

@@ -45,7 +45,58 @@ function safeParseArrayJson(value: string | null | undefined) {
   }
 }
 
+export async function ensureHistoryTables() {
+  const pool = getDbPool();
+
+  await pool.execute(`
+    CREATE TABLE IF NOT EXISTS user_progress (
+      id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
+      username VARCHAR(64) NOT NULL,
+      tier ENUM('gratis', 'berbayar') NOT NULL,
+      tryout_slug VARCHAR(191) NOT NULL,
+      title VARCHAR(255) NOT NULL,
+      category VARCHAR(64) NOT NULL,
+      focus VARCHAR(191) NOT NULL,
+      current_index INT NOT NULL DEFAULT 0,
+      remaining_seconds INT NOT NULL DEFAULT 0,
+      question_count INT NOT NULL DEFAULT 0,
+      answers_json LONGTEXT NOT NULL,
+      updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+      created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+      PRIMARY KEY (id),
+      UNIQUE KEY uniq_user_progress (username, tier, tryout_slug),
+      KEY idx_user_progress_username (username),
+      KEY idx_user_progress_updated_at (updated_at)
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
+  `);
+
+  await pool.execute(`
+    CREATE TABLE IF NOT EXISTS user_attempts (
+      id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
+      username VARCHAR(64) NOT NULL,
+      tryout_slug VARCHAR(191) NOT NULL,
+      tier ENUM('gratis', 'berbayar') NOT NULL,
+      title VARCHAR(255) NOT NULL,
+      category VARCHAR(64) NOT NULL,
+      focus VARCHAR(191) NOT NULL,
+      correct_count INT NOT NULL DEFAULT 0,
+      answered_count INT NOT NULL DEFAULT 0,
+      total_count INT NOT NULL DEFAULT 0,
+      score INT NOT NULL DEFAULT 0,
+      accuracy INT NOT NULL DEFAULT 0,
+      duration_minutes INT NOT NULL DEFAULT 0,
+      topic_breakdown_json LONGTEXT NOT NULL,
+      completed_at DATETIME NOT NULL,
+      created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+      PRIMARY KEY (id),
+      KEY idx_user_attempts_username (username),
+      KEY idx_user_attempts_completed_at (completed_at)
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
+  `);
+}
+
 export async function loadProgress(username: string, tier: string, slug: string) {
+  await ensureHistoryTables();
   const pool = getDbPool();
   const [rows] = await pool.execute<RowDataPacket[]>(
     `SELECT username, tier, tryout_slug, title, category, focus, current_index, remaining_seconds, question_count, answers_json, updated_at
@@ -77,6 +128,7 @@ export async function loadProgress(username: string, tier: string, slug: string)
 }
 
 export async function saveProgress(record: ProgressRecord) {
+  await ensureHistoryTables();
   const pool = getDbPool();
   await pool.execute(
     `INSERT INTO user_progress (
@@ -118,11 +170,13 @@ export async function saveProgress(record: ProgressRecord) {
 }
 
 export async function clearProgress(username: string, tier: string, slug: string) {
+  await ensureHistoryTables();
   const pool = getDbPool();
   await pool.execute(`DELETE FROM user_progress WHERE username = ? AND tier = ? AND tryout_slug = ?`, [username, tier, slug]);
 }
 
 export async function saveAttemptRecord(record: AttemptRecord) {
+  await ensureHistoryTables();
   const pool = getDbPool();
   await pool.execute(
     `INSERT INTO user_attempts (
@@ -163,6 +217,7 @@ export async function saveAttemptRecord(record: AttemptRecord) {
 }
 
 export async function listAttempts(username: string, limit: number) {
+  await ensureHistoryTables();
   const pool = getDbPool();
   const [rows] = await pool.execute<RowDataPacket[]>(
     `SELECT username, tryout_slug, tier, title, category, focus, correct_count, answered_count, total_count, score, accuracy, duration_minutes, topic_breakdown_json, completed_at, created_at

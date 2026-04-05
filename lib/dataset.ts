@@ -4,6 +4,7 @@ import path from "path";
 import {
   allTryoutCatalog,
   formatNumber,
+  getDailyTryoutRotation,
   materialTracks,
   type AccessTier,
   type MaterialTrack,
@@ -121,7 +122,7 @@ function summarizeObjectDataset(
 }
 
 export async function getTryoutDetail(tier: AccessTier, slug: string) {
-  const entry = allTryoutCatalog.find((candidate) => candidate.accessTier === tier && candidate.slug === slug);
+  const entry = getDailyTryoutRotation().all.find((candidate) => candidate.accessTier === tier && candidate.slug === slug);
 
   if (!entry) {
     return null;
@@ -208,10 +209,8 @@ export function getMaterialCategorySlugs() {
 }
 
 export function getTryoutDetailParams() {
-  return [...allTryoutCatalog.filter((entry) => entry.accessTier === "gratis").slice(0, 6), ...allTryoutCatalog.filter((entry) => entry.accessTier === "berbayar").slice(0, 6)].map(
-    (entry) => ({
-      tier: entry.accessTier,
-      slug: entry.slug,
-    }),
-  );
+  return getDailyTryoutRotation().all.map((entry) => ({
+    tier: entry.accessTier,
+    slug: entry.slug,
+  }));
 }
